@@ -1,0 +1,9 @@
+build/
+extracted/
+*.par
+*.par.orig
+*.dds
+__pycache__/
+*.pyc
+tools/ParTool.exe
+tools/SRMM-4.8.4/
