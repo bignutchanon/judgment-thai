@@ -13,7 +13,13 @@
 > ✅ **ผู้เล่นยืนยันบนจอแล้ว (5 ก.ย. บ่าย): MV ไม่มีซับแปลกอีก** — สาเหตุ reARMP ยืนยันจริง ปิด issue นี้ได้
 > ⚠ โปรเจกต์พี่น้องทุกตัวมีบั๊กนี้ — ถ้าเจอ "ซับ/ข้อความสุ่มโผล่บนจอที่ควรว่าง" ให้พอร์ตแพตช์นี้ไป
 > (ห้ามแก้ในโปรเจกต์อ่านอย่างเดียวจากที่นี่) · เช็กลิสต์ทดสอบผู้เล่นเพิ่มข้อ 6: MV เปิดเกม ไม่มีซับแปลก
-> · ✅ **แพ็กแล้ว `release/JudgmentThai-th-v1.1.1.zip` (8.3 MB · 159 bin + ui.judge.en 4 ไฟล์ · 5 ก.ย. 13:41)** หลังผู้เล่นยืนยันครบ 3 จุด (MV · CASE FILE · เมนูโดรน) · git ยังไม่ commit (รวมรอบ 19+20) · patch.md ยังเป็นฉบับ v1.0.1 — ต้องเขียน changelog v1.1/v1.1.1 ให้ wiki
+> · ✅ **แพ็กแล้ว `release/JudgmentThai-th-v1.1.1.zip` (8.3 MB · 159 bin + ui.judge.en 4 ไฟล์ · 5 ก.ย. 13:41)** หลังผู้เล่นยืนยันครบ 3 จุด (MV · CASE FILE · เมนูโดรน)
+> · 🚀 **repo ขึ้น GitHub แล้ว**: https://github.com/bignutchanon/judgment-thai (public · commit รอบ 19+20 `fc338a0` + patch.md `94ae6b7`)
+> · release **v1.1.1**: https://github.com/bignutchanon/judgment-thai/releases/tag/v1.1.1 — notes จาก `release/notes-v1.1.1.md`
+>   (สูตรเดียวกับ LJ: `gh release create vX -R bignutchanon/judgment-thai --notes-file release/notes-vX.md --latest` แล้ว `gh release upload vX release/JudgmentThai-th-vX.zip`)
+>   ⚠ ถ้า asset zip ยังไม่ขึ้นบนหน้า release = การอัปโหลดจาก session นี้ถูกบล็อก ให้เจ้าของรัน `gh release upload` เอง
+> · `patch.md` เขียนฉบับ v1.1.1 แล้ว (URL download GitHub · changelog · ร่างข่าว 4.3) พร้อมส่งให้ `yakuza-wiki`
+> · `.gitignore` เพิ่ม release/ shots/ scratch_*.txt out*.txt *.bin.json ที่ root — ของแตกจากเกม/ไฟล์แจกไม่ commit
 >
 > **รอบ 20 ต่อ (บ่าย 5 ก.ย. — ผู้เล่นส่งภาพ 2 ชุดหลังบิลด์รอบ 19):**
 > **(ก) เมนูโดรน** หัวข้อ 4 อันเป็นไทยแล้วแต่ตกลงใต้เส้นคั่นทับคำอธิบายของแถวที่เลือก — ต้นทาง:
