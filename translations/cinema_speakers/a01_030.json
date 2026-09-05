@@ -1,0 +1,215 @@
+{
+ "scene": "a01_030",
+ "rows": {
+  "1": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "The tailed target from a01_020/025, referred to as 'he' in that scene's narration; confused reaction to Yagami/Kaito's approach"
+  },
+  "2": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Recalls Yagami/Kaito claiming to be detectives while tailing him"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami); asks the debtor's name"
+  },
+  "4": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Refuses to answer, defiant"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; introduces himself by name in response"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; shows detective agency ID"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues, proposing to settle things civilly"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Demands payment of 150,000 yen"
+  },
+  "9": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Refuses/pushes back against the demand"
+  },
+  "10": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Accuses them of running a racket"
+  },
+  "11": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Threatens to sue"
+  },
+  "12": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Mocking response to the lawsuit threat, part of the aggressive 'bad cop' role Kaito plays (Yagami reins him in at row15)"
+  },
+  "13": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues mocking/escalating"
+  },
+  "14": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues escalating threats before Yagami interjects"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M elsewhere in scene; calms Kaito down, addressing him directly"
+  },
+  "16": {
+   "speaker": "White-suited Hooligan",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=White-suited Hooligan, cue=male; bystander reacting to the violence"
+  },
+  "17": {
+   "speaker": "White-suited Hooligan",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues accusing them of being yakuza rather than detectives"
+  },
+  "18": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues threatening the debtor, ignoring the bystander's accusation"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Calms Kaito again, directly addressing 'Kaito-san'"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; continues reasoning with Kaito"
+  },
+  "21": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Relents under pressure"
+  },
+  "22": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Repeats agreement in frustration"
+  },
+  "23": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Still threatens to sue despite agreeing to pay"
+  },
+  "24": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Shows his broken nose as evidence, injury caused by Kaito"
+  },
+  "25": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Dismisses the debtor's dramatics, calmer voice fits Yagami"
+  },
+  "26": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; points out the debtor threw the first punch"
+  },
+  "27": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Refuses to let it go"
+  },
+  "28": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues threatening to take it to court"
+  },
+  "29": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Notices something (Yagami's lawyer badge) mid-threat"
+  },
+  "30": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reacts to seeing the lawyer's badge (EN-B: 'You're a lawyer?')"
+  },
+  "31": {
+   "speaker": "Debtor",
+   "gender": "male",
+   "conf": "med",
+   "why": "Realizes Yagami isn't just a detective"
+  },
+  "32": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue=male; flat dismissive reply 'And?', matches Yagami's tone"
+  },
+  "33": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Challenges whether the debtor still wants to sue"
+  },
+  "34": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Builds up to a final warning"
+  },
+  "35": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Closing warning that suing him would be a bad idea, fitting Yagami's lawyer background"
+  }
+ }
+}

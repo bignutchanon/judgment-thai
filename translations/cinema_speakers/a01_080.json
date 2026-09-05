@@ -1,0 +1,59 @@
+{
+ "scene": "a01_080",
+ "rows": {
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reacts to seeing Mafuyu; continues voice thread with rows 6-7 where he is confirmed speaker"
+  },
+  "2": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Teases Yagami with nicknames Romeo/Tak; same joking voice as row 8 (cue=male(shintani))"
+  },
+  "3": {
+   "speaker": "Mafuyu Fujii",
+   "gender": "female",
+   "conf": "med",
+   "why": "Greets Yagami formally as 'Yagami-kun', matches her address style toward him elsewhere (a01_085 row4)"
+  },
+  "4": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues reassurance thread leading into row 5's explanation about Mafuyu"
+  },
+  "5": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Explains Mafuyu isn't here to win Yagami back, third-person about 'she'; continues rows 2/4 voice"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Reacts with 'Win my heart again?' - clearly the target of rows 4-5's teasing about him"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Corrects the record 'we never dated', continues his own reaction from row 6"
+  },
+  "8": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(shintani) directly on this line"
+  },
+  "9": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Addresses Mafuyu as 'M'lady Prosecutor', continuing the same joking voice as row 8"
+  }
+ }
+}

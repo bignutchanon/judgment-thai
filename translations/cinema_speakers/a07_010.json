@@ -1,0 +1,25 @@
+{
+ "scene": "a07_010",
+ "rows": {
+  "1": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "registry confirms Keigo Izumida male; addresses Yagami critically as the prosecutor antagonist"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "answers his own phone, protagonist"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami,sugiura) talk=Yagami explicit"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues the phone call, talk=Yagami hint despite mixed cue"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues call, praising the other party"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "transitions back to address Izumida after the call"},
+  "7": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "prosecutor informing Yagami of the coordinated warrant request"},
+  "8": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "explains the earlier phone call was warrant verification"},
+  "9": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "reacts worried he's the one being arrested"},
+  "10": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "clarifies Yagami isn't the one under arrest"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami hint; surprised reaction to not being the target"},
+  "12": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "continues warning Yagami not to celebrate yet"},
+  "13": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "continues, explains it's about closing the case"},
+  "14": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "addresses Yagami directly by name"},
+  "15": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "builds suspense before revealing the killer"},
+  "16": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "reveals Ayabe as Shintani's killer"},
+  "17": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "shocked reaction to the revelation about his old friend Ayabe"},
+  "18": {"speaker": "Saori", "gender": "female", "conf": "med", "why": "leads directly into row 19 which is cue-confirmed as Saori; provides forensic ballistics detail"},
+  "19": {"speaker": "Saori", "gender": "female", "conf": "high", "why": "cue=female(saori) explicit"},
+  "20": {"speaker": "Izumida", "gender": "male", "conf": "med", "why": "concluding official statement of intent to prosecute Ayabe"}
+ }
+}

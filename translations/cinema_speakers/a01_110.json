@@ -1,0 +1,197 @@
+{
+ "scene": "a01_110",
+ "rows": {
+  "1": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Defense counsel presenting the alibi video evidence in court for client Hamura"
+  },
+  "2": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Defense counsel presenting the alibi video evidence in court for client Hamura"
+  },
+  "3": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Defense counsel presenting the alibi video evidence in court for client Hamura"
+  },
+  "4": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Defense counsel presenting the alibi video evidence in court for client Hamura"
+  },
+  "5": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Defense counsel presenting the alibi video evidence in court for client Hamura"
+  },
+  "6": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues presenting the defense argument"
+  },
+  "7": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the defense argument into row 8's question"
+  },
+  "8": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Poses a question to the prosecution, continuing the defense's presentation"
+  },
+  "9": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues questioning the prosecution"
+  },
+  "10": {
+   "speaker": "Prosecutor (Izumida)",
+   "gender": "male",
+   "conf": "med",
+   "why": "Prosecution's response to the defense's question in row 9"
+  },
+  "11": {
+   "speaker": "Prosecutor (Izumida)",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the prosecution's answer"
+  },
+  "12": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Defense presses the point about not inspecting the site personally"
+  },
+  "13": {
+   "speaker": "Prosecutor (Izumida)",
+   "gender": "male",
+   "conf": "med",
+   "why": "Answers 'Yes' to the defense's question in row 12"
+  },
+  "14": {
+   "speaker": "Prosecutor (Izumida)",
+   "gender": "male",
+   "conf": "med",
+   "why": "Prosecution disputes the defense's video reliability"
+  },
+  "15": {
+   "speaker": "Prosecutor (Izumida)",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the prosecution's counter-argument from row 14"
+  },
+  "16": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Thanks the court/prosecutor and transitions to calling a witness in row 17"
+  },
+  "17": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Announces the defense wants to call a witness, continuing row 16"
+  },
+  "18": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Questions witness Seiya directly"
+  },
+  "19": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues questioning Seiya"
+  },
+  "20": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "med",
+   "why": "Witness Seiya answering the direct question posed to him in row 19"
+  },
+  "21": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues Seiya's confirmation from row 20"
+  },
+  "22": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues questioning the witness"
+  },
+  "23": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues the question from row 22"
+  },
+  "24": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "low",
+   "why": "Witness hesitates before lawyer notices in row 25; hint conflict (cue mixed, talk=Yagami likely generic 'Hm?' reuse)"
+  },
+  "25": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "high",
+   "why": "Notices the witness hesitating and asks if there's a problem"
+  },
+  "26": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "low",
+   "why": "Witness's hesitant reply continuing from row 25; hint conflict (cue=female(saori), talk=Sana) likely a generic reused 'I, um...' bark, but Seiya is the witness on the stand per row 18"
+  },
+  "27": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "low",
+   "why": "Continues witness's hesitation"
+  },
+  "28": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "med",
+   "why": "Witness backtracks on his claim, continuing rows 26-27"
+  },
+  "29": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues Seiya's testimony"
+  },
+  "30": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues Seiya's testimony"
+  },
+  "31": {
+   "speaker": "Seiya",
+   "gender": "male",
+   "conf": "med",
+   "why": "Concludes 'I can't say', continuing his testimony"
+  },
+  "32": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Defense counsel requests a recess after the witness backtracks"
+  }
+ }
+}

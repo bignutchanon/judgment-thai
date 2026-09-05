@@ -1,0 +1,11 @@
+{
+ "scene": "a13_150",
+ "rows": {
+  "1": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "reaction as the group splits up to hold off pursuers so Yagami can go ahead"},
+  "2": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "tells Yagami (implied 'you go') to move on while he stays behind to fight"},
+  "3": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "continues, telling Sugiura by name to go with Yagami too"},
+  "4": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "calls Yagami by his nickname 'Tak' as he departs, cheering him on"},
+  "5": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "turns to face the pursuers left behind after sending Yagami off"},
+  "6": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "continues confronting the pursuers, same speaker as row 5"}
+ }
+}

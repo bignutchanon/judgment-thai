@@ -1,0 +1,83 @@
+{
+ "scene": "a01_085",
+ "rows": {
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Calls out Mafuyu's name on spotting her; leads into his own row 2/3 reactions"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami) on this line, asking a stranger who they are"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Surprised reaction 'Chief Prosecutor?' continues same speaker as row 2"
+  },
+  "4": {
+   "speaker": "Mafuyu Fujii",
+   "gender": "female",
+   "conf": "med",
+   "why": "Addresses Yagami as 'Yagami-kun', her established address style"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Answers the 'what are you doing' question about walking her home"
+  },
+  "6": {
+   "speaker": "Mafuyu Fujii",
+   "gender": "female",
+   "conf": "med",
+   "why": "Playful reaction to Yagami's answer, continues row 4's speaker"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Apologises for his 'forcefulness' toward Mafuyu, continuing his own thread"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint on both A/B forms"
+  },
+  "9": {
+   "speaker": "Mafuyu Fujii",
+   "gender": "female",
+   "conf": "med",
+   "why": "Introduces Chief Prosecutor Morita to Yagami; she is the bridge between the two groups"
+  },
+  "10": {
+   "speaker": "Mafuyu Fujii",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continues the introduction from row 9"
+  },
+  "11": {
+   "speaker": "Mafuyu Fujii",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continues introducing Prosecutor Izumida, same speaker as rows 9-10"
+  },
+  "12": {
+   "speaker": "Keigo Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "Greets Yagami as 'Yagami-sensei' right after being introduced in row 11"
+  },
+  "13": {
+   "speaker": "Keigo Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues needling remark about the courtroom, same speaker as row 12"
+  }
+ }
+}

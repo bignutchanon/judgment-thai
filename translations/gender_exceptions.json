@@ -1,0 +1,4 @@
+{
+ "_note": "EN key ที่ตัวแก้เพศอัตโนมัติ (fix_dialogue_gender.py) ต้องข้าม — ใส่เหตุผลทุกครั้ง lead เท่านั้นที่เพิ่มได้",
+ "The name's Takayuki Yagami. Could you come to the Yagami Detective Agency in Nakamichi Alley?": "chat_sender ติดธง ambiguous แต่เนื้อความเป็นยากามิแนะนำตัวเองชัดเจน — คง 'ผม' ไว้ (lead 5 ก.ย. 2026)"
+}

@@ -1,0 +1,221 @@
+{
+ "scene": "a01_120",
+ "rows": {
+  "1": {
+   "speaker": "Judge",
+   "gender": "male",
+   "conf": "med",
+   "why": "Recaps the case facts leading into the formal verdict in rows 5-7"
+  },
+  "2": {
+   "speaker": "Judge",
+   "gender": "male",
+   "conf": "med",
+   "why": "Recaps the case facts leading into the formal verdict in rows 5-7"
+  },
+  "3": {
+   "speaker": "Judge",
+   "gender": "male",
+   "conf": "med",
+   "why": "Recaps the case facts leading into the formal verdict in rows 5-7"
+  },
+  "4": {
+   "speaker": "Judge",
+   "gender": "male",
+   "conf": "med",
+   "why": "Recaps the case facts leading into the formal verdict in rows 5-7"
+  },
+  "5": {
+   "speaker": "Judge",
+   "gender": "male",
+   "conf": "high",
+   "why": "Delivers the formal verdict ('We find the defendant... Innocent... Defendant, please be seated')"
+  },
+  "6": {
+   "speaker": "Judge",
+   "gender": "male",
+   "conf": "high",
+   "why": "Delivers the formal verdict ('We find the defendant... Innocent... Defendant, please be seated')"
+  },
+  "7": {
+   "speaker": "Judge",
+   "gender": "male",
+   "conf": "high",
+   "why": "Delivers the formal verdict ('We find the defendant... Innocent... Defendant, please be seated')"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "First-person reflective narration on the verdict's meaning, leading to him naming 'the Mole'"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "First-person reflective narration on the verdict's meaning, leading to him naming 'the Mole'"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "First-person reflective narration on the verdict's meaning, leading to him naming 'the Mole'"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "First-person reflective narration on the verdict's meaning, leading to him naming 'the Mole'"
+  },
+  "12": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "First-person reflective narration on the verdict's meaning, leading to him naming 'the Mole'"
+  },
+  "13": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "First-person 'I've given him a name', continuing his own narration"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Names the killer 'the Mole', continuing row 13"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues his reflective narration about being a lawyer vs detective"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "First-person 'I'm not a lawyer. Not anymore.'"
+  },
+  "17": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues first-person narration about his own search for the truth"
+  },
+  "18": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues first-person narration about his own office/reputation"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Transitional narration line, continuing the same monologue"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Concludes the narration about bringing down Hamura and the Mole"
+  },
+  "21": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Greets Yagami by name, named as Hattori in row 24"
+  },
+  "22": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues sarcastic greeting from row 21"
+  },
+  "23": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues needling Yagami about the detective business"
+  },
+  "24": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Names Hattori directly, responding to rows 21-23"
+  },
+  "25": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues his own response to Hattori"
+  },
+  "26": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds about his 'journalistic duty'"
+  },
+  "27": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues justifying his job, continuing row 26"
+  },
+  "28": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Responds about what Hattori's 'job' produces"
+  },
+  "29": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Quotes/paraphrases Hattori's article headline in disgust, continuing row 28"
+  },
+  "30": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Accuses Yagami, continuing the confrontation"
+  },
+  "31": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the accusation from row 30"
+  },
+  "32": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the accusation"
+  },
+  "33": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues, addressing 'Yagami-san' directly"
+  },
+  "34": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds calmly to Hattori's accusation"
+  },
+  "35": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "low",
+   "why": "Skeptical reply to Yagami's reassurance; hint conflict (mixed cue) likely generic short-phrase reuse"
+  },
+  "36": {
+   "speaker": "Ko Hattori",
+   "gender": "male",
+   "conf": "low",
+   "why": "Farewell line as he leaves, continuing row 35; talk=Young Barker hint looks like unrelated generic reuse"
+  }
+ }
+}

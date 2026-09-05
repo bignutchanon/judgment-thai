@@ -1,0 +1,31 @@
+{
+ "scene": "a06_020",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "reacting on seeing Shioya, protagonist confronting"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses him by name, confirming identity"},
+  "3": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "registry confirms Satoshi Shioya male; boasts about his entrance"},
+  "4": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "continues greeting Yagami"},
+  "5": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "insults his own defeated men"},
+  "6": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "continues taunting about numbers not helping"},
+  "7": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "threatens his own men, matches captain role"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "accuses Shioya of kidnapping Mafuyu"},
+  "9": {"speaker": "Shioya", "gender": "male", "conf": "med", "why": "dismisses the 'girls' (club staff) before the fight, controls the space as antagonist"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "responds to Shioya about fighting"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "asks Shioya's motive"},
+  "12": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "proposes a job to Yagami/Kaito"},
+  "13": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) talk=Yagami explicit"},
+  "14": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "explains needing an insurance policy against refusal"},
+  "15": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "explains kidnapping Mafuyu as leverage"},
+  "16": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "crude one-word rejection of Shioya's offer, fits Kaito's brash tone; registry confirms Kaito male"},
+  "17": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "continues trying to sell the job cheaply"},
+  "18": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "mocks Shioya's crew's low asking price, prompting row 19's reply"},
+  "19": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) explicit; confirms row 18's mocking remark"},
+  "20": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "continues, refuses to help the one who hit Mafuyu"},
+  "21": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "vows personal retaliation regardless of 'Tak' (Yagami) joining, fits protective/brash Kaito"},
+  "22": {"speaker": "Shioya", "gender": "male", "conf": "med", "why": "asks for a little credit/trust in response"},
+  "23": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "mocks the Shioya/Kaito banter as comedy routine"},
+  "24": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "escalates to violence, frustrated"},
+  "25": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue and talk both explicitly name Yagami"},
+  "26": {"speaker": "Shioya", "gender": "male", "conf": "high", "why": "commands his own men ('boys') to fight, matches captain role established in row 7"}
+ }
+}

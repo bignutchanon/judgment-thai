@@ -1,0 +1,77 @@
+{
+ "scene": "a02_035",
+ "rows": {
+  "1": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Instructs Kengo, continuing the a02_030 fight scene"
+  },
+  "2": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues instructing Kengo where to aim"
+  },
+  "3": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "med",
+   "why": "Kengo's obedient reply to Hamura's instruction"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Taunts Hamura, daring him to shoot personally, matching his earlier bravado"
+  },
+  "5": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reconsiders the method (eyes), continuing his instructions"
+  },
+  "6": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the morbid instruction from row 5"
+  },
+  "7": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Pressures the hesitant Kengo to act"
+  },
+  "8": {
+   "speaker": "Matsugane henchman",
+   "gender": "male",
+   "conf": "low",
+   "why": "Surprised reaction to an interruption; cue names (higashi, bougai_yakuza) suggest a Matsugane-side voice"
+  },
+  "9": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "low",
+   "why": "Shocked reaction to the interrupter's identity"
+  },
+  "10": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "The rescuer urging escape; matches the same unnamed rescuer later revealed as Yosuke in a02_040"
+  },
+  "11": {
+   "speaker": "Matsugane thug",
+   "gender": "male",
+   "conf": "low",
+   "why": "Orders pursuit of the escaping pair"
+  },
+  "12": {
+   "speaker": "Matsugane thug",
+   "gender": "male",
+   "conf": "low",
+   "why": "Continues the pursuit shout from row 11"
+  }
+ }
+}

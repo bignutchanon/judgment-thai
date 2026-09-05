@@ -1,0 +1,17 @@
+{
+ "scene": "a04_010",
+ "rows": {
+  "1": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "addresses Higashi, scolding him"},
+  "2": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "continues scolding about not following orders"},
+  "3": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; responds addressing 'boss' (Hamura)"},
+  "4": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "continues, complains Tak (Yagami) is still around"},
+  "5": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "continues scolding Higashi to do his job"},
+  "6": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "cue=male(kaito,ayabe); casual scene cut, asks Ayabe for a light"},
+  "7": {"speaker": "Ayabe", "gender": "male", "conf": "low", "why": "responds to the request for a light; attached cue/talk (Yagami) appears to be a generic reused reaction bark, discounted"},
+  "8": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "casual gossip about the captain (Hamura) being tense"},
+  "9": {"speaker": "Ayabe", "gender": "male", "conf": "low", "why": "continues the casual conversation"},
+  "10": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "continues gossiping about Hamura's mood"},
+  "11": {"speaker": "Kyorei thug", "gender": "male", "conf": "high", "why": "cue=male(kyourei_h), a registered Kyorei Clan enemy tag"},
+  "12": {"speaker": "Unknown", "gender": "unknown", "conf": "low", "why": "scream of pain from an unidentified victim of the attack; no evidence of who is hit"}
+ }
+}

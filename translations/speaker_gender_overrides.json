@@ -1,0 +1,814 @@
+{
+ "_note": "ทะเบียนเพศผู้พูดใน talk.bin ที่คนตัดสิน — ชนะข้อมูลในไฟล์เกม (ใช้โดย scripts/make_talk_speaker.py) · ค่าที่ใช้ได้: male / female / neutral (ชื่อเดียวใช้กับหลายคนต่างเพศ ต้องแปลกลาง) / unknown · ทุกแถวต้องมี why + แหล่งหลักฐาน · แถวที่ใส่ locked: true จะไม่ถูกผลทีมทับ",
+ "Yosuke": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a01 r8 own line 'this is my sister, Tsukino' + registry match 'Yosuke Saotome' = male; nearby lines use he/him/himself about him",
+  "source": "talk_overrides_P1.json"
+ },
+ "Tanago": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry match 'Kenji Tanago' = male; Ryo calls him 'little bro' (r306), Yagami says 'Mr.' (r312)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Uozumi": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry match 'Kenta Uozumi' = male; Yagami/Unreliable Chef refer to the chef in question with he, but Uozumi himself is the trainee addressed as customer 'man' by Yagami r31",
+  "source": "talk_overrides_P1.json"
+ },
+ "Tokunaga": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami's inner monologue repeatedly uses he/him about him: judge_side_a23 r33 '(Why is he suddenly...)', r57 '(He came in like a gale...)'; judge_side_a24 r13/r33 '(chase him down)'/'(He's more like a typhoon...)'",
+  "source": "talk_overrides_P1.json"
+ },
+ "Furuya": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry match 'Yasuhiro Furuya' = male; Yagami calls him 'this guy' (judge_friend_a04 r104), Inose/Yagami use he about him",
+  "source": "talk_overrides_P1.json"
+ },
+ "Tatsuro": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami addresses him directly 'Hey, man' (judge_side_a33 r203); implied husband of the drunk lady ('she thinks you're me' r206, 'her husband' r207) confirms male role",
+  "source": "talk_overrides_P1.json"
+ },
+ "Fujimori": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry match 'Shin Fujimori' = male; own line self-intro 'My name is Shin Fujimori' + friends.json 'He's a bit too melodramatic'",
+  "source": "talk_overrides_P1.json"
+ },
+ "Tateyama": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry match 'Noboru Tateyama' = male; Yagami calls him 'man'/'guy' directly (judge_friend_a37 r6, r26) and uses he/his about him (r2, r27, r40)",
+  "source": "talk_overrides_P1.json"
+ },
+ "President of Ikinari Steak": {
+  "gender": "male",
+  "conf": "high",
+  "why": "own line self-intro 'I'm Kunio Ichinose' matches registry 'Kunio Ichinose'/'kunio_ichinose' = male; Man in a Suit uses 'he' about him (r60), Yagami uses 'his' (r39, r59, r127)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Maki": {
+  "gender": "female",
+  "conf": "high",
+  "why": "Tatsuo addresses her directly as 'woman' (judge_side_a36 r24 'Sh-Shut up, woman!') right after her line questioning him about the bar",
+  "source": "talk_overrides_P1.json"
+ },
+ "Wang": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry match 'Wang / Zhuang Shi / G.I.' = male; Yagami's inner monologue uses his/he about him (judge_side_a44 r6, r8)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Yukako": {
+  "gender": "female",
+  "conf": "high",
+  "why": "own line self-intro 'Yes, Yukako Oki!'; Yagami addresses her as 'girl' (judge_side_a22 r4 'Aren't you that girl...')",
+  "source": "talk_overrides_P1.json"
+ },
+ "Taeko": {
+  "gender": "female",
+  "conf": "high",
+  "why": "own line 'my husband gave me' the ring (judge_side_a42 r53, r56) establishes her as a wife; Yagami addresses her as 'Ma'am' twice (r44, r58)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Adachi": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Kaito introduces him directly: 'This is Adachi. He and I go all the way back to middle school' (judge_side_a34 r3); also 'He was the brain, I was the brawn' (r19)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Unreliable Chef": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami's inner monologue: '(This guy doesn't know what to serve, so he's trying to coax...)' and 'I told him the wrong answer' (judge_friend_a26 r12, r22)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Drone Race Receptionist": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no gendered reference found in given lines (nearby list empty)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Iseya": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Rei calls him directly 'a cautious man, Iseya-san' (judge_side_a14 r126); Young Janitor/Yagami also use he/him about him (r68, r93)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Tatsuo": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA internal name hint 男 (辰夫); own line 'I run that bar over there with my wife' (judge_side_a36 r8) establishes him as husband/male",
+  "source": "talk_overrides_P1.json"
+ },
+ "Small Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA internal name hint 男 (小柄な男 = 'small man'); Yagami addresses him directly as 'man' (judge_side_a30 r11)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Quadra Garden Employee": {
+  "gender": "female",
+  "conf": "high",
+  "why": "own line self-reference 'Please, help a girl out!' (judge_friend_a38 r117); likely same as registry 'Kaede Sanada', employee of Quadra Garden = female",
+  "source": "talk_overrides_P1.json"
+ },
+ "Inamoto": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami addresses him directly: 'what a guy like you is gonna face in prison' (judge_side_a17 r142)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Player": {
+  "gender": "male",
+  "conf": "high",
+  "why": "speaker represents protagonist Yagami's own inner thoughts in minigames (registry: Takayuki Yagami = male); Club SEGA Employee addresses the player as 'sir' (judge_minigame_ufo r7, r9, r13)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Staff": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no direct pronoun/address found for this speaker specifically in given lines (r14 'guy' in nearby lines refers to the President, not Staff)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Homeless Kondo": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Moroboshi refers to him directly: 'This guy's always eating trash and messing up his stomach' (judge_friend_a40 r45)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Emerald Hills Employee": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami addresses him directly as 'man' (judge_friend_a18 r33 'Come on, man. I was just trying to set things straight.')",
+  "source": "talk_overrides_P1.json"
+ },
+ "Lost Boy": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA internal name hint 少年 (boy); Yagami addresses him as 'little guy' and uses he/his about him (judge_friend_a52 r176, r182)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Unremarkable Student": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Amane addresses him directly: 'You sir, over there.' (judge_friend_g03 r130), confirmed as addressed to him by his reply 'Are you talking to me?' (r132)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Industry Official?": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami's inner monologue directly identifies him: '(Is this guy... the producer she was talking about?)' (judge_side_a15 r102)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Thick Housewife": {
+  "gender": "female",
+  "conf": "high",
+  "why": "JA internal name hint 婦 (太めの主婦 = 'stout housewife'), an explicitly female-coded term",
+  "source": "talk_overrides_P1.json"
+ },
+ "Yukikawa": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "nearby gendered pronouns (he/his/Young Master/gentleman) all refer to Ryuzenji, whom Yukikawa is addressing, not to Yukikawa itself; no direct evidence for Yukikawa's own gender",
+  "source": "talk_overrides_P1.json"
+ },
+ "Tsunawatari": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "nearby gendered pronouns (she/her/ma'am) all refer to Sana, not to Tsunawatari; no direct evidence found for Tsunawatari's own gender",
+  "source": "talk_overrides_P1.json"
+ },
+ "Panicking Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA internal name hint 男性 (慌てる男性 = 'panicking man'); Yagami addresses him directly as 'man' (judge_side_a46 r5)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Hirasawa": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Kojiro introduces him directly: 'This guy's incredible, Kiriko. He's from our ad agency' (judge_side_a45 r87)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Yusuke": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami refers to the yakuza going after 'his father' (judge_side_a28 r43), 'his' referring to Yusuke (the boy), confirming male",
+  "source": "talk_overrides_P1.json"
+ },
+ "Karin": {
+  "gender": "female",
+  "conf": "high",
+  "why": "Yagami's inner monologue 'Her... She looks like Karin-chan in this photo' (judge_side_a29 r50); Azusa addresses her as 'young lady' (r73)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Guitarist Girl": {
+  "gender": "female",
+  "conf": "high",
+  "why": "JA internal name hint 女/少女 (ギターの少女 = 'guitarist girl'); own line self-intro 'yours truly, Sana Mihama' matches registry 'Sana Mihama' = female",
+  "source": "talk_overrides_P1.json"
+ },
+ "Gamo": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami's inner monologue repeatedly uses he/that guy about him (judge_side_a50 r9, r10, r16, r36, r37)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Military Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA internal name hint 男 (ミリタリー男 = 'military man'); Yagami addresses him directly as 'man' (judge_side_a46 r5)",
+  "source": "talk_overrides_P1.json"
+ },
+ "Jin": {
+  "gender": "male",
+  "conf": "high",
+  "why": "own line explicit self-reference: 'I'm her father, and I—' (judge_side_a29 r69), confirming he is Karin's father",
+  "source": "talk_overrides_P1.json"
+ },
+ "Client": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "the only nearby gendered line ('the locksmith man') addresses the locksmith (Yagami's cover role), not the Client; no evidence found for the Client's own gender",
+  "source": "talk_overrides_P1.json"
+ },
+ "Hungry Boy": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA internal name hint 少年 (飢える少年 = 'hungry boy'), an explicitly male-coded term",
+  "source": "talk_overrides_P1.json"
+ },
+ "(no name)": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "blackjack/poker dealer; 'sir' in the lines is addressed to the player, not the dealer; no pronoun or role term refers to the dealer itself",
+  "source": "talk_overrides_P2.json"
+ },
+ "Yukko": {
+  "gender": "female",
+  "conf": "high",
+  "why": "judge_friend_g04 r251 'Don't listen to her, Yagami-san! She's just a little confused', r259 'She's always been a little on the eccentric side', r260 'she hasn't changed one bit' — all spoken by Nanami about Yukko",
+  "source": "talk_overrides_P2.json"
+ },
+ "Inose": {
+  "gender": "male",
+  "conf": "high",
+  "why": "friends.json 'the manager... worried about the fate of his business'; judge_friend_a04 r6 '(This guy looks like he's about to have a meltdown... talking to him will help calm him down.)'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Terahara": {
+  "gender": "male",
+  "conf": "high",
+  "why": "friends.json 'can determine a person's measurements by using his eyes alone'; judge_friend_a39 r19 'tailor man!'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Hyuga": {
+  "gender": "male",
+  "conf": "high",
+  "why": "self-intro judge_side_a41 r10 'I'm Kotaro Hyuga, the guy who put in the request'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Ryo": {
+  "gender": "male",
+  "conf": "high",
+  "why": "friends.json 'His cane-wielding twin brother is a yakuza'; judge_friend_a16 r46-53 'my little brother's been harping' / 'so he looks up to you'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Rei": {
+  "gender": "female",
+  "conf": "high",
+  "why": "judge_side_a14 r1 '(Rei Miyamoto... Is that her?)' and r3 'Yes, Ma'am. That would make you Rei Miyamoto'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Shun": {
+  "gender": "male",
+  "conf": "high",
+  "why": "friends.json «Shun Isaka»: 'Dude's got some serious issues, but who am I to judge?' referring to this speaker",
+  "source": "talk_overrides_P2.json"
+ },
+ "Kojiro": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a45 r78 [Young Man] 'you're looking pretty rough, man' is directly answered by Kojiro's own next line r79 'Yeah, I guess. But maybe I'm just tired'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Kaede": {
+  "gender": "female",
+  "conf": "high",
+  "why": "friends.json «Kaede Sanada»: 'English is definitely not her strongest subject'; self-intro r134 'I'm Kaede Sanada'; matches characters_gender.md registry (female)",
+  "source": "talk_overrides_P2.json"
+ },
+ "Hutton": {
+  "gender": "male",
+  "conf": "high",
+  "why": "friends.json «Sebastian Hutton»: 'Has a Japanese girlfriend'; matches characters_gender.md registry Sebastian Hutton = male",
+  "source": "talk_overrides_P2.json"
+ },
+ "Exhausted Corporate Peon": {
+  "gender": "male",
+  "conf": "med",
+  "why": "judge_smoker_talk02 r62 [Homeless Yamanami] 'I was a working man, just like you' — comparison implies the peon is also a working man",
+  "source": "talk_overrides_P2.json"
+ },
+ "Shintaro": {
+  "gender": "male",
+  "conf": "high",
+  "why": "self-intro judge_side_a28 r114 'I'm Shintaro Okabayashi'; r120 [Yagami] 'why are they resorting to kidnapping your son over it?' addressed to him confirms he is Yusuke's father",
+  "source": "talk_overrides_P2.json"
+ },
+ "Asami": {
+  "gender": "female",
+  "conf": "high",
+  "why": "judge_side_a17 r128 [Yagami] 'Shut it! Stay away from her!', r129 [Inamoto] 'Asami-chan and I are bound by...', r130 'She doesn't want to be with you!' — all referring to Asami by name in the same exchange",
+  "source": "talk_overrides_P2.json"
+ },
+ "Kiriko": {
+  "gender": "female",
+  "conf": "high",
+  "why": "judge_side_a45 r244 [Yagami] '(She makes this for him personally, every time he comes in...)' referring to Kiriko serving coffee to Kojiro; also called 'Kiriko-chan' by Kojiro (r84)",
+  "source": "talk_overrides_P2.json"
+ },
+ "Alice": {
+  "gender": "female",
+  "conf": "high",
+  "why": "friends.json «Alice Ino»: 'A girl who works at Poppo... She has a sweet smile'; matches characters_gender.md registry (female)",
+  "source": "talk_overrides_P2.json"
+ },
+ "Mijore Employee": {
+  "gender": "neutral",
+  "conf": "high",
+  "why": "label used by 2 speaker ids (958/1105); lines conflict (one clearly female) — neutral",
+  "locked": true,
+  "source": "lead 2026-09-05"
+ },
+ "Onodera": {
+  "gender": "male",
+  "conf": "high",
+  "why": "friends.json «Morio Onodera»: 'A homeless guy who lives in the sewers'; matches characters_gender.md registry Morio Onodera = male",
+  "source": "talk_overrides_P2.json"
+ },
+ "Troubled Woman": {
+  "gender": "female",
+  "conf": "high",
+  "why": "internal JA name marked with developer gender hint 女 (female)",
+  "source": "talk_overrides_P2.json"
+ },
+ "Kiyoshiro": {
+  "gender": "male",
+  "conf": "high",
+  "why": "friends.json «Kiyoshiro Asamura»: 'A guy who works at Poppo'; matches characters_gender.md registry Kiyoshiro Asamura = male",
+  "source": "talk_overrides_P2.json"
+ },
+ "Fujinaga": {
+  "gender": "male",
+  "conf": "med",
+  "why": "judge_side_a49 r80 [Yagami] '(Is she heading off with that guy? They look pretty close...)' — 'that guy' refers to Fujinaga meeting Aoi",
+  "source": "talk_overrides_P2.json"
+ },
+ "Fortune-teller Lady": {
+  "gender": "female",
+  "conf": "high",
+  "why": "internal JA name marked with developer gender hint 女 (female); judge_side_a18 r4 [Yagami] addresses her as 'lady'; r10 '(She probably preys on people's insecurities...)'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Saito": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a15 r112 [Sana] 'His name is Saito-san'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Kanrai Owner": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_friend_a17 r286 [Yagami] 'Yeah, he really talked you up there, didn't he?' referring to the Kanrai Owner",
+  "source": "talk_overrides_P2.json"
+ },
+ "Panicking College Girl": {
+  "gender": "female",
+  "conf": "high",
+  "why": "internal JA name marked with developer gender hint 女 (female); judge_friend_a52 r203 [Lost Boy] 'Oh, Sis! You came!' confirms she is his older sister",
+  "source": "talk_overrides_P2.json"
+ },
+ "Cat-loving Lady": {
+  "gender": "female",
+  "conf": "high",
+  "why": "internal JA name contains 'OL' (Japanese term specifically meaning a female office worker); English display title itself contains 'Lady'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Young Barker": {
+  "gender": "male",
+  "conf": "med",
+  "why": "judge_friend_tamariba r122 [Yosuke] 'Oh, hey dude. How's life?' is the greeting addressed to the Young Barker",
+  "source": "talk_overrides_P2.json"
+ },
+ "Woman with a Kansai Dialect": {
+  "gender": "female",
+  "conf": "high",
+  "why": "internal JA name marked with developer gender hint 女 (female); judge_friend_a13 r9 [Yagami] addresses her as 'lady'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Woman in a Sexy Dress": {
+  "gender": "female",
+  "conf": "high",
+  "why": "internal JA name marked with developer gender hint 女 (female); English display title itself contains 'Woman'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Old Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_friend_a48 r141 [Yagami] '(What's that old man doing lying on the ground? Is he... okay?)' — direct 'he' pronoun for this speaker",
+  "source": "talk_overrides_P2.json"
+ },
+ "Le Marche Employee": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no gendered pronoun, address term, or role reference found in the given lines",
+  "source": "talk_overrides_P2.json"
+ },
+ "Man in Suit": {
+  "gender": "male",
+  "conf": "high",
+  "why": "internal JA name marked with developer gender hint 男 (male); English display title itself contains 'Man'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Mama": {
+  "gender": "female",
+  "conf": "med",
+  "why": "'Mama' is the standard Japanese loanword role-title for a female shop/bar proprietress (mama-san), used here as the character's assigned display name",
+  "source": "talk_overrides_P2.json"
+ },
+ "Tsubasa": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a36 r266 [Yagami] 'wow, dude. He's just doing his job, but he keeps up with her like it's nothing' — referring to Tsubasa the host and Maki",
+  "source": "talk_overrides_P2.json"
+ },
+ "Man in a Suit": {
+  "gender": "male",
+  "conf": "high",
+  "why": "internal JA name marked with developer gender hint 男 (male); English display title itself contains 'Man'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Office Lady": {
+  "gender": "female",
+  "conf": "high",
+  "why": "internal JA name is 'ＯＬ' (OL), a Japanese term specifically meaning female office worker; English display title itself contains 'Lady'",
+  "source": "talk_overrides_P2.json"
+ },
+ "Naoko": {
+  "gender": "female",
+  "conf": "high",
+  "why": "judge_side_a33 r199 [Yagami] '(How did she jump to the conclusion that I'm her husband!?)' referring to Naoko",
+  "source": "talk_overrides_P2.json"
+ },
+ "Suicidal Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "internal JA name marked with developer gender hint 男 (male); judge_side_a49 r18 [Tomioka] 'If he jumps and dies, heaven forbid... Can you try to stop him?' — direct 'he/him' for this speaker",
+  "source": "talk_overrides_P2.json"
+ },
+ "Ryuzenji's Butler": {
+  "gender": "male",
+  "conf": "high",
+  "why": "'butler' is an inherently male-gendered household-staff role title (the female equivalent role would be housekeeper/maid)",
+  "source": "talk_overrides_P2.json"
+ },
+ "Homeless Guy": {
+  "gender": "male",
+  "conf": "high",
+  "why": "English display title itself contains 'Guy'; addresses Iyama (registry-confirmed male) as a fellow customer of the shop",
+  "source": "talk_overrides_P2.json"
+ },
+ "Diligent Worker": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no gendered pronoun, address term, or role reference found in the given lines; JA internal name uses generic staff term with no gender hint marked",
+  "source": "talk_overrides_P2.json"
+ },
+ "Nekomiya": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry confirms (Masakazu Nekomiya); friends.json 'A man who feeds stray cats'; judge_friend_a19 r36/r43/r46 Yagami uses he/him repeatedly for him",
+  "source": "talk_overrides_P3.json"
+ },
+ "Bantam Owner": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry confirms (Bantam Owner, 'Revered by customers for his amicable personality')",
+  "source": "talk_overrides_P3.json"
+ },
+ "Shimazu": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a21 r99, his own line: 'She's my girlfriend!' referring to Yukako",
+  "source": "talk_overrides_P3.json"
+ },
+ "Matsuzaki": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry confirms (Fumio Matsuzaki, 'his professional demeanor befits his role as manager')",
+  "source": "talk_overrides_P3.json"
+ },
+ "Kyushu No. 1 Star Owner": {
+  "gender": "male",
+  "conf": "medium",
+  "why": "judge_friend_a09 r82, Yagami: 'he's back to his old self...his cuisine' referring to the owner",
+  "source": "talk_overrides_P3.json"
+ },
+ "Tsumugi": {
+  "gender": "female",
+  "conf": "high",
+  "why": "judge_friend_g03 r1179 'I scared her off' and r1195 'I'm glad she's happy', both Yagami referring to Tsumugi right after their own scene together",
+  "source": "talk_overrides_P3.json"
+ },
+ "Noriko Taguchi": {
+  "gender": "female",
+  "conf": "high",
+  "why": "judge_side_a11 r1 Yagami addresses her 'Ma'am'; her own r8 'my husband and I'",
+  "source": "talk_overrides_P3.json"
+ },
+ "Mami": {
+  "gender": "female",
+  "conf": "high",
+  "why": "registry confirms (Mami Sakuma); her own judge_friend_a28 r3 'my name is Mami Sakuma'",
+  "source": "talk_overrides_P3.json"
+ },
+ "Nasugawa": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry confirms (Hiroto Nasugawa, 'He's pretty down-to-earth and easy to get along with')",
+  "source": "talk_overrides_P3.json"
+ },
+ "Enthusiastic Kohai": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_smoker_talk01 r2 and r6, Tired Senpai addresses him as 'Man'",
+  "source": "talk_overrides_P3.json"
+ },
+ "Shizue": {
+  "gender": "female",
+  "conf": "medium",
+  "why": "same judge_side_a45 sidequest as M Side Cafe Employee r51 '(Her husband must know about it, but would he have told his mother?)' — Shizue is the son's mother consulting about his wife Kiriko, matching 'his mother' here",
+  "source": "talk_overrides_P3.json"
+ },
+ "Takemitsu Owner": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry confirms ('Seems like he's had nothing but trouble ever since opening up in Kamurocho')",
+  "source": "talk_overrides_P3.json"
+ },
+ "M Side Cafe Employee": {
+  "gender": "neutral",
+  "conf": "high",
+  "why": "label used by 2 speaker ids (866/1108); one female line — neutral",
+  "locked": true,
+  "source": "lead 2026-09-05"
+ },
+ "Oikawa": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no pronoun found referring to Oikawa himself in given lines; the he/him nearby (r94, r100, r101) refer to his client (the father) or a third-party salesman, not Oikawa",
+  "source": "talk_overrides_P3.json"
+ },
+ "Motomura": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_friend_a53 r112, President of Ikinari Steak: 'Motomura-kun has learned this for himself...refine his character'",
+  "source": "talk_overrides_P3.json"
+ },
+ "Sota": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry confirms (Sota Nonomura, friends.json 'He always looks exhausted')",
+  "source": "talk_overrides_P3.json"
+ },
+ "Dwayne": {
+  "gender": "male",
+  "conf": "high",
+  "why": "registry confirms (Dwayne Cruise, friends.json 'I don't know where he gets all that energy from')",
+  "source": "talk_overrides_P3.json"
+ },
+ "Tired Senpai": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no pronoun or address term referring to Tired Senpai himself found in given lines",
+  "source": "talk_overrides_P3.json"
+ },
+ "Bald Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a23 r18/r67 Yagami addresses him 'man'; r33 Yagami: '(Why is he suddenly acting like a different person...)'",
+  "source": "talk_overrides_P3.json"
+ },
+ "Young Janitor": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no pronoun/address referring to him directly found; nearby 'Ma'am' at r47 addresses Rei, not this speaker",
+  "source": "talk_overrides_P3.json"
+ },
+ "Azusa": {
+  "gender": "female",
+  "conf": "high",
+  "why": "her own judge_side_a29 r94 'my daughter'; corroborated by r99 Oikawa 'my client suspected his wife' referring to her as the father's wife",
+  "source": "talk_overrides_P3.json"
+ },
+ "???": {
+  "gender": "neutral",
+  "conf": "high",
+  "why": "speaker label shared by 6 different unnamed characters (ids 714/913/914/915/983/1042, incl. female Yurika Tachibana) — must stay gender-neutral",
+  "locked": true,
+  "source": "lead 2026-09-05"
+ },
+ "Uniformed Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA hint 男; judge_side_a33 r365 Drunk Woman: 'spend your wife's birthday' addressing him as a husband",
+  "source": "talk_overrides_P3.json"
+ },
+ "Yoshida Owner": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no gendered reference found in given lines",
+  "source": "talk_overrides_P3.json"
+ },
+ "Manager": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "nearby gendered lines (shared table judge_side_a44) refer to a cat or to Nekomiya, not to Manager himself",
+  "source": "talk_overrides_P3.json"
+ },
+ "Suspicious Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA hint 男; judge_side_a28 r108 Yagami addresses him 'sir'",
+  "source": "talk_overrides_P3.json"
+ },
+ "Club Sega Employee": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no gendered reference found in given lines",
+  "source": "talk_overrides_P3.json"
+ },
+ "Akaushimaru Employee": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no gendered reference found in given lines",
+  "source": "talk_overrides_P3.json"
+ },
+ "Scared Student": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a32 multiple Yagami inner lines use he/him for this character (r168, r182, r183, r476, r478, r484, r507)",
+  "source": "talk_overrides_P3.json"
+ },
+ "Middle-aged Barker": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "nearby gendered address terms (dude/man) in given lines appear directed at Yosuke, not clearly at Middle-aged Barker himself",
+  "source": "talk_overrides_P3.json"
+ },
+ "Shakedown Subordinate": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA hint 弟 (younger-brother role); his own lines address superior as 'Aniki' (yakuza elder-brother role), a male junior-senior pairing",
+  "source": "talk_overrides_P3.json"
+ },
+ "Tourist from Overseas": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_friend_a38 r7 Yagami: 'all he wants to know is where the restroom is' referring to the tourist",
+  "source": "talk_overrides_P3.json"
+ },
+ "Drone Lab Receptionist": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no gendered reference found in given lines",
+  "source": "talk_overrides_P3.json"
+ },
+ "Old Receptionist": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a29 r151 Frivolous Young Man addresses him 'old man'; r146 Yagami: '(this guy...)'",
+  "source": "talk_overrides_P3.json"
+ },
+ "Thugs": {
+  "gender": "male",
+  "conf": "medium",
+  "why": "judge_minigame_sugoroku r71 Lullaby Employee: 'this guy who's been causing a lot of problems' referring to Thugs",
+  "source": "talk_overrides_P3.json"
+ },
+ "Ota": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no direct pronoun for Ota found; nearby her references are about Sana Mihama, not Ota; the friends.json quotes matched to this entry (Sota Nonomura/Naotaro Terahara) appear to be unrelated data artifacts, not Ota's own profile",
+  "source": "talk_overrides_P3.json"
+ },
+ "Hunting Man": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA hint 男 (ハンチングの男)",
+  "source": "talk_overrides_P3.json"
+ },
+ "Thug with Spunk": {
+  "gender": "unknown",
+  "conf": "low",
+  "why": "no gendered reference found for this speaker in given lines; the nearby 'Mr.' line is Tanago introducing himself, not this speaker",
+  "source": "talk_overrides_P3.json"
+ },
+ "Ryuzenji": {
+  "gender": "male",
+  "conf": "high",
+  "why": "his own judge_friend_g02 r354 'it is I! Daichi Ryuzenji, your beloved fiancé!' (self-identifies as fiancé/groom); registry confirms daichi_ryuzenji",
+  "source": "talk_overrides_P3.json"
+ },
+ "Black-haired Punk": {
+  "gender": "male",
+  "conf": "medium",
+  "why": "judge_smoker_talk03 r46 Aging Punk addresses him with 'Man,' (other gendered refs in this table describe an unrelated third character)",
+  "source": "talk_overrides_P3.json"
+ },
+ "Usui": {
+  "gender": "male",
+  "conf": "high",
+  "why": "his own judge_friend_tamariba r272 'I was a total grandma's boy' (self-reference as 'boy')",
+  "source": "talk_overrides_P3.json"
+ },
+ "???#714": {
+  "gender": "male",
+  "conf": "high",
+  "why": "JA label 爆弾犯 (the bomber) = Ryu Asaka, male per gender_evidence",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "???#913": {
+  "gender": "unknown",
+  "conf": "high",
+  "why": "single line 'Are you Yagami?' — no evidence",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "???#914": {
+  "gender": "neutral",
+  "conf": "high",
+  "why": "generic ??? label reused for several unnamed NPCs incl. female Yurika Tachibana (side_a33) and a male stalker (side_a17)",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "???#915": {
+  "gender": "unknown",
+  "conf": "high",
+  "why": "JA さまよえる老人 (wandering elderly person) — no pronoun evidence",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "???#983": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a26 r48 Yagami: '(Wait... Isn't that him!?)'",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "???#1042": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_tailing r10 Yagami: '(Is he turning back?)' + JA キャッチ (street tout)",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "Mijore Employee#958": {
+  "gender": "male",
+  "conf": "high",
+  "why": "= Kazuhisa Norimoto (registry male); judge_friend_a43 pining for Miharu-chan",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "Mijore Employee#1105": {
+  "gender": "unknown",
+  "conf": "high",
+  "why": "second Mijore employee (店員2) — no evidence",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "M Side Cafe Employee#866": {
+  "gender": "unknown",
+  "conf": "high",
+  "why": "first M Side Cafe employee — no gendered reference",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "M Side Cafe Employee#1108": {
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a45 r45 Yagami: '(This guy seems to know quite a bit about Kiriko...)'",
+  "locked": true,
+  "source": "lead 2026-09-05 (per speaker_id)"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "scene": "b09_010",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "second-person deduction monologue ('I'm sure Waku-san's death...') addressed to the culprit; the pre-filled 'M' ending hint in this row confirms a male speaker; matches Yagami's known closing-argument deduction style"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same second-person deduction monologue as row 1"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue, now recounting Okubo's arrival"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue"},
+  "9": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same second-person address ('you didn't have any other choice')"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue"},
+  "12": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "shifts to third person to explain Okubo's motive, still part of the same deduction speech"},
+  "13": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same deduction monologue"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "closing line of the same deduction monologue"}
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "scene": "a01_100",
+ "rows": {
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talk=Yagami hint; calls out first on spotting Murase"
+  },
+  "2": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "med",
+   "why": "Recognises the person who just called out to him"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Confirms Murase's identity by name"
+  },
+  "4": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reacts to being recognised, continuing row 2"
+  },
+  "5": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "med",
+   "why": "Threatens Yagami, continuing his own thread"
+  },
+  "6": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "med",
+   "why": "Calls his men ('Boys!'), continuing row 5's threat"
+  },
+  "7": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "med",
+   "why": "Orders his men to grab Yagami, continuing row 6"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Reacts to being grabbed, first-person complaint"
+  },
+  "9": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(kaito) directly on this line, arriving to help"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reacts to Kaito's arrival with honorific 'Kaito-san'; cue pool includes yagami"
+  },
+  "11": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "med",
+   "why": "Warns Kaito to stay out of it, continuing his threat"
+  },
+  "12": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue=male(yagami) and talk=Yagami on this line"
+  },
+  "13": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "Rallying call as the fight starts; uncertain which of the two speaks"
+  },
+  "14": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Post-fight banter, fits Kaito's casual tone"
+  },
+  "15": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Invites 'Tak' (Yagami) to help out, addressing him directly"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talk=Yagami; accepting the invitation from row 15"
+  },
+  "17": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "low",
+   "why": "New threat as the fight continues, addressing 'you two'"
+  },
+  "18": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "low",
+   "why": "Continues the same threat as row 17"
+  }
+ }
+}

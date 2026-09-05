@@ -1,0 +1,59 @@
+{
+ "scene": "a02_013",
+ "rows": {
+  "1": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "low",
+   "why": "The masked thief mocking Yagami; identity inferred from the same character's later appearance/explanation in a02_040 (talk=Yosuke there)"
+  },
+  "2": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "low",
+   "why": "Continues row 1, handing something back to Yagami"
+  },
+  "3": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "low",
+   "why": "Boastful claim of ownership, continuing rows 1-2"
+  },
+  "4": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Explains 'the plan' worked out; matches his later fuller explanation in a02_040"
+  },
+  "5": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "low",
+   "why": "Thanks Yagami, continuing row 4; talk=Ohata hint looks like unrelated generic reuse"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Skeptical retort about the word 'plan', matching his sarcastic tone elsewhere"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Rejects the thanks offered in row 5, responding to it directly"
+  },
+  "8": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "low",
+   "why": "Casual farewell as he leaves; talk=Mari hint looks like unrelated generic reuse"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "First-person detective narration observation about the burglary ring"
+  }
+ }
+}

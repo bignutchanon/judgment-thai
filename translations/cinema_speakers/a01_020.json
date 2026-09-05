@@ -1,0 +1,215 @@
+{
+ "scene": "a01_020",
+ "rows": {
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Radio call self-identifying: 'Come in, Kaito-san. This is Yagami.'"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues radio call, asking Kaito for status"
+  },
+  "3": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Responds to Yagami's radio question about location"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Radio exchange with Kaito, continues"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Asks Kaito if he sees the target"
+  },
+  "6": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Confirms he has eyes on the target"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues radio banter with Kaito"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Compliments Kaito on his tailing skill"
+  },
+  "9": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Sarcastic reply to Yagami's compliment"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues radio banter"
+  },
+  "11": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Remarks on how crazy the situation is"
+  },
+  "12": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reflects on a detective tailing another detective"
+  },
+  "13": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues banter about the situation being TV-worthy"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Tells Kaito to stay focused"
+  },
+  "15": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Says he'll join up soon"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; talk=Yagami; short acknowledgement over radio"
+  },
+  "17": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Street punk archetype; registry confirms thug/punk catch-all types are exclusively male in this game"
+  },
+  "18": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Same street-thug scene, same reasoning as row17"
+  },
+  "19": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Same street-thug scene, same reasoning as row17"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; reacts to the thugs harassing a bystander"
+  },
+  "21": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Thug reacting angrily to Yagami intervening"
+  },
+  "22": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Thug threatening Yagami"
+  },
+  "23": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "low",
+   "why": "Bystander thug commenting on the commotion"
+  },
+  "24": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Radio call asking Yagami what's happening, addresses him as 'buddy/Tak'"
+  },
+  "25": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; explains over radio that he intervened with some punks"
+  },
+  "26": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Scolds Yagami for blowing his cover after telling him to keep a low profile"
+  },
+  "27": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Thug responding angrily, continues the fight"
+  },
+  "28": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Repeated combat reaction, matches pattern of Yagami's other 'Huh!?' lines in this fight"
+  },
+  "29": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Apologizes to Kaito over radio mid-fight, self-references 'Kaito'"
+  },
+  "30": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Sarcastic reply about Yagami's carelessness"
+  },
+  "31": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Thug reacting to Yagami's fighting, addressing a fellow thug"
+  },
+  "32": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Second thug mockingly responding"
+  },
+  "33": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Combat taunt/battle cry during the fight, fits protagonist's fighting quips"
+  },
+  "34": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Thug insulting Yagami mid-fight"
+  },
+  "35": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Rallying line to finish the fight"
+  }
+ }
+}

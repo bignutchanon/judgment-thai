@@ -1,0 +1,30 @@
+{
+ "scene": "a13_140",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) x2, calls out Kuroiwa's name"},
+  "2": {"speaker": "Kuroiwa", "gender": "male", "conf": "high", "why": "addresses Yagami by name, recognizing him after being called out in row 1 (registry: Kuroiwa male)"},
+  "3": {"speaker": "Kuroiwa", "gender": "male", "conf": "high", "why": "continues, trying to push past Yagami"},
+  "4": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "cue=male(izumida)"},
+  "5": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "continues the same order to search them"},
+  "6": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "sarcastic retort ('\"Officer.\"') mocking Izumida's authority, fits Kaito's tone"},
+  "7": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "continues explaining the reason for the search"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "pleads that Kuroiwa is the real target going after Shono"},
+  "9": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "continues pleading with Izumida"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues pleading, repeats Kuroiwa's name"},
+  "11": {"speaker": "Izumida", "gender": "male", "conf": "low", "why": "likely a pretext line justifying the arrest order that follows in row 12"},
+  "12": {"speaker": "Izumida", "gender": "male", "conf": "high", "why": "gives the arrest order, consistent with his obstructive role in this scene"},
+  "13": {"speaker": "Sugiura", "gender": "male", "conf": "high", "why": "addresses Kaito by name ('Kaito-san') providing intel on Kuroiwa's location, matches Sugiura's tech/support role"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "reacts to Sugiura's info about the research wing"},
+  "15": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "urges the group to move"},
+  "16": {"speaker": "Izumida", "gender": "male", "conf": "med", "why": "relents and lets them pass after hearing the urgency"},
+  "17": {"speaker": "Izumida", "gender": "male", "conf": "med", "why": "continues relenting, same speaker as row 16"},
+  "18": {"speaker": "Female police officer", "gender": "female", "conf": "high", "why": "cue=female(oikake_police_w), a separate officer chasing them as they run past the barricade"},
+  "19": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "wry humor about getting arrested, fits Kaito's personality"},
+  "20": {"speaker": "Dealer (NPC)", "gender": "male", "conf": "med", "why": "cue talk=Dealer; a bystander getting arrested alongside them, calls out to Yagami"},
+  "21": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) x2, calls out Kuroiwa's name again"},
+  "22": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "calls Yagami by his nickname 'Tak', telling him to move on"},
+  "23": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "agrees with Kaito's suggestion in row 22"},
+  "24": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "rallies the group, addressing them as 'guys'"},
+  "25": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami"}
+ }
+}

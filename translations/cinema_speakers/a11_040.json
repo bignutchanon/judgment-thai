@@ -1,0 +1,25 @@
+{
+ "scene": "a11_040",
+ "rows": {
+  "1": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "opening line of an internal monologue/discussion picked up in the parenthetical thought convention, continued through the scene"},
+  "2": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "recounts confronting Shono the other day, first-person recollection"},
+  "3": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, notes a new body has turned up"},
+  "4": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues reasoning about how this will end"},
+  "5": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, predicts more deaths before it's over"},
+  "6": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, notes Shono won't stop even when close to being caught"},
+  "7": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "concludes there's no doubt now, continuation of the reasoning"},
+  "8": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami match; rhetorical self-directed question continuing the monologue"},
+  "9": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "describes Shono's quiet, harmless outward appearance"},
+  "10": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, notes AD-9 changes who Shono is"},
+  "11": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, calls Shono a monster because of AD-9"},
+  "12": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, reflects on how many the completed drug could save"},
+  "13": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, notes the power protecting Shono means he'll risk everything"},
+  "14": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "concludes it's them against anyone money can buy"},
+  "15": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "med", "why": "a dialogue partner presses Yagami with 'What are you going to do?', likely Kaito responding to Yagami's reasoning"},
+  "16": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "med", "why": "continues challenging Yagami, testing his resolve ('Why not walk away?')"},
+  "17": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "responds to the challenge, admitting he wishes he could walk away"},
+  "18": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, states Matsugane-san's death can't go unanswered"},
+  "19": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "continues, says Matsugane deserves closure"},
+  "20": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "concludes with resolve that they won't get away with it"}
+ }
+}

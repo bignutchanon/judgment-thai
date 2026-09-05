@@ -1,0 +1,209 @@
+{
+ "scene": "a02_020",
+ "rows": {
+  "1": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Inviting Yagami into his booth/room, continuing the established Caf\u00e9 Alps meeting from the chapter summary"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Says Hamura's name upon entering/seeing him"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Comments on Hamura's expensive surroundings, continuing row 2"
+  },
+  "4": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Suspiciously asks why Yagami is there"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami (twice); his own confused reaction"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Turns Hamura's question back on him ('why are you here'), per EN-B's italic emphasis on 'you'"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues row 6's dismissive retort"
+  },
+  "8": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Interrogates Yagami by name ('Tak') about the Kyorei murders investigation"
+  },
+  "9": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the threat from row 8"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Defiant reply to Hamura's threat"
+  },
+  "11": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues warning Yagami off, continuing row 9"
+  },
+  "12": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "References Shintani's legal work, continuing his warning"
+  },
+  "13": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Mocks Yagami's physical shape, continuing row 12"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Begins to explain he got attacked, continuing into rows 15-16"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues row 14's statement"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues describing the attackers"
+  },
+  "17": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Dismissive response to Yagami's accusation"
+  },
+  "18": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Accuses Hamura of being behind the attack"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues the accusation, pointing out the attackers present"
+  },
+  "20": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Denies the accusation, referring to 'my boys'"
+  },
+  "21": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Addresses his subordinate Kengo directly by name, continuing row 20"
+  },
+  "22": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "med",
+   "why": "Kengo's confirmation in response to being addressed directly in row 21"
+  },
+  "23": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Angry reaction to the denial/lie in rows 20-22"
+  },
+  "24": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Changes subject to Kanae-chan, dismissing Yagami's other investigation thread"
+  },
+  "25": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Questions why, continuing his inquiry"
+  },
+  "26": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Returns to warning Yagami about the Kyorei investigation"
+  },
+  "27": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues row 26, referencing 'the boss' (Matsugane)"
+  },
+  "28": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Self-identifies on a phone call: 'It's Yagami. You got a sec?'"
+  },
+  "29": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Answers the phone call, matching his established warm personality toward Yagami"
+  },
+  "30": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the phone conversation, concerned"
+  },
+  "31": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Requests help regarding 'the family captain' (Hamura)"
+  },
+  "32": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues his request from row 31"
+  },
+  "33": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "Invites Yagami to come by the office, matching his established scene setting from a01_090"
+  },
+  "34": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talk=Yagami hint; agrees to come by"
+  }
+ }
+}

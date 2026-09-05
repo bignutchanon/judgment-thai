@@ -1,0 +1,30 @@
+{
+ "scene": "a13_185",
+ "rows": {
+  "1": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "casual musing tone opening the group discussion about the case's aftermath"},
+  "2": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "continues the update about Ichinose and Morita's arrests"},
+  "3": {"speaker": "Genda", "gender": "male", "conf": "med", "why": "credits Yagami's agency, fitting his role as senior figure in the office"},
+  "4": {"speaker": "Genda", "gender": "male", "conf": "med", "why": "continues discussing the fallout for the Health Ministry"},
+  "5": {"speaker": "Genda", "gender": "male", "conf": "med", "why": "continues the same point about the ADDC's turmoil"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "responds about the ADDC likely being shut down"},
+  "7": {"speaker": "Genda", "gender": "male", "conf": "med", "why": "reflects philosophically on Kajihira's outcome"},
+  "8": {"speaker": "Saori", "gender": "female", "conf": "med", "why": "indignant interjection fits Saori's moral-compass role (registry: Saori female)"},
+  "9": {"speaker": "Genda", "gender": "male", "conf": "high", "why": "addresses Saori directly by name ('Saori-kun')"},
+  "10": {"speaker": "Genda", "gender": "male", "conf": "med", "why": "continues, notes the police are already investigating"},
+  "11": {"speaker": "Genda", "gender": "male", "conf": "med", "why": "continues with a philosophical proverb about the law, fits Genda's mentor persona"},
+  "12": {"speaker": "Saori", "gender": "female", "conf": "med", "why": "responds thoughtfully, agreeing bad deeds come to light"},
+  "13": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "cue=male(hoshino), agrees with the point just made"},
+  "14": {"speaker": "Genda", "gender": "male", "conf": "med", "why": "transitions topic, sets up the teasing that follows in row 16"},
+  "15": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "responds curiously to Genda's transition"},
+  "16": {"speaker": "Genda", "gender": "male", "conf": "high", "why": "teases Yagami and Saori about their relationship, continues from row 14"},
+  "17": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "flustered reaction to Genda's teasing"},
+  "18": {"speaker": "Genda", "gender": "male", "conf": "high", "why": "continues the reprimand about office romance"},
+  "19": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "flustered stammering response"},
+  "20": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues playing dumb about the relationship"},
+  "21": {"speaker": "Saori", "gender": "female", "conf": "med", "why": "calmly reassures, defusing the teasing"},
+  "22": {"speaker": "Genda", "gender": "male", "conf": "high", "why": "continues, self-deprecating remark about being an 'old fart'"},
+  "23": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "responds self-deprecatingly, agreeing that his own generation ignored their elders too"},
+  "24": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "tag question continuing the same thought as row 23; cue lists yagami/ayabe/shintani as candidates but all are male"},
+  "25": {"speaker": "Genda", "gender": "male", "conf": "med", "why": "EN-A/EN-B are treated as the same line per the work file's rules; Genda recognizes an old friend (Matsugane) entering the room"}
+ }
+}

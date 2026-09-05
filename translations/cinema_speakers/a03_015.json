@@ -1,0 +1,19 @@
+{
+ "scene": "a03_015",
+ "rows": {
+  "1": {"speaker": "Red Nose", "gender": "male", "conf": "med", "why": "the robber's threat, opens the heist scene; later referred to with 'he' pronoun in a03_020 row 12-13"},
+  "2": {"speaker": "Red Nose", "gender": "male", "conf": "med", "why": "continues the robber's threat"},
+  "3": {"speaker": "Red Nose", "gender": "male", "conf": "med", "why": "continues threat ('I'll kill you')"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami), talk=Yagami; present-day VO commentary layered over the flashback reenactment"},
+  "5": {"speaker": "Red Nose", "gender": "male", "conf": "med", "why": "continues the robber's challenge/threat from rows 1-3"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "third-person narration describing Higashi ('the poor guy'), matches VO storytelling style"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues narration"},
+  "8": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "the office worker surrendering to the robber, matches the 'poor guy' described in row 6"},
+  "9": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "continues surrender"},
+  "10": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "continues, offering to get the money"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "explicit third-person narration naming 'Higashi', confirms this is narration not Higashi's own speech"},
+  "12": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues narration"},
+  "13": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues narration, refers to Higashi in third person"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "closing narration line of the flashback"}
+ }
+}

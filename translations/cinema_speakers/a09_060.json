@@ -1,0 +1,23 @@
+{
+ "scene": "a09_060",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses Okubo by name, TH marked M"},
+  "2": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "reads as Okubo interjecting mid-sentence while Yagami builds up to row 4's statement; talk=Yagami hint treated as noise since it conflicts with the clear row1->row3->row4 continuation by Yagami"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "talk=Yagami hint; continues row 1's interrupted sentence ('just listen')"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, finishes the sentence begun in row 1/3 ('I was gonna say...I believe you')"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, continues declaring belief in Okubo's innocence"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "transition continuing into row 7's declaration"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, vows to avenge Emi"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, continues vow"},
+  "9": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, 'I promise'"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, apologizing to Okubo"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, self-reflective continuation"},
+  "12": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues self-reflection from row 11"},
+  "13": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, self-blame continues"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "transition into the request in row 15"},
+  "15": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, asks Okubo for another chance"},
+  "16": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "answers Yagami's request in row 15; talk=Kawada/cue=female hints treated as noise (Kawada not in registry, cue-female contradicts Okubo's established male gender), scene is a strict two-person Yagami/Okubo exchange"},
+  "17": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues row 16, EN-B 'it should be me...' leads directly into row 18's 'begging you for this, Yagami-sensei'"},
+  "18": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "TH marked M, addresses 'Yagami-sensei' confirming Okubo as speaker; cue/talk hints (yakuza voice pool, Norimoto) treated as noise"}
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "scene": "a02_040",
+ "rows": {
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Demands to know the rescuer's identity, continuing directly from the a02_035 escape"
+  },
+  "2": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds, wanting a thank-you first"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Responds about being wronged earlier that afternoon"
+  },
+  "4": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Points out he gave the phone back, continuing row 2"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Questions the point of stealing it at all"
+  },
+  "6": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Explains he was trying to escape a cop, continuing his explanation"
+  },
+  "7": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues explaining the idea that struck him"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Prompts him to continue explaining"
+  },
+  "9": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "talk=Yosuke hint on the EN-A form; begins the fuller plan explanation"
+  },
+  "10": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues explaining the plan, taking the phone as step one"
+  },
+  "11": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the explanation"
+  },
+  "12": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the explanation about the cop mistaking Yagami for his buddy"
+  },
+  "13": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the explanation about his planned getaway"
+  },
+  "14": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Comments on Yagami's unexpected competence, continuing the explanation"
+  },
+  "15": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Concludes the explanation, continuing row 14"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Asks why Yosuke came to save him just now"
+  },
+  "17": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Deflects the question in row 16; cue=male(yagami) is consistent with Yosuke also being male"
+  },
+  "18": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues brushing off the question"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reacts to Yosuke's vague answer"
+  },
+  "20": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Offers an explanation about apologising for the phone theft, continuing row 18"
+  },
+  "21": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reminds Yagami he saved his life, continuing row 20"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Sarcastic acknowledgement of row 21; talk=Shintani hint looks like unrelated generic reuse since Shintani is not established in this scene"
+  },
+  "23": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Acknowledges owing Yosuke a debt"
+  },
+  "24": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds that they're even now, continuing row 21-22's exchange"
+  },
+  "25": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint (twice); starts a new topic"
+  },
+  "26": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Asks Yosuke about the burglary ring, continuing row 25"
+  },
+  "27": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues encouraging Yosuke to find better work"
+  },
+  "28": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "low",
+   "why": "Confused reaction to Yagami's suggestion; hint conflict (mixed cue, talk=Sana/Yagami)"
+  },
+  "29": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Offers Yosuke work with him instead, continuing row 27"
+  },
+  "30": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Declines, citing the yakuza threat"
+  },
+  "31": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Explains/clarifies who attacked Yosuke earlier (Matsugane Family)"
+  },
+  "32": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reveals the Kyorei Clan is also after him, continuing row 30"
+  },
+  "33": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Sarcastic response to Yosuke's revelation"
+  },
+  "34": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "States he doesn't trust Yosuke yet, continuing row 33"
+  },
+  "35": {
+   "speaker": "Sana Mihama",
+   "gender": "female",
+   "conf": "med",
+   "why": "talk=Sana hint; a new voice calls Yagami's name, interrupting the scene"
+  },
+  "36": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Surprised reaction to the stranger (Sana) knowing his name, closing the scene"
+  }
+ }
+}

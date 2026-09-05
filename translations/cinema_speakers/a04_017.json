@@ -1,0 +1,31 @@
+{
+ "scene": "a04_017",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "announces they're about to leave"},
+  "2": {"speaker": "Ayabe", "gender": "male", "conf": "low", "why": "mockingly responds about being busy"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "checks with Kaito ('Kaito-san?')"},
+  "4": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "puzzled acknowledgment responding to being addressed in row 3; generic reaction cue overridden by context"},
+  "5": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "greets them by name upon arrival, before his formal self-introduction in row 6"},
+  "6": {"speaker": "Kuroiwa", "gender": "male", "conf": "high", "why": "current TH marked M; formal self-introduction"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami); repeats the name in recognition"},
+  "8": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "continues his own boastful self-description (EN-B first person)"},
+  "9": {"speaker": "Kuroiwa", "gender": "male", "conf": "high", "why": "current TH marked M; continues grievance about Hamura's acquittal"},
+  "10": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "cue=male(kaito,yagami); awkward acknowledgment"},
+  "11": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "cue=male(kaito); dismissive response"},
+  "12": {"speaker": "Kuroiwa", "gender": "male", "conf": "high", "why": "current TH marked M; continues complaint about being a department punchline"},
+  "13": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "continues, sarcastic thanks"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "current TH marked M; cheeky response to Kuroiwa's sarcasm"},
+  "15": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "addresses Ayabe, noticing him present"},
+  "16": {"speaker": "Ayabe", "gender": "male", "conf": "high", "why": "current TH marked M; responds nervously to Kuroiwa"},
+  "17": {"speaker": "Ayabe", "gender": "male", "conf": "high", "why": "current TH marked M; continues, explains he's here for a drink"},
+  "18": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "questions Ayabe further"},
+  "19": {"speaker": "Ayabe", "gender": "male", "conf": "high", "why": "current TH marked M; denies skipping work"},
+  "20": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "current TH marked M; wraps up to leave, speaking for the group"},
+  "21": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "stops them before they leave"},
+  "22": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "continues, brings up the Okubo case (matches Yagami's past case in the registry)"},
+  "23": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "continues describing the Okubo case aftermath"},
+  "24": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "continues, draws the parallel to the current murderer"},
+  "25": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "continues, ominous question about the next victim"},
+  "26": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "continues, mockingly addresses Yagami as 'sensei'"}
+ }
+}

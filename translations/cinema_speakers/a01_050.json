@@ -1,0 +1,113 @@
+{
+ "scene": "a01_050",
+ "rows": {
+  "1": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Defeated street thug from the fight; registry confirms thug archetypes are male"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Taunts the fallen thug after winning the fight"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami), talk=Yagami"
+  },
+  "4": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Addresses Yagami by his nickname 'Tak', identified as Captain Hamura in the next line; registry confirms Hamura is male"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Recognizes and greets the arriving Hamura"
+  },
+  "6": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Thug being restrained, protesting"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; addresses the restrained thug"
+  },
+  "8": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Defends/describes Yagami to the thugs, addressing him by nickname 'Tak'"
+  },
+  "9": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues explaining to the thugs"
+  },
+  "10": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Concludes the thugs picked a fight with the wrong guy"
+  },
+  "11": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Protests in confusion"
+  },
+  "12": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Explains Yagami's connection to the Matsugane patriarch (matches registry: patriarch treats Yagami and Kaito like sons)"
+  },
+  "13": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues threatening the thugs"
+  },
+  "14": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Pleads with Hamura ('cap') to let it go"
+  },
+  "15": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Refuses the plea"
+  },
+  "16": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues"
+  },
+  "17": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Declares it a matter of Matsugane Family honor"
+  },
+  "18": {
+   "speaker": "Kim",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M, cue=male(kim); registry confirms 'kim' is male (sex=1); fearful apology from the punished thug"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "scene": "a05_040",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "prompts Terasawa to testify, likely her defense-side lawyer"},
+  "2": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "cue=female(emi); testifying for Okubo's character"},
+  "3": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "cue=female(emi) x2; continues testimony"},
+  "4": {"speaker": "Judge", "gender": "male", "conf": "high", "why": "registry 'saibancho' (judge) = male; scolds the courtroom commotion"},
+  "5": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues emotional testimony about Okubo's understanding of Waku's dementia"},
+  "6": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues same testimony thread"},
+  "7": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues, argues no motive for murder"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "tries to calm Terasawa before she's held in contempt, her lawyer role"},
+  "9": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues emotional plea for Okubo despite judge's warning"},
+  "10": {"speaker": "Judge", "gender": "male", "conf": "high", "why": "orders her removed from the courtroom"},
+  "11": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues plea despite the judge's order"},
+  "12": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues same testimony thread"},
+  "13": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues, reveals stakes for herself too"},
+  "14": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues, would break her heart"},
+  "15": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues leading into the relationship reveal"},
+  "16": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "reveals she and Okubo were secretly dating"},
+  "17": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues, Okubo protected her safety despite the risk to himself"},
+  "18": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues, 'that's just who he is'"},
+  "19": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "continues, criticizes the prosecution's framing of Okubo"},
+  "20": {"speaker": "Emi Terasawa", "gender": "female", "conf": "high", "why": "concludes her testimony, asks how he could get a fair trial"},
+  "22": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "EN-B 'I think her parting remarks helped sway the verdict' - first-person retrospective narration bridging flashback to present"},
+  "23": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues narration, states the not-guilty verdict"},
+  "24": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues retrospective narration; cue is mixed/generic and unreliable"},
+  "25": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues narration, 'everything changed'"},
+  "26": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues narration referring to Terasawa in third person"},
+  "27": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "concludes narration revealing Terasawa's death, sets up the tragedy from ch5 summary"}
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "scene": "a09_030",
+ "rows": {
+  "1": {"speaker": "Shono", "gender": "male", "conf": "high", "why": "confronts intruders, registered male, consistent with fleeing later in scene"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses 'Doctor Shono?' by name, reacting to being confronted"},
+  "3": {"speaker": "Shono", "gender": "male", "conf": "high", "why": "continues questioning the intruders"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "spokesperson for the group asking questions of Shono"},
+  "5": {"speaker": "Shono", "gender": "male", "conf": "high", "why": "TH marked M, refuses to answer"},
+  "6": {"speaker": "Shono", "gender": "male", "conf": "high", "why": "orders his own staff to handle the intruders while he leaves"},
+  "7": {"speaker": "Shono", "gender": "male", "conf": "high", "why": "TH marked M, 'I have to go' -- leaving as set up in row 6"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "trying to stop Shono from leaving"},
+  "9": {"speaker": "ADDC Staff", "gender": "male", "conf": "med", "why": "TH marked M; unnamed staff member blocking Yagami's group per Shono's order in row 6, while Shono himself flees"},
+  "10": {"speaker": "Shono", "gender": "male", "conf": "high", "why": "orders security as he escapes"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "calls out to Shono while chasing"},
+  "12": {"speaker": "Honda", "gender": "male", "conf": "high", "why": "talk=Honda hint confirms; registered male in characters_gender.md"},
+  "13": {"speaker": "Honda", "gender": "male", "conf": "med", "why": "continues urging the chase from row 12"}
+ }
+}

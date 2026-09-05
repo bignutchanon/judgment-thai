@@ -1,0 +1,13 @@
+{
+ "scene": "a13_050",
+ "rows": {
+  "1": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "Repeats the angry reaction line seen in a13_040 row17, likely the same speaker"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "Expresses frustration / tries to stop escalation, precedes Kaito's death threat in row3"},
+  "3": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "Threatens to kill, matches his ongoing vendetta against Kuroiwa"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Calms Kaito down after the threat"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Questions how the cover-up would work, matches his investigative pressure on Morita/Kuroiwa"},
+  "6": {"speaker": "Morita", "gender": "male", "conf": "med", "why": "Speaks of limits to the protection he can offer, fits his role protecting/handling Kuroiwa"},
+  "7": {"speaker": "Morita", "gender": "male", "conf": "low", "why": "Tells Yagami/Kaito they have no reason to be here; could be Kuroiwa instead"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "Addresses 'Kaito-san', tells him to leave, consistent with Yagami's naming pattern elsewhere"}
+ }
+}

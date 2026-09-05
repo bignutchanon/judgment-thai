@@ -1,0 +1,20 @@
+{
+ "scene": "a04_030",
+ "rows": {
+  "1": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "EN-B says 'let's roll, Tak', continuing his established speech pattern addressing Yagami by nickname"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "agrees, no reason to stay"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "invites Murase to join them"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami; addresses Murase, 'coming?'"},
+  "5": {"speaker": "Murase", "gender": "male", "conf": "med", "why": "agrees to join, the character being invited"},
+  "6": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "surprised at Murase's easy agreement"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami"},
+  "8": {"speaker": "Kyorei thug", "gender": "male", "conf": "med", "why": "a pursuing antagonist confronts them as they try to leave; all such thugs in the registry are male"},
+  "9": {"speaker": "Kyorei thug", "gender": "male", "conf": "med", "why": "continues threatening"},
+  "10": {"speaker": "Kyorei thug", "gender": "male", "conf": "med", "why": "continues, threatens all three of them"},
+  "11": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "mocking taunt fits Kaito's banter tone"},
+  "12": {"speaker": "Murase", "gender": "male", "conf": "med", "why": "playful reply, the character being addressed/teased"},
+  "13": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "questions Murase about keeping his mask off"},
+  "14": {"speaker": "Murase", "gender": "male", "conf": "med", "why": "explains he can't get far wearing the mask"},
+  "15": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami"}
+ }
+}

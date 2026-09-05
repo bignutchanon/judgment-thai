@@ -1,0 +1,11 @@
+{
+ "scene": "b11_020",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "first-person-plural deduction recap ('we got his gun'), same closing-argument monologue style established elsewhere in this game's case-recap scenes (see b09_010), narrated by the detective protagonist"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same recap monologue"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same recap monologue"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same recap monologue"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the same recap monologue"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "closing line of the same recap monologue"}
+ }
+}

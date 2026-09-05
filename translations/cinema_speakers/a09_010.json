@@ -1,0 +1,31 @@
+{
+ "scene": "a09_010",
+ "rows": {
+  "1": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "greets Yagami with honorific 'Yagami-sensei', two-person prison scene"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "replies to Okubo's greeting"},
+  "3": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "apology transitions into row 4-5 about being socially isolated, coherent as one Okubo monologue"},
+  "4": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "'I've been alone all this time' / EN-B 'I don't talk much' -- describes his own prison isolation"},
+  "5": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues row 4 ('talking is...hard')"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "reassures Okubo about taking his time to talk"},
+  "7": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "comments on Yagami's changed appearance after 3 years, sets up Yagami's reply in row 8-9 about leaving law"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami hint confirms; acknowledges row 7's comment"},
+  "9": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues row 8, explains he hasn't been in court since their case"},
+  "10": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "surprised reaction 'Meaning you're not a lawyer?' to Yagami's revelation"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "answers Okubo's question, 'I'm a detective'"},
+  "12": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues row 11"},
+  "13": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "guilt-ridden reaction assuming Yagami's career change is his fault"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "talk=Yagami hint; EN-B 'No.' directly answers Okubo's 'Because of me?' in row 13, reassuring him"},
+  "15": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "redirects conversation to the real reason for the visit"},
+  "16": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "brings up the ADDC case from three years ago, continues row 15"},
+  "17": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "nervous hesitant interjection before Yagami's direct question in row 18"},
+  "18": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "direct blunt question 'Did you actually murder Waku-san or not?'"},
+  "19": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "shocked reaction to the blunt accusation; cue/talk hints noisy (Tashiro unrelated, generic short interjection)"},
+  "20": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "addresses 'Yagami, I...' by name -- can't be Yagami himself; talk hint here is noise (generic phrase)"},
+  "21": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues denial/confusion"},
+  "22": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "'You know I'm innocent' -- asserting his own innocence"},
+  "23": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues denying both murders"},
+  "24": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues escalating denial"},
+  "25": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues denial"},
+  "26": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "closing plea of the outburst"}
+ }
+}

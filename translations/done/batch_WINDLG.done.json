@@ -1,0 +1,7 @@
+{
+ "batch": "WINDLG",
+ "strings": {
+  "Quit game and return to desktop? Unsaved data will be lost.": "Quit game and return to desktop? Unsaved data will be lost.",
+  "<platform_not=solstice>Quit game and return to desktop?</platform_not><platform=solstice>Are you sure you want to exit the game?</platform>": "<platform_not=solstice>Quit game and return to desktop?</platform_not><platform=solstice>Are you sure you want to exit the game?</platform>"
+ }
+}

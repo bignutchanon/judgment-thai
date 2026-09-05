@@ -1,0 +1,16 @@
+{
+ "scene": "a06_010",
+ "rows": {
+  "1": {"speaker": "Mafuyu", "gender": "female", "conf": "med", "why": "initial protest while being grabbed, before Yagami arrives; continues into row 2-3"},
+  "2": {"speaker": "Mafuyu", "gender": "female", "conf": "high", "why": "struggling against attackers, same thread as row 3 which is cue-confirmed"},
+  "3": {"speaker": "Mafuyu", "gender": "female", "conf": "high", "why": "cue=female(mafuyu,emi)"},
+  "4": {"speaker": "Tashiro", "gender": "male", "conf": "high", "why": "cue=male(tashiro); registry confirms tashiro male"},
+  "5": {"speaker": "Mafuyu", "gender": "female", "conf": "high", "why": "cue=female(mafuyu); relieved reaction seeing Yagami arrive"},
+  "6": {"speaker": "Kyorei thug", "gender": "male", "conf": "med", "why": "cue includes kyourei_h (registry male); alarmed reaction to Yagami's sudden appearance"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "protagonist warning Mafuyu to stay back from danger"},
+  "8": {"speaker": "Mafuyu", "gender": "female", "conf": "low", "why": "confused reaction to being told to get back"},
+  "9": {"speaker": "Unnamed", "gender": "unknown", "conf": "low", "why": "generic exclamation, mixed/irrelevant cue and talk hints, no clear speaker evidence"},
+  "10": {"speaker": "Unnamed", "gender": "unknown", "conf": "low", "why": "no direct cue evidence which thug speaks this line"},
+  "11": {"speaker": "Tashiro", "gender": "male", "conf": "med", "why": "continues aggression toward Yagami, established antagonist earlier in scene"}
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "priority": 1,
+ "source_bins": [
+  "msg.bin"
+ ],
+ "strings": {
+  "Quit game and return to desktop? Unsaved data will be lost.": "",
+  "<platform_not=solstice>Quit game and return to desktop?</platform_not><platform=solstice>Are you sure you want to exit the game?</platform>": ""
+ },
+ "ref_tm": {},
+ "note": "กล่องยืนยันตอน Alt+F4 เป็น Win32 MessageBox ของ Windows ไม่ได้วาดด้วยฟอนต์ของเกม -> สตริง donor จะกลายเป็นตัวอักษรละตินมั่ว (เห็นจริง 22 ส.ค. 2026) จึงคงภาษาอังกฤษ"
+}

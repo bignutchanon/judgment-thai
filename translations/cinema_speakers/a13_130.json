@@ -1,0 +1,13 @@
+{
+ "scene": "a13_130",
+ "rows": {
+  "1": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "casual wondering tone as the group arrives at the ADDC"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "direct demand for status, fits detective role"},
+  "3": {"speaker": "ADDC staff member", "gender": "unknown", "conf": "low", "why": "panicked bystander staff blocking them, no gender cue in the dialogue"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "self-identifies: 'I'm Yagami, an attorney' (EN-B)"},
+  "5": {"speaker": "ADDC staff member", "gender": "unknown", "conf": "low", "why": "same panicked staffer from row 3 continuing to explain confusion, no gender cue"},
+  "6": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "pressing follow-up question, alternating with Yagami's row 4"},
+  "7": {"speaker": "ADDC staff member", "gender": "unknown", "conf": "low", "why": "same staffer continuing complaint about conflicting orders, no gender cue"},
+  "8": {"speaker": "ADDC staff member", "gender": "unknown", "conf": "low", "why": "same staffer, continues the same complaint from row 7"}
+ }
+}

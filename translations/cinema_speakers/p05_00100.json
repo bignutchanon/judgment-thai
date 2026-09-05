@@ -1,0 +1,11 @@
+{
+ "scene": "p05_00100",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration about the Tojo/Kyorei conflict"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration referring to 'Yagami's own shadow', not Yagami speaking"},
+  "6": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "closing line of the recap narration about the Mole's next victim"}
+ }
+}

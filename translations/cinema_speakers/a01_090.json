@@ -1,0 +1,281 @@
+{
+ "scene": "a01_090",
+ "rows": {
+  "1": {
+   "speaker": "Female receptionist",
+   "gender": "female",
+   "conf": "high",
+   "why": "cue=female(hashimoto,emi) on this ushering line; unnamed office staff at the Matsugane office"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "First-person exposition narration ('...is like a father to me' in row 5) continuing through rows 2-6"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "First-person exposition narration ('...is like a father to me' in row 5) continuing through rows 2-6"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "First-person exposition narration ('...is like a father to me' in row 5) continuing through rows 2-6"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Explicit first-person 'is like a father to me' identifies this as Yagami's own narration"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues the same narration thread as row 5, mentioning Kaito-san"
+  },
+  "7": {
+   "speaker": "Matsugane aide",
+   "gender": "male",
+   "conf": "low",
+   "why": "Announces Yagami's arrival to 'Boss' in third person; unclear if Kaito or an unnamed aide"
+  },
+  "8": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "Patriarch greets the visitor as 'my boy', a term he repeats for Yagami through the scene (rows 23, 45)"
+  },
+  "9": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues row 8's greeting"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Answers patriarch's question about why he hasn't visited"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues his own reply from row 10, teasing back"
+  },
+  "12": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds to Yagami's tease in row 11"
+  },
+  "13": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Asks about Kaito, continuing his own line of questioning"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Answers the question about Kaito from row 13"
+  },
+  "15": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues reflecting on Kaito's departure from the family"
+  },
+  "16": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "low",
+   "why": "Continues the same reflective thought as row 15"
+  },
+  "17": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "Calls Yagami and Kaito 'the sons I never had', continuing his reflection"
+  },
+  "18": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "low",
+   "why": "Philosophical closing remark continuing his own reflection"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "Short agreement 'True' responding to Matsugane's row 18; cue pool is all-male (yagami,shintani,hoshino)"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues speaking to Matsugane about Kaito 'under your watch'"
+  },
+  "21": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "First-person reflection on Kaito being like his aniki, continues row 20"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "First-person 'If not for you, I would have...', addressing Matsugane directly"
+  },
+  "23": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds to Yagami's row 22, again calling him 'my boy'"
+  },
+  "24": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint (twice)"
+  },
+  "25": {
+   "speaker": "Matsugane office aide",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue=male(hoshino,yagami) indicates a male voice serving tea; not Yagami himself since he is the one being served"
+  },
+  "26": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Resumes pressing Yagami about the real reason for his visit (continues into row 27)"
+  },
+  "27": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues row 26's question"
+  },
+  "28": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Answers Matsugane's question, explaining Hamura is causing him trouble"
+  },
+  "29": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "low",
+   "why": "Reacts to Yagami's mention of Hamura; hint conflict (talk=Yagami, cue=aragaki) likely generic reused bark"
+  },
+  "30": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues explaining his assumption about Genda handling the case"
+  },
+  "31": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Asks Yagami if he's helping with the case, continuing row 29"
+  },
+  "32": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Answers about Shintani sending him after the Kyorei Clan"
+  },
+  "33": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues his own explanation from row 32"
+  },
+  "34": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Warns Yagami about the Kyorei Clan being 'up in arms'"
+  },
+  "35": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "low",
+   "why": "Continues the warning from row 34"
+  },
+  "36": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Reassures Matsugane he only wants to talk"
+  },
+  "37": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Asks Matsugane about the Kajihira Group, continuing his questioning"
+  },
+  "38": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Initial modest denial before elaborating on the Kajihira Group in rows 39-41"
+  },
+  "39": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Elaborates on the Kajihira Group, continuing row 38"
+  },
+  "40": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues explaining the KJ Art front"
+  },
+  "41": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues warning about Kyorei presence at KJ Art"
+  },
+  "42": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Repeats the info back to himself, typical detective confirmation"
+  },
+  "43": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Confirms he'll check out the lead just given"
+  },
+  "44": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "Shifts topic, acknowledging Yagami is busy"
+  },
+  "45": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "Asks to visit 'your office' (Yagami's) discreetly, continuing row 44"
+  },
+  "46": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint (twice), agreeing to the visit"
+  }
+ }
+}

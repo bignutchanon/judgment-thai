@@ -1,0 +1,59 @@
+{
+ "scene": "a01_025",
+ "rows": {
+  "1": {
+   "speaker": "Thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Defeated thug from the prior fight reacting to Yagami in shock; registry confirms thug archetypes are male"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; declares the fight over"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; radio call to Kaito"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues radio call, asks about the tail target"
+  },
+  "5": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Responds with target's location"
+  },
+  "6": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Tells Yagami to hurry over"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Short acknowledgement continuing radio exchange with Kaito; talk hint names an unrelated shared-VO character (Kojiro) not in this scene's cast"
+  },
+  "8": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues urging Yagami to hurry"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Worries about being made by the tail target"
+  }
+ }
+}

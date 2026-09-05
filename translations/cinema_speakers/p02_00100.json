@@ -1,0 +1,13 @@
+{
+ "scene": "p02_00100",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration ('The year is 2018')"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration naming Yagami as 'he', not Yagami speaking himself"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "6": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration ('he can't shake the feeling')"},
+  "7": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration ('He gives this anonymous killer a name')"},
+  "8": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration reporting what Yagami calls him, not Yagami speaking directly"}
+ }
+}

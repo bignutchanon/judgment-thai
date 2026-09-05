@@ -1,0 +1,125 @@
+{
+ "scene": "a01_040",
+ "rows": {
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Opening narration monologue about Kamurocho, continuous single voiceover later self-identified as Takayuki Yagami (row18)"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue, introduces the burglary ring subplot"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue, transitions to the murders"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue about the Kansai yakuza killings"
+  },
+  "12": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "13": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue, describing a victim"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues opening narration monologue"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; first-person 'I run a detective agency', confirms Yagami as narrator"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; introduces Kaito as his partner"
+  },
+  "17": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; 'And me?' self-referential transition"
+  },
+  "18": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; explicitly states 'I'm Takayuki Yagami'"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; continues about his lawyer's badge"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Concludes the opening narration monologue"
+  }
+ }
+}

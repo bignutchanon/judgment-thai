@@ -1,0 +1,197 @@
+{
+ "scene": "a01_060",
+ "rows": {
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Greets Saori upon arriving at Genda Law Office"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues, offering dorayaki"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; narrates arriving at his former workplace"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues narrating observations about the office"
+  },
+  "5": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "Greets Yagami by name; registry confirms Hoshino is male"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Addresses Hoshino (calls him 'Hoshino-kun' in EN-B), asks how he's settling in"
+  },
+  "7": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; responds about settling in well"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues teasing Hoshino about passing the bar with top marks"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues teasing about why Hoshino chose this smaller office"
+  },
+  "10": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "Flustered response to Yagami's teasing"
+  },
+  "11": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Interjects, prompting Yagami's greeting 'Evening, Genda-sensei' in the next line; registry confirms Genda is male"
+  },
+  "12": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; greets Genda"
+  },
+  "13": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; narrates his father-figures, sets up mentioning Genda-sensei"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues narration naming Genda-sensei as one of those figures"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; narrates how Genda gave him a job before finishing law school"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; asks Genda about Shintani's whereabouts"
+  },
+  "17": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds about Shintani ('that boy'), fits Genda's paternal tone toward his employees"
+  },
+  "18": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues teasing Yagami about his rivalry with Shintani"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; reacts to Genda's teasing"
+  },
+  "20": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues asserting the Yagami-Shintani rivalry"
+  },
+  "21": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Presses Yagami to admit the rivalry, continuing the same needling thought as row20"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; defends Shintani as a mentor, denying the rivalry framing"
+  },
+  "23": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; changes subject to ask Genda about a job/position"
+  },
+  "24": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds to Yagami's question about the job"
+  },
+  "25": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Tells Yagami to show his senpai more respect"
+  },
+  "26": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Notices/addresses Genda approaching for dorayaki"
+  },
+  "27": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; offers Genda dorayaki"
+  },
+  "28": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; tells Genda to sit while he gets one"
+  },
+  "29": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; surprised reaction (discovering the dorayaki are gone)"
+  },
+  "30": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Genda; calls out to Saori"
+  },
+  "31": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues asking Saori if she ate them all"
+  },
+  "32": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "Marked F; admits to eating all but half of the dorayaki"
+  }
+ }
+}

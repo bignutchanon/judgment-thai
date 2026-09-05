@@ -1,0 +1,12 @@
+{
+ "scene": "a08_023",
+ "rows": {
+  "1": {"speaker": "Matsugane", "gender": "male", "conf": "high", "why": "comments on how easily Yagami and Kaito handled the fight, direct continuation from a08_020's brawl"},
+  "2": {"speaker": "Matsugane", "gender": "male", "conf": "high", "why": "row marked M; reflects on his own age"},
+  "3": {"speaker": "Matsugane", "gender": "male", "conf": "high", "why": "row marked M; laments having faded away"},
+  "4": {"speaker": "Matsugane", "gender": "male", "conf": "high", "why": "addresses Yagami with his signature epithet 'my boy'"},
+  "5": {"speaker": "Matsugane", "gender": "male", "conf": "high", "why": "continues lamenting getting worse with age"},
+  "6": {"speaker": "Matsugane", "gender": "male", "conf": "high", "why": "concludes the lament, 'damn tragic'"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses Matsugane sympathetically by name, closing the scene"}
+ }
+}

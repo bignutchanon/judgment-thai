@@ -1,0 +1,13 @@
+{
+ "scene": "a10_010",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) hint confirms; calling for Kaito"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues Yagami's own thought about feeling watched after unanswered call"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues row 2"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "calling for Kaito again"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "EN-B addresses Kaito by name for help -- speaker cannot be Kaito himself"},
+  "6": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "arrives as backup, casual 'buddy' address fits partner dynamic responding to row 5's call"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "cue=mixed(mafuyu,yagami) includes yagami; relieved reaction to Kaito's arrival"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "complains to Kaito about accidentally bringing more enemies along"}
+ }
+}

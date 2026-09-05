@@ -1,0 +1,155 @@
+{
+ "scene": "a02_030",
+ "rows": {
+  "1": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Mocks Yagami for telling the boss (Matsugane) about him, continuing the a02_020 conflict"
+  },
+  "2": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the mocking from row 1"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds to Hamura's mockery"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Explains his reasoning for telling Matsugane, continuing row 3"
+  },
+  "5": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Angrily rejects Yagami's reasoning"
+  },
+  "6": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the threat from row 5"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds to Hamura's threat"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Tries to end the conversation, continuing row 7"
+  },
+  "9": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Refuses to let Yagami leave"
+  },
+  "10": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Addresses Yagami as 'Tak', continuing row 9"
+  },
+  "11": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reminisces about Yagami, continuing row 10"
+  },
+  "12": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues reminiscing about Yagami's background in law school"
+  },
+  "13": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the reminiscence/threat build-up"
+  },
+  "14": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Insults Yagami, continuing row 13"
+  },
+  "15": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Escalates to violence, continuing row 14"
+  },
+  "16": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Addresses henchman Ozaki by name to act"
+  },
+  "17": {
+   "speaker": "Ozaki",
+   "gender": "male",
+   "conf": "low",
+   "why": "Threatens Yagami about his 'last sight' (eye-gouging), following Hamura's order to Ozaki in row 16"
+  },
+  "18": {
+   "speaker": "Unidentified captive",
+   "gender": "female",
+   "conf": "low",
+   "why": "cue=female(mafuyu,emi) on this struggle line; unclear who this is, possibly a generic reused struggle bark in this otherwise all-male confrontation"
+  },
+  "19": {
+   "speaker": "Ozaki",
+   "gender": "male",
+   "conf": "low",
+   "why": "'Just kidding', continuing the taunt from row 17"
+  },
+  "20": {
+   "speaker": "Yosuke Saotome",
+   "gender": "male",
+   "conf": "med",
+   "why": "Interrupts the torture threat; later confirmed as the stranger Yagami asks 'who are you' in a02_040 row 1"
+  },
+  "21": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "low",
+   "why": "Defiant response to the interruption"
+  },
+  "22": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "low",
+   "why": "Orders the kill, continuing row 21"
+  },
+  "23": {
+   "speaker": "Matsugane thug",
+   "gender": "male",
+   "conf": "low",
+   "why": "Comic-relief complaint about turn order during the ensuing fight"
+  },
+  "24": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Confused reaction to the thugs' argument; cue pool includes yagami"
+  },
+  "25": {
+   "speaker": "Matsugane thug",
+   "gender": "male",
+   "conf": "low",
+   "why": "Continues the comic-relief argument from row 23"
+  }
+ }
+}

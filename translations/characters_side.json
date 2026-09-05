@@ -1,0 +1,1863 @@
+{
+ "named_individual_npc": {
+  "description": "NPC มีชื่อเฉพาะ (นามสกุล/ชื่อคน) ปรากฏในเควสเสริม/ฉากเดียวหรือไม่กี่ฉาก ไม่มีข้อมูลบุคลิกเพียงพอจากงานวิจัยนี้ที่จะจัดเป็นตัวละครหลัก — กลุ่ม catch-all ใหญ่ที่สุด นักแปลควรอ่าน string บริบทรอบข้างเพื่อกำหนดโทนเป็นรายเควส",
+  "pronoun_self": "ตามเพศที่พอเดาได้จากชื่อ/บทบาท — ถ้าเดาไม่ได้ให้เป็นกลาง",
+  "pronoun_to_others": "กลางๆ/คุณ (ตามความสุภาพที่ EN สื่อ — ห้ามขยับไป แก/มึง เว้นมี EN หยาบรองรับชัดเจน)",
+  "register": "ตามบริบทฉาก (ส่วนใหญ่เป็นชาวบ้าน/ลูกค้า/คนรู้จักในเควสเสริม)",
+  "endings": "ตาม EN",
+  "notes": "⚠ กับดักชื่อพ้อง: 'Norika' (ノリカ, มีพ่อ/แม่ในกลุ่มนี้) ไม่ใช่คนเดียวกับ 'Noriko Taguchi' (田口紀子, มีสามีในกลุ่มนี้) แม้ชื่อคล้ายกันมาก · 'Kondo'/'Hamanaka' ในกลุ่มนี้ คนละคนกับ 'Homeless Kondo'/'Homeless Hamanaka' ในกลุ่ม homeless แม้อักษร JA เหมือนกัน (近藤/浜中 ซ้ำกับคนไร้บ้านชื่อเดียวกัน — ตรวจ idx ก่อนแปล) · 'Ass Catchem' (本山) เป็นตัวละครโรคจิตลวนลามที่วนซ้ำข้ามภาคในซีรีส์ Yakuza/Judgment — K3 มีคำล็อกแล้วบางส่วน (ดูรายงาน) · 'Ono Michio' (小野ミチオ) มีคำล็อกแล้วจาก K3 glossary.md: 'โอโนะ มิชิโอะ' (ร้านราเมงล้อเลียนเชนดัง) — ใช้คำเดิม · 'Judge Creep 'n Peep' (トム/Tom) เป็นชื่อเล่นภาษาอังกฤษที่เกมตั้งเอง ไม่ใช่ทับศัพท์ญี่ปุ่นตรงตัว · 'Panty Professor' (小野上) เป็นตัวละครมุกตลกแนวเดียวกับที่ปรากฏซ้ำในซีรีส์ Yakuza ภาคอื่น · 'Voice of Tsukino' และ \"Takeda's Voice\" คือเสียงของ Tsukino Saotome (friend) และ Takeda (ชื่อเดียวกันในกลุ่มนี้) ที่ปรากฏนอกจอ/ทางโทรศัพท์ — ใช้โทนเดียวกับตัวจริง",
+  "members": [
+   "Hayama",
+   "Shijima",
+   "Makihara",
+   "Noriko Taguchi",
+   "Tokunaga",
+   "Saito",
+   "Uncivil Underling",
+   "Ota",
+   "Tsunawatari",
+   "Kitamura",
+   "Tatsuro",
+   "Naoko",
+   "Gamo",
+   "Shimazu",
+   "Yukako",
+   "Hasegawa",
+   "Hyuga",
+   "Asuka",
+   "Higurashi",
+   "Kawada",
+   "Ohata",
+   "Ayumu",
+   "The Mad Bomber",
+   "Meguro",
+   "Young Woman",
+   "Miki",
+   "Hohashi",
+   "Panty Professor",
+   "Norika",
+   "Norika's Dad",
+   "Norika's Mom",
+   "Akagawa",
+   "Kawasaki",
+   "Judge Creep 'n Peep",
+   "Oka",
+   "Takefumi",
+   "Mari's Friend",
+   "Ass Catchem",
+   "Ishikawa",
+   "Hiyama",
+   "Shizue",
+   "Minami",
+   "Hirasawa",
+   "Kojiro",
+   "Kiriko",
+   "Fumie",
+   "Seiya",
+   "Nishimura",
+   "Ono Michio",
+   "Hironaka",
+   "Inamine",
+   "Kaneda",
+   "Daisuke",
+   "Kumakura",
+   "Seiya Saotome",
+   "Kominato",
+   "Rei",
+   "Iseya",
+   "Takeda",
+   "Asano",
+   "Oyamada",
+   "Taeko",
+   "Wakahara",
+   "Yusuke",
+   "Shintaro",
+   "Ishimura",
+   "Adachi",
+   "Inamoto",
+   "Morimiya",
+   "Kasai",
+   "Koga",
+   "Sakakiba",
+   "Obayashi",
+   "Honda",
+   "Sunada",
+   "Fujinaga",
+   "Tatsuo",
+   "Maki",
+   "Tsubasa",
+   "Karin",
+   "Jin",
+   "Oikawa",
+   "Kabata",
+   "Naisu Daisu",
+   "Asami",
+   "Noriko's Husband",
+   "Ushimata",
+   "Akira",
+   "Ryuzenji",
+   "Yukikawa",
+   "Middle-aged Barker",
+   "Motomura",
+   "Kondo",
+   "Hamanaka",
+   "Sakakiba's Subordinate",
+   "Ren",
+   "Usui",
+   "Yamada",
+   "Tabuchi",
+   "Fukuhara",
+   "Mikiya",
+   "Ryuzenji's Butler",
+   "Shinano",
+   "Azuma",
+   "Pudding",
+   "Megumi",
+   "Aoi",
+   "Azusa",
+   "Yukko",
+   "Lady in a Fancy Dress",
+   "Tsumugi",
+   "Voice of Tsukino",
+   "Takeda's Voice"
+  ],
+  "pronoun_tier": "T1/T2 (ผสมตามบริบทของแต่ละ NPC ในกลุ่ม — ไม่บังคับเดี่ยว)",
+  "gender": "mixed",
+  "gender_confidence": "medium",
+  "gender_evidence": [
+   {
+    "source": "characters_side.json group description",
+    "quote": "NPC มีชื่อเฉพาะปรากฏในเควสเสริม/ฉากเดียว 122 ชื่อ",
+    "type": "role"
+   }
+  ]
+ },
+ "homeless": {
+  "description": "คนไร้บ้านในคามุโรโจ รวมกลุ่มคนไร้บ้าน 5 คนมีชื่อ (Kondo, Hamanaka, Murao, Teraoka, Fukuhara) ที่น่าจะเป็นคาสต์ตายตัวของเควสไร้บ้าน/ระบบเก็บของแบบเดียวกับ Onodera/Moroboshi ในกลุ่มเพื่อน (เพื่อนสองคนนี้ก็เป็นคนไร้บ้านเหมือนกัน แต่ถูกจัดเป็น 'friend' เพราะมีคำบรรยายบุคลิกให้ต่างหาก)",
+  "pronoun_self": "ฉัน (T2) หรือ กู (T3) ตามความหมดอาลัยตายอยาก/ความหยาบใน EN",
+  "pronoun_to_others": "แก (คู่กับฉัน) / มึง (คู่กับกู) — ห้ามผสมข้ามคู่",
+  "register": "อ่อนล้า บ่นๆ บางรายก้าวร้าวเพราะหิว",
+  "endings": "ตาม EN",
+  "notes": "อย่าสับสน 'Homeless Kondo/Hamanaka' (คนไร้บ้าน) กับ 'Kondo'/'Hamanaka' เฉย ๆ ใน named_individual_npc (คนละ JA id คนละตัวละคร แม้ชื่อพ้อง)",
+  "members": [
+   "Homeless Kondo",
+   "Homeless Hamanaka",
+   "Homeless Murao",
+   "Homeless Teraoka",
+   "Homeless Fukuhara",
+   "Diminutive Vagabond",
+   "Homeless Man",
+   "Homeless Guy",
+   "Homeless Takasaki",
+   "Homeless Tori"
+  ],
+  "pronoun_tier": "T2/T3 (ตามความหยาบของ EN)",
+  "gender": "mixed",
+  "gender_confidence": "medium",
+  "gender_evidence": [
+   {
+    "source": "speakers.json talk_talker tags",
+    "quote": "'Homeless Man', 'Homeless Guy' — คำเรียกในแท็กเองมีคำว่า Man/Guy",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "generic_crowd_passerby": {
+  "description": "ประชากรทั่วไปตามท้องถนน/ลูกค้าทั่วไป/นักท่องเที่ยว/คนแก่ทั่วไป ไม่มีบุคลิกเฉพาะ พูดสั้น ๆ 1-2 ประโยค (รวมกลุ่มผู้สูงอายุทั่วไปที่ไม่มีบุคลิกเด่นพอจะแยกกลุ่ม)",
+  "pronoun_self": "ฉัน/ผม/ดิฉัน ตามเพศ+วัยที่ระบุในชื่อ ('ฉัน' = ตัวเลือก T1 หญิงกลางๆ ตามตาราง §0)",
+  "pronoun_to_others": "คุณ (กลางๆ ไม่รู้ชื่อ)",
+  "register": "ธรรมดา ไม่มีลักษณะพิเศษ",
+  "endings": "ครับ/ค่ะ สำหรับผู้ใหญ่สุภาพ, กลางๆ สำหรับที่เหลือ",
+  "notes": "-",
+  "members": [
+   "Male Customer",
+   "Female Customer",
+   "Young Female Customer",
+   "Young Male Customer",
+   "Office Lady",
+   "Commuting Businessman",
+   "Meandering Host",
+   "Tourist from Overseas",
+   "Businessman",
+   "Random Passerby",
+   "Extraneous Passerby",
+   "Onlooker",
+   "Mahjong Customer",
+   "Passerby",
+   "Woman",
+   "Fan",
+   "Client",
+   "Old Receptionist",
+   "Old Man"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "mixed",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "characters_side.json member list",
+    "quote": "'Male Customer', 'Female Customer', 'Woman', 'Old Man' ฯลฯ",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "masked_heist_team": {
+  "description": "ทีมโจร/ตัวประหลาดสวมหน้ากาก 4 คน (Crow, Fox, Mascara, Man in Noh Mask) — ชื่อรหัสเป็นสัตว์/ละครโนห์ ปรากฏด้วยกันเป็นกลุ่ม น่าจะเป็นทีมมิจฉาชีพ/นักแสดงในเควสเสริมเฉพาะ ⏳ ยังไม่ยืนยันบทบาทแน่ชัด — ต้อง extract บทพูดจริงมาดูก่อน",
+  "pronoun_self": "⏳ ตามบทบาทที่จะยืนยันจาก EN จริง",
+  "pronoun_to_others": "⏳",
+  "register": "ลึกลับ/มีสีสันเฉพาะตัวตามฉายาสัตว์ที่ใช้",
+  "endings": "⏳ ตาม EN",
+  "notes": "จัดกลุ่มไว้ก่อนเพราะปรากฏชื่อเรียงกันในไฟล์ต้นฉบับ (idx ต่อเนื่อง 801-807 คั่นด้วย 緋山/Hiyama) — ยืนยัน context จริงก่อนแปล",
+  "members": [
+   "Crow",
+   "Man in Noh Mask",
+   "Fox",
+   "Mascara"
+  ],
+  "pronoun_tier": "⏳ รอยืนยันบทบาทจาก EN จริง",
+  "gender": "mixed",
+  "gender_confidence": "low",
+  "gender_evidence": [
+   {
+    "source": "characters_side.json member list",
+    "quote": "'Man in Noh Mask' — คำในชื่อเองระบุ Man",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "friend_takemitsu_owner": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เจ้าของร้านขนมสไตล์เกียวโตดั้งเดิม เจอปัญหาไม่หยุดตั้งแต่มาเปิดที่คามุโรโจ",
+  "pronoun_self": "⏳ รอพิสูจน์เพศ (ดู gender_evidence_judge.md) — T1 แต่ยังเลือก ผม/ดิฉัน ไม่ได้",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ/ค่ะ ⏳",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Takemitsu Owner"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx36",
+    "quote": "Seems like he's had nothing but trouble ever since opening up in Kamurocho.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_voluptuous_woman": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — หญิงรูปร่างสะดุดตาที่ชอบเล่นพนันที่ L'Amant ไม่มีชื่อจริงในเกม",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Voluptuous Woman"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx21",
+    "quote": "A lady with a nicely shaped posterior... I'm pretty sure she has an actual name...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_ichinose_kunio": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ประธานร้าน Ikinari Steak ตรรกะการบริหารธุรกิจแปลกแหวกแนวสำหรับตำแหน่งนี้",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "President of Ikinari Steak"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx48",
+    "quote": "His logic on how to run a business is pretty unique for a man of his position.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_mari": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ขาประจำที่บาร์ Bar Tender ผู้หญิงมีเสน่ห์ เข้ากับทุกคนได้ง่าย",
+  "pronoun_self": "ฉัน",
+  "pronoun_to_others": "คุณ หรือเรียก \"ทาคุ\" (ชื่อเล่นของยากามิ) — ห้ามใช้ \"แก\"",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ/คะ เป็นครั้งคราว (ไม่ต้องทุกประโยค)",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้ · lead ยืนยัน 21 ส.ค. 2026 จากบทที่ ship แล้ว 92 บรรทัด: มาริใช้ \"ฉัน\" คู่กับ \"คุณ\"/\"ทาคุ\" ไม่ใช่ \"แก\" — สนิทแต่ไม่ห้าว",
+  "members": [
+   "Mari"
+  ],
+  "pronoun_tier": "T1 (แบบสนิท)",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx6",
+    "quote": "A regular at Bar Tender. A charismatic woman that gets along with most people.",
+    "type": "en_gendered_noun"
+   },
+   {
+    "source": "evidence.json idx99",
+    "quote": "In truth, she's just a gambler with a lot of skill and a little luck.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_matsuzaki": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เจ้าของร้านยากินิกุหรู Kanrai ท่าทีเป็นมืออาชีพสมกับเป็นผู้จัดการร้านระดับสูง",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "สุภาพ เป็นมืออาชีพ สมกับเป็นผู้จัดการร้านยากินิกุระดับสูง",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) · เพศยืนยันแล้ว (ชาย) จาก friends.json idx13 \"His professional demeanor…\" · บทที่ ship แล้วใน TALK_017 ใช้ ผม/ครับ",
+  "members": [
+   "Matsuzaki"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx13",
+    "quote": "His professional demeanor befits his role as the manager of a classy restaurant.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_onodera": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — คนไร้บ้านที่อาศัยอยู่ในท่อระบายน้ำ ค้าขายของแปลก ๆ ให้ยากามิเป็นครั้งคราว",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Onodera"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "talk.bin.json line 553269",
+    "quote": "Meanwhile, Onodera-san was mumbling about how interesting an experience this was. He just watched from the corner.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_bantam_owner": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เจ้าของบาร์หรูในคามุโรโจ อัธยาศัยดี เชี่ยวชาญการผสมเครื่องดื่ม",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Bantam Owner"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx12",
+    "quote": "Revered by customers for his amicable personality and bartending expertise.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_yosuke": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พี่ชายฝาแฝดของสึกิโนะ นักศึกษาเต็มเวลา รับงานพาร์ทไทม์เป็นตัวชักชวนลูกค้า",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Yosuke"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx91",
+    "quote": "The older twin. He's kind of a delicate flower, but there's something about him that's kind of impish. He dotes on his little sister, Tsukino.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_madoka": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — โฮสเตสที่ Apple Pie คาบาเรต์ ทำงานหาเงินค่าเทอม",
+  "pronoun_self": "ฉัน (lead ล็อก 21 ส.ค. 2026 — โฮสเตสมืออาชีพคุยกับลูกค้า ไม่ใช้ \"หนู\" แม้บุคลิกขี้อาย · ผู้ตรวจ TALK_065 ยืนยัน)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Madoka"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx45",
+    "quote": "A hostess at Apple Pie, a local cabaret club. She got a job there to pay her college tuition.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_tateyama": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงานบริษัทไอที G.A. Labs คุมงานก่อสร้างสำนักงานใหม่ของบริษัท",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Tateyama"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx32",
+    "quote": "He's currently in charge of constructing the company's new office.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_katagiri": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — นักเขียนชื่อดังเจ้าของซีรีส์ 'Edison' มักพบดื่มอยู่ที่ Shellac",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Katagiri"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "talk.bin.json line 68082",
+    "quote": "Have you ever heard of Takumi Katagiri? He's a mystery writer.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_nasugawa": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ผู้จัดการ Akaushimaru สาขาย่านโรงแรม อัธยาศัยดี เข้าถึงง่าย",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Nasugawa"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx24",
+    "quote": "He's pretty down-to-earth and easy to get along with.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_moroboshi": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — คนไร้บ้านในท่อระบายน้ำ เคยเป็นหมอในมหาวิทยาลัยแพทย์มาก่อน",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Moroboshi"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx35",
+    "quote": "A homeless man who lives in the sewers. Apparently he used to be a doctor at a medical university.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_kiyoshiro": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงานร้านสะดวกซื้อ Poppo ไม่ค่อยมีอะไรโดดเด่นให้จำ",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Kiyoshiro"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx29",
+    "quote": "A guy who works at Poppo, the local convenience store. I honestly don't remember much about him.",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "friend_hatano": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — นักพัฒนาสินค้าเบสบอล ขายอุปกรณ์เบสบอลชั้นดีราคาย่อมเยา",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Hatano"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "unknown",
+  "gender_confidence": "low",
+  "gender_evidence": []
+ },
+ "friend_inose": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ผู้จัดการร้าน Wild Jackson กังวลเรื่องอนาคตร้านตลอดเวลา",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Inose"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx2",
+    "quote": "The manager of Wild Jackson who constantly seems to be worried about the fate of his business.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_kamaguchi": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ซีอีโอ Turtle Financing ลงมือทวงหนี้ด้วยตัวเอง",
+  "pronoun_self": "ฉัน",
+  "pronoun_to_others": "นาย",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ว่ะ/นะ (ไม่ใช้ ครับ)",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้ · lead แก้ 21 ส.ค. 2026: บทที่ ship แล้วใน TALK_034/035 ใช้ ฉัน/นาย ไม่ใช่ ผม/ครับ ตามที่โปรไฟล์เดิมเดาไว้",
+  "members": [
+   "Kamaguchi"
+  ],
+  "pronoun_tier": "T2",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx46",
+    "quote": "The CEO of Turtle Financing. It seems that he goes out and collects the debts himself.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_sagara": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงาน Café Alps บาริสต้ามือฉมัง รู้ลึกเรื่องกาแฟ",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Sagara"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx10",
+    "quote": "As one might expect from a veteran barista, he boasts an extensive knowledge of coffee.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "flavor_npc_with_trait": {
+  "description": "NPC ไม่มีชื่อเฉพาะแต่มีคำคุณศัพท์/บทบาทสื่อบุคลิกชัด (เช่น 'Rude Dude', 'Ditzy Lady', 'Suicidal Man', 'Outgoing Barker', 'Fortune-teller Lady') ปรากฏบทพูดสั้นเฉพาะจุด/เควสเสริม — กลุ่มใหญ่อันดับสองรองจากพนักงานร้าน แปลบุคลิกตามคำคุณศัพท์ในชื่อ+บริบท EN จริงประกอบ",
+  "pronoun_self": "ตามเพศ/อารมณ์ที่สื่อในชื่อ — ต้องอ่าน EN จริงประกอบ",
+  "pronoun_to_others": "แล้วแต่บริบท (ห้ามข้ามคู่ — ผม/ดิฉัน คู่กับ คุณ · ฉัน คู่กับ แก · กู คู่กับ มึง)",
+  "register": "มีสีสัน/อารมณ์เฉพาะตัวตามคำคุณศัพท์ (โกรธ/ขี้อาย/หื่น/ตื่นตระหนก/เมา ฯลฯ)",
+  "endings": "ตาม EN",
+  "notes": "กลุ่ม catch-all รองท้าย — รวมคู่รักจู๋จี๋ ('Lovey-dovey Man/Woman'), แก๊งเรียกแขก ('Barker' ทุกวัย), เควสหลงเด็ก ('Lost Boy'×2 คนละ JA id), เควสสวมหน้ากากปล้น (ไม่รวม 4 ตัวใน masked_heist_team) · นักแปลควรอ่าน string บริบทรอบข้างก่อนกำหนดโทนรายเควส",
+  "members": [
+   "Rude Dude",
+   "Man in Black",
+   "Undercut Mafioso",
+   "Released Man",
+   "Cry for Help",
+   "Blonde Man",
+   "Tall Man",
+   "Uncouth Youth",
+   "Black-haired Lady",
+   "Hunting Man",
+   "Lady with Suave Pants",
+   "Woman with Glasses",
+   "Small Man",
+   "Tough Guy",
+   "Lost Boy",
+   "Lost Boy's Mother",
+   "Young Barker",
+   "Man from the Rip-off Bar",
+   "Muscular Man",
+   "Dine-and-Dasher",
+   "Weary Middle-aged Man",
+   "Young Blonde Guy",
+   "Long-haired Loafer",
+   "Outgoing Barker",
+   "Young Man",
+   "Young Women",
+   "Female Scream",
+   "Burglary Ring Supporter",
+   "Cat-loving Lady",
+   "Young Janitor",
+   "Shogi Lover",
+   "Middle-aged Man",
+   "Nameless Shogi Player",
+   "Long-haired Woman",
+   "Blond-haired Host",
+   "Cowardly Youth",
+   "Suspicious Tiny Man",
+   "Hungry Boy",
+   "Blonde Woman",
+   "Superficial Stripling",
+   "Panicking Man",
+   "Determined Young Man",
+   "Short-haired Man",
+   "Timid Secretary",
+   "Ostentatious Woman",
+   "Suave Gentleman",
+   "Easygoing Youngster",
+   "Mirthful Madam",
+   "Friendly Young Guy",
+   "Blonde Host",
+   "Frivolous Young Man",
+   "Thick Housewife",
+   "Hostess",
+   "Woman",
+   "Man in a Ski Mask",
+   "Frustrated Woman",
+   "Troubled Woman",
+   "Older-looking Highschool Girl",
+   "Panicking College Girl",
+   "Man in a Suit",
+   "Woman in a Sexy Dress",
+   "Long-haired Host",
+   "Furious Secretary",
+   "Lovey-dovey Man",
+   "Lovey-dovey Woman",
+   "Suspicious Man",
+   "Uniformed Man",
+   "Drunk Woman",
+   "Guitarist Girl",
+   "Fan Wearing a Jacket",
+   "Portly Fan",
+   "Fortune-teller Lady",
+   "Masked Man",
+   "Energetic Boy",
+   "Smiling Man",
+   "Older Lady",
+   "Woman with a Mole Under Her Eye",
+   "Suicidal Man",
+   "Pretty Woman",
+   "Man in Suit",
+   "Woman with a Kansai Dialect",
+   "Blond Foreigner",
+   "Debt Collector",
+   "Suspicious Fan",
+   "Bald Man",
+   "Gorgeous Girl",
+   "Taxi Driver",
+   "Taxi Robber",
+   "Pervert",
+   "Challenger",
+   "Military Man",
+   "Ninja?",
+   "Cane Man?",
+   "Running Man",
+   "Industry Official?",
+   "Host",
+   "Barker"
+  ],
+  "pronoun_tier": "T1/T2/T3 (ผสมตามบริบทของแต่ละ NPC — อ่าน EN รายบรรทัดก่อนกำหนด)",
+  "gender": "mixed",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "characters_side.json member list",
+    "quote": "รายชื่อมีทั้ง '...Man', '...Woman', '...Lady', '...Guy' คู่กันชัดเจน",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "smoking_area_regulars": {
+  "description": "คาสต์ตายตัวของ 'มุมสูบบุหรี่' (id ขึ้นต้นด้วย 喫煙_) — พื้นที่แอบฟังบทสนทนาซุบซิบของ NPC เป็นเควสเสริมย่อยเฉพาะจุด (Enthusiastic Kohai, Tired Senpai, Exhausted Corporate Peon, Ditzy Lady, Energetic Youth, Young Worker, Gossipy Worker + คนไร้บ้าน/อันธพาลที่แวะมาสูบบุหรี่ด้วย)",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "กลางๆ (ส่วนใหญ่คุยกันเองไม่ได้คุยกับยากามิโดยตรง — เป็นบทสนทนาที่ผู้เล่นแอบฟัง)",
+  "register": "เมามันส์/บ่นงาน/ซุบซิบ ตามคู่สนทนาที่ปรากฏด้วยกัน (รุ่นพี่-รุ่นน้อง, พนักงานออฟฟิศ)",
+  "endings": "ครับ",
+  "notes": "บทพูดกลุ่มนี้ส่วนใหญ่เป็นบทคุยกันเองระหว่าง NPC สองคนขึ้นไป ไม่ใช่คุยกับยากามิ — แปลให้ฟังเป็นบทสนทนาธรรมชาติระหว่างคนไทยสูบบุหรี่คุยกัน",
+  "members": [
+   "Aging Punk",
+   "Black-haired Punk",
+   "Homeless Yamanami",
+   "Enthusiastic Kohai",
+   "Tired Senpai",
+   "Exhausted Corporate Peon",
+   "Ditzy Lady",
+   "Energetic Youth",
+   "Young Worker",
+   "Gossipy Worker"
+  ],
+  "pronoun_tier": "T1/T2 (ตามความสนิทของคู่สนทนาในฉาก — ส่วนใหญ่คุยกันเองแบบเพื่อนร่วมงาน/รุ่นพี่-รุ่นน้อง)",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "talk.bin (judge_smoker_talk01/02) — ผู้ตรวจ TALK_068 หาเจอ",
+    "quote": "\"...I wonder if he used to work at an office\" / \"I was a working man, just like you\"",
+    "note": "ยืนยันชายทั้งคู่ · master_th มีบทของกลุ่มนี้ที่ ship แล้ว 32 บรรทัดใช้ ผม/ครับ · lead อัปเดต 21 ส.ค. 2026 หลังผู้ตรวจ TALK_069 เกือบแก้กลับเป็นกลางเพราะการ์ดใบนี้ยังขึ้น low"
+   }
+  ]
+ },
+ "mystery_placeholder": {
+  "description": "แท็ก '???'/'Mysterious Man'/'Unknown Man'/'謎の人物' ใช้ปิดบังตัวตนจริงก่อนเฉลยในปมเรื่อง (สปอยล์) — ตัวตนจริงมักเป็นตัวละครหลักหรือตัวร้ายที่ถูกเผยชื่อภายหลัง เช่น '？？？_真冬'/'？？？_達郎' บ่งชี้ว่าเสียงลึกลับนั้นคือ Mafuyu/Tatsuro พูดในอีกบทบาทหนึ่ง",
+  "pronoun_self": "⏳ ตามตัวตนจริงที่จะเฉลย — ห้ามเดาก่อนอ่าน context",
+  "pronoun_to_others": "⏳ ตามตัวตนจริง",
+  "register": "ลึกลับ กดเสียง ปิดบังตัวตน",
+  "endings": "⏳ ตาม EN",
+  "notes": "⚠ ระวังสปอยล์ — แท็กที่มีต่อท้ายชื่อ (เช่น _真冬, _達郎, _爆弾犯, _ダイヤモンド, _窃盗団のファン, _キャッチ) บอกใบ้ว่าเป็นใคร ให้เทียบสรรพนามกับตัวละครนั้นเมื่อเฉลยแล้ว ไม่ใช่ใช้โทนกลางตลอดทั้งบท · 'さまよえる老人' (Wandering Old Man) ถูกเกมเองแท็กเป็น '???' ทั้งที่ id ภาษาญี่ปุ่นดูเป็นคนแก่ธรรมดา ระวังอาจเป็นปมปริศนา",
+  "members": [
+   "???",
+   "Mysterious Man",
+   "Unknown Man"
+  ],
+  "pronoun_tier": "⏳ ตามตัวตนจริงที่จะเฉลย (ห้ามเดาก่อน context)",
+  "gender": "unknown",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "characters_side.json group notes",
+    "quote": "แท็ก '???' ใช้ปิดบังตัวตนจริงก่อนเฉลยในปมเรื่อง (สปอยล์)",
+    "type": "role"
+   }
+  ]
+ },
+ "foreign_gang": {
+  "description": "ตัวละครต่างชาติที่เกี่ยวข้องกับแก๊งข้ามชาติ/ทหาร (Wang, Zhuang Shi ชื่อจีน, G.I. ทหารอเมริกัน) — ปรากฏน้อย ไม่ใช่กลุ่มหลักของเนื้อเรื่อง Judgment ภาคนี้ (คนละกลุ่มกับ Snake Flower Triad ของ K3)",
+  "pronoun_self": "ผม (T1) หรือ ฉัน (T2) ตามบทบาท — เลี่ยง 'ข้า' (สงวนเฉพาะฉากดราม่า/พีเรียดตาม §0.1)",
+  "pronoun_to_others": "คุณ (คู่กับผม) / แก (คู่กับฉัน)",
+  "register": "ตามบทบาท — ห้ามแปลงเป็นสำเนียงจีน/ฝรั่งปลอมๆ",
+  "endings": "ตาม EN (ห้ามใส่สำเนียงถิ่นปลอม)",
+  "notes": "ตามหลัก PRONOUN_MATRIX ข้อ 5 (ไม่แปลงสำเนียงเป็นภาษาถิ่น/สำเนียงต่างชาติปลอม) — ชื่อจีนทับศัพท์ตามเสียงจีนไม่ใช่เสียงญี่ปุ่น (เช่น Zhuang Shi) · ⚠ 'Zhuang Shi' ถูกย้ายออกจากกลุ่มนี้ 21 ส.ค. 2026: ไม่ใช่คน — เป็น**แมว** (talk.bin.json: \"Zhuang Shi isn't my cat. He is the pet cat of...\") ย้ายไปกลุ่ม animal_mascot",
+  "members": [
+   "Wang",
+   "G.I."
+  ],
+  "pronoun_tier": "T1/T2 (ตามบทบาท)",
+  "gender": "male",
+  "gender_confidence": "medium",
+  "gender_evidence": [
+   {
+    "source": "talk.bin.json line 91348",
+    "quote": "You hear that, kitty? You've gotta learn to like Wang-san here. He's your new owner.",
+    "type": "en_pronoun"
+   },
+   {
+    "source": "talk.bin.json line 202900",
+    "quote": "Then perhaps Wang-san is a very wealthy man by now!",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "police": {
+  "description": "ตำรวจ/นักสืบ (Veteran Detective, Police, Dopey Cop, Serious Cop) ปรากฏน้อยกว่าตำรวจใน K3 เพราะยากามิไม่ใช่ยากูซ่า แต่เป็นอดีตทนาย/นักสืบเอกชนที่ทำงานใกล้ชิดตำรวจมากกว่า",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/คุณ (กับพลเรือน) · ครับผม (กับผู้บังคับบัญชา)",
+  "register": "ทางการ แข็ง มีระเบียบวินัย — 'Dopey Cop' ผ่อนคลายกว่าเล็กน้อยตามชื่อ",
+  "endings": "ครับ",
+  "notes": "ตามหลัก fallback §3 ของ PRONOUN_MATRIX (ตำรวจ/ทางการ) — สืบทอดจาก K3",
+  "members": [
+   "Veteran Detective",
+   "Police",
+   "Dopey Cop",
+   "Serious Cop"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "unknown",
+  "gender_confidence": "low",
+  "gender_evidence": []
+ },
+ "friend_xiu": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — นักเรียนแลกเปลี่ยนทำงานที่ Akaushimaru เริ่มเรียนญี่ปุ่นจากการฟังเพลง J-pop",
+  "pronoun_self": "⏳ รอพิสูจน์เพศ (ดู gender_evidence_judge.md) — T1 แต่ยังเลือก ผม/ดิฉัน ไม่ได้",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ/ค่ะ ⏳",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Xiu"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "unknown",
+  "gender_confidence": "low",
+  "gender_evidence": []
+ },
+ "friend_kyushu_no1_star_owner": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ผู้จัดการร้านราเมงชื่อดัง เคล็ดลับความอร่อยคือน้ำซุปสูตรดั้งเดิม",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Kyushu No. 1 Star Owner"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   "judge_friend_a09: บทรำพึงของยากามิ \"(I'm glad he's back to his old self, now that everyone appreciates his cuisine…)\" อ้างถึงเจ้าของร้านด้วย he/his — นักแปล TALK_017 พบ"
+  ]
+ },
+ "friend_tashiro_kun": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — สมาชิกฉูดฉาดที่สุดของตระกูลมัตสึกาเนะ หน้าตาเหมือนตลกตกยุคแต่สายเลือดยากูซ่าเต็มตัว",
+  "pronoun_self": "ฉัน (T2) · กู เฉพาะตอนปะทะศัตรู",
+  "pronoun_to_others": "แก (กับยากามิ) · มึง (กับศัตรู)",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ว่ะ/นะ/เหรอ (ไม่ใช้ ครับ)",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้ · lead ตัดสิน 21 ส.ค. 2026 จากบทจริงใน judge_friend_a19: เขาพูดกับยากามิแบบหยาบคาย (Fuck off, man! / You really are an idiot, man.) ไม่มีคำสุภาพเลย จึงเป็น T2 ไม่ใช่ T1 ตามค่าเริ่มต้นของกลุ่ม friend",
+  "members": [
+   "Tashiro"
+  ],
+  "pronoun_tier": "T2",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx16",
+    "quote": "Despite looking like a washed-up comedian, he's yakuza to the core.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_tomioka": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เจ้าของตึก Building One ยากามิติดค่าเช่าเธอเป็นประจำ",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Tomioka"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx8",
+    "quote": "The owner of Building One. I owe her big-time because I'm always lagging on my rent...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_kaede": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงาน Quadra Garden ภาษาอังกฤษไม่ใช่จุดแข็งของเธอ",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Kaede"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx33",
+    "quote": "An employee of Quadra Garden. English is definitely not her strongest subject.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "animal_mascot": {
+  "description": "สัตว์/มาสคอต ไม่ใช่มนุษย์ (แมวข้างถนน, Koro-nyan มาสคอตของเกม UFO catcher/VR, มาสคอตงานอีเวนต์ทั่วไป)",
+  "pronoun_self": "เป็นกลาง/น่ารัก ตามคาแรกเตอร์มาสคอต",
+  "pronoun_to_others": "กลางๆ",
+  "register": "น่ารัก ไร้เดียงสา ไม่ใช่โทนมนุษย์ผู้ใหญ่",
+  "endings": "-",
+  "notes": "Koro-nyan พูดสำเนียงฮิโรชิม่าใน EN (ตาม popup_names.json: 'Why does Koro-nyan speak in a Hiroshima dialect?') — ⏳ พิจารณาว่าจะสื่อด้วยคำลงท้ายเฉพาะหรือไม่ตอนแปลบทจริง · Zhuang Shi = แมวของเจ้าของร้านที่เสียชีวิต (ยืนยันจาก talk.bin.json)",
+  "members": [
+   "Cat",
+   "Koro-nyan",
+   "Mascot",
+   "Zhuang Shi"
+  ],
+  "pronoun_tier": "N/A (ไม่ใช่มนุษย์ — ไม่ใช้ระบบสรรพนาม 3 ระดับ)"
+ },
+ "friend_deguchi": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ชายที่มาคามุโรโจหวังเป็นโฮสต์อันดับหนึ่งของเมือง เป็นหนี้ป้าตัวเองก้อนโต",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Deguchi"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx96",
+    "quote": "Taniyama-san's nephew, who turned out to be just an irresponsible kid. Maybe he'll learn something on that tuna boat.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_miharu": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงาน Café Mijore ลูกค้าชอบความร่าเริงของเธอ",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Miharu"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx39",
+    "quote": "An employee of Café Mijore. Customers seem to appreciate her bright, positive attitude.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_ryo_suzaki": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ชายว่างงานติดเหล้าที่ชอบก่อกวนคนอื่น พี่ชายฝาแฝดถือไม้เท้าเป็นยากูซ่า",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เสียงดัง เป็นกันเอง ขี้เมา — แต่ยังใช้ T1 กับยากามิ (ผม/คุณ) ตามบทที่ ship แล้วใน TALK_039/040",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้ · lead ยืนยัน 21 ส.ค. 2026: โทนห้าวแต่สรรพนามยังเป็น T1 ไม่ต้องลดเป็น T2 · lead ยืนยัน 21 ส.ค. 2026: **คง T1 (ผม/คุณ)** ตามบทที่ ship แล้ว — ความขี้เมา/เสียงดังสื่อผ่านถ้อยคำและคำลงท้าย ไม่ใช่ลดระดับสรรพนาม (ข้อเสนอขยับเป็น T2 จาก TALK_040 ตกไป)",
+  "members": [
+   "Ryo"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx14",
+    "quote": "An unemployed slacker who does nothing but drink all day and bother people. His cane-wielding twin brother is a yakuza.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_fujimori": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ผู้พัฒนาแอประดมทุน Quickstarter ค่อนข้างดราม่าเกินเหตุ",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Shin",
+   "Fujimori"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx37",
+    "quote": "The developer of a popular crowdfunding app known as Quickstarter. He's a bit too melodramatic for his own good...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_furuya": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — นักจัดกิจกรรมของ Wette Kitchen ให้ความสำคัญกับความเห็นลูกค้ามาก",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Furuya"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "talk.bin.json line 173768",
+    "quote": "Then be sure to ask for Furuya. He's the guy in charge over there.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_ryan_acosta": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ชาวต่างชาติที่แต่งตัวเป็นนินจา ฝึกวิชานินจาทั้งวันทั้งคืน",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Ryan"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx5",
+    "quote": "A foreigner who dresses up like a ninja. Apparently, he trains night and day to master the ninja arts.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_alice": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงานร้านสะดวกซื้อ Poppo ยิ้มหวาน",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Alice"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx27",
+    "quote": "A girl who works at Poppo, the local convenience store. She has a sweet smile.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_tanago": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ฉายา 'Mr. Try and Hit Me' นักตีเบสบอลฝีเท้าไว ตีโดนยาก",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Tanago"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx25",
+    "quote": "Also known as \"Mr. Try and Hit Me,\" his lightning-fast footwork makes him a challenge to hit.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_uozumi": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เชฟซูชิฝึกหัดที่ Sushi Gin เพิ่งกลับจากอยู่ต่างประเทศ",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Uozumi"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx22",
+    "quote": "A sushi chef-in-training working at Sushi Gin. Apparently he lived overseas until recently.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_hiranuma": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — นักข่าวอิสระ บางครั้งขอให้ยากามิช่วยหาข้อมูลข่าว",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Hiranuma"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx31",
+    "quote": "A freelance journalist. Sometimes he'll ask me to round up the details on a good story.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_dwayne": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงานร้านสะดวกซื้อ Poppo พลังงานล้นเหลือ",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Dwayne"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx30",
+    "quote": "A guy who works at Poppo, the local convenience store. I don't know where he gets all that energy from...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "media_press": {
+  "description": "สื่อมวลชน/นักข่าวโทรทัศน์ (Mass Media, Newscaster) ปรากฏตอนมีข่าวคดีดัง",
+  "pronoun_self": "ผม/ดิฉัน",
+  "pronoun_to_others": "คุณ",
+  "register": "ทางการแบบผู้ประกาศข่าว",
+  "endings": "ครับ/ค่ะ",
+  "notes": "-",
+  "members": [
+   "Mass Media",
+   "Newscaster"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "unknown",
+  "gender_confidence": "low",
+  "gender_evidence": []
+ },
+ "shop_restaurant_staff": {
+  "description": "พนักงาน/แคชเชียร์/เจ้าของร้าน/บาริสต้า/เชฟ/พนักงานต้อนรับทั่วเมืองคามุโรโจ (ร้านสะดวกซื้อ Poppo หลายสาขา, ร้านอาหารเชนจริงที่มีลิขสิทธิ์ในเกม เช่น Ikinari Steak, Sushi Zanmai, Gyu-Kaku, Ringer Hut, Don Quijote ฯลฯ, คาสิโน, ร้านเหล้า) กลุ่มใหญ่ที่สุด ไม่มีบุคลิกเฉพาะตัว พูดตามหน้าที่งาน",
+  "pronoun_self": "ดิฉัน/ผม",
+  "pronoun_to_others": "ลูกค้า/คุณ",
+  "register": "สุภาพแบบพนักงานบริการ ปรับตามความเป็นทางการของร้าน (ร้านหรู vs ร้านข้างถนน/ร้านเช่นสะดวกซื้อ)",
+  "endings": "ครับ/ค่ะ",
+  "notes": "ตามหลัก fallback §3 — หลายแท็กมีฟิลด์ change_talk_talker_1 แปลว่าตอนแรกเกมโชว์เป็นพนักงานทั่วไป แล้วภายหลังเผยว่าเป็นเพื่อน (friend) ที่ล็อกโปรไฟล์แยกแล้วในไฟล์นี้ เช่น 'Poppo Employee'→เผยเป็น Alice/Sota/Kiyoshiro/Dwayne, 'Ebisu Pawn Employee'→Fukutsu, 'Kanrai Employee'→Matsuzaki, 'Akaushimaru Employee'→Nasugawa/Xiu, 'Wette Kitchen Employee'→Furuya, 'Le Marche Employee'→Terahara, 'M Side Cafe Employee'→Mami, 'QUADRA店員'→Kaede, 'Smile Burger Employee'→Ida, 'Mijore Employee'→Norimoto/Miharu — บทพูด ณ จุดที่ยังเป็นแท็กทั่วไปให้แปลแบบพนักงานทั่วไปตามกลุ่มนี้ก่อน (ผู้เล่นยังไม่รู้ตัวตนจริง)",
+  "members": [
+   "Manager",
+   "Jo Masuda",
+   "Gold Plate Employee",
+   "Silver Plate Employee",
+   "Bronze Plate Employee",
+   "Steel Plate Employee",
+   "Convenience Store Clerk",
+   "Cat Food Aficionado",
+   "Server",
+   "Le Marche Employee",
+   "Kanrai Owner",
+   "Yoshida Owner",
+   "Akaushimaru Employee",
+   "Café Alps Employee",
+   "Mama",
+   "Bantam Staff",
+   "Don Quijote Clerk",
+   "Ebisu Pawn Employee",
+   "Fuji Soba Employee",
+   "Gindaco Highball Tavern Employee",
+   "Kanrai Employee",
+   "Ikinari Steak Employee",
+   "Poppo Employee",
+   "Ringer Hut Staff",
+   "Shellac Employee",
+   "Smile Burger Employee",
+   "Sushi Gin Owner",
+   "Sushi Zanmai Employee",
+   "Wette Kitchen Employee",
+   "Wild Jackson Employee",
+   "Yoronotaki Staff",
+   "Emerald Hills Employee",
+   "King Employee",
+   "M Side Cafe Employee",
+   "Quadra Garden Employee",
+   "Staff",
+   "Exchanger",
+   "Casino Employee",
+   "Karaoke Employee",
+   "Dealer",
+   "Young Chef",
+   "Koi Bride Owner",
+   "Drone Race Receptionist",
+   "Mijore Employee",
+   "Lullaby Employee",
+   "Modern Mahjong Employee",
+   "Club Sega Employee",
+   "L'Amant Employee",
+   "Dice & Cube Receptionist",
+   "Charles Receptionist",
+   "Apple Pie Employee",
+   "Middle-aged Employee",
+   "Chef",
+   "Diligent Worker",
+   "Drone Lab Receptionist",
+   "Beef Zone Employee",
+   "Easygoing Employee",
+   "Gyu-Kaku Employee",
+   "Unreliable Chef"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "mixed",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "characters_side.json group notes",
+    "quote": "บางแท็กเผยภายหลังว่าเป็นเพื่อน (friend) ที่ล็อกโปรไฟล์แยกแล้ว เช่น 'Poppo Employee'→Alice(หญิง)/Sota(ชาย)/Kiyoshiro(ชาย)/Dwayne(ชาย)",
+    "type": "role"
+   }
+  ]
+ },
+ "yakuza_thug_generic": {
+  "description": "อันธพาล/ยากูซ่าไม่มีชื่อเฉพาะ (Thug, Punk, Hoodlum, Minion, Lackey, Yakuza ทั่วไป) รวมสมาชิก 'Keihin Gang' (京浜同盟) แก๊งอันธพาลคู่แข่งที่ปรากฏซ้ำหลายจุด — ทั้งหมดเป็นคู่ปะทะข้างถนนของยากามิ ไม่ใช่ตัวละครมีบุคลิกลึก",
+  "pronoun_self": "ฉัน (T2) ~ กู (T3) ตามระดับความหยาบของ EN",
+  "pronoun_to_others": "แก (คู่กับฉัน) / มึง (คู่กับกู)",
+  "register": "หยาบ ข่มขู่ ก้าวร้าว",
+  "endings": "ว่ะ/โว้ย/เว้ย ตามระดับ EN",
+  "notes": "ตามหลัก fallback §3 (อันธพาลข้างถนน) — ห้ามใช้กู/มึงกับยากามิ (ตัวเอก) แต่ NPC กลุ่มนี้ใช้ได้ตามบริบท · Keihin Gang Thug ปรากฏซ้ำ 5 ครั้งในไฟล์ (สะกดชื่อแก๊งไม่ตรงกัน 2 แบบในข้อมูลดิบ: 京浜同盟 กับ 京浜同名 — 同名 น่าจะพิมพ์ผิดของ 同盟 ในไฟล์เกม ให้ยึด 'Keihin Gang' เป็นชื่อทางการ)",
+  "members": [
+   "Grown-ass Thug",
+   "Yakuza-esque Man",
+   "Exuberant Thug",
+   "Pushy Punk",
+   "Peppy Punk",
+   "Large Yakuza",
+   "Meddling Minion",
+   "Foul-mannered Flunky",
+   "Loutish Lackey",
+   "Black-suited Hooligan",
+   "White-suited Hooligan",
+   "Shakedown Superior",
+   "Shakedown Subordinate",
+   "Young Thug",
+   "Juvenile Delinquent",
+   "Fledgling Hoodlum",
+   "Blond-haired Yakuza",
+   "Dapper Yakuza",
+   "Thin Yakuza",
+   "Burly Yakuza",
+   "Trifling Minion",
+   "Nugatory Minion",
+   "Keihin Gang Thug",
+   "Thick-boned Thug",
+   "Thugs",
+   "Young Yakuza",
+   "Blonde Thug",
+   "Suspicious Yakuza",
+   "Thuggish Fan",
+   "Thug with Spunk"
+  ],
+  "pronoun_tier": "T2/T3 (ตามความหยาบของ EN)",
+  "gender": "male",
+  "gender_confidence": "medium",
+  "gender_evidence": [
+   {
+    "source": "speakers.json search",
+    "quote": "ไม่พบแท็ก 'Female Thug'/'Yakuza Woman' ใดๆ ในกลุ่มนี้ — สมาชิกทั้งหมดใช้คำเรียกที่เป็นชายในตัวชื่อเอง (Yakuza-esque Man ฯลฯ)",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "children_students": {
+  "description": "เด็กนักเรียน/นักศึกษาแบบไม่มีชื่อเฉพาะ (ประถม-มหาวิทยาลัย) พูดสั้น ๆ ข้างถนน",
+  "pronoun_self": "ผม/หนู ตามเพศที่สื่อในชื่อ",
+  "pronoun_to_others": "พี่/คุณ (กับยากามิ ผู้ใหญ่)",
+  "register": "วัยรุ่น สดใส/ขี้อาย/ตื่นตระหนกตามคำคุณศัพท์ในชื่อ",
+  "endings": "ครับ/ค่ะ อ่อนลงหรือไม่มีเลยสำหรับเด็กเล็ก/มัธยม",
+  "notes": "-",
+  "members": [
+   "Elementary Student",
+   "Strolling Student",
+   "Self-professed Foodie",
+   "Fancypants Freshman",
+   "Child",
+   "Highschooler",
+   "Scared Student",
+   "Unassuming Undergrad",
+   "Snobby Student",
+   "Ordinary Highschooler",
+   "Normal Highschooler",
+   "Unremarkable Student",
+   "Suspicious Student",
+   "Girl in a School Uniform"
+  ],
+  "pronoun_tier": "T1 (เด็ก — ผม/หนู + พี่/คุณ ตามธรรมเนียมเด็กไทย)",
+  "gender": "mixed",
+  "gender_confidence": "medium",
+  "gender_evidence": [
+   {
+    "source": "speakers.json",
+    "quote": "'Girl in a School Uniform' — คำในแท็กเองระบุ Girl",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "tanaka_imposter_case": {
+  "description": "ปมตัวตนปลอม 'ทานากะ' — มีทั้ง 田中（偽）(Tanaka ปลอม), 田中（本物）(Tanaka ตัวจริง), ？_田中 และ 田中？ (เครื่องหมายคำถามบ่งชี้ความไม่แน่ใจของตัวละครในเกมเอง) — เป็นปมเควสเสริมเรื่องคนแอบอ้างตัวตน",
+  "pronoun_self": "⏳ ตามบริบทฉาก",
+  "pronoun_to_others": "⏳ ตามบริบทฉาก",
+  "register": "คลุมเครือ น่าสงสัย ต้องแปลให้ผู้เล่นรู้สึกกังขาเหมือนต้นฉบับ",
+  "endings": "⏳ ตาม EN",
+  "notes": "⚠ ห้ามแปลให้เฉลยความจริงก่อนเกมเฉลยเอง — 'Tanaka?'/'?' คือความลังเลของตัวละครอื่นที่ไม่แน่ใจว่าคนตรงหน้าคือทานากะตัวจริงหรือไม่ ต้องคงความกำกวมนั้นไว้ในคำแปล",
+  "members": [
+   "Tanaka",
+   "?",
+   "Tanaka?"
+  ],
+  "pronoun_tier": "⏳ ตามบริบทฉาก (ตัวตนจริงยังคลุมเครือโดยตั้งใจ)",
+  "gender": "unknown",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "characters_side.json group notes",
+    "quote": "ปมตัวตนปลอม 'ทานากะ' — เครื่องหมายคำถามบ่งชี้ความไม่แน่ใจของตัวละครในเกมเอง",
+    "type": "role"
+   }
+  ]
+ },
+ "meta_system": {
+  "description": "แท็กระบบ/เมตา ไม่ใช่ตัวละครที่มีบุคลิกจริง (Test/Player/???/Everyone/All/Fans รวมกลุ่ม) — ต้องดู EN จริงเป็นรายบรรทัดก่อนกำหนดโทน เพราะบางรายการอาจเป็นเสียงบรรยาย/UI ไม่ใช่บทพูดตัวละคร",
+  "pronoun_self": "แล้วแต่บริบท — ไม่กำหนดตายตัว",
+  "pronoun_to_others": "แล้วแต่บริบท",
+  "register": "เป็นกลาง ไม่มีเพศ/อารมณ์ตายตัว",
+  "endings": "-",
+  "notes": "⏳ ต้องดู EN จริงเป็นรายบรรทัด ห้ามเดาบุคลิก · 'Everyone/All/Fans' = เสียงกลุ่มพูดพร้อมกัน ให้แปลกลางสรรพนาม ไม่มีครับ/ค่ะเฉพาะเพศ",
+  "members": [
+   "Test",
+   "Player",
+   "Fans",
+   "Everyone",
+   "All"
+  ],
+  "pronoun_tier": "N/A (แท็กระบบ/เมตา ไม่ใช่ตัวละคร)",
+  "gender": "unknown",
+  "gender_confidence": "high",
+  "gender_evidence": []
+ },
+ "friend_amamiya": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — หมอนวดจากโซเท็นโบริ พูดสำเนียงโอซาก้า (ห้ามแปลงเป็นสำเนียงไทยถิ่น สื่อด้วยคำลงท้ายแทน)",
+  "pronoun_self": "ฉัน (T1)",
+  "pronoun_to_others": "คุณยากามิ",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — เพศยืนยันแล้ว 21 ส.ค. 2026 (หญิง) จากบทพูดใน judge_friend_a13",
+  "members": [
+   "Amamiya"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   "judge_friend_a13: Grown-ass Thug เรียกเธอว่า \"you dirty girl!\" (คำเรียกเชิงเพศ ตาม §0.1 ข้อ 2) — ยืนยันโดยนักแปล TALK_010"
+  ]
+ },
+ "friend_tachibana": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงาน Tachibana Mahjong เล่นกติกา 'วาเรเมะ' ได้ที่นี่",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Yurika Tachibana"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "popup_names.json line 1520,1565",
+    "quote": "Yurika-chan... You're adorable... / I swear, these horndogs only come for Yurika-chan.",
+    "type": "honorific_weak"
+   },
+   {
+    "source": "extracted/facts/voicer_gender.json (sound_voicer.bin คอลัมน์ sex)",
+    "quote": "yurika_tachibana = female",
+    "note": "หลักฐานจากไฟล์เกมโดยตรง ชนะหลักฐานอ่อนจาก honorific -chan · lead อัปเดต 21 ส.ค. 2026 หลังนักแปล TALK_070 รายงาน"
+   }
+  ]
+ },
+ "friend_sana": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เด็กสาวใฝ่ฝันเป็นนักร้องนักแต่งเพลง อายุน้อยแต่มีความมุ่งมั่นสูง",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Sana"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx50",
+    "quote": "A girl aiming to be a professional singer-songwriter. Young, but motivated.",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "friend_amane": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — หมอดูที่มองเห็น 'ลางร้าย' ในตัวคน พูดจาแปลกกว่าคนทั่วไป",
+  "pronoun_self": "ฉัน (ค่าเริ่มต้นตั้งแต่ช่วงเควสเดตเป็นต้นไป · \"ดิฉัน\" เฉพาะฉากแรกพบ/แนะนำตัวกับคนแปลกหน้า — lead ล็อก 21 ส.ค. 2026 จากหลักฐาน master 58 ฉัน vs 38 ดิฉัน + TALK_055/056 ใช้ ฉัน ล้วน 232 บรรทัด)",
+  "pronoun_to_others": "ยากามิซัง (EN เขียน -san จึงทับศัพท์เสมอ · ยืนยันจากบทแล้ว)",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้ · ⚠ Tsumugi = คนเดียวกับ Amane (ชื่อจริง/นามสกุล) — ห้ามจัดเข้ากลุ่ม named_individual_npc ที่เพศ mixed · หลังยากามิสนิทแล้วบทเปลี่ยนมาเรียก \"สึมุกิซัง\" (lead ยืนยัน 21 ส.ค. 2026)",
+  "members": [
+   "Amane"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "talk.bin.json line 111047",
+    "quote": "That fortune teller, Amane-san, asked me to protect you. She's the one you should be thanking.",
+    "type": "en_pronoun"
+   }
+  ],
+  "aliases": [
+   "Tsumugi (ชื่อจริง — Amane คือนามสกุล · ยืนยันจากบท judge_friend_g03 idx 210-212 \"Amane is my last name.\")",
+   "สึมุกิ",
+   "อามาเนะ"
+  ]
+ },
+ "friend_mami": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ปาติสซีเยร์ที่ M Side Cafe ชอบถามความเห็นลูกค้าเรื่องขนม",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Mami"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx23",
+    "quote": "A patissier working at M Side Cafe. She often asks her customers their opinions on her pastries.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_tsukino": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เด็กสาวเงียบขรึมอ่อนโยน น้องสาวฝาแฝดของโยสึเกะ",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Tsukino"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx92",
+    "quote": "The younger twin. She looks a lot like her brother, Yosuke.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_fukutsu": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เจ้าของร้านโรงรับจำนำ Ebisu กำลังตามหาภาพวาดของศิลปินชื่อ Fuka Shiranui",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Fukutsu"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "unknown",
+  "gender_confidence": "low",
+  "gender_evidence": []
+ },
+ "friend_iyama": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ฤๅษีแห่งวังมังกร ชายชราประหลาดที่สกัดยาสมุนไพรแปลก ๆ ด้วยวิธีคล้ายต้มสตูว์",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Iyama"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx43",
+    "quote": "A strange old man who extracts strange medicines in the Dragon's Palace.",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "friend_koizuka": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เจ้าของร้าน Kamuro Lock & Key ยากามิรับงานไขกุญแจให้เป็นครั้งคราว",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Koizuka"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx42",
+    "quote": "The owner of Kamuro Lock & Key. I do some lockpicking work for him on occasion.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_ida": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงาน Smile Burger ยิ้มแย้มทักทายลูกค้าทุกคน",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Ida"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "unknown",
+  "gender_confidence": "low",
+  "gender_evidence": []
+ },
+ "friend_nanami": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — หญิงสาวบุคลิกดูดี มืออาชีพ หัวไวเฉียบคม",
+  "pronoun_self": "ดิฉัน/ฉัน (ตามความเป็นทางการ)",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ค่ะ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Nanami"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx53",
+    "quote": "A sophisticated woman with a professional demeanor. Sharp as a tack, too.",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "friend_terahara": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ช่างตัดเสื้อร้าน Le Marche วัดตัวลูกค้าด้วยสายตาได้แม่นยำ",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Terahara"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx34",
+    "quote": "A tailor who works at Le Marche... Can determine a person's measurements by using his eyes alone.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_isaka": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — นักกรีฑา มีปัญหาส่วนตัวเยอะแต่ไม่ใช่เรื่องที่ยากามิจะไปตัดสิน",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Shun"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx40",
+    "quote": "A track-and-field athlete. Dude's got some serious issues, but who am I to judge?",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "friend_nekomiya": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — ชายที่ให้อาหารแมวจรจัดทั่วเมือง (แต่แมวไม่ค่อยตอบรับ)",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Nekomiya"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx17",
+    "quote": "A man who feeds stray cats around the city.",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "friend_hutton": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — แชมป์โลกแข่งโดรน มีแฟนสาวชาวญี่ปุ่นและพูดญี่ปุ่นคล่อง",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Hutton"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx19",
+    "quote": "The world champion of drone racing. Has a Japanese girlfriend and speaks fluent Japanese.",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "friend_norimoto": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงาน Café Mijore แอบชอบเพื่อนร่วมงานคนหนึ่ง",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Norimoto"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx38",
+    "quote": "An employee of Café Mijore who has a crush on one of his coworkers.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_sota": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — พนักงานร้านสะดวกซื้อ Poppo ดูเหนื่อยตลอดเวลา",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Sota"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx28",
+    "quote": "A guy who works at Poppo, the local convenience store. He always looks exhausted...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "friend_kim": {
+  "description": "เพื่อน (friend) ระบบ Friend ของเกม — เจ้าของร้าน Beef Zone เป็นมิตรและร่าเริง",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ/ยากามิซัง ⏳เทียบ EN จริงตอนแปลบทแรก",
+  "register": "เป็นกันเองกับยากามิ (ผูกมิตรแล้วในระบบเพื่อน) ปรับตามอาชีพ/บุคลิก",
+  "endings": "ครับ",
+  "notes": "ข้อมูลบุคลิกจาก extracted/facts/friends.json (คำบรรยายในเกมจริง) — ⏳ เพศเป็นการเดาจากบริบท/ชื่อ ให้ยืนยันกับ EN จริงตอนแปลบทแรกของตัวละครนี้",
+  "members": [
+   "Kim"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "talk.bin.json line 430281",
+    "quote": "Nah, my friend Kim-san runs that place. I know he wouldn't serve us anything but the best.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "yakuza_elder_mentor": {
+  "description": "ยากูซ่ารุ่นเก่า/รุ่นพี่ไม่ระบุชื่อ ที่สอนสั่งคนหนุ่มกลางเมือง (ฉากมุกเข้าใจผิดคิดว่ายากามิเป็นเด็กเกเร) — โทนผสม: ขู่แบบนักเลงตอนต้น แต่ลงท้ายด้วยคำสอนแบบพ่อ",
+  "pronoun_tier": "T3 ตอนขู่ → T2 ตอนสอนสั่ง (จุดเปลี่ยนอยู่ในบทเอง)",
+  "pronoun_self": "กู (ขู่) / ฉัน (สอนสั่ง)",
+  "pronoun_to_others": "มึง (คู่กับกู) / แก (คู่กับฉัน) — ห้ามผสมข้ามคู่",
+  "register": "นักเลงรุ่นเก่า พูดห้วนแต่มีเนื้อหาสอนชีวิต",
+  "endings": "ว่ะ/โว้ย (ขู่) · นะ/สิ (สอน)",
+  "gender": "male",
+  "gender_confidence": "medium",
+  "gender_evidence": [
+   {
+    "source": "auth.bin.json (ฉากสอนสั่งกลางเมือง batch_009/010)",
+    "quote": "old yakuza mentor NPC",
+    "type": "role"
+   }
+  ],
+  "notes": "lead เพิ่ม 21 ส.ค. 2026 ตามข้อเสนอผู้ตรวจ batch_009 — NPC ไม่ระบุชื่อ ไม่มีในรายชื่อผู้พูด 473 ชื่อ (บทมาจากตาราง telop ที่ไม่มี speaker field)",
+  "members": []
+ },
+ "friend_yukko": {
+  "name_en": "Yukko",
+  "name_th": "ยุกโกะ",
+  "role": "เพื่อนสนิทของนานามิ มัตสึโอกะ · นักแสดงละครเวที ชอบปลอมตัว/วางแผนจับคู่ให้เพื่อน",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": "pause_message.bin: \"Yagami-san, do you remember Yukko? You met **her** last time\" + \"...She was really happy to see you.\"",
+  "pronoun_tier": "T1",
+  "pronoun_self": "ฉัน",
+  "pronoun_others": {
+   "yagami": "ยากามิซัง (ตาม honorific ใน EN)"
+  },
+  "speech_notes": "โทนเพื่อนสาวกวน ๆ ชอบยุ — lead เพิ่มการ์ด 21 ส.ค. 2026 หลังนักแปล batch_085/087 ต้องตั้งทะเบียนเองสองรอบ"
+ },
+ "producer_saito": {
+  "description": "โปรดิวเซอร์เพลงที่เข้าหาซานะ มิฮามะ (ไอดอลข้างถนน) แบบหวังผลประโยชน์ — ปรากฏต่อเนื่องในเควสต์เพื่อนของซานะ (TALK_004 และ batch อื่นในสายเดียวกัน)",
+  "gender": "male",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณ (กับยากามิ) · เธอ/ซานะจัง (กับซานะ — จงใจใช้คำสนิทเพื่อตีสนิท ไม่ใช่ 'คุณ')",
+  "register": "T1 สุภาพผิวเผิน โทนลื่นไหลแบบคนขายฝัน",
+  "endings": "ครับ",
+  "notes": "ล็อกโดย lead 21 ส.ค. 2026 ตามข้อเสนอผู้ตรวจ TALK_004 — เดิมตกอยู่ในกลุ่ม catch-all ทำให้แต่ละ batch เสี่ยงใช้ทะเบียนไม่ตรงกัน · ชื่อไทย: ไซโตะ"
+ },
+ "friend_yoshida": {
+  "description": "เพื่อน (friend) ระบบ Friend — ผู้จัดการศูนย์ฝึกตีโยชิดะ (Yoshida Batting Center) ดูแลชาเลนจ์ โฮมรันนรก/ชาเลนจ์อลหม่าน/คอร์สปีศาจ",
+  "pronoun_self": "ผม",
+  "pronoun_to_others": "คุณยากามิ / ยากามิซัง ตามที่ EN เขียน",
+  "register": "ชายวัยกลางคน เป็นกันเองแบบเจ้าของกิจการ",
+  "endings": "ครับ",
+  "notes": "เพิ่ม 21 ส.ค. 2026 จากคิว TALK_020 — ป้ายผู้พูดก่อนแนะนำตัวคือ \"Middle-aged Man\" ซึ่งบอกเพศในตัวเอง",
+  "members": [
+   "Yoshida"
+  ],
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "medium",
+  "gender_evidence": [
+   "ป้ายผู้พูด \"Middle-aged Man\" ใน judge_friend_a05 ก่อนเขาแนะนำชื่อตัวเอง"
+  ]
+ },
+ "mascot_koronyan": {
+  "description": "มาสคอตแมวผู้ดำเนินเกมกระดาน Dice & Cube (VR) — พูดสำเนียงคาวบอย/นักป่าวประกาศงานวัด ไม่ใช่โทนน่ารักไร้เดียงสาแบบมาสคอตตัวอื่น",
+  "pronoun_self": "ฉัน",
+  "pronoun_to_others": "นาย · เรียกผู้เล่นว่า \"พ่อหนุ่ม\" (แปลจาก sonny/sonny boy/m'boy/big man)",
+  "register": "กวน ๆ เป็นกันเอง ขายของเก่ง — ห้ามใช้ \"ข้า/เจ้า\" (สงวนไว้ให้บทพีเรียด/แฟนตาซีเท่านั้น)",
+  "endings": "ไม่ใช้ ครับ/ค่ะ (เพศไม่ระบุ)",
+  "notes": "แยกออกจากกลุ่ม animal_mascot เมื่อ 21 ส.ค. 2026 เพราะคำบรรยายกลุ่ม (\"น่ารัก ไร้เดียงสา\") ไม่ตรงกับบทจริง — ผู้แปล TALK_049/050 ทักตรงกันทั้งคู่",
+  "members": [
+   "Koro-nyan",
+   "Kuro-nyan",
+   "King Koro-nyan"
+  ],
+  "pronoun_tier": "N/A (ไม่ใช่มนุษย์)",
+  "gender": "unknown",
+  "gender_confidence": "n/a",
+  "gender_evidence": []
+ },
+ "side_ryuzenji": {
+  "description": "ไดจิ ริวเซนจิ — คู่หมั้นวัยเด็กของสึกิโนะ ซาโอโตเมะ ทายาทตระกูลรวยที่สวมบทบาท \"สุภาพบุรุษอังกฤษ\" อย่างเว่อร์วัง มียูกิกาวะเป็นพ่อบ้านติดตาม",
+  "pronoun_self": "ข้า",
+  "pronoun_to_others": "เจ้า · เรียกสึกิโนะว่า \"นายหญิงของข้า\" (my liege)",
+  "register": "โบราณ/ขุนนางจอมปลอม — เป็นข้อยกเว้นของกฎ \"ข้า/เจ้า\" เพราะเป็นการสวมบทบาทที่ตัวบท EN เล่นมุกด้วย (แนวเดียวกับท่านแบรม)",
+  "endings": "ไม่ใช้ ครับ/ค่ะ (สำนวนโบราณ)",
+  "notes": "lead อนุมัติ 21 ส.ค. 2026 จากบทใน judge_friend_g02 · พ่อบ้านยูกิกาวะเรียกเขาว่า \"คุณชาย\" (Young Master) · บรรทัดที่ตารางขึ้น \"???\" ก่อนเขาเปิดตัว (speaker_id 914) เป็นบทของเขาเช่นกัน",
+  "members": [
+   "Daichi Ryuzenji",
+   "Ryuzenji",
+   "Yukikawa",
+   "Ryuzenji's Butler"
+  ],
+  "pronoun_tier": "พิเศษ (โบราณ)",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   "ตัวบทเรียกเขาว่า a true English gentleman + เป็นคู่หมั้นชายของสึกิโนะ"
+  ]
+ },
+ "friend_seiya": {
+  "description": "ผู้จัดการโฮสต์คลับสตาร์ดัสต์ — เป็นกรรมการตัดสินการประกวดจีบสาวของเดกุจิ (ตาราง judge_friend_a52)",
+  "pronoun_self": "ฉัน",
+  "pronoun_to_others": "นาย",
+  "pronoun_tier": "T2",
+  "register": "สั่งการ ห้วน มั่นใจแบบคนคุมร้าน — ไม่ใช้ ครับ",
+  "endings": "ว่ะ/นะ (ไม่ใช้ ครับ)",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": "voicer_gender.json ระบุ seiya = male",
+  "notes": "lead ตั้งการ์ดนี้ 21 ส.ค. 2026 หลังผู้ตรวจ TALK_066/067 ต้องอนุมานทะเบียนเองสองรอบ · ทะเบียน ฉัน/นาย ตามบรรทัดฐานเดียวกับไคโตะ↔ยากามิ"
+ }
+}

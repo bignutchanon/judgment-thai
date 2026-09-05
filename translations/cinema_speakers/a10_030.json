@@ -1,0 +1,20 @@
+{
+ "scene": "a10_030",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "addresses/recognizes Hamura, opens the confrontation"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "taunts Hamura about staying instead of fleeing"},
+  "3": {"speaker": "Hamura", "gender": "male", "conf": "high", "why": "EN-B addresses 'Tak' (Yagami's nickname) in 2nd person, so speaker is Hamura mocking Yagami"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "demands Hamura release Kaito"},
+  "5": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "mocking response to Yagami's demand"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) hint; expresses concern for injured Kaito"},
+  "7": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "mocks Yagami's concern for Kaito"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "angry outburst at Hamura"},
+  "9": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "responds to Yagami's anger, continuing mocking exchange"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "declares the final fight against Hamura"},
+  "11": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "taunts during the fight, continuing alternating exchange"},
+  "12": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "reassures injured Kaito he'll deal with Hamura first"},
+  "13": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "sarcastic reply, continues alternating exchange"},
+  "14": {"speaker": "Hamura", "gender": "male", "conf": "low", "why": "continues taunting pattern during the fight, ambiguous between the two combatants"},
+  "15": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "final declaration delivering the finishing blow, follows from row 10's 'let's finish it for real'"}
+ }
+}

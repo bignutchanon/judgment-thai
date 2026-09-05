@@ -1,0 +1,21 @@
+{
+ "scene": "a12_050",
+ "rows": {
+  "1": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 8: challenges the group to restate the lab's purpose"},
+  "2": {"speaker": "Yoji Shono", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 9: responds addressing 'Vice Minister' before confirming in row 3"},
+  "3": {"speaker": "Yoji Shono", "gender": "male", "conf": "high", "why": "Same line as a12_040 row 10; cue=male(shouno)"},
+  "4": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 11: Vice Minister speaking about government investment in AD-9"},
+  "5": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 12"},
+  "6": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 13: decides to overlook the trespassing for AD-9's sake"},
+  "7": {"speaker": "Shimazu", "gender": "unknown", "conf": "med", "why": "Same line as a12_040 row 14 (talk=Shimazu hint); shocked reaction of the Chief Prosecutor to Ichinose overlooking the crime. No gender evidence given for this unregistered character"},
+  "8": {"speaker": "Shimazu", "gender": "unknown", "conf": "low", "why": "Same line as a12_040 row 15: continuation of row 7's objection, addressing Ichinose as 'Sir'"},
+  "9": {"speaker": "Yoji Shono", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 16: thanks Ichinose for overlooking the trespass"},
+  "10": {"speaker": "Yoji Shono", "gender": "male", "conf": "low", "why": "Same line as a12_040 row 17: continuation of pleasantries"},
+  "11": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 18: order for everyone to evacuate"},
+  "12": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 19: addresses Shono, hoping research continues undisturbed"},
+  "13": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "high", "why": "Same line as a12_040 row 20: addresses 'Dr. Shono' directly by name, reassuring him"},
+  "14": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "Same line as a12_040 row 21; cue=mixed(emi,yagami), talk=Yagami"},
+  "15": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "Same line as a12_040 row 22; cue=male(yagami), talk=Yagami"},
+  "16": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Same line as a12_040 row 23: directly accuses the Chief Prosecutor (Shimazu) of also working for AD-9"}
+ }
+}

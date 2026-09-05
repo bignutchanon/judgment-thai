@@ -1,0 +1,26 @@
+{
+ "scene": "a05_010",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "protagonist opening reflection entering ADDC per ch5 summary"},
+  "2": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "new junior lawyer per ch5 summary continuing question about ADDC org"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "answers with recalled fact, matches investigator role"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "talk=Yagami hint; generic 'Yeah' line so lower reliability"},
+  "5": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "newcomer reacting to campus scale"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "short agreement, weak evidence"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "analytical financial observation fits investigator role"},
+  "8": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "asks Yagami if place matches his memory, ties to his past history here"},
+  "9": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue talk=Yagami; answers row 8's question about his memory"},
+  "10": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "cue=male(hoshino,hattori,sugiura) includes hoshino; ch5 summary has Hoshino accompany Yagami to ADDC"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "asks why colleague is spooked, matches protagonist tone"},
+  "12": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "reassures Yagami by name after noticing his tension"},
+  "13": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "cue=male(hoshino,hattori,sugiura) explicit; same 'Yagami-san!' caller as row 10"},
+  "14": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "continues complaint about being left behind"},
+  "15": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "checks on Yagami's odd mood; cue is mixed/generic and unreliable here"},
+  "16": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "begins explaining his inner feeling about the place"},
+  "17": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "reflects on three years passing, sets up the flashback per ch5 summary"},
+  "18": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "confused reaction to Yagami's cryptic comment; talk hint is a generic collision"},
+  "19": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues his reflection on frozen time"},
+  "20": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "cue includes hoshino again; talk=Sana looks like a generic short-line collision"},
+  "21": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "leads them onward to the front desk"}
+ }
+}

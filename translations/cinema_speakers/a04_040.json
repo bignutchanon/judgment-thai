@@ -1,0 +1,21 @@
+{
+ "scene": "a04_040",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "current TH marked M; expresses concern about reaching his mentor Shintani"},
+  "2": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "addresses Yagami as 'you', referencing Yagami's earlier chat with Shintani (a04_015)"},
+  "3": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "continues casually; cue is a noisy unrelated mix, discounted"},
+  "4": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "points out the Kyorei Clan threat against Shintani"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "dismisses the worry, downplaying his own concern"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "current TH marked M; confesses his intent was only to scare Shintani, referencing his own confrontation in a04_015"},
+  "7": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "asks Yagami to try calling since Shintani might answer him"},
+  "8": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "current TH marked M; explains Shintani ignores his own calls but might pick up for Yagami"},
+  "9": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "skeptically agrees to try, self-deprecating given the recent confrontation with Shintani"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "continues, agrees it can't hurt to try"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "reacts while dialing; generic reaction cue overridden by context"},
+  "12": {"speaker": "Shintani", "gender": "male", "conf": "high", "why": "current TH marked M; Shintani's own recorded voicemail greeting"},
+  "13": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "self-identifies as 'Tak' while leaving the voicemail message, confirming he is the caller"},
+  "14": {"speaker": "Shintani", "gender": "male", "conf": "high", "why": "continues the voicemail recording"},
+  "15": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "worried reaction, trails off saying Shintani's name"},
+  "16": {"speaker": "Shintani", "gender": "male", "conf": "high", "why": "continues and ends the voicemail recording"}
+ }
+}

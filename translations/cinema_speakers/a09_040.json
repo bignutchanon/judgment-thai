@@ -1,0 +1,29 @@
+{
+ "scene": "a09_040",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "laying out the accusation against Shono, continues into rows 2-3"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues accusation about the fire"},
+  "3": {"speaker": "Shono", "gender": "male", "conf": "high", "why": "defensive question challenging the accusation just made"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "reassures in response to Shono's demand for evidence, continues into rows 5-7 (cue=male(izumida) hint treated as noise, unrelated character)"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, admits he can't prove it yet, continues row 4"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, continues same thought"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, continues"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "transition continuing his speech"},
+  "9": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) hint confirms"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses Shono in 2nd person about AD-9 rationale, continues speech"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses Shono by name, continues"},
+  "12": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues rebutting Shono's rationale"},
+  "13": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "philosophical continuation of the same speech"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses Shono by name again, continues"},
+  "15": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "rhetorical challenge closing the speech"},
+  "16": {"speaker": "ADDC Staff", "gender": "male", "conf": "med", "why": "third party bursting in confused, interrupting the confrontation; no direct hint, inferred from content"},
+  "17": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "casual deflecting reply to the interruption, matches his sarcastic tone in this scene"},
+  "18": {"speaker": "ADDC Staff", "gender": "male", "conf": "med", "why": "same speaker as row 16, reacting angrily to the deflection"},
+  "19": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "sarcastic taunt as they leave, continues row 17's tone"},
+  "20": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues taunt about AD-9"},
+  "21": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues taunting, reassuring that Shono kept quiet"},
+  "22": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "transition phrase before final declaration; cue hint is same noisy mixed-pool pattern seen elsewhere (talk=Tsukino unrelated), assigned by content flow"},
+  "23": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, declares he'll find the truth"},
+  "24": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, continues declaration"}
+ }
+}

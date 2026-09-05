@@ -1,0 +1,30 @@
+{
+ "scene": "a13_030",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Opens cautious case assessment about Ichinose, continues into rows 2-3; matches Yagami's analytical role"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Continues same cautious assessment as row1"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Continues assessment: not enough evidence to take down Ichinose yet"},
+  "4": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "Thanks the advice just given, leads into row5 where he addresses Yagami-san directly"},
+  "5": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "Addresses 'Yagami-san' directly ('Hold on, Yagami-san!')"},
+  "6": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "Continues arguing Ichinose is playing them for fools, leads into his video plan"},
+  "7": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "Proposes pushing the video to make the target talk, matches his advocacy in rows 9/11"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Dismisses the video plan as a waste of time, consistent with his firm refusal in row10"},
+  "9": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "Pleads 'Come on, Yagami-san!' addressing him directly"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "Firm refusal 'I said we're not doing it', matches row8's stance"},
+  "11": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "Continues pleading 'just give it a shot'"},
+  "12": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "Continues contingency plan talk, cut off by Kaito's interjection in row13"},
+  "13": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "cue=male(kaito)"},
+  "14": {"speaker": "Hoshino", "gender": "male", "conf": "med", "why": "Reacts angrily to Kaito's dismissal, throwing back the 'tough detective act' label (Kaito is a detective)"},
+  "15": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "Continues taunting tone established in row13"},
+  "16": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Calls out Hoshino's name, likely trying to stop him doing something rash"},
+  "17": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "Defensive response denying he's running away, follows being called out in row16"},
+  "18": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "Continues stammering response"},
+  "19": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "Continues, admits not wanting to lose"},
+  "20": {"speaker": "Hoshino", "gender": "male", "conf": "high", "why": "Continues, explains he wanted to help"},
+  "21": {"speaker": "Tashiro", "gender": "male", "conf": "low", "why": "Possible taunting bystander line preceding his confirmed 'Shut up!' in row22; could instead be Kaito, but gender is male either way"},
+  "22": {"speaker": "Tashiro", "gender": "male", "conf": "high", "why": "cue=male(tashiro)"},
+  "23": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "Vows to return once he has proof; could also be Hoshino, gender male regardless of exact attribution"},
+  "24": {"speaker": "Tashiro", "gender": "male", "conf": "low", "why": "Sarcastic mocking 'cooperation' tone matches a taunting reluctant witness; could be Kaito instead"},
+  "25": {"speaker": "Tashiro", "gender": "male", "conf": "low", "why": "Continues sarcasm from row24"}
+ }
+}

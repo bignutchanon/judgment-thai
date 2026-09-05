@@ -1,0 +1,10 @@
+{
+ "scene": "p04_00100",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration about Yagami chasing the Mole"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration about Kaito's expulsion"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration, general statement about Kamurocho"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "closing line of the recap narration"}
+ }
+}

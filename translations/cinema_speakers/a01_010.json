@@ -1,0 +1,407 @@
+{
+ "scene": "a01_010",
+ "rows": {
+  "1": {
+   "speaker": "Caller",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "Generic phone line, cue lists many unrelated characters (mixed VO reuse), no textual identity in this montage opener"
+  },
+  "2": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Reassuring phone-receptionist tone leading into the same call that reveals caller wants Yagami (row5); matches Saori's confirmed role at row10"
+  },
+  "3": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continuation of same phone call as row2"
+  },
+  "4": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continuation of same phone call, reassuring client"
+  },
+  "5": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continuation of same call; realizes caller specifically wants Yagami"
+  },
+  "7": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continuation of same call, apologetic that Yagami is unavailable"
+  },
+  "8": {
+   "speaker": "Office coworker",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "Teasing remark about Yagami's fame, addressed to Saori by name in next line (row9) so is a third party, not Saori herself; no gender evidence"
+  },
+  "9": {
+   "speaker": "Office coworker",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "Same speaker as row8, directly addresses 'Saori-chan'"
+  },
+  "10": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "cue=female(saori); explicitly answers phone 'Genda Law, Saori speaking'"
+  },
+  "11": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "Continuation of Saori's confirmed call from row10"
+  },
+  "12": {
+   "speaker": "Office coworker",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "General office grumble after a call ends; no name or cue evidence"
+  },
+  "13": {
+   "speaker": "Office coworker",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "Continues row12's grumble, no direct evidence of identity"
+  },
+  "14": {
+   "speaker": "Caller",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "New phone caller asking for 'Yagami-sensei' by title"
+  },
+  "15": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Senior colleague brushing off the fame ('throw me a bone'); sets up the senpai-lecture exchange that follows (row27 self-identifies as 'senpai')"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; self-deprecating credit to colleagues who helped him win, matches protagonist's humble voice"
+  },
+  "17": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues teasing Yagami about his win, part of the senpai-lecture exchange"
+  },
+  "18": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Statistic about conviction rates, building toward the senpai's point in row26-27"
+  },
+  "19": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues making the acquittal-is-rare point"
+  },
+  "20": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues praising/needling Yagami about being a 'hero' lawyer"
+  },
+  "21": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues, references Yagami's ex-gangster client (Kaito) making him look good"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Humble one-word reply to the preceding praise; cue includes yagami among mixed shared-VO tags"
+  },
+  "23": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Scolds Yagami for grinning/getting cocky, continuing senpai role"
+  },
+  "24": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; self-deprecating reply 'I'm no saint', matches Yagami's humble tone"
+  },
+  "25": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Sarcastic dig back at Yagami ('could've fooled me'), continues senpai exchange"
+  },
+  "26": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Warns Yagami he won't win every case, continues senpai role"
+  },
+  "27": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "EN-B explicitly says 'As your senpai, I'm warning you' - self-identifies as the senior lawyer, not Yagami"
+  },
+  "28": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Presses Yagami to confirm he's listening, continues lecture"
+  },
+  "29": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; respectful acknowledgement 'Of course, I get the message', responding to Shintani's lecture"
+  },
+  "30": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Dismissive grunt closing the lecture exchange before scene shifts back to phone calls"
+  },
+  "31": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Pitches Shintani as an alternative to a caller, leads directly into row32 which is confirmed Saori (F)"
+  },
+  "32": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "Marked F; continues pitching Shintani to the caller from row31"
+  },
+  "33": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "Complains about being offered as Yagami's 'leftovers', fits Shintani being passed over for Yagami"
+  },
+  "34": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Dismissive reply to Shintani's complaint"
+  },
+  "35": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Back on a phone call, confirming details with a client, continues into the Shintani-defense thread (rows36-39)"
+  },
+  "36": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Client's doubt being relayed/reacted to by Saori mid-call"
+  },
+  "37": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Defends Shintani's skill to a skeptical caller despite his lack of acquittals (EN-B: 'he's never gotten an acquittal'); fits Saori continuing her pitch from row31-32, overriding the current M mark which is not reliable evidence per instructions"
+  },
+  "38": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continues defending/explaining Shintani's record to the caller"
+  },
+  "39": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continues explaining Japan's low acquittal rate to the caller"
+  },
+  "40": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "cue=male(yagami); reacts with 'What? Oh...' suggesting an interruption/aside rather than continuing Saori's call"
+  },
+  "41": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "Marked F; tells the caller they still insist on Yagami specifically, continuing the call thread"
+  },
+  "42": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "low",
+   "why": "Likely continues Shintani's frustration at being passed over again; no direct cue"
+  },
+  "43": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Office head silencing the chaotic phone montage, fits his authority role"
+  },
+  "44": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "low",
+   "why": "Picks up a new call after restoring quiet; leads into the serious Okubo news call (rows45-49)"
+  },
+  "45": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the phone call receiving news, leads to 'I'll tell him' (row47) i.e. tell Yagami"
+  },
+  "46": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues receiving grave news over the phone"
+  },
+  "47": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "'I'll tell him' - Genda agreeing to relay news to Yagami, sets up row48 where Yagami asks who called"
+  },
+  "48": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; asks Genda who was on the phone"
+  },
+  "49": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Answers Yagami's question about the call"
+  },
+  "50": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Sarcastic dismissive reply, matches Yagami's established voice"
+  },
+  "51": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reveals the client is Shinpei Okubo"
+  },
+  "52": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "Reaction pause before shock in row53-54"
+  },
+  "53": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; shocked reaction"
+  },
+  "54": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Personally disbelieving, since Yagami won Okubo's earlier acquittal (established in story context)"
+  },
+  "55": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Clarifies Okubo has been arrested for murder"
+  },
+  "56": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Protests that they already proved Okubo innocent"
+  },
+  "57": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Clarifies it's a new case"
+  },
+  "58": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; relays details heard from police ('what they told me'), fits Genda as the one who received the call in rows44-47"
+  },
+  "59": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; shocked denial"
+  },
+  "60": {
+   "speaker": "Unknown office staff",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "Brief shocked interjection between Yagami's lines, no clear identity evidence"
+  },
+  "61": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; continues processing shock"
+  },
+  "62": {
+   "speaker": "Inamine",
+   "gender": "unknown",
+   "conf": "med",
+   "why": "talk=Inamine identifies the speaker by name but this name is not in the character gender registry, so gender cannot be confirmed"
+  },
+  "63": {
+   "speaker": "Unknown",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "Continuation of shocked reaction, unclear if same speaker as row62 or Yagami"
+  },
+  "64": {
+   "speaker": "Police officer",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; on-scene police dialogue securing the suspect at the crime scene flashback"
+  },
+  "65": {
+   "speaker": "Police officer",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; on-scene police dialogue clearing bystanders"
+  },
+  "66": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Voiceover narration transition, continues directly into Yagami's reflection in row67-68"
+  },
+  "67": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Marked M; personal reflection 'my career as a lawyer died alongside Emi-chan'"
+  },
+  "68": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues Yagami's closing narration about Okubo"
+  }
+ }
+}

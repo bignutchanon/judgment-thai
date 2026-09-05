@@ -1,0 +1,17 @@
+{
+ "scene": "a12_070",
+ "rows": {
+  "1": {"speaker": "Shimazu", "gender": "unknown", "conf": "med", "why": "Addresses 'Yagami-san' by name; contextually continues Shimazu's antagonism from the prior lab-confrontation scenes. No gender evidence given for this unregistered Chief Prosecutor character"},
+  "2": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Turns the accusation around, asking how long the addressee has worked with Chief Morita — directed at Shimazu"},
+  "3": {"speaker": "Shimazu", "gender": "unknown", "conf": "low", "why": "Deflecting boast about AD-9's influential supporters, continuing Shimazu's role from row 1"},
+  "4": {"speaker": "Shimazu", "gender": "unknown", "conf": "low", "why": "Continuation of row 3"},
+  "5": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Defiant retort to Shimazu's boast in row 4"},
+  "6": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Continuation of row 5's defiance"},
+  "7": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami), talk=Yagami"},
+  "8": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Continues, mentioning a call from Director Kido"},
+  "9": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of row 8, mentioning Kuroiwa"},
+  "10": {"speaker": "Shimazu", "gender": "unknown", "conf": "low", "why": "Surprised question reacting to Yagami mentioning Kuroiwa in row 9; the talk hint here (talk=Sana) conflicts and looks like a reused generic reaction-line tag rather than a reliable speaker cue"},
+  "11": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continues explaining that Kuroiwa rescued Kido"},
+  "12": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of row 11, closing remark about Kamurocho's local thugs"}
+ }
+}

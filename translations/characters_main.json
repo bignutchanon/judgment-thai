@@ -1,0 +1,782 @@
+{
+ "yagami": {
+  "name_en": "Takayuki Yagami",
+  "name_th_proposal": "ทาคายูกิ ยากามิ",
+  "reason": "นามสกุล 'ยากามิ' ล็อกแล้วจาก glossary_gaiden.md บรรทัด 80/256/257 (Kaito เคยรับเชิญใน Gaiden พร้อมชื่อ 'สำนักงานนักสืบยากามิ') — g กลางคำ→ก ตาม precedent ไทกะ/โอกิคุโบะ/นากุโมะ ชื่อตัว 'ทาคายูกิ' ยังไม่เคยล็อก ทับศัพท์มาตรฐาน ka→คา · yu→ยู · ki ท้ายชื่อ→กิ",
+  "aliases": [],
+  "role": "ตัวเอก อดีตทนายความจาก Genda Law Office ผันตัวเป็นนักสืบเอกชน เจ้าของ Yagami Detective Agency ในคามุโรโจ หลังชื่อเสียงพังจากคดี Okubo/Waku เมื่อ 3 ปีก่อน — ถูกดึงเข้าคดีฆาตกรรมต่อเนื่องเมื่อ Shintani เพื่อนทนายเก่าถูกฆ่าคาสำนักงานตัวเอง",
+  "faction": "อิสระ (Yagami Detective Agency)",
+  "personality": "ปากจัด มุกเยอะในหัว (internal monologue เสียดสีตัวเองบ่อย) แต่จริงจังสุดขีดเรื่องความยุติธรรม ยึดมั่นในตัวเพื่อน/คนใกล้ตัวมาก โดยเฉพาะไคโตะกับมัตสึกาเนะที่เป็นเหมือนครอบครัว เจ็บมาจากการเสียชื่อเสียงในฐานะทนาย เลยระแวงระบบยุติธรรมทางการแต่ยังเชื่อในความยุติธรรมแบบตัวเอง",
+  "voice_tone": "คมคาย มีไหวพริบ แฝงอารมณ์ขันแห้งๆ ในความคิดส่วนตัว แต่พูดจาเป็นทางการ/สุภาพเวลาทำงานสืบสวนหรือคุยกับผู้ต้องสงสัย — โทนทนายความที่ผ่านศึกมาเยอะ",
+  "pronoun_self": "ผม (lead ตัดสิน 20 ส.ค. 2026 — ใช้ 'ผม' เป็นค่าเริ่มต้นทุกฉาก รวมกับไคโตะ · ห้าม กู/มึง เด็ดขาด · ถ้าเจอบท EN ที่หยาบจัดให้ปรับที่ระดับคำอื่นแทน ไม่เปลี่ยนสรรพนาม)",
+  "pronoun_others": {
+   "kaito": "ไคโตะ / ไคโตะซัง (สนิทที่สุด เท่าเทียมกัน)",
+   "sugiura": "ซุกิอุระ · ใช้ \"นาย\" ได้ด้วย (T1 · lead ยืนยัน 21 ส.ค. 2026 ตามการใช้จริงในเกม)",
+   "genda": "เก็นดะเซนเซ / เก็นดะเซนเซ (ให้เกียรติในฐานะอดีตอาจารย์)",
+   "matsugane": "ท่านมัตสึกาเนะ (นับถือเหมือนพ่อ)",
+   "hoshino": "โฮชิโนะคุง (รุ่นน้อง)",
+   "shirosaki": "ซาโอริซัง",
+   "fujii": "มาฟุยุ (แฟนเก่า สนิท เรียกชื่อตัวตรงๆ)"
+  },
+  "speech_notes": "ในเกมจริง (EN carrier) มีคำเสียดสีแบบมุกมาถึงตอนจบประโยค (เช่น 'Justice is served, wrapped in seaweed and cucumber') — ต้องรักษาโทนกวนแบบไม่หยาบ ห้ามแปลตรงจนขาดมุก · narration ภายในหัวใช้วงเล็บ (parenthetical thought) บ่อยมาก โทนต่างจาก dialogue ที่พูดออกเสียง",
+  "spoiler_notes": "อดีตทนายที่ชนะคดีปกป้อง Shinpei Okubo (2015) เชื่อว่าบริสุทธิ์ แต่ Okubo กลับไปฆ่าคนอีกครั้ง (Emi Terasawa) ทำให้ชื่อเสียง/อาชีพทนายพัง — เป็นจุดกำเนิดของการเป็นนักสืบ · เคยคบกับ Mafuyu Fujii สมัยเป็นทนาย · เคยทำงานร่วมกับ Shintani ที่ Genda Law Office จนแยกทางกันเมื่อ 3 ปีก่อน",
+  "source": "extracted/facts/evidence.json idx 52,66,88 (bio/backstory) · idx 63 (ความสัมพันธ์กับ Fujii) · docs/reference/glossary_gaiden.md บรรทัด 80,256,257 (ล็อกนามสกุล)",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx66",
+    "quote": "Yagami's reputation as a lawyer was ruined, and his career immediately went down the drain.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "kaito": {
+  "name_en": "Masaharu Kaito",
+  "name_th": "มาซาฮารุ ไคโตะ",
+  "aliases": [],
+  "role": "อดีตสมาชิกตระกูลมัตสึกาเนะ (สาขาตระกูลโทโจ) ปัจจุบันเป็นนักสืบร่วมที่ Yagami Detective Agency — ถูกไล่ออกจากยากูซ่าหลังปล่อยให้เงิน 100 ล้านเยนถูกปล้นจากสำนักงานตระกูลระหว่างเข้าเวรคนเดียว",
+  "faction": "อดีตตระกูลมัตสึกาเนะ ปัจจุบันอิสระ (Yagami Detective Agency)",
+  "personality": "ห้าว ตรงไปตรงมา ซื่อสัตย์ต่อเพื่อน ยอมรับผิดแทนคนอื่น (ปกป้อง Higashi โดยรับผิดคนเดียวตอนเงินหาย) มีสัญชาตญาณแบบยากูซ่าติดตัวแต่ใช้ในทางที่ถูกในฐานะนักสืบ",
+  "voice_tone": "ห้าว ตรง มีน้ำหนักแบบอดีตยากูซ่า แต่ผ่อนคลาย/กันเองเวลาอยู่กับยากามิ",
+  "pronoun_self": "ฉัน (โทนอดีตยากูซ่า ไม่หยาบเกินไปเพราะเป็นตัวละครหลักฝั่งดี)",
+  "pronoun_others": {
+   "yagami": "ยากามิ / นาย (สนิทที่สุด เท่าเทียมกัน)",
+   "matsugane": "ท่านมัตสึกาเนะ / โอยาบุน (อดีตนายในองค์กร นับถือเหมือนพ่อ)",
+   "higashi": "ฮิงาชิ (อดีตมือขวา ยังห่วงใย)",
+   "hamura": "ฮามุระ (เกลียด/ไม่ไว้ใจ — คนที่ไล่เขาออก)"
+  },
+  "speech_notes": "scenario_summary.json ยืนยันคนอื่นเรียก 'Kaito-san' เป็นหลัก บางจุดสนิทมากเรียก 'Kaito-kun' (id sidA35 บรรทัด context) — ให้นักแปลสังเกตบริบทความสนิทก่อนเลือกคำเรียก",
+  "spoiler_notes": "ถูก Hamura วางแผนใส่ร้ายผ่านเหตุปล้นปลอมโดย 'Red Nose' เพื่อกำจัดเขาออกจากตระกูลและยึดอำนาจเบ็ดเสร็จ — Higashi ผู้ใต้บังคับบัญชาเก่ารู้ความจริงแต่ถูก Hamura ข่มขู่ให้เงียบ",
+  "source": "extracted/facts/evidence.json idx 36,38,39,41,85 · extracted/facts/scenario_summary.json id sidA28,sidA34 · docs/reference/glossary_gaiden.md (ล็อกชื่อเต็ม) · glossary_pirate.md บรรทัด 13",
+  "pronoun_tier": "T2",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx36",
+    "quote": "Kaito was held responsible for his failure to stop the robber and was promptly expelled from the yakuza.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "sugiura": {
+  "name_en": "Fumiya Sugiura",
+  "name_th": "ฟุมิยะ ซุกิอุระ",
+  "aliases": [],
+  "role": "เพื่อนแฮ็กเกอร์/เทคนิเชียนของยากามิ ช่วยสืบค้นข้อมูลผ่านแอป Chatter (โซเชียลมีเดียในเกม) — บุคลิกเก็บตัว พยายามก้าวข้าม comfort zone ของตัวเอง",
+  "faction": "อิสระ (ผู้ร่วมงาน Yagami Detective Agency)",
+  "personality": "เนิร์ด เก็บตัว ขี้อาย แต่มีความสามารถด้านไอทีสูงมาก พยายามฝืนใจตัวเองออกจาก comfort zone เพื่อช่วยเพื่อน",
+  "voice_tone": "พูดเบา ลังเล ติดขัดเวลาเข้าสังคม แต่มั่นใจขึ้นทันทีเวลาพูดเรื่องเทคนิค/แฮ็ก",
+  "pronoun_self": "ผม (สุภาพ ขี้อายกว่าตัวละครชายหลักคนอื่น) — เพศชายยืนยันจาก spoiler_notes ('น้องชายของ Emi Terasawa') · โทน/ถ้อยคำยังต้องเทียบกับ EN จริงตอนแปลบทแรก",
+  "pronoun_others": {
+   "yagami": "ตาม EN รายบรรทัด — EN `Yagami-shi` (พบ 39 จุดทั่วเกม เป็นลายเซ็นของเขา) → **\"ยากามิ\" เปล่า** (กฎ glossary: `-shi` ไม่เติมคำต่อท้าย) · EN `Yagami-san` → \"ยากามิซัง\" · lead แก้ 21 ส.ค. 2026 หลังผู้ตรวจ batch_081 ยืนยันว่าการ์ดเดิมเขียน \"ยากามิซัง\" อย่างเดียว ขัดกับไฟล์เกม"
+  },
+  "speech_notes": "friends.json idx0 อธิบายตรง: 'A techie struggling to step outside his comfort zone' — ต้องคงความขี้อาย/เก็บตัวไว้ในโทน ไม่ให้ดูมั่นใจเกินจริง | lead รับรอง 21 ส.ค. 2026 — **ข้อยกเว้นที่จงใจ**: ในฉากระเบิดอารมณ์เรื่องเอมิ เทราซาวะ (บทที่ 9, batch_060 row 353-363) ซุกิอุระเรียกยากามิว่า \"แก\" 4 จุด ทั้งที่ปกติเป็น T1 \"ผม\" + \"ยากามิซัง\" — อนุมัติเพราะ EN รองรับชัด (ไคโตะดุกลับทันทีว่า \"Enough, Sugiura! You're way outta line...\" = ตัวบทเองบอกว่าเขาพูดเกินขอบเขต) ตรงกับ PRONOUN_MATRIX §0 ข้อ 1 ที่อนุญาตให้แตกทะเบียนกลางฉากได้ถ้ามีจุดเปลี่ยนใน EN รองรับ · **นอกฉากนี้ห้ามใช้ \"แก\" กับยากามิเด็ดขาด**",
+  "spoiler_notes": "น้องชายของ Emi Terasawa (นางพยาบาลเหยื่อในคดี Waku/Okubo รอบสอง) — จุดเชื่อมโยงส่วนตัวระหว่าง Sugiura กับคดีหลักที่นักแปลควรรู้เพื่อคุมโทนฉากที่เขาเผชิญเรื่องพี่สาว",
+  "source": "extracted/facts/friends.json idx 0 · extracted/facts/evidence.json idx 80 (พี่สาว=Terasawa) · docs/reference/glossary_pirate.md บรรทัด 13 (ล็อกชื่อเต็ม)",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx0",
+    "quote": "A techie struggling to step outside his comfort zone. Invaluable for his Chatter-searching abilities.",
+    "type": "en_pronoun"
+   },
+   {
+    "source": "evidence.json idx80 table.1",
+    "quote": "Sugiura is her brother.",
+    "type": "role"
+   }
+  ]
+ },
+ "shirosaki": {
+  "name_en": "Saori Shirosaki",
+  "name_th_proposal": "ซาโอริ ชิโรซากิ",
+  "reason": "ไม่เคยล็อกในภาคก่อน — ชื่อตัวจาก speakers.json ยืนยัน hiragana さおり (sa-o-ri→ซาโอริ) นามสกุล Shirosaki (白崎) ทับศัพท์ shi→ชิ ro→โร sa→ซา ki ท้ายชื่อ→กิ ตามธรรมเนียมทีม",
+  "aliases": [],
+  "role": "ทนายความจาก Genda Law Office เพื่อนร่วมงานของ Shintani ผู้ล่วงลับ — เป็นคนโทรหายากามิให้ไปตรวจสอบตอนติดต่อ Shintani ไม่ได้ แล้วเจอศพ",
+  "faction": "Genda Law Office",
+  "personality": "จริงจัง ใส่ใจเพื่อนร่วมงาน (เป็นห่วง Shintani จนโทรตาม) มีด้านอ่อนไหวเรื่องขนมหวานอย่างเห็นได้ชัด (จากเนื้อเรื่องเสริม 'Justice is Sweet')",
+  "voice_tone": "เป็นทางการแบบทนายความ แต่เผยด้านอารมณ์อ่อนไหว/จริงจังเกินเหตุเวลาเรื่องส่วนตัว (เช่นเรื่องเค้ก)",
+  "pronoun_self": "ดิฉัน / ฉัน (สุภาพแบบมืออาชีพหญิง) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "yagami": "ยากามิซัง",
+   "genda": "เก็นดะเซนเซ / เก็นดะเซนเซ",
+   "hoshino": "โฮชิโนะคุง (รุ่นน้องในสำนักงาน)",
+   "fujii": "มาฟุยุ (เพื่อนสมัยเด็ก)"
+  },
+  "speech_notes": "childhood friend ของ Mafuyu Fujii (evidence idx63) — ฉากที่ทั้งคู่ปรากฏด้วยกันควรมีโทนสนิทกว่าปกติ | lead ตัดสิน 21 ส.ค. 2026 (ตอบคำถามผู้ตรวจ batch_068): เกณฑ์แยก \"ดิฉัน\" กับ \"ฉัน\" ของซาโอริคือ **เธอกำลังสวมบทบาททางการอยู่หรือไม่** — คุยกับคนแปลกหน้า/ลูกความ/ในฐานะทนายของสำนักงาน = \"ดิฉัน\" · คุยกับยากามิและทีมงานในเรื่องที่ถูกกรอบเป็นการช่วยเหลือส่วนตัว (เช่น ฉากรับบทกับดักน้ำผึ้ง batch_068 ที่ EN กรอบว่าเป็น favor ไม่ใช่หน้าที่) = \"ฉัน\" · ทั้งสองรูปอยู่ใน T1 เหมือนกัน จึงไม่ผิดกฎจับคู่ | ส่วนขยาย 21 ส.ค. 2026 (ตอบคำถามผู้ตรวจ batch_069): เมื่อเธอ **แสดงบทน่ารัก/งอน ระหว่างสวมบทบาท** (เช่น \"But I don't wannaaa.\" ต่อหน้าคิโดะ) ให้ **ตัดสรรพนามทิ้งไปเลย** แทนการเลือกระหว่าง ดิฉัน/ฉัน — \"ดิฉัน\" ทางการเกินจนมุกตาย ส่วน \"ฉัน\" ก็หลุดคาแรกเตอร์ที่กำลังสวมอยู่ · ภาษาไทยละประธานได้เป็นธรรมชาติอยู่แล้ว",
+  "spoiler_notes": "ไม่มีสปอยล์ใหญ่เกี่ยวกับตัวตนที่ปิดบัง เป็นตัวละครสนับสนุนตรงไปตรงมา",
+  "source": "extracted/facts/evidence.json idx 53,63 · extracted/facts/speakers.json idx 629 (さおり) · extracted/facts/scenario_summary.json id sidA37",
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "talk.bin.json line 81344",
+    "quote": "Saori said herself that she hurried home last night due to an urgent matter.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "genda": {
+  "name_en": "Ryuzo Genda",
+  "name_th_proposal": "ริวโซ เก็นดะ",
+  "reason": "นามสกุล 'เก็นดะ' ล็อกแล้ว (glossary_y7.md tranche 18: 'Genda-sensei→เก็นดะเซนเซ' — ยืนยันเป็นตัวเดียวกันจากคำอธิบาย 'ผู้เป็นอาจารย์ของ Shintani' ตรงกับ evidence.json idx54) ชื่อตัว 'ริวโซ' ยังไม่เคยล็อก ทับศัพท์ ryu→ริว zo→โซ",
+  "aliases": [],
+  "role": "ผู้อำนวยการ Genda Law Office อาจารย์/หัวหน้าของ Yagami, Shintani, Shirosaki และ Hoshino สมัยเป็นทนาย — ยกย่อง Shintani ว่าเป็นศิษย์ที่เก่งที่สุด",
+  "faction": "Genda Law Office",
+  "personality": "มีเมตตา ให้เกียรติลูกศิษย์ทุกคน เชื่อมั่นในกระบวนการยุติธรรมที่มีความเห็นอกเห็นใจมากกว่าการเอาชนะคดี (เห็นชัดจากเนื้อเรื่องเสริม 'Master and Pupil')",
+  "voice_tone": "สุขุม อบอุ่นแบบอาจารย์ผู้ใหญ่ พูดจามีน้ำหนักแต่ไม่ก้าวร้าว",
+  "pronoun_self": "ผม / ข้าพเจ้า (สุภาพระดับสูงแบบผู้อาวุโส) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "yagami": "ยากามิคุง (ลูกศิษย์เก่า)",
+   "hoshino": "โฮชิโนะคุง (ลูกศิษย์ปัจจุบัน)",
+   "shirosaki": "ชิโรซากิคุง"
+  },
+  "speech_notes": "ทุกคนในสำนักงานเรียกเขา 'Genda-sensei' เสมอ (ยืนยันจาก talk.bin.json หลายจุด เช่น line 572,77666,78839) — คำล็อก 'เก็นดะเซนเซ' ต้องใช้ทุกครั้งที่มีคำเรียกนี้ในบท",
+  "spoiler_notes": "ไม่มีสปอยล์ใหญ่ — เป็นตัวละครศูนย์กลางทางศีลธรรมของกลุ่มทนาย",
+  "source": "extracted/facts/evidence.json idx 54 · extracted/db_en/en/talk.bin.json line 572,77666,78839 · extracted/facts/scenario_summary.json id sidA29 · docs/reference/glossary_y7.md tranche 18 (ล็อก 'เก็นดะเซนเซ')",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "talk.bin.json line 77666",
+    "quote": "Genda-sensei got here before me. But he left as soon as I came in...",
+    "type": "en_pronoun"
+   },
+   {
+    "source": "talk.bin.json line 77758",
+    "quote": "But that would mean Genda-sensei is also a suspect. He could have eaten it while he was alone in the office.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "hoshino": {
+  "name_en": "Issei Hoshino",
+  "name_th_proposal": "อิสเซ โฮชิโนะ",
+  "reason": "⚠ คนละคนกับ Ryuhei Hoshino (ประธานตระกูลเซริวใน Y7/Y8, ล็อก 'ริวเฮ โฮชิโนะ') — ห้ามยืมคำแปลข้ามกัน ตามที่ระบุใน CLAUDE.md/บรีฟ นามสกุล 'โฮชิโนะ' บังเอิญออกเสียงเหมือนกันเพราะคันจิเดียวกัน (星野) แต่เป็นทับศัพท์ใหม่ทั้งชื่อ ไม่ใช่การล็อกซ้ำ ชื่อตัว 'อิสเซ' ทับศัพท์ i-s-sei→อิสเซ",
+  "aliases": [],
+  "role": "ทนายคนใหม่ล่าสุดของ Genda Law Office เพื่อนร่วมงานรุ่นน้องของ Shintani ผู้ล่วงลับ",
+  "faction": "Genda Law Office",
+  "personality": "ไร้เดียงสา ตื่นตูมง่าย (โดนกล่าวหาเรื่องเค้กหายก็ตื่นตระหนกจนต้องขอให้ยากามิช่วย) แต่จริงใจ",
+  "voice_tone": "อ่อนเยาว์ กระตือรือร้นแบบรุ่นน้อง บางครั้งดูตื่นตระหนกเกินเหตุกับเรื่องเล็กน้อย",
+  "pronoun_self": "ผม (รุ่นน้องสุภาพ) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "yagami": "ยากามิซัง (รุ่นพี่ที่ขอให้ช่วย)",
+   "genda": "เก็นดะเซนเซ / เก็นดะเซนเซ",
+   "shirosaki": "ซาโอริซัง"
+  },
+  "speech_notes": "คนอื่นเรียกเขา 'Hoshino-kun' เสมอ (talk.bin.json line 77160 'Hoshino-kun, what does Saori-san think you did?') — สะท้อนสถานะรุ่นน้องสุดในสำนักงาน",
+  "spoiler_notes": "⚠ กับดักชื่อซ้ำ — ต้องระวังไม่ให้สับสนกับ Ryuhei Hoshino ประธานตระกูลเซริวของ Y7/Y8 เด็ดขาด แม้นามสกุลออกเสียงเหมือนกัน",
+  "source": "extracted/facts/evidence.json idx 55,100 · extracted/db_en/en/talk.bin.json line 77160 · extracted/facts/scenario_summary.json id sidA37 · CLAUDE.md (คำเตือนกับดัก)",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx100",
+    "quote": "Here stands the accused; his whole life standing on the edge of a knife... I'm pretty sure he's innocent.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "fujii": {
+  "name_en": "Mafuyu Fujii",
+  "name_th_proposal": "มาฟุยุ ฟุจิอิ",
+  "reason": "⏳ ชื่อตัว 'มาฟุยุ' พบใน glossary_y7.md tranche 18 คู่กับ Kuroiwa/Kyorei Clan/Genda-sensei/the Mole ในชุดคำล็อกเดียวกัน (ครบชุดตัวละครจากคดี Judgment ที่ไปปรากฏเป็น cameo ใน Y7 Kamurocho arc) — มีความเป็นไปได้สูงว่าเป็นคนเดียวกัน แต่ไม่มีบริบทประโยคยืนยันตรงๆ ให้ lead ตรวจสอบ source Y7 อีกครั้งก่อนยืนยันเด็ดขาด นามสกุล Fujii (藤井) ทับศัพท์ fu→ฟุ ji→จิ i(ยาว)→อี ยังไม่เคยล็อก",
+  "aliases": [],
+  "role": "อัยการจากสำนักงานอัยการโตเกียว คุ้นเคยกับทนายฝั่ง Genda Law Office รวมถึง Shintani ผู้ล่วงลับ",
+  "faction": "สำนักงานอัยการโตเกียว (Tokyo Public Prosecutor's Office)",
+  "personality": "เฉียบคม มืออาชีพในฐานะอัยการ แต่มีด้านอบอุ่นกับเพื่อนเก่า",
+  "voice_tone": "เป็นทางการแบบอัยการเวลาทำงาน อ่อนลงเมื่อคุยกับยากามิ/ชิโรซากิในฐานะคนรู้จักเก่า",
+  "pronoun_self": "ดิฉัน / ฉัน ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "yagami": "ยากามิ (แฟนเก่า เรียกชื่อตรงๆ)",
+   "shirosaki": "ซาโอริ (เพื่อนสมัยเด็ก)"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "เพื่อนสมัยเด็กของ Saori Shirosaki และเคยคบกับ Yagami สมัยเขาเป็นทนาย — ความสัมพันธ์ส่วนตัวนี้อาจส่งผลต่อโทนบทสนทนาในฉากที่ทั้งสองเจอกัน",
+  "source": "extracted/facts/evidence.json idx 63 · docs/reference/glossary_y7.md tranche 18 (⏳ ล็อกชื่อตัวแบบมีเงื่อนไข)",
+  "pronoun_tier": "T1",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx63",
+    "quote": "She also happens to be childhood friends with Saori Shiosaki, and even dated Yagami during his lawyer days.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "tsukumo": {
+  "name_en": "Makoto Tsukumo",
+  "name_th_proposal": "มาโคโตะ สึคุโมะ",
+  "reason": "ชื่อตัว 'มาโคโตะ' มี precedent จาก glossary_y7.md tranche 20 ('Makoto Date→มาโคโตะ ดาเตะ') ใช้ทับศัพท์เดียวกัน นามสกุล Tsukumo (九十九) ทับศัพท์ tsu→สึ ku→คุ mo→โมะ ยังไม่เคยล็อก",
+  "aliases": [],
+  "role": "เพื่อนในระบบ Friends ของยากามิ ช่วยงานด้านสืบค้นข้อมูล Chatter — ปรากฏในเนื้อเรื่องเสริมเรื่องมือระเบิด (Mad Bomber)",
+  "faction": "พลเรือน / เพื่อนของยากามิ",
+  "personality": "ตื่นตัวเรื่องความปลอดภัยเมือง บ่นเรื่องระบบรักษาความปลอดภัยหย่อนยาน แต่ช่วยเหลือยากามิเต็มที่",
+  "voice_tone": "กันเอง ตรงไปตรงมา บ่นๆ แบบเพื่อนสนิท",
+  "pronoun_self": "ฉัน (เพื่อนกันเอง บ่นๆ ตรงไปตรงมา — แก้จาก 'ผม / ฉัน' เดิมที่ผสมสองระดับ)",
+  "pronoun_others": {
+   "yagami": "นาย (T2 · ยากามิเรียกกลับว่า \"สึคุโมะ\")"
+  },
+  "speech_notes": "friends.json idx0 ระบุ 'Invaluable for his Chatter-searching abilities' — บทบาทหลักคือ NPC-เพื่อนสนับสนุนด้านข้อมูล ไม่ใช่ตัวละครแกนเนื้อเรื่องหลัก | lead ล็อก 21 ส.ค. 2026 (ผู้ตรวจ batch_086 เสนอ): ในบทแชท/ข้อความ ยากามิเรียกเขาว่า \"สึคุโมะ\" ตรงตามที่ ship ใน master_th แล้ว · เขาเรียกยากามิว่า \"ยากามิ\" เปล่า ตาม EN `-shi` (ลายเซ็นเดียวกับซุกิอุระ)",
+  "spoiler_notes": "ไม่มีสปอยล์ใหญ่",
+  "source": "extracted/facts/friends.json idx 0 · extracted/facts/scenario_summary.json id sidA07 · docs/reference/glossary_y7.md tranche 20 (precedent ชื่อตัว)",
+  "pronoun_tier": "T2",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "friends.json idx0",
+    "quote": "A techie struggling to step outside his comfort zone.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "hamura": {
+  "name_en": "Kyohei Hamura",
+  "name_th_proposal": "เคียวเฮย์ ฮามุระ",
+  "reason": "ยังไม่เคยล็อก — ชื่อตัว Kyohei ทับศัพท์ตามกฎ '-ei→เ-ย์' ของทีม (kyo→เคียว hei→เฮย์) นามสกุล Hamura (羽村) ทับศัพท์ ha→ฮา mu→มุ ra→ระ",
+  "aliases": [
+   {
+    "en": "Captain Hamura",
+    "th": "กัปตันฮามุระ"
+   }
+  ],
+  "role": "กัปตันของตระกูลมัตสึกาเนะ (สาขาตระกูลโทโจ) ยศเทียบเท่ารองหัวหน้า — ผู้ต้องสงสัยหลักในคดีฆาตกรรมช่วงต้นเกม ต่อมาเผยว่าเป็นตัวการเบื้องหลังการจ้าง 'ไส้ศึก' (the Mole) ฆ่าปิดปาก",
+  "faction": "ตระกูลมัตสึกาเนะ (ตระกูลโทโจ)",
+  "personality": "โหดเหี้ยม ทะเยอทะยาน ควบคุมอำนาจในตระกูลมากกว่าหัวหน้าตัวจริง ไร้ความปรานีกับคนที่ขวางทาง ปกปิดความชั่วร้ายด้วยหน้าตายากูซ่าผู้มีเกียรติ",
+  "voice_tone": "หนักแน่น ข่มขู่แฝงในน้ำเสียงสุภาพแบบยากูซ่าระดับสูง ไม่ต้องตะโกนก็น่ากลัว",
+  "pronoun_self": "กู (ยากูซ่าระดับสูง ห้าวได้เต็มที่ไม่ต้องเกรงใจใคร) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "matsugane": "โอยาบุน / ท่านมัตสึกาเนะ (ผิวเผินยังคงให้เกียรติ)",
+   "kaito": "ไอ้ไคโตะ (ดูถูก หลังไล่ออก)",
+   "higashi": "ฮิงาชิ",
+   "yagami": "ไอ้ยากามิ"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "ตัวการเบื้องหลังที่แท้จริงของคดีฆาตกรรมต่อเนื่อง — ว่าจ้าง 'ไส้ศึก' (the Mole) ฆ่าสมาชิกตระกูลเคียวเรอิและปิดปากพยาน (รวมถึง Shintani) ตามคำสั่งของ Shono เพื่อปกปิดการทดลองมนุษย์ AD-9 — เคยกล่าวหา Kuroiwa ลอยๆ ว่าเป็นไส้ศึกตัวจริงเพื่อเบี่ยงเบนความสนใจ",
+  "source": "extracted/facts/evidence.json idx 26,35,39,45,48,49,73,85 · extracted/db_en/en/talk.bin.json line 235012",
+  "pronoun_tier": "T3",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx26",
+    "quote": "His rank is equal to that of second-in-command, right below the patriarch.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "matsugane": {
+  "name_en": "Mitsugu Matsugane",
+  "name_th_proposal": "มิตสึกุ มัตสึกาเนะ",
+  "reason": "นามสกุลตระกูล 'มัตสึกาเนะ' ล็อกแล้ว (glossary_y7.md tranche 20: 'Matsugane Family→ตระกูลมัตสึกาเนะ' ไม่มี ะ ท้ายคำ) ใช้รูปเดียวกันกับชื่อบุคคลเพื่อความสม่ำเสมอ ชื่อตัว 'มิตสึกุ' ทับศัพท์ mi→มิ tsu→ตสึ gu→กุ ยังไม่เคยล็อก",
+  "aliases": [],
+  "role": "หัวหน้าตระกูลมัตสึกาเนะ (โอยาบุน) สาขาตระกูลโทโจ — เคยสนับสนุนยากามิตอนสอบเนติบัณฑิต และเป็นเหมือนพ่อของทั้งยากามิและไคโตะ",
+  "faction": "ตระกูลมัตสึกาเนะ (หัวหน้า)",
+  "personality": "อบอุ่น มีเกียรติแบบยากูซ่ารุ่นเก่า ทำหน้าที่พ่อบุญธรรมทางใจให้ยากามิและไคโตะ แต่อ่อนแอเกินกว่าจะปกป้องลูกน้องจากแผนการของฮามุระ",
+  "voice_tone": "อบอุ่น หนักแน่นแบบผู้อาวุโส แต่แฝงความเศร้า/รู้สึกผิดในบั้นปลาย",
+  "pronoun_self": "ผม (ผู้อาวุโสยากูซ่า โทนอบอุ่นแบบพ่อ) — 'ข้า' ใช้ได้เฉพาะฉากดราม่า/พีเรียดหนักๆ ตามกฎสงวนคำใน §0.1 เท่านั้น ไม่ใช่ค่าเริ่มต้น ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "yagami": "ยากามิ (เหมือนลูก)",
+   "kaito": "ไคโตะ (เหมือนลูก)",
+   "hamura": "ฮามุระ"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "สละชีวิตปกป้องฮามุระตอนที่ 'ไส้ศึก' พยายามฆ่าปิดปาก แม้ฮามุระเป็นคนทรยศเขามาตลอด — จุดจบที่แสดงเกียรติแบบยากูซ่ารุ่นเก่าถึงที่สุด",
+  "source": "extracted/facts/evidence.json idx 40,50 · docs/reference/glossary_y7.md tranche 20 (ล็อกชื่อตระกูล)",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx50",
+    "quote": "He supported Yagami as he struggled to pass the bar exam, and Yagami thinks of him like a father. Sacrificed himself to save Hamura...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "higashi": {
+  "name_en": "Toru Higashi",
+  "name_th": "โทรุ ฮิงาชิ",
+  "aliases": [],
+  "role": "สมาชิกตระกูลมัตสึกาเนะ อดีตมือขวาของไคโตะ — รู้ความจริงเรื่องแผนใส่ร้ายไคโตะแต่ถูกฮามุระข่มขู่ด้วยปืนให้เงียบ",
+  "faction": "ตระกูลมัตสึกาเนะ",
+  "personality": "ภักดี รู้สึกผิดที่ไม่สามารถช่วยไคโตะได้ ถูกบีบให้ทรยศทั้งที่ไม่เต็มใจ — แสดงความขัดแย้งภายในชัดเจน",
+  "voice_tone": "อึดอัด ลังเล น้ำเสียงสั่นเวลาต้องโกหกปกปิดความจริง",
+  "pronoun_self": "ผม (ยากูซ่าระดับกลาง ยังเคารพระบบ) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "kaito": "พี่ไคโตะ / ไคโตะซัง (อดีตหัวหน้าที่เคารพ)",
+   "hamura": "ท่านฮามุระ (เกรงกลัว)"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "เป็นคนสืบจนรู้ว่า Red Nose คือคนขโมยเงิน 100 ล้านเยนจริง และตามไปทวงคืนได้ แต่หลังจากนั้นพบว่าฮามุระคือตัวการที่แท้จริง จึงถูกบังคับให้เงียบ (บางเวอร์ชันหลักฐานระบุว่าถูกบังคับให้ยิง Red Nose ปิดปากด้วยตัวเอง)",
+  "source": "extracted/facts/evidence.json idx 38,39,41 · docs/reference/glossary_y7.md บรรทัด 1325,1413 (ล็อกชื่อเต็ม ยืนยันเป็นคนเดียวกันจากคำอธิบาย 'มือขวาเก่าของไคโตะ')",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx41 table.1",
+    "quote": "Kaito decided to cover for him, thus placing all the responsibility on his shoulders alone.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "ayabe": {
+  "name_en": "Kazuya Ayabe",
+  "name_th_proposal": "คาซึยะ อายาเบะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์มาตรฐาน Kazuya: ka→คา zu→ซึ (ตามกฎ zu→ซึ) ya→ยะ · Ayabe: a→อา ya→ยา be→เบะ",
+  "aliases": [],
+  "role": "นักสืบสังกัดกองปราบปรามอาชญากรรมองค์กร ตำรวจนครบาลโตเกียว สาขาคามุโรโจ — จริงๆ เป็นสายข่าวขายข้อมูลลับให้ผู้เสนอราคาสูงสุด (ตำรวจนอกลู่)",
+  "faction": "ตำรวจนครบาลโตเกียว (ทุจริต)",
+  "personality": "ฉวยโอกาส เห็นแก่เงิน แต่ยังมีเส้นแบ่งบางอย่าง — ถูกใส่ร้ายเป็นฆาตกร Shintani ทั้งที่ปืนของเขาถูกขโมยไปใช้ก่อเหตุจริง",
+  "voice_tone": "กวนๆ มั่นใจในตัวเอง แฝงลับลมคมในแบบตำรวจสายข่าว",
+  "pronoun_self": "ผม (ทางการ) / กู (ลับหลัง ในฐานะสายข่าวทุจริต) — สลับตามบริบท ไม่ใช่ผสมมั่ว",
+  "pronoun_others": {
+   "yagami": "ยากามิ (ขอให้เป็นทนายแก้ต่างให้)",
+   "hamura": "ฮามุระ",
+   "kuroiwa": "คุโรอิวะ (เพื่อนร่วมงานตำรวจ)"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "ถูกจับเพราะรอยเกลียวปืนตรงกับกระสุนที่ฆ่า Shintani แต่อ้างว่าถูกทำร้ายและถูกขโมยปืนไปใช้ก่อเหตุจริง — ต่อมาฮามุระยอมรับว่าเป็นคนขโมยปืนอายาเบะไปเองเพื่อใส่ร้าย",
+  "source": "extracted/facts/evidence.json idx 42,51,87 (table.2-4)",
+  "pronoun_tier": "T1↔T3 (สลับตามบริบท — ทางการ/ตำรวจ=ผม+คุณ · หลังเวทีในฐานะสายข่าวทุจริต=กู+มึง; อนุญาตตามกฎข้อ 1 ของ §0 เพราะมีเหตุผลระบุในไฟล์นี้แล้ว)",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx87 table.3",
+    "quote": "Ayabe insists that he was attacked by someone and his gun was temporarily stolen...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "kuroiwa": {
+  "name_en": "Mitsuru Kuroiwa",
+  "name_th_proposal": "มิตสึรุ คุโรอิวะ",
+  "reason": "⏳ นามสกุล 'คุโรอิวะ' พบใน glossary_y7.md tranche 18 คู่กับ Mafuyu/Kyorei Clan/Genda-sensei/the Mole ในชุดคำล็อกเดียวกันจากคดี Judgment ที่ไปปรากฏเป็น cameo ใน Y7 — มีความเป็นไปได้สูงว่าเป็นคนเดียวกัน แต่ไม่มีบริบทประโยคยืนยันตรงๆ ให้ lead ตรวจสอบก่อนล็อกเด็ดขาด ชื่อตัว 'มิตสึรุ' ทับศัพท์ mi→มิ tsu→ตสึ ru→รุ ยังไม่เคยล็อก",
+  "aliases": [],
+  "role": "นักสืบสังกัดกองปราบปรามอาชญากรรมองค์กร ตำรวจนครบาลโตเกียว สาขาคามุโรโจ — ดูแลคดีที่เกี่ยวข้องกับองค์กรอาชญากรรมรวมถึงคดีฆาตกรรมตระกูลเคียวเรอิ",
+  "faction": "ตำรวจนครบาลโตเกียว",
+  "personality": "จริงจัง มืออาชีพ ทำงานตามหน้าที่ — ถูกฮามุระใส่ร้ายลอยๆ ว่าเป็นตัวการฆาตกรรมตัวจริงในช่วงท้ายคดี",
+  "voice_tone": "หนักแน่น เป็นทางการแบบตำรวจสายสืบสวน",
+  "pronoun_self": "ผม (ตำรวจมืออาชีพ) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "yagami": "ยากามิ",
+   "ayabe": "อายาเบะ (เพื่อนร่วมงาน)"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "ฮามุระกล่าวหาว่าคุโรอิวะคือ 'ไส้ศึก' (the Mole) ตัวจริงเพื่อเบี่ยงเบนการสืบสวน — ยังไม่ยืนยันในข้อมูลที่มีว่าข้อกล่าวหานี้จริงหรือเท็จ (⏳ ต้องตรวจสอบเนื้อเรื่องเพิ่มเติม)",
+  "source": "extracted/facts/evidence.json idx 57,87 (table.4) · docs/reference/glossary_y7.md tranche 18 (⏳ ล็อกแบบมีเงื่อนไข)",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx57",
+    "quote": "As his title suggests, Kuroiwa mainly handles cases involving criminal organizations...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "kido": {
+  "name_en": "Ryusuke Kido",
+  "name_th_proposal": "ริวสึเกะ คิโดะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์มาตรฐาน Ryusuke: ryu→ริว su→สึ ke→เกะ · Kido: ki→คิ (พยางค์แรก ไม่ใช่ ki ท้ายชื่อ จึงไม่ใช้กฎ กิ) do→โดะ",
+  "aliases": [],
+  "role": "ผู้อำนวยการ Advanced Drug Development Center (ADDC) นักวิชาการด้านประสาทวิทยาที่มีชื่อเสียงระดับนานาชาติจากงานวิจัย AD-9 ยารักษาอัลไซเมอร์",
+  "faction": "Advanced Drug Development Center (ADDC)",
+  "personality": "มีภาพลักษณ์นักวิชาการผู้ทรงเกียรติต่อสาธารณะ แต่จริงๆ รับสินบนและมีสายสัมพันธ์กับโลกใต้ดิน อ่อนแอเมื่อถูก Shono กุมจุดอ่อนบางอย่าง",
+  "voice_tone": "เป็นทางการแบบนักวิชาการ/ผู้บริหารระดับสูง สุภาพเรียบร้อยเวลาปรากฏต่อสาธารณะ",
+  "pronoun_self": "ผม / กระผม (ทางการระดับสูง) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "shono": "โชโนะคุง (ลูกน้องในสังกัด)",
+   "ichinose": "ท่านรองปลัดอิจิโนเสะ"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "ผู้เขียนงานวิจัย AD-9 ตัวจริงคือ Shono แต่ให้ Kido เป็นผู้ลงชื่อแทนเพื่อดึงความสนใจ (เขาเป็นนักวิชาการดังกว่า) — ภายหลังยอมช่วยปกปิดการทดลองมนุษย์ผิดกฎหมายภายใต้การควบคุมของ Shono เพื่อแลกกับชื่อเสียง/ความมั่งคั่งที่ได้มา",
+  "source": "extracted/facts/evidence.json idx 9,58,67,78,82",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx58 table.3",
+    "quote": "it is suspected that he took part in a human experimentation scandal involving AD-9 along with several others.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "shono": {
+  "name_en": "Yoji Shono",
+  "name_th_proposal": "โยจิ โชโนะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์มาตรฐาน Yoji: yo→โย ji→จิ · Shono: sho→โช no→โนะ",
+  "aliases": [],
+  "role": "นักวิจัยที่ Advanced Drug Development Center (ADDC) ผู้ร่วมเขียนงานวิจัย AD-9 ตัวจริง (แม้ Kido เป็นผู้ลงชื่อในเปเปอร์) — ผู้อยู่เบื้องหลังการทดลองมนุษย์ผิดกฎหมาย",
+  "faction": "Advanced Drug Development Center (ADDC)",
+  "personality": "เย็นชา คำนวณทุกอย่าง มีความทะเยอทะยานทางวิทยาศาสตร์แบบไร้ขอบเขตศีลธรรม พร้อมสังเวยชีวิตคนอื่นเพื่อความสำเร็จของงานวิจัย",
+  "voice_tone": "สุขุมเยือกเย็นแบบนักวิทยาศาสตร์ พูดจาดูมีเหตุผลแม้กำลังพูดเรื่องโหดร้าย — ยิ่งใจเย็นยิ่งน่ากลัว",
+  "pronoun_self": "ผม / กระผม (นักวิชาการ) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "kido": "ท่านผู้อำนวยการคิโดะ",
+   "hamura": "ฮามุระ (ว่าจ้างผ่านคนกลาง)",
+   "ichinose": "ท่านรองปลัดอิจิโนเสะ"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "ตัวการใหญ่ที่แท้จริงเบื้องหลังคดีฆาตกรรมต่อเนื่องทั้งหมด — ว่าจ้างฮามุระ (ผ่านคนกลาง Ishimatsu) ให้ลักพาตัวสมาชิกตระกูลเคียวเรอิมาทดลอง AD-9 แบบผิดกฎหมาย จนเป็นเหตุให้ต้องฆ่าปิดปากทั้ง Hashiki, Shintani และเหยื่อรายอื่น — เป็นคนทำให้ Waku เสียชีวิตจากการทดลองที่ล้มเหลวเมื่อปี 2015 แล้วใส่ร้าย Okubo",
+  "source": "extracted/facts/evidence.json idx 59,69,72,82,88,89 · extracted/facts/chapters.json (บทที่ 9 'The Miracle Drug')",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx69 table.1",
+    "quote": "Although he testified that he saw Waku before his disappearance, he later admitted he was uncertain...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "ichinose": {
+  "name_en": "Kaoru Ichinose",
+  "name_th_proposal": "คาโอรุ อิจิโนเสะ",
+  "reason": "ยังไม่เคยล็อก — ⚠ ระวังสับสนกับ 'Kunio Ichinose' ประธาน Ikinari Steak ซึ่งเป็น NPC เพื่อน (friends.json idx48) คนละคนกันโดยสิ้นเชิง แม้นามสกุลเดียวกัน (พบ 'President Ichinose' ในบทพูดจริง talk.bin.json แต่เป็นคนละบริบท ต้องแยกให้ชัดตอนแปล) ทับศัพท์ Kaoru: ka→คา o→โอ ru→รุ · Ichinose: i→อิ chi→จิ no→โน se→เสะ",
+  "aliases": [],
+  "role": "รองปลัดกระทรวงสาธารณสุขของญี่ปุ่น สนับสนุนทั้ง Kido และ Shono ในการพัฒนา AD-9 — ผู้ก่อตั้ง Medical Institute ซึ่งครอบคลุม ADDC",
+  "faction": "กระทรวงสาธารณสุข",
+  "personality": "มีอำนาจทางการเมืองสูง เห็นภาพรวมผลประโยชน์ชาติ/องค์กรมากกว่าชีวิตปัจเจกบุคคล — ยอมปกปิดอาชญากรรมร้ายแรงเพื่อปกป้องโครงการ AD-9",
+  "voice_tone": "เป็นทางการระดับสูงสุด น้ำเสียงข้าราชการอาวุโสที่ควบคุมสถานการณ์ได้เสมอ",
+  "pronoun_self": "ผม / กระผม (ข้าราชการระดับสูง) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "kido": "ผู้อำนวยการคิโดะ",
+   "shono": "คุณโชโนะ"
+  },
+  "speech_notes": "⚠ อย่าสับสนกับ Kunio Ichinose (ประธาน Ikinari Steak, friends.json idx48) เวลา grep หาบทพูดในไฟล์ db — คำว่า 'President Ichinose' ในเกมหมายถึงคนละคน",
+  "spoiler_notes": "เป็นตัวกลางเชื่อมระหว่าง Shono กับ Hamura ในทางอ้อม ทำหน้าที่ปกปิดการทดลองมนุษย์ที่เกิดขึ้นภายใต้เขตอำนาจของตน และยังไฟเขียวให้ทดลองต่อ",
+  "source": "extracted/facts/evidence.json idx 60,74 · extracted/facts/friends.json idx 48 (ตัวละครชื่อซ้ำที่ต้องแยก) · extracted/db_en/en/talk.bin.json line 522880,522995 (คนละบริบท)",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx74",
+    "quote": "Ichinose functioned as the middleman between Shono and Hamura. He also played a prominent role in establishing the Medical Institute...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "izumida": {
+  "name_en": "Keigo Izumida",
+  "name_th_proposal": "เคโกะ อิซุมิดะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์ Keigo: kei→เคย์ (ตามกฎ -ei→เ-ย์) go→โกะ · Izumida: i→อิ zu→ซึ (ตามกฎ zu→ซึ) mi→มิ da→ดะ",
+  "aliases": [],
+  "role": "อัยการรัฐจากสำนักงานอัยการโตเกียว เรียกร้องให้จับกุมยากามิ (ภายหลังเปลี่ยนเป็นอายาเบะ) ในข้อหาฆาตกรรม Shintani",
+  "faction": "สำนักงานอัยการโตเกียว",
+  "personality": "แข็งกร้าว มุ่งเอาผิดตามหลักฐานผิวเผินโดยไม่รอสืบสวนลึก — ตัวแทนของระบบยุติธรรมที่รีบตัดสินเกินไป",
+  "voice_tone": "เป็นทางการ แข็งกระด้าง น้ำเสียงกดดันแบบอัยการที่มั่นใจในสำนวนของตัวเอง",
+  "pronoun_self": "ผม (อัยการ) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "yagami": "ยากามิ",
+   "morita": "ท่านหัวหน้าอัยการโมริตะ"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "ไม่มีสปอยล์ใหญ่เกี่ยวกับตัวตนที่ปิดบัง เป็นตัวแทนฝ่ายอัยการที่กดดันยากามิ/อายาเบะตลอดคดี",
+  "source": "extracted/facts/evidence.json idx 61",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "sound_auth.bin.json line 82797-82798",
+    "quote": "So. Why's Izumida suspect me? Does he even have anything to go on?",
+    "type": "en_pronoun"
+   },
+   {
+    "source": "sound_auth.bin.json line 98537",
+    "quote": "Izumida, the prosecutor? But if I recall... Isn't that the guy who was trying to arrest you...?",
+    "type": "en_gendered_noun"
+   }
+  ]
+ },
+ "morita": {
+  "name_en": "Kunihiko Morita",
+  "name_th_proposal": "คุนิฮิโกะ โมริตะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์ Kunihiko: ku→คุ ni→นิ hi→ฮิ ko→โกะ · Morita: mo→โม ri→ริ ta→ตะ",
+  "aliases": [],
+  "role": "หัวหน้าอัยการของสำนักงานอัยการโตเกียว เรียกร้องให้จับกุมอายาเบะในข้อหาฆาตกรรม Shintani",
+  "faction": "สำนักงานอัยการโตเกียว (หัวหน้า)",
+  "personality": "มีอำนาจสูงสุดในสำนักงานอัยการ ดูน่าเชื่อถือภายนอก แต่ปิดบังตัวตนที่แท้จริงในฐานะหนึ่งในผู้สมรู้ร่วมคิดเบื้องหลังการทดลอง AD-9",
+  "voice_tone": "เป็นทางการหนักแน่นแบบผู้บังคับบัญชาระดับสูงสุด มีน้ำหนักน่าเกรงขามกว่าอิซุมิดะ",
+  "pronoun_self": "ผม / กระผม (หัวหน้าอัยการ) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "izumida": "อิซุมิดะ (ลูกน้อง)"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "ภายหลังเผยว่าเป็นหนึ่งในผู้สมรู้ร่วมคิดเบื้องหลังการทดลองมนุษย์ AD-9 อันโหดร้าย — ใช้ตำแหน่งหัวหน้าอัยการปกป้ององค์กรที่เกี่ยวข้อง",
+  "source": "extracted/facts/evidence.json idx 62",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx62 table.1",
+    "quote": "However, it is now thought that Morita was actually one of the conspirators behind the horrific AD-9 experiments.",
+    "type": "context_masculine_noun"
+   }
+  ]
+ },
+ "terasawa": {
+  "name_en": "Emi Terasawa",
+  "name_th_proposal": "เอมิ เทราซาวะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์ Emi: e→เอ mi→มิ · Terasawa: te→เท ra→รา sa→ซะ wa→วะ",
+  "aliases": [],
+  "role": "อดีตนางพยาบาลที่ ADDC แฟนสาวของ Shinpei Okubo — เป็นพยานที่ช่วยพิสูจน์ความบริสุทธิ์ของ Okubo ในคดี Waku เมื่อปี 2015 ก่อนถูกฆาตกรรมโดยแฟนหนุ่มของตัวเองในเวลาต่อมา",
+  "faction": "อดีตพนักงาน ADDC",
+  "personality": "ช่างสังเกต กล้าตั้งคำถามต่อคำให้การของเพื่อนร่วมงาน (ตั้งข้อสงสัยคำให้การของ Shono) — จุดจบน่าเศร้าที่เกินคาด",
+  "voice_tone": "⏳ ไม่มีบทพูดโดยตรงในข้อมูลที่มี — ปรากฏหลักผ่านคำบอกเล่า/หลักฐานย้อนหลัง",
+  "pronoun_self": "-",
+  "pronoun_others": {
+   "okubo": "โอคุโบะ (แฟนหนุ่ม)",
+   "sugiura": "พี่ชาย (ซุกิอุระ)"
+  },
+  "speech_notes": "ยืนยัน 21 ส.ค. 2026 (ผู้ตรวจ batch_079): **มีบทพูดสดจริง** ในฉากย้อนอดีตคดีวาคุ บทที่ 13 (เอกสารเดิมเขียนว่าไม่มีบทพูด) — หญิง T1 ใช้ ค่ะ/คะ",
+  "spoiler_notes": "เป็นพี่สาวของ Fumiya Sugiura เพื่อนแฮ็กเกอร์ของยากามิ — จุดเชื่อมโยงสำคัญที่ทำให้คดีนี้เป็นเรื่องส่วนตัวของ Sugiura ด้วย ถูกฆ่าโดย Okubo แฟนหนุ่มของตัวเอง (แทงกว่าสิบแผลแล้วราดน้ำมันจุดไฟเผา) เพียงหนึ่งเดือนหลังช่วยเขาชนะคดีก่อนหน้า",
+  "source": "extracted/facts/evidence.json idx 68,80,90",
+  "pronoun_tier": "N/A (ไม่มีบทพูดสดในข้อมูลที่มี — รอยืนยันหากมีบทเสริม/ฉากย้อนอดีต)",
+  "gender": "female",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx68 table.1",
+    "quote": "She pointed out the contradiction in Shono's testimony and helped Okubo win the trial. Tragically, she was killed by Okubo shortly afterward.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "okubo": {
+  "name_en": "Shinpei Okubo",
+  "name_th_proposal": "ชินเป โอคุโบะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์ Shinpei: shin→ชิน pei→เปย์ (ตามกฎ -ei→เ-ย์) · Okubo: o→โอ ku→คุ bo→โบะ",
+  "aliases": [],
+  "role": "อดีตพนักงานเก็บผ้าปูที่นอนที่ ADDC ผู้ต้องหาในคดีฆาตกรรม Koichi Waku (2015) ที่ยากามิเคยแก้ต่างจนชนะคดี ก่อนถูกจับอีกครั้งในข้อหาฆ่าแฟนสาว Emi Terasawa หนึ่งเดือนต่อมา",
+  "faction": "อดีตพนักงาน ADDC",
+  "personality": "ผิวเผินดูเป็นเหยื่อของระบบ/สถานการณ์ แต่จริงๆ ซ่อนความรุนแรงไว้ภายใน — เคยมีประวัติทำร้ายแฟนสาวสมัยวัยรุ่น",
+  "voice_tone": "มีบทพูดสดครั้งแรกในฉากเยี่ยมเรือนจำ บทที่ 9 (พบตอนแปล batch_061) — โทนเหนื่อยล้า/ยอมจำนน พูดกับยากามิในฐานะทนายที่เคยช่วยไว้",
+  "pronoun_self": "ผม (T1)",
+  "pronoun_others": {
+   "terasawa": "เอมิ (แฟนสาว)",
+   "yagami": "นาย / ทนายยากามิ (T1 — คู่กับ 'ผม' ตามคำตัดสิน lead 21 ส.ค. 2026 ว่า 'นาย' ใช้ได้ในระดับ T1)"
+  },
+  "speech_notes": "lead ล็อก 21 ส.ค. 2026: T1 ทั้งฉาก — ยากามิเป็นทนายของเขา ความสัมพันธ์คือลูกความ↔ทนาย (บรรทัดฐานเดียวกับอายาเบะตอนถูกจับ) · ห้ามใช้ T3 แม้บทจะขมขื่น",
+  "spoiler_notes": "⏳ ข้อขัดแย้งที่ lead บันทึก 21 ส.ค. 2026: ไฟล์นี้เคยระบุว่าโอคุโบะฆ่าเอมิจริง แต่ `docs/story_context_judge.part2.md` อ้าง evidence.json ว่าโชโนะเป็นคนฆ่าแล้วใส่ร้าย (รูปแบบเดียวกับคดีวาคุ) · ข้อมูลใน evidence.json ที่ extract ได้เป็นเวอร์ชันที่อัปเดตตามความคืบหน้า เนื้อเรื่อง จึงยังตัดสินไม่ได้จากข้อมูลที่มี — **นักแปลห้ามเติมข้อสรุปที่ EN ไม่ได้พูด** ให้แปลตามที่ต้นฉบับเขียนเท่านั้น | เดิม: ยากามิเคยพิสูจน์ว่าเขาบริสุทธิ์ในคดี Waku (แม้จริงๆ Waku ตายเพราะการทดลอง AD-9 ที่ล้มเหลวของ Shono ผู้ใส่ร้ายเขา) แต่ Okubo กลับไปฆ่า Emi Terasawa จริงในเวลาต่อมา ทำให้ชื่อเสียงทนายของยากามิพังยับเยิน — เป็นจุดกำเนิดที่ทำให้ยากามิเลิกเป็นทนาย",
+  "source": "extracted/facts/evidence.json idx 65,81,82,88,90",
+  "pronoun_tier": "N/A (ไม่มีบทพูดสดในข้อมูลที่มี — รอยืนยันหากมีบทเสริม/ฉากย้อนอดีต)",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx65 table.2",
+    "quote": "He admits to abandoning Waku's body in the mountains of Okutama, but claims he didn't kill him.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "waku": {
+  "name_en": "Koichi Waku",
+  "name_th_proposal": "โคอิจิ วาคุ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์ Koichi: ko→โค i→อิ chi→จิ · Waku: wa→วา ku→คุ",
+  "aliases": [],
+  "role": "อดีตผู้ป่วยสูงอายุที่ ADDC เป็นโรคอัลไซเมอร์ หายตัวไปจากโรงพยาบาลปี 2015 และพบศพในภูเขา Okutama สามเดือนต่อมา — เหยื่อรายแรกของห่วงโซ่คดีทั้งหมด",
+  "faction": "อดีตผู้ป่วย ADDC",
+  "personality": "⏳ ไม่มีข้อมูลบุคลิกโดยตรง — เสียชีวิตก่อนเรื่องเริ่ม ปรากฏเฉพาะผ่านคดีย้อนหลัง",
+  "voice_tone": "⏳ ไม่มีบทพูด — เป็นเหยื่อที่ตายก่อนเนื้อเรื่องหลักเริ่ม",
+  "pronoun_self": "-",
+  "pronoun_others": {},
+  "speech_notes": "-",
+  "spoiler_notes": "แท้จริงเสียชีวิตจากการทดลอง AD-9 ที่ล้มเหลวของ Shono ไม่ใช่ถูก Okubo ฆ่าตามที่กล่าวหาในตอนแรก — Shono ใส่ร้าย Okubo โดยซ่อนศพในรถบรรทุกผ้าปูที่นอนของเขา เป็นจุดเริ่มต้นของห่วงโซ่การปกปิดความจริงทั้งหมดในเกม",
+  "source": "extracted/facts/evidence.json idx 13,14,64,88",
+  "pronoun_tier": "N/A (เสียชีวิตก่อน/ตั้งแต่ต้นเรื่อง — ไม่มีบทพูดสดในข้อมูลที่มี)",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx88 table.1",
+    "quote": "Although his exact cause of death is uncertain, Waku's autopsy seems to indicate that he died from suffocation.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "shintani": {
+  "name_en": "Masamichi Shintani",
+  "name_th_proposal": "มาซามิจิ ชินทานิ",
+  "reason": "ยังไม่เคยล็อก — ยืนยันคันจิ/คานะจาก speakers.json id 'judge_新谷' idx972='Shintani' ทับศัพท์ Masamichi: ma→มา sa→ซะ mi→มิ chi→จิ · Shintani: shin→ชิน ta→ทา ni→นิ",
+  "aliases": [],
+  "role": "ทนายความจาก Genda Law Office เพื่อนร่วมงานเก่าของยากามิสมัยเป็นทนาย — ถูกฆาตกรรมและซ่อนศพในตู้เสื้อผ้าที่ Yagami Detective Agency จุดเปิดเรื่องหลักของเกม",
+  "faction": "Genda Law Office (เสียชีวิตตั้งแต่ต้นเกม)",
+  "personality": "⏳ ไม่มีบทพูดสดในเกม (เสียชีวิตก่อนเรื่องเริ่ม) — จากคำบอกเล่าของ Genda ('ศิษย์ที่เก่งที่สุด') สันนิษฐานว่ามีความสามารถและได้รับความเคารพสูงในสำนักงาน",
+  "voice_tone": "⏳ ไม่มีข้อมูลโดยตรง — ปรากฏเฉพาะผ่านหลักฐาน/ความทรงจำของตัวละครอื่น",
+  "pronoun_self": "ฉัน (T2 — รุ่นพี่ทนายที่สนิทกับยากามิ ไม่ใช่ทะเบียนทางการ)",
+  "pronoun_others": {
+   "yagami": "**นาย** (พบจริงในเกม ตาราง a04_015 · ผู้ตรวจ batch_036 ยืนยัน) / ยากามิ — เดิมไฟล์นี้เขียน \"แก\" ซึ่งไม่ตรงกับบทจริง"
+  },
+  "speech_notes": "ยืนยัน 21 ส.ค. 2026 (ผู้ตรวจ batch_079): มีบทพูดสดในฉากย้อนอดีต — บรรทัดที่เจอยังไม่มีสรรพนาม จึงยัง ⏳ ว่า pronoun_self คืออะไร",
+  "spoiler_notes": "การตายของเขาคือจุดเปิดเรื่อง — เดิมสงสัยว่าเป็นฝีมือตระกูลเคียวเรอิ (เพราะเขาช่วยให้ฮามุระพ้นผิด) แต่ดวงตาที่ถูกควักเป็นเบาะแสว่าเป็นฝีมือ 'ไส้ศึก' (the Mole) — ท้ายที่สุดเผยว่าฮามุระสั่งฆ่าเขาเพื่อปิดปากเรื่องตัวตนของ Shono ที่เขาเผลอรู้หลังฮามุระถูกจับคดี Kume",
+  "source": "extracted/facts/evidence.json idx 47,48,49,87 · extracted/facts/speakers.json idx 972 (新谷) · extracted/facts/chapters.json (บทที่ 7 'Skeletons in the Closet' อ้างอิงจาก missions bengoshi_shasatsu)",
+  "pronoun_tier": "T2 (ฉัน↔แก) — lead ยืนยัน 21 ส.ค. 2026: **มีบทพูดสดจริง** ใน auth.bin ตาราง a04_015 (ยากามิเตือนว่าตระกูลเคียวเรอิอาจเล่นงาน ชินทานิยืนกรานไม่ถอย) แก้จากเดิมที่บันทึกว่าไม่มีบทพูด",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx87",
+    "quote": "His body was discovered inside the Yagami Detective Agency, having suffered multiple gunshot wounds...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "murase": {
+  "name_en": "Akira Murase",
+  "name_th_proposal": "อากิระ มุราเสะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์ Akira: a→อา ki→คิ ra→ระ · Murase: mu→มุ ra→ระ se→เสะ",
+  "aliases": [],
+  "role": "สมาชิกตระกูลเคียวเรอิแห่งคันไซ พี่ใหญ่ (อานิกิ) ของ Toshiro Kume เหยื่อรายที่สาม — หนีออกจากที่เกิดเหตุตอน Kume ถูกลากเข้า Club Amour แล้วให้ความร่วมมือกับตำรวจภายหลัง",
+  "faction": "ตระกูลเคียวเรอิ (คันไซ)",
+  "personality": "ภักดีต่อรุ่นน้อง พยายามช่วย Kume กลับมาช่วยพร้อมสมาชิกตระกูลเคียวเรอิคนอื่น แต่มาไม่ทัน",
+  "voice_tone": "หนักแน่นแบบยากูซ่าคันไซ ให้ความร่วมมือกับการสืบสวนอย่างจริงจังเพราะอยากล้างแค้นให้ Kume",
+  "pronoun_self": "ฉัน (ยากูซ่าคันไซให้ความร่วมมือ กันเองกับยากามิ — แก้จาก 'ผม / ฉัน' เดิมที่ผสมสองระดับ)",
+  "pronoun_others": {
+   "yagami": "ยากามิ",
+   "hamura": "ไอ้ฮามุระ (เป็นศัตรู)"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "กลับมาที่ Club Amour พร้อมพวกสามชั่วโมงหลังเพื่อช่วย Kume แต่พบว่าร้านว่างเปล่าแล้ว — คำให้การนี้กลายเป็นหลักฐานสำคัญที่ช่วยพิสูจน์ความบริสุทธิ์ของฮามุระในชั้นศาล (แม้ฮามุระจะเป็นตัวการที่แท้จริงในภายหลัง)",
+  "source": "extracted/facts/evidence.json idx 28,84",
+  "pronoun_tier": "T2",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx28",
+    "quote": "When Kume was dragged into Amour by Matsugane Family members, Murase fled the scene. After the crime was committed, he began complying with the police investigation.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "hashiki": {
+  "name_en": "Toru Hashiki",
+  "name_th_proposal": "โทรุ ฮาชิกิ",
+  "reason": "ยังไม่เคยล็อก — ชื่อตัว 'โทรุ' สะกดเหมือน Toru Higashi (คนละตัว แต่คันจิ/เสียงคนละความหมาย ไม่ถือเป็นการชนกัน) ทับศัพท์ Hashiki: ha→ฮา shi→ชิ ki ท้ายชื่อ→กิ",
+  "aliases": [],
+  "role": "รองผู้อำนวยการ ADDC เหยื่อที่ถูกทำร้ายจนเสียชีวิต — เริ่มสืบหาข้อบกพร่องของ AD-9 หลัง Kajihira Group เข้ามาแทรกแซง",
+  "faction": "Advanced Drug Development Center (ADDC)",
+  "personality": "⏳ ข้อมูลจำกัด — จากหลักฐานพบว่าเริ่มลังเลสงสัยเรื่องความปลอดภัยของ AD-9 ก่อนตาย แสดงถึงความมีมโนธรรมบางส่วนแม้อยู่ในองค์กรที่ทุจริต",
+  "voice_tone": "⏳ ไม่มีบทพูดสด (เสียชีวิตตั้งแต่ต้นสายเนื้อเรื่องนี้) — ปรากฏผ่านหลักฐาน/คำบอกเล่าพยาน",
+  "pronoun_self": "-",
+  "pronoun_others": {
+   "shono": "โชโนะ (เพื่อนร่วมงาน)"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "รับสินบนจาก Kajihira ให้สืบหาข้อบกพร่องของ AD-9 เพื่อผลประโยชน์ทางธุรกิจของ Kajihira Group แต่ถูกฆาตกรรมโดย 'ไส้ศึก' ตามคำสั่งของฮามุระที่ Shono ว่าจ้างผ่านคนกลาง Ishimatsu (ราคาว่าจ้าง 10 ล้านเยน) — เชื่อว่าเป็นเหยื่อรายแรกในสายการฆ่าปิดปากของ Shono",
+  "source": "extracted/facts/evidence.json idx 70,71,73,75,89",
+  "pronoun_tier": "N/A (เสียชีวิตก่อน/ตั้งแต่ต้นเรื่อง — ไม่มีบทพูดสดในข้อมูลที่มี)",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx89 table.2",
+    "quote": "He was allegedly seeing off his colleague, Yoji Shono (age 35), when he got into a brief altercation with a man in a black raincoat.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "kajihira": {
+  "name_en": "Shigeru Kajihira",
+  "name_th_proposal": "ชิเงรุ คาจิฮิระ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์ Shigeru: shi→ชิ ge→เกะ ru→รุ · Kajihira: ka→คา ji→จิ hi→ฮิ ra→ระ",
+  "aliases": [],
+  "role": "ประธานกลุ่มบริษัทรับเหมาก่อสร้าง Kajihira Group ผู้สนับสนุนทางการเงินให้ตระกูลเคียวเรอิที่กำลังขยายอิทธิพลเข้าคามุโรโจ",
+  "faction": "Kajihira Group (ธุรกิจก่อสร้าง)",
+  "personality": "นักธุรกิจเจ้าเล่ห์ มองทุกอย่างเป็นผลประโยชน์/การลงทุน ไม่ลังเลใช้วิธีสกปรก (บ่อนทำลาย ADDC ผ่านการติดสินบน) เมื่อแผนธุรกิจถูกขัดขวาง",
+  "voice_tone": "มั่นใจแบบนักธุรกิจใหญ่ พูดจาดูสุภาพแต่แฝงการข่มขู่ทางอ้อมเสมอ",
+  "pronoun_self": "ผม / กระผม (นักธุรกิจใหญ่) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "hashiki": "คุณฮาชิกิ"
+  },
+  "speech_notes": "-",
+  "spoiler_notes": "ลงทุนกว่า 100,000 ล้านเยนพยายามซื้อที่ดิน ADDC เพื่อพัฒนาใหม่ แต่แผนล้มเพราะ AD-9 ประสบความสำเร็จเกินคาด จึงติดสินบน Hashiki ให้หาข้อบกพร่องของยาเพื่อดันแผนพัฒนากลับมา — Hattori นักข่าวรู้เรื่องยากามิแล้วเอาไปขายข้อมูลให้เขา",
+  "source": "extracted/facts/evidence.json idx 76,77,89",
+  "pronoun_tier": "T1",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx76",
+    "quote": "He even went as far as investing 100 billion yen into purchasing the ADDC, but his plan ultimately failed... So he bribed Hashiki...",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "hattori": {
+  "name_en": "Ko Hattori",
+  "name_th_proposal": "โค ฮัตโตริ",
+  "reason": "⚠ นามสกุล 'ฮัตโตริ' ปรากฏใน glossary_gaiden.md แต่เป็นคนละตัวละคร ('Hattori the Ninja→ฮัตโตรินินจา' เป็น NPC นินจาตลกโปกฮาคนละสาย ไม่เกี่ยวกับ Ko Hattori นักข่าวใน Judgment) — ใช้ทับศัพท์นามสกุลเดียวกันได้เพราะเป็นคันจิ/เสียงเดียวกัน (服部) แต่ไม่ใช่การล็อกตัวละคร ชื่อตัว 'โค' ทับศัพท์เสียงยาว ko→โค",
+  "aliases": [],
+  "role": "นักข่าวอิสระสายเหลืองที่ฉวยโอกาสจากคดีฆาตกรรม Emi Terasawa เขียนข่าวใหญ่ — มองว่ายากามิเป็นทนายจอมปลอม",
+  "faction": "อิสระ (นักข่าว)",
+  "personality": "ฉวยโอกาส ไร้จริยธรรมสื่อ พร้อมขายข้อมูลเพื่อผลประโยชน์ตัวเอง ดูถูกยากามิอย่างเปิดเผย",
+  "voice_tone": "ยียวน กวนประสาท ชอบยั่วโมโหคู่สนทนาด้วยคำพูดเสียดสี",
+  "pronoun_self": "กู (นักข่าวสายเหลืองไม่เกรงใจใคร — แก้จาก 'ผม / กู' เดิมที่ผสมสองระดับ) ⏳ยืนยันกับ EN",
+  "pronoun_others": {
+   "yagami": "ไอ้ยากามิ / คุณทนายจอมปลอม (ดูถูก — 'คุณ' ในที่นี้เป็นการประชดเสียดสี ไม่ใช่ทะเบียนสุภาพจริง อนุญาตตามกฎข้อ 1 ของ §0 เพราะจงใจแสดงอารมณ์)"
+  },
+  "speech_notes": "lead ล็อก 21 ส.ค. 2026 — ฮัตโตริมีสองทะเบียนตามความหยาบของ EN ในฉากนั้น: **T3 (กู/มึง)** เฉพาะฉากที่ EN หยาบชัด (บรรทัดฐาน batch_047 id 900) · **T2 (ฉัน/แก)** เมื่อ EN ไม่มีคำหยาบ เช่น ฉากคุยงานวิจัย AD-9 ที่ร้านราเมง (batch_058 แก้จาก T3 → T2 รวม 14 จุด) · คำเรียกยากามิยึด EN รายบรรทัด: มี -san → 'ยากามิซัง' · ไม่มี → 'นาย' (การจับคู่ไม่สมมาตรแบบนี้ถูกต้องตามกฎ honorific) | ปรับกฎ 21 ส.ค. 2026 (ผู้ตรวจ batch_059 เสนอ · lead รับ): เกณฑ์ที่ใช้แยกทะเบียนคือ **ลักษณะการสนทนา ไม่ใช่ช่วงเวลา** — ฉาก 'ธุรกรรมแลกเปลี่ยนข้อมูล' (เขาให้ข้อมูลแล้วทวงบุญคุณ เช่น \"you'll owe me for this\") = T1 \"ผม/ครับ\" ตามมารยาทนักข่าวที่กำลังต่อรอง · ฉาก 'เย้ยหยันเปิดหน้า' ที่ EN หยาบชัด = T3 กู/มึง (batch_047) · ฉากคุยงานทั่วไปที่ไม่มีทั้งสองลักษณะ = T2 ฉัน/แก (batch_058) | lead ตอบคำถามผู้ตรวจ batch_067 (21 ส.ค. 2026): ฉาก **เตือนภัยให้เปล่า ไม่ทวงผลตอบแทน** (เช่น \"Someone's got eyes on your place.\") = **T2** — เพราะเป็นท่าทีของคนที่ถือว่า สนิทพอจะเตือนกันเอง ไม่ใช่การต่อรองแบบ T1 และไม่ได้หยาบแบบ T3 · สรุปเกณฑ์สามชั้นให้ครบ: ต่อรอง/ทวงบุญคุณ = T1 · คุยงานทั่วไปหรือเตือนให้เปล่า = T2 · เย้ยหยันเปิดหน้าที่ EN หยาบชัด = T3",
+  "spoiler_notes": "แอบให้ข้อมูลสำคัญเกี่ยวกับยากามิแก่ Shigeru Kajihira ในภายหลัง — เป็นตัวเชื่อมข้อมูลรั่วไหลระหว่างสองฝั่งของคดี",
+  "source": "extracted/facts/evidence.json idx 77",
+  "pronoun_tier": "T3 · ⚠ **ขึ้นกับไทม์ไลน์** (lead บันทึก 21 ส.ค. 2026 จากผลแปล batch_030): ในฉากย้อนอดีตช่วงฉลองฮามุระพ้นผิด ฮัตโตริเรียกยากามิว่า \"ยากามิซัง\" และคุยกันฉันมิตร = ใช้ T1 สุภาพ · โทน T3 เย้ยหยันเป็นของช่วงปัจจุบันหลังยากามิเสียชื่อ",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx77",
+    "quote": "A seedy freelance journalist who capitalized on Emi Terasawa's murder to write his next big story.",
+    "type": "en_pronoun"
+   }
+  ]
+ },
+ "shioya": {
+  "name_en": "Satoshi Shioya",
+  "name_th_proposal": "ซาโตชิ ชิโอยะ",
+  "reason": "ยังไม่เคยล็อก — ทับศัพท์ Satoshi: sa→ซา to→โต shi→ชิ · Shioya: shi→ชิ o→โอ ya→ยะ",
+  "aliases": [],
+  "role": "กัปตันตระกูลเคียวเรอิแห่งคันไซ ยศรองหัวหน้าตระกูล มือขวาของ Koba (หัวหน้าตระกูลเคียวเรอิ) — เดินทางมาโตเกียวเพื่อล้างแค้นให้ลูกน้องที่ถูกฆ่า",
+  "faction": "ตระกูลเคียวเรอิ (คันไซ)",
+  "personality": "ดุดัน ไม่ปรานีคนที่ทำร้ายพวกพ้อง พร้อมลงมือรุนแรงเพื่อแก้แค้น — ตัวแทนความขัดแย้งระหว่างตระกูลเคียวเรอิกับตระกูลโทโจที่ปะทุขึ้นตลอดเรื่อง",
+  "voice_tone": "ดุดัน ห้าว น้ำเสียงคุกคามชัดเจนแบบยากูซ่าคันไซสายบู๊",
+  "pronoun_self": "กู (T3) — **ยืนยันกับ EN แล้ว 21 ส.ค. 2026**: บรรทัดของเขา (id 1326, ยืนยันด้วย speaker_exact) มีคำว่า \"For fuck's sake...\" ตรงเกณฑ์ T3 ของทีม · 'ข้า' ยังสงวนไว้เฉพาะฉากดราม่าหนัก ไม่ใช่ค่าเริ่มต้น",
+  "pronoun_others": {
+   "hamura": "มึง (T3 — ศัตรู)",
+   "yagami": "มึง (T3 · เรียกชื่อ 'ยากามิ' ตรง ๆ ได้ตาม EN)",
+   "matsugane": "ท่าน (ให้เกียรติหัวหน้าตระกูลอีกฝ่าย โดยไม่ต้องขยับสรรพนามตัวเองออกจาก T3)"
+  },
+  "speech_notes": "lead ล็อก 21 ส.ค. 2026 (ผู้ตรวจ batch_065 แก้ 16 จุดจาก T1 → T3): **T3 ทั้งฉาก** · ข้อยกเว้นที่รับรอง: ประโยคทักทายทางการกับมัตสึกาเนะ (\"It's a pleasure to meet you\") ไม่มีสรรพนามของตัวเองอยู่แล้ว ปล่อยเป็นทางการได้ = code-switching ตามคู่สนทนา ไม่ถือว่าผสมทะเบียน · การเรียกมัตสึกาเนะว่า \"ท่าน\" ก็ด้วยเหตุผลเดียวกัน",
+  "spoiler_notes": "เป็นไปได้ว่ามีส่วนเกี่ยวข้องกับการตายของ Shintani ด้วย (evidence.json ระบุว่า 'Shintani was possibly targeted by him as well') — ยังไม่ยืนยันชัดเจนในข้อมูลที่มี ⏳",
+  "source": "extracted/facts/evidence.json idx 46,56",
+  "pronoun_tier": "T3",
+  "gender": "male",
+  "gender_confidence": "high",
+  "gender_evidence": [
+   {
+    "source": "evidence.json idx46",
+    "quote": "It is thought he came to Tokyo to take Hamura's life for killing his subordinates.",
+    "type": "en_pronoun"
+   }
+  ]
+ }
+}

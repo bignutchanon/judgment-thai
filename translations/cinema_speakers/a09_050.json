@@ -1,0 +1,14 @@
+{
+ "scene": "a09_050",
+ "rows": {
+  "1": {"speaker": "Interrogating Detective", "gender": "male", "conf": "med", "why": "sarcastic taunt while physically hurting Okubo; all named/generic police tags in registry are male except the '_w' suffixed one"},
+  "2": {"speaker": "Interrogating Detective", "gender": "male", "conf": "med", "why": "continues row 1's taunt"},
+  "3": {"speaker": "Interrogating Detective", "gender": "male", "conf": "med", "why": "continues aggression, demanding a reaction"},
+  "4": {"speaker": "Interrogating Detective", "gender": "male", "conf": "med", "why": "repeats the demand from row 3"},
+  "5": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "TH marked M, pleading he didn't kill her -- matches Okubo's case"},
+  "6": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "TH marked M, continues plea"},
+  "7": {"speaker": "Interrogating Detective", "gender": "male", "conf": "med", "why": "same aggressor mocking Okubo's crying, continues from rows 1-4"},
+  "8": {"speaker": "Interrogating Detective", "gender": "male", "conf": "med", "why": "continues, referencing Emi Terasawa"},
+  "9": {"speaker": "Interrogating Detective", "gender": "male", "conf": "med", "why": "continues final taunt of the interrogation"}
+ }
+}

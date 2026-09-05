@@ -1,0 +1,26 @@
+{
+ "scene": "a04_015",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "matches story summary: Yagami warns Shintani he may be a target too"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues the warning ('that'd be you')"},
+  "3": {"speaker": "Shintani", "gender": "male", "conf": "med", "why": "reacts to being told he's a target; overrides the generic reused reaction cue with scene context"},
+  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the warning to be careful"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues, 'telling you this as a friend'"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues, trailing off"},
+  "7": {"speaker": "Shintani", "gender": "male", "conf": "high", "why": "current TH marked M; defiant response about doing the right thing, fits his role investigating the Mole"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "frustrated reaction to Shintani's self-righteous statement"},
+  "9": {"speaker": "Shintani", "gender": "male", "conf": "high", "why": "cue=male(shintani); tells Yagami to drop the Mole matter, fits story context that Shintani knows more than he lets on"},
+  "10": {"speaker": "Shintani", "gender": "male", "conf": "med", "why": "continues challenging Yagami's understanding of the situation"},
+  "11": {"speaker": "Shintani", "gender": "male", "conf": "med", "why": "continues, warns the Mole is bigger than Yagami knows"},
+  "12": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami,hoshino), talk=Yagami; asks for clarification"},
+  "13": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues pressing Shintani, accuses him of knowing something"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues questioning about Hamura"},
+  "15": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues demanding the truth"},
+  "16": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues pressuring Shintani about responsibility if the Mole kills again"},
+  "17": {"speaker": "Shintani", "gender": "male", "conf": "high", "why": "current TH marked M; pushes back defensively"},
+  "18": {"speaker": "Shintani", "gender": "male", "conf": "med", "why": "continues, deflects with attorney-client privilege, fits his lawyer background"},
+  "19": {"speaker": "Shintani", "gender": "male", "conf": "med", "why": "continues, mocks Yagami's disbarred status"},
+  "20": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "calls out Shintani's name in frustration as he leaves"},
+  "21": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "addresses Yagami by name, commenting on the exchange just witnessed, teasing him about respecting Shintani"}
+ }
+}

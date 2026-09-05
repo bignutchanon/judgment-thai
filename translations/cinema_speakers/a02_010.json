@@ -1,0 +1,41 @@
+{
+ "scene": "a02_010",
+ "rows": {
+  "1": {
+   "speaker": "Female police officer",
+   "gender": "female",
+   "conf": "high",
+   "why": "cue=female(oikake_police_w) directly on this line (twice)"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami,sugiura) and talk=Yagami; answering a phone call"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami; reacting after being robbed, chasing the thief"
+  },
+  "4": {
+   "speaker": "Female police officer",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continues the chase shout from row 1, same officer"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Protests mistaken identity while being grabbed by police during the chase"
+  },
+  "6": {
+   "speaker": "Female police officer",
+   "gender": "female",
+   "conf": "med",
+   "why": "Continues arresting/taking Yagami, same officer as rows 1/4"
+  }
+ }
+}

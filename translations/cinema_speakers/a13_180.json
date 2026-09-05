@@ -1,0 +1,23 @@
+{
+ "scene": "a13_180",
+ "rows": {
+  "1": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "thanks Yagami for freeing him (registry: Okubo male)"},
+  "2": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues addressing Yagami as 'sensei'; cue=male(izumida) appears to be a reused honorific line, context strongly indicates Okubo speaking about his own case"},
+  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "reacts to news of Okubo's release date"},
+  "4": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues talking about his own upcoming release after years"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "explains the upcoming retrial for Emi's case"},
+  "6": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues, reassures it will be a formality"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues reassuring Okubo no one believes he killed Emi"},
+  "8": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "agrees with Yagami's reassurance"},
+  "9": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "asks Yagami if he is already leaving"},
+  "10": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "hesitant reply before revealing he brought someone"},
+  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "announces he brought someone else to talk to Okubo"},
+  "12": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "surprised reaction to Yagami's announcement; talk hint says Yagami but he just spoke, more natural as Okubo's surprise"},
+  "13": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "recognizes Sugiura's given name Fumiya"},
+  "14": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "tells them he'll leave them to talk, stepping back"},
+  "15": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "invites Yagami to stay if he wants"},
+  "16": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "declines, giving Sugiura and Okubo privacy"},
+  "17": {"speaker": "Sugiura", "gender": "male", "conf": "med", "why": "thanks Yagami as he departs, leads into calling after him in row 18"},
+  "18": {"speaker": "Sugiura", "gender": "male", "conf": "high", "why": "cue includes sugiura; calls after Yagami as he leaves"}
+ }
+}

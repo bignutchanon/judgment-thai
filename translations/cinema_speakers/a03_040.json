@@ -1,0 +1,12 @@
+{
+ "scene": "a03_040",
+ "rows": {
+  "1": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "narration about Yagami's ('Tak's') childhood backstory, delivered by his close friend"},
+  "2": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "continues narration about Tak's parents' murder"},
+  "3": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "continues narration"},
+  "4": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "cue=male(kaito); continues narration"},
+  "5": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "continues narration"},
+  "6": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "continues narration"},
+  "7": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "closing line of the narration"}
+ }
+}

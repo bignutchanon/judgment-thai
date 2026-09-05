@@ -1,0 +1,12 @@
+{
+ "scene": "p07_00100",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration about the Mole's murder of Shintani"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration referring to 'Yagami' by name"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration about the ADDC land"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration, sets up the reveal of who is behind the plan"},
+  "6": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration naming the Kajihira Group"},
+  "7": {"speaker": "Narration", "gender": "narration", "conf": "med", "why": "closing line naming Chairman Kajihira; text is third-person recap narration consistent with the rest of the scene, though the hint tags this line's audio with cue=male(sugiura) -- flagging for lead review in case this line's VO is actually voiced/attributed differently from the rest of the narration"}
+ }
+}

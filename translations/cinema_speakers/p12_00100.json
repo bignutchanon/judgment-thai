@@ -1,0 +1,12 @@
+{
+ "scene": "p12_00100",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration about the Matsugane Family and the Mole"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration about the Kyorei Clan"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration referring to 'Hamura' by name"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration referring to 'Yagami' by name"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration naming Kuroiwa as the Mole"},
+  "6": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration about Matsugane's death"},
+  "7": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "closing line of the recap narration about AD-9's benefactors"}
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "scene": "p11_00100",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration about AD-9's human experiments"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration about the Mole"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration referring to 'Yagami' by name"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration referring to 'Kaito's blood'"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration referring to 'Hamura' by name"},
+  "6": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "closing line of the recap narration"}
+ }
+}

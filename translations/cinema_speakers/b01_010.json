@@ -1,0 +1,23 @@
+{
+ "scene": "b01_010",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "case-summary narration, third person, no speaker named"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues case-summary narration"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person account of the Hamura/Kume/Murase argument"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "6": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "7": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "8": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "references 'we have' the testimony -- prosecution-style case-file narration, not a named speaker"},
+  "9": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "explicitly frames the following lines as 'the prosecution's story'"},
+  "10": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "11": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "12": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "13": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "14": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "sets up the quoted statement in row 15 ('Hamura said...')"},
+  "15": {"speaker": "Hamura", "gender": "male", "conf": "high", "why": "quoted statement introduced by row 14 ('When questioned, Hamura said...'); Kyohei Hamura is male per registry"},
+  "16": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "returns to third-person case narration after the quote"},
+  "17": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "18": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"}
+ }
+}

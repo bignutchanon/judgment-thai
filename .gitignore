@@ -7,3 +7,12 @@ __pycache__/
 *.pyc
 tools/ParTool.exe
 tools/SRMM-4.8.4/
+# JETH — ของชั่วคราว/ของแตกจากเกม/ไฟล์แจก (ไม่ commit)
+release/
+shots/
+scratch_*.txt
+out*.txt
+*_out.txt
+/*.bin.json
+/D:Projects*
+tools/__pycache__/

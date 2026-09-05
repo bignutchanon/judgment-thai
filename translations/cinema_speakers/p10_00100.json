@@ -1,0 +1,9 @@
+{
+ "scene": "p10_00100",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration about the 2015 ADDC murder"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration about Okubo"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration referring to 'Yagami's theory' by name"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "closing line of the recap narration about Emi Terasawa's death"}
+ }
+}

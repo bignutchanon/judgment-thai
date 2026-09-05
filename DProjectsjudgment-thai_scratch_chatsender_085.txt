@@ -1,0 +1,253 @@
+contact      Yukko              | Can I ask you one thing?
+contact      Yukko              | What are your feelings toward Nanami? You keep asking her out because 
+choice       Yukko              | I am.
+contact      Yukko              | What do you mean "you think so"?
+yagami       Yukko              | Hmm, I'm not 100% sure yet.
+contact      Yukko              | Well then make up your mind!
+yagami       Yukko              | Okay, then I am interested.
+yagami       Yukko              | I'm definitely interested in her.
+contact      Yukko              | Does that mean you like her?
+yagami       Yukko              | I guess you can say that.
+contact      Yukko              | Okay then.
+contact      Yukko              | Can we meet up right now? I want to talk to you about this some more.
+contact      Yukko              | I'll be waiting at Wette Kitchen on West Taihei Boulevard!
+yagami       Nanami Matsuoka    | Thanks for waiting, Yukko-san.
+contact      Nanami Matsuoka    | Hey, Yagami-san. You're looking as handsome as always.
+yagami       Nanami Matsuoka    | So, about Nanami-san...
+contact      Nanami Matsuoka    | Looks like even you couldn't penetrate her icy facade.
+contact      Nanami Matsuoka    | What a waste... missing the chance to get to know a wonderful guy like
+yagami       Nanami Matsuoka    | Well, if she's not interested, then there's not much I can do.
+contact      Nanami Matsuoka    | Don't think like that, Yagami-san! My instincts have been telling me s
+yagami       Nanami Matsuoka    | You sure about that?
+contact      Nanami Matsuoka    | 100% sure. What I think is happening is that she's getting too caught 
+yagami       Nanami Matsuoka    | What happened to her?
+contact      Nanami Matsuoka    | Umm... I'm not really at liberty to bring that up. Even to a nice guy 
+yagami       Nanami Matsuoka    | I see. That's too bad.
+contact      Nanami Matsuoka    | ...Okay, this is just between me and you!
+yagami       Nanami Matsuoka    | Whoa. You're gonna tell me after all?
+contact      Nanami Matsuoka    | ...I can't help it! You see, I'm just too much of a blabbermouth, and 
+yagami       Nanami Matsuoka    | Then I'm glad I was born with these charming good looks.
+contact      Nanami Matsuoka    | But you have to swear on your life that you didn't hear this from me. 
+choice       Nanami Matsuoka    | I can't promise that.
+yagami       Nanami Matsuoka    | Hmm. Not sure I can do that.
+contact      Nanami Matsuoka    | Then my lips are sealed.
+yagami       Nanami Matsuoka    | ...I figured as much.
+contact      Nanami Matsuoka    | You really don't want to know?
+yagami       Nanami Matsuoka    | Fine, I swear.
+contact      Nanami Matsuoka    | All right. I'll hold you to that, then.
+contact      Nanami Matsuoka    | Okay, here's what happened.
+contact      Nanami Matsuoka    | So Nanami had this really awful boyfriend—I'm talking major sleazeball
+yagami       Nanami Matsuoka    | Sounds like a real bastard.
+contact      Nanami Matsuoka    | He was. I'm not sure what Nanami saw in him, but she basically gave hi
+contact      Nanami Matsuoka    | And what did he end up doing? He threw it away like it was nothing! Af
+yagami       Nanami Matsuoka    | That's terrible...
+contact      Nanami Matsuoka    | Yup. Left such a deep emotional scar, it changed my friend forever.
+yagami       Nanami Matsuoka    | So that's how it was.
+yagami       Nanami Matsuoka    | So I guess it's not such a good time to ask her out, huh?
+contact      Nanami Matsuoka    | After meeting a wonderful guy like you, I honestly thought she'd be ab
+yagami       Nanami Matsuoka    | ...I see.
+contact      Nanami Matsuoka    | Yagami-san. Do you really like Nanami?
+choice       Nanami Matsuoka    | I think I like her.
+choice       Nanami Matsuoka    | I am attracted to her.
+yagami       Nanami Matsuoka    | I wonder...
+contact      Nanami Matsuoka    | Stop being so vague. Nothing will happen if you're like that!
+yagami       Nanami Matsuoka    | Y-You do have a point.
+yagami       Nanami Matsuoka    | Yeah, I think I like her.
+contact      Nanami Matsuoka    | Would you be comfortable dating her?
+yagami       Nanami Matsuoka    | Yeah, I do want to date her.
+contact      Nanami Matsuoka    | You're serious?
+yagami       Nanami Matsuoka    | I've been attracted to her for a while now.
+contact      Nanami Matsuoka    | And would you say your feelings for her will only grow deeper and deep
+yagami       Nanami Matsuoka    | Yeah, I would say so.
+contact      Nanami Matsuoka    | ...Okay. Then I've decided to help you out!
+yagami       Nanami Matsuoka    | Thanks. But how?
+contact      Nanami Matsuoka    | You'll need an excuse to slip past her defenses.
+yagami       Nanami Matsuoka    | An excuse...?
+contact      Nanami Matsuoka    | Yeah. Something work-related, for example. Nanami just <font_kind=yaku
+contact      Nanami Matsuoka    | Since she's so anti-dating at the moment, it might work better if you 
+yagami       Nanami Matsuoka    | You think so? But I work as a detective. We're worlds apart.
+contact      Nanami Matsuoka    | A detective... okay, I can work with that. Give me a moment.
+contact      Nanami Matsuoka    | Aha! Okay, I think I've got the perfect plan!
+contact      Nanami Matsuoka    | How about you take her on an investigation?
+yagami       Nanami Matsuoka    | What? I can't do that...
+contact      Nanami Matsuoka    | Why not? All you have to do is say she's your assistant. Besides, she 
+yagami       Nanami Matsuoka    | But I don't have anything going on right now that'll make it seem legi
+contact      Nanami Matsuoka    | ...Hmm, okay then...
+contact      Nanami Matsuoka    | Ohhh! I know!
+yagami       Nanami Matsuoka    | You thought up something else?
+contact      Nanami Matsuoka    | Yeah! This is right out of a scene from one of my favorite movies!
+contact      Nanami Matsuoka    | A detective and a woman he's working with pretend to be a couple to av
+contact      Nanami Matsuoka    | At first it's a fake romance, but the two gradually start getting to k
+yagami       Nanami Matsuoka    | You're not saying...
+contact      Nanami Matsuoka    | It's exactly what I'm saying!
+contact      Nanami Matsuoka    | We're gonna ask Nanami to act as your girlfriend and pretend like it's
+yagami       Nanami Matsuoka    | ...I knew it.
+contact      Nanami Matsuoka    | Yeah! And in that movie, those two actually end up falling in love.
+contact      Nanami Matsuoka    | Then they end up living a happy life together! Doesn't that sound like
+yagami       Nanami Matsuoka    | Maybe... but I don't think that tactic will work on anything I'm invol
+contact      Nanami Matsuoka    | O-Okay, then... Let's not stop there... I feel like we're so close...!
+contact      Nanami Matsuoka    | Ohhhh! Hey, what about this!?
+yagami       Nanami Matsuoka    | You really are creative, aren't you...
+contact      Nanami Matsuoka    | Darn straight. When you're a talented actress like me, all the world's
+yagami       Nanami Matsuoka    | What does that have to do with anything?
+contact      Nanami Matsuoka    | Because assuming a needed role is what I was born to do! As such, I've
+yagami       Nanami Matsuoka    | Are you saying...
+contact      Nanami Matsuoka    | I'll be the target for your investigation! That way you and Nanami can
+contact      Nanami Matsuoka    | My role shall be that of a desperate housewife looking for love in all
+yagami       Nanami Matsuoka    | No, no, <font_kind=yakuza_italic>no</font_kind>. That is a perfect rec
+contact      Nanami Matsuoka    | You mean the perfect opportunity to capture Nanami's heart! Trust me, 
+contact      Nanami Matsuoka    | Think about the excitement here! The thrill of working close together 
+yagami       Nanami Matsuoka    | Hmm, but even with a good disguise... I still feel like she'll recogni
+contact      Nanami Matsuoka    | Here. Maybe a photo will sway your opinion.
+contact      Nanami Matsuoka    | This is one of my more generic roles, too.
+yagami       Nanami Matsuoka    | Oh. Damn.
+contact      Nanami Matsuoka    | Not only can I alter my appearance, I can also change my mannerisms. T
+contact      Nanami Matsuoka    | That's why I'm telling you, she definitely won't find out.
+yagami       Nanami Matsuoka    | If this is your level of quality... this might actually work.
+contact      Nanami Matsuoka    | See? I even have a friend from my theater group who can act as my acco
+choice       Nanami Matsuoka    | Let's do this.
+choice       Nanami Matsuoka    | I don't know...
+yagami       Nanami Matsuoka    | Okay then. Let's do this.
+contact      Nanami Matsuoka    | All you have to do is invite Nanami out and give me the good word!
+contact      Nanami Matsuoka    | I'm sure you'll be able to get those hormones flowing... and help her 
+ambiguous    Nanami Matsuoka    | (I hope this turns out okay...)
+yagami       Nanami Matsuoka    | I'd honestly rather not trick her.
+contact      Nanami Matsuoka    | Well, of course not... Unfortunately, I think this is the only way to 
+yagami       Nanami Matsuoka    | Hmm. Is that really the case...?
+contact      Nanami Matsuoka    | Geez, you are super indecisive, you know that? Contact me whenever you
+yagami       Nanami Matsuoka    | Okay, I will.
+narration    Nanami Matsuoka    | (Okay. All I need to do is ask Nanami-san out.)
+contact      Nanami Matsuoka    | Hi! What's up, Yagami-san?
+narration    Nanami Matsuoka    | (Should I go through with this? There's no going back from here...)
+choice       Nanami Matsuoka    | Ask her to help.
+yagami       Nanami Matsuoka    | Oh, nothing. Just saying hi.
+contact      Nanami Matsuoka    | Oh. Then hi! Lol
+yagami       Nanami Matsuoka    | I actually wanted to ask you. Can you help me out with an investigatio
+contact      Nanami Matsuoka    | You mean like one of your Side Cases?
+yagami       Nanami Matsuoka    | Yeah. I'm investigating an infidelity case, but my target is starting 
+yagami       Nanami Matsuoka    | That's where you come in. By pretending to be a couple, we can blend i
+contact      Nanami Matsuoka    | Ooh, that sounds really exciting! Count me in!
+narration    Nanami Matsuoka    | (Whoa. She really jumped at the chance, huh?)
+contact      Nanami Matsuoka    | I'm serious, I'm totally down to help however I can!
+narration    Nanami Matsuoka    | (Perfect!)
+contact      Nanami Matsuoka    | Now let's go get that cheater!
+yagami       Nanami Matsuoka    | That's the plan. I'll contact you when I'm ready to go.
+narration    Nanami Matsuoka    | (She seems really fired up about this... I should report this to Yukko
+yagami       Nanami Matsuoka    | Hey, remember that outfit I gave you? I bet that would help us look th
+contact      Nanami Matsuoka    | I was debating on that myself. But I think you're right, so I'll wear 
+narration    Nanami Matsuoka    | (Nah, that'd be overkill.)
+contact      Nanami Matsuoka    | Hey, Yagami-san. I wanted to thank you for the valuable experience tod
+yagami       Nanami Matsuoka    | No, thank you for cooperating with me.
+contact      Nanami Matsuoka    | Did you report your findings to the client?
+ambiguous    Nanami Matsuoka    | Yeah, I did.
+contact      Nanami Matsuoka    | And? Are they going to split up?
+yagami       Nanami Matsuoka    | Not sure. I'm leaving that up to the client to decide.
+contact      Nanami Matsuoka    | I see, so you don't step in that deep. But I think it's better to brea
+yagami       Nanami Matsuoka    | No, not yet. It's not that easy to break the news.
+contact      Nanami Matsuoka    | I understand...
+contact      Nanami Matsuoka    | When you find out what happens, please tell me!
+contact      Yukko              | So, how's everything going with Nanami? Good, I hope?
+yagami       Yukko              | So far, so good. I think she'll probably go out with me again.
+contact      Yukko              | Yay! So our plan worked!
+yagami       Yukko              | I still feel bad lying to her, though.
+contact      Yukko              | You aren't doing anything bad, Yagami-san. Besides, I pushed you to do
+yagami       Yukko              | And I agreed to do it. Well, what's more important is what happens nex
+contact      Yukko              | That's right! You gotta ask her out!
+yagami       Nanami Matsuoka    | I mentioned this during our investigation the other day, but do you wa
+contact      Nanami Matsuoka    | Yes, I'd love to!
+narration    Nanami Matsuoka    | (Awesome! I did it!)
+yagami       Nanami Matsuoka    | Just to make sure, it'll just be the two of us, right?
+contact      Nanami Matsuoka    | Of course lol I won't bring Yukko this time.
+yagami       Nanami Matsuoka    | Cool.
+contact      Nanami Matsuoka    | Um, can we go out for dinner tonight?
+yagami       Nanami Matsuoka    | Sure. Should we meet up at our usual place? In front of the arcade at 
+contact      Nanami Matsuoka    | Absolutely! See you there.
+narration    Nanami Matsuoka    | (Great. Then I'll head over there once it's time.)
+contact      Nanami Matsuoka    | Hey, Yagami-san!
+yagami       Nanami Matsuoka    | Whoa. Check <font_kind=yakuza_italic>you</font_kind> out.
+contact      Nanami Matsuoka    | Hehe, I decided to spice things up a bit. So, what do you think?
+choice       Nanami Matsuoka    | You look cute.
+choice       Nanami Matsuoka    | You look gorgeous.
+yagami       Nanami Matsuoka    | I think you look cute.
+contact      Nanami Matsuoka    | Why thank you.
+yagami       Nanami Matsuoka    | It really fits you, Nanami-san. In fact, it's almost as gorgeous as yo
+contact      Nanami Matsuoka    | Hah! I knew I was right on the money with this one!
+yagami       Nanami Matsuoka    | I've never seen you in a skirt before.
+contact      Nanami Matsuoka    | I.. don't normally wear them around guys.
+yagami       Nanami Matsuoka    | So that means you're comfortable around me?
+contact      Nanami Matsuoka    | Let's just say... today's special!
+yagami       Nanami Matsuoka    | Should I be happy about that?
+contact      Nanami Matsuoka    | Hehe. You tell me.
+narration    Nanami Matsuoka    | (Now where should we go today?)
+yagami       Nanami Matsuoka    | How about I show you what a drone race is like?
+contact      Nanami Matsuoka    | That'd be great! I promise I'll cheer for you!
+yagami       Nanami Matsuoka    | Why don't we hit the batting cages? I could use a little exercise.
+contact      Nanami Matsuoka    | Okay! I could definitely go for a workout.
+yagami       Nanami Matsuoka    | Why don't we play some darts?
+contact      Nanami Matsuoka    | If that's a challenge, then I accept!
+contact      Nanami Matsuoka    | Better get your game face on!
+narration    Nanami Matsuoka    | (I need to apologize to her right away.)
+yagami       Nanami Matsuoka    | Nanami-san, I'm sorry about today.
+narration    Nanami Matsuoka    | (Of course she wouldn't answer...)
+narration    Yukko              | (I should report to Yukko-san what happened.)
+yagami       Yukko              | This is bad, Yukko-san. Nanami-san found out.
+contact      Yukko              | What did she find out?
+yagami       Yukko              | That we totally set her up. That it was you in disguise. Everything.
+contact      Yukko              | What!? Why? I was perfectly in-character!
+yagami       Yukko              | There was a poster for a theater production you're appearing in... Nan
+contact      Yukko              | Ahhhhhhhhhhhhhhhhhh!
+Nooooooooooooooo!
+contact      Yukko              | Ahh! I'm so sorry! It's totally my mistake! I didn't think that poster
+yagami       Yukko              | No, it's my fault too. I'm the one that agreed to all this.
+contact      Yukko              | Don't worry I'll explain it all to Nanami and tell her it was my doing
+narration    Nanami Matsuoka    | (I wonder if Yukko-san contacted Nanami-san after all. I should send h
+yagami       Nanami Matsuoka    | You might have heard from Yukko-san, but I'm the one that agreed to he
+narration    Nanami Matsuoka    | (Nothing...)
+narration    Yukko              | (I should contact Yukko-san.)
+yagami       Yukko              | It's no use. I'm not getting anything from her.
+contact      Yukko              | Neither am I.
+yagami       Yukko              | I suppose we'll have to wait this one out.
+contact      Yukko              | I think you're right.
+narration    Nanami Matsuoka    | (Maybe Nanami-san will want to talk now?)
+yagami       Nanami Matsuoka    | I want to apologize about before. Can you meet tonight? I'll be waitin
+contact      Yukko              | Yagami-san! Big trouble!! Huge trouble!!!
+yagami       Yukko              | What's going on? Why are you panicking?
+contact      Yukko              | Something really, REALLY bad is happening!
+yagami       Yukko              | Can you calm down and tell me what's going on?
+contact      Yukko              | It's about Nanami!
+yagami       Yukko              | Nanami-san? What's happening?
+contact      Yukko              | A strange man is trying to take her somewhere!
+contact      Yukko              | I contacted the police, but they didn't come in time!
+yagami       Yukko              | Could it be... the stalker that tried to kidnap Nanami-san before?
+yagami       Yukko              | But I thought he was arrested...
+contact      Yukko              | I don't know! It's a man I've never seen! The police won't even listen
+yagami       Yukko              | Where was it!?
+contact      Yukko              | Tenkaichi Alley! In the alleyway behind Jungle Boy!
+contact      Yukko              | Please! Come quickly!
+narration    Yukko              | (I need to get over there, and fast!)
+yagami       Tsukino Saotome    | Thanks for coming out today, Tsukino-chan. Let's do this again sometim
+contact      Tsukino Saotome    | Sure, thanks for taking me. Hope to see you soon!
+yagami       Tsukino Saotome    | Tsukino-chan. You can tell me about that big important thing today, if
+yagami       Tsukino Saotome    | That should be fine.
+contact      Tsukino Saotome    | Then I'll see you later tonight!
+narration    Tsukino Saotome    | (Should I ask Tsukino-chan out on a date? ...No, now's not a good time
+yagami       Makoto Tsukumo     | Hey, you got a minute?
+contact      Makoto Tsukumo     | Sorry, nope.
+yagami       Makoto Tsukumo     | So you can't meet?
+contact      Makoto Tsukumo     | Yeah, but no.
+yagami       Makoto Tsukumo     | Wtf?
+contact      Makoto Tsukumo     | Come to the internet café.
+contact      Amane              | Yagami-san. This is Amane.
+yagami       Amane              | Hey, what's going on, Amane-san?
+contact      Amane              | I merely wished to thank you. For going out of your way to believe me,
+yagami       Amane              | Well, you made the request, so I was just doing my job.
+contact      Amane              | No. Most people don't believe my predictions whatsoever, but you did. 
+contact      Amane              | No one's ever done that much for me, so it filled my heart with joy.
+choice       Amane              | I believed you from the start
+choice       Amane              | I was a bit skeptical at first
+yagami       Amane              | Of course. I believed you from the very beginning.
+contact      Amane              | Oh? Did you not mention how you were skeptical at first?
+yagami       Amane              | ...Did I?
+yagami       Amane              | To be honest, I was a bit skeptical at first.
+---
+found 250 missing 0

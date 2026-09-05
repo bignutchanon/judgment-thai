@@ -1,0 +1,12 @@
+{
+ "scene": "p13_00100",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration about the AD-9 conspiracy and Director Kido"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration about Kido"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration about the drug"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration referring to 'Yagami believed' by name"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "6": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
+  "7": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "closing line of the recap narration about the drug meant to save humanity"}
+ }
+}

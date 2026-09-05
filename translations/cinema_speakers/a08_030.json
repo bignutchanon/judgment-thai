@@ -1,0 +1,28 @@
+{
+ "scene": "a08_030",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "unclear who checks the group's readiness before entering the gambling den; guessed as Yagami leading the search for Hamura"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami)"},
+  "3": {"speaker": "Gambling den dealer (unnamed)", "gender": "male", "conf": "med", "why": "croupier calling bets; matches registry entry mng_dealer confirmed male"},
+  "4": {"speaker": "Gambling den dealer (unnamed)", "gender": "male", "conf": "med", "why": "continues calling last bets, same dealer role"},
+  "5": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "low", "why": "gambler shouting an 'even' bet; registry's mng_rival crowd entries are all confirmed male"},
+  "6": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "low", "why": "crowd urging the game to continue, ambient gambling den line"},
+  "7": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "low", "why": "crowd hurrying the dealer along, ambient line"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami; addresses Kaito as 'Kaito-san'"},
+  "9": {"speaker": "Gambling den dealer (unnamed)", "gender": "male", "conf": "med", "why": "calls bets closed, dealer role per registry mng_dealer"},
+  "10": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "low", "why": "crowd cheering, ambient gambling den line"},
+  "11": {"speaker": "Gambling den dealer (unnamed)", "gender": "male", "conf": "med", "why": "reveals the dice, dealer role"},
+  "12": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "low", "why": "gambler celebrating a win, ambient line"},
+  "13": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "low", "why": "gambler bragging about his luck, ambient line"},
+  "14": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "med", "why": "cheers 'Captain', referring to Hamura who is present at the den per scene context"},
+  "15": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "low", "why": "crowd continuing to cheer, ambient line"},
+  "16": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami); talk=Yagami"},
+  "17": {"speaker": "Gambling den patron (unnamed)", "gender": "male", "conf": "low", "why": "snaps at Yagami after being bumped into, ambient line following row 16"},
+  "18": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "retorts angrily, continuing the bump altercation from rows 16-17"},
+  "19": {"speaker": "Ozaki", "gender": "male", "conf": "med", "why": "recognizes Kaito, calling him 'Captain' — Kaito's former rank in the Matsugane family; row 22 names Ozaki explicitly"},
+  "20": {"speaker": "Ozaki", "gender": "male", "conf": "med", "why": "continues, notes Kaito wasn't easy to find, same speaker as row 19"},
+  "21": {"speaker": "Ozaki", "gender": "male", "conf": "low", "why": "reacts 'Shit' upon being confronted, ambiguous but fits Ozaki being cornered"},
+  "22": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "identifies Ozaki by name in response to being recognized; the talk hint 'Ass Catchem' appears to be an unrelated debug/internal tag"},
+  "23": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses Kaito by his established nickname 'Tak' (used again in a08_040), asking if he's ready"}
+ }
+}

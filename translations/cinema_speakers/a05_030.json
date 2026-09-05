@@ -1,0 +1,15 @@
+{
+ "scene": "a05_030",
+ "rows": {
+  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "recaps the ADDC visit, continues from a05_020, uses 'we' meaning himself and Shintani"},
+  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues explaining he wanted to see the scene himself"},
+  "3": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "registry confirms Shinpei Okubo male; asks Yagami how the visit went, matches client role"},
+  "4": {"speaker": "Shintani", "gender": "male", "conf": "med", "why": "pessimistic realist statement Yagami then objects to in row 5"},
+  "5": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) talk=Yagami explicit; protests row 4's harsh statement"},
+  "6": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "EN-B 'do you agree?' - client anxiously asking Yagami to confirm/deny the harsh assessment"},
+  "7": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "responds supportively, addresses Okubo by name"},
+  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues offering to help with nothing to lose"},
+  "9": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "EN-B 'I didn't do it!' - asserting his innocence as the client"},
+  "10": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues asserting he's being framed"}
+ }
+}

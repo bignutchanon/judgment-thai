@@ -1,0 +1,14 @@
+{
+ "scene": "b05_010",
+ "rows": {
+  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "case-summary narration, third person, no speaker named or quoted"},
+  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "6": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "7": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration"},
+  "8": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person case narration, no quoted speech"},
+  "9": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "closing line of the case-summary narration"}
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "priority": 1,
+ "source_bins": [
+  "auth.bin"
+ ],
+ "strings": {
+  "Yes, I understand completely.": "",
+  "Oh, is that so?": "",
+  "We'll absolutely be able\nto help you out with that.": "",
+  "Yes, of course we can\nhelp you with that.": "",
+  "I guarantee you.": "",
+  "Don't you worry.": "",
+  "Oh, you must be\ntalking about Yagami.": "",
+  "Hm? Oh... You mean Yagami?": "",
+  "Absolutely. We appreciate any interest\nyou might have, but it's just, uh...": "",
+  "I'm terribly sorry, but I'm afraid\nhe's all tied up for a while.": "",
+  "If you need someone right now,\nShintani is available.": "",
+  "Yes! You bet.\nHe's more experienced.": "",
+  "Yes, he's more experienced than Yagami.": "",
+  "Yes, it's just hard to believe...": "",
+  "You still want Yagami, though.": "",
+  "You'll only take Yagami?": ""
+ },
+ "ref_tm": {},
+ "note": "a01_010 (ออฟฟิศเก็นดะรับโทรศัพท์) — ตัดคำลงท้ายบอกเพศออกจากบรรทัดที่ระบุผู้พูดไม่ได้ (ภาพในเกม 22 ส.ค. 2026 ยืนยันว่ามีพนักงานชายรับสายด้วย · เก็บ ค่ะ ไว้เฉพาะบรรทัดที่ซาโอริรับสาย)"
+}
