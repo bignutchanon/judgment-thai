@@ -1,0 +1,1331 @@
+id	bin	EN	TH
+04-0001	talk	Rules are rules, <font_kind=yakuza_italic>bro</font_kind>. If you want the kalbi that bad, then why don't you beef up your knowledge?	กฎก็คือกฎ<font_kind=yakuza_italic>เพื่อน</font_kind> ถ้าอยากกินกัลบี้ขนาดนั้น ก็ลองไปเสริมความรู้เรื่องเนื้อ มาหน่อยสิ
+04-0002	talk	Y-Yes, he's right. After all, this gentleman passed the quiz just fine!	ใ-ใช่ครับ เขาพูดถูก อันที่จริงลูกค้าท่านนี้ก็ผ่าน คำถามมาแล้วเป็นอย่างดี!
+04-0003	talk	What!? <font_kind=yakuza_italic>You</font_kind> ate the special kalbi?	อะไรนะ!? <font_kind=yakuza_italic>มึง</font_kind>เป็นคนกินกัลบี้พิเศษเนี่ยนะ?
+04-0004	talk	Well, yeah.	ก็... ใช่นะ
+04-0005	talk	Unbelievable! You... smug son of a bitch!!	ไม่อยากจะเชื่อเลยว่ะ! มึง... ไอ้สารเลวหน้าไม่อาย!!
+04-0006	talk	I need that protein for my workout gains! It's completely wasted on a sausage stick like you!	กูต้องการโปรตีนนั่นไปเพิ่มกล้ามว่ะ! เอาไปให้ไอ้แท่งไส้กรอกอย่างมึง มันเสียของชัดๆ!
+04-0007	talk	...You know what? You spit that meat out of your mouth right now. Cough that shit up!	...รู้อะไรไหม มึงคายเนื้อนั่นออกมาเดี๋ยวนี้เลย คายห่านั่นออกมา!
+04-0008	talk	You gotta be kidding me! There's no way I'm doing that!	ล้อเล่นกันแน่ๆ! ไม่มีทางที่ผมจะทำแบบนั้นหรอก!
+04-0009	talk	Then I'll make you throw up the hard way!!	งั้นกูจะบังคับให้มึงอ้วกออกมาเองว่ะ!!
+04-0010	talk	Satisfied yet?	พอใจหรือยัง?
+04-0011	talk	I... I'm shook, bro. I did everything. I crush weights every day and even went full keto, too... Where did I go wrong?	กู... กูช็อกไปเลยว่ะ กูทำทุกอย่างแล้วนะ ยกเวทหนักทุกวัน กินคีโตแบบสุดตัวด้วย... กูพลาดตรงไหนวะเนี่ย?
+04-0012	talk	Training your body is fine, but next time try training your mind. Then maybe you can beat the challenge fair and square.	ฝึกร่างกายก็ดีอยู่แล้ว แต่คราวหน้าลองฝึกสมองดูบ้างสิ เผื่อจะผ่านเกมนี้ได้อย่าง สมศักดิ์ศรีบ้าง
+04-0013	talk	I'm... I'm out this bitch...	กู... กูไปดีกว่าว่ะ...
+04-0014	talk	Yes, thanks to you. How about yourself?	ใช่ครับ ต้องขอบคุณคุณด้วย แล้วคุณล่ะเป็นยังไงบ้าง?
+04-0015	talk	Hardly a scratch on me.	ผมไม่เป็นไรหรอก แค่รอยขีดข่วนนิดเดียว
+04-0016	talk	Thank heavens... May I ask your name, sir?	โล่งอกไปทีครับ... ขอทราบชื่อลูกค้าได้ไหมครับ?
+04-0017	talk	Sure. I'm Yagami.	ได้ครับ ผมยากามิ
+04-0018	talk	Yagami-sama, what you did just now was nothing short of amazing.	ท่านยากามิ สิ่งที่คุณทำเมื่อกี้นี้ยอดเยี่ยมสุดๆ เลยครับ
+04-0019	talk	As my way of saying thanks...	เพื่อเป็นการขอบคุณ...
+04-0020	talk	You're welcome to order our superior single-cut kalbi anytime you wish.	คุณสั่งกัลบี้เนื้อชิ้นเดียว คุณภาพสูงของเราได้ ทุกเมื่อที่ต้องการเลยครับ
+04-0021	talk	Hey, sounds good to me!	โอ้ เยี่ยมไปเลย!
+04-0022	talk	It's the least I could do, Yagami-sama.	แค่นี้ถือว่าน้อยไปด้วยซ้ำครับ ท่านยากามิ
+04-0023	talk	Well, I hope to see you again soon.	หวังว่าจะได้เจอกันอีกเร็วๆ นี้นะครับ
+04-0024	talk	(All right! It really does pay to lend people a hand every now and then.)	(เยี่ยม! การช่วยเหลือคนอื่นบ้าง เป็นครั้งคราวมันก็คุ้มค่าจริงๆ)
+04-0025	talk	Table for one, please.	ขอโต๊ะสำหรับหนึ่งคนครับ
+04-0026	talk	Hey. Excuse me...	เฮ้ ขอโทษนะ...
+04-0027	talk	*sigh* Someday, Miharu-chan... It'll be just you and me.	*ถอนหายใจ* สักวันนะ มิฮารุจัง... จะมีแค่เราสองคน
+04-0028	talk	Whoa! ...I mean, welcome, sir! How may I help you?	วุ้ย! ...เอ่อ ยินดีต้อนรับครับ! รับอะไรดีครับ?
+04-0029	talk	I'm a customer, or at least I'm trying to be. Can you take me to my seat now? I'll have a coffee.	ผมเป็นลูกค้า หรืออย่างน้อยก็พยายามจะเป็นอยู่นะ พาผมไปที่โต๊ะหน่อยได้ไหม ขอกาแฟด้วย
+04-0030	talk	Of course... Please, right this way.	ได้เลยครับ... เชิญทางนี้เลยครับ
+04-0031	talk	I apologize for earlier. I'm normally on top of my game. Oh, here's your order.	ขอโทษด้วยนะครับสำหรับเมื่อกี้ ปกติผมไม่เป็นแบบนี้หรอก อ้อ นี่ออร์เดอร์ของคุณครับ
+04-0032	talk	It's fine, but... is everything okay?	ไม่เป็นไรหรอก แต่... ทุกอย่างโอเคไหม?
+04-0033	talk	Well... to be honest, I can't stop thinking about Miharu-chan. So I keep spacing out on customers.	เอ่อ... บอกตรงๆ ผมหยุดคิดถึงมิฮารุจังไม่ได้เลยครับ เลยเผลอใจลอยใส่ลูกค้าอยู่เรื่อย
+04-0034	talk	Miharu-chan? She your girlfriend or something?	มิฮารุจังเหรอ แฟนนายหรือเปล่า?
+04-0035	talk	Nah, I wish. Her name's Miharu Shima, and she started as a part-timer here pretty recently.	เปล่าเลย ผมก็อยากให้เป็นแบบนั้นนะ เธอชื่อมิฮารุ ชิมะ เพิ่งเข้ามาทำงานพาร์ตไทม์ ที่นี่ไม่นานนี้เอง
+04-0036	talk	Unfortunately, she sees me as just another coworker... Gah, she's totally my type, too...	แต่น่าเสียดายที่เธอมองผมเป็น แค่เพื่อนร่วมงานคนหนึ่ง เท่านั้น... เฮ้อ ทั้งที่เธอเป็นสเปกผมเป๊ะๆ เลยนะ...
+04-0037	talk	I do get where you're coming from, but I think you should put your job first. That's what pays the bills, right?	ผมเข้าใจความรู้สึกนายนะ แต่คิดว่านายควรตั้งใจทำงานก่อน นั่นแหละคือสิ่งที่หาเลี้ยงชีพ นายไม่ใช่เหรอ
+04-0038	talk	Yeah, I know... Sorry to bug you with this stuff. As an apology, your order today is on me.	ครับ ผมรู้... ขอโทษที่มากวนใจคุณด้วยเรื่องนี้ครับ เป็นการขอโทษ วันนี้ผมเลี้ยงเองครับ
+04-0039	talk	Hey, thanks. What's your name?	โห ขอบใจนะ ว่าแต่นายชื่ออะไร?
+04-0040	talk	Norimoto.	โนริโมโตะครับ
+04-0041	talk	Norimoto-kun, huh? And Miharu-chan. Hopefully you two work out.	โนริโมโตะคุงเหรอ แล้วก็มิฮารุจัง หวังว่าทั้งคู่จะสมหวังนะ
+04-0042	talk	I hope so too! Thanks again!	ผมก็หวังแบบนั้นเหมือนกันครับ! ขอบคุณอีกครั้งนะครับ!
+04-0043	talk	See you later.	แล้วเจอกันใหม่นะ
+04-0044	talk	Yagami-san! Good to see you, my dude!	ยากามิซัง! ดีใจที่เจอกันนะครับพี่!
+04-0045	talk	Well, someone's in a good mood. Oh, and you know what to get me.	โห ดูอารมณ์ดีจังนะเนี่ย เอาล่ะ นายรู้อยู่แล้วว่าจะเอาอะไรให้ผม
+04-0046	talk	You bet! Here, let me get you a table!	ได้เลยครับ! มาครับ ผมจะจัดโต๊ะให้เลย!
+04-0047	talk	You seem pretty excited about something. Wait... could it be?	ดูตื่นเต้นกับอะไรสักอย่างนะ เดี๋ยวนะ... จะเป็นเรื่องนั้นหรือเปล่า?
+04-0048	talk	It is! Thanks to your advice, I'm finally in a relationship with Miharu-chan!	ใช่เลยครับ! ต้องขอบคุณคำแนะนำของคุณเลย ในที่สุดผมก็ได้คบกับมิฮารุจังแล้ว!
+04-0049	talk	Get outta here! You being for real right now?	ไม่จริงน่า! พูดจริงเหรอเนี่ย?
+04-0050	talk	Haha, looks like my catchphrase caught on!	ฮ่าฮ่า ดูเหมือนวลีเด็ดของผมจะได้ผลจริงๆ!
+04-0051	talk	In any case, it feels like I'm walking on air right now!	ยังไงก็เถอะ ตอนนี้ผมรู้สึกเหมือนเดินลอยฟ้า เลยครับ!
+04-0052	talk	Well... that was intentional.	อืม... นั่นผมตั้งใจแล้วล่ะ
+04-0053	talk	Of course! I'll make her the happiest world in the girl!	แน่นอนครับ! ผมจะทำให้เธอเป็นโลกที่ มีความสุขที่สุดในผู้หญิงเลย ครับ!
+04-0054	talk	Make sure you take good care of Miharu-chan, all right?	ดูแลมิฮารุจังดีๆ ล่ะ นะ?
+04-0055	talk	Hehehe, for real.	เฮ่ๆ จริงด้วยสิ
+04-0056	talk	Hah, she's got you so excited that you're mixing up your words. Wouldn't hurt to calm down, you know.	ฮ่า เธอทำให้นายตื่นเต้นจนพูดสลับคำ ไปหมดเลยนะ ใจเย็นๆ หน่อยก็ไม่เสียหายอะไรหรอก
+04-0057	talk	Now, may I take your order?	เอาล่ะ รับอะไรดี?
+04-0058	talk	Hey, thank you. I'll be back again.	ขอบใจนะ เดี๋ยวจะแวะมาอีก
+04-0059	talk	Thank you so much, Yagami-san. It's on me today.	ขอบคุณมากๆ นะครับ ยากามิซัง วันนี้ผมเลี้ยงเองครับ
+04-0060	talk	From now on, I'll let you in on a little secret.	ต่อจากนี้ ผมจะบอกความลับเล็กๆ ให้คุณรู้
+04-0061	talk	Sounds awesome. I'll have to try that out sometime.	ฟังดูเจ๋งเลย เดี๋ยวต้องลองดูสักครั้ง
+04-0062	talk	There's a secret employee menu that only we get to order from.	มีเมนูลับสำหรับพนักงานที่มีแต่ พวกเราสั่งได้เท่านั้น
+04-0063	talk	But I'll let you order off it lowkey. It's got all the best stuff!	แต่ผมจะแอบให้คุณสั่งได้ด้วยแล้วกัน มีของเด็ดๆ อยู่ในนั้นหมดเลย!
+04-0064	talk	Hey, you've got a customer waiting here.	เฮ้ มีลูกค้ารอนายอยู่นะ
+04-0065	talk	Oh! Welcome, sir! Wait, you're...?	โอ้! ยินดีต้อนรับครับ! เดี๋ยวนะ คุณคือ...?
+04-0066	talk	Yagami, at your service. How've you been, Norimoto-kun?	ยากามิเองนะ เป็นไงบ้าง โนริโมโตะคุง?
+04-0067	talk	Not bad, I guess. Let me take you to your seat. Right this way, please.	ก็ไม่เลวครับ เดี๋ยวพาไปที่โต๊ะให้ เชิญทางนี้เลยครับ
+04-0068	talk	So when I came here the other day, Miharu-chan was the one who took care of me.	ตอนที่ผมมาที่นี่เมื่อวันก่อน มิฮารุจังเป็นคนดูแลผมนะ
+04-0069	talk	Yeah, and it turns out she's looking for a boyfriend right now.	แล้วก็ปรากฏว่าตอนนี้เธอกำลัง มองหาแฟนอยู่ด้วยล่ะ
+04-0070	talk	For real!?	จริงดิ!?
+04-0071	talk	I also asked what type of guys she's into, and she likes 'em friendly and funny.	ผมยังถามด้วยว่าเธอชอบผู้ชายแบบไหน เธอบอกว่าชอบคนเป็นมิตรและตลก
+04-0072	talk	For real!	จริงดิ!
+04-0073	talk	You're gonna have to do better than saying "for real" all the time if you want to get her to notice you.	ถ้าอยากให้เธอสังเกตเห็นนาย นายต้องทำได้ดีกว่าการพูดว่า "จริงดิ" ตลอดเวลานะ
+04-0074	talk	For real...	จริงดิ...
+04-0075	talk	Yes, for real. Agh, I'm telling you, stop saying that.	ใช่ จริงดิ อุ๊ย บอกให้เลิกพูดแบบนั้นน่า
+04-0076	talk	Yes sir...	ครับผม...
+04-0077	talk	What can I do to make myself more interesting?	ผมต้องทำยังไงถึงจะดูน่าสนใจ ขึ้นได้ครับ?
+04-0078	talk	Well, I'm no pickup artist... But I've developed something I like to call... the YAGAMI System.	เอ่อ ผมไม่ใช่เซียนจีบสาวหรอกนะ... แต่ผมคิดค้นบางอย่างที่ชอบเรียกมันว่า... ระบบ YAGAMI
+04-0079	talk	Y: You are the real prize. A: Ask lots of questions. G: Go for it... A: As soon as you... M: Make her feel comfortable!	Y: นายคือของมีค่าตัวจริง A: ถามคำถามเยอะๆ G: ลุยเลย... A: ทันทีที่นาย... M: ทำให้เธอรู้สึกสบายใจ!
+04-0080	talk	Last but not least, I: Ignore her calls the next day. Or, if you really like her, I: Invite her out again!	และสุดท้ายแต่ไม่ท้ายสุด I: เมินสายเธอในวันถัดไป หรือถ้าชอบเธอจริงๆ ก็ I: ชวนเธอออกไปเที่ยวอีกครั้ง!
+04-0081	talk	Wow, the YAGAMI System's incredible! I'll definitely give it a try! And as thanks, your order today is on me!	โห ระบบ YAGAMI นี่สุดยอดไปเลย! ผมจะลองใช้ดูแน่นอน! แล้วเพื่อเป็นการขอบคุณ วันนี้ผมเลี้ยงเองครับ!
+04-0082	talk	Now may I take your order?	เอาล่ะครับ รับอะไรดีครับ?
+04-0083	talk	Haha. Thanks as always. Oh, and good luck, Norimoto-kun! You got this!	ฮ่าฮ่า ขอบคุณเหมือนเดิมนะ อ้อ แล้วก็สู้ๆ นะ โนริโมโตะคุง! นายทำได้อยู่แล้ว!
+04-0084	talk	Welcome, sir!	ยินดีต้อนรับครับท่าน!
+04-0085	talk	Yo, Norimoto-kun. I'll take a coffee, same as usual.	ไง โนริโมโตะคุง เอากาแฟแก้วเดิมเหมือนเดิมนะ
+04-0086	talk	Hi, Yagami-san! I'll show you to your seat.	สวัสดีครับ ยากามิซัง! เดี๋ยวผมพาไปที่นั่งครับ
+04-0087	talk	So. Seems like you and Miharu-chan are getting along pretty well.	เป็นไง ดูเหมือนนายกับมิฮารุจังจะสนิทกันดีนะ
+04-0088	talk	Huh!? Wh-What do you mean?	หา!? ห-หมายความว่าไงครับ?
+04-0089	talk	When I came here the other day, Miharu-chan told me she's been having fun talking to you lately.	วันก่อนตอนผมมาที่นี่ มิฮารุจังบอกว่าช่วงนี้คุยกับ นายแล้วสนุกดี
+04-0090	talk	Really!? No way! Man, I'm glad I took your advice!	จริงเหรอครับ!? ไม่อยากจะเชื่อเลย! โล่งใจจริงๆ ที่เชื่อคำแนะนำของคุณ!
+04-0091	talk	Did you go on that date yet?	ไปเดตกันหรือยังล่ะ?
+04-0092	talk	A date!? No... I have no idea where to take her.	เดตเหรอครับ!? ยังเลย... ผมยังนึกไม่ออกเลยว่าจะพาเธอไปไหนดี
+04-0093	talk	Maybe you could think of somewhere for me?	คุณช่วยคิดที่ให้ผมหน่อยได้ไหมครับ?
+04-0094	talk	Dude, why not just ask her yourself?	เฮ้ย ทำไมไม่ถามเธอเองล่ะ?
+04-0095	talk	On our first date? That would be super lame!	เดตแรกเลยนะครับ? ทำแบบนั้นมันดูไม่เท่เลย!
+04-0096	talk	Yeah! In this situation, a man's gotta play it smart and match the lady's preference!	ใช่ครับ! สถานการณ์แบบนี้ ผู้ชายต้องเล่นเกมให้ฉลาดแล้ว เลือกที่ที่ถูกใจฝ่ายหญิงสิ!
+04-0097	talk	Okay, but do you even know the lady's preference to begin with?	โอเค แต่ตั้งแต่แรกนายรู้ไหมล่ะว่า เธอชอบอะไร?
+04-0098	talk	Nope! That's why I was gonna ask if you could find out for me.	ไม่รู้เลยครับ! เพราะงั้นผมเลยจะขอให้คุณช่วย สืบให้หน่อยไงครับ
+04-0099	talk	Wait, <font_kind=yakuza_italic>I</font_kind> have to do this? What happened to all that man talk!	เดี๋ยวนะ <font_kind=yakuza_italic>ผม</font_kind>ต้องทำเองเลยเหรอ? แล้วเรื่องคุยกันแบบลูกผู้ชาย ที่พูดไว้ล่ะ!
+04-0100	talk	Sometimes even the bravest man needs backup! Please... Won't you be my wingman? I'll pick up your tab again!	บางทีต่อให้กล้าแค่ไหนก็ยัง ต้องมีตัวช่วยครับ! ขอร้องเถอะ... ช่วยเป็นวิงแมนให้ผมทีได้ไหมครับ? รอบนี้ผมเลี้ยงอีกแล้วกันครับ!
+04-0101	talk	Fine... But don't expect too much, all right?	ก็ได้... แต่อย่าคาดหวังมากนักล่ะ นะ?
+04-0102	talk	You're awesome, man! Thanks!	คุณสุดยอดไปเลยครับ! ขอบคุณนะครับ!
+04-0103	talk	Oh, Yagami-san! I can't thank you enough!	โอ้ ยากามิซัง! ขอบคุณมากจริงๆ ครับ พูดไม่ถูกเลย!
+04-0104	talk	Hey, no worries.	เฮ้ ไม่ต้องห่วงหรอก
+04-0105	talk	Welcome back, Yagami-san!	ยินดีต้อนรับกลับมาครับ ยากามิซัง!
+04-0106	talk	Working hard, Norimoto-kun? I'll have the usual.	ขยันจังนะ โนริโมโตะคุง เอาแบบเดิมเลยนะ
+04-0107	talk	Of course! Please, right this way!	ได้เลยครับ! เชิญทางนี้เลยครับ!
+04-0108	talk	So, Norimoto-kun. I discovered Miharu-chan's dream date.	เอาล่ะ โนริโมโตะคุง ผมสืบมาแล้วว่าเดตในฝันของ มิฮารุจังคืออะไร
+04-0109	talk	...And!?	...แล้วไงครับ!?
+04-0110	talk	She says she wants to go see dolphins at the aquarium.	เธอบอกว่าอยากไปดูโลมาที่ พิพิธภัณฑ์สัตว์น้ำ
+04-0111	talk	Ohh, I'll show her a dolphin all right! I mean... yeah! I'll go buy some aquarium tickets and ask her right away!	โอ้ว จะให้เธอได้ดูโลมาแน่นอนครับ! เอ่อ... ใช่! ผมจะไปซื้อตั๋ว พิพิธภัณฑ์สัตว์น้ำแล้วชวนเธอ เดี๋ยวนี้เลย!
+04-0112	talk	You're the man, Yagami-san!	คุณสุดยอดจริงๆ ครับ ยากามิซัง!
+04-0113	talk	Hey. If the date goes well, you should tell her how you feel at the end.	เฮ้ ถ้าเดตไปได้สวย ตอนจบนายควรบอกความรู้สึกให้เธอฟังนะ
+04-0114	talk	...Wha!?	...หา!?
+04-0115	talk	Don't act so surprised. If you made it this far, you might as well share your feelings with her. Right?	อย่ามาทำเป็นตกใจสิ มาได้ไกลขนาดนี้แล้ว บอกความรู้สึกให้เธอรู้ไปเลยดีกว่า จริงไหม?
+04-0116	talk	But... what if she rejects me?	แต่... ถ้าเธอปฏิเสธผมล่ะครับ?
+04-0117	talk	You can't just go in there thinking about rejection. Show her the real Norimoto-kun... a man that truly cares.	จะไปคิดเรื่องโดนปฏิเสธไม่ได้หรอก แสดงให้เธอเห็นตัวตนจริงๆ ของโนริโมโตะคุงสิ... ผู้ชายที่ใส่ใจเธอจริงๆ
+04-0118	talk	O-Okay... I'll do my best...	โ-โอเคครับ... ผมจะพยายามให้เต็มที่...
+04-0119	talk	C'mon, what kind of response is that? Show some enthusiasm! And make sure you ask her on that date.	เฮ้ย ตอบมาแบบนั้นได้ไงล่ะ? มีไฟหน่อยสิ! แล้วก็อย่าลืมชวนเธอไปเดตด้วยล่ะ
+04-0120	talk	...Followed by a romantic, heartfelt confession! You got all that?	...แล้วก็ตามด้วยการสารภาพรักแบบ โรแมนติกสุดใจ! เข้าใจหมดแล้วใช่ไหม?
+04-0121	talk	I'll do the best I can! Oh, and before I start daydreaming about all this, I'll be happy to comp your order! Gotta pay my dues.	ผมจะทำให้ดีที่สุดครับ! อ้อ ก่อนที่ผมจะเผลอฝันหวานไปไกล ขอเลี้ยงมื้อนี้ให้เลยครับ! ต้องตอบแทนบุญคุณกันหน่อย
+04-0122	talk	Haha, you really don't have to do that. Just focus on doing your best!	ฮ่าฮ่า ไม่ต้องขนาดนั้นก็ได้ แค่ตั้งใจทำให้เต็มที่ก็พอ!
+04-0123	talk	R-Right! Even though I'm so nervous...	ค-ครับ! ถึงจะประหม่าสุดๆ เลยก็เถอะ...
+04-0124	talk	Anyway, thank you again coming in today. And for the advice.	ยังไงก็ตาม ขอบคุณอีกครั้งที่แวะมาวันนี้ครับ แล้วก็ขอบคุณสำหรับคำแนะนำด้วย
+04-0125	talk	Definitely. Well, I look forward to serving you again!	แน่นอนครับ เอาล่ะ หวังว่าจะได้ให้บริการคุณอีกนะครับ!
+04-0126	talk	Yagami-san, please find out Miharu-chan's preference for going on a date.	ยากามิซังครับ ช่วยไปสืบมาทีว่ามิฮารุจังชอบ เดตแบบไหน
+04-0127	talk	Anyways, what would you like to order today?	ยังไงก็ตาม วันนี้จะรับอะไรดีครับ?
+04-0128	talk	Yagami-san, guess what!	ยากามิซังคะ ทายซิว่าอะไร!
+04-0129	talk	Well hey, Miharu-chan, what's going on?	เฮ้ มิฮารุจัง มีอะไรเหรอ?
+04-0130	talk	Okay okay, let me show you to your seat first, and I'll tell you all about it!	โอเคๆ เดี๋ยวพาไปนั่งก่อนนะคะ แล้วจะเล่าให้ฟังหมดเลย!
+04-0131	talk	Commence checking.	งั้นเริ่มตรวจสอบได้เลย
+04-0132	talk	All right, Yagami-san, check this out!	ได้ค่ะ ยากามิซัง ดูนี่สิ!
+04-0133	talk	Heh, told you! So who's the lucky guy?	เห็นไหมล่ะ บอกแล้ว! แล้วใครคือหนุ่มโชคดีคนนั้น?
+04-0134	talk	Just like you predicted, I got invited to the aquarium!	เป็นไปตามที่คุณทายไว้เป๊ะเลยค่ะ มีคนชวนไปพิพิธภัณฑ์สัตว์น้ำด้วย!
+04-0135	talk	...Amazing! What a coincidence.	...สุดยอดไปเลย! บังเอิญจริงๆ
+04-0136	talk	Actually, it was Norimoto-kun! Can you believe it?	จริงๆ แล้วคือโนริโมโตะคุงเลยค่ะ! เชื่อไหมล่ะ?
+04-0137	talk	(You did well, Norimoto-kun. You're on the blessed path.)	(ทำได้ดีนี่ โนริโมโตะคุง นายมาถูกทางแล้ว)
+04-0138	talk	We were talking in the back, and all of a sudden he told me he happened to get some aquarium tickets. Isn't that crazy?	ตอนที่เรานั่งคุยกันหลังร้าน จู่ๆ เขาก็บอกว่าบังเอิญได้ตั๋ว พิพิธภัณฑ์สัตว์น้ำมา บ้าไปเลยใช่ไหมล่ะคะ?
+04-0139	talk	Yeah, it's your aquarium dream come true. Enjoy that date!	ใช่เลย ความฝันเรื่อง พิพิธภัณฑ์สัตว์น้ำของเธอ เป็นจริงแล้ว ไปเดตให้สนุกล่ะ!
+04-0140	talk	Oh, it's nothing like that! We're just going as friends.	โธ่ ไม่ใช่แบบนั้นซะหน่อยค่ะ! เราแค่ไปกันในฐานะเพื่อนเฉยๆ
+04-0141	talk	The two of you? At an aquarium, all by yourselves? Sounds like a date to me.	แค่สองคนเหรอ? ไปพิพิธภัณฑ์สัตว์น้ำกันแค่สองคน? ฟังดูเหมือนเดตชัดๆ นะ
+04-0142	talk	Well, when you put it like that... Geez, now I'm getting all nervous! Ohh, what should I wear...?	ก็... พอพูดแบบนั้นแล้ว... โอ๊ย ตอนนี้เริ่มประหม่าแล้วสิคะ! จะใส่ชุดอะไรดีล่ะเนี่ย...?
+04-0143	talk	Yeah... You're right. That's good advice.	ค่ะ... คุณพูดถูก เป็นคำแนะนำที่ดีมากเลย
+04-0144	talk	Hey now, I was just teasing. Don't think too hard about it. Just be yourself and focus on having a good time.	เฮ้ ผมแค่แหย่เล่นน่ะ ไม่ต้องคิดมากหรอก แค่เป็นตัวเองแล้วสนุกกับมันก็พอ
+04-0145	talk	Thanks for the meal, Miharu-chan. Hope you enjoy the aquarium.	ขอบคุณสำหรับมื้อนี้นะ มิฮารุจัง ขอให้สนุกที่พิพิธภัณฑ์สัตว์น้ำล่ะ
+04-0146	talk	Thank youuu! ♪	ขอบคุณค่าาา!
+04-0147	talk	Welcome. How many in your party, sir?	ยินดีต้อนรับค่ะ วันนี้มากันกี่ท่านคะ?
+04-0148	talk	Just me.	คนเดียว
+04-0149	talk	O-kay, party of one, please follow me.	ค่ะ ท่านเดียวใช่ไหมคะ เชิญตามทางนี้เลยค่ะ
+04-0150	talk	Have you decided what you'd like?	ตัดสินใจได้หรือยังคะว่าจะรับอะไรดี?
+04-0151	talk	You wouldn't happen to be new here, would you?	คุณเพิ่งมาทำงานที่นี่ไม่นานใช่ไหม?
+04-0152	talk	Oh, yes! I just started part-time. My name's Miharu Shima.	อ๋อ ใช่ค่ะ! เพิ่งเริ่มงานพาร์ทไทม์ที่นี่ ดิฉันชื่อมิฮารุ ชิมะค่ะ
+04-0153	talk	(I've heard that name before...)	(เคยได้ยินชื่อนี้มาก่อนนะ...)
+04-0154	talk	(This must be the girl Norimoto-kun's been talking about.)	(นี่คงเป็นสาวที่โนริโมโตะคุง พูดถึงตลอดสินะ)
+04-0155	talk	Miharu-chan, got it. I'm Yagami. I come here all the time, so it's nice to finally see a new face.	มิฮารุจัง เข้าใจแล้ว ผมยากามิ มาที่นี่ประจำเลย ดีใจที่ได้เจอหน้าใหม่ซะที
+04-0156	talk	Oh, you're a regular? Wow, it's nice to meet you!	โอ้ ลูกค้าประจำเหรอคะ? ว้าว ยินดีที่ได้รู้จักค่ะ!
+04-0157	talk	(Ah, to be young and in love... Guess I could help Norimoto-kun out a bit.)	(อ่า วัยหนุ่มสาวกับความรัก... งั้นช่วยโนริโมโตะคุงสักหน่อยก็ได้)
+04-0158	talk	It's refreshing to see a server who's actually enthusiastic about their job. I bet you're popular with the customers.	เห็นพนักงานที่ตั้งใจทำงานจริงๆ แบบนี้แล้วสดชื่นเลยนะ เดาว่าลูกค้าต้องชอบคุณมากแน่ๆ
+04-0159	talk	Haha, I wish! Unfortunately, I'm not popular inside or outside of work.	ฮ่าฮ่า ถ้าเป็นแบบนั้นก็ดีสิคะ! แต่โชคร้ายที่ฉันไม่ค่อย เป็นที่นิยมทั้งในและนอก ที่ทำงานเลย
+04-0160	talk	Really? Never would've guessed. I'm sure you at least have a boyfriend, right?	จริงเหรอ? ไม่คิดเลยนะ คิดว่ายังไงก็ต้องมีแฟนแล้วสิ ใช่ไหม?
+04-0161	talk	Nope! But if you know any good candidates, tell 'em I'm accepting applications. Hee-hee. ❤	ไม่มีเลยค่ะ! แต่ถ้ารู้จักผู้ชายดีๆ บอกเขาทีนะว่าฉันเปิดรับสมัครอยู่ ฮิๆ
+04-0162	talk	I'm sure you'll have no trouble finding a good guy... Unless you're the type who has crazy high expectations.	คงไม่ยากหรอกที่จะหาผู้ชายดีๆ ได้... เว้นแต่คุณจะเป็นคนที่คาดหวังสูงเวอร์
+04-0163	talk	Don't be silly, I'm not <font_kind=yakuza_italic>that</font_kind> picky!	อย่าพูดเล่นน่าค่ะ ฉันไม่ได้เลือกมาก<font_kind=yakuza_italic>ขนาดนั้น</font_kind>สักหน่อย!
+04-0164	talk	Then, just out of curiosity, on a purely platonic level... What kind of guy's your type?	งั้นแค่อยากรู้เฉยๆ นะ ในแง่เพื่อนล้วนๆ... คุณชอบผู้ชายแบบไหนล่ะ?
+04-0165	talk	Hmm... He's gotta have a great sense of humor. And be a good conversationalist, too. Someone who can cheer me up anytime.	อืม... ต้องมีมุกตลกเก่งๆ แล้วก็คุยสนุก เป็นคนที่ทำให้ฉันอารมณ์ดีได้ทุกเมื่อ
+04-0166	talk	...Sounds about right. Well, I hope he turns up soon.	...ก็คงงั้นแหละ หวังว่าเขาจะโผล่มาเร็วๆ นี้นะ
+04-0167	talk	Me too! Pray for me, Yagami-san. Hehe.	เหมือนกันค่ะ! ช่วยอวยพรให้ฉันด้วยนะ ยากามิซัง เฮ่อๆ
+04-0168	talk	Well, now that you've gotten to know me a bit, would you like to place an order?	เอาล่ะ ตอนนี้รู้จักฉันมากขึ้นหน่อยแล้ว จะสั่งอะไรดีคะ?
+04-0169	talk	Thank you for coming.	ขอบคุณที่มาใช้บริการค่ะ
+04-0170	talk	Thanks for having me!	ขอบคุณที่ต้อนรับนะ!
+04-0171	talk	Hey, welcome back, Yagami-san!	เฮ้ ยินดีต้อนรับกลับมาค่ะ ยากามิซัง!
+04-0172	talk	Miharu-chan, how are you?	มิฮารุจัง เป็นไงบ้าง?
+04-0173	talk	Same as always. I'll show you to your seat now.	ก็เหมือนเดิมค่ะ เดี๋ยวพาไปนั่งเลยนะคะ
+04-0174	talk	So, have you found your special someone?	แล้วไง เจอคนพิเศษหรือยัง?
+04-0175	talk	Well, no. I haven't really met anyone new...	ก็ยังค่ะ ยังไม่ได้เจอใครใหม่ๆ เลย...
+04-0176	talk	Oh wait!	อ้อ เดี๋ยวก่อน!
+04-0177	talk	There is this other part-time worker named Norimoto-kun that may be kinda interesting...?	มีพนักงานพาร์ทไทม์อีกคนชื่อ โนริโมโตะคุง ที่อาจจะน่าสนใจอยู่เหมือนกันนะคะ...?
+04-0178	talk	(Nice! Get in there, Norimoto-kun!)	(เยี่ยม! สู้ๆ นะ โนริโมโตะคุง!)
+04-0179	talk	A fellow part-timer, you say?	พนักงานพาร์ทไทม์ด้วยกันเหรอ?
+04-0180	talk	Yep. I didn't have much of an impression of him at first, but as we started talking, he actually seemed pretty cool.	ค่ะ ตอนแรกไม่ได้รู้สึกอะไรเป็นพิเศษ แต่พอได้คุยกันไปเรื่อยๆ กลับรู้สึกว่าเขาเท่ดีเหมือนกันนะ
+04-0181	talk	Well, isn't that a nice coincidence? Mr. Right has been here all along.	โห บังเอิญดีจังนะ ผู้ชายในฝันอยู่ใกล้ตัวมาตลอดเลย
+04-0182	talk	Hmm, I wouldn't say that just yet... But it would sure be nice! Hehe.	อืม ยังไม่กล้าพูดขนาดนั้นหรอกค่ะ... แต่ถ้าเป็นแบบนั้นได้ก็ดีเหมือนกันนะ เฮ่อๆ
+04-0183	talk	Now, what would you like to order?	เอาล่ะ จะสั่งอะไรดีคะ?
+04-0184	talk	Thank you for coming, Yagami-san.	ขอบคุณที่มาใช้บริการนะคะ ยากามิซัง
+04-0185	talk	Thanks for the meal. See you again.	ขอบคุณสำหรับมื้ออาหารนะ แล้วเจอกันใหม่
+04-0186	talk	Oh, welcome back, Yagami-san!	โอ้ ยินดีต้อนรับกลับมาค่ะ ยากามิซัง!
+04-0187	talk	Hey there, Miharu-chan.	หวัดดี มิฮารุจัง
+04-0188	talk	Ready to be seated? Please follow me!	พร้อมนั่งหรือยังคะ? เชิญตามทางนี้เลยค่ะ!
+04-0189	talk	Oh yeah, how's it going with that coworker you mentioned that one time?	เออ ใช่ แล้วเรื่องเพื่อนร่วมงานที่เคย พูดถึงเป็นไงบ้าง?
+04-0190	talk	It's going, I guess? We do talk whenever we're on the same shift.	ก็เรื่อยๆ ค่ะมั้ง? เวลาเข้ากะเดียวกันเราก็คุยกันตลอด
+04-0191	talk	But nothing's moved beyond that, huh?	แต่ก็ยังไม่คืบหน้าไปไหนใช่ไหมล่ะ?
+04-0192	talk	No, but at least we have fun talking. He seems genuinely interested in me, and says some pretty funny stuff.	ใช่ค่ะ แต่อย่างน้อยเราก็คุยกันสนุกดี เขาดูเหมือนจะสนใจฉันจริงๆ แล้วก็ชอบพูดอะไรตลกๆ ด้วย
+04-0193	talk	Okay. Have you guys, like, gone out anywhere?	โอเค แล้วสองคนเคยออกไปเที่ยวไหน ด้วยกันบ้างหรือยัง?
+04-0194	talk	Nope, not yet.	ยังเลยค่ะ ยังไม่เคย
+04-0195	talk	I see, I see. So, if he was to ask you out, let's say, what would be your ideal time together?	อืม เข้าใจแล้ว ถ้าเขาชวนคุณออกไปเดต สมมติว่านะ อยากให้เป็นแบบไหน?
+04-0196	talk	You mean on a date? Hmm, I guess a normal one would be fine.	หมายถึงเดตเหรอคะ? อืม คิดว่าแบบธรรมดาๆ ก็โอเคนะ
+04-0197	talk	Define normal.	ธรรมดาแบบไหนล่ะ?
+04-0198	talk	Okay... How about... Going to look at dolphins at the aquarium?	เอ่อ... อย่างเช่น... ไปดูโลมาที่พิพิธภัณฑ์สัตว์น้ำ เป็นไงคะ?
+04-0199	talk	You like dolphins, huh? They are cute.	ชอบโลมาสินะ พวกมันน่ารักดีนะ
+04-0200	talk	Aren't they!?	ใช่ไหมล่ะคะ!?
+04-0201	talk	They have these sparkly little eyes and adorable little flippers... Ahh, I could just die from the cuteness!	ดวงตากลมโตแวววาว แล้วก็ครีบน้อยๆ น่ารักสุดๆ... อ๊ะ น่ารักจนแทบใจจะขาดเลยค่ะ!
+04-0202	talk	Haha, sounds like someone really likes her marine mammals.	ฮ่าฮ่า ฟังดูเหมือนใครบางคนชอบ สัตว์เลี้ยงลูกด้วยนมในทะเล จริงๆ นะ
+04-0203	talk	Ah, all I'm trying to say is it'd be nice to go to an aquarium with a guy I really like. Dolphins or not.	อ่า ที่อยากจะบอกก็คือ ได้ไปพิพิธภัณฑ์สัตว์น้ำกับ ผู้ชายที่ชอบจริงๆ ก็คงดีนะคะ จะมีโลมาหรือไม่มีก็ตาม
+04-0204	talk	Well, I have a funny feeling you'll be able to very soon. Call me psychic or whatever.	ผมมีลางสังหรณ์แปลกๆ ว่าคุณคงได้ไปเร็วๆ นี้แหละนะ จะเรียกว่าหมอดูก็ได้
+04-0205	talk	You're joking, right? Don't say such random things!	ล้อเล่นใช่ไหมคะ? อย่าพูดอะไรมั่วๆ แบบนั้นสิ!
+04-0206	talk	Nah, I'm totally serious.	เปล่านะ ผมพูดจริงจังเลย
+04-0207	talk	...Honestly? I hope your prediction comes true, Yagami-san.	...บอกตามตรงนะคะ หวังว่าคำทำนายของคุณจะเป็นจริงนะ ยากามิซัง
+04-0208	talk	Thanks for the meal, Miharu-chan. See you!	ขอบคุณสำหรับมื้ออาหารนะ มิฮารุจัง แล้วเจอกัน!
+04-0209	talk	Yagami-saaan! Welcooome!! ♪	ยากามิซาาาง! ยินดีต้อนรับค่าาา!!
+04-0210	talk	Wow, Miharu-chan. You look like you won the lottery.	โห มิฮารุจัง หน้าตาเหมือนถูกหวยเลยนะ
+04-0211	talk	Hehe, really? Well, follow me and I'll tell you all about it!	เฮ่อๆ จริงเหรอคะ? เอาล่ะ ตามมาเลยค่ะ เดี๋ยวเล่าให้ฟังหมด!
+04-0212	talk	So? What's the big news? I'm assuming something good happened.	เอาล่ะ ข่าวใหญ่คืออะไร? เดาว่าต้องมีเรื่องดีๆ เกิดขึ้นแน่ๆ
+04-0213	talk	Well, yes. See, Norimoto-kun and I... are officially together now.	ค่ะ ใช่เลย คือว่า... โนริโมโตะคุงกับฉัน... ตอนนี้คบกันอย่างเป็นทางการแล้วค่ะ
+04-0214	talk	(Mission accomplished! Good going, Norimoto-kun. Now act surprised...)	(ภารกิจสำเร็จ! เก่งมาก โนริโมโตะคุง เอาล่ะ ทำหน้าตกใจหน่อย...)
+04-0215	talk	Wow, are you serious!?	โห จริงเหรอ!?
+04-0216	talk	I am. On our way home from the aquarium, Norimoto-kun confessed his true feelings.	จริงค่ะ ตอนกำลังกลับบ้านจาก พิพิธภัณฑ์สัตว์น้ำ โนริโมโตะคุงสารภาพความรู้สึกจริงๆ ของเขาออกมา
+04-0217	talk	"Miharu-chan," he said. "I see you as more than just a part-time coworker. I see you as... my full-time woman."	"มิฮารุจัง" เขาบอก "ผมมองคุณมากกว่าแค่ เพื่อนร่วมงานพาร์ทไทม์ครับ ผมมองคุณเป็น... ผู้หญิงฟูลไทม์ของผม"
+04-0218	talk	That's... That's great! Ahahaha!	นั่น... นั่นเยี่ยมมากเลย! อาฮ่าฮ่าฮ่า!
+04-0219	talk	You know, Yagami-san... It's almost like you're Cupid or something.	คุณรู้ไหมคะ ยากามิซัง... คุณเหมือนคิวปิดยังไงยังงั้นเลย
+04-0220	talk	Because every time I told you about my love life, it happened exactly the way you said.	เพราะทุกครั้งที่ฉันเล่าเรื่อง ความรักให้คุณฟัง มันก็เป็นไปตามที่คุณพูดไว้เป๊ะเลย
+04-0221	talk	And now I have a wonderful boyfriend.	แล้วตอนนี้ฉันก็มีแฟนหนุ่มที่ วิเศษสุดๆ แล้วด้วย
+04-0222	talk	Maybe it's all just a wonderful string of coincidences.	บางทีมันอาจจะเป็นแค่ ความบังเอิญที่วิเศษสุดๆ ก็ได้นะ
+04-0223	talk	You really think so? Hmm...	คุณคิดแบบนั้นจริงๆ เหรอคะ? อืม...
+04-0224	talk	Either way, I'm still glad to have met you, Yagami-san! I hope you'll always be a regular!	ยังไงก็ตาม ฉันดีใจมากที่ได้รู้จักคุณนะคะ ยากามิซัง! หวังว่าคุณจะเป็นลูกค้าประจำตลอดไปเลย!
+04-0225	talk	You bet.	แน่นอนอยู่แล้ว
+04-0226	talk	Hehehe. May I take your order, then?	เฮ่อๆ รับออร์เดอร์เลยได้ไหมคะ?
+04-0227	talk	Thanks for the meal, Miharu-chan. Best of luck to you and the new boyfriend.	ขอบคุณสำหรับมื้ออาหารนะ มิฮารุจัง ขอให้โชคดีกับแฟนหนุ่มคนใหม่ล่ะ
+04-0228	talk	Welcome, Yagami-san. Have you tried our secret menu?	ยินดีต้อนรับครับ ยากามิซัง ลองเมนูลับของเรารึยังครับ?
+04-0229	talk	Welcome, Yagami-san! I'm going on a trip with my boyfriend soon!	ยินดีต้อนรับค่ะ ยากามิซัง! ฉันกำลังจะไปเที่ยวกับแฟนเร็วๆ นี้ด้วยนะ!
+04-0230	talk	Oh, Yagami-san, am I glad to see you!	โอ้ ยากามิซังครับ ดีใจจริงๆ ที่ได้เจอคุณ!
+04-0231	talk	Glad to see you too. How's everything in the Beef Zone?	ผมก็ดีใจที่ได้เจอเหมือนกัน เป็นไงบ้าง บีฟโซนช่วงนี้?
+04-0232	talk	Well, we made the prices cheaper like you suggested, and now we have many more customers!	ก็ตามที่คุณแนะนำเลยครับ ลดราคาลง ตอนนี้ลูกค้าเพิ่มขึ้นเยอะเลย!
+04-0233	talk	Is that right? That puts my mind at ease.	งั้นเหรอ? สบายใจขึ้นเยอะเลย
+04-0234	talk	But that's still not enough... At this rate, Kanrai's gonna swallow us whole!	แต่ก็ยังไม่พออยู่ดีครับ... แบบนี้ต่อไปคันไรจะกลืนเรากินหมดแน่ๆ!
+04-0235	talk	Can you think of any other ideas?	คุณพอจะนึกไอเดียอื่นออกไหมครับ?
+04-0236	talk	Oh, Yagami-san! Welcome to the Beef Zone!	โอ้ ยากามิซัง! ยินดีต้อนรับสู่บีฟโซนครับ!
+04-0237	talk	Thanks. Has business been getting any better?	ขอบใจนะ ธุรกิจดีขึ้นบ้างไหม?
+04-0238	talk	Well, we made rice refills free like you suggested, and our expenses have gone way down!	ก็ตามที่คุณแนะนำครับ ให้เติมข้าวฟรี แล้วค่าใช้จ่ายก็ลดลงเยอะเลย!
+04-0239	talk	Good! Glad to hear it.	ดีเลย! ดีใจที่ได้ยินแบบนั้น
+04-0240	talk	Well, we did flesh out our dessert menu, and now we're rolling in sugar addicts! Which is good for business.	ก็เพิ่มเมนูของหวานให้เยอะขึ้นครับ ตอนนี้เต็มไปด้วยคนติดหวานเลย! ดีต่อธุรกิจสุดๆ
+04-0241	talk	Well, we made a family special like you suggested, and now we have families coming in from all over the place!	ก็ทำเซ็ตพิเศษสำหรับครอบครัว ตามที่คุณแนะนำครับ ตอนนี้มีครอบครัวแวะเวียนมาจาก ทั่วสารทิศเลย!
+04-0242	talk	Fantastic! That's good to know.	เยี่ยมไปเลย! ดีใจที่รู้แบบนั้น
+04-0243	talk	Why not drop the prices a little?	ลองลดราคาลงหน่อยดีไหม?
+04-0244	talk	Kanrai's pretty pricey as it is, so a price drop on your end should help your place stand out. You'll be the other option.	คันไรราคาแพงอยู่แล้ว ถ้าร้านคุณลดราคาลงก็จะช่วยให้ โดดเด่นขึ้น เป็นอีกตัวเลือกให้ลูกค้าได้
+04-0245	talk	Why not give free refills on rice?	ลองแจกข้าวเติมฟรีดูไหม?
+04-0246	talk	Since yakiniku and rice go practically hand in hand, I think a lot of people would appreciate some rice on the house.	ยากินิกุกับข้าวมันไปด้วยกันอยู่แล้ว ผมว่าหลายคนต้องชอบถ้ามีข้าวฟรี ให้แน่ๆ
+04-0247	talk	Besides, wouldn't it also be better for sales if the customers filled up on rice? It's a lot cheaper than meat.	อีกอย่าง ถ้าลูกค้ากินข้าวจนอิ่มก็ยิ่งดี ต่อยอดขายไม่ใช่เหรอ? เพราะข้าวมันถูกกว่าเนื้อเยอะ
+04-0248	talk	Why not expand the dessert menu?	ลองขยายเมนูของหวานดูไหม?
+04-0249	talk	That way, you'd attract more families with young kids as well as groups of girls. Helps give that menu a nice touch.	แบบนั้นจะดึงดูดครอบครัวที่มีเด็กเล็ก รวมถึงกลุ่มสาวๆ ได้มากขึ้น ช่วยเสริมเมนูให้น่าสนใจขึ้นด้วย
+04-0250	talk	Why not make a family special? Large parties like families tend to rack up a higher bill, which equates to more profit.	ลองทำเซ็ตพิเศษสำหรับครอบครัวดูไหม? กลุ่มใหญ่แบบครอบครัวมักจะสั่งเยอะ ทำให้ยอดบิลสูงขึ้น กำไรก็มากขึ้นตาม
+04-0251	talk	It's true that Kanrai is a bit more on the luxury side...	จริงอยู่ที่คันไรออกแนวหรูหน่อย...
+04-0252	talk	But it's also losing out on a big demographic by leaving out families. This could be your chance to corner the market!	แต่นั่นก็ทำให้เขาพลาดกลุ่ม ลูกค้าครอบครัวไปเยอะเหมือนกัน นี่อาจเป็นโอกาสของคุณที่จะ ครองตลาดกลุ่มนี้เลยก็ได้!
+04-0253	talk	Wow, you really know your stuff! You sure you weren't a restaurant manager before? Feels like I've already said that.	โห รู้เรื่องพวกนี้ดีจริงๆ ครับ! แน่ใจเหรอว่าไม่เคยเป็น ผู้จัดการร้านอาหารมาก่อน? รู้สึกเหมือนเคยพูดประโยคนี้ไปแล้วนะ
+04-0254	talk	(Will my amateur advice really make a difference in the long run? Guess I'll find out soon enough...)	(คำแนะนำมือสมัครเล่นของผมจะช่วย อะไรได้จริงในระยะยาวไหมนะ? เดี๋ยวก็คงรู้เอง...)
+04-0255	talk	Well, we made rice refills free like you suggested, and now\nwe have way more customers!	ก็ตามที่คุณแนะนำครับ ให้เติมข้าวฟรี ตอนนี้\nลูกค้าเพิ่มขึ้นเยอะเลย!
+04-0256	talk	Welcome to the Beef Zone! Get ready!	ยินดีต้อนรับสู่บีฟโซนครับ! เตรียมตัวให้พร้อมเลย!
+04-0257	talk	Haha, ready as always. How's business these days, Kim-san?	ฮ่าฮ่า พร้อมเหมือนเดิม ช่วงนี้ธุรกิจเป็นไงบ้าง คิมซัง?
+04-0258	talk	Well, to be honest, it's a little rough. A lot of customers have gone over to Kanrai, our main competitor.	บอกตรงๆ ก็ค่อนข้างลำบากครับ ลูกค้าหลายคนหันไปที่คันไร คู่แข่งหลักของเรา
+04-0259	talk	Well, Kanrai is pretty popular...	ก็จริงนะ คันไรค่อนข้างดังอยู่...
+04-0260	talk	Can you think of anything that would help us stay competitive?	พอจะช่วยคิดอะไรที่ทำให้เรา แข่งขันได้ดีขึ้นไหมครับ?
+04-0261	talk	Not sure if I can just make it rain ideas, but I'll try.	ไม่แน่ใจว่าจะคิดไอเดียออกมาได้ เป็นห่าฝนขนาดนั้นนะ แต่จะลองดู
+04-0262	talk	First off, what is Kanrai really known for in the first place?	อย่างแรกเลย คันไรมีชื่อเสียงเรื่องอะไรกันแน่?
+04-0263	talk	Let's see. It's a high-end restaurant, so it's probably more geared toward entertaining clients or fancy dates.	ให้ผมคิดดูนะครับ เป็นร้านหรู เลยน่าจะเน้นกลุ่มลูกค้าที่มา เลี้ยงรับรองงานหรือเดตหรูๆ มากกว่า
+04-0264	talk	And rather than making a big, fancy menu, they stick to a small selection of only the choicest meats on the market.	แล้วแทนที่จะทำเมนูใหญ่หรูหรา เขาก็เน้นเมนูจำกัดที่คัดแต่ เนื้อคุณภาพเยี่ยมสุดๆ ในตลาด
+04-0265	talk	They don't seem to do anything unreputable as a business, either.	แล้วก็ดูเหมือนจะไม่ได้ทำอะไร เสียชื่อเสียงในฐานะ ธุรกิจเลยด้วยครับ
+04-0266	talk	Was that information helpful at all?	ข้อมูลพวกนี้พอช่วยอะไรได้บ้างไหมครับ?
+04-0267	talk	Yeah, let me think here...	อืม ขอคิดดูก่อนนะ...
+04-0268	talk	Well, we made rice refills free like you suggested, and now we have way more customers!	ก็ตามที่คุณแนะนำครับ ให้เติมข้าวฟรี ตอนนี้ลูกค้าเพิ่มขึ้นเยอะเลย!
+04-0269	talk	But... that's still... not enough. At this rate...	แต่... ก็ยัง... ไม่พออยู่ดีครับ แบบนี้ต่อไป...
+04-0270	talk	Kanrai's not gonna swallow you whole, okay? All you have to do is showcase something original... which you do have, yes?	คันไรไม่กลืนกินร้านคุณหมดหรอกน่า โอเคไหม? แค่ต้องหาอะไรที่เป็นเอกลักษณ์มาโชว์... ซึ่งคุณมีอยู่แล้วใช่ไหม?
+04-0271	talk	If we did, I would've said so earlier! And ordering a brand-new item out of the blue would only drive up costs...	ถ้ามีจริงผมคงพูดไปตั้งแต่แรกแล้วครับ! แล้วจะสั่งเมนูใหม่ขึ้นมาเฉยๆ ก็มีแต่จะทำให้ต้นทุนพุ่งขึ้นอีก...
+04-0272	talk	Okay, so scratch that idea. Maybe you can focus on the way you grill, or feature some kind of special sauce...	โอเค งั้นตัดไอเดียนั้นทิ้งไป ลองเน้นที่วิธีย่างของคุณ หรือทำซอสพิเศษขึ้นมาสักอย่างดีไหม...
+04-0273	talk	Honestly, our grills are nothing out of the norm. And our sauce is just my grandma's old recipe.	บอกตรงๆ วิธีย่างของเราก็ธรรมดาครับ ส่วนซอสก็แค่สูตรเก่าของยายผมเอง
+04-0274	talk	Can you repeat that last bit...?	ช่วยพูดตอนท้ายนั่นอีกทีได้ไหม...?
+04-0275	talk	That! That's it! Kim-san, is your sauce still made the same way as your grandma's?	นั่นแหละ! ใช่เลย! คิมซัง ตอนนี้ซอสของคุณยังทำตามสูตรของ ยายเหมือนเดิมอยู่ไหม?
+04-0276	talk	Yes sir, we always use my grandma's sauce when eating yakiniku.	ใช่แล้วครับ เราใช้ซอสสูตรยายผมกับยากินิกุมาตลอด
+04-0277	talk	The balance between the soy sauce and mirin, topped with a gentle dollop of honey is what does it.	ความลงตัวระหว่างซีอิ๊วกับมิริน แต่งท้ายด้วยน้ำผึ้งนิดหน่อย นั่นแหละคือเคล็ดลับครับ
+04-0278	talk	Then that's it! What you described to me just now... is your original, mouth-watering secret sauce!	งั้นก็นั่นแหละ! สิ่งที่คุณเพิ่งเล่ามาน่ะ... คือซอสลับสูตรต้นตำรับสุดอร่อย ของคุณเลยนะ!
+04-0279	talk	Ah... I see where you're going with this. Brilliant! Then I'll advertise it just like that!	อ่า... เข้าใจแล้วครับว่าคุณจะสื่ออะไร เยี่ยมมาก! งั้นผมจะโฆษณาไปแบบนั้นเลย!
+04-0280	talk	(Family-friendly yakiniku served with secret sauce, a traditional recipe from Kim-san's grandma...)	(ยากินิกุสำหรับครอบครัวราดซอสลับ สูตรดั้งเดิมจากคุณยายของคิมซัง...)
+04-0281	talk	(I think this is our best idea yet.)	(คิดว่านี่เป็นไอเดียที่ดีที่สุด ของเราแล้วล่ะ)
+04-0282	talk	Yagami-san, we did it! My grandma's yakiniku sauce is becoming a huge hit!	ยากามิซังครับ เราทำสำเร็จแล้ว! ซอสยากินิกุสูตรยายของผมกำลังฮิตสุดๆ เลย!
+04-0283	talk	We've been getting customers left and right ever since. Business is booming now!	ตั้งแต่นั้นมาลูกค้าก็เข้ามา ไม่ขาดสายเลยครับ ธุรกิจกำลังไปได้สวยเลยตอนนี้!
+04-0284	talk	Of course. You pulled out all the stops to make it happen.	แน่นอนอยู่แล้ว คุณทุ่มสุดตัวจนสำเร็จได้ขนาดนี้
+04-0285	talk	Well, we couldn't have done it without your superb advice! You have my thanks, Yagami-san!	ถ้าไม่มีคำแนะนำสุดยอดของคุณ เราคงทำไม่สำเร็จแน่ครับ! ขอบคุณจริงๆ นะครับ ยากามิซัง!
+04-0286	talk	Ah, I didn't do much. Thank your grandma instead. 	อ่า ผมไม่ได้ทำอะไรมากหรอก ไปขอบคุณคุณยายของคุณดีกว่า
+04-0287	talk	Yes, I should! Thanks, Grandma!	ใช่เลยครับ! ขอบคุณนะยาย!
+04-0288	talk	This sauce... it's delicious. What could possibly be in it?	ซอสนี้... อร่อยมากเลยครับ มีอะไรอยู่ในนี้กันนะ?
+04-0289	talk	Wait, is that... the manager of Kanrai?	เดี๋ยวนะ นั่นมัน... ผู้จัดการร้านคันไรเหรอ?
+04-0290	talk	I heard Beef Zone's sauce was the talk of the town, so I knew I had to try it out myself...	ได้ยินมาว่าซอสของบีฟโซนกำลัง เป็นที่พูดถึงกันทั่วเมือง เลยต้องมาลองชิมด้วยตัวเอง สักหน่อยครับ...
+04-0291	talk	But this was beyond my expectations. We'll have to try even harder just to keep up with you, eh?	แต่นี่มันเกินความคาดหมายไปมากเลยครับ ดูท่าทางเราต้องพยายามให้ มากขึ้นถึงจะตามคุณทันซะแล้วสิ
+04-0292	talk	Oh no, we're really nothing special.	โธ่ ไม่หรอกครับ ร้านเราธรรมดามากเลย
+04-0293	talk	Nonsense! If we don't improve our own sauce, all our customers are gonna end up eating here instead!	อย่าพูดถ่อมตัวไปหน่อยเลยครับ! ถ้าเราไม่ปรับปรุงซอสของตัวเองบ้าง ลูกค้าทุกคนคงหันมากินที่นี่กันหมดแน่
+04-0294	talk	I'm not so sure about that, but it's quite flattering to hear from such an esteemed business as Kanrai.	ผมไม่แน่ใจขนาดนั้นหรอกครับ แต่ก็ดีใจที่ได้ยินคำชมจากร้าน มีชื่ออย่างคันไร
+04-0295	talk	Well then, I'll be taking my leave. Let's do our best from here on out, hm?	งั้นผมขอตัวก่อนนะครับ ต่อจากนี้ก็ทำให้ดีที่สุดกัน ทั้งคู่แล้วกันนะ
+04-0296	talk	Yes! And thank you for entering the Beef Zone!	ครับ! แล้วก็ขอบคุณที่แวะมาที่บีฟโซนนะครับ!
+04-0297	talk	Yagami-san, did you hear that just now!?	ยากามิซังครับ ได้ยินที่เขาพูดเมื่อกี้ไหม!?
+04-0298	talk	Yeah, he really talked you up there, didn't he?	ได้ยินสิ เขาชมคุณเต็มที่เลยนะ
+04-0299	talk	He sure did! I got the feeling he was really impressed, so I'm all fired up now! Thank you so much, Yagami-san!	ใช่เลยครับ! รู้สึกได้เลยว่าเขาประทับใจจริงๆ ตอนนี้ผมไฟลุกเลยครับ! ขอบคุณมากๆ นะครับ ยากามิซัง!
+04-0300	talk	It's something any fan would do. Keep that fire alive, Kim-san!	เป็นสิ่งที่แฟนตัวจริงคนไหนก็ทำ กันทั้งนั้น รักษาไฟนั้นไว้นะ คิมซัง!
+04-0301	talk	Oh and by the way! As thanks, I'd like to let you eat here at a special discount price!	อ้อ แล้วอีกอย่างนะครับ! เพื่อเป็นการขอบคุณ ผมอยากให้คุณกินที่นี่ในราคา พิเศษเลยครับ!
+04-0302	talk	You mean it!?	พูดจริงเหรอเนี่ย!?
+04-0303	talk	Of course. You can come here and fill up any time! I'll make it cheap.	แน่นอนครับ มาให้เต็มที่ได้ทุกเมื่อเลย! ผมจะคิดราคาถูกๆ ให้
+04-0304	talk	Sounds good to me! I appreciate that.	โอเคเลย! ขอบคุณมากนะ
+04-0305	talk	My pleasure. Consider it a bonus from the Beef Zone!	ยินดีเลยครับ ถือว่าเป็นโบนัสจากบีฟโซน แล้วกันนะครับ!
+04-0306	talk	Hey, Yosuke. I'm here about your case.	เฮ้ โยสึเกะ ผมมาเรื่องคดีของนายน่ะ
+04-0307	talk	Ah, here you are! I've been waiting for you, Yagami-san.	อ้อ มาถึงแล้วเหรอ รอมาสักพักแล้วนะ ยากามิซัง
+04-0308	talk	Hm, no Tsukino today?	อืม วันนี้ไม่มีสึกิโนะมาด้วยเหรอ?
+04-0309	talk	R-Right. I came alone this time.	ค-ครับ วันนี้ผมมาคนเดียว
+04-0310	talk	I see. So, what's the job? It sounded pretty serious.	เข้าใจแล้ว แล้วงานนี้คืออะไร? ฟังดูจริงจังไม่น้อยเลยนะ
+04-0311	talk	Yes, it's a... delicate subject. It's the Twisted Trio again, though...	ครับ มันเป็นเรื่อง... ค่อนข้างละเอียดอ่อนน่ะครับ เป็นเรื่องสามโรคจิตอีกแล้วครับ...
+04-0312	talk	I figured as much. I guess the third one has reared his head?	ก็คิดไว้แล้ว คงเป็นคนที่สามที่โผล่หัวออกมาสินะ?
+04-0313	talk	Yeah. Do you know anything about him, Yagami-san?	ใช่ครับ ยากามิซังรู้เรื่องเกี่ยวกับมัน บ้างไหมครับ?
+04-0314	talk	This guy is the peeping tom of the bunch...	ไอ้นี่เป็นจอมถ้ำมองในกลุ่มนั้นครับ...
+04-0315	talk	And the name he's been given is... Judge Creep 'n Peep.	แล้วชื่อที่มันถูกเรียกคือ... ผู้พิพากษาจอมถ้ำมองครับ
+04-0316	talk	Yeah, I don't know why I'm surprised by these anymore.	อืม ไม่รู้ทำไมยังแปลกใจกับพวกนี้ อยู่เลยนะ
+04-0317	talk	But it's the "judge" part that's got me curious. Why "judge"?	แต่ที่สงสัยจริงๆ คือคำว่า "ผู้พิพากษา" น่ะ ทำไมต้องเป็น "ผู้พิพากษา" ด้วย?
+04-0318	talk	He peeps in on couples at love hotels, and determines their guilt or innocence based on what he sees.	มันแอบดูคู่รักที่โรงแรมม่านรูด แล้วตัดสินว่าใครผิดใครถูกจาก สิ่งที่มันเห็นครับ
+04-0319	talk	He... what?	มัน... อะไรนะ?
+04-0320	talk	He thinks of himself as some kind of authority on what should be a private matter between a man and a woman...	มันคิดว่าตัวเองเป็นเหมือน ผู้มีอำนาจตัดสินเรื่องที่ ควรเป็นเรื่องส่วนตัวระหว่างชาย หญิงครับ...
+04-0321	talk	And if he deems them guilty... he uploads the pics to social media.	แล้วถ้ามันตัดสินว่าผิด... มันก็จะเอารูปไปโพสต์ลงโซเชียล มีเดียครับ
+04-0322	talk	I can't even imagine what kind of criteria this guy has for that...	นึกไม่ออกเลยว่าไอ้นี่ใช้เกณฑ์ อะไรตัดสิน...
+04-0323	talk	Is it safe to say you're the victim, then? Did he catch you with your girlfriend?	งั้นพอจะบอกได้ไหมว่านายเป็นเหยื่อ? โดนจับได้ตอนอยู่กับแฟนสาวเหรอ?
+04-0324	talk	Um, no... Not exactly...	เอ่อ ไม่ครับ... ไม่เชิงครับ...
+04-0325	talk	I-I mean, I do have a girlfriend, but she's studying abroad in America right now...	ค-คือผมมีแฟนจริงๆ นะครับ แต่ตอนนี้เธอไปเรียนต่อที่อเมริกาอยู่...
+04-0326	talk	Then if you're not the victim... Don't tell me it's Tsukino?	งั้นถ้าไม่ใช่นาย... อย่าบอกนะว่าเป็นสึกิโนะ?
+04-0327	talk	Y-Yes. She's been victimized yet again! He has video of her having sex with her boyfriend!	ค-ครับ เธอตกเป็นเหยื่ออีกแล้วครับ! มันมีวิดีโอตอนเธอมีเซ็กส์กับ แฟนหนุ่มด้วย!
+04-0328	talk	(Huh. I guess Tsukino must have found a boyfriend since the first pervert...)	(หืม ดูเหมือนสึกิโนะจะได้แฟนใหม่ หลังจากโดนโรคจิตคนแรกนะ...)
+04-0329	talk	(And that would mean this guy judged her guilty... On what grounds?)	(แล้วนั่นแปลว่าไอ้นี่ตัดสินว่าเธอผิด... ด้วยเหตุผลอะไรกันแน่?)
+04-0330	talk	Tsukino is so depressed and mortified, she won't even leave the house.	สึกิโนะเศร้าและอับอายมากจนไม่ ยอมออกจากบ้านเลยครับ
+04-0331	talk	I should know the answer to this by now... But you're sure it's Judge Creep 'n Peep? Not some other guy?	ป่านนี้ผมน่าจะรู้คำตอบแล้วนะ... แต่นายแน่ใจนะว่าเป็น ผู้พิพากษาจอมถ้ำมอง? ไม่ใช่คนอื่น?
+04-0332	talk	No. She saw him with her own two eyes.	ไม่ครับ เธอเห็นมันกับตาตัวเองเลย
+04-0333	talk	She saw him? In the love hotel?	เธอเห็นเขาเหรอ? ในโรงแรมม่านรูดน่ะ?
+04-0334	talk	Well, she says she saw the flash of his camera and looked out the hotel window...	คือเธอบอกว่าเห็นแสงแฟลชกล้องแวบหนึ่ง แล้วก็มองออกไปนอกหน้าต่างโรงแรม...
+04-0335	talk	He had apparently affixed himself to the wall... And then he crawled away like a cockroach!	ดูเหมือนเขาจะเกาะติดผนังอยู่... แล้วก็คลานหนีไปเหมือนแมลงสาบเลยครับ!
+04-0336	talk	A cockroach? How in the world?	แมลงสาบ? เกาะกำแพงได้ยังไง?
+04-0337	talk	I couldn't tell you. But we have to act fast, or he'll upload her pictures for the whole world to see!	ผมก็ไม่รู้เหมือนกันครับ แต่เราต้องรีบทำอะไรสักอย่าง ไม่งั้นเขาจะเอารูปเธอไปโพสต์ ให้คนทั้งโลกเห็นแน่!
+04-0338	talk	All right. I can see why you were so serious about it this time.	เข้าใจแล้ว ไม่แปลกใจเลยที่นายจริงจังกับ เรื่องนี้มากรอบนี้
+04-0339	talk	I'll be charging the usual 50,000 yen. Can you pay it?	ผมคิดค่าจ้างตามปกติ 50,000 เยน จ่ายไหวไหม?
+04-0340	talk	Yes! I'll pay whatever it takes.	ได้ครับ! เท่าไหร่ผมก็จ่าย
+04-0341	talk	The video was taken at a love hotel called the Top of Ocean Hotel. That's the only lead I have.	คลิปนั้นถ่ายที่เลิฟโฮเทลชื่อ ท็อปออฟโอเชียนโฮเทล นั่นคือเบาะแสเดียวที่ผมมีครับ
+04-0342	talk	All right. Guess I'll go see what I can find. No promises, though.	โอเค งั้นผมจะไปลองดูว่าเจออะไรบ้าง แต่ไม่รับปากนะ
+04-0343	talk	It's in your hands, Yagami-san.	ฝากไว้ในมือยากามิซังแล้วนะครับ
+04-0344	talk	(Couldn't hurt to go have a look around the hotel. Maybe I'll find a clue as to how he attached himself to a wall...)	(ไปดูรอบ ๆ โรงแรมก่อนก็ไม่เสียหาย บางทีอาจเจอเบาะแสว่าเขาเกาะ กำแพงได้ยังไง...)
+04-0345	talk	Wait... That's... him?	เดี๋ยวนะ... นั่นมัน... เขาเหรอ?
+04-0346	talk	Oh, dear god! I've never seen anything so perverted!　	โอ้ พระเจ้า! ข้าไม่เคยเห็นอะไรที่วิตถาร เท่านี้มาก่อน!
+04-0347	talk	Unforgiveable! I pronounce these heathens... guilty as charged!	ให้อภัยไม่ได้! ข้าขอตัดสินให้เจ้าพวกนอกรีตนี้... มีความผิดตามข้อกล่าวหา!
+04-0348	talk	I'm actually kind of impressed he made it up that high...	ต้องยอมรับเลยว่าทึ่งนิดๆ ที่เขาไต่ขึ้นไปสูงขนาดนั้นได้...
+04-0349	talk	Well, guess I'll shoot him down with the Pigeon. He'll live. Probably.	เอาล่ะ ยิงเขาตกด้วยนกพิราบดีกว่า เขาไม่ตายหรอกน่า... น่าจะนะ
+04-0350	talk	Aghhhhh!	อ๊าาาาา!
+04-0351	talk	Whoa, he's fast!	โห เร็วชะมัด!
+04-0352	talk	W-What the hell? The cockroach thing wasn't far off...	อ-อะไรเนี่ย? เรื่องแมลงสาบนี่ไม่ได้พูดเกินจริงเลย...
+04-0353	talk	He couldn't have gotten far, though. I'm on it!	แต่เขาคงหนีไปไกลไม่ได้หรอก ผมจัดการเอง!
+04-0354	talk	Whoa! People can bend that way!? I'm kinda jealous...	โห! คนดัดตัวได้ขนาดนั้นเชียวหรือ!? ข้าอิจฉาเสียจริง...
+04-0355	talk	He's still at it... Guess I'll try shooting him down.	ยังไม่เลิกอีกเหรอ... งั้นลองยิงให้ตกดีกว่า
+04-0356	talk	Oh noooooooo!	โอ๊ยยยยย!
+04-0357	talk	You! Are you the one who did this!?	เจ้า! เจ้าเป็นคนทำเรื่องนี้ใช่ไหม!?
+04-0358	talk	You've interfered with my righteous arbitration, and I find you guilty of obstruction of justice!	เจ้าขัดขวางการตัดสินอันชอบธรรมของข้า ข้าจึงขอตัดสินให้เจ้ามีความผิด ฐานขัดขวางกระบวนการยุติธรรม!
+04-0359	talk	Sorry, but peeping toms don't get to make those kinds of calls.	ขอโทษนะ แต่พวกถ้ำมองไม่มีสิทธิ์มา ตัดสินใครทั้งนั้น
+04-0360	talk	This time, you're the one on trial.	รอบนี้นายต่างหากที่ต้องขึ้นศาล
+04-0361	talk	Silence! Order in the court! The defendant is guilty of contempt!	เงียบ! รักษาความสงบในศาล! จำเลยมีความผิดฐานหมิ่นศาล!
+04-0362	talk	And I'm going to be the judge, jury... and executioner!	และข้าเองจะเป็นทั้งผู้พิพากษา ลูกขุน... และเพชฌฆาต!
+04-0363	talk	Yagami-san, you did it! Thank you so much!	ยากามิซัง สำเร็จแล้วครับ! ขอบคุณมากจริง ๆ ครับ!
+04-0364	talk	I think it's safe to say that video won't be appearing on any social feeds.	คิดว่าคลิปนั้นคงไม่มีทางโผล่ใน โซเชียลแน่ ๆ ละ
+04-0365	talk	Oh, thank god. No one should be subjected to what went on in there...	โล่งอกไปที ไม่มีใครควรต้องมาเห็นสิ่งที่ เกิดขึ้นข้างในนั้นหรอกครับ...
+04-0366	talk	Didn't you say Tsukino was the victim? How would you know what "went on in there"?	นายบอกว่าสึกิโนะเป็นเหยื่อไม่ใช่เหรอ แล้วนายไปรู้ได้ยังไงว่า "เกิดอะไรขึ้นข้างใน"
+04-0367	talk	Oh! ...Um, that's... Well, you see...	อ้าว! ...เอ่อ นั่นมัน... คือว่า...
+04-0368	talk	Huh? Yagami-san?	เอ๊ะ? ยากามิซังคะ?
+04-0369	talk	Shit!! Tsukino!?	แย่แล้ว!! สึกิโนะ!?
+04-0370	talk	Oh, hey, Yosuke. What's going on?	อ้าว พี่โยสึเกะ มีอะไรเหรอคะ?
+04-0371	talk	Tsukino-san... I'd heard you were too depressed to even leave the house.	สึกิโนะซัง... ผมได้ยินมาว่าคุณเศร้าจนแทบไม่ ออกจากบ้านเลยนี่นา
+04-0372	talk	Depressed? Why would I be depressed?	เศร้า? ทำไมฉันต้องเศร้าด้วยล่ะคะ?
+04-0373	talk	Well, Yosuke here says you were the victim of Judge Creep 'n Peep...	คือ... โยสึเกะบอกว่าคุณตกเป็นเหยื่อ ของผู้พิพากษาจอมถ้ำมองน่ะ...
+04-0374	talk	Judge what now? You're scaring me...	ผู้พิพากษาอะไรนะคะ? น่ากลัวจังเลย...
+04-0375	talk	Oh no, I was just talking about Yosuke's job. He said you and your boyfriend got caught in a tryst.	อ๋อ เปล่าครับ ผมแค่กำลังพูดถึงงานของโยสึเกะน่ะ เขาบอกว่าคุณกับแฟนโดนจับได้ตอน แอบไปมีอะไรกัน
+04-0376	talk	What!? A t-tryst!? I don't know anything about this!	อะไรนะ!? แ-แอบมีอะไรกัน!? ฉันไม่รู้เรื่องนี้เลยนะ!
+04-0377	talk	Uh... Ergh...	เอ่อ... อื้อ...
+04-0378	talk	Yosuke! Care to explain this one!?	โยสึเกะ! จะอธิบายเรื่องนี้ยังไงดีล่ะ!?
+04-0379	talk	Uh... Ahaha... I'm sorry. I lied about Tsukino being the victim...	เอ่อ... ฮ่าฮ่า... ขอโทษครับ ผมโกหกเรื่องที่บอกว่าสึกิโนะ เป็นเหยื่อ...
+04-0380	talk	Wh-What!? Why would you do that!?	ห-หา!? ทำไมพี่ทำแบบนั้นล่ะ!?
+04-0381	talk	Let's not be hasty...	อย่าเพิ่งใจร้อนสิ...
+04-0382	talk	Now that I think about it...	พอมานึกดูอีกที...
+04-0383	talk	Is that how you knew what "went on" in there?	นั่นแหละใช่ไหมที่ทำให้นายรู้ว่า "เกิดอะไรขึ้นข้างใน"?
+04-0384	talk	Ha... Nothing gets past you, Yagami-san.	ฮ่า... ไม่มีอะไรรอดพ้นสายตายากามิซัง ไปได้เลยนะครับ
+04-0385	talk	So you're Judge Creep 'n Peep's real victim?	งั้นนายคือเหยื่อตัวจริงของ ผู้พิพากษาจอมถ้ำมองสินะ?
+04-0386	talk	Why lie about it, though? Couldn't you have admitted you and your girlfriend were taped?	แต่ทำไมต้องโกหกด้วยล่ะ? ยอมรับไปตรง ๆ ว่านายกับแฟนโดนถ่ายคลิปไว้ไม่ได้เหรอ?
+04-0387	talk	T-That's...	น-นั่นมัน...
+04-0388	talk	But I thought Akari-chan was still in America...	แต่ฉันนึกว่าอาการิจังยังอยู่ อเมริกาซะอีกนะคะ
+04-0389	talk	Akari-chan is Yosuke's girlfriend, I take it.	อาการิจังเป็นแฟนของโยสึเกะสินะ
+04-0390	talk	Yep, they met through me, actually. But she's studying in America right now, so it's a long distance thing at the moment.	ใช่ค่ะ จริง ๆ พวกเขารู้จักกันผ่านฉันเองนี่แหละ แต่ตอนนี้เธอไปเรียนอยู่ที่อเมริกา เลยเป็นความรักระยะไกลกันอยู่
+04-0391	talk	But she didn't say anything to me about coming back. ...She's not back at all, is she?	แต่เธอไม่เคยบอกฉันเลยว่าจะกลับมา ...เธอไม่ได้กลับมาจริง ๆ ใช่ไหมล่ะ?
+04-0392	talk	R-Right... She's still in America...	ถ-ถูกแล้ว... เธอยังอยู่อเมริกา...
+04-0393	talk	That would mean you got caught in the hotel room with...	งั้นแปลว่านายโดนจับได้ใน ห้องพักโรงแรมกับ...
+04-0394	talk	Ah... ha ha... Yeah.	อ่า... ฮ่าฮ่า... ใช่แล้ว
+04-0395	talk	I was in the room with someone else.	ผมอยู่ในห้องนั้นกับคนอื่น
+04-0396	talk	Y-Yosuke! You cheated on Akari-chan!? You promised her you could handle a long distance relationship!	พ-พี่โยสึเกะ! นอกใจอาการิจังเหรอ!? พี่สัญญากับเธอไว้แล้วว่าจะ จัดการเรื่องระยะไกลได้ไง!
+04-0397	talk	D-Don't be mad, Tsukino...	อ-อย่าเพิ่งโกรธเลยนะ สึกิโนะ...
+04-0398	talk	I <font_kind=yakuza_italic>am</font_kind> mad! And why did you lie to Yagami-san about this whole thing!?	<font_kind=yakuza_italic>โกรธ</font_kind>อยู่แล้ว! แล้วทำไมพี่ถึงโกหกยากามิซัง เรื่องทั้งหมดนี้!?
+04-0399	talk	W-Well, you and Yagami-san seem to talk on a regular basis...	อ-อันที่จริง เธอกับยากามิซังก็คุยกันบ่อย อยู่แล้วนี่...
+04-0400	talk	So I was worried that if I told him the truth, you'd find out eventually...	เลยกลัวว่าถ้าบอกความจริงไป เธอจะรู้เรื่องนี้ในที่สุดอยู่ดี...
+04-0401	talk	And then Akari would kill me and you'd blow up like you are now...	แล้วอาการิก็คงฆ่าผมแน่ ๆ แล้วเธอก็คงระเบิดอารมณ์แบบตอนนี้เลย...
+04-0402	talk	So there you have it...	ก็เลยเป็นแบบนี้แหละครับ...
+04-0403	talk	Guilty. You're guilty as charged, Yosuke.	มีความผิด พี่โยสึเกะมีความผิดตาม ข้อกล่าวหาเลยนะ
+04-0404	talk	Sorry, Yosuke, but you're going to need more than a lawyer to get you out of this one.	ขอโทษนะ โยสึเกะ แต่รอบนี้นายต้องการมากกว่าทนายความนะ
+04-0405	talk	I-I'm sorry.	ข-ขอโทษครับ
+04-0406	talk	My brother really put you through the ringer, Yagami-san. I'm sorry.	พี่ชายดิฉันทำให้ยากามิซังลำบากจริง ๆ ค่ะ ต้องขอโทษด้วยนะคะ
+04-0407	talk	Nah, you're the real victim here, Tsukino-san. I'd say your brother's guilty of character assassination.	ไม่หรอก เหยื่อตัวจริงในเรื่องนี้คือคุณ ต่างหาก สึกิโนะซัง พี่ชายคุณนี่ต้องเรียกว่า มีความผิดฐานทำลายชื่อเสียงคุณ เลยนะ
+04-0408	talk	Y-Yeah! Yagami-san almost got the wrong idea, Yosuke! Why don't you and I go have a few words!?	ใ-ใช่ค่ะ! ยากามิซังเกือบเข้าใจผิดไปแล้วนะ พี่โยสึเกะ! พี่กับฉันต้องคุยกันหน่อยแล้วล่ะ!?
+04-0409	talk	Oh, and Yagami-san. Just so you know...	อ้อ แล้วก็ยากามิซังคะ อยากให้รู้ไว้เฉย ๆ ว่า...
+04-0410	talk	I don't have a boyfriend!	ดิฉันไม่มีแฟนนะคะ!
+04-0411	talk	Okay?	แล้วไง?
+04-0412	talk	G-Goodbye!	ล-ลาก่อนค่ะ!
+04-0413	talk	(I wasn't expecting the curve ball on that one...)　	(ไม่คิดว่าจะโดนหักมุมแบบนี้เลย...)
+04-0414	talk	(But at least the whole Twisted Trio is locked up now. Gotta look on the bright side, right?)　	(แต่อย่างน้อยแก๊งสามโรคจิตก็โดน จับครบแล้ว มองแง่ดีไว้เถอะน่า)
+04-0415	talk	Yes, I got your job request, so what do you say we talk business?	ครับ ผมได้รับใบสมัครงานของคุณแล้ว เรามาคุยเรื่องงานกันเลยไหม?
+04-0416	talk	Oh, are you Yagami-san, by any chance?	อ้าว คุณคือยากามิซังใช่ไหมครับ?
+04-0417	talk	This has something to do with a stolen jacket?	เรื่องนี้เกี่ยวกับแจ็กเก็ตที่ ถูกขโมยไปใช่ไหมครับ?
+04-0418	talk	Yeah, my bag got swiped, and it was in there.	ใช่ครับ กระเป๋าโดนขโมยไปน่ะ แล้วของก็อยู่ในนั้นด้วย
+04-0419	talk	Where did you last see it?	เห็นมันครั้งสุดท้ายที่ไหนครับ?
+04-0420	talk	That's unfortunate. Can't take your eyes off anything in this city. Was anything else in the bag?	โชคร้ายจริง ๆ เมืองนี้ละสายตาจากของไม่ได้เลย สักวินาที มีของอย่างอื่นอยู่ในกระเป๋าอีก ไหมครับ?
+04-0421	talk	In the park. I went to the bathroom and I accidentally left it in there...	ในสวนนั่นแหละครับ ไปเข้าห้องน้ำแล้วดันลืมมันไว้ ในนั้นโดยไม่ได้ตั้งใจ...
+04-0422	talk	Was it gold studded or something?	มันฝังทองหรือประดับอะไรแบบนั้น หรือเปล่าครับ?
+04-0423	talk	But when I realized what I'd done, I ran back, and it was already gone.	แต่พอนึกขึ้นได้ก็รีบวิ่งกลับไป มันหายไปแล้วครับ
+04-0424	talk	Yeah, my wallet and my watch were in there too.	ใช่ครับ กระเป๋าสตางค์กับนาฬิกาก็อยู่ใน นั้นด้วย
+04-0425	talk	Sure, I get that. And have you gone to the police?	เข้าใจครับ แล้วแจ้งตำรวจไปหรือยัง?
+04-0426	talk	But the jacket is what matters. That thing means more to me than life itself.	แต่แจ็กเก็ตตัวนั้นแหละที่สำคัญที่สุด มันมีค่ามากกว่าชีวิตผมซะอีกครับ
+04-0427	talk	No, it's more of a sentimental value. My older brother gave it to me, and I really respect the guy.	เปล่าครับ มันเป็นเรื่องความรู้สึกมากกว่า พี่ชายผมเป็นคนให้มา แล้วผมก็เคารพพี่เขามากด้วย
+04-0428	talk	Pretty blunt, but I can see their point.	ตรงไปตรงมาไปหน่อย แต่ก็เข้าใจที่พวกเขาพูดนะ
+04-0429	talk	I did, but they said they'd have an ice cube's chance in hell of finding it...	แจ้งแล้วครับ แต่พวกนั้นบอกว่าโอกาสเจอแทบเป็นศูนย์...
+04-0430	talk	Which park did you lose your bag in? And can you describe it?	ทำกระเป๋าหายที่สวนไหนครับ? แล้วอธิบายลักษณะมันได้ไหม?
+04-0431	talk	The Children's Park on Shichifuku Street. The bag is yellow with leather straps, a little smaller than a duffle bag.	สวนเด็กบนถนนชิจิฟุกุครับ กระเป๋าสีเหลืองมีสายหนัง เล็กกว่ากระเป๋าเดินทางนิดหน่อย
+04-0432	talk	Great, thanks. Can you describe your jacket, wallet, and watch, too?	ดีครับ ขอบคุณ แล้วช่วยอธิบายแจ็กเก็ต กระเป๋าสตางค์ กับนาฬิกาด้วยได้ไหม?
+04-0433	talk	My jacket's blue and white, and there's a tiger embroidered on the back. It says "Tiger" on it, too.	แจ็กเก็ตสีน้ำเงินขาวครับ มีลายปักรูปเสือที่หลัง แล้วก็มีคำว่า "Tiger" ปักไว้ด้วย
+04-0434	talk	My wallet's made of blue fabric and my watch is bright yellow.	กระเป๋าสตางค์ทำจากผ้าสีน้ำเงิน ส่วนนาฬิกาสีเหลืองสดครับ
+04-0435	talk	(I better get all this down...)	(จดเอาไว้ให้หมดดีกว่า...)
+04-0436	talk	Not gonna lie, that's expensive for me... But that jacket is worth any price.	ไม่ปิดบังเลยนะครับว่าแพง เอาเรื่องอยู่สำหรับผม... แต่แจ็กเก็ตตัวนั้นคุ้มค่าทุก บาททุกสตางค์
+04-0437	talk	I'll be waiting for good news!	จะรอข่าวดีนะครับ!
+04-0438	talk	All right. I can't promise anything, but I'll do my best to see if I can track them down.	ได้ครับ รับปากไม่ได้นะ แต่จะพยายามตามหาให้เต็มที่
+04-0439	talk	And you can cover 50,000 yen as my fee?	แล้วจ่ายค่าจ้างผม 50,000 เยนไหวไหมครับ?
+04-0440	talk	Then I'll be in touch when I find it.	เจอเมื่อไหร่จะติดต่อไปนะครับ
+04-0441	talk	(All right, guess I'll start at the park where he lost the bag.)	(เอาล่ะ เริ่มจากสวนที่ทำกระเป๋าหายก่อนดีกว่า)
+04-0442	talk	Excuse me, sir.	ขอโทษนะครับ คุณลุง
+04-0443	talk	Eh? Whaddaya want?	หืม? มีอะไร?
+04-0444	talk	I'm looking for a bag that got lost around here, and I wanted to ask if maybe you'd seen it.	ผมกำลังตามหากระเป๋าที่หายแถวนี้ครับ เลยอยากถามว่าคุณลุงเห็นไหม
+04-0445	talk	Yeah? What kinda bag?	อ้อ? กระเป๋าแบบไหนล่ะ?
+04-0446	talk	A yellow one with leather straps. It got left in the bathroom and stolen.	สีเหลืองมีสายหนังครับ ลืมไว้ในห้องน้ำแล้วโดนขโมยไป
+04-0447	talk	But it had a wallet and a jacket in it. Ring any bells?	มีกระเป๋าสตางค์กับแจ็กเก็ตอยู่ ในนั้นด้วย พอนึกออกไหมครับ?
+04-0448	talk	Hmm. Nah, I didn't see anything. But..	อืม ไม่เห็นอะไรหรอก แต่...
+04-0449	talk	See those homeless guys?	เห็นพวกคนไร้บ้านตรงนั้นไหม?
+04-0450	talk	Maybe they know. They're here dusk till dawn most of the time.	พวกนั้นอาจจะรู้นะ อยู่แถวนี้ตั้งแต่เย็นยันเช้าเลย
+04-0451	talk	I see. Thanks for the tip.	เข้าใจแล้วครับ ขอบคุณสำหรับข้อมูลนะครับ
+04-0452	talk	Excuse me, I'm looking for a bag that got lost in this park. Did you see anything?	ขอโทษนะครับ ผมกำลังตามหากระเป๋าที่หายในสวนนี้ เห็นอะไรบ้างไหม?
+04-0453	talk	No, no, not at all. I just thought you might've seen it since you're here a lot.	เปล่าครับ ไม่ได้คิดอะไรแบบนั้นเลย แค่คิดว่าคุณอาจจะเคยเห็นเพราะ อยู่แถวนี้บ่อย ๆ น่ะครับ
+04-0454	talk	(Those guys... Pretty sure these are the punks I'm trying to find.)	(พวกนั้น... นี่แหละน่าจะใช่พวกอันธพาลที่ผม ตามหาอยู่)
+04-0455	talk	Sorry, but do you guys have a quick second?	ขอโทษนะ พวกนายมีเวลาสักครู่ไหม?
+04-0456	talk	I'm looking for a bag that went missing at the Children's Park bathroom.	ผมกำลังตามหากระเป๋าที่หายไปใน ห้องน้ำที่สวนเด็ก
+04-0457	talk	It had a wallet and a jacket in it.	มีกระเป๋าสตางค์กับแจ็กเก็ตอยู่ ในนั้นด้วย
+04-0458	talk	Nah, man.	ไม่รู้เว้ย
+04-0459	talk	Yeah, you're barking up the wrong tree.	ใช่ มาถามผิดคนละว่ะ
+04-0460	talk	So? You guys know anything about it?	แล้วไง? พวกนายรู้อะไรเรื่องนี้บ้างไหม?
+04-0461	talk	Yeah, sure. Yellow bag with a jacket in it.	อ้อ รู้สิ กระเป๋าเหลืองมีแจ็กเก็ตอยู่ ข้างในใช่ไหมล่ะ
+04-0462	talk	...All right. If you see anything, let me know, then.	...โอเค ถ้าเห็นอะไรก็บอกผมด้วยละกัน
+04-0463	talk	You gonna quit bugging us, asshole?	จะเลิกกวนตีนกูได้รึยัง ไอ้เวร?
+04-0464	talk	(He says they don't know, but... Can I believe them?)	(เขาบอกว่าไม่รู้ แต่... เชื่อได้จริงเหรอเนี่ย)
+04-0465	talk	Yeah, he totally did.	ใช่ เขาทำแบบนั้นจริง ๆ
+04-0466	talk	Excuse me, just one more thing.	ขอโทษนะ อีกเรื่องเดียว
+04-0467	talk	What the fuck does it matter?	แม่งจะสำคัญตรงไหนวะ?
+04-0468	talk	It's just... something you said earlier is bothering me.	แค่ว่า... มีอะไรบางอย่างที่นายพูด เมื่อกี้มันติดใจผมอยู่
+04-0469	talk	You said "Yellow bag with a jacket in it" to confirm what I asked, right?	นายพูดว่า "กระเป๋าเหลืองมีแจ็กเก็ตอยู่ข้างใน" เพื่อยืนยันสิ่งที่ผมถามใช่ไหม?
+04-0470	talk	Like I said, does it matter?	ก็บอกไปแล้วไง มันสำคัญตรงไหน?
+04-0471	talk	Well, what does it fuckin' matter!? My bag's yellow too, okay? So I think it's time you got lost!	มันสำคัญตรงไหนวะ!? กระเป๋ากูก็สีเหลืองเหมือนกัน เข้าใจไหม? งั้นได้เวลาไสหัวไปได้แล้ว!
+04-0472	talk	It's just odd. You know something you shouldn't.	มันแปลก ๆ น่ะ นายรู้อะไรบางอย่างที่ไม่ควรรู้
+04-0473	talk	Hey... that watch. Is that yours?	เดี๋ยวนะ... นาฬิกาเรือนนั้น เป็นของนายเหรอ?
+04-0474	talk	'Course it is! Why are you still here!?	ก็ของกูอยู่แล้ว! ทำไมมึงยังไม่ไปอีกวะ!?
+04-0475	talk	(I bet I can trick this fool into confessing he stole it.)	(หลอกให้ไอ้โง่นี่สารภาพว่าขโมย มาคงไม่ยากหรอก)
+04-0476	talk	I'm not so sure. I bet the owner's prints are still on that watch.	ผมไม่ค่อยแน่ใจนะ เดาว่ารอยนิ้วมือเจ้าของตัวจริง ยังติดอยู่บนนาฬิกา เรือนนั้นแหละ
+04-0477	talk	Well too bad for you, and I'm not taking it off!	ซวยไปกู ไม่ถอดให้หรอกโว้ย!
+04-0478	talk	Fine. It's not like I have the authority to make you take it off, anyway.	ก็ได้ ยังไงผมก็ไม่มีอำนาจบังคับให้ นายถอดอยู่แล้วนี่
+04-0479	talk	...Bro. What the fuck?	...เฮ้ย พวก จะบ้าอะไรวะเนี่ย?
+04-0480	talk	(That didn't go according to plan.)	(ไม่เป็นไปตามแผนเลย)
+04-0481	talk	You know what? I'm pretty sure the owner's initials are carved on the dial. Care to look?	รู้อะไรไหม? ผมค่อนข้างมั่นใจว่าตัวอักษรย่อ ของเจ้าของสลักอยู่บน หน้าปัดด้วยนะ อยากดูไหมล่ะ?
+04-0482	talk	It doesn't have shit written on it, man!	มันไม่มีอะไรเขียนอยู่เลยว่ะ เพื่อน!
+04-0483	talk	But if it was yours... Why'd you check?	แต่ถ้ามันเป็นของนายจริง ๆ... ทำไมถึงต้องเช็กด้วยล่ะ?
+04-0484	talk	Time to admit that you stole it.	ได้เวลายอมรับแล้วว่านายขโมยมันมา
+04-0485	talk	N-Now you're just fucking with us, man!	ม-มึงแกล้งกูอยู่แน่ ๆ เลยเว้ย!
+04-0486	talk	I'm about ready to kick your sorry ass outta here!	กูใกล้จะเตะไอ้สารเลวอย่างมึง ออกไปได้แล้วนะ!
+04-0487	talk	Well, when words fail... Sometimes you've gotta do what you've gotta do.	เอาล่ะ ถ้าคำพูดไม่ได้ผล... บางทีก็ต้องทำในสิ่งที่ต้องทำ
+04-0488	talk	You'll be sorry, asshole!	มึงจะต้องเสียใจแน่ ไอ้เวร!
+04-0489	talk	O-Oww...	โ-โอ๊ย...
+04-0490	talk	What the fuck were those moves...	ท่าพวกนั้นมันห่าเหวอะไรวะ...
+04-0491	talk	Unless you want to get hurt some more, I suggest you start talking. You stole the bag, right?	ถ้าไม่อยากเจ็บตัวเพิ่มอีก แนะนำให้เริ่มพูดซะ นายขโมยกระเป๋ามาใช่ไหม?
+04-0492	talk	Nng... Fine. I'll give you back the shit, man.	อึ๋ย... ก็ได้ว่ะ กูจะคืนของให้
+04-0493	talk	This is just the wallet and the watch.	นี่แค่กระเป๋าสตางค์กับนาฬิกานะ
+04-0494	talk	Where's the bag, and more importantly, the jacket that was in it?	แล้วกระเป๋าอยู่ไหน? ที่สำคัญกว่านั้นคือแจ็กเก็ต ที่อยู่ในนั้นล่ะ?
+04-0495	talk	I didn't wanna carry it around, so I threw it away.	กูไม่อยากแบกไปไหนมาไหน เลยโยนทิ้งไปแล้ว
+04-0496	talk	You threw it away? Really?	โยนทิ้งไปเลยเหรอ? จริงดิ?
+04-0497	talk	Yeah, man, that thing was ugly as fuck. Tigers and shit... So lame.	ใช่ว่ะ เพื่อน ตัวนั้นมันน่าเกลียดชิบเป๋ง ลายเสืออะไรนั่น... ห่วยแตก
+04-0498	talk	Ugh. Where did you toss it?	โธ่ แล้วโยนทิ้งไว้ที่ไหน?
+04-0499	talk	I dropped the bag near a trash can in the Champion District. The jacket should be inside.	กูทิ้งกระเป๋าไว้ใกล้ถังขยะแถว ย่านแชมเปี้ยน แจ็กเก็ตน่าจะยังอยู่ในนั้น
+04-0500	talk	Wow, right where he said it'd be.	โห อยู่ตรงที่เขาบอกจริง ๆ ด้วย
+04-0501	talk	Uh oh. It's empty. 	อุ๊ยตาย ว่างเปล่าเลย
+04-0502	talk	Hey man, we got booze, we got tits, and we're right around the corner. Wanna stop by?	เฮ้ เพื่อน ร้านเรามีเหล้า มีสาวเปลือย อยู่แค่หัวมุมนี้เอง แวะไหมล่ะ?
+04-0503	talk	No, but... This is your usual territory, I take it?	ไม่ล่ะ แต่... แถวนี้เป็นเขตประจำของนายใช่ไหม?
+04-0504	talk	Huh? Yeah. The boobs in that bar ain't gonna sell themselves, believe me.	หา? ใช่สิ นมพวกนั้นในร้านไม่ขายตัวเองหรอกนะ เชื่อกูเถอะ
+04-0505	talk	Well, have you seen anything suspicious lately? Like, someone digging through the trash?	แล้วช่วงนี้เห็นอะไรน่าสงสัยบ้างไหม? อย่างเช่นมีใครมาคุ้ยขยะ?
+04-0506	talk	Are you kidding? Homeless guys dig through this trash every night, man.	ล้อเล่นรึไง? พวกไร้บ้านคุ้ยขยะแถวนี้กัน ทุกคืนแหละเพื่อน
+04-0507	talk	Right, thanks. I'll go look around.	อ้อ ขอบใจนะ ผมจะลองไปดูรอบ ๆ
+04-0508	talk	Wait, aren't you gonna stop in for the bad boobs and booze!?	เดี๋ยวก่อน ไม่แวะดื่มดูนมสวย ๆ หน่อยเหรอ!?
+04-0509	talk	Excuse me, can I ask you a question?	ขอโทษนะครับ ขอถามอะไรหน่อยได้ไหม?
+04-0510	talk	That jacket you're wearing... You found it, right? It actually belongs to someone else who really values it...	แจ็กเก็ตที่คุณใส่อยู่นั่น... คุณเก็บมันมาใช่ไหมครับ? จริง ๆ แล้วมันเป็นของคนอื่นที่หวงแหนมันมาก...
+04-0511	talk	That's real tragic, but it's mine now.	น่าเศร้าจริง แต่ตอนนี้มันเป็นของกูแล้ว
+04-0512	talk	Finders keepers. It was gonna end up in the dump anyway, so I'm doing my civic duty. Recycling.	เก็บได้เป็นของเก็บ ยังไงมันก็ต้องไปจบที่กองขยะอยู่ดี กูก็แค่ทำหน้าที่พลเมืองดี รีไซเคิลไง
+04-0513	talk	No, it was thrown away by mistake. It's very special to him. Please give it back?	ไม่ใช่ครับ มันถูกทิ้งไปโดยไม่ได้ตั้งใจ มันมีความหมายกับเจ้าของมากเลย ช่วยคืนให้เขาได้ไหม?
+04-0514	talk	Damn, you telling me to strip down to nothing in this weather? You telling me my life's worthless?	แม่ง มึงจะให้กูถอดจนเปลือยในอากาศ แบบนี้เหรอ? จะบอกว่าชีวิตกูไม่มีค่าเลยงั้นสิ?
+04-0515	talk	No, I didn't mean that at all...	เปล่าครับ ผมไม่ได้หมายความแบบนั้นเลย...
+04-0516	talk	It's warm, and I like it. I'm not giving it back!	มันอุ่นดี กูชอบ ไม่คืนหรอก!
+04-0517	talk	(Great... How am I going to get that guy to give it up?)	(เยี่ยมเลย... จะทำยังไงให้เขายอมคืนแจ็กเก็ตดีล่ะ?)
+04-0518	talk	All right, this look warms enough. Maybe that guy'll trade me the jacket for it.	เอาล่ะ ตัวนี้ดูอุ่นพอตัวเลย บางทีเขาอาจจะยอมแลกแจ็กเก็ตกับตัวนี้
+04-0519	talk	Hey, sir?	นี่ครับ คุณลุง?
+04-0520	talk	What, back again? I said no!	อะไรอีกวะ กลับมาอีกแล้วเหรอ? บอกแล้วไงว่าไม่!
+04-0521	talk	What do you think of this? It's warmer than that, right?	ลองดูตัวนี้สิครับ อุ่นกว่าตัวที่ใส่อยู่แน่นอน
+04-0522	talk	And you'll give it to me?	แล้วมึงจะยกให้กูเลยเหรอ?
+04-0523	talk	Yes... If you'll trade me the jacket you're wearing.	ใช่ครับ... ถ้าคุณยอมแลกกับแจ็กเก็ตตัวที่ใส่อยู่
+04-0524	talk	Sure! We have a deal!	ได้เลย! ตกลง!
+04-0525	talk	(Great, I got it back. I better report in...)	(เยี่ยม ได้คืนมาแล้ว รีบไปรายงานดีกว่า...)
+04-0526	talk	Hello? I have some good news about your jacket...	ฮัลโหล? ผมมีข่าวดีเรื่องแจ็กเก็ตของคุณ...
+04-0527	talk	I'm amazed you actually found it, Yagami-san! I had nearly lost all hope!	อึ้งไปเลยครับว่าเจอจริง ๆ ยากามิซัง! เกือบหมดหวังไปแล้วเชียว!
+04-0528	talk	Hm, but it kinda smells... Where did you find it?	อืม แต่มันเหม็นๆ นิดหน่อยนะครับ เจอที่ไหนน่ะ?
+04-0529	talk	Eh, better that you don't know. Just take it to a dry cleaner or something, okay?	เอิ่ม... ไม่รู้ไว้จะดีกว่านะ เอาไปซักแห้งก็แล้วกัน โอเคไหม?
+04-0530	talk	Hey, it's back in your hands now, and that's what matters, right? Take good care of it.	เอาเป็นว่ามันกลับมาอยู่ในมือคุณแล้ว นั่นแหละสำคัญที่สุด ดูแลมันดี ๆ ล่ะ
+04-0531	talk	And yeah, I'll never let it leave my side again! Thanks a ton!	แล้วผมจะไม่ปล่อยให้มันหลุดมือ ไปอีกแล้ว! ขอบคุณมากจริง ๆ นะครับ!
+04-0532	talk	I'm sorry, but you don't understand how important that jacket is.	ขอโทษนะครับ แต่คุณไม่รู้หรอกว่าแจ็กเก็ตตัว นั้นสำคัญกับเขาแค่ไหน
+04-0533	talk	Could you please give it back?	ช่วยคืนให้เขาได้ไหมครับ?
+04-0534	talk	I said no! I've only got one layer on under this! If I take it off, I won't survive the night!	บอกแล้วไงว่าไม่! กูใส่แค่ชั้นเดียวข้างในเสื้อตัวนี้! ถ้าถอดออกกูไม่รอดถึงเช้าแน่!
+04-0535	talk	That's probably what you want, isn't it!?	นั่นแหละสิ่งที่มึงอยากให้ เกิดขึ้นใช่ไหมล่ะ!?
+04-0536	talk	No, I'm really not trying to say that at all...	เปล่าเลยครับ ผมไม่ได้จะสื่อแบบนั้นสักนิด...
+04-0537	talk	Then go away, ya thief!	งั้นไปให้พ้น ไอ้ขโมย!
+04-0538	talk	(For crying out loud... You'd think I was asking him to jump off a bridge...)	(โธ่เอ๊ย... ทำราวกับผมขอให้เขากระโดดสะพาน ตายยังไงยังงั้น...)
+04-0539	talk	(But I think this is his way of saying he wants a replacement... I just need to find something warm.)	(แต่คิดว่านี่คงเป็นวิธีของเขา ที่จะบอกว่าอยากได้ของแลกน่ะ... แค่ต้องหาอะไรที่อุ่น ๆ มาให้)
+04-0540	talk	(That yellow wristwatch... It's gotta be my client's.)	(นาฬิกาข้อมือสีเหลืองนั่น... ต้องเป็นของลูกความผมแน่ ๆ)
+04-0541	talk	(I don't think anything else stands out...)	(คิดว่าไม่มีอะไรอื่นที่น่าสนใจแล้วละ...)
+04-0542	talk	Oh, you think we go around stealing bags 'cause we're homeless?	โอ้ คิดว่าพวกกูขโมยกระเป๋า เพราะเป็นคนไร้บ้านสินะ?
+04-0543	talk	It's a yellow bag with leather straps that got left in the bathroom.	เป็นกระเป๋าสีเหลืองมีสายหนัง ลืมไว้ในห้องน้ำครับ
+04-0544	talk	Yeah, I've seen it.	เออ กูเคยเห็นนะ
+04-0545	talk	Really!? Do you know what happened to it?	จริงเหรอ!? รู้ไหมว่ามันเป็นยังไงต่อ?
+04-0546	talk	I might, if you bring me two bento.	อาจจะรู้นะ ถ้ามึงเอาเบนโตะมาให้กูสองกล่อง
+04-0547	talk	Really? I need to bargain for this?	จริงเหรอ? ต้องต่อรองกันด้วยเนี่ยนะ?
+04-0548	talk	Heh, sorry. I'm so hungry, my memory's all foggy.	เฮอะ ขอโทษว่ะ หิวจนความจำเลอะเลือนไปหมดแล้ว
+04-0549	talk	Let's make it a tonkatsu bento. The Poppo right around the corner has 'em.	เอาเป็นเบนโตะทงคัตสึละกัน ป๊อปโปตรงหัวมุมนั่นมีขาย
+04-0550	talk	And say, let's make it two. We're both hungry, and I'm sure a full belly might jog my memory.	แล้วก็เอาสองกล่องเลยนะ พวกกูหิวกันทั้งคู่ ท้องอิ่มขึ้นมาความจำอาจจะกลับมาก็ได้
+04-0551	talk	(Well, I guess it's not too unreasonable.)	(เอาเถอะ ก็ไม่ได้เกินเหตุผลไปนัก)
+04-0552	talk	Here, two bento boxes.	นี่ครับ เบนโตะสองกล่อง
+04-0553	talk	Heh, thanks.	ฮึ ขอบใจ
+04-0554	talk	C'mon Tori, you really gonna make Yagami-san run a stupid errand for you?	เฮ้ย โทริ จะให้ยากามิซังไปวิ่งธุระโง่ ๆ แบบนี้จริง ๆ เหรอวะ?
+04-0555	talk	Yagami-san here saved my life. Don't give him the runaround like that.	ยากามิซังคนนี้เคยช่วยชีวิตผมไว้นะ อย่ามาป่วนเขาแบบนี้สิ
+04-0556	talk	Tch, fine, fine. No errands. I'll tell ya.	ชิ ก็ได้ ก็ได้ ไม่ต้องไปธุระแล้ว บอกให้ก็ได้
+04-0557	talk	Thanks, Kondo-san.	ขอบคุณครับ คนโดะซัง
+04-0558	talk	It's nothin'.	ไม่มีอะไรหรอกน่า
+04-0559	talk	So, about that bag...	เอาล่ะ เรื่องกระเป๋าใบนั้น...
+04-0560	talk	There's been a buncha kids coming around here at night, hootin' and hollerin'. They're a real headache.	มีเด็ก ๆ กลุ่มนึงมาป้วนเปี้ยนแถวนี้ตอนกลางคืน ส่งเสียงเอะอะโวยวาย น่าปวดหัวจริง ๆ
+04-0561	talk	But late the other night, they got really loud. Heard one of 'em say "Score!" and another say he'd buy the good shit.	แต่คืนก่อนพวกมันเสียงดังผิดปกติเลย ได้ยินคนนึงตะโกนว่า "เจอแล้ว!" อีกคนบอกว่าจะเอาไปขายของดี
+04-0562	talk	Anyway, they came boltin' outta the bathroom holding what looked like that bag you just described.	เอาเป็นว่าพวกมันวิ่งพรวดออก มาจากห้องน้ำ ถือของที่ดูเหมือนกระเป๋าที่มึง เพิ่งอธิบายไปนั่นแหละ
+04-0563	talk	That must be it, then. Did you get a look at the kids?	นั่นแหละต้องใช่แน่ แล้วเห็นหน้าเด็กพวกนั้นไหมครับ?
+04-0564	talk	Not really, except for the one that stood out like a douchebag.	ไม่ค่อยชัดหรอก ยกเว้นตัวที่เด่นสุดเหมือน ไอ้เวรตัวพ่อ
+04-0565	talk	He had short bleached hair, a little pube-strand moustache, and stupid-ass tinted shades.	ผมสั้นฟอกสีบลอนด์ หนวดเป็นเส้น ๆ บาง ๆ แล้วก็แว่นกันแดดสีเข้มโง่ ๆ
+04-0566	talk	They're local kids, so I'm sure they're around.	เป็นเด็กแถวนี้แหละ กูมั่นใจว่ายังวนเวียนอยู่ตรงนี้
+04-0567	talk	Great. That helps a lot. Thanks!	เยี่ยมเลย ช่วยได้เยอะมาก ขอบคุณครับ!
+04-0568	talk	(But where would I find some local punks...)	(แต่จะหาพวกอันธพาลแถวนี้ได้จาก ไหนกันนะ...)
+04-0569	talk	(Guess I better ask around. I wouldn't know where to begin.)	(คงต้องลองถามไปเรื่อย ๆ ก่อน ไม่งั้นไม่รู้จะเริ่มจากตรงไหนเลย)
+04-0570	talk	Hey, Yosuke-kun. Got a sec?	เฮ้ โยสึเกะคุง มีเวลาไหม?
+04-0571	talk	Oh, Yagami-san. You finally ready to get busy on the best titty in the city?	อ้าว ยากามิซัง ในที่สุดก็พร้อมจะไปเที่ยวร้าน นมเด็ดที่สุดในเมืองกับ ผมแล้วสินะครับ?
+04-0572	talk	Uh, no, I'm working right now. Hoping you can help me find some punks.	เอ่อ เปล่าหรอก ตอนนี้ผมทำงานอยู่ อยากให้นายช่วยหาพวกอันธพาล กลุ่มหนึ่งให้หน่อย
+04-0573	talk	Oh, sucks to be you. What kinda punks?	โอ้ โชคร้ายจัง อันธพาลแบบไหนล่ะครับ?
+04-0574	talk	The local douchebag scene, apparently. They hang out at the Children's Park a lot, I hear.	แนวขาแสบประจำถิ่นน่ะ ได้ยินว่าชอบไปแฮงเอาต์กันแถว สวนเด็กบ่อย ๆ
+04-0575	talk	One of 'em has short, blonde hair, a moustache, and colored glasses. Sound familiar?	คนนึงผมสั้นสีบลอนด์ มีหนวด แล้วก็ใส่แว่นสี คุ้น ๆ ไหม?
+04-0576	talk	Oh yeah, I know that dude.	อ๋อ รู้จักคนนั้นครับ
+04-0577	talk	Really? Any idea where he might've gone?	จริงเหรอ? พอจะรู้ไหมว่าเขาไปอยู่ที่ไหน?
+04-0578	talk	Hmm... What did he say again?	อืม... เขาพูดว่าอะไรนะ?
+04-0579	talk	Oh right! He was shouting about how he wanted to blow off some steam at the batting center.	อ๋อ ใช่! เขาตะโกนบอกว่าอยากไปปลดปล่อย ความเครียดที่ศูนย์ฝึกตีน่ะครับ
+04-0580	talk	That's in the Hotel District, right?	อยู่แถวย่านโรงแรมใช่ไหม?
+04-0581	talk	Thanks. I'll check it out.	ขอบใจนะ ผมจะไปดู
+04-0582	talk	Yeah. What's bothering me is...	ใช่ครับ สิ่งที่ผมกังวลอยู่คือ...
+04-0583	talk	Did I ever say the jacket was in the bag?	ผมเคยพูดหรือว่าแจ็กเก็ตอยู่ในกระเป๋า?
+04-0584	talk	Uh... Yes?	เอ่อ... พูดใช่ไหม?
+04-0585	talk	Oh. Okay. Maybe I did say that.	อ๋อ โอเค บางทีผมอาจพูดไปแล้วจริง ๆ
+04-0586	talk	Don't come at me with this senile shit, bro.	อย่ามาพล่ามแบบคนแก่ขี้ลืมใส่ฉันสิพวก
+04-0587	talk	(Wow, I'm losing it. I better think again.)	(โห นี่ผมเริ่มเพี้ยนแล้วเหรอเนี่ย ต้องคิดใหม่อีกที)
+04-0588	talk	I didn't say anything about the bag's color, did I?	ผมไม่เคยพูดถึงสีของกระเป๋าเลยใช่ไหม?
+04-0589	talk	(...Suspicious. Is there anything else I can use as ammo against these guys?)	(...น่าสงสัยละ มีอะไรอีกไหมที่เอามาเป็นข้อมูล จัดการพวกนี้ได้)
+04-0590	talk	(Maybe one of them is wearing something they stole...)	(บางทีคนใดคนหนึ่งในนี้อาจสวม ของที่ขโมยมาอยู่ก็ได้...)
+04-0591	talk	Hey, could I ask you a favor?	นี่ ขอผมรบกวนอะไรหน่อยได้ไหม?
+04-0592	talk	Hm, what's the matter Yagami-san?	หืม มีอะไรหรือ ยากามิซัง?
+04-0593	talk	Yeah, it's no problem. I have some warm stuff in my backup, so you can give him this.	ได้ ไม่มีปัญหา ผมมีของอุ่น ๆ เก็บสำรองไว้อยู่ เอาอันนี้ไปให้เขาได้เลย
+04-0594	talk	Of course. Anything for you, Yagami-san.	ได้อยู่แล้ว อะไรก็ได้เพื่อยากามิซังทั้งนั้น
+04-0595	talk	Wow, thanks! I think this'll be perfect!	โห ขอบคุณมาก! คิดว่าอันนี้เพอร์เฟกต์เลย!
+04-0596	talk	(That was a huge help! I'm sure he'll go for this jacket...)	(ช่วยได้เยอะเลย เชื่อว่าคนนั้นต้องยอมแลกแจ็กเก็ตแน่ ๆ...)
+04-0597	talk	I'm really curious what you did to get it back, but... I won't ask.	อยากรู้จริง ๆ ว่าคุณทำยังไงถึงเอามันกลับมาได้ แต่... ขอไม่ถามดีกว่า
+04-0598	talk	You there. You've got one hell of a swing, you know that?	นี่ นาย สวิงเจ๋งเป็นบ้าเลยนะเนี่ย รู้ตัวไหม?
+04-0599	talk	Thanks. And you are?	ขอบคุณ แล้วคุณเป็นใครเหรอ?
+04-0600	talk	Bet a guy like you could use a <font_kind=yakuza_italic>real</font_kind> batting challenge, the likes of which no one's ever seen. Am I right?	พนันได้เลยว่าคนอย่างนายต้อง อยากลองเจอความท้าทายตีลูกแบบ<font_kind=yakuza_italic>ของจริง</font_kind> ที่ไม่เคยมีใครเจอมาก่อนแน่ ๆ ใช่ไหมล่ะ?
+04-0601	talk	Well, I did clear all the previous ones like it was nobody's business.	ก็นะ ของเดิมทั้งหมดผมเคลียร์ไปแบบสบาย ๆ
+04-0602	talk	Indeed. Then, if you truly are the chosen one, perhaps— No... Forgive me. I've said too much already.	นั่นสิ ถ้านายเป็นผู้ถูกเลือกจริง ๆ บางที— ไม่... ขอโทษที พูดไปเยอะเกินแล้ว
+04-0603	talk	Just say it.	พูดมาเถอะน่า
+04-0604	talk	So be it... You see, in my darkest, loneliest hour, I devised a forbidden course for fiends with otherworldly talent... such as yourself.	ก็ได้... ความจริงคือ ในช่วงเวลาที่มืดมนและโดดเดี่ยว ที่สุดของผม ผมได้คิดค้นคอร์สต้องห้ามขึ้นมา สำหรับปีศาจที่มีพรสวรรค์เหนือโลก... อย่างนายนี่แหละ
+04-0605	talk	Problem is, I made it so difficult, no one could get in even a single hit! So I sealed it off from the rest of the world.	แต่ปัญหาคือ ผมทำให้มันยากซะจนไม่มีใครตีโดน แม้แต่ครั้งเดียว! เลยต้องปิดผนึกมันไว้ไม่ให้ใครแตะต้อง
+04-0606	talk	You... sealed it off?	นาย... ปิดผนึกมันไว้เหรอ?
+04-0607	talk	Yes... It was once known as... the Devil's Course! Not even the king of hell himself could complete it!	ใช่แล้ว... มันเคยถูกเรียกว่า... คอร์สปีศาจ! แม้แต่ราชาแห่งนรกเองก็ยัง เอาชนะมันไม่ได้!
+04-0608	talk	First titans and giants, now devils...? You sure pick some oddball names... But, I'm actually kind of intrigued.	ก่อนหน้านี้ก็ไททัน แล้วก็ยักษ์ ตอนนี้มาปีศาจอีก...? ตั้งชื่อแปลก ๆ จริงนะเนี่ย... แต่ก็นะ ผมเริ่มสนใจขึ้นมาจริง ๆ
+04-0609	talk	Excellent. Then come see me when you want to give the Devil's Course a shot. The price won't change any.	เยี่ยมไปเลย ถ้าอยากลองคอร์สปีศาจเมื่อไหร่ ก็มาหาผมนะ ราคาไม่เปลี่ยนหรอก
+04-0610	talk	I'll do that.	งั้นเดี๋ยวมาแน่นอน
+04-0611	talk	Think you're tough enough to tackle the Devil's Course? Then hand over 300 yen and pick which version you want.	คิดว่าตัวเองแข็งพอจะลุย คอร์สปีศาจไหมล่ะ? งั้นจ่ายมา 300 เยน แล้วเลือกเวอร์ชันที่อยากเล่นได้เลย
+04-0612	talk	Hm? Looks like you don't have enough on you.	หืม? ท่าทางเงินนายไม่พอนะ
+04-0613	talk	Well then. Knock 'em out the park... and into the next life.	งั้นก็... ตีให้กระเด็นออกจากสนาม... ไปสู่ภพหน้าเลยละกัน
+04-0614	talk	Is that right? Then come back whenever you feel up to the challenge.	งั้นเหรอ? ถ้าพร้อมจะลุยเมื่อไหร่ก็แวะมาใหม่นะ
+04-0615	talk	So you made it through the Home Run Hell, huh? ...Why haven't you gone pro?	งั้นนายก็ผ่านโฮมรันนรกมาได้สินะ... ทำไมไม่ไปเป็นโปรล่ะ?
+04-0616	talk	Well, I'm sure it's a whole different ballgame when you play against actual people.	ก็นะ ผมว่ามันคงคนละเรื่องเลยถ้าต้อง ไปสู้กับคนจริง ๆ
+04-0617	talk	I'm sure you'd go pretty far! Either way, swing by again soon.	ผมว่านายไปได้ไกลแน่ ๆ! ยังไงก็แวะมาใหม่นะ
+04-0618	talk	Very impressive! Just as I expected outta you. Hope to see you around more often.	สุดยอดไปเลย! สมกับที่คาดหวังไว้เป๊ะ หวังว่าจะได้เจอนายบ่อย ๆ นะ
+04-0619	talk	Whoa! Can't believe you conquered the Chaotic Challenge... So when are you joining the big leagues?	โห! ไม่อยากเชื่อว่านายเอาชนะ ชาเลนจ์อลหม่านได้... แล้วเมื่อไหร่จะไปเล่นลีกใหญ่ล่ะ?
+04-0620	talk	I think I'd rather stay a detective.	ผมว่าขอเป็นนักสืบต่อดีกว่า
+04-0621	talk	Well, you sure are pro material. But to each his own. Hope to see you around.	ก็นะ ฝีมือระดับโปรจริง ๆ แต่แล้วแต่คนชอบก็แล้วกัน หวังว่าจะได้เจอกันอีกนะ
+04-0622	talk	I guess even the likes of you would have trouble with it, huh? Well, come back and try again soon.	ดูเหมือนแม้แต่นายก็ยังเจอยาก อยู่เหมือนกันสินะ? กลับมาลองใหม่เร็ว ๆ นี้นะ
+04-0623	talk	Name's Yoshida, and I'm the manager of this here Batting Center. Pleased to meet ya.	ผมชื่อโยชิดะ เป็นผู้จัดการสนามตีลูกแห่งนี้ ยินดีที่ได้รู้จักนะ
+04-0624	talk	Oh, it's you, sir... Thank you for stopping by...	อ้อ คุณเองเหรอครับ... ขอบคุณที่แวะมานะครับ...
+04-0625	talk	Hey, what's going on? You look pretty wiped out.	เฮ้ เป็นอะไรไป ดูอิดโรยมากเลยนะ
+04-0626	talk	Oh, my apologies. It's just that lately we've had our fair share of... tiresome customers, you could say.	อ๊ะ ขอโทษด้วยครับ แค่ช่วงนี้ผมเจอลูกค้าที่... กวนใจไปหน่อยน่ะครับ
+04-0627	talk	Tiresome customers?	ลูกค้าที่กวนใจ?
+04-0628	talk	Ah, I apologize. I'm sure you don't want to hear me griping...	อ้า ขอโทษด้วยครับ คุณคงไม่อยากฟังผมบ่นหรอกเนอะ...
+04-0629	talk	Actually, I wouldn't mind hearing you out.	อันที่จริงผมไม่ว่าอะไรหรอก ลองเล่าให้ฟังดูสิ
+04-0630	talk	Very well then... I was about to say that I've been dealing with people who don't have the slightest idea how to order.	งั้นก็ได้ครับ... ผมกำลังจะบอกว่าเจอแต่คนที่ไม่ รู้เลยว่าจะสั่ง เครื่องดื่มยังไงดี
+04-0631	talk	Tell me, what do you think is the most troublesome kind of customer for a bartender?	บอกหน่อยสิครับ คุณคิดว่าลูกค้าแบบไหนที่ บาร์เทนเดอร์ปวดหัวที่สุด?
+04-0632	talk	Huh, now there's a question...	โห นี่มันคำถามเลยนะเนี่ย...
+04-0633	talk	Customers who don't order alcohol?	ลูกค้าที่ไม่สั่งเครื่องดื่ม แอลกอฮอล์เหรอ?
+04-0634	talk	Oh no, there are in fact some people who don't care much for alcohol.	อ๋อ ไม่ใช่หรอกครับ มีลูกค้าบางคนที่ไม่ค่อยชอบ เหล้าด้วยซ้ำ
+04-0635	talk	Our job is to make it enjoyable even for customers like that, so that's not really an issue.	งานของเราคือทำให้พวกเขาสนุกได้ แม้จะเป็นแบบนั้น เลยไม่ใช่ปัญหาจริง ๆ ครับ
+04-0636	talk	I see. So what would you say is the real problem?	อ๋อ เข้าใจแล้ว งั้นปัญหาจริง ๆ คืออะไรล่ะ?
+04-0637	talk	Customers who only order the cheap stuff?	ลูกค้าที่สั่งแต่ของถูก ๆ?
+04-0638	talk	Haha, the price is actually less of an issue. Our job is to simply provide the beverages our customers wish to drink.	ฮ่าๆ ราคาไม่ใช่ปัญหาเท่าไหร่หรอกครับ หน้าที่เราคือแค่เสิร์ฟ เครื่องดื่มที่ลูกค้าอยากดื่มก็ พอ
+04-0639	talk	Customers who order cocktails that are a pain in the ass to make?	ลูกค้าที่สั่งค็อกเทลที่ทำยากจนปวดหัว?
+04-0640	talk	That's actually when I get to show off my skills, so I prefer challenging situations like that.	นั่นแหละครับคือตอนที่ผมได้อวดฝีมือ ผมชอบสถานการณ์ท้าทายแบบนั้น มากกว่าด้วยซ้ำ
+04-0641	talk	Hmm... I'm running out of ideas here...	อืม... ผมนึกไม่ออกแล้วสิ...
+04-0642	talk	Customers who leave the order up to you?	ลูกค้าที่ปล่อยให้คุณเลือกสั่งเอง?
+04-0643	talk	Precisely!	ใช่เลยครับ!
+04-0644	talk	A lot of customers think they're being savvy by ordering "whatever I recommend," but in truth, it throws me off.	ลูกค้าหลายคนคิดว่าตัวเองฉลาด ที่สั่งว่า "อะไรก็ได้ที่แนะนำ" แต่จริง ๆ แล้วมันทำให้ผมงงไปเลยครับ
+04-0645	talk	Although I'm confident in each and every item on our menu, I have no idea how to tell what the customer really wants.	ถึงผมจะมั่นใจในเมนูทุกอย่างของร้าน แต่ก็ไม่รู้เลยว่าจริง ๆ แล้วลูกค้าอยากได้อะไรกันแน่
+04-0646	talk	Seeing as I'm not a mind-reader, I simply don't know what to make for them.	ในเมื่อผมไม่ใช่คนอ่านใจคนได้ ก็เลยไม่รู้จะทำอะไรให้พวกเขาดี
+04-0647	talk	I can see how that might end up giving you a headache. For instance, what if the customer refuses to drink it?	พอเข้าใจว่าทำไมถึงปวดหัวได้เลย อย่างเช่นถ้าลูกค้าไม่ยอมดื่มล่ะ?
+04-0648	talk	That, or it might not suit their taste. That's why I'd appreciate a little more information on orders like those.	หรือไม่ก็อาจไม่ถูกปากพวกเขา นั่นแหละครับที่ทำให้ผมอยากได้ ข้อมูลเพิ่มอีกหน่อยเวลา สั่งแบบนั้น
+04-0649	talk	I see. I guess it's better to put a little more effort into getting to know the bartender, huh?	อ๋อ เข้าใจแล้ว งั้นลูกค้าควรพยายาม ทำความรู้จักบาร์เทนเดอร์ให้ มากขึ้นหน่อยสินะ?
+04-0650	talk	Indeed. It's different for regular customers, since I already know their preferences.	ใช่เลยครับ สำหรับลูกค้าประจำจะต่างออกไป เพราะผมรู้รสนิยมของพวกเขาอยู่แล้ว
+04-0651	talk	Then I'd better stop by more often so you know what to get for me.	งั้นผมคงต้องแวะมาบ่อย ๆ หน่อย จะได้รู้ว่าต้องเตรียมอะไรให้ผม
+04-0652	talk	Ah, please do! Would you like me to get something started?	อ้า เชิญเลยครับ! อยากให้ผมเริ่มทำอะไรให้ไหมครับ?
+04-0653	talk	Geez, why couldn't he just make the damn drink?	โธ่ ทำไมไม่ยอมทำเครื่องดื่มซะทีเนี่ย
+04-0654	talk	I know, right? I heard this was one of the oldest existing bars in Kamurocho, too. Guess we expected too much, babe.	ใช่เลย ได้ยินมาว่าที่นี่เป็นบาร์ เก่าแก่ที่สุดแห่งหนึ่ง ในคามุโรโจด้วยนะ คงหวังไว้สูงเกินไปมั้ง ที่รัก
+04-0655	talk	Ugh, what they did was "set the bar" too low! I wanna do something else!	แหมะ ร้านนี้มาตรฐานต่ำชะมัด! อยากไปทำอย่างอื่นแล้ว!
+04-0656	talk	You wanna go bowling, then?	งั้นไปโบว์ลิ่งกันไหมล่ะ?
+04-0657	talk	Hmm... Fine, whatever, let's just go!	อืม... ก็ได้ ไปกันเถอะ!
+04-0658	talk	(Looks like something went down at Bantam... Wonder what happened.)	(ท่าทางมีอะไรเกิดขึ้นที่แบนตัมนะ... สงสัยจังว่าเกิดอะไรขึ้น)
+04-0659	talk	Hey there. Everything okay, chief?	เฮ้ เป็นไรไปไหม หัวหน้า?
+04-0660	talk	*sigh* Just another tiresome customer.	*ถอนหายใจ* ก็แค่ลูกค้ากวนใจอีกคนน่ะครับ
+04-0661	talk	Did they leave their order up to you again?	คราวนี้ก็ปล่อยให้คุณเลือกสั่ง เองอีกเหรอ?
+04-0662	talk	No, this time they ordered a cocktail.	ไม่ครับ คราวนี้พวกเขาสั่งค็อกเทลมา
+04-0663	talk	And that's a problem?	แล้วมันเป็นปัญหายังไง?
+04-0664	talk	Well, it can be. Care to take a guess as to why?	ก็อาจจะครับ อยากลองเดาดูไหมว่าทำไม?
+04-0665	talk	(A troublesome cocktail, huh... What could that be?)	(ค็อกเทลปัญหาสินะ... จะเป็นอะไรไปได้นะ?)
+04-0666	talk	A cocktail that's a real hassle to make?	ค็อกเทลที่ทำยากมาก ๆ?
+04-0667	talk	Oh no. I'll craft any standard cocktail there is in no time flat.	เปล่าเลยครับ ค็อกเทลมาตรฐานทุกแบบผมทำได้ในพริบตา
+04-0668	talk	Okay, then...	โอเค งั้น...
+04-0669	talk	You didn't have the right ingredients?	ไม่มีวัตถุดิบที่ต้องใช้เหรอ?
+04-0670	talk	Our selection is the best in Kamurocho. We've never encountered such a thing.	วัตถุดิบของร้านเราดีที่สุดในคามุโรโจ ไม่เคยเจอปัญหาแบบนั้นเลยครับ
+04-0671	talk	So that's not it. I wonder what it is...	งั้นก็ไม่ใช่เรื่องนั้น สงสัยจังว่าคืออะไร...
+04-0672	talk	They ordered a cocktail you didn't know how to make?	พวกเขาสั่งค็อกเทลที่คุณทำไม่เป็นเหรอ?
+04-0673	talk	Even if I didn't know to make it, I would look it up in a cocktail book and whip up a bona fide masterpiece.	ถึงจะทำไม่เป็น ผมก็หาในตำราค็อกเทลแล้ว รังสรรค์มาสเตอร์พีซตัวจริงได้ อยู่ดีครับ
+04-0674	talk	They tried to order an original cocktail\nfrom a different bar?	พวกเขาลองสั่งค็อกเทลต้นตำรับ\nจากบาร์อื่นเหรอ?
+04-0675	talk	Precisely.	ใช่เลยครับ
+04-0676	talk	The problem is, if another bar invented it, it's not\nexactly in my wheelhouse, you know?	ปัญหาคือ ถ้าเป็นสูตรของบาร์อื่น\nมันก็ไม่ใช่ทางถนัดของผมเท่าไหร่ครับ
+04-0677	talk	Seriously. How would you even know how to make it?	จริงด้วย แล้วจะไปรู้ได้ยังไงว่าต้องทำยังไง?
+04-0678	talk	When I first got the order, I looked it up in the back room because I'd never heard of it before...	ตอนแรกที่ได้ออร์เดอร์มา ผมไปค้นในห้องเก็บของเพราะไม่ เคยได้ยินชื่อนี้มาก่อนเลย...
+04-0679	talk	I couldn't find it at all, so then I asked the customer. And wouldn't you know it, they told me it was from another bar.	หาเท่าไหร่ก็ไม่เจอ เลยไปถามลูกค้าดู แล้วก็อย่างที่คิด พวกเขาบอกว่ามันเป็นสูตรจากบาร์อื่น
+04-0680	talk	I at least wanted to try to make it, so I asked them for the recipe. But they had no idea whatsoever.	อย่างน้อยผมก็อยากลองทำดู เลยขอสูตรจากพวกเขา แต่พวกเขาก็ไม่รู้อะไรเลยสักนิด
+04-0681	talk	...Yeesh, what a waste.	...โห น่าเสียดายจริง ๆ
+04-0682	talk	Unfortunately, at that point, there was nothing I could do.	โชคไม่ดีที่ถึงจุดนั้นแล้วผมก็ ทำอะไรไม่ได้เลยครับ
+04-0683	talk	I understand. It should be common sense to not do something like that.	เข้าใจแล้ว มันน่าจะเป็นสามัญสำนึกที่ไม่ ควรทำแบบนั้นตั้งแต่แรก
+04-0684	talk	Haha, well I'm glad you think so.	ฮ่าๆ ดีใจที่คุณคิดแบบนั้นเหมือนกันครับ
+04-0685	talk	By the way, does Bantam have their own original drink?	ว่าแต่ แบนตัมมีเครื่องดื่มซิกเนเจอร์ ของตัวเองไหม?
+04-0686	talk	We actually do not, but would you like me to prepare one on your behalf?	จริง ๆ แล้วยังไม่มีครับ แต่อยากให้ผมคิดสูตรพิเศษให้คุณไหมล่ะ?
+04-0687	talk	Yes, I'll make it especially for you since I see you around so often. All you need to do is say the word.	ครับ ผมจะทำให้คุณโดยเฉพาะเลย เพราะคุณแวะมาบ่อยขนาดนี้ แค่บอกมาคำเดียวพอครับ
+04-0688	talk	Hey, do you have a minute?	เฮ้ พอมีเวลาไหม?
+04-0689	talk	Oh, were you talking to me?	อ้าว คุณพูดกับผมเหรอ?
+04-0690	talk	Yeah. I'm Sebastian Hutton...	ใช่ ผมชื่อเซบาสเตียน ฮัตตัน...
+04-0691	talk	Also known as the world champion of drone racing!	หรือที่รู้จักกันในนาม แชมป์โลกแข่งโดรน!
+04-0692	talk	Whoa, the world champ, huh... What brings you to Kamurocho?	โห แชมป์โลกเลยเหรอ... มาทำอะไรที่คามุโรโจล่ะ?
+04-0693	talk	Why, my sweet honey pie, of course! She lives here.	ก็เพื่อที่รักสุดหวานของผมไงล่ะ! เธออาศัยอยู่ที่นี่
+04-0694	talk	Sweet honey— Oh, you mean your girlfriend. She's Japanese?	ที่รักสุดหวาน— อ๋อ หมายถึงแฟนสาวคุณสินะ เธอเป็นคนญี่ปุ่นเหรอ?
+04-0695	talk	Yep. Thanks to her, I'm fluent in the language now.	ใช่แล้ว เพราะเธอนี่แหละ ตอนนี้ผมพูดภาษานี้คล่องเลย
+04-0696	talk	I see. So, did you have some kind of business with me, or...	อ๋อ เข้าใจแล้ว งั้นคุณมีธุระอะไรกับผมหรือเปล่า...
+04-0697	talk	Well, I heard they were holding a great big drone race here in Kamurocho, so I came to check it out.	ก็คือ ผมได้ยินมาว่าที่นี่มีจัดแข่ง โดรนใหญ่โต เลยแวะมาดูหน่อย
+04-0698	talk	And every racer I've seen so far is nothing short of incredible... Particularly yourself!	แล้วนักแข่งทุกคนที่เจอมาก็ สุดยอดกันทั้งนั้น... โดยเฉพาะคุณเลย!
+04-0699	talk	So I was hoping we could talk for a bit. Mind if I got your name?	เลยอยากคุยด้วยสักหน่อย ขอชื่อคุณได้ไหม?
+04-0700	talk	Takayuki Yagami... Okay, then I'm gonna call you "Taka"!	ทาคายูกิ ยากามิ... โอเค งั้นผมขอเรียกคุณว่า "ทากะ" ละกัน!
+04-0701	talk	Taka, you're practically a demon at drone racing!	ทากะ คุณนี่แทบจะเป็นปีศาจแข่งโดรนเลยนะ!
+04-0702	talk	Thanks. That means a lot coming from the world champion.	ขอบคุณ คำชมจากแชมป์โลกมีความหมายมากเลย
+04-0703	talk	But I must say, your parts aren't really that good. You should consider upgrading.	แต่ต้องบอกไว้ก่อนนะ ชิ้นส่วนของคุณยังไม่ค่อยดีเท่าไหร่ ควรพิจารณาอัปเกรดหน่อยนะ
+04-0704	talk	Is that right? I mean, you are the world champ, so... it makes perfect sense that my parts would pale in comparison.	งั้นเหรอ? ก็คุณเป็นแชมป์โลกนี่นา... เข้าใจได้ว่าชิ้นส่วนของผมจะดู ด้อยไปเลย
+04-0705	talk	Then why don't I give you the inside scoop on how to build the best machine possible? I'm talking the parts I use.	งั้นให้ผมบอกเคล็ดลับการสร้าง เครื่องที่ดีที่สุดให้คุณดีไหม? พูดถึงชิ้นส่วนที่ผมใช้เองเลยนะ
+04-0706	talk	Really? You'd do that?	จริงเหรอ? คุณจะทำแบบนั้นให้ผมเหรอ?
+04-0707	talk	Of course! A superb racer like you should use a machine that matches his skill.	แน่นอน! นักแข่งฝีมือเยี่ยมอย่างคุณควร ใช้เครื่องที่สมกับฝีมือสิ
+04-0708	talk	Wow... I'll be using a world-class drone, personally recommended by the world champ himself.	ว้าว... ผมกำลังจะได้ใช้โดรนระดับโลกที่ แชมป์โลกตัวจริงแนะนำ ให้เองเลยเนี่ย
+04-0709	talk	However, I'll help you on one condition. I've devised a... test, of sorts, to see if you're worthy of using my build.	แต่ผมจะช่วยคุณโดยมีเงื่อนไขข้อเดียว ผมคิดค้น... บททดสอบขึ้นมาสักอย่าง เพื่อดูว่าคุณคู่ควรจะใช้ เครื่องของผมไหม
+04-0710	talk	What kind of test?	บททดสอบแบบไหนล่ะ?
+04-0711	talk	Well, I've hidden specific "build codes" all across the city...	ก็คือ ผมซ่อน "โค้ดชิ้นส่วน" ไว้ทั่วเมือง...
+04-0712	talk	And you'll be using your drone to find 'em.	แล้วคุณต้องใช้โดรนของคุณตามหา มันให้เจอ
+04-0713	talk	I see. Kind of like a scavenger hunt.	อ๋อ เหมือนเกมล่าสมบัติเลยสินะ
+04-0714	talk	Yes, all you need to do is fly your drone around and take pictures of whatever build codes you find.	ใช่แล้ว แค่บินโดรนไปทั่ว แล้วถ่ายรูปโค้ดชิ้นส่วนที่เจอก็พอ
+04-0715	talk	Sounds easy enough.	ฟังดูง่ายดี
+04-0716	talk	That's right. Oh yeah, and there's a total of ten build codes per part.	ใช่เลย อ้อ แล้วก็แต่ละชิ้นส่วนมีโค้ด ทั้งหมดสิบชุดนะ
+04-0717	talk	Come talk to me when you find ten codes for a given part. Then I'll give you the rundown on how to build it.	พอเจอครบสิบโค้ดของชิ้นส่วนไหน แล้วมาบอกผม เดี๋ยวผมจะสรุปวิธีสร้างให้ฟัง
+04-0718	talk	Got it. As soon as I complete a build code, you'll be the first to know.	ได้เลย พอเก็บโค้ดครบชุดไหนก่อน จะรีบมาบอกคุณเป็นคนแรก
+04-0719	talk	Great! Good luck out there, Taka!	เยี่ยม! โชคดีนะ ทากะ!
+04-0720	talk	(Not everyone gets to fly like the world champion of drones...)	(ไม่ใช่ทุกคนที่จะได้บินเหมือน แชมป์โลกแข่งโดรนหรอกนะ...)
+04-0721	talk	(Time for liftoff... Build codes, here I come!)	(ได้เวลาบินขึ้นแล้ว... โค้ดชิ้นส่วนทั้งหลาย รอผมอยู่นะ!)
+04-0722	talk	Good job, Taka!	เก่งมาก ทากะ!
+04-0723	talk	I'm impressed you got all the frame codes.	ทึ่งเลยที่คุณเก็บโค้ดเฟรมครบหมด
+04-0724	talk	As promised, I'll give you all the deets on how to build the new parts.	ตามสัญญา ผมจะบอกรายละเอียดวิธีสร้าง ชิ้นส่วนใหม่ให้ครบเลย
+04-0725	talk	I appreciate that, Hutton-san.	ขอบคุณมากนะ ฮัตตันซัง
+04-0726	talk	You bet!	ด้วยความยินดี!
+04-0727	talk	I'm impressed you got all the motor codes.	ทึ่งเลยที่คุณเก็บโค้ดมอเตอร์ครบหมด
+04-0728	talk	I'm impressed you got all the propeller codes.	ทึ่งเลยที่คุณเก็บโค้ดใบพัดครบหมด
+04-0729	talk	I'm impressed you got all the turbo codes.	ทึ่งเลยที่คุณเก็บโค้ดเทอร์โบครบหมด
+04-0730	talk	I'm impressed you got all the ESC codes.	ทึ่งเลยที่คุณเก็บโค้ด ESC ครบหมด
+04-0731	talk	Hey, Taka! Happy hunting so far? I can tell you how many build codes are still out there, if you'd like.	เฮ้ ทากะ! ล่าโค้ดไปเป็นไงบ้าง? ถ้าอยากรู้ ผมบอกได้นะว่าเหลือโค้ดอีกเท่าไหร่
+04-0732	talk	As for frames, you have... <color=red>10</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>10</color> โค้ด
+04-0733	talk	As for frames, you have... <color=red>9</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>9</color> โค้ด
+04-0734	talk	As for frames, you have... <color=red>8</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>8</color> โค้ด
+04-0735	talk	As for frames, you have... <color=red>7</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>7</color> โค้ด
+04-0736	talk	As for frames, you have... <color=red>6</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>6</color> โค้ด
+04-0737	talk	As for frames, you have... <color=red>5</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>5</color> โค้ด
+04-0738	talk	As for frames, you have... <color=red>4</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>4</color> โค้ด
+04-0739	talk	As for frames, you have... <color=red>3</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>3</color> โค้ด
+04-0740	talk	As for frames, you have... <color=red>2</color> more codes to go.	เรื่องเฟรม เหลืออีก... <color=red>2</color> โค้ด
+04-0741	talk	As for frames, you have... <color=red>1</color> more code to go.	เรื่องเฟรม เหลืออีก... <color=red>1</color> โค้ด
+04-0742	talk	You've already found all the frame codes.	เก็บโค้ดเฟรมครบหมดแล้ว
+04-0743	talk	As for motors, you have... <color=red>10</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>10</color> โค้ด
+04-0744	talk	As for motors, you have... <color=red>9</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>9</color> โค้ด
+04-0745	talk	As for motors, you have... <color=red>8</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>8</color> โค้ด
+04-0746	talk	As for motors, you have... <color=red>7</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>7</color> โค้ด
+04-0747	talk	As for motors, you have... <color=red>6</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>6</color> โค้ด
+04-0748	talk	Nice going, Taka! You managed to find all the build codes!	เก่งมาก ทากะ! คุณเก็บโค้ดชิ้นส่วนได้ครบหมดเลย!
+04-0749	talk	Why not hit up the drone lab and get those parts developed?	ลองไปที่แล็บโดรนแล้วพัฒนา ชิ้นส่วนพวกนั้นดูสิ
+04-0750	talk	Sounds good. That was a refreshing challenge, Hutton-san.	ได้เลย เป็นความท้าทายที่สดชื่นดีนะ ฮัตตันซัง
+04-0751	talk	What can I say, good racers need good parts. That's all there is to it.	จะว่าไงได้ นักแข่งเก่ง ๆ ก็ต้องมีชิ้นส่วนดี ๆ แค่นั้นแหละ
+04-0752	talk	Looks like my job here is finished! Now if you'll excuse me, my sweet honey pie needs some tender Hutton lovin'!	ดูเหมือนงานของผมที่นี่จะจบแล้ว! ขอตัวไปหาที่รักสุดหวานของผมก่อนนะ เธอต้องการความรักแบบฮัตตันสุด อ่อนโยนแล้ว!
+04-0753	talk	Oh, but first! I have to ask: do you know any good ramen spots in town?	อ๊ะ แต่ก่อนอื่น! ขอถามหน่อย รู้จักร้านราเมงดี ๆ แถวนี้บ้างไหม?
+04-0754	talk	My honey pie's a fiend for those noodles.	ที่รักสุดหวานของผมคลั่งไคล้ เส้นราเมงมาก
+04-0755	talk	If we're talking Kamurocho here... Kyushu No. 1 Star's probably your best bet.	ถ้าพูดถึงคามุโรโจ... คิวชูนัมเบอร์วันสตาร์น่าจะเป็น ตัวเลือกที่ดีที่สุด
+04-0756	talk	Kyushu No. 1 Star? Okay, then that's where we'll go!	คิวชูนัมเบอร์วันสตาร์เหรอ? โอเค งั้นไปที่นั่นกันเลย!
+04-0757	talk	Heh, you two enjoy yourselves. Take care now.	เฮอะ ขอให้สองคนสนุกกันนะ ดูแลตัวเองด้วยล่ะ
+04-0758	talk	See you around, Taka! Goodbye!	แล้วเจอกันนะ ทากะ! บาย!
+04-0759	talk	Taka! Dude, I had no idea ramen could be so delicious! My honey pie said the same thing.	ทากะ! เพื่อนเอ๊ย ไม่นึกว่าราเมงจะอร่อยได้ขนาดนี้! ที่รักสุดหวานของผมก็บอกแบบ เดียวกันเลย
+04-0760	talk	In fact, it was so good that I came here again by myself! Hahaha!	อร่อยจนผมต้องแอบมากินคนเดียวอี กรอบเลยละ! ฮ่าฮ่าฮ่า!
+04-0761	talk	As for motors, you have... <color=red>5</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>5</color> โค้ด
+04-0762	talk	As for motors, you have... <color=red>4</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>4</color> โค้ด
+04-0763	talk	As for motors, you have... <color=red>3</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>3</color> โค้ด
+04-0764	talk	As for motors, you have... <color=red>2</color> more codes to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>2</color> โค้ด
+04-0765	talk	As for motors, you have... <color=red>1</color> more code to go.	เรื่องมอเตอร์ เหลืออีก... <color=red>1</color> โค้ด
+04-0766	talk	You've already found all the motor codes.	เก็บโค้ดมอเตอร์ครบหมดแล้ว
+04-0767	talk	As for propellers, you have... <color=red>10</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>10</color> โค้ด
+04-0768	talk	As for propellers, you have... <color=red>9</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>9</color> โค้ด
+04-0769	talk	As for propellers, you have... <color=red>8</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>8</color> โค้ด
+04-0770	talk	As for propellers, you have... <color=red>7</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>7</color> โค้ด
+04-0771	talk	As for propellers, you have... <color=red>6</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>6</color> โค้ด
+04-0772	talk	As for propellers, you have... <color=red>5</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>5</color> โค้ด
+04-0773	talk	As for propellers, you have... <color=red>4</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>4</color> โค้ด
+04-0774	talk	As for propellers, you have... <color=red>3</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>3</color> โค้ด
+04-0775	talk	As for propellers, you have... <color=red>2</color> more codes to go.	เรื่องใบพัด เหลืออีก... <color=red>2</color> โค้ด
+04-0776	talk	As for propellers, you have... <color=red>1</color> more code to go.	เรื่องใบพัด เหลืออีก... <color=red>1</color> โค้ด
+04-0777	talk	You've already found all the propeller codes.	เก็บโค้ดใบพัดครบหมดแล้ว
+04-0778	talk	As for turbos, you have... <color=red>10</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>10</color> โค้ด
+04-0779	talk	As for turbos, you have... <color=red>9</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>9</color> โค้ด
+04-0780	talk	As for turbos, you have... <color=red>8</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>8</color> โค้ด
+04-0781	talk	As for turbos, you have... <color=red>7</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>7</color> โค้ด
+04-0782	talk	As for turbos, you have... <color=red>6</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>6</color> โค้ด
+04-0783	talk	As for turbos, you have... <color=red>5</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>5</color> โค้ด
+04-0784	talk	As for turbos, you have... <color=red>4</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>4</color> โค้ด
+04-0785	talk	As for turbos, you have... <color=red>3</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>3</color> โค้ด
+04-0786	talk	As for turbos, you have... <color=red>2</color> more codes to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>2</color> โค้ด
+04-0787	talk	As for turbos, you have... <color=red>1</color> more code to go.	เรื่องเทอร์โบ เหลืออีก... <color=red>1</color> โค้ด
+04-0788	talk	You've already found all the turbo codes.	เก็บโค้ดเทอร์โบครบหมดแล้ว
+04-0789	talk	As for ESCs, you have... <color=red>10</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>10</color> โค้ด
+04-0790	talk	As for ESCs, you have... <color=red>9</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>9</color> โค้ด
+04-0791	talk	As for ESCs, you have... <color=red>8</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>8</color> โค้ด
+04-0792	talk	As for ESCs, you have... <color=red>7</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>7</color> โค้ด
+04-0793	talk	As for ESCs, you have... <color=red>6</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>6</color> โค้ด
+04-0794	talk	As for ESCs, you have... <color=red>5</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>5</color> โค้ด
+04-0795	talk	As for ESCs, you have... <color=red>4</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>4</color> โค้ด
+04-0796	talk	As for ESCs, you have... <color=red>3</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>3</color> โค้ด
+04-0797	talk	As for ESCs, you have... <color=red>2</color> more codes to go.	เรื่อง ESC เหลืออีก... <color=red>2</color> โค้ด
+04-0798	talk	As for ESCs, you have... <color=red>1</color> more code to go.	เรื่อง ESC เหลืออีก... <color=red>1</color> โค้ด
+04-0799	talk	You've already found all the ESC codes.	เก็บโค้ด ESC ครบหมดแล้ว
+04-0800	talk	Once you find 10 build codes of any given part, I'll tell you how to build it.	พอเจอโค้ดครบสิบชุดของชิ้นส่วนไหน ผมจะบอกวิธีสร้างให้
+04-0801	talk	Happy hunting!	ล่าให้สนุกนะ!
+04-0802	talk	All right, I got the photo. Only 9 more frame codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 9
+04-0803	talk	All right, I got the photo. Only 8 more frame codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 8
+04-0804	talk	All right, I got the photo. Only 7 more frame codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 7
+04-0805	talk	All right, I got the photo. Only 6 more frame codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 6
+04-0806	talk	All right, I got the photo. Only 5 more frame codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 5
+04-0807	talk	All right, I got the photo. Only 4 more frame codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 4
+04-0808	talk	All right, I got the photo. Only 3 more frame codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 3
+04-0809	talk	All right, I got the photo. Only 2 more frame codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 2
+04-0810	talk	All right, I got the photo. Only 1 more frame code left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเฟรมอีก 1
+04-0811	talk	(...And that's the last of the frame codes.\nBetter report back to Hutton.)	(...นี่คือโค้ดเฟรมชิ้นสุดท้ายแล้ว\nกลับไปรายงานฮัตตันดีกว่า)
+04-0812	talk	All right, I got the photo. Only 9 more motor codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 9
+04-0813	talk	All right, I got the photo. Only 8 more motor codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 8
+04-0814	talk	All right, I got the photo. Only 7 more motor codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 7
+04-0815	talk	All right, I got the photo. Only 6 more motor codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 6
+04-0816	talk	All right, I got the photo. Only 5 more motor codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 5
+04-0817	talk	All right, I got the photo. Only 4 more motor codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 4
+04-0818	talk	All right, I got the photo. Only 3 more motor codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 3
+04-0819	talk	All right, I got the photo. Only 2 more motor codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 2
+04-0820	talk	All right, I got the photo. Only 1 more motor code left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดมอเตอร์อีก 1
+04-0821	talk	(...And that's the last of the motor codes.\nBetter report back to Hutton.)	(...นี่คือโค้ดมอเตอร์ชิ้นสุดท้ายแล้ว\nกลับไปรายงานฮัตตันดีกว่า)
+04-0822	talk	All right, I got the photo. Only 9 more turbo codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 9
+04-0823	talk	All right, I got the photo. Only 8 more turbo codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 8
+04-0824	talk	All right, I got the photo. Only 7 more turbo codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 7
+04-0825	talk	All right, I got the photo. Only 6 more turbo codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 6
+04-0826	talk	All right, I got the photo. Only 5 more turbo codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 5
+04-0827	talk	All right, I got the photo. Only 4 more turbo codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 4
+04-0828	talk	All right, I got the photo. Only 3 more turbo codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 3
+04-0829	talk	All right, I got the photo. Only 2 more turbo codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 2
+04-0830	talk	All right, I got the photo. Only 1 more turbo code left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดเทอร์โบอีก 1
+04-0831	talk	(...And that's the last of the turbo codes.\nBetter report back to Hutton.)	(...นี่คือโค้ดเทอร์โบชิ้นสุดท้ายแล้ว\nกลับไปรายงานฮัตตันดีกว่า)
+04-0832	talk	All right, I got the photo. Only 9 more propeller codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดใบพัดอีก 9
+04-0833	talk	All right, I got the photo. Only 8 more propeller codes left.	โอเค ถ่ายรูปได้แล้ว เหลือโค้ดใบพัดอีก 8
+04-0834	talk	All right, I got the photo. Only 7 more propeller codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ดใบพัดอีก 7 อัน
+04-0835	talk	All right, I got the photo. Only 6 more propeller codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ดใบพัดอีก 6 อัน
+04-0836	talk	All right, I got the photo. Only 5 more propeller codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ดใบพัดอีก 5 อัน
+04-0837	talk	All right, I got the photo. Only 4 more propeller codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ดใบพัดอีก 4 อัน
+04-0838	talk	All right, I got the photo. Only 3 more propeller codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ดใบพัดอีก 3 อัน
+04-0839	talk	All right, I got the photo. Only 2 more propeller codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ดใบพัดอีก 2 อัน
+04-0840	talk	All right, I got the photo. Only 1 more propeller code left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ดใบพัดอีก 1 อัน
+04-0841	talk	(...And that's the last of the propeller codes.\nBetter report back to Hutton.)	(...นั่นคือโค้ดใบพัดอันสุดท้ายแล้ว\nรีบไปรายงานฮัตตันดีกว่า)
+04-0842	talk	All right, I got the photo. Only 9 more ESC codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 9 อัน
+04-0843	talk	All right, I got the photo. Only 8 more ESC codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 8 อัน
+04-0844	talk	All right, I got the photo. Only 7 more ESC codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 7 อัน
+04-0845	talk	All right, I got the photo. Only 6 more ESC codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 6 อัน
+04-0846	talk	All right, I got the photo. Only 5 more ESC codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 5 อัน
+04-0847	talk	All right, I got the photo. Only 4 more ESC codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 4 อัน
+04-0848	talk	All right, I got the photo. Only 3 more ESC codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 3 อัน
+04-0849	talk	All right, I got the photo. Only 2 more ESC codes left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 2 อัน
+04-0850	talk	All right, I got the photo. Only 1 more ESC code left.	เรียบร้อย ได้รูปแล้ว เหลือโค้ด ESC อีก 1 อัน
+04-0851	talk	(...And that's the last of the ESC codes.\nBetter report back to Hutton.)	(...นั่นคือโค้ด ESC อันสุดท้ายแล้ว\nรีบไปรายงานฮัตตันดีกว่า)
+04-0852	talk	E-Excuse me, but may I have a moment of your time!?	ข-ขอโทษนะครับ ขอเวลาสักครู่ได้ไหมครับ!?
+04-0853	talk	Uh, sure?	เอ่อ ได้สิ?
+04-0854	talk	Okay! I'm, uh, Takeo Inose, the manager of the Wild Jackson in which you have just eaten!	โอเค! ผม เอ่อ ทาเคโอะ อิโนเสะ ผู้จัดการร้านไวลด์แจ็คสันที่ คุณเพิ่งกินมาครับ!
+04-0855	talk	Look, I'm in a terrible bind here... If you would be so kind as to share your thoughts on how to improve our restaurant...	คือว่า... ตอนนี้ผมกำลังเดือดร้อนหนักมากครับ... ถ้าคุณกรุณาบอกความเห็นเรื่อง วิธีปรับปรุงร้านของเรา ได้ก็จะขอบคุณมากเลยครับ...
+04-0856	talk	I would be forever in your debt!	ผมจะติดหนี้บุญคุณไปตลอดชีวิตเลยครับ!
+04-0857	talk	(This guy looks like he's about to have a meltdown. Maybe talking to him will help calm him down.)	(ท่าทางเขาใกล้จะเครียดจนพังแล้ว คุยด้วยอาจช่วยให้เขาใจเย็นลงได้บ้าง)
+04-0858	talk	I guess I could share a few thoughts.	ก็ได้ ผมพอจะมีความเห็นอยู่บ้าง
+04-0859	talk	Oh, you're a godsend! So, what advice can you give me?	โอ้ คุณคือพระเจ้าช่วยเลยครับ! แล้วคุณจะแนะนำอะไรให้ผมได้บ้าง?
+04-0860	talk	You're looking to make it better? I mean, I already enjoy the food. Are you not making enough profit or something?	อยากทำให้ร้านดีขึ้นเหรอ? คือผมก็ชอบรสชาติร้านนี้อยู่แล้วนะ กำไรไม่พอหรือไง?
+04-0861	talk	Yes, lately we've been hit hard by our rival, Wette Kitchen. Our profits have been tanking.	ใช่ครับ ช่วงนี้เราโดนคู่แข่งอย่าง Wette Kitchen บุกหนักมาก กำไรร่วงรูดเลย
+04-0862	talk	And with sales as low as these, corporate's been dangling the idea of termination over my head unless I turn things around...	แล้วพอยอดขายต่ำแบบนี้ ทางบริษัทก็ขู่จะปิดร้านถ้าผม พลิกสถานการณ์ไม่ได้...
+04-0863	talk	Ouch. I had no idea things were that bad.	โอ้โห ไม่รู้เลยว่าสถานการณ์แย่ขนาดนี้
+04-0864	talk	...I guess you didn't need to hear all that. Sorry to trouble you.	...เรื่องพวกนี้ไม่จำเป็นต้องเล่า ให้คุณฟังก็ได้นะครับ ขอโทษที่รบกวนครับ
+04-0865	talk	Well, now I understand why you're worried.	อืม ตอนนี้ผมเข้าใจแล้วว่าทำไมคุณถึงกังวล
+04-0866	talk	Anyway. Is there anything in particular you wanted feedback on?	เอาเป็นว่า มีอะไรเจาะจงที่อยากให้ผม ออกความเห็นเป็นพิเศษไหม?
+04-0867	talk	Ah, yes! I was hoping to present some potential improvements to our store, and possibly the rest of the chain.	อ๋อ ใช่ครับ! ผมอยากเสนอแนวทางปรับปรุงร้านนี้ แล้วก็อาจจะรวมถึงทั้งเชนด้วยครับ
+04-0868	talk	Tell me, is there anything about Wild Jackson that strikes you as mediocre, or perhaps even unappealing?	บอกผมหน่อยได้ไหมครับ มีอะไรในไวลด์แจ็คสันที่คุณ รู้สึกว่าธรรมดา หรือไม่น่าดึงดูดบ้าง?
+04-0869	talk	Hmm... It's pretty tough to say. I can't really think of anything specific.	อืม... ตอบยากเหมือนกันนะ นึกอะไรเจาะจงไม่ออกเลย
+04-0870	talk	Maybe you should ask a customer who hasn't been here in a while? Or someone who doesn't eat here anymore period?	ลองไปถามลูกค้าที่ไม่ได้มาร้าน นี้นานแล้วดูไหม? หรือคนที่เลิกมากินร้านนี้ไปเลยก็ได้
+04-0871	talk	That would be ideal...	นั่นแหละดีที่สุดเลยครับ...
+04-0872	talk	But how would I even begin looking for someone like that?	แต่ผมจะเริ่มหาคนแบบนั้นได้ ยังไงล่ะครับ?
+04-0873	talk	(Come to think of it, I do remember seeing something about Wild Jackson while scrolling through Chatter a while back.)	(พอคิดดูแล้ว จำได้ว่าเคยเห็นอะไรเกี่ยวกับ ไวลด์แจ็คสันตอนไถ Chatter เมื่อสักพักก่อน)
+04-0874	talk	(I imagine if there were any complaints online, they'd be on social media. Maybe we can use those as clues to turn this place around.)	(ถ้ามีคนบ่นออนไลน์ ก็คงอยู่ในโซเชียลมีเดียนี่แหละ เอามาเป็นเบาะแสช่วยพลิกร้านนี้ ได้มั้ง)
+04-0875	talk	(Besides, I already have a lead, so I may as well lend a hand. Seems like this guy's got it pretty rough as it is.)	(อีกอย่าง ผมมีเบาะแสอยู่แล้ว ช่วยหน่อยก็ไม่เสียหาย ดูท่าเขาจะลำบากอยู่ไม่น้อย)
+04-0876	talk	I have an idea, Inose-san. One of my friends is really good at finding things on social media. Why don't we start there?	ผมมีไอเดียครับ อิโนเสะซัง เพื่อนผมคนหนึ่งเก่งเรื่องค้นหา ข้อมูลในโซเชียลมีเดียมาก ลองเริ่มจากตรงนั้นดีไหมครับ?
+04-0877	talk	Huh!? You're... really gonna help me out?	หา!? คุณ... จะช่วยผมจริงๆ เหรอครับ?
+04-0878	talk	Yeah. If there's any information that needs finding, we're your go-to guys.	ใช่ครับ ถ้ามีข้อมูลอะไรที่ต้องหา พวกเราคือมือฉมังด้านนี้เลย
+04-0879	talk	Thank you... kind sir!	ขอบคุณครับ... ท่านผู้ใจดี!
+04-0880	talk	(Tsukumo should be at Mantai as usual. I'll have him check out Wild Jackson's reputation.)	(สึคุโมะน่าจะอยู่ที่มันไทเหมือนเคย ให้เขาไปสืบชื่อเสียงของ ไวลด์แจ็คสันดีกว่า)
+04-0881	talk	Oh, Yagami-san, it's you!	โอ้ ยากามิซัง คุณเองเหรอครับ!
+04-0882	talk	How's business these days, Inose-san?	ช่วงนี้ร้านเป็นยังไงบ้างครับ อิโนเสะซัง?
+04-0883	talk	Not bad, but it could be better. I'm having trouble thinking up new ideas for our upcoming special.	ก็ไม่แย่นะครับ แต่ยังดีกว่านี้ได้อีก ตอนนี้ผมกำลังคิดเมนูพิเศษใหม่ ไม่ออกเลย
+04-0884	talk	It pains me to admit it, but there's not a lot you can do with a chicken patty. Wette Kitchen, on the other hand...	ผมไม่อยากยอมรับเลยนะครับ แต่แพตตี้ไก่มันทำอะไรได้ไม่เยอะ ต่างจาก Wette Kitchen เลย...
+04-0885	talk	Ah, that's right. Wette Kitchen gives you pretty stiff competition, don't they?	อ๋อ จริงด้วย Wette Kitchen เป็นคู่แข่งที่แข็งแกร่งเลยใช่ไหมครับ?
+04-0886	talk	Yes, particularly the one on West Taihei Boulevard. They've been our main competitor for many years.	ใช่ครับ โดยเฉพาะสาขาที่ถนนไทเฮฝั่งตะวันตก เป็นคู่แข่งหลักของเรามาหลายปีแล้ว
+04-0887	talk	Looks like you guys are screwed.	ดูท่าพวกคุณจะซวยแล้วสิ
+04-0888	talk	Unfortunately, it does...	น่าเสียดายที่มันเป็นแบบนั้นจริงๆ ครับ...
+04-0889	talk	You mean... he wants to cooperate with another fast food chain!? The absolute madman!	หมายความว่า... เขาอยากร่วมมือกับเชนฟาสต์ฟู้ด อีกร้านเหรอ!? บ้าไปแล้วจริงๆ!
+04-0890	talk	Ah, if it isn't Yagami-san, the sandwich shop sleuth!	อ้าว ไม่ใช่ยากามิซัง นักสืบร้านแซนด์วิชนี่เอง!
+04-0891	talk	Good to see you, Inose-san. You too, Furuya-san.	ดีใจที่ได้เจอครับ อิโนเสะซัง แล้วก็คุณด้วยครับ ฟุรุยะซัง
+04-0892	talk	Thank you again for all your help. Come to think of it, this is the first time all three of us have met together.	ขอบคุณอีกครั้งสำหรับ ความช่วยเหลือทั้งหมดครับ พอคิดดูแล้ว นี่เป็นครั้งแรกที่พวกเราสามคน มาเจอกันพร้อมหน้าเลยนะครับ
+04-0893	talk	It is, isn't it. So how's that collaboration coming along?	นั่นสิ แล้วโปรเจกต์ร่วมมือไปถึงไหนแล้ว?
+04-0894	talk	Well, thanks to you and Furuya-san, Wette Kitchen agreed to be our partner for this project.	ก็ต้องขอบคุณทั้งคุณและฟุรุยะ ซังเลยครับ ที่ทำให้ Wette Kitchen ยอมมาเป็นพาร์ตเนอร์ในโปรเจกต์นี้
+04-0895	talk	And even though our campaign just started today, it's already bringing in the big bucks!	แล้วแม้ว่าแคมเปญเราจะเพิ่ง เริ่มวันนี้ แต่ก็ทำเงินเข้าร้านเยอะแล้วครับ!
+04-0896	talk	That's great to hear.	ดีใจที่ได้ยินแบบนั้นนะ
+04-0897	talk	On top of that, thanks to the increase in profits, my bosses decided they won't be closing down the store!	แถมพอกำไรเพิ่มขึ้น หัวหน้าผมก็ตัดสินใจไม่ปิดร้าน แล้วครับ!
+04-0898	talk	Now I won't have any more nightmares about getting fired... Or getting my face dunked in the deep fryer.	ตอนนี้ผมไม่ต้องฝันร้ายเรื่อง โดนไล่ออกอีกแล้ว... หรือโดนจับหน้าจุ่มกระทะทอดด้วย
+04-0899	talk	I'm glad you can finally work without buckling under all that pressure. Good for you.	ดีใจด้วยนะที่ในที่สุดก็ทำงาน ได้โดยไม่ต้องแบก ความกดดันขนาดนั้นแล้ว เก่งมาก
+04-0900	talk	I owe it all to your valiant efforts, Yagami-san. I don't know how I can possibly repay you.	ทั้งหมดนี้ต้องขอบคุณความพยายาม อันกล้าหาญของคุณเลยครับ ยากามิซัง ผมไม่รู้จะตอบแทนคุณยังไงดี
+04-0901	talk	Ah, don't mention it. I was just doing my thing.	ไม่ต้องพูดถึงหรอก ผมแค่ทำในสิ่งที่ผมถนัด
+04-0902	talk	Well, just know your contribution was vital to our success, Yagami-san. We really couldn't have done it without you.	ขอแค่ให้รู้ไว้ว่าสิ่งที่คุณทำ สำคัญต่อความสำเร็จของเรามาก ครับ ยากามิซัง ถ้าไม่มีคุณเราคงทำไม่ได้ขนาดนี้จริงๆ
+04-0903	talk	And you're good too, Furuya-san?	แล้วคุณล่ะ สบายดีไหม ฟุรุยะซัง?
+04-0904	talk	Oh yes! Thank you so much for your thoughtful advice, and for including me in such a well thought-out campaign.	อ๋อ สบายดีครับ! ขอบคุณมากสำหรับคำแนะนำที่รอบคอบ และที่ให้ผมได้ร่วมแคมเปญที่ วางแผนมาอย่างดีแบบนี้
+04-0905	talk	All of us at Wette Kitchen appreciate your help. Both restaurants benefit so much by working together.	ทุกคนที่ Wette Kitchen ซาบซึ้งในความช่วยเหลือของคุณมากครับ ทั้งสองร้านได้ประโยชน์มหาศาล จากการร่วมมือกันครั้งนี้
+04-0906	talk	Take, for instance, the fact that our company had previously put an emphasis on sales alone...	อย่างเช่น ก่อนหน้านี้บริษัทเราเน้นแต่ เรื่องยอดขายอย่างเดียว...
+04-0907	talk	But by learning from a similar chain like Wild Jackson, we were able to gain more insight into our overall outlook.	แต่พอได้เรียนรู้จากเชนร้านคล้ายๆ กันอย่างไวลด์แจ็คสัน เราก็มองภาพรวมได้ลึกซึ้งขึ้นครับ
+04-0908	talk	We want to follow Wild Jackson's example of being loyal to their main product, namely, their fantastic fried chicken.	เราอยากทำตามแบบอย่างของ ไวลด์แจ็คสันที่ยึดมั่นกับ สินค้าหลักของตัวเอง นั่นก็คือไก่ทอดสุดยอดของพวกเขา
+04-0909	talk	Pretty soon, our negotiation became an open discussion about developing our strengths and reaching our full potential.	ไม่นานนัก การเจรจาของเราก็กลายเป็นการ พูดคุยแบบเปิดใจ เรื่องการพัฒนาจุดแข็งและการดึง ศักยภาพของเราออกมาให้เต็มที่
+04-0910	talk	After listening to Furuya-san's thoughts, we started to tackle tough problems... and solve them the Wette Kitchen way.	หลังจากฟังความคิดของฟุรุยะซัง เราก็เริ่มลงมือแก้ปัญหาหนักๆ... ด้วยสไตล์แบบ Wette Kitchen
+04-0911	talk	Both of our companies are very grateful to you, Yagami-san.	ทั้งสองบริษัทของเราขอบคุณมากจริงๆ ครับ ยากามิซัง
+04-0912	talk	Ah, all I did was put two and two together, and look what happened. Restaurant history in the making.	ผมแค่เอาสองเรื่องมาต่อกันเท่านั้นเอง แล้วดูสิว่าเกิดอะไรขึ้น ประวัติศาสตร์วงการร้านอาหาร กำลังถูกเขียนขึ้นเลย
+04-0913	talk	Ahaha, perhaps you're right. Oh, I almost forgot! Late as it is, I hope you'll still accept a token of our gratitude.	ฮ่าฮ่า อาจจะจริงอย่างที่คุณว่าครับ อ้อ เกือบลืมไปเลย! ถึงจะช้าไปหน่อย แต่หวังว่าคุณจะรับของแทน คำขอบคุณจากเราไว้นะครับ
+04-0914	talk	We hope it truly expresses the combined appreciation of both of our establishments. I guess that's a thank-you combo!	หวังว่าของนี้จะสื่อถึงความ ขอบคุณจากทั้งสองร้านของเรา ได้เต็มที่ครับ พูดง่ายๆ ก็คือคอมโบขอบคุณนั่นแหละ!
+04-0915	talk	Though we may be separate companies, our goals are one and the same: to serve the best fast food in Tokyo!	ถึงเราจะเป็นคนละบริษัทกัน แต่เป้าหมายของเราเหมือนกันเป๊ะ นั่นคือการเสิร์ฟฟาสต์ฟู้ดที่ดี ที่สุดในโตเกียว!
+04-0916	talk	Couldn't have said it better myself, Inose-san.	พูดได้ดีมากเลยครับ อิโนเสะซัง
+04-0917	talk	Any time you want to try the new special, just come to either store and we'll start your order right away!	เมื่อไหร่ที่อยากลองเมนูพิเศษใหม่ ก็แวะมาที่ร้านไหนก็ได้ครับ แล้วเราจะจัดออร์เดอร์ให้ทันที!
+04-0918	talk	What do you need, Yagami-shi?	มีอะไรให้ช่วยเหรอ ยากามิ?
+04-0919	talk	I'm helping out this guy who needs some research. Can you do your thing?	ผมกำลังช่วยเพื่อนคนนี้ที่ ต้องการข้อมูล ช่วยทำอะไรที่นายถนัดหน่อยได้ไหม?
+04-0920	talk	You mean the Chatter search? Sure. What do you want to look up?	หมายถึงเสิร์ช Chatter เหรอ ได้เลย อยากรู้เรื่องอะไร?
+04-0921	talk	I need to figure out what people have been saying about Wild Jackson recently. Limit the posts to within this past month.	ผมอยากรู้ว่าคนพูดถึง ไวลด์แจ็คสันว่ายังไงบ้าง ช่วงนี้ จำกัดแค่โพสต์ในเดือนที่ผ่านมาก็พอ
+04-0922	talk	No prob, I'll push it to your phone.	ไม่มีปัญหา เดี๋ยวส่งเข้ามือถือนายให้
+04-0923	talk	Hmm. This is a lot of hits. Anything we can use to narrow this down?	อืม เจอเยอะเลยนะ มีอะไรที่ช่วยให้แคบลงได้บ้างไหม?
+04-0924	talk	Yeah, I need to find out why Wild Jackson's sales have been going down.	ใช่ ผมต้องหาสาเหตุว่าทำไมยอดขายของ ไวลด์แจ็คสันถึงตกลง
+04-0925	talk	I should choose more specific keywords... Something logical that would bring up the most relevant posts. Let's see here.	ผมน่าจะเลือกคีย์เวิร์ดที่ เจาะจงกว่านี้... อะไรที่เป็นเหตุเป็นผลแล้วจะดึง โพสต์ที่เกี่ยวข้อง ที่สุดออกมาได้ ลองดูหน่อยนะ
+04-0926	talk	Can you put... "chicken" as a keyword?	ลองใส่คำว่า... "ไก่" เป็นคีย์เวิร์ดได้ไหม?
+04-0927	talk	Seems positive enough. Wild Jackson's fried chicken is a classic.	ดูเป็นไปในทางบวกนะ ไก่ทอดของไวลด์แจ็คสันเป็นของ ขึ้นชื่อเลยนี่
+04-0928	talk	Mmm... I suppose we won't get any further by looking up what they're doing right.	อืม... ถ้าไปดูแต่สิ่งที่ร้านทำถูกอยู่ แล้วก็คงไม่ได้อะไรเพิ่มหรอกนะ
+04-0929	talk	Can you put... "scandal" as a keyword?	ลองใส่คำว่า... "เรื่องอื้อฉาว" เป็นคีย์เวิร์ดหน่อยได้ไหม?
+04-0930	talk	Hmm. Fewer hits than I would have thought. Nothing substantial, either.	อืม เจอน้อยกว่าที่คิดไว้เลย แล้วก็ไม่มีอะไรเป็นชิ้นเป็นอันด้วย
+04-0931	talk	Can you try... "tastes like ass"? That's what I'd post if I hated it.	ลองใส่คำว่า... "รสชาติเหมือนตูด" ดูสิ ถ้าผมเกลียดร้านไหนผมคงโพสต์แบบ นี้แหละ
+04-0932	talk	Hmm, nothing pops out. And that's including posts with derivative keywords like "tastes," "ass," and "ass-like taste."	อืม ไม่มีอะไรเด่นออกมาเลย รวมถึงโพสต์ที่มีคีย์เวิร์ด ใกล้เคียงอย่าง "รสชาติ" "ตูด" และ "รสเหมือนตูด" ด้วยนะ
+04-0933	talk	I guess if people didn't like the food, this place would already be long gone. I know everything tastes fine to me.	ถ้าคนไม่ชอบอาหารร้านนี้จริง ป่านนี้ร้านคงเจ๊งไปนานแล้ว สำหรับผมกินได้ทุกอย่างเลยนะ
+04-0934	talk	Still... This isn't adding up. Let's switch it up.	แต่ว่า... มันยังไม่เข้าเค้าเลย ลองเปลี่ยนวิธีดูดีกว่า
+04-0935	talk	Can you put... "specials" as a keyword?	ลองใส่คำว่า... "เมนูพิเศษ" เป็นคีย์เวิร์ดดูสิ
+04-0936	talk	Here we go. Most of these posts do seem to be asking about new specials. Perhaps they haven't done any promotions lately.	มาแล้ว โพสต์ส่วนใหญ่ดูเหมือนจะถามหา เมนูพิเศษใหม่ๆ นะ บางทีร้านอาจจะไม่ได้ทำโปรโมชัน มาพักหนึ่งแล้ว
+04-0937	talk	Gotcha. If people get bored of the same old menu, they might stop coming as often. Which would naturally impact Wild Jackson's revenue.	เข้าใจแล้ว ถ้าคนเบื่อเมนูเดิมๆ ก็อาจจะแวะมาน้อยลง ซึ่งก็ย่อมกระทบรายได้ของ ไวลด์แจ็คสันโดยตรง
+04-0938	talk	Sounds like you hit the nail on the head.	ฟังดูเหมือนนายเดาถูกจุดเลยนะ
+04-0939	talk	Then I guess it's case closed. Thanks, Tsukumo, I got what I needed.	งั้นก็ปิดเคสได้ ขอบใจนะ สึคุโมะ ผมได้สิ่งที่ต้องการแล้ว
+04-0940	talk	Glad to be of service. Feel free to ask for my assistance whenever you need it.	ยินดีรับใช้ ต้องการให้ช่วยอะไรอีกก็บอกได้เลยนะ
+04-0941	talk	So... What did you find out?	แล้ว... เจออะไรมาบ้างครับ?
+04-0942	talk	Let me ask you something. When was the last time Wild Jackson came out with any new promotions?	ผมขอถามอะไรหน่อย ครั้งสุดท้ายที่ไวลด์แจ็คสันออก โปรโมชันใหม่คือเมื่อไหร่?
+04-0943	talk	Huh!? Hmm... Actually, now that you mention it, it has been quite a long time.	หา!? อืม... พอพูดแบบนี้ก็จริงนะครับ นานมากแล้วเหมือนกัน
+04-0944	talk	Well, it seems like people are wondering what's the next big thing for Wild Jackson. They're hungry for something new.	ดูเหมือนคนจะสงสัยว่า ไวลด์แจ็คสันจะมีอะไรใหม่ต่อไป พวกเขาหิวกระหายอะไรใหม่ๆ อยู่
+04-0945	talk	That... actually makes a lot of sense! We've definitely been slacking in the creative department lately. At least I have.	นั่น... ก็สมเหตุสมผลมากเลยนะครับ! ช่วงนี้เราขี้เกียจคิดอะไรใหม่ๆ จริงๆ ด้วย อย่างน้อยก็ตัวผมเอง
+04-0946	talk	F-Forget I said that! Anyways, I'm gonna gather more info that supports your findings and report to corporate at once!	ล-ลืมที่ผมพูดไปซะเถอะครับ! เอาเป็นว่าผมจะไปหาข้อมูลเพิ่ม มาสนับสนุนสิ่งที่คุณเจอ แล้วรีบรายงานบริษัทเดี๋ยวนี้เลย!
+04-0947	talk	Yeah, that's probably a good idea.	ใช่ น่าจะเป็นความคิดที่ดีนะ
+04-0948	talk	Oh, by the way. I want to thank you properly for all your help. May I have your name?	อ้อ ว่าแต่ ผมอยากขอบคุณให้สมเกียรติสำหรับ ความช่วยเหลือทั้งหมด ขอทราบชื่อได้ไหมครับ?
+04-0949	talk	I'm Takayuki Yagami. As for thanking me... all I really want is to try your new special.	ผมทาคายูกิ ยากามิครับ ส่วนเรื่องขอบคุณ... สิ่งเดียวที่ผมอยากได้จริงๆ คือได้ลองเมนูพิเศษใหม่ของคุณ
+04-0950	talk	Once it's ready, sure! Until then, I'll get busy making Wild Jackson the best it can possibly be!	พอเมนูพร้อมเมื่อไหร่ ได้เลยครับ! ระหว่างนี้ผมจะทุ่มเทให้ ไวลด์แจ็คสันดีที่สุดเท่าที่จะ ทำได้!
+04-0951	talk	Sorry, but I'm a little busy right now.	ขอโทษนะ ตอนนี้ผมยุ่งอยู่นิดหน่อย
+04-0952	talk	Understood. I apologize for taking up your time...	เข้าใจแล้วครับ ขอโทษที่มารบกวนเวลาคุณนะครับ...
+04-0953	talk	Oh! You're a regular customer of ours, correct?	อ้อ! คุณเป็นลูกค้าประจำของร้านเรา ใช่ไหมครับ?
+04-0954	talk	Please... If you have a spare moment, would you be willing to share your thoughts on how we could improve!?	ได้โปรด... ถ้าคุณมีเวลาสักครู่ ช่วยบอกความเห็นเรื่องวิธีที่ เราจะปรับปรุงร้านได้ไหมครับ!?
+04-0955	talk	(That's the manager who was having a meltdown. Should I hear him out?)	(นั่นผู้จัดการที่เครียดจนแทบพัง คนนั้นนี่ ควรจะฟังเขาดีไหมนะ?)
+04-0956	talk	Tsukumo, do you have a sec?	สึคุโมะ นายมีเวลาสักครู่ไหม?
+04-0957	talk	(This conversation is getting us nowhere...)	(คุยกันแบบนี้ไม่ไปถึงไหนเลย...)
+04-0958	talk	In that case... I know something that might interest you.	ถ้าอย่างนั้น... ผมรู้เรื่องบางอย่างที่คุณอาจสนใจนะ
+04-0959	talk	The marketing supervisor for Wette Kitchen's was actually looking to do a collaboration.	หัวหน้าฝ่ายการตลาดของ Wette Kitchen กำลังมองหาพาร์ตเนอร์ทำแคมเปญ ร่วมอยู่พอดี
+04-0960	talk	Well, he was organizing a new promotional campaign and his idea got selected, so maybe he's not so mad after all.	เขากำลังจัดแคมเปญโปรโมชันใหม่ แล้วไอเดียของเขาก็ได้รับเลือก เผื่อจะไม่ได้บ้าขนาดนั้นก็ได้นะ
+04-0961	talk	However, he went all in on the promotion thinking he could find a partner on the fly.	แต่เขาทุ่มหมดตัวกับโปรโมชันนี้ โดยคิดว่าจะหาพาร์ตเนอร์ได้ทันเวลาน่ะ
+04-0962	talk	And if you're having trouble coming up with ideas, then this might be a good fit for you. Maybe you two will end up making something big.	แล้วถ้าคุณกำลังคิดไอเดียไม่ออก นี่อาจจะเหมาะกับคุณเลยนะ เผื่อพวกคุณสองคนจะได้ทำอะไรใหญ่ๆ ด้วยกัน
+04-0963	talk	Inose-san?	อิโนเสะซัง?
+04-0964	talk	...You know, I could see this working! Yes! What a novel idea! Wette Kitchen really knows their stuff!	...รู้ไหมครับ ผมว่ามันน่าจะเวิร์กนะ! ใช่เลย! ไอเดียแปลกใหม่มากครับ! Wette Kitchen เก่งเรื่องนี้จริงๆ!
+04-0965	talk	(Well, I was the one who thought of it.)	(ก็ผมเป็นคนคิดเองนี่นา)
+04-0966	talk	I have a feeling this is gonna be a winner! I'll go ask permission from corporate and contact Wette Kitchen right away!	ผมรู้สึกว่าไอเดียนี้ต้องปังแน่ๆ! ผมจะไปขออนุญาตบริษัท แล้วติดต่อ Wette Kitchen เดี๋ยวนี้เลยครับ!
+04-0967	talk	Then be sure to ask for Furuya. He's the guy in charge over there.	งั้นอย่าลืมถามหาฟุรุยะนะ เขาคือคนที่ดูแลเรื่องนี้อยู่
+04-0968	talk	Furuya, got it! Thanks so much!	ฟุรุยะใช่ไหมครับ เข้าใจแล้ว! ขอบคุณมากครับ!
+04-0969	talk	Yagami-san, you said you're going to investigate our reputation on social media? Thanks for all the trouble.	ยากามิซัง คุณบอกว่าจะไปสืบชื่อเสียงร้าน เราในโซเชียลมีเดียใช่ไหมครับ? ขอบคุณสำหรับความลำบากทั้งหมดนะครับ
+04-0970	talk	Pardon the interruption, but may I have a moment of your time?	ขออภัยที่รบกวนครับ ขอเวลาสักครู่ได้ไหมครับ?
+04-0971	talk	Great. My name is Yasuhiro Furuya, and I'm the event planner for Wette Kitchen, a local burger shop.	ดีเลยครับ ผมชื่อยาสึฮิโระ ฟุรุยะ เป็นนักวางแผนอีเวนต์ของ Wette Kitchen ร้านเบอร์เกอร์ท้องถิ่นครับ
+04-0972	talk	I'd like to get more acquainted with our customer base and see how they perceive our restaurant.	ผมอยากทำความเข้าใจฐานลูกค้าของ เราให้มากขึ้น และดูว่าพวกเขามองร้านเรายังไง บ้างครับ
+04-0973	talk	Is that so... Then I apologize for taking up your time.	อย่างนั้นเหรอครับ... ถ้าอย่างนั้นผมขอโทษที่มารบกวน เวลาคุณนะครับ
+04-0974	talk	(So he wants to interview me about the restaurant... Should I go through with it?)	(เขาอยากสัมภาษณ์ผมเรื่องร้านอาหารสินะ... ควรจะคุยด้วยดีไหมนะ?)
+04-0975	talk	Oh, hello again, sir. Glad to see you're back! Do you have a moment to share your thoughts?	อ้อ สวัสดีอีกครั้งครับ ดีใจที่ได้เจอคุณอีกนะครับ! มีเวลาสักครู่มาบอกความเห็นไหมครับ?
+04-0976	talk	Well, you see, our corporate office is asking us to come up with a new collaboration campaign for each of our stores.	คือว่า บริษัทของเราขอให้แต่ละสาขาคิด แคมเปญร่วมมือใหม่ขึ้นมาครับ
+04-0977	talk	But, to put it to you plainly... I'm terrible at thinking up new ideas.	แต่พูดตรงๆ นะครับ... ผมไม่ค่อยเก่งเรื่องคิดไอเดียใหม่ๆ เลย
+04-0978	talk	That's why I decided to take a chance and leave it up to our customers.	ก็เลยตัดสินใจลองเสี่ยงดู แล้วให้ลูกค้าของเราช่วยคิดแทนครับ
+04-0979	talk	If your suggestion does get used, I'll make sure to give you some form of compensation as well!	ถ้าข้อเสนอของคุณถูกนำไปใช้ ผมจะจัดของตอบแทนให้แน่นอนครับ!
+04-0980	talk	But I've rambled on enough, haven't I? Please, let us know what kind of store you'd like to see us cooperate with.	แต่ผมพูดพร่ำมาเยอะแล้วสินะครับ ช่วยบอกหน่อยได้ไหมครับว่าอยาก ให้เราร่วมมือกับร้านแบบไหน
+04-0981	talk	(What should I do?)	(ควรทำยังไงดีนะ?)
+04-0982	talk	I can chat for a bit.	คุยได้สักหน่อยนะ
+04-0983	talk	I'm not entirely sure partnering with a café would leave a noticeable impression. Perhaps I'll save that for reference.	ผมไม่ค่อยแน่ใจว่าการร่วมมือกับ คาเฟ่จะสร้าง ความประทับใจได้มากพอนะครับ เก็บไว้เป็นข้อมูลอ้างอิงก่อนดีกว่า
+04-0984	talk	So... what did you want to ask me about?	แล้ว... คุณอยากถามอะไรผมเหรอ?
+04-0985	talk	(That is a bold move...)	(นี่มันเป็นการตัดสินใจที่กล้ามากเลยนะ...)
+04-0986	talk	(Hmm. Getting the chance to influence a local fast food chain is pretty rare... But what would mesh well with Wette Kitchen?)	(อืม โอกาสได้ชี้ทิศทางร้านฟาสต์ฟู้ด ท้องถิ่นแบบนี้หายากนะ... แต่อะไรจะเข้ากับ Wette Kitchen ดีล่ะ?)
+04-0987	talk	A cabaret club!? Well... yes, it would turn heads, but in the wrong direction. That's far too adult-oriented for us.	คาบาเรต์คลับเหรอครับ!? ก็... ใช่ครับ มันคงดึงความสนใจได้ แต่ไปในทางที่ผิด มันผู้ใหญ่เกินไปสำหรับเราครับ
+04-0988	talk	A café. They're practically all over Kamurocho.	คาเฟ่ไง มีอยู่ทั่วคามุโรโจเลย
+04-0989	talk	(He doesn't seem too impressed. Maybe I should go for something else.)	(ท่าทางเขาไม่ค่อยประทับใจเท่าไหร่ ลองอย่างอื่นดีกว่ามั้ง)
+04-0990	talk	That's... a possibility. Though wouldn't that essentially be pushing for more of the same thing?	นั่นก็... เป็นไปได้ครับ แต่นั่นก็เหมือนผลักดันสิ่งเดิมๆ ซ้ำอีกไม่ใช่เหรอครับ?
+04-0991	talk	Okay, let's try something else then.	โอเค งั้นลองอย่างอื่นดู
+04-0992	talk	But... is such a thing even possible? It's practically unheard of in the industry.	แต่... เรื่องแบบนี้เป็นไปได้จริงเหรอครับ? ในวงการแทบไม่เคยมีมาก่อนเลยนะ
+04-0993	talk	That being said...	ถึงจะเป็นแบบนั้น...
+04-0994	talk	Perhaps it's all the more worth it to try.	แต่ก็อาจจะยิ่งคุ้มค่าที่จะ ลองดูก็ได้ครับ
+04-0995	talk	How about a cabaret club? It would definitely turn a lot of heads, if that's what you're going for.	คาบาเรต์คลับล่ะ? มันดึงความสนใจได้เยอะแน่นอน ถ้าคุณต้องการแบบนั้น
+04-0996	talk	In that case, I'll propose this campaign to corporate right away!	ถ้าอย่างนั้น ผมจะเสนอแคมเปญนี้กับบริษัท เดี๋ยวนี้เลยครับ!
+04-0997	talk	I would like to give you a little something in case your idea is used. May I have your name?	ผมอยากมอบของเล็กๆ น้อยๆ ให้ ถ้าไอเดียของคุณถูกนำไปใช้จริง ขอทราบชื่อได้ไหมครับ?
+04-0998	talk	Now that you mention it, children do come here pretty often. My mistake. I'll think of something else.	พอพูดแบบนั้นก็จริง เด็กๆ มากันบ่อยเหมือนกัน ผมพลาดเอง เดี๋ยวคิดใหม่ให้
+04-0999	talk	You bet I will. If and when I hear the good news, I'll contact you right away!	แน่นอนครับ ถ้าได้ข่าวดีเมื่อไหร่ ผมจะติดต่อคุณทันทีเลย!
+04-1000	talk	Why not another fast food place?	ลองร้านฟาสต์ฟู้ดอีกร้านดูไหม?
+04-1001	talk	Oh, Yagami-san! You're right on time!	อ้อ ยากามิซัง! มาถูกจังหวะเลยครับ!
+04-1002	talk	And you're... Furuya-san from Wette Kitchen, right?	แล้วคุณก็... ฟุรุยะซังจาก Wette Kitchen ใช่ไหม?
+04-1003	talk	Yes! I wanted to thank you for your participation earlier.	ใช่ครับ! ผมอยากขอบคุณที่คุณช่วยเมื่อ ก่อนหน้านี้
+04-1004	talk	So I submitted your idea to corporate and they were so impressed, they greenlit it right away!	ผมเลยเสนอไอเดียของคุณให้บริษัท แล้วพวกเขาก็ประทับใจมาก อนุมัติทันทีเลยครับ!
+04-1005	talk	Wow, they're really going through with it?	โห จะทำจริงๆ เหรอเนี่ย?
+04-1006	talk	Yes. Except for one problem. They can't decide on which store to work with.	ใช่ครับ แต่มีปัญหาอยู่อย่างหนึ่ง พวกเขาตัดสินใจไม่ได้ว่าจะ ร่วมมือกับร้านไหนดี
+04-1007	talk	After all, we're basically asking our rivals to cooperate with us. Not many stores are open to that idea.	ก็เพราะเรากำลังขอให้คู่แข่งมา ร่วมมือกับเรานี่แหละครับ มีไม่กี่ร้านหรอกที่เปิดใจรับ ไอเดียแบบนี้
+04-1008	talk	Yeah... I can't imagine it'd be easy.	ใช่... นึกภาพไม่ออกเลยว่าจะง่าย
+04-1009	talk	(Maybe I should be on the lookout for the kind of restaurant he needs. That should help him out plenty.)	(ลองมองหาร้านแบบที่เขาต้องการดูดีกว่า น่าจะช่วยเขาได้เยอะเลย)
+04-1010	talk	Hmm... What to do...	อืม... จะทำยังไงดี...
+04-1011	talk	Well, don't you think it'd be awesome if two rival restaurants ended up working together?	คิดดูสิ ถ้าร้านคู่แข่งสองร้านมาจับมือ ทำงานด้วยกัน จะเจ๋งไหมล่ะ?
+04-1012	talk	I'm Takayuki Yagami. Let me know what happens, yeah?	ผมทาคายูกิ ยากามิ มีความคืบหน้ายังไงบอกผมด้วยนะ
+04-1013	talk	(It really would be cool to see what two fast food giants could come up with. Hope it turns out well.)	(คงเจ๋งจริงๆ ถ้าได้เห็นว่ายักษ์ใหญ่ ฟาสต์ฟู้ดสองเจ้าจะสร้างอะไร ออกมา หวังว่าจะออกมาดีนะ)
+04-1014	talk	Furuya-san, did you find a good place to collaborate with?	ฟุรุยะซัง หาร้านที่เหมาะจะร่วมมือด้วยได้ หรือยัง?
+04-1015	talk	I'm afraid not. It's difficult when it comes to finding good fast food.	ยังเลยครับ มันยากที่จะหาร้านฟาสต์ฟู้ดดีๆ จริงๆ
+04-1016	talk	(If I run across a potential business partner for him, I should give him a heads-up.)	(ถ้าเจอพาร์ตเนอร์ธุรกิจที่น่าจะ เหมาะกับเขา จะรีบไปบอกเลย)
+04-1017	talk	(Translator? What's she talking about?)	(ล่ามเหรอ? เธอพูดเรื่องอะไรกันแน่?)
+04-1018	talk	[Pardon me, but do you happen to know where the lavatory is?]	[ขออภัยนะครับ ไม่ทราบว่าห้องน้ำอยู่ทางไหน หรือเปล่าครับ?]
+04-1019	talk	(Hmm, I've always been good at basic English. I should take over from here.)	(อืม ผมเก่งภาษาอังกฤษพื้นฐานมาตลอด อยู่แล้ว เอาสถานการณ์นี้ให้ผมจัดการเองดีกว่า)
+04-1020	talk	Hey, all he wants to know is where the restroom is.	เดี๋ยวนะ เขาแค่อยากรู้ว่าห้องน้ำอยู่ตรงไหนน่ะ
+04-1021	talk	[It's right outside the café. You can't miss it.]	[อยู่ข้างนอกคาเฟ่เลยครับ หาไม่ยากหรอก]
+04-1022	talk	[Excellent, thank you very much.]	[ยอดเยี่ยมมากครับ ขอบคุณมากๆ ครับ]
+04-1023	talk	(That went pretty well. Hope I wasn't too rusty.)	(ไปได้สวยเลย หวังว่าจะไม่ขึ้นสนิมเกินไปนะ)
+04-1024	talk	Well, at least you know your basics. Sometimes it's hard to determine the best word to say.	อย่างน้อยเธอก็รู้พื้นฐานดีนะ บางทีก็ยากที่จะเลือกคำที่ เหมาะสมที่สุด
+04-1025	talk	Gotcha. So you're a student right now?	เข้าใจแล้ว งั้นตอนนี้เธอเป็นนักเรียนอยู่เหรอ?
+04-1026	talk	Not a bad idea. Well, keep it up and maybe your English will improve.	ไม่ใช่ความคิดที่แย่เลยนะ พยายามต่อไป แล้วภาษาอังกฤษของเธออาจจะดีขึ้นก็ได้
+04-1027	talk	Likewise. Well, keep at it.	เช่นกัน พยายามต่อไปนะ
+04-1028	talk	No problem, what's up?	ไม่มีปัญหา มีอะไรเหรอ?
+04-1029	talk	Wait, they were holding <font_kind=yakuza_italic>cabbage</font_kind>? And you asked if you could hold it for them?	เดี๋ยวนะ เขาถือ<font_kind=yakuza_italic>กะหล่ำปลี</font_kind>อยู่เหรอ? แล้วเธอถามว่าจะถือให้ไหม?
+04-1030	talk	Hmm... Now what would a hotel employee ask to hold for their guest...?	อืม... แล้วพนักงานโรงแรมน่าจะขอถือ อะไรให้ลูกค้าดีนะ...?
+04-1031	talk	Didn't you mean crab legs?	หมายถึงขาปูใช่ไหม?
+04-1032	talk	Oh, wait. Never mind. I meant to say...	อ้อ เดี๋ยวก่อน ไม่ต้องสนใจ ผมหมายถึง...
+04-1033	talk	Didn't you mean grab bag?	หมายถึงถุงสุ่มใช่ไหม?
+04-1034	talk	Didn't you mean baggage?	หมายถึงกระเป๋าเดินทางใช่ไหม?
+04-1035	talk	You probably mixed up "baggage" and "cabbage." But I think it's also called "luggage"?	เธอคงสับสนระหว่าง "baggage" กับ "cabbage" มั้ง แต่ผมว่ามันก็เรียกว่า "luggage" ได้ด้วยนะ?
+04-1036	talk	I suppose it's less confusing in English, since anything you carry around can technically be considered baggage. Even pain.	คิดว่าในภาษาอังกฤษมันสับสนน้อยกว่านะ เพราะอะไรก็ตามที่เราแบกไปด้วย ก็นับเป็น baggage ได้หมด แม้แต่ความเจ็บปวดก็ยังเรียกได้
+04-1037	talk	Nah, you're fine. Hit me with your question.	ไม่หรอก เธอไม่ผิดอะไร ถามมาได้เลย
+04-1038	talk	I think they wanted to take you out for dinner. Foreigners can be very aggressive at flirting.	ผมว่าเขาอยากชวนเธอไปกินมื้อเย็นนะ ชาวต่างชาติจีบกันดุเดือดเหมือนกัน
+04-1039	talk	Ah, well, actually... I was just messing around.	เอ่อ อันที่จริง... ผมแค่แกล้งพูดเล่นน่ะ
+04-1040	talk	I think they wanted to "take you out." As in, eliminate you.	ผมว่าเขาอยากจะ "take you out" น่ะ ในความหมายว่า กำจัดเธอทิ้ง
+04-1041	talk	Sorry. I've had a lot going on...	ขอโทษนะ ช่วงนี้ผมมีเรื่องยุ่งเยอะน่ะ...
+04-1042	talk	It's another way of saying "take it to go."	มันเป็นอีกวิธีพูดของ "take it to go" (เอากลับบ้าน) น่ะ
+04-1043	talk	Well, now you know something new. I'm sure you won't make the same mistake twice.	เอาล่ะ ตอนนี้เธอก็ได้รู้อะไรใหม่แล้ว ผมมั่นใจว่าเธอจะไม่พลาดแบบเดิมอีกแน่
+04-1044	talk	I try.	พยายามอยู่
+04-1045	talk	Am I imagining this? Or did you get really fluent in English?	ผมคิดไปเองหรือเปล่านะ หรือว่าเธอพูดอังกฤษคล่องขึ้นจริงๆ?
+04-1046	talk	Wow. Looks like all your practice has finally paid off.	โห ดูเหมือนการฝึกฝนทั้งหมดของเธอ จะให้ผลตอบแทนแล้วนะ
+04-1047	talk	Whoa! That was quick!　	โห! เร็วขนาดนี้เลยเหรอ!
+04-1048	talk	Well, they do say the quickest way to learn a language is to find yourself a lover.	เขาว่ากันว่าวิธีเรียนภาษาให้ เร็วที่สุดคือหาแฟนเป็น เจ้าของภาษาน่ะ
+04-1049	talk	You'll get there sooner than you think. I'll be rooting for you.	เธอจะไปถึงจุดนั้นเร็วกว่าที่ คิดแน่นอน ผมจะเป็นกำลังใจให้
+04-1050	talk	You sure that won't be too much of a hassle?	แน่ใจนะว่าจะไม่ลำบากเกินไป?
+04-1051	talk	Um... Uh... Ahhh! Help! Someone bring a translator!	เอ่อ... อ่า... อ๊าาา! ช่วยด้วย! ใครก็ได้เอาล่ามมาที!
+04-1052	talk	No, it isn't! I don't understand a word this guy's saying... Please, help a girl out!	ไม่ใช่แบบนั้นเลย! ฉันฟังที่ผู้ชายคนนี้พูดไม่ออก เลยสักคำ... ช่วยผู้หญิงคนนี้หน่อยเถอะค่ะ!
+04-1053	talk	Oh! I-It's right outside the café! Umm... In English that would be...	อ้อ! ม-มันอยู่ข้างนอกคาเฟ่ค่ะ! เอ่อ... ภาษาอังกฤษพูดว่า...
+04-1054	talk	I'm sorry about that, sir. That other word really caught me off guard.	ขอโทษด้วยนะคะ คำนั้นทำเอาฉันงงไปเลย
+04-1055	talk	I always thought it was just "toilet" in English.	ฉันนึกว่ามันคือคำว่า "toilet" เฉยๆ ซะอีก
+04-1056	talk	Yeah... I do like the language, but I haven't been studying for long.	ค่ะ... ฉันชอบภาษานี้อยู่แล้ว แต่ยังเรียนมาไม่นานเท่าไหร่
+04-1057	talk	Yeah, I'm actually in college. I've been thinking of working overseas for a while, too. Once I graduate, anyway.	ค่ะ อันที่จริงฉันเรียนมหาวิทยาลัยอยู่ แล้วก็คิดอยากไปทำงานต่างประเทศ มาสักพักแล้วเหมือนกัน พอเรียนจบก็ว่าจะไปน่ะค่ะ
+04-1058	talk	So I decided to start working here to get some more speaking practice.	เลยตัดสินใจมาทำงานที่นี่ เพื่อได้ฝึกพูดเพิ่มขึ้นค่ะ
+04-1059	talk	You know, since hotels generally have a lot of foreign customers.	ก็เพราะโรงแรมมักจะมีลูกค้า ต่างชาติเยอะน่ะค่ะ
+04-1060	talk	Yes! Thank you for today's lesson!	ค่ะ! ขอบคุณสำหรับบทเรียนวันนี้นะคะ!
+04-1061	talk	Oh, and can I ask your name?	อ้อ แล้วขอทราบชื่อได้ไหมคะ?
+04-1062	talk	And I'm Kaede Sanada. It was really nice to meet you!	ส่วนฉันคือคาเอเดะ ซานาดะค่ะ ดีใจมากที่ได้รู้จักนะคะ!
+04-1063	talk	I will! Hope to see you next time!	ค่ะ! หวังว่าจะได้เจอกันอีกนะคะ!
+04-1064	talk	Oh, Yagami-san! Sorry, but can I ask you something?	อ้อ ยากามิซัง! ขอโทษนะคะ ขอถามอะไรหน่อยได้ไหมคะ?
+04-1065	talk	I just asked a customer, "Would you like me to hold your cabbage?" in English... But they didn't understand at all.	ฉันเพิ่งถามลูกค้าเป็นภาษาอังกฤษว่า "จะให้ฉันถือ cabbage ให้ไหมคะ"... แต่เขาไม่เข้าใจเลยสักนิด
+04-1066	talk	See, I knew cabbage wasn't the right word...	เห็นไหมคะ ฉันก็รู้อยู่แล้วว่า cabbage ไม่ใช่คำที่ถูก...
+04-1067	talk	I know I've heard this word somewhere before... It's right at the tip of my tongue...	ฉันรู้ว่าเคยได้ยินคำนี้มาจาก ที่ไหนสักแห่ง... มันอยู่แค่ปลายลิ้นเองนะคะ...
+04-1068	talk	Huh? Why on earth would somebody be carrying crab legs? That's not even close.	หา? ทำไมใครจะต้องถือขาปูด้วยล่ะ? ไม่ใกล้เคียงเลยนะ
+04-1069	talk	Huh? That's just something you give away as a prize. That wasn't it.	หา? นั่นมันของที่แจกเป็นรางวัลนี่นา ไม่ใช่คำนั้นหรอก
+04-1070	talk	Wow, I had no idea... That's still... incredibly confusing! But thanks!	โห ไม่รู้เลยค่ะ... มันยัง... งงมากอยู่ดี! แต่ขอบคุณนะคะ!
+04-1071	talk	Wow, Yagami-san, you sure know your stuff! I learned a lot today.	โห ยากามิซังรู้เยอะจริงๆ ค่ะ! วันนี้ได้เรียนรู้เยอะเลย
+04-1072	talk	Oh, Yagami-san! I have another question!	อ้อ ยากามิซัง! ฉันมีคำถามอีกข้อค่ะ!
+04-1073	talk	You're probably wondering what kind of English I've been studying in the first place...	คุณอาจจะสงสัยว่าฉันเรียน ภาษาอังกฤษแบบไหนอยู่ตั้งแต่แรก...
+04-1074	talk	'Kay. There was this customer who ordered something for "takeout." What's that supposed to mean?	ค่ะ มีลูกค้าคนหนึ่งสั่งอะไรสักอย่างแบบ "takeout" หมายความว่าอะไรคะ?
+04-1075	talk	Huh...? So they wanted to take me on a date!?	หา...? แปลว่าเขาอยากชวนฉันไปเดตเหรอคะ!?
+04-1076	talk	That's not even funny, Yagami-san. Please be serious.	ไม่ตลกเลยนะคะ ยากามิซัง พูดจริงๆ หน่อยสิคะ
+04-1077	talk	Oh! So that's why they were looking at me all weird...	อ้อ! สงสัยเพราะแบบนี้เขาถึงมองฉันแปลกๆ...
+04-1078	talk	I brought their order out as usual without packing anything up. Now I feel kinda bad...	ฉันเสิร์ฟออร์เดอร์ไปตามปกติโดย ไม่ได้ห่อกลับให้เลย ตอนนี้รู้สึกผิดนิดหน่อยเลยค่ะ...
+04-1079	talk	Hehe, you've got such a good perspective on things.	ฮ่าๆ เธอมองโลกในแง่ดีจังนะ
+04-1080	talk	[Hi, Yagami!]	[หวัดดีค่ะ ยากามิ!]
+04-1081	talk	Nope, it's all real! I'm glad it's not just me who thinks so.	ไม่ใช่เลยค่ะ เป็นเรื่องจริงทั้งหมด! ดีใจที่ไม่ใช่แค่ฉันคนเดียวที่ คิดแบบนั้น
+04-1082	talk	I'm sure that's part of it. But, actually...	ฉันว่านั่นก็เป็นส่วนหนึ่งแหละค่ะ แต่จริงๆ แล้ว...
+04-1083	talk	Would you believe it if I told you I got a non-Japanese boyfriend?	เชื่อไหมคะถ้าฉันบอกว่าฉันมีแฟน เป็นชาวต่างชาติ?
+04-1084	talk	Hehe. He was staying at the hotel when we first met. When I tried to speak to him in English, he replied in Japanese.	ฮิฮิ เขาพักอยู่ที่โรงแรมตอนที่เรา เจอกันครั้งแรกค่ะ พอฉันพยายามพูดภาษาอังกฤษกับเขา เขากลับตอบเป็นภาษาญี่ปุ่นซะอย่างนั้น
+04-1085	talk	And it's been smooth sailing ever since! We're basically studying each other's language, so we help each other learn.	แล้วตั้งแต่นั้นมาก็ราบรื่นดี ตลอดเลยค่ะ! เราก็เรียนภาษาของกันและกันไปด้วย ช่วยกันเรียนรู้ไปในตัว
+04-1086	talk	Maybe so! Though, I still can't say with confidence that I'm a true English speaker just yet...	อาจจะใช่นะคะ! แต่ฉันก็ยังพูดได้ไม่เต็มปากว่า เป็นคนพูดอังกฤษได้จริงๆ อยู่ดี...
+04-1087	talk	But, as long as I keep putting what I study into practice, I feel like I'm getting closer to my dream.	แต่ตราบใดที่ฉันยังเอาสิ่งที่ เรียนมาใช้ฝึกฝนต่อไปเรื่อย ๆ ฉันก็รู้สึกว่ากำลังเข้าใกล้ ความฝันของตัวเองมากขึ้นค่ะ
+04-1088	talk	You're really a helpful guy, you know that?	รู้ไหมคะว่าคุณยากามิเป็นคนที่ ช่วยเหลือคนอื่นได้ดีจริง ๆ เลยนะ
+04-1089	talk	Would you mind if I offered you a little something?	ถ้าฉันจะขอมอบอะไรเล็ก ๆ น้อย ๆ ให้ คุณจะรังเกียจไหมคะ?
+04-1090	talk	Well, you'd still have to pay for it, but I came up with a new recipe based on what a foreign customer told me.	ก็คือคุณยังต้องจ่ายเงินอยู่นะคะ แต่ฉันคิดสูตรใหม่ขึ้นมาจากสิ่ง ที่ลูกค้าชาวต่างชาติคน หนึ่งบอกฉันไว้
+04-1091	talk	We only have a limited amount of the ingredients, so we can't serve it to the public. But we'll make an exception for you, of course.	วัตถุดิบของเรามีจำกัด เลยเสิร์ฟให้ลูกค้าทั่วไปไม่ได้ค่ะ แต่กับคุณ เราขอทำข้อยกเว้นให้แน่นอน
+04-1092	talk	Not at all! It's the least I could do to show our appreciation. Please try it whenever you'd like!	ไม่รังเกียจเลยค่ะ! นี่เป็นอย่างน้อยที่สุดที่ฉัน ทำได้เพื่อแสดงความขอบคุณ ลองชิมได้ทุกเมื่อที่อยากลองเลยนะคะ!
+04-1093	talk	[Please let me know if you need anything.]	[หากต้องการอะไร บอกฉันได้เลยนะคะ]
+04-1094	talk	Excuse me? It's me, Megumi Hashimoto.	ขอโทษนะคะ? ดิฉันเมกุมิ ฮาชิโมโตะค่ะ
+04-1095	talk	Hashimoto-san. I've been expecting you. Please, have a seat.	คุณฮาชิโมโตะซัง ผมรอคุณอยู่พอดีครับ เชิญนั่งก่อนครับ
+04-1096	talk	You mentioned wanting to investigate your husband on possible infidelity. Do you have a reason to suspect him?	คุณบอกว่าอยากให้ผมสืบเรื่อง สามีของคุณ ว่าอาจนอกใจอยู่หรือเปล่า มีเหตุผลอะไรที่ทำให้คุณสงสัย เขาไหมครับ?
+04-1097	talk	Yes. It's not a first-hand account, but I'm told he's been seen walking around with another woman, holding her hand.	ค่ะ ไม่ใช่ว่าดิฉันเห็นเองหรอกนะคะ แต่มีคนบอกว่าเห็นเขาเดินจับมือ ผู้หญิงอีกคน
+04-1098	talk	And would you say this witness is reliable?	แล้วคุณคิดว่าพยานคนนี้ น่าเชื่อถือไหมครับ?
+04-1099	talk	Not with absolute certainty, no...	ก็...ไม่ได้มั่นใจร้อยเปอร์เซ็นต์หรอกค่ะ...
+04-1100	talk	But lately it feels like my husband has been kind of cold and distant...	แต่ช่วงหลังมานี้ สามีดิฉันดูเย็นชาและห่างเหินไป ยังไงไม่รู้...
+04-1101	talk	So even if this is just a nasty rumor, I can't help but feel like I need to find out the truth.	ต่อให้เรื่องนี้เป็นแค่ข่าวลือแย่ ๆ ดิฉันก็อดไม่ได้ที่จะรู้สึกว่า ต้องหาความจริงให้เจอ
+04-1102	talk	Yes. His name was Suguru Oka. He runs Oka Detective Agency.	ค่ะ เขาชื่อซุกุรุ โอกะ เป็นเจ้าของสำนักงานนักสืบโอกะ
+04-1103	talk	(Suguru Oka? I've never even heard of the guy.)	(ซุกุรุ โอกะ? ไม่เคยได้ยินชื่อคนนี้เลยแฮะ)
+04-1104	talk	And this... Oka-san, he told you he found no evidence of infidelity on your husband?	แล้วคุณโอกะซังคนนี้... เขาบอกคุณว่าไม่พบหลักฐานว่า สามีคุณนอกใจงั้นเหรอครับ?
+04-1105	talk	Yes... But something about it doesn't feel right.	ใช่ค่ะ... แต่มีบางอย่างที่รู้สึกไม่ชอบมาพากล
+04-1106	talk	Sorry... It's just my gut telling me that, really.	ขอโทษนะคะ... มันแค่สัญชาตญาณดิฉันบอกแบบนั้นจริง ๆ
+04-1107	talk	That's why I wanted a second opinion. If I'm wrong, I'm wrong, but I have to be certain.	นั่นแหละค่ะเหตุผลที่ดิฉัน อยากได้ความเห็นจากคนที่สอง ถ้าดิฉันคิดผิดก็คือผิด แต่ดิฉันต้องแน่ใจให้ได้
+04-1108	talk	I understand. And do you have any pictures of your husband? I'll need to be able to identify him.	เข้าใจแล้วครับ แล้วคุณมีรูปสามีคุณไหมครับ ผมต้องใช้จำหน้าเขาให้ได้
+04-1109	talk	Certainly. His name is Takefumi Hashimoto.	ได้ค่ะ เขาชื่อทาเคฟุมิ ฮาชิโมโตะ
+04-1110	talk	Can I ask what he does for a living?	ขอถามได้ไหมครับว่าเขาทำงานอะไร?
+04-1111	talk	He owns a real estate company here in Kamurocho.	เขาเป็นเจ้าของบริษัท อสังหาริมทรัพย์แถวคามุโรโจ นี่แหละค่ะ
+04-1112	talk	(So he owns his own company? If he's successful, he's got money to burn.)	(เจ้าของบริษัทเองเลยเหรอ? ถ้าทำได้ดีก็คงมีเงินเหลือเฟือสินะ)
+04-1113	talk	Considering all that... Will you accept, Yagami-san?	เมื่อพิจารณาทุกอย่างแล้ว... คุณยากามิซังจะรับคดีนี้ไหมคะ?
+04-1114	talk	Yes, I will. But there is one thing...	ครับ ผมรับครับ แต่มีเรื่องหนึ่งที่...
+04-1115	talk	I'm happy to give you my perspective on this, but you have to know, it could very well turn out just like last time.	ผมยินดีให้ความเห็นในเรื่องนี้ครับ แต่คุณต้องเข้าใจไว้ก่อนว่าผล อาจออกมาเหมือนครั้งที่แล้ว ก็ได้
+04-1116	talk	Is that something you can accept?	คุณรับผลแบบนั้นได้ไหมครับ?
+04-1117	talk	Yes. If it's the truth, I'll accept it.	ค่ะ ถ้ามันคือความจริง ดิฉันก็ยอมรับได้
+04-1118	talk	Great. It'll cost you 80,000 yen. Will that work for you?	ดีครับ ค่าจ้างจะอยู่ที่ 80,000 เยน โอเคไหมครับ?
+04-1119	talk	Of course. I just want to find out the truth and put this behind me, one way or another.	แน่นอนค่ะ ดิฉันแค่อยากรู้ความจริงแล้ว ปิดฉากเรื่องนี้ให้จบไป ไม่ว่าจะออกมาแบบไหนก็ตาม
+04-1120	talk	(Not sure why I would turn up anything that the last guy didn't, but I guess sometimes results need to be confirmed.)	(ไม่แน่ใจเหมือนกันว่าผมจะหาอะไร ที่คนก่อนหาไม่เจอได้ยังไง แต่บางทีผลลัพธ์ก็ต้องมีคน ยืนยันซ้ำอีกทีสินะ)
+04-1121	talk	My husband's real estate company is called Kiguchi Real Estate on East Shichifuku Street. Thank you, Yagami-san.	บริษัทอสังหาริมทรัพย์ของสามี ดิฉันชื่อคิกุจิ เรียลเอสเตท อยู่บนถนนชิจิฟุกุฝั่งตะวันออกค่ะ ขอบคุณนะคะ คุณยากามิซัง
+04-1122	talk	(All right, no time like the present.)	(เอาล่ะ ไม่มีเวลาไหนดีไปกว่าตอนนี้แล้ว)
+04-1123	talk	(This is where Megumi Hashimoto's husband works.)	(นี่คือที่ทำงานของสามีเมกุมิ ฮาชิโมโตะ)
+04-1124	talk	(I'm guessing he'll head home soon, so I just have to wait him out.)	(เดาว่าเขาคงจะกลับบ้านเร็ว ๆ นี้ ผมแค่ต้องรอเฝ้าดูไปก่อน)
+04-1125	talk	(That's my mark. Takefumi Hashimoto... All right, let's see where he's going.)	(นั่นแหละเป้าหมายของผม ทาเคฟุมิ ฮาชิโมโตะ... เอาล่ะ ไปดูกันว่าเขาจะไปไหน)
+04-1126	talk	(Better snap a picture while I can.)	(รีบถ่ายรูปไว้ตอนที่ยังทำได้ดีกว่า)
+04-1127	talk	Hey, Yagami-san. Get any good shots today?	เฮ้ คุณยากามิซัง วันนี้ได้รูปดี ๆ บ้างไหม?
+04-1128	talk	Ha, turns out predators are most vulnerable when they're hunting prey.	ฮ่ะ กลายเป็นว่านักล่าเองแหละที่ เปราะบางที่สุดตอนกำลัง ตามล่าเหยื่อ
+04-1129	talk	You learn something new everyday.	เรียนรู้อะไรใหม่ ๆ ได้ทุกวันเลยนะ
+04-1130	talk	...Who are you? Have you been tailing me?	...คุณเป็นใคร? แอบสะกดรอยตามผมอยู่เหรอ?
+04-1131	talk	I'm in the same line of work as you, actually.	ที่จริงฉันก็ทำงานสายเดียวกับ นายนั่นแหละ
+04-1132	talk	...You're a detective?	...คุณเป็นนักสืบเหรอ?
+04-1133	talk	Yup. Name's Suguru Oka.	ใช่แล้ว ชื่อซุกุรุ โอกะ
+04-1134	talk	Wait, Oka?	เดี๋ยวนะ โอกะ?
+04-1135	talk	...You're the guy Megumi-san hired to look into her husband, right?	...คุณคือคนที่คุณเมกุมิซังจ้างให้ สืบสามีเธอใช่ไหม?
+04-1136	talk	Sure am. And you're Yagami-san. I've heard a lot about you, actually.	ใช่เลย แล้วนายก็คือยากามิซังสินะ ที่จริงฉันได้ยินเรื่องนายมาเยอะเลยนะ
+04-1137	talk	What an honor. So, why were you tailing me?	เป็นเกียรติจริง ๆ แล้วทำไมคุณถึงสะกดรอยตามผมล่ะ?
+04-1138	talk	Well, it shouldn't come as much surprise. The lady's husband hired me.	ก็ไม่น่าแปลกใจอะไรหรอกนะ สามีของผู้หญิงคนนั้นน่ะจ้างฉัน
+04-1139	talk	He knew his wife wasn't satisfied with the results of my investigation, so he hired me to watch her.	เขารู้ว่าเมียตัวเองไม่พอใจผล สืบของฉัน เลยจ้างฉันให้จับตาดูเธอแทน
+04-1140	talk	Which led you to watching me. But that doesn't add up.	นั่นเลยทำให้คุณมาจับตาดูผมด้วย แต่มันฟังดูไม่สมเหตุสมผลนะ
+04-1141	talk	Wasn't it his wife who hired you to find out if he was cheating in the first place?	ตอนแรกเมียเขาต่างหากที่จ้างคุณ ให้สืบว่าเขานอกใจ หรือเปล่าไม่ใช่เหรอ?
+04-1142	talk	If that's true, how did you end up working for the husband?	ถ้างั้นคุณไปทำงานให้สามีเขาได้ยังไง?
+04-1143	talk	C'mon, Yagami-san. Don't you get it? I was <font_kind=yakuza_italic>re-hired</font_kind> by the husband.	ไม่เอาน่า ยากามิซัง ไม่เก็ตเหรอ? สามีเขา<font_kind=yakuza_italic>จ้างฉันใหม่</font_kind>อีกรอบต่างหาก
+04-1144	talk	Re-hired? What do you mean?	จ้างใหม่? หมายความว่ายังไงครับ?
+04-1145	talk	When the wife hired me, I found enough evidence to prove her husband was a cheater, but all the same...	ตอนที่เมียจ้างฉัน ฉันหาหลักฐานได้พอจะพิสูจน์ว่า สามีเธอนอกใจจริง แต่ถึงอย่างนั้น...
+04-1146	talk	Why would I give those pictures to her, when I could make double the money selling them to her husband?	ทำไมฉันต้องเอารูปพวกนั้นให้เธอ ในเมื่อขายให้สามีเธอได้เงิน เป็นสองเท่าล่ะ?
+04-1147	talk	So you betrayed your client.	ก็คือคุณทรยศลูกความตัวเองนั่นแหละ
+04-1148	talk	Hey, this may come as a shock to a little daisy like you...	เฮ้ นี่อาจช็อกไอ้เด็กใสซื่ออย่าง นายหน่อยนะ...
+04-1149	talk	But sometimes keeping food on the table means getting your hands dirty. You'll starve at your rate, Yagami.	แต่บางทีการหาเงินเลี้ยงปากท้อง ก็ต้องยอมเปื้อนมือบ้าง จะทำแบบนายมีหวังอดตายแน่ ยากามิ
+04-1150	talk	I think I'm doing fine.	ผมว่าผมก็ไปได้สวยดีนะ
+04-1151	talk	Look, let's talk business. I only told you all that because I've got a plan.	ฟังนะ มาคุยเรื่องธุรกิจกันดีกว่า ที่ฉันเล่าให้ฟังทั้งหมดก็เพราะ ฉันมีแผนอยู่
+04-1152	talk	That picture you just snapped is money for both of us.	รูปที่นายเพิ่งถ่ายไปน่ะคือเงิน ของเราสองคนเลยนะ
+04-1153	talk	Good money, too. Leave it with me, and I guarantee I'll get you at least 500k.	เงินก้อนโตด้วย ปล่อยให้ฉันจัดการ ฉันการันตีว่าเอามาให้นายได้อย่างน้อย 500,000 เยนแน่นอน
+04-1154	talk	Wait, you wouldn't...	เดี๋ยวนะ คุณจะไม่...
+04-1155	talk	You want to sell these pictures to the husband?	คุณอยากขายรูปพวกนี้ให้สามีเขาเหรอ?
+04-1156	talk	Exactly. I'll tell him I had to buy them from his wife's second detective, and I'll mark 'em up good.	เป๊ะเลย ฉันจะบอกเขาว่าต้องซื้อรูปมาจาก นักสืบคนที่สองของเมียเขา แล้วก็จะบวกราคาซะเยอะเลย
+04-1157	talk	And I'll split the payout 50/50 with you, which means you get a 25k payday. I'd say that's fair.	แล้วฉันจะแบ่งเงินให้นายครึ่งหนึ่ง เท่ากับนายได้ 25,000 เยน ยุติธรรมดีนะ
+04-1158	talk	Think about it, man. Wouldn't his wife be better off not knowing the truth anyway?	คิดดูสิ ยังไงเมียเขาก็คงมีความสุขกว่า ถ้าไม่รู้ความจริงหรอกนะ
+04-1159	talk	You can't tell me you don't need a payday like that. So come on. What do you say?	อย่ามาบอกนะว่านายไม่ต้องการ เงินก้อนแบบนั้น เอาน่า ว่าไง?
+04-1160	talk	There's nothing to consider.	ไม่มีอะไรต้องคิดหรอกครับ
+04-1161	talk	Guy like you belongs in a street gang, not a detective agency.	คนแบบคุณควรไปอยู่แก๊งข้างถนน ไม่ใช่สำนักงานนักสืบ
+04-1162	talk	Any detective who'd sell his own clients short hardly deserves the title.	นักสืบที่ขายลูกความตัวเองแบบนี้ ไม่สมควรได้ใช้คำว่านักสืบด้วยซ้ำ
+04-1163	talk	(She's going to be pretty broken up about it...)	(เธอคงต้องเสียใจไม่น้อยเลยกับ เรื่องนี้...)
+04-1164	talk	You're thinking about it, aren't you? You know I'm right.	นายกำลังคิดอยู่ใช่ไหมล่ะ? นายก็รู้ว่าฉันพูดถูก
+04-1165	talk	N-No. I'd never do that.	ไ-ไม่ ผมไม่มีวันทำแบบนั้นแน่
+04-1166	talk	How lame. You don't even know your own stance on this shit.	น่าสมเพชจริง นายยังไม่รู้จุดยืนตัวเองใน เรื่องแบบนี้เลยเหรอ
+04-1167	talk	Well, I know I'd never call myself a detective if I was just in it to scam my clients.	อย่างน้อยผมก็รู้ว่าถ้าผมทำ แบบนี้เพื่อหลอกลูกความ ผมคงไม่กล้าเรียกตัวเองว่า นักสืบหรอกครับ
+04-1168	talk	...That's a real shame. Here I was thinking we could be buds.	...น่าเสียดายจริง ๆ นึกว่าเราจะเป็นเพื่อนกันได้ซะอีก
+04-1169	talk	What would give you that idea? You're giving the whole profession a bad name, and I want no part of it.	อะไรทำให้คุณคิดแบบนั้นล่ะ? คุณกำลังทำให้ทั้งวงการเสียชื่อ ผมไม่ขอมีส่วนเกี่ยวข้องด้วยหรอก
+04-1170	talk	Well if you're going to hardline me, you leave me no choice...	ถ้านายจะแข็งขืนกับฉันขนาดนี้ ก็ไม่เหลือทางเลือกให้ฉันแล้วสิ...
+04-1171	talk	...This is how negotiations usually end for you, I take it?	...การเจรจาของคุณมักจบแบบนี้เสมอสินะ?
+04-1172	talk	Yup. I'm getting that photo, whether you like it or not.	ใช่แล้ว ฉันจะเอารูปนั้นให้ได้ ไม่ว่านายจะยอมหรือไม่ก็ตาม
+04-1173	talk	...Tch.	...เชอะ
+04-1174	talk	Lying, bribes, blackmail, "excessive" force... It all comes with the territory, my friend. You've got a lot to learn.	โกหก ติดสินบน แบล็กเมล์ ใช้กำลัง "เกินกว่าเหตุ"... มันมาพร้อมกับสายงานนี้แหละเพื่อนยาก นายยังต้องเรียนรู้อีกเยอะ
+04-1175	talk	So let me be the teacher this time! I'll show you how detectives have to live!	ครั้งนี้ให้ฉันเป็นครูสอนนายเอง! ฉันจะโชว์ให้ดูว่านักสืบต้อง ใช้ชีวิตยังไง!
+04-1176	talk	What was that about showing me how detectives live?	ว่าไงนะ เรื่องจะโชว์ให้ผมดูว่านักสืบ ต้องใช้ชีวิตยังไง?
+04-1177	talk	Y-You beat all these guys!? What the fuck!?	น-นายจัดการพวกนี้หมดเลยเหรอ!? เชี่ยไรวะเนี่ย!?
+04-1178	talk	This whole sorry mess will be in my report. But don't come crying to me when your rep is too shot to get work.	เรื่องบัดซบทั้งหมดนี้จะอยู่ใน รายงานของผม แต่อย่ามาร้องหาผมทีหลังนะ ถ้าชื่อเสียงคุณพังจนหางานไม่ได้
+04-1179	talk	Far as I'm concerned, you brought this on yourself. Take some time to consider where your values got you in life.	เท่าที่ผมเห็นนะ คุณทำตัวเองทั้งนั้น ลองใช้เวลาคิดดูดี ๆ ว่าค่านิยมแบบนั้นพาชีวิตคุณ มาถึงจุดไหน
+04-1180	talk	D-Damn you...!	บ-บ้าเอ๊ย นาย...!
+04-1181	talk	Damn. That was more trouble than I expected, but at least I got sufficient evidence.	โธ่เอ๊ย นั่นมันยุ่งยากกว่าที่คิดไว้เยอะเลย แต่อย่างน้อยผมก็ได้หลักฐาน เพียงพอแล้ว
+04-1182	talk	Hello, Hashimoto-san? I'm ready to make my report about your husband.	ฮัลโหล คุณฮาชิโมโตะซังใช่ไหมครับ? ผมพร้อมจะรายงานเรื่องสามีคุณแล้วครับ
+04-1183	talk	You found the truth? Is it... bad news?	คุณเจอความจริงแล้วเหรอคะ? มันคือ...ข่าวร้ายใช่ไหม?
+04-1184	talk	I'm afraid so.	เกรงว่าจะอย่างนั้นครับ
+04-1185	talk	I'll give you the details at my office. Would you mind meeting me there?	ผมจะให้รายละเอียดที่สำนักงานผมนะครับ คุณจะรังเกียจไหมถ้าจะมาเจอกันที่นั่น?
+04-1186	talk	Of course, but... Would you mind if I brought my husband?	ได้เลยค่ะ แต่... คุณจะรังเกียจไหมถ้าดิฉันพาสามีมาด้วย?
+04-1187	talk	Your husband, Ma'am?	สามีคุณด้วยเหรอครับ?
+04-1188	talk	Yes, I have a feeling he's going to try to weasel his way out of it.	ค่ะ ดิฉันมีลางสังหรณ์ว่าเขาจะ พยายามหาทางแก้ตัวให้พ้นตัว
+04-1189	talk	I'd like to have an eye-witness as my back-up...	ดิฉันอยากมีพยานรู้เห็นไว้ เป็นตัวช่วยหน่อย...
+04-1190	talk	Okay... Whenever you're ready, meet me at my office with your husband.	ครับ... พร้อมเมื่อไหร่ก็มาเจอผมที่ สำนักงานพร้อมสามีคุณได้เลยครับ
+04-1191	talk	...And that's my report. I think it's safe to say your husband has been cheating on you.	...นั่นคือรายงานของผมครับ ผมว่าพูดได้เต็มปากว่าสามีคุณ นอกใจคุณจริง
+04-1192	talk	...Hah! This is ridiculous. It's a completely innocent kiss.	...ฮะ! นี่มันไร้สาระสิ้นดี แค่จูบธรรมดา ๆ ไม่มีอะไรเลย
+04-1193	talk	Megumi, I know it looks bad, but you still trust me, don't you?	เมกุมิ ผมรู้ว่ามันดูไม่ดี แต่คุณยังเชื่อผมอยู่ใช่ไหม?
+04-1194	talk	Sir, does the name Suguru Oka ring any bells? He's another PI I believe you're familiar with.	คุณครับ ชื่อซุกุรุ โอกะคุ้น ๆ ไหมครับ? เขาเป็นนักสืบเอกชนอีกคนที่ผม คิดว่าคุณคงคุ้นเคยดี
+04-1195	talk	...No?	...ไม่นะ?
+04-1196	talk	No? You paid the man to dispose of the evidence he had against you, did you not?	ไม่เหรอครับ? คุณจ่ายเงินให้เขาเพื่อทำลาย หลักฐานที่มีต่อคุณไม่ใช่เหรอ ครับ?
+04-1197	talk	There's no use lying about it.	โกหกไปก็ไม่มีประโยชน์หรอกครับ
+04-1198	talk	...Ngh... No! No, no, no! I don't know anything about this!	...อึก... ไม่! ไม่ ไม่ ไม่! ผมไม่รู้เรื่องอะไรทั้งนั้น!
+04-1199	talk	So I was played for a fool twice... By the other investigator, and you.	ถ้างั้นดิฉันก็โดนหลอกซ้ำสองครั้ง... ทั้งจากนักสืบคนก่อน แล้วก็จากคุณ
+04-1200	talk	To think that I trusted you!	นึกไม่ถึงเลยว่าดิฉันจะเคยเชื่อใจคุณ!
+04-1201	talk	Ah, no, you've got it all wrong!	อ๊ะ ไม่ใช่ คุณเข้าใจผิดหมดเลย!
+04-1202	talk	I trust you can handle the rest, Hashimoto-san?	ผมเชื่อว่าคุณจัดการต่อจากนี้ เองได้นะครับ คุณฮาชิโมโตะซัง?
+04-1203	talk	...Yes. I have a lot to think about.	...ค่ะ ดิฉันมีเรื่องต้องคิดเยอะเลย
+04-1204	talk	Thank you for everything, Yagami-san.	ขอบคุณสำหรับทุกอย่างนะคะ คุณยากามิซัง
+04-1205	talk	W-Wait, let's not do anything hasty, Megumi! It was just one mistake!	เ-เดี๋ยวก่อน อย่าเพิ่งทำอะไรใจร้อนสิ เมกุมิ! มันแค่พลาดไปครั้งเดียวเอง!
+04-1206	talk	You've gotta forgive me, Megumi!	คุณต้องให้อภัยผมนะ เมกุมิ!
+04-1207	talk	("How detectives have to live," huh? Maybe, but my way is working out fine so far.)	("นักสืบต้องใช้ชีวิตยังไง" เหรอ? อาจจะจริง แต่วิธีของผมก็ได้ผลดีอยู่นะ)
+04-1208	talk	(Nice, I got that kiss on camera. He's certainly not talking his way out of this one.)	(เยี่ยม ผมถ่ายรูปจูบนั้นได้ทัน คราวนี้เขาคงแก้ตัวไม่ขึ้นแน่)
+04-1209	talk	(I got a shot of them getting intimate. It's not as close as I would've liked, but this'll do.)	(ผมถ่ายรูปตอนที่พวกเขาใกล้ชิด กันได้แล้ว ไม่ได้ใกล้อย่างที่อยากได้เท่าไหร่ แต่ก็พอใช้ได้)
+04-1210	talk	And according to your request, you've had another PI look into this as well?	และตามที่คุณร้องขอมา คุณก็ให้นักสืบเอกชนอีกคนมาสืบ เรื่องนี้ด้วยใช่ไหมครับ?
+04-1211	talk	(This picture will be enough to prove the husband's infidelity.)	(รูปนี้น่าจะเพียงพอจะพิสูจน์ว่า สามีนอกใจแล้ว)
+04-1212	talk	Well hey, Tak. You're a sight for sore eyes.	อ้าว ทาคุ เจอหน้าแล้วชื่นใจจังเลยนะ
+04-1213	talk	Right back at you. How's business these days?	เหมือนกันเลย ช่วงนี้ธุรกิจเป็นยังไงบ้าง?
+04-1214	talk	Fabulous as always. Do you even need to ask?	ดีเหมือนเดิมสิ จะถามทำไมกันเนี่ย?
+04-1215	talk	Hah, I guess not. How do I get on your level, Mari? Teach me the ways.	ฮะ ก็จริงสิ แล้วผมจะเก่งเท่ามาริได้ยังไงล่ะ? สอนหน่อยสิ
+04-1216	talk	Hmm... Lately I've been thinking about the secret to success... And I think it depends entirely on one's insight.	อืม... ช่วงนี้ฉันกำลังคิดเรื่อง เคล็ดลับความสำเร็จอยู่พอดี... แล้วฉันว่ามันขึ้นอยู่กับไหวพริบล้วน ๆ เลย
+04-1217	talk	Insight?	ไหวพริบเหรอ?
+04-1218	talk	Yes. For instance, I gain a lot by reading people's gestures and facial expressions. That's how I make my moves.	ใช่ ยกตัวอย่างเช่น ฉันได้อะไรเยอะมากจากการอ่าน ท่าทางและสีหน้าคน นั่นแหละคือวิธีที่ฉันตัดสินใจ
+04-1219	talk	Huh. Color me impressed.	โห ต้องยอมรับเลยนะเนี่ย
+04-1220	talk	Oh, I'm sure you're just as good. You <font_kind=yakuza_italic>are</font_kind> a detective, aren't you?	โธ่ ฉันมั่นใจว่านายก็เก่งไม่แพ้กันหรอก ก็นาย<font_kind=yakuza_italic>เป็น</font_kind>นักสืบนี่นา ใช่ไหมล่ะ?
+04-1221	talk	Haha, well, yes.	ฮ่าฮ่า ก็...ใช่นะ
+04-1222	talk	Then why don't you and I play a little game?	งั้นนายกับฉันมาเล่นเกมเล็ก ๆ กันไหมล่ะ?
+04-1223	talk	What kind of game?	เกมแบบไหนล่ะ?
+04-1224	talk	You see that office worker type sitting over there?	เห็นคนที่ดูเหมือนพนักงานออฟฟิศ นั่งอยู่ตรงโน้นไหม?
+04-1225	talk	Let's bet on how many more drinks he'll take before he uses the restroom.	มาเดิมพันกันว่าเขาจะดื่มอีกกี่ แก้วก่อนจะเข้าห้องน้ำ
+04-1226	talk	You can really infer that?	เดาแบบนั้นได้จริง ๆ เหรอ?
+04-1227	talk	Yup. I'd say he's good for three more.	อือ ฉันว่าเขาน่าจะไหวอีกสามแก้ว
+04-1228	talk	Uh... Okay...?	เอ่อ... โอเค...?
+04-1229	talk	Ahaha, you're not getting it, are you? Let me give you a hint.	อาฮ่าฮ่า นายยังไม่เก็ตสินะ? เดี๋ยวให้คำใบ้หน่อย
+04-1230	talk	I noticed he came back from the restroom not too long ago, so let's assume he's feeling pretty relieved.	ฉันสังเกตว่าเขาเพิ่งกลับมาจาก ห้องน้ำไม่นาน เพราะงั้นสมมติว่าตอนนี้เขาคง รู้สึกโล่งอกอยู่
+04-1231	talk	Now, Tak. If you had to guess, how many more drinks will it take to send him back to the little boy's room?	ทีนี้ ทาคุ ถ้าให้เดา นายว่าเขาต้องดื่มอีกกี่แก้วถึง จะต้องกลับไปห้องน้ำอีกรอบ?
+04-1232	talk	Hmm... Let me think this through.	อืม... ขอผมคิดดูก่อนนะ
+04-1233	talk	(Maybe his body language will give me some kind of hint.)	(บางทีภาษากายของเขาอาจให้เบาะแส อะไรบางอย่างก็ได้)
+04-1234	talk	(I don't see him squirming around or eyeballing the restroom or anything like that. Maybe he's still good?)	(ไม่เห็นเขานั่งอยู่ไม่สุขหรือ ชำเลืองมองห้องน้ำอะไรเลย บางทีเขาอาจยังไหวอยู่?)
+04-1235	talk	You're just going to stare at him and hope the answer comes to you?	นายจะจ้องเขาเฉย ๆ แล้วหวังว่าคำตอบจะโผล่มาเองงั้นเหรอ?
+04-1236	talk	Give me a second here.	ขอเวลาผมแป๊บนึง
+04-1237	talk	(His face isn't red or anything like that. Did he just start drinking?)	(หน้าเขาก็ไม่แดงหรืออะไรเลย เพิ่งเริ่มดื่มหรือเปล่านะ?)
+04-1238	talk	I see you squinting, Tak...	เห็นนายหรี่ตามองอยู่นะ ทาคุ...
+04-1239	talk	Yeah, a good detective's got a good squint, Mari. Patience.	ใช่ นักสืบที่ดีต้องมีสายตาหรี่มอง ที่ดีด้วย มาริ ต้องอดทน
+04-1240	talk	(What's he drinking over there?)	(เขาดื่มอะไรอยู่นะ?)
+04-1241	talk	Hey chief, what's that guy having?	เฮ้พี่ ไอ้คนนั้นเขาดื่มอะไรอยู่เหรอ?
+04-1242	talk	Hm? Oh, a Red Eye.	หืม? อ๋อ เรดอายครับ
+04-1243	talk	Ah, okay. That's a cocktail with tomato juice and beer, right?	อ๋อ โอเค นั่นค็อกเทลน้ำมะเขือเทศผสม เบียร์ใช่ไหม?
+04-1244	talk	You got it.	แน่นอนครับ
+04-1245	talk	(Tomato juice is rich in potassium, which is a natural diuretic...)	(น้ำมะเขือเทศอุดมไปด้วยโพแทสเซียม ซึ่งเป็นสารขับปัสสาวะตามธรรมชาติ...)
+04-1246	talk	(Which may just mean he'll get up to use the restroom sooner than Mari thinks.)	(ซึ่งอาจแปลว่าเขาจะลุกไปเข้า ห้องน้ำเร็วกว่าที่มาริคิดไว้ ก็ได้)
+04-1247	talk	You about ready to ante up, Tak? Don't keep a lady waiting.	พร้อมจะวางเดิมพันหรือยัง ทาคุ? อย่าให้สาวต้องรอนานสิ
+04-1248	talk	My bad. I'm ready now.	ขอโทษที พร้อมแล้วครับ
+04-1249	talk	He'll go after one more drink.	อีกแก้วเดียวเขาก็ไปแล้ว
+04-1250	talk	Wow, aggressive. All right then.	โห ดุเดือดจัง เอาล่ะงั้น
+04-1251	talk	He'll go after two more drinks.	อีกสองแก้วเขาก็ไปแล้ว
+04-1252	talk	So you're guessing right ahead of me. You sly devil.	งั้นนายจะเดาก่อนฉันเลยสินะ เจ้าเล่ห์
+04-1253	talk	Oh, and I probably should've mentioned... Loser pays the tab.	อ้อ แล้วก็ลืมบอกไปว่า... คนแพ้ต้องจ่ายบิลนะ
+04-1254	talk	Just to warn you, Tak. Mari drinks like a fish as it is, but today she's been drinking like a whale. Better watch out.	เตือนไว้ก่อนนะ ทาคุ ปกติมาริก็ดื่มจัดอยู่แล้ว แต่วันนี้ดื่มหนักกว่าเดิมอีก ระวังไว้ดีกว่า
+04-1255	talk	Are you serious!?	จริงจังหรือเปล่าเนี่ย!?
+04-1256	talk	Relax! Let's just see how this plays out...	ใจเย็น! มาดูกันว่ามันจะออกมายังไง...
+04-1257	talk	(Gahhh! Please let me be right!)	(แงะ! ขอให้ผมเดาถูกเถอะ!)
+04-1258	talk	Hey, pour me another, if you would.	นี่ ขอเติมอีกแก้วหน่อยสิ
+04-1259	talk	Coming right up.	ได้เลย เดี๋ยวจัดให้
+04-1260	talk	Hah! Might as well whip out your wallet right now.	ฮ่ะ! ควักกระเป๋าเงินออกมาได้แล้วนะเนี่ย
+04-1261	talk	I haven't lost just yet! If he gets up after the next one, then it's a draw!	ผมยังไม่แพ้นะครับ! ถ้าเขาลุกไปหลังจากแก้วต่อไป ก็ถือว่าเสมอกัน!
+04-1262	talk	Fair enough. Then we'll just have to wait and see.	ก็ได้ งั้นก็ต้องรอดูกันต่อไป
+04-1263	talk	Nice! So far, so good...	เยี่ยม! เท่าที่ผ่านมาก็ยังไปได้สวย...
+04-1264	talk	Don't get too ahead of yourself now. We've got a ways to go, I'd say.	อย่าเพิ่งชะล่าใจไปนักสิ ฉันว่ายังอีกไกลอยู่นะ
+04-1265	talk	Oh man, I gotta hit the can. Back in a sec, bartender.	โอ๊ย ต้องเข้าห้องน้ำแล้ว เดี๋ยวมานะบาร์เทนเดอร์
+04-1266	talk	Don't need my permission.	ไม่ต้องขออนุญาตผมหรอกครับ
+04-1267	talk	Damn, so it was two drinks...	บ้าเอ๊ย งั้นก็สองแก้วสินะ...
+04-1268	talk	Aww, I was off today. Gotta up my game here.	แหม วันนี้ฉันเดาพลาดไปหน่อย ต้องเพิ่มฟอร์มหน่อยแล้ว
+04-1269	talk	So it's a draw, then.	งั้นก็เสมอกันสินะ
+04-1270	talk	Hmph, I guess I could settle for a draw. For today.	ฮึ่ม ก็เอาแค่เสมอไปก่อนแล้วกัน สำหรับวันนี้นะ
+04-1271	talk	Whew... That was a close one.	ฮู้ว... หวุดหวิดจริง ๆ
+04-1272	talk	Yes! Right on the money!	เย่! ถูกเป๊ะเลย!
+04-1273	talk	Aww, really? Huh. Not bad, Tak.	แหม จริงเหรอ? โห ไม่เลวเลยนะ ทาคุ
+04-1274	talk	But I have to know. What made you come to that conclusion?	แต่ฉันต้องรู้ให้ได้ อะไรทำให้นายสรุปแบบนั้น?
+04-1275	talk	Because of what he's drinking.	เพราะสิ่งที่เขาดื่มอยู่ไงล่ะ
+04-1276	talk	You know how Red Eyes contain tomato juice?	รู้ไหมว่าเรดอายมีน้ำมะเขือเทศผสมอยู่?
+04-1277	talk	Well, tomato juice is rich in potassium, which is a natural diuretic. Figured sooner was better than later.	น้ำมะเขือเทศอุดมไปด้วยโพแทสเซียม ซึ่งเป็นสารขับปัสสาวะตามธรรมชาติ ผมเลยคิดว่าเร็วน่าจะดีกว่าช้า
+04-1278	talk	Wow, you really thought that one through. Guess you're not a detective for nothing, huh? I'm actually impressed.	โห นายคิดมาละเอียดจริง ๆ นะเนี่ย เป็นนักสืบไม่ได้มีดีแค่ชื่อสินะ ยอมรับเลยจริง ๆ
+04-1279	talk	Nah, I was just doing my thing.	เปล่าหรอก ผมก็แค่ทำในสิ่งที่ถนัด
+04-1280	talk	Then let's do this again sometime. A drink and a bet make any night more interesting.	งั้นคราวหน้ามาเล่นแบบนี้กันอีกนะ เหล้าสักแก้วกับการเดิมพันทำให้ คืนไหนก็สนุกขึ้นได้เสมอ
+04-1281	talk	Ah, Tak. Come to cheer me up?	อ้าว ทาคุ มาให้กำลังใจฉันเหรอ?
+04-1282	talk	What do you mean, you're as radiant as ever.	หมายความว่ายังไง มาริยังสดใสเหมือนเดิมนี่นา
+04-1283	talk	Well, I haven't been working as much, so. Eh.	ก็...ช่วงนี้ไม่ค่อยได้ทำงานเท่าไหร่น่ะ เอ่อ
+04-1284	talk	Ah. "Work," right.	อ๋อ "งาน" สินะ
+04-1285	talk	So, any chance you want to make tonight more interesting with another bet?	งั้นคืนนี้อยากทำให้สนุกขึ้น ด้วยการเดิมพันอีกรอบไหมล่ะ?
+04-1286	talk	...Does the loser still have to pay?	...คนแพ้ยังต้องจ่ายอยู่เหมือนเดิมไหม?
+04-1287	talk	Really? You're worried about losing before the wager's even made?	จริงเหรอ? กลัวแพ้ทั้งที่ยังไม่ได้เดิมพัน เลยเนี่ยนะ?
+04-1288	talk	Yes, but, fine. Let's do it.	ใช่ แต่...ก็ได้ มาเล่นกันเลย
+04-1289	talk	Hehe, now we're talking.	เฮะเฮะ นี่สิถึงจะได้เรื่อง
+04-1290	talk	Let's see here... How about we bet on whether the next customer's a guy or a girl?	ดูซิ... มาเดิมพันกันไหมว่าลูกค้าคน ต่อไปจะเป็นผู้ชายหรือผู้หญิง?
+04-1291	talk	But... that's completely up to luck!	แต่... นั่นมันขึ้นอยู่กับดวงล้วน ๆ เลยนะ!
+04-1292	talk	Exactly! That's what makes it so exciting! I'm gonna bet on the fairer sex and say "girl."	ใช่เลย! นั่นแหละที่ทำให้มันตื่นเต้น! ฉันขอเดิมพันฝ่ายที่สวยกว่าแล้วกัน ขอว่า "ผู้หญิง"
+04-1293	talk	Any objections?	มีข้อโต้แย้งไหม?
+04-1294	talk	It was your idea. I guess that leaves me with the guys.	ก็มันเป็นไอเดียของมาริเองนี่นา งั้นผมก็ต้องเอาฝั่งผู้ชายไป
+04-1295	talk	Haha... Then let the contest begin! Luck be a lady tonight, hm?	ฮ่าฮ่า... งั้นเริ่มการแข่งขันกันเลย! ขอให้โชคเข้าข้างสาว ๆ คืนนี้นะ?
+04-1296	talk	Hey, Tak. Just so you know, Mari's been throwing them back. She's coming for your wallet hard if you lose.	เฮ้ ทาคุ บอกไว้ก่อนนะ มาริดื่มรัว ๆ มาตลอดเลย ถ้านายแพ้ กระเป๋าเงินนายมีหวังเจ็บหนักแน่
+04-1297	talk	Again? Really? Then luck be a dude tonight, please!	อีกแล้วเหรอ? จริงดิ? งั้นขอให้โชคเข้าข้างหนุ่ม ๆ คืนนี้เถอะนะ!
+04-1298	talk	...This is taking forever. I'm gonna head to the ladies' room for a minute.	...นี่มันนานเหลือเกิน ฉันขอตัวไปห้องน้ำหญิงแป๊บนึงนะ
+04-1299	talk	(Wait a sec... Who says it has to come down to luck?)	(เดี๋ยวนะ... ใครบอกว่ามันต้องขึ้นอยู่กับดวงล่ะ?)
+04-1300	talk	(Would it really be so wrong... to just call someone over right now?)	(มันจะผิดขนาดนั้นเลยเหรอ... ถ้าผมจะโทรเรียกใครสักคนมาตอนนี้เลย?)
+04-1301	talk	(I mean, she just sauntered off, she had to be thinking the same thing...)	(ก็เธอเพิ่งเดินยักตัวจากไปเมื่อกี้ คงคิดแบบเดียวกันแหละน่า...)
+04-1302	talk	(Well, it's on, then. Now who should I call up...)	(เอาล่ะ งั้นก็ลุยเลย ทีนี้จะโทรเรียกใครดีนะ...)
+04-1303	talk	(Oh, Kaito-san, of course! All right, let's give him a call before Mari comes back...)	(อ้อ ไคโตะซังไงล่ะ! เอาล่ะ รีบโทรหาเขาก่อนมาริจะกลับมา...)
+04-1304	talk	(Damn it, he's not picking up! Of all the days...!)	(บ้าเอ๊ย เขาไม่รับสายเลย! วันนี้มาไม่รับได้ไง...!)
+04-1305	talk	(How about Genda-sensei? He might be down to drink. Let's see if I can call him before Mari gets back...)	(แล้วอาจารย์เก็นดะล่ะ? เขาอาจจะพร้อมมาดื่มก็ได้ ลองโทรหาดูก่อนมาริจะกลับมา...)
+04-1306	talk	(How about Tsukumo? Bet Mari would never see him coming...)	(แล้วสึคุโมะล่ะ? มาริต้องไม่ทันตั้งตัวแน่ ๆ...)
+04-1307	talk	Hello? Oh, what can I do for you, Yagami-shi?	ฮัลโหล? อ้อ มีอะไรให้ช่วยเหรอ ยากามิ?
+04-1308	talk	Sorry to bug, Tsukumo, but I need you to come to Tender right away!	โทษที รบกวนนะ สึคุโมะ แต่ผมอยากให้นายมาที่เทนเดอร์ เดี๋ยวนี้เลย!
+04-1309	talk	Huh? A bar? Me?	หา? บาร์เนี่ยนะ? ฉันเนี่ยนะ?
+04-1310	talk	Please, I know it's tough, but if you could just do me a solid... And do it quick!	นะ ผมรู้ว่ามันยากสำหรับนาย แต่ถ้าช่วยผมหน่อยได้ไหม... แล้วรีบมาด้วยนะ!
+04-1311	talk	I don't really get it, but if it's that important to you, sure! Hehe.	ฉันก็ไม่ค่อยเข้าใจเท่าไหร่หรอก แต่ถ้ามันสำคัญกับนายขนาดนั้น ได้เลย! เฮ่อ
+04-1312	talk	Sorry! And thanks! Seriously though, I need you to bust your ass!	ขอโทษนะ! แล้วก็ขอบใจด้วย! พูดจริง ๆ นะ รีบมาให้ไวที่สุดเลย!
+04-1313	talk	(All right! Now I'll win for sure!)	(เอาล่ะ! คราวนี้ผมชนะแน่นอน!)
+04-1314	talk	Tak. What were you up to just now?	ทาคุ เมื่อกี้แอบทำอะไรอยู่?
+04-1315	talk	N-Nothing...	เ-เปล่าเลย...
+04-1316	talk	Nothing? And I was so sure you'd take that opportunity to call up one of your boys.	เปล่าเหรอ? ฉันนึกว่านายจะฉวยโอกาสโทรเรียก พรรคพวกมาซะอีก
+04-1317	talk	Oh come on... I'd never do something like that. Probably.	ไม่เอาน่า... ผมไม่มีวันทำแบบนั้นหรอก มั้ง
+04-1318	talk	Certainly not. Besides, it would have been pointless if you had.	ไม่มีทางหรอก แล้วต่อให้ทำจริงก็คง ไร้ประโยชน์อยู่ดี
+04-1319	talk	...And why would that be?	...แล้วทำไมถึงเป็นแบบนั้นล่ะ?
+04-1320	talk	Anyone who you'd consider calling is probably off drinking at another bar by now.	คนที่นายคิดจะโทรเรียกน่ะ ป่านนี้คงไปนั่งดื่มอยู่ที่บาร์ อื่นแล้วล่ะ
+04-1321	talk	(...What?)	(...อะไรนะ?)
+04-1322	talk	I mean, if you <font_kind=yakuza_italic>were</font_kind> going to call someone, it'd be Kaito-san or Genda-sensei, am I right?	ก็คือถ้านาย<font_kind=yakuza_italic>จะ</font_kind>โทรเรียกใครจริง ๆ ก็คงเป็นไคโตะซังหรือ อาจารย์เก็นดะนี่แหละ ใช่ไหมล่ะ?
+04-1323	talk	Boys will be boys. Not that I'm worried. I had a contingency plan already.	ผู้ชายก็แบบนี้แหละ แต่ฉันไม่ได้กังวลอะไรหรอกนะ เพราะฉันมีแผนสำรองไว้แล้ว
+04-1324	talk	I couldn't beat you last time, and losing simply doesn't suit me, so...	ครั้งที่แล้วฉันเอาชนะนายไม่ได้ แล้วการแพ้ก็ไม่เหมาะกับฉันเลย เพราะงั้น...
+04-1325	talk	Haha, I may or may not have made a call to an acquaintance of my own...	ฮ่าฮ่า ฉันอาจจะโทรหาคนรู้จักของตัวเอง ไปแล้วก็ได้นะ...
+04-1326	talk	On top of that, I invited Kaito-kun and Genda-sensei to my other friend's bar.	แถมฉันยังชวนไคโตะคุงกับ อาจารย์เก็นดะไปที่บาร์ของ เพื่อนอีกคนของฉันด้วยนะ
+04-1327	talk	Really? That's... Wow.	จริงเหรอ? นั่น...โห
+04-1328	talk	Should I do my victory dance now or later? *giggle*	ฉันควรเต้นฉลองชัยตอนนี้เลยดี หรือรอไว้ทีหลังดีนะ? *หัวเราะคิกคัก*
+04-1329	talk	Maaariii, I'm heeere! ♪ Sorry to keep you waiting!	มาริ๊ ~ ฉันมาแล้ว! ขอโทษที่ให้รอนะ!
+04-1330	talk	No problem. Ready to drink till you drop?	ไม่เป็นไรเลย พร้อมดื่มจนล้มหรือยัง?

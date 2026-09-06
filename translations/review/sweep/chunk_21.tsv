@@ -1,0 +1,1526 @@
+id	bin	EN	TH
+21-0001	sound_auth	I doubt we'd be able to make an appointment.\nWith Shono <font_kind=yakuza_italic>or</font_kind> Kido.	ผมว่าคงขอนัดหมายไม่ได้หรอก\nทั้งกับโชโนะ<font_kind=yakuza_italic>หรือ</font_kind>คิโดะ
+21-0002	sound_auth	Then we won't make an appointment.	งั้นก็ไม่ต้องนัดสิ
+21-0003	sound_auth	Then we won't make\nan appointment.	งั้นก็ไม่ต้อง\nนัดหมายสิ
+21-0004	sound_auth	All we do is wait in the lobby,\nthen ambush Shono when he comes out.	แค่ไปนั่งรอที่ล็อบบี้\nแล้วดักโชโนะตอนที่เขาออกมาก็จบ
+21-0005	sound_auth	All we do is wait for Shono in the lobby,\nthen ambush him when he comes out.	แค่ไปนั่งรอโชโนะที่ล็อบบี้\nแล้วดักเขาตอนที่ออกมาก็จบ
+21-0006	sound_auth	A stakeout, huh?\nThat's my kinda job.	ดักซุ่มสังเกตการณ์เหรอ?\nงานถนัดของฉันเลยนี่นา
+21-0007	sound_auth	A stakeout, huh?\nWell, if I gotta do it...	ดักซุ่มสังเกตการณ์เหรอ?\nเอาวะ ถ้าต้องทำก็ทำ...
+21-0008	sound_auth	Actually, you're gonna be staying back.	อันที่จริง นายต้องอยู่เฝ้าบ้านนะ
+21-0009	sound_auth	Nope. You're gonna be staying back.	ไม่ นายต้องอยู่เฝ้าบ้านต่างหาก
+21-0010	sound_auth	I mean, they'd catch on in a heartbeat\nif they saw a tough guy like you standing around.	ก็คือ พวกเขาคงจับพิรุธได้ทันที\nถ้าเห็นคนหน้าตาบึกบึนแบบนายมา ยืนป้วนเปี้ยนแถวนั้น
+21-0011	sound_auth	With a big thug like you standing around\nis gonna make academic types nervous.	ถ้ามีนักเลงตัวใหญ่แบบนายไปยืน ป้วนเปี้ยนแถวนั้น\nพวกนักวิชาการคงตื่นตระหนกกันหมด
+21-0012	sound_auth	And Hoshino-kun.\nYou should go back to Genda's.	แล้วก็โฮชิโนะคุง\nกลับไปที่สำนักงานเก็นดะก่อนเถอะ
+21-0013	sound_auth	And Hoshino-kun should go\nback to Genda's.	แล้วก็โฮชิโนะคุงก็ควร\nกลับไปที่สำนักงานเก็นดะด้วย
+21-0014	sound_auth	Okay, but...	โอเค แต่...
+21-0015	sound_auth	All right, then.\nSounds like I'm tagging along.	โอเคครับ งั้น\nดูเหมือนผมจะได้ไปด้วยสินะ
+21-0016	sound_auth	Okay. Sounds like I'm coming\non the ADDC tour.	โอเคครับ ดูเหมือนผมจะได้\nไปทัวร์ ADDC ด้วยสินะ
+21-0017	sound_auth	Yeah. Let's go.	ใช่ ไปกันเลย
+21-0018	sound_auth	Yup. Let's go.	ใช่ ไปกันเถอะ
+21-0019	sound_auth	Man, this place is fucking huge...	โห ที่นี่ใหญ่ชิบหายเลย...
+21-0020	sound_auth	This place is fucking huge...\nWhat <font_kind=yakuza_italic>is</font_kind> all this?	ที่นี่ใหญ่ชิบหายเลย...\nนี่มัน<font_kind=yakuza_italic>อะไร</font_kind>กันหมดเนี่ย?
+21-0021	sound_auth	Keep it close to your chest, Sugiura.\nWe're supposed to blend in, remember?	เก็บอาการหน่อย ซุกิอุระ\nเราต้องกลมกลืนไปกับที่นี่ไม่ใช่เหรอ?
+21-0022	sound_auth	Keep it close to your chest, Sugiura.\nWe're supposed to blend in.	เก็บอาการหน่อย ซุกิอุระ\nเราต้องกลมกลืนไปกับที่นี่นะ
+21-0023	sound_auth	Now, let's settle down\nand wait for Shono.	เอาล่ะ ใจเย็นๆ\nรอโชโนะกันก่อน
+21-0024	sound_auth	But what if he already went home?\nC'mon, let's ask somebody.	แต่ถ้าเขากลับบ้านไปแล้วล่ะ?\nไปถามใครสักคนเถอะครับ
+21-0025	sound_auth	I dunno. What if he already went home?\nC'mon, let's ask somebody.	ไม่รู้สิครับ ถ้าเขากลับบ้านไปแล้วล่ะ?\nไปถามใครสักคนเถอะ
+21-0026	sound_auth	I don't wanna sit here all night\nif he's never coming out.	ผมไม่อยากนั่งอยู่ที่นี่ทั้งคืน\nถ้าสุดท้ายเขาไม่ออกมาเลย
+21-0027	sound_auth	Excuse me, do you mind\nif I ask you something?	ขอโทษนะครับ ขอถามอะไร\nหน่อยได้ไหมครับ?
+21-0028	sound_auth	Is Shono-san from the AD-9 team\nstill here?	คุณโชโนะซังจากทีม AD-9\nยังอยู่ที่นี่ไหมครับ?
+21-0029	sound_auth	Has Shono-san from the\nAD-9 team already left?	คุณโชโนะซังจากทีม AD-9\nกลับไปแล้วหรือยังครับ?
+21-0030	sound_auth	Oh, um, most likely.\nHe's always one of the last researchers to leave.	อ้อ เอ่อ น่าจะยังอยู่ค่ะ\nเขามักจะเป็นนักวิจัยกลุ่ม สุดท้ายที่กลับเสมอ
+21-0031	sound_auth	No... He's always one of the\nlast researchers to leave.	เปล่าค่ะ... เขามักจะเป็น\nนักวิจัยกลุ่มสุดท้ายที่กลับเสมอ
+21-0032	sound_auth	Do you have an appointment\nwith him, sir?	คุณมีนัดกับเขา\nไว้หรือเปล่าคะ?
+21-0033	sound_auth	Do you have an appointment?	คุณมีนัดไว้หรือเปล่าคะ?
+21-0034	sound_auth	Not exactly, no.	ก็ไม่เชิงหรอกนะ
+21-0035	sound_auth	Oh, Yagami-san.\nGood evening.	โอ้ ยากามิซัง\nสวัสดีค่ะ
+21-0036	sound_auth	Good evening, Yagami-san.	สวัสดีค่ะ ยากามิซัง
+21-0037	sound_auth	Oh, you're...	อ้อ คุณคือ...
+21-0038	sound_auth	Hashimoto. I showed you\nto Shono's lab the other day.	ฮาชิโมโตะค่ะ เมื่อไม่กี่วันก่อนฉันพาคุณ\nไปที่แล็บของโชโนะ
+21-0039	sound_auth	I showed you to Shono's lab the other day.\nI'm Hashimoto.	เมื่อไม่กี่วันก่อนฉันพาคุณไป ที่แล็บของโชโนะค่ะ\nฉันชื่อฮาชิโมโตะ
+21-0040	sound_auth	Oh, right.\nGood to see you.	อ้อ จริงด้วย\nดีใจที่เจอกันอีก
+21-0041	sound_auth	Oh... right! Good to see you.	อ้อ... จริงด้วย! ดีใจที่เจอกันอีก
+21-0042	sound_auth	Do you need something\nmore from him?	คุณยังมีธุระอะไร\nกับเขาอีกไหมคะ
+21-0043	sound_auth	Do you need something more\nfrom him?	คุณยังมีธุระอะไรกับเขา\nอีกไหมคะ
+21-0044	sound_auth	Yagami-san, there he is.\nIt's Shono.	ยากามิซัง เขาอยู่นั่นไงคะ\nคือโชโนะ
+21-0045	sound_auth	There he is, Yagami-san.\nIt's Shono.	เขาอยู่นั่นไงคะ ยากามิซัง\nคือโชโนะ
+21-0046	sound_auth	Gotta run!	ผมต้องไปแล้วล่ะ!
+21-0047	sound_auth	Gotta run.	ต้องไปแล้วล่ะครับ
+21-0048	sound_auth	Over there, by the stairs.	ตรงนั้นไง ตรงบันได
+21-0049	sound_auth	Found him.\nLooks like he's talking to Kido.	เจอแล้ว\nดูเหมือนเขากำลังคุยกับคิโดะ
+21-0050	sound_auth	What do we do?	เราจะทำยังไงดี?
+21-0051	sound_auth	<color=ｍonologue>(There are some researchers talking over there.)</color>	<color=ｍonologue>(มีนักวิจัยคุยกันอยู่ตรงนั้น)</color>
+21-0052	sound_auth	<color=ｍonologue>(There are some researchers\ntalking over there.)</color>	<color=ｍonologue>(มีนักวิจัยคุยกัน\nอยู่ตรงนั้น)</color>
+21-0053	sound_auth	<color=ｍonologue>(Is that...\nNo, not him.)</color>	<color=ｍonologue>(นั่นใช่...\nไม่ใช่ ไม่ใช่เขา)</color>
+21-0054	sound_auth	<color=ｍonologue>(No, I think Shono's shorter\nthan that.)</color>	<color=ｍonologue>(ไม่สิ ผมว่าโชโนะตัวเตี้ยกว่า\nนั้น)</color>
+21-0055	sound_auth	<color=ｍonologue>(Is that Kido?\nI'm looking for Shono, though.)\n	<color=ｍonologue>(นั่นคิโดะเหรอ\nแต่ผมกำลังหาโชโนะอยู่นะ)\n
+21-0056	sound_auth	Okay, let's move in.	โอเค เข้าไปกันเลย
+21-0057	sound_auth	Let's move in.	เข้าไปกันเลย
+21-0058	sound_auth	Well if it isn't Yagami-san!\nKamurocho's finest private eye.	แหม ไม่ใช่ใครอื่น ยากามิซังนี่เอง!\nนักสืบเอกชนฝีมือดีที่สุดของคามุโรโจ
+21-0059	sound_auth	Well, if it isn't Yagami-san!\nKamurocho's finest private eye.	แหม ไม่ใช่ใครอื่นนอกจากยากามิซัง!\nนักสืบเอกชนฝีมือดีที่สุดของคามุโรโจ
+21-0060	sound_auth	You again.	มาอีกแล้วเหรอเนี่ย
+21-0061	sound_auth	...You.	...คุณนี่เอง
+21-0062	sound_auth	This had better be the last time\nI see you in this Center.	หวังว่านี่จะเป็นครั้งสุดท้าย\nที่ผมต้องเจอคุณในศูนย์นี้นะ
+21-0063	sound_auth	Are you aware that I filed a complaint\nwith the bar association about you?	คุณรู้ไหมว่าผมยื่นเรื่องร้องเรียนคุณ\nไปที่เนติบัณฑิตยสภาแล้ว?
+21-0064	sound_auth	I've filed a complaint\nwith the bar association.	ผมยื่นเรื่องร้องเรียนคุณ\nไปที่เนติบัณฑิตยสภาแล้ว
+21-0065	sound_auth	Aren't you the Vice Minister of Health?	คุณนี่รองปลัดกระทรวงสาธารณสุข ไม่ใช่เหรอ?
+21-0066	sound_auth	You're that bureaucrat, right?\nVice Minister of Health, was it?	คุณนี่ข้าราชการคนนั้นใช่ไหม\nรองปลัดกระทรวงสาธารณสุขใช่ไหมนะ?
+21-0067	sound_auth	It's Ichinose.	ผมชื่ออิจิโนเสะ
+21-0068	sound_auth	Yeah, I remember you from the other day.\nLooks like you come here often.	ใช่ ผมจำคุณได้จากเมื่อวันก่อน\nดูเหมือนคุณจะมาที่นี่บ่อยนะ
+21-0069	sound_auth	Of course. The success of AD-9\nis a matter of national importance.	แน่นอนอยู่แล้ว ความสำเร็จของ AD-9\nเป็นเรื่องสำคัญระดับชาติ
+21-0070	sound_auth	As such, there are a great many discussions\nthat need to be had. Patents, legislation, the like.	ด้วยเหตุนี้จึงมีเรื่องต้อง พูดคุยกันอีกมาก\nทั้งสิทธิบัตร กฎหมาย และอื่น ๆ
+21-0071	sound_auth	As such, there are a great many discussions to be had\nabout patents, legislation, and the like.	ด้วยเหตุนี้จึงมีเรื่องต้อง พูดคุยกันอีกมาก\nทั้งเรื่องสิทธิบัตร กฎหมาย และอื่น ๆ
+21-0072	sound_auth	Now, I suggest you leave before\nI call the guards to escort you out.	ตอนนี้ผมแนะนำให้คุณกลับไปซะ ก่อนที่\nผมจะเรียกยามมาคุ้มกันคุณออกไป
+21-0073	sound_auth	Now, I suggest you leave before\nI call security.	ตอนนี้ผมแนะนำให้คุณกลับไปซะ ก่อนที่\nผมจะเรียกฝ่ายรักษาความปลอดภัยมา
+21-0074	sound_auth	So much for the plan.\nShono's gonna be on red alert after that.	แผนพังเรียบร้อย\nหลังจากนี้โชโนะต้องระวังตัวสุดๆแน่
+21-0075	sound_auth	Doubt he'll be coming down through\nthe lobby now. What do we do?	คงไม่มาทางล็อบบี้แล้วล่ะตอนนี้\nเราจะทำยังไงดี
+21-0076	sound_auth	Doubt he'll be visiting the lobby now.\nWhat do we do?	คงไม่แวะล็อบบี้แล้วล่ะตอนนี้\nเราจะทำยังไงดี
+21-0077	sound_auth	Hashimoto-san.\nSorry for running off earlier.	ฮาชิโมโตะซัง\nขอโทษที่วิ่งหนีไปเมื่อกี้นะครับ
+21-0078	sound_auth	It's all right.\nI, um... saw what happened.	ไม่เป็นไรค่ะ\nฉัน เอ่อ... เห็นเหตุการณ์ที่เกิดขึ้นน่ะค่ะ
+21-0079	sound_auth	It's all right.\nI actually saw what happened...	ไม่เป็นไรค่ะ\nที่จริงฉันเห็นเหตุการณ์ที่ เกิดขึ้นด้วยนะคะ...
+21-0080	sound_auth	Dr. Shono slipped away\nfrom you, huh?	ดร.โชโนะหลบหนีไปได้\nสินะคะ
+21-0081	sound_auth	Shono-sensei slipped away\nfrom you, huh?	อาจารย์โชโนะหลบหนีไปได้\nสินะคะ
+21-0082	sound_auth	Yeah. We just wanted to talk, too...	ใช่ครับ พวกเราแค่อยากคุยด้วยเหมือนกัน...
+21-0083	sound_auth	Hm. He has been especially busy lately.	อืม เขาไม่ค่อยว่างเลยช่วงนี้ค่ะ
+21-0084	sound_auth	Hm. He <font_kind=yakuza_italic>has</font_kind> been\nespecially busy lately.	อืม เขา<font_kind=yakuza_italic>ยุ่ง</font_kind>มากจริง ๆ\nช่วงนี้ค่ะ
+21-0085	sound_auth	Lately he only goes home once\nevery three days or so.	ช่วงนี้เขากลับบ้านแค่\nสามวันครั้งเท่านั้นเองค่ะ
+21-0086	sound_auth	Shono-sensei spends all day in his lab,\nand only goes home once every three days.	อาจารย์โชโนะอยู่ในแล็บทั้งวันเลยค่ะ\nกลับบ้านแค่สามวันครั้งเท่านั้น
+21-0087	sound_auth	Even so, he makes his morning rounds\nat the hospital every single day without fail.	แต่ถึงอย่างนั้นเขาก็ยังออกตรวจ รอบเช้า\nที่โรงพยาบาลทุกวันไม่เคยขาดเลยค่ะ
+21-0088	sound_auth	I can't overstate how much respect\nI have for him.	พูดเท่าไหร่ก็ไม่พอกับความเคารพ\nที่ฉันมีต่อเขาเลยค่ะ
+21-0089	sound_auth	You really have to admire him.	ต้องยอมรับในตัวเขาจริง ๆ ค่ะ
+21-0090	sound_auth	<color=ｍonologue>(Shono makes his rounds every morning?)</color>	<color=ｍonologue>(โชโนะออกตรวจรอบทุกเช้างั้นเหรอ)</color>
+21-0091	sound_auth	What do you mean, "rounds"?	หมายความว่ายังไง "ตรวจรอบ" น่ะ?
+21-0092	sound_auth	Uh... What do you mean, "rounds"?	เอ่อ... หมายความว่ายังไง "ตรวจรอบ" น่ะ?
+21-0093	sound_auth	It's a little custom of his. He takes a walk around\nthe hospital every morning. Been doing it for years.	เป็นธรรมเนียมเล็ก ๆ ของเขาน่ะค่ะ เขาจะเดินตรวจรอบ\nโรงพยาบาลทุกเช้า ทำแบบนี้มาหลายปีแล้ว
+21-0094	sound_auth	Right... Shono-sensei considers it his morning walk\naround the hospital. He's been doing it for years now.	ค่ะ... อาจารย์โชโนะถือว่ามันเป็นการ เดินออกกำลังตอนเช้า\nรอบโรงพยาบาลน่ะค่ะ ทำแบบนี้มาหลายปีแล้ว
+21-0095	sound_auth	Right.\nHe did the same three years ago.	จริงด้วย\nเมื่อสามปีก่อนเขาก็ทำแบบนี้เหมือนกัน
+21-0096	sound_auth	Oh yeah... He did the same\nthree years ago.	อ้อ จริงด้วย... เมื่อสามปีก่อน\nเขาก็ทำแบบนี้เหมือนกัน
+21-0097	sound_auth	Passion like his is what's going\nto make or break our research.	ความทุ่มเทแบบเขานี่แหละที่จะ เป็นตัวชี้ขาด\nว่างานวิจัยของเราจะสำเร็จหรือล้มเหลว
+21-0098	sound_auth	His passion will surely bring about\nsome amazing new drugs.	ความทุ่มเทของเขาต้องนำไปสู่\nยาตัวใหม่ที่น่าทึ่งแน่นอนค่ะ
+21-0099	sound_auth	And with that, I should be going.\nSorry to be so curt.	เอาล่ะ ฉันต้องไปแล้วค่ะ\nขอโทษที่รีบไปแบบนี้นะคะ
+21-0100	sound_auth	Now, I'm sorry to run,\nbut I really should be going.	ขอโทษจริง ๆ ที่ต้องรีบไป\nแต่ฉันต้องไปแล้วจริง ๆ ค่ะ
+21-0101	sound_auth	Goodbye, then.	งั้นก็แล้วกัน ลาก่อนนะ
+21-0102	sound_auth	Security on Shono's lab is airtight.\nCan't get in without a special gold keycard.	ระบบรักษาความปลอดภัยของแล็บ โชโนะแน่นหนามาก\nเข้าไม่ได้เลยถ้าไม่มีคีย์การ์ด สีทองพิเศษ
+21-0103	sound_auth	We know security on Shono's lab is airtight.\nCan't get in without a gold keycard.	เรารู้อยู่แล้วว่าระบบรักษา ความปลอดภัยของแล็บโชโนะแน่นหนา มาก\nเข้าไม่ได้เลยถ้าไม่มีคีย์การ์ดสีทอง
+21-0104	sound_auth	But that's not the case for the hospital wing.\nMeaning we have some time to kill until Shono's rounds.	แต่ตึกโรงพยาบาลไม่ใช่แบบนั้น\nแปลว่าเรามีเวลาฆ่าเวลาจนกว่า โชโนะจะออกตรวจรอบ
+21-0105	sound_auth	But... that's not the case for the hospital wing.\nMeaning we can kill time until Shono's rounds.	แต่... ตึกโรงพยาบาลไม่ใช่แบบนั้น\nแปลว่าเราฆ่าเวลาไปจนกว่าโชโนะ จะออกตรวจรอบได้
+21-0106	sound_auth	Wait, you wanna chill 'til the morning\nand ambush him in the hospital?	เดี๋ยวนะ นายอยากรอเฉย ๆ จนถึงเช้า\nแล้วดักซุ่มโจมตีเขาในโรงพยาบาลเหรอ?
+21-0107	sound_auth	Yeah. Just have to sneak in\nbetween now and then.	ใช่ แค่ต้องแอบเข้าไป\nในช่วงเวลานี้จนถึงตอนนั้น
+21-0108	sound_auth	Yup. Just have to sneak in\nbetween now and then.	ใช่ แค่ต้องแอบเข้าไป\nในช่วงนี้จนถึงตอนนั้นแหละ
+21-0109	sound_auth	Guess the next question is...\nWhere do we get in?	งั้นคำถามต่อไปก็คือ...\nเราจะเข้าไปทางไหนดี?
+21-0110	sound_auth	Makes sense...\nNow, where do we get in?	ก็มีเหตุผล...\nทีนี้ เราจะเข้าไปทางไหนดี?
+21-0111	sound_auth	Let's check the map.	มาดูแผนที่กันดีกว่า
+21-0112	sound_auth	This is the garage for the hospital.	นี่คือโรงจอดรถของโรงพยาบาล
+21-0113	sound_auth	The service entrance, that is.\nAnyone who makes deliveries parks down here.	คือทางเข้าสำหรับส่งของน่ะ\nใครก็ตามที่มาส่งของจะจอดรถตรงนี้
+21-0114	sound_auth	The service entrance.\nAnyone who makes deliveries parks down here.	ทางเข้าสำหรับส่งของ\nใครก็ตามที่มาส่งของจะจอดรถตรงนี้
+21-0115	sound_auth	Heh, this could work.	เฮ่ อาจจะใช้ได้นะเนี่ย
+21-0116	sound_auth	Heh... this could work.	เฮ่... อาจจะใช้ได้นะเนี่ย
+21-0117	sound_auth	That's Director Kido's office.\nThere's nothing we need up there.	นั่นห้องทำงานของผู้อำนวยการคิโดะ\nไม่มีอะไรที่เราต้องการอยู่ ข้างบนนั้นหรอก
+21-0118	sound_auth	The Director's office.\nKido's in there... We'd better stay away.	ห้องทำงานผู้อำนวยการ\nคิโดะอยู่ข้างในนั่น... เราควรอยู่ให้ห่างไว้ดีกว่า
+21-0119	sound_auth	The research wing where Shono's lab is.\nCan't sneak in with all that security.	ตึกวิจัยที่แล็บของโชโนะอยู่\nแอบเข้าไปไม่ได้หรอกด้วยระบบ รักษาความปลอดภัยขนาดนั้น
+21-0120	sound_auth	The research wing. Shono's lab is in here...\nCan't sneak in with all that security.	ตึกวิจัย แล็บของโชโนะอยู่ตรงนี้...\nแอบเข้าไปไม่ได้หรอกด้วยระบบ รักษาความปลอดภัยขนาดนั้น
+21-0121	sound_auth	Why don't we just steal a keycard, then?\nOne of them gold ones.	งั้นก็แค่ขโมยคีย์การ์ดมาสิ\nเอาแบบสีทองนั่นแหละ
+21-0122	sound_auth	So, why don't we just steal a keycard?\nA gold one, right?	งั้นทำไมเราไม่แค่ขโมยคีย์การ์ดมาล่ะ?\nแบบสีทองน่ะ ใช่ไหม?
+21-0123	sound_auth	No need to get violent.\nMost of those researchers are innocent.	ไม่จำเป็นต้องใช้ความรุนแรงหรอก\nนักวิจัยพวกนั้นส่วนใหญ่ก็ไม่ รู้เรื่องอะไรด้วย
+21-0124	sound_auth	We should just sneak into the hospital\nand wait until morning for Shono.	เราควรแอบเข้าไปในโรงพยาบาล\nแล้วรอจนถึงเช้าเพื่อดักโชโนะดีกว่า
+21-0125	sound_auth	If we just sneak into the hospital and wait,\nShono should pop up.	ถ้าเราแอบเข้าไปในโรงพยาบาลแล้วรอเฉย ๆ\nโชโนะน่าจะโผล่มาเอง
+21-0126	sound_auth	This is the research wing.\nShono works here.	นี่คือตึกวิจัย\nโชโนะทำงานอยู่ที่นี่
+21-0127	sound_auth	This is research wing.\nShono works here.	นี่คือตึกวิจัย\nโชโนะทำงานอยู่ที่นี่
+21-0128	sound_auth	The security gate.\nThe research wing is just past here.	ประตูรักษาความปลอดภัย\nตึกวิจัยอยู่เลยจากตรงนี้ไปหน่อยเดียว
+21-0129	sound_auth	This gate leads to the hospital.	ประตูนี้เชื่อมไปยังโรงพยาบาล
+21-0130	sound_auth	Here's the gate.\nIt leads to the hospital.	นี่ไงประตู\nมันเชื่อมไปยังโรงพยาบาล
+21-0131	sound_auth	You need a keycard to get past, though.	แต่ต้องมีคีย์การ์ดถึงจะผ่านไปได้นะ
+21-0132	sound_auth	But... we'll need a keycard\nto get past security.	แต่... เราต้องมีคีย์การ์ด\nถึงจะผ่านระบบรักษาความปลอดภัยไปได้
+21-0133	sound_auth	Guess we're sneaking in\nthrough the garage, huh?	งั้นก็ต้องแอบเข้าไป\nทางโรงจอดรถสินะ?
+21-0134	sound_auth	Yeah. Come on, let's head outside.\nWe should go scope the place out.	ใช่ เอาล่ะ ไปกันเถอะ\nเราควรไปสำรวจพื้นที่ก่อน
+21-0135	sound_auth	Yup. Come on, let's head outside.\nGotta scope the place out.	เอาสิ ไปกันเถอะ\nต้องไปสำรวจพื้นที่ก่อน
+21-0136	sound_auth	Are you from\nthe Yagami Detective Agency?	พวกคุณมาจาก\nสำนักงานนักสืบยากามิใช่ไหม?
+21-0137	sound_auth	I'm the head of security here.\nThe name's Mashiko.	ผมเป็นหัวหน้าฝ่ายรักษา ความปลอดภัยที่นี่\nชื่อมาชิโกะ
+21-0138	sound_auth	I'm Mashiko, the head of security here.	ผมมาชิโกะ หัวหน้าฝ่ายรักษาความปลอดภัยที่นี่
+21-0139	sound_auth	The vice minister has instructed me\nto see you two out.	ท่านรองปลัดสั่งให้ผม\nพาคุณสองคนออกไปข้างนอก
+21-0140	sound_auth	Vice minister's orders. I'll have to see\nthe both of you out of the building.	คำสั่งของท่านรองปลัด ผมต้อง\nพาคุณทั้งสองคนออกจากตึกนี้ไป
+21-0141	sound_auth	Ichinose-san did?	อิจิโนเสะซังสั่งเหรอ?
+21-0142	sound_auth	Ichinose-san's orders?	คำสั่งของอิจิโนเสะซังเหรอ?
+21-0143	sound_auth	You blind or something?\nWe're already leaving.	ตาบอดหรือไงวะ\nเราจะกลับอยู่แล้วนี่
+21-0144	sound_auth	Look, you blind or something?\nWe're already leaving.	นี่ ตาบอดหรือไงวะ\nเราจะกลับอยู่แล้วนี่
+21-0145	sound_auth	I'm sorry, but I'm going to have to escort\nyou the rest of the way.	ขอโทษด้วยนะครับ แต่ผมต้อง\nคุ้มกันคุณไปจนสุดทาง
+21-0146	sound_auth	I'm sorry, but I'll have to escort you\nthe rest of the way.	ขอโทษด้วยนะครับ แต่ผมต้อง\nคุ้มกันคุณไปตลอดทาง
+21-0147	sound_auth	That's a lot of guys for an "escort."	ใช้คนเยอะเกินไปหน่อยนะสำหรับแค่ "คุ้มกัน"
+21-0148	sound_auth	How many men did you\nthink you'd need?	คิดว่าต้องใช้คนตั้งเท่าไหร่\nกันแน่เนี่ย?
+21-0149	sound_auth	Hey, where the hell're you taking us?\nAnswer me, asshole!	เฮ้ย จะพาพวกเราไปไหนวะ\nตอบมาสิ ไอ้เวร!
+21-0150	sound_auth	This should be fine.	ตรงนี้ก็น่าจะพอแล้วละ
+21-0151	sound_auth	This should be far enough.	ตรงนี้ก็ไกลพอแล้วละ
+21-0152	sound_auth	Mashiko-san, yeah?\nWhat exactly did Ichinose tell you to do?	มาชิโกะซังใช่ไหม\nอิจิโนเสะสั่งให้คุณทำอะไรกันแน่?
+21-0153	sound_auth	Make sure you never show your\nface here again.	แค่ให้แน่ใจว่าคุณจะไม่กล้า\nโผล่หน้ามาที่นี่อีก
+21-0154	sound_auth	Make sure you never show\nyour face here again.	แค่ให้แน่ใจว่าคุณจะไม่กล้าโผล่\nหน้ามาที่นี่อีก
+21-0155	sound_auth	The fuck...?	อะไรวะเนี่ย...?
+21-0156	sound_auth	That doesn't look like\nstandard-issue guard equipment.	นั่นดูไม่เหมือน\nอุปกรณ์มาตรฐานของยามเลยนะ
+21-0157	sound_auth	Is that thing standard-issue around here?	ของแบบนั้นเป็นอุปกรณ์มาตรฐาน ที่นี่เหรอ?
+21-0158	sound_auth	That's 'cause it's not.\nThis is more of a... personal effect.	ก็เพราะมันไม่ใช่ไงล่ะ\nอันนี้เป็นของส่วนตัวมากกว่า...
+21-0159	sound_auth	No, not really.\nThis is more of a... personal effect.	เปล่า ไม่ใช่หรอก\nอันนี้เป็นของส่วนตัวมากกว่า...
+21-0160	sound_auth	And lemme guess,\nyou're off the clock?	แล้วขอเดานะ\nคุณเลิกงานแล้วสินะ?
+21-0161	sound_auth	And lemme guess, you're off the clock?	แล้วขอเดานะ คุณเลิกงานแล้วสินะ?
+21-0162	sound_auth	You bet. I'm on break...\nAnd I'm ready to blow off some steam.	ใช่เลย ผมกำลังพักอยู่พอดี...\nและพร้อมจะระบายความเครียดสักหน่อย
+21-0163	sound_auth	You bet. I'm on break...\nand I'm ready to blow off some steam.	ใช่เลย ผมกำลังพักอยู่พอดี...\nและพร้อมจะระบายความเครียด สักหน่อยแล้ว
+21-0164	sound_auth	Now fight me!	เอาล่ะ มาสู้กัน!
+21-0165	sound_auth	Let's go, detective!	ลุยกันเลย นักสืบ!
+21-0166	sound_auth	C'mon, do you have to keep waving?	เฮ้ย จำเป็นต้องโบกไปมาแบบนั้นด้วยเหรอ?
+21-0167	sound_auth	Hey, I think they got the point.	เฮ้ย คิดว่าพวกเขาเก็ตแล้วนะ
+21-0168	sound_auth	Whaddya mean?\nThey're the only reason we got in so easy.	หมายความว่าไง?\nเพราะพวกเขานี่แหละเราถึงเข้ามา ได้ง่ายขนาดนี้
+21-0169	sound_auth	True. Though ultimately, we have\nthe vice minister to thank for that.	จริงด้วย แต่สุดท้ายแล้ว\nเราก็ต้องขอบคุณท่านรองปลัด สำหรับเรื่องนั้นแหละนะ
+21-0170	sound_auth	True. Though I gotta say,\nthe vice minister was a big help.	จริงด้วย แต่ต้องบอกเลยว่า\nท่านรองปลัดช่วยได้เยอะจริง ๆ
+21-0171	sound_auth	So? How's it look?\nAny different from three years ago?	แล้วไง? เป็นยังไงบ้าง?\nต่างจากเมื่อสามปีก่อนไหม?
+21-0172	sound_auth	Well? How's it look?\nAny different from three years ago?	เอาล่ะ? เป็นยังไงบ้าง?\nต่างจากเมื่อสามปีก่อนไหม?
+21-0173	sound_auth	Not even a little bit.	ไม่ต่างเลยแม้แต่นิดเดียว
+21-0174	sound_auth	Nope. Not a bit.	ไม่เลย ไม่ต่างเลย
+21-0175	sound_auth	Well, it's open.	อ้อ มันเปิดอยู่นี่
+21-0176	sound_auth	You're not going in?	นายไม่เข้าไปเหรอ?
+21-0177	sound_auth	And lose my perfectly good smoking spot?\nWe'll be fine here for now. Just gotta wait for dawn.	แล้วเสียจุดสูบบุหรี่ดี ๆ ไปเหรอ?\nอยู่ตรงนี้ก่อนแหละ แค่รอให้ฟ้าสางก็พอ
+21-0178	sound_auth	What, and lose my perfectly good smoking spot?\nWe'll be fine here for now. Just gotta wait for dawn.	อะไรนะ แล้วเสียจุดสูบบุหรี่ดี ๆ ไปเหรอ?\nอยู่ตรงนี้ก่อนแหละ แค่รอให้ฟ้าสางก็พอ
+21-0179	sound_auth	Great...	เยี่ยมไปเลย...
+21-0180	sound_auth	Yagami-san. Have you decided\nhow you're gonna approach Shono?	ยากามิซัง คุณตัดสินใจแล้วหรือยัง\nว่าจะเข้าหาโชโนะยังไง?
+21-0181	sound_auth	Yagami-san. Any idea how\nyou're gonna approach Shono?	ยากามิซัง มีไอเดียหรือยัง\nว่าจะเข้าหาโชโนะยังไง?
+21-0182	sound_auth	We just have to confront him head on.\nWhere we go from there depends on his response.	เราแค่ต้องเผชิญหน้ากับเขาตรง ๆ\nจากนั้นจะทำยังไงต่อก็ ขึ้นอยู่กับปฏิกิริยาของเขา
+21-0183	sound_auth	We just have to confront him head on.\nWhere we go from there is up to him.	เราแค่ต้องเผชิญหน้ากับเขาตรง ๆ\nจากนั้นจะเป็นยังไงต่อก็แล้วแต่ เขาแหละ
+21-0184	sound_auth	You don't wanna negotiate with him?	นายไม่คิดจะต่อรองกับเขาก่อนเหรอ?
+21-0185	sound_auth	You don't wanna negotiate?	นายไม่คิดจะต่อรองก่อนเหรอ?
+21-0186	sound_auth	I doubt we have the time for that.	ผมว่าเราคงไม่มีเวลาสำหรับ เรื่องนั้นหรอก
+21-0187	sound_auth	Nah. I doubt we have\nthe time for that.	ไม่ล่ะ ผมว่าเราคงไม่มีเวลา\nสำหรับเรื่องนั้นหรอก
+21-0188	sound_auth	After all, this is probably the only chance\nwe'll get to talk to Shono before Ayabe's trial.	ยังไงก็เถอะ นี่คงเป็นโอกาสเดียว\nที่เราจะได้คุยกับโชโนะก่อนคดี ของอายาเบะจะขึ้นศาล
+21-0189	sound_auth	After all, this is probably the only chance we'll get\nto talk to Shono before Ayabe's trial.	ยังไงก็เถอะ นี่คงเป็นโอกาสเดียวที่เราจะได้\nคุยกับโชโนะก่อนคดีของอายาเบะจะ ขึ้นศาล
+21-0190	sound_auth	...Guess so, huh.	...ก็คงงั้นแหละนะ
+21-0191	sound_auth	...Guess so.	...ก็คงงั้น
+21-0192	sound_auth	Meaning we don't have time\nto waste on negotiation.	หมายความว่าเราไม่มีเวลา\nมาเสียไปกับการต่อรองหรอก
+21-0193	sound_auth	Speakin' of Shono,\nI actually had an idea.	พูดถึงโชโนะแล้ว\nฉันมีไอเดียอยู่อย่างนึงนะ
+21-0194	sound_auth	Though, ah... speakin' of Shono,\nI actually had an idea.	อ้อ เอ่อ... พูดถึงโชโนะแล้ว\nฉันมีไอเดียอยู่อย่างนึงนะ
+21-0195	sound_auth	Hm? What's that?	อืม? นั่นอะไรน่ะ?
+21-0196	sound_auth	Well, the murder at\nthe ADDC three years ago...	ก็คือคดีฆาตกรรมที่\nADDC เมื่อสามปีก่อนน่ะ...
+21-0197	sound_auth	The murder at the ADDC\nthree years ago...	คดีฆาตกรรมที่ ADDC\nเมื่อสามปีก่อนน่ะ...
+21-0198	sound_auth	The thought is that Shono framed Okubo\nfor that and got away with it, right?	คือคิดว่าโชโนะใส่ร้ายโอคุโบะ\nแล้วก็รอดตัวไปได้ ใช่ไหม?
+21-0199	sound_auth	Shono was behind it. He even framed Okubo\nfor that whole thing, right?	โชโนะอยู่เบื้องหลังเรื่องนี้ แถมยังใส่ร้ายโอคุโบะ\nให้รับผิดแทนทั้งหมดด้วย ใช่ไหม?
+21-0200	sound_auth	But you defended Okubo, and won.	แต่นายเป็นทนายแก้ต่างให้โอคุโบะ แล้วก็ชนะคดีด้วย
+21-0201	sound_auth	But you still defended Okubo,\nand won.	แต่นายก็ยังเป็นทนายแก้ต่างให้โอคุโบะ\nแล้วก็ชนะคดีด้วย
+21-0202	sound_auth	Wouldn't the cops've started looking for the real killer\nonce they realized Okubo wasn't their guy?	แล้วตำรวจไม่เริ่มตามหาฆาตกรตัวจริง\nพอรู้ว่าโอคุโบะไม่ใช่คนร้ายเหรอ?
+21-0203	sound_auth	So after he got cleared... wouldn't the cops\nhave started chasing the real killer?	แล้วหลังจากที่เขาพ้นผิด... ตำรวจไม่เริ่ม\nไล่ล่าฆาตกรตัวจริงเหรอ?
+21-0204	sound_auth	I'm sure they did.	ผมว่าพวกเขาก็ทำแบบนั้นแหละ
+21-0205	sound_auth	But... it wasn't long\nuntil Okubo killed again.	แต่... ไม่นานหลังจากนั้น\nโอคุโบะก็ฆ่าคนอีกครั้ง
+21-0206	sound_auth	But... it wasn't long until Okubo killed again.\nThe next murder changed everything.	แต่... ไม่นานหลังจากนั้นโอคุโบะก็ฆ่า คนอีกครั้ง\nการฆาตกรรมครั้งถัดมาเปลี่ยน ทุกอย่างไปเลย
+21-0207	sound_auth	They didn't have much reason\nto keep searching, I would imagine.	ผมว่าพวกเขาคงไม่มีเหตุผล\nจะตามหาต่อแล้วมั้ง
+21-0208	sound_auth	Thanks to that... I figure they didn't bother\ndoing much searching.	เพราะแบบนั้น... ผมว่าพวกเขาคงไม่ค่อยพยายาม\nตามหาต่อสักเท่าไหร่
+21-0209	sound_auth	<color=ｍonologue>(And thanks to that, Shono's escaped consequences\nfor what he did.)</color>	<color=ｍonologue>(และเพราะแบบนั้น โชโนะเลยรอดพ้นจากผลที่ตามมา\nจากสิ่งที่เขาทำ)</color>
+21-0210	sound_auth	Got that right.	พูดถูกเผงเลย
+21-0211	sound_auth	Everyone pegged him as the murderer.	ทุกคนตราหน้าเขาว่าเป็นฆาตกร
+21-0212	sound_auth	Everyone pinned him as a murderer.	ทุกคนปักใจว่าเขาเป็นฆาตกร
+21-0213	sound_auth	Makes sense they'd think he's\nthe one responsible for Waku-san, too.	ก็สมเหตุสมผลที่พวกเขาจะคิดว่าเขา\nเป็นคนก่อเหตุกับวาคุซังด้วยเหมือนกัน
+21-0214	sound_auth	After that, no wonder they thought he killed\nWaku-san, too. Anyone would believe that.	หลังจากนั้นก็ไม่แปลกที่พวกเขา จะคิดว่าเขาฆ่า\nวาคุซังด้วยเหมือนกัน ใครๆ ก็ต้องเชื่อแบบนั้นแหละ
+21-0215	sound_auth	But... don't you think that's kinda convenient?\nFor one person in particular, I mean.	แต่... นายไม่คิดเหรอว่ามันดูสะดวก เกินไปหน่อย?\nสำหรับใครบางคนโดะยเฉพาะน่ะ
+21-0216	sound_auth	But that's exactly it. It seems a little too convenient...\nfor one guy in particular.	แต่นั่นแหละคือประเด็น มันดูสะดวกเกินไปหน่อย...\nสำหรับใครบางคนโดะยเฉพาะ
+21-0217	sound_auth	The guy who was doing human experiments\nat the ADDC. Shono.	คนที่ทำการทดลองในมนุษย์\nที่ ADDC น่ะ โชโนะไง
+21-0218	sound_auth	Your point?	แล้วไง?
+21-0219	sound_auth	I think he killed Emi Terasawa\nand pinned the blame on Okubo.	ฉันว่าเขาฆ่าเอมิ เทราซาวะ\nแล้วก็โยนความผิดให้โอคุโบะ
+21-0220	sound_auth	I think he killed Emi Terasawa and\npinned the blame on Okubo.	ฉันว่าเขาฆ่าเอมิ เทราซาวะ แล้วก็\nโยนความผิดให้โอคุโบะ
+21-0221	sound_auth	With all he had to lose...\nDon't you think Shono had a motive?	ด้วยทุกอย่างที่เขามีจะเสีย...\nนายไม่คิดเหรอว่าโชโนะมีแรงจูงใจ?
+21-0222	sound_auth	With all he had to lose... don't you think\nShono had a motive?	ด้วยทุกอย่างที่เขามีจะเสีย... นายไม่คิดเหรอ\nว่าโชโนะมีแรงจูงใจ?
+21-0223	sound_auth	I dunno about you, but that sounds like\na damn clear motive to me.	ไม่รู้ว่านายคิดยังไงนะ แต่สำหรับฉันแล้ว\nนั่นมันแรงจูงใจที่ชัดเจนสุด ๆ เลย
+21-0224	sound_auth	I guess, but... Wait no, you're right.\nEmi-chan would have been a threat.	ก็คงงั้นแหละ แต่... เดี๋ยวนะ นายพูดถูก\nเอมิจังคงเป็นภัยคุกคามสำหรับเขาจริง ๆ
+21-0225	sound_auth	Then... that's why Emi-chan had to die?	งั้น... นั่นแหละคือเหตุผลที่เอมิจัง ต้องตายเหรอ?
+21-0226	sound_auth	But could he really do it?	แต่เขาจะทำแบบนั้นได้จริง ๆ เหรอ?
+21-0227	sound_auth	Is he capable of that...?	เขาทำเรื่องแบบนั้นได้จริง ๆ เหรอ...?
+21-0228	sound_auth	How long have you been thinking this?	นายคิดเรื่องนี้มานานแค่ไหนแล้ว?
+21-0229	sound_auth	When did you figure that out?	นายคิดออกตั้งแต่เมื่อไหร่?
+21-0230	sound_auth	Since you told me what a mess\nOkubo is now. It was just a feeling.	ตั้งแต่นายเล่าให้ฟังว่าโอคุโบะ\nตอนนี้ยุ่งเหยิงแค่ไหนน่ะ แค่รู้สึกได้เฉย ๆ
+21-0231	sound_auth	Since we've been talking about what a mess\nOkubo is now. It was just a feeling.	ตั้งแต่เราคุยกันเรื่องที่โอคุโบะ\nตอนนี้ยุ่งเหยิงแค่ไหนน่ะ แค่รู้สึกได้เฉย ๆ
+21-0232	sound_auth	Honestly, I wanted to believe\nhe didn't kill her.	จริง ๆ นะ ผมอยากจะเชื่อ\nว่าเขาไม่ได้ฆ่าเธอ
+21-0233	sound_auth	Honestly, I <font_kind=yakuza_italic>wanted</font_kind> to believe him.\nTo believe he didn't kill her.	จริง ๆ นะ ผม<font_kind=yakuza_italic>อยาก</font_kind>จะเชื่อเขา\nอยากเชื่อว่าเขาไม่ได้ฆ่าเธอ
+21-0234	sound_auth	But I just couldn't bring\nmyself to do it.	แต่ผมก็ทำใจ\nเชื่อแบบนั้นไม่ได้เลย
+21-0235	sound_auth	But I just couldn't bring myself\nto do it.	แต่ผมก็ทำใจเชื่อ\nแบบนั้นไม่ได้เลย
+21-0236	sound_auth	Emi-chan was...\nsuch a good person.	เอมิจังเป็น...\nคนดีมาก ๆ เลยนะ
+21-0237	sound_auth	Emi-chan was... such a good person.	เอมิจังเป็น... คนดีมาก ๆ เลยนะ
+21-0238	sound_auth	I wasn't gonna let it slide.\nNot after what Okubo-kun did to her.	ผมจะไม่ปล่อยผ่านเรื่องนี้แน่\nไม่ใช่หลังจากที่โอคุโบะคุงทำ กับเธอแบบนั้น
+21-0239	sound_auth	For her sake, I wasn't gonna let it slide.\nNot after what Okubo-kun did to her.	เพื่อเธอ ผมจะไม่ปล่อยผ่านเรื่องนี้แน่\nไม่ใช่หลังจากที่โอคุโบะคุงทำ กับเธอแบบนั้น
+21-0240	sound_auth	But after all this time, it turns out...\nShono is the real killer?	แต่ผ่านมาตั้งนานขนาดนี้ กลับกลายเป็นว่า...\nโชโนะคือฆาตกรตัวจริงงั้นเหรอ?
+21-0241	sound_auth	And now, if the real killer wasn't Okubo,\nbut Shono instead, then...	แล้วตอนนี้ ถ้าฆาตกรตัวจริงไม่ใช่โอคุโบะ\nแต่เป็นโชโนะแทนล่ะก็...
+21-0242	sound_auth	Nothing's for sure without evidence.\nThis is all just unfounded speculation.	ไม่มีอะไรแน่นอนถ้าไม่มีหลักฐาน\nทั้งหมดนี่เป็นแค่การคาดเดาที่ ไร้มูลเท่านั้น
+21-0243	sound_auth	I can't be sure. We don't have evidence.\nAll this is just unfounded speculation.	ฉันไม่แน่ใจหรอก เราไม่มีหลักฐาน\nทั้งหมดนี่เป็นแค่การคาดเดาที่ ไร้มูลเท่านั้น
+21-0244	sound_auth	But doesn't it make you wanna\ntalk to Shono even more?	แต่มันยิ่งทำให้นายอยาก\nคุยกับโชโนะมากขึ้นไม่ใช่เหรอ?
+21-0245	sound_auth	But doesn't it make this\nchat with Shono all the better?	แต่มันยิ่งทำให้การคุยกับโชโนะ\nน่าสนใจขึ้นไปอีกไม่ใช่เหรอ?
+21-0246	sound_auth	Yeah. I've never been\nthis ready for morning.	ใช่ ผมไม่เคย\nพร้อมรอถึงเช้าขนาดนี้มาก่อนเลย
+21-0247	sound_auth	Yeah. I've never been this ready for morning...\nIt's about time I got answers.	ใช่ ผมไม่เคยพร้อมรอถึงเช้าขนาดนี้ มาก่อนเลย...\nถึงเวลาที่ผมจะได้คำตอบสักที
+21-0248	sound_auth	Open up! Hey!\nDo you hear me!? 	เปิดประตู! เฮ้!\nได้ยินไหม!? 
+21-0249	sound_auth	Funny that we'd end up\nhere of all places.	ตลกดีที่สุดท้ายเราต้องมา\nจบที่นี่นี่เอง
+21-0250	sound_auth	Stuck in this room, huh?\nFunny that we'd end up here of all places.	ติดอยู่ในห้องนี้สินะ?\nตลกดีที่สุดท้ายเราต้องมาจบ ที่นี่นี่เอง
+21-0251	sound_auth	This is the room, right?\nWhere Waku-san was staying.	ห้องนี้แหละใช่ไหม?\nที่วาคุซังเคยพักอยู่
+21-0252	sound_auth	This is the one, right?\nWhere Waku-san spent his days.	ห้องนี้แหละใช่ไหม?\nที่วาคุซังใช้ชีวิตอยู่
+21-0253	sound_auth	The man who died after you used him\nas a test subject for AD-9.	ชายที่ตายไปหลังจากที่คุณเอาเขา\nไปใช้เป็นหนูทดลอง AD-9
+21-0254	sound_auth	One of your patients... The man who died\nafter you used him to test AD-9.	หนึ่งในคนไข้ของคุณ... ชายที่ตายไป\nหลังจากที่คุณเอาเขาไปทดลอง AD-9
+21-0255	sound_auth	Why'd you do it, Shono? For the glory?\nThought nobody'd notice one missing dementia patient?	ทำไมคุณถึงทำแบบนั้น โชโนะ? เพื่อชื่อเสียงเหรอ?\nคิดว่าไม่มีใครสังเกตผู้ป่วย ภาวะสมองเสื่อมหายไปคนนึงงั้น เหรอ?
+21-0256	sound_auth	Why'd you do it? Thought nobody'd notice\none missing dementia patient?	ทำไมคุณถึงทำแบบนั้น? คิดว่าไม่มีใครสังเกต\nผู้ป่วยภาวะสมองเสื่อมหายไปคน นึงงั้นเหรอ?
+21-0257	sound_auth	What are you talking about?\nGet out of here!	คุณพูดเรื่องอะไรกัน?\nออกไปจากที่นี่เดี๋ยวนี้!
+21-0258	sound_auth	What are you talking about?\nGet out of here, now!	คุณพูดเรื่องอะไรกัน?\nออกไปจากที่นี่เดี๋ยวนี้!
+21-0259	sound_auth	This is trespassing!	นี่มันคือการบุกรุก!
+21-0260	sound_auth	Hmph. You sure you want us to go?	ฮึ่ม แน่ใจเหรอว่าอยากให้เราออกไป?
+21-0261	sound_auth	Hmph. Are you sure that's\nwhat you want?	ฮึ่ม แน่ใจแล้วเหรอ\nว่านั่นคือสิ่งที่คุณต้องการ?
+21-0262	sound_auth	I thought you'd be a little more curious\nabout how much of your secret I really know.	ผมนึกว่าคุณจะอยากรู้มากกว่านี้หน่อย\nว่าผมรู้ความลับของคุณมากแค่ไหนกันแน่
+21-0263	sound_auth	Doesn't it make you wonder? How many of your secrets\ndo I actually know?	มันไม่ทำให้คุณสงสัยเหรอ? ว่าจริง ๆ แล้ว\nผมรู้ความลับของคุณมากแค่ไหน?
+21-0264	sound_auth	I don't know what\nyou're talking about.	ผมไม่รู้ว่า\nคุณกำลังพูดถึงอะไร
+21-0265	sound_auth	What? I don't know what you...	อะไรนะ? ผมไม่รู้ว่าคุณ...
+21-0266	sound_auth	You're the one backing the Mole.\nIsn't that right?	คุณคือคนที่อยู่เบื้องหลังไส้ศึก\nใช่ไหมล่ะ?
+21-0267	sound_auth	Huh? How dare you accuse me of—	หา? กล้าดียังไงมากล่าวหาผมว่า—
+21-0268	sound_auth	That's not all I know. Hamura's the middle-man.\nYou pretty satisfied with his work?	นั่นยังไม่ใช่ทั้งหมดที่ผมรู้ ฮามุระคือคนกลาง\nพอใจกับผลงานของเขาไหมล่ะ?
+21-0269	sound_auth	You direct the Mole, and Hamura's the middleman.\nYou pretty satisfied with their work?	คุณคือคนสั่งการไส้ศึก และฮามุระคือคนกลาง\nพอใจกับผลงานของพวกเขาไหมล่ะ?
+21-0270	sound_auth	I won't stand for this baseless slander!\nWhat proof do you have!?	ผมจะไม่ยอมทนกับการใส่ร้ายไร้ มูลแบบนี้!\nคุณมีหลักฐานอะไรกันแน่!?
+21-0271	sound_auth	You just made a big mistake, Shono-san.	คุณเพิ่งทำพลาดครั้งใหญ่ไปแล้วนะ โชโนะซัง
+21-0272	sound_auth	You've been working nonstop\non this new drug, right?	คุณทำงานกับยาตัวใหม่นี้\nแบบไม่มีวันหยุดเลยใช่ไหม?
+21-0273	sound_auth	You've been working round the clock\non this new drug, right?	คุณทำงานกับยาตัวใหม่นี้\nแบบไม่มีวันหยุดพักเลยใช่ไหม?
+21-0274	sound_auth	No way the street slang about a murderer\nwould have reached your ears.	เป็นไปไม่ได้เลยที่คำแสลง ข้างถนนเกี่ยวกับฆาตกร\nจะเข้าหูคุณได้
+21-0275	sound_auth	A guy like you... wouldn't be\nup on the latest Kamurocho slang.	คนอย่างคุณ... ไม่น่าจะรู้\nคำแสลงล่าสุดของคามุโรโจหรอก
+21-0276	sound_auth	You were supposed to ask\nwhat the Mole is.	คุณควรจะถามว่า\n"ไส้ศึก" คืออะไร
+21-0277	sound_auth	Shouldn't the question\nhave been, "What is the Mole"?	คำถามที่ควรจะถาม\nไม่ใช่เหรอว่า "ไส้ศึกคืออะไร"?
+21-0278	sound_auth	Wh-What is the Mole?	ไ-ไส้ศึกคืออะไรกัน?
+21-0279	sound_auth	...Wh-What's the Mole?	...ไ-ไส้ศึกคืออะไร?
+21-0280	sound_auth	There's a good boy.	เด็กดี
+21-0281	sound_auth	Good boy.	เด็กดีมาก
+21-0282	sound_auth	The serial killer who's been\ngouging people's eyes out.	ฆาตกรต่อเนื่องที่คอย\nควักลูกตาคนอื่นออกมา
+21-0283	sound_auth	The serial killer in Kamurocho who's been\ngouging people's eyes out. We call him the Mole.	ฆาตกรต่อเนื่องในคามุโรโจที่คอย\nควักลูกตาคนอื่นออกมา เราเรียกเขาว่า "ไส้ศึก"
+21-0284	sound_auth	It all started three years ago,\nright here in this center.	ทุกอย่างเริ่มต้นเมื่อสามปีก่อน\nที่นี่แหละ ในศูนย์แห่งนี้
+21-0285	sound_auth	And I'll bet you can guess when the Mole\nfirst appeared. About three years ago.	และผมพนันได้เลยว่าคุณคงเดาได้ ว่าไส้ศึก\nโผล่มาครั้งแรกเมื่อไหร่ ก็ราวสามปีก่อนนี่แหละ
+21-0286	sound_auth	You performed an AD-9 experiment\non Waku-san while he was asleep.	คุณทำการทดลอง AD-9\nกับวาคุซังตอนที่เขาหลับอยู่
+21-0287	sound_auth	Back then... while Waku-san was asleep,\nyou gave him a dose of AD-9.	ตอนนั้น... ระหว่างที่วาคุซังหลับอยู่\nคุณฉีด AD-9 เข้าไปในตัวเขา
+21-0288	sound_auth	Probably late at night.	คงเป็นช่วงดึก ๆ
+21-0289	sound_auth	Late at night, if I had to guess.	ถ้าให้เดา ก็คงเป็นช่วงดึก
+21-0290	sound_auth	And when he died, you did the only\nthing you could. Snuck him out.	พอเขาตาย คุณก็ทำสิ่งเดียว\nที่ทำได้ คือลักลอบพาศพออกไป
+21-0291	sound_auth	But when he died, you panicked and tried to\nsneak him out.	แต่พอเขาตาย คุณตกใจกลัวจนต้อง\nลักลอบพาศพออกไป
+21-0292	sound_auth	You were probably thrilled with Okubo.	คุณคงดีใจกับโอคุโบะไม่น้อย
+21-0293	sound_auth	You were probably thrilled\nwith Okubo.	คุณคงดีใจ\nกับโอคุโบะไม่น้อย
+21-0294	sound_auth	I mean, it's practically a miracle someone else\nstepped up and took the blame for you. Wouldn't you say?	ก็แหมมันแทบจะเป็นปาฏิหาริย์เลยนะ ที่มีคนอื่น\nยอมออกมารับผิดแทนคุณ จริงไหมล่ะ?
+21-0295	sound_auth	I mean, it's practically a miracle someone else stepped up\nand took the blame for you. Wouldn't you say?	ก็แหมมันแทบจะเป็นปาฏิหาริย์เลยนะ ที่มีคนอื่นยอมออกมา\nรับผิดแทนคุณ จริงไหมล่ะ?
+21-0296	sound_auth	I don't know what you're\ntalking about.	ผมไม่รู้ว่าคุณ\nกำลังพูดถึงอะไร
+21-0297	sound_auth	But then another miracle happened.\nOne not so convenient for you. Okubo walked.	แต่แล้วปาฏิหาริย์อีกครั้งก็เกิดขึ้น\nครั้งนี้ไม่ค่อยสะดวกสำหรับคุณ เท่าไหร่ โอคุโบะพ้นผิด
+21-0298	sound_auth	But then a less convenient miracle happened.\nOkubo was declared an innocent man.	แต่แล้วปาฏิหาริย์ที่ไม่ค่อย สะดวกนักก็เกิดขึ้น\nโอคุโบะถูกตัดสินว่าเป็นผู้บริสุทธิ์
+21-0299	sound_auth	And if he was innocent, that would mean\nsomeone else killed Waku-san.	และถ้าเขาบริสุทธิ์ ก็แปลว่า\nมีคนอื่นฆ่าวาคุซัง
+21-0300	sound_auth	They might have even come after you\nif you didn't do anything.	พวกเขาอาจจะตามล่าคุณด้วยซ้ำ\nถ้าคุณไม่ลงมือทำอะไรสักอย่าง
+21-0301	sound_auth	They might have even come after you,\nif you didn't do anything to stop them.	พวกเขาอาจจะตามล่าคุณด้วยซ้ำ\nถ้าคุณไม่ลงมือหยุดพวกเขา
+21-0302	sound_auth	Which is when you sold\nyour soul to the devil.	นั่นคือตอนที่คุณขาย\nวิญญาณให้ปีศาจ
+21-0303	sound_auth	That's when you took the plunge.\nYou sold your soul to the devil.	นั่นคือตอนที่คุณตัดสินใจลงมือ\nคุณขายวิญญาณให้ปีศาจ
+21-0304	sound_auth	What do you mean by that...?	หมายความว่าอย่างไรกันแน่...?
+21-0305	sound_auth	What do you mean...?	หมายความว่าไงเหรอ...?
+21-0306	sound_auth	Don't play dumb with me.	อย่ามาแกล้งโง่กับผมเลย
+21-0307	sound_auth	You know all too damn well\nwhat I'm talking about.	คุณรู้ดีเกินกว่าจะแกล้งไม่รู้\nว่าผมกำลังพูดถึงอะไร
+21-0308	sound_auth	You know damn well\nwhat I'm talking about.	คุณรู้ดีอยู่แก่ใจ\nว่าผมกำลังพูดถึงอะไร
+21-0309	sound_auth	You needed to frame Okubo...\nand you murdered someone in cold blood to do it.	คุณต้องใส่ร้ายโอคุโบะ...\nและคุณก็ฆ่าคนเลือดเย็นเพื่อทำแบบนั้น
+21-0310	sound_auth	In order to set Okubo up, you made your choice.\nYou murdered somebody in cold blood.	เพื่อจะใส่ร้ายโอคุโบะ คุณเลือกทางนั้น\nคุณฆ่าคนอย่างเลือดเย็น
+21-0311	sound_auth	Murder...?\nWho are you accusing me of killing?	ฆาตกรรม...?\nคุณกล่าวหาว่าผมฆ่าใครกัน?
+21-0312	sound_auth	Murder...? Who would I have killed?	ฆาตกรรม...? แล้วผมจะไปฆ่าใครได้ล่ะ?
+21-0313	sound_auth	<color=ｍonologue>(The person Shono killed to frame Okubo was...)</color>	<color=ｍonologue>(คนที่โชโนะฆ่าเพื่อใส่ร้ายโอคุโบะคือ...)</color>
+21-0314	sound_auth	This man right here.	ผู้ชายคนนี้ไงล่ะ
+21-0315	sound_auth	Hey, hold on a sec.	เดี๋ยวก่อนครับ
+21-0316	sound_auth	Hey, hold on a sec, Yagami-san.	เดี๋ยวก่อนครับ ยากามิซัง
+21-0317	sound_auth	That's not the right person, Yagami-san.	นั่นไม่ใช่คนที่ถูกครับ ยากามิซัง
+21-0318	sound_auth	That's not the right person.	นั่นไม่ใช่คนที่ถูกครับ
+21-0319	sound_auth	Oh, ahem!	อ้อ เอ่อ...!
+21-0320	sound_auth	In order to set Okubo up, you murdered\nsomebody in cold blood.	เพื่อจะใส่ร้ายโอคุโบะ คุณฆ่าคน\nอย่างเลือดเย็น
+21-0321	sound_auth	Emi Terasawa. A coworker of yours,\nand Okubo's girlfriend.	เอมิ เทราซาวะ เพื่อนร่วมงานของคุณ\nและแฟนสาวของโอคุโบะ
+21-0322	sound_auth	You forced your way into their\napartment, and murdered Emi.	คุณบุกเข้าไปในอพาร์ตเมนต์\nของทั้งคู่แล้วฆ่าเอมิ
+21-0323	sound_auth	You forced your way into their apartment,\nand murdered Emi.	คุณบุกเข้าไปในอพาร์ตเมนต์ของทั้งคู่\nแล้วฆ่าเอมิ
+21-0324	sound_auth	According to the autopsy report,\nshe was stabbed at least fifteen times.	ตามรายงานชันสูตรศพ\nเธอถูกแทงอย่างน้อยสิบห้าครั้ง
+21-0325	sound_auth	The autopsy report said she was\nstabbed at least fifteen times.	รายงานชันสูตรศพระบุว่าเธอ\nถูกแทงอย่างน้อยสิบห้าครั้ง
+21-0326	sound_auth	I didn't...	ผมไม่ได้...
+21-0327	sound_auth	Did she tell you Okubo-kun had been\ntaking pills to help him sleep at night?	เธอเคยบอกคุณไหมว่าโอคุโบะคุง\nกินยาช่วยนอนหลับตอนกลางคืนอยู่?
+21-0328	sound_auth	Did she tell you Okubo-kun had been taking\npills to help him sleep at night?	เธอเคยบอกคุณไหมว่าโอคุโบะคุงกิน\nยาช่วยนอนหลับตอนกลางคืนอยู่?
+21-0329	sound_auth	Conveniently enough, he didn't wake up while\nyou were murdering his girlfriend.	เป็นจังหวะเหมาะเหลือเกินที่เขา ไม่ตื่นเลย\nตอนที่คุณกำลังฆ่าแฟนสาวของเขา
+21-0330	sound_auth	Luckily for you, he slept through\nyou murdering his girlfriend.	โชคดีของคุณที่เขาหลับปุ๋ยอยู่\nตอนที่คุณฆ่าแฟนสาวของเขา
+21-0331	sound_auth	Him smelling like booze was probably\nyour doing, too.	กลิ่นเหล้าที่ติดตัวเขาก็คง\nเป็นฝีมือคุณด้วยเหมือนกัน
+21-0332	sound_auth	That he reeked of liquor was\nprobably your doing, too.	ที่ตัวเขาเหม็นเหล้าคลุ้ง\nก็คงเป็นฝีมือคุณด้วยเหมือนกัน
+21-0333	sound_auth	Lemme guess, you injected him with alcohol?	ขอเดานะ คุณฉีดแอลกอฮอล์เข้าไปในตัวเขาใช่ไหม?
+21-0334	sound_auth	Lemme guess, you injected Okubo\nwith alcohol?	ขอเดานะ คุณฉีดแอลกอฮอล์\nเข้าไปในตัวโอคุโบะใช่ไหม?
+21-0335	sound_auth	That'd raise his BAC no problem.	แบบนั้นระดับแอลกอฮอล์ในเลือด เขาพุ่งขึ้นสบาย ๆ
+21-0336	sound_auth	And sure he could've died if you messed up,\nbut that wouldn't have mattered.	แน่นอนว่าเขาอาจตายได้ถ้าคุณพลาด\nแต่นั่นก็ไม่ใช่เรื่องสำคัญสำหรับคุณ
+21-0337	sound_auth	And sure, he could've died if you messed up,\nbut that wouldn't have mattered.	แน่นอนว่าเขาอาจตายได้ถ้าคุณพลาด\nแต่นั่นก็ไม่ใช่เรื่องสำคัญสำหรับคุณ
+21-0338	sound_auth	As long as you could chalk up Emi's murder\nto a drunk, suicidal Okubo-kun.	ขอแค่คุณโยนความผิดคดีฆาตกรรมเอมิ\nให้โอคุโบะคุงที่เมาจนอยาก ฆ่าตัวตายได้ก็พอ
+21-0339	sound_auth	As long as you could pin Emi's murder\non a drunk, suicidal Okubo-kun.	ขอแค่คุณปัดความผิดคดีฆาตกรรมเอมิ\nไปให้โอคุโบะคุงที่เมาจนอยาก ฆ่าตัวตายได้ก็พอ
+21-0340	sound_auth	Um. I'm going to go discuss\na few things with Ayabe-san.	เอ่อ... ผมจะไปคุยเรื่อง\nบางอย่างกับอายาเบะซังครับ
+21-0341	sound_auth	Um... I'm going to meet\nwith Ayabe-san.	เอ่อ... ผมจะไปพบ\nอายาเบะซังครับ
+21-0342	sound_auth	Yagami joining you?	ยากามิคุงจะไปด้วยไหม?
+21-0343	sound_auth	Good. Yagami joining you?	ดี แล้วยากามิคุงจะไปด้วยไหม?
+21-0344	sound_auth	No, I'm going alone. Yagami-san, well...\nHe may be keeping his distance for a while.	ไม่ครับ ผมไปคนเดียว ส่วนยากามิซังนี่...\nเขาอาจจะขอเก็บระยะห่างไปพักหนึ่งครับ
+21-0345	sound_auth	He thinks the Mole might target him,\nso he doesn't want to get us involved.	เขาคิดว่าไส้ศึกอาจจะเล็งเป้ามาที่เขา\nเลยไม่อยากดึงพวกเราเข้าไป เกี่ยวข้องด้วย
+21-0346	sound_auth	You should watch your\nback too, Genda-sensei.	อาจารย์เก็นดะก็ต้อง\nระวังตัวด้วยนะครับ
+21-0347	sound_auth	You should watch your back\ntoo, Genda-sensei.	อาจารย์เก็นดะก็ต้องระวัง\nตัวด้วยนะครับ
+21-0348	sound_auth	Been a while since\nhe's been this distant.	นานแล้วเหมือนกัน\nที่เขาเก็บตัวห่างขนาดนี้
+21-0349	sound_auth	Tch, now he takes my advice?	ชะ มาฟังคำแนะนำผมเอาตอนนี้เนี่ยนะ
+21-0350	sound_auth	Knowing Yagami-san, he'll want to solve\nevery single incident related to AD-9.	รู้จักนิสัยยากามิซังดี เขาต้องอยากคลี่คลาย\nทุกเหตุการณ์ที่เกี่ยวกับ AD-9 จนหมดแน่ ๆ
+21-0351	sound_auth	Knowing Yagami-san, he'll want to solve\nevery last incident related to AD-9.	รู้จักนิสัยยากามิซังดี เขาต้องอยากคลี่คลาย\nทุกเหตุการณ์เกี่ยวกับ AD-9 จนถึงเรื่องสุดท้ายแน่ ๆ
+21-0352	sound_auth	And if he does, maybe he can prove that Ayabe-san\nand Okubo-kun are innocent.	และถ้าเขาทำได้ เขาอาจพิสูจน์ได้ว่าอายาเบะซัง\nกับโอคุโบะคุงเป็นผู้บริสุทธิ์
+21-0353	sound_auth	Ayabe-san and Okubo-kun got wrapped up in this...\nbut he can prove both of them innocent.	อายาเบะซังกับโอคุโบะคุงเข้าไป พัวพันกับเรื่องนี้...\nแต่เขาพิสูจน์ความบริสุทธิ์ของ ทั้งคู่ได้
+21-0354	sound_auth	Clearing Shinpei Okubo's name this late on...\nYagami'd be a damn hero.	ล้างมลทินให้ชินเป โอคุโบะได้ตอนนี้...\nยากามิคงกลายเป็นฮีโร่ตัวจริงเลยล่ะ
+21-0355	sound_auth	I think he might enjoy that.	ฉันว่าเขาคงชอบใจไม่น้อยนะ
+21-0356	sound_auth	Yeah, "hero" is hardly a big enough word.\nA legend is more like it!	ใช่ คำว่า "ฮีโร่" ยังไม่ยิ่งใหญ่พอด้วยซ้ำ\nต้องเรียกว่าตำนานเลยล่ะ!
+21-0357	sound_auth	Yeah! Forget "hero."\nHe'd be a legend!	ใช่เลย! ลืมคำว่า "ฮีโร่" ไปได้เลย\nเขาต้องกลายเป็นตำนานแน่!
+21-0358	sound_auth	...Don't get ahead of yourself, kid.	...อย่าเพิ่งตื่นเต้นไปไกลขนาดนั้นสิ
+21-0359	sound_auth	The bugs in the Matsugane office are still working,\njust like I said they'd be.	เครื่องดักฟังในสำนักงาน มัตสึกาเนะยังทำงานอยู่\nเหมือนที่ฉันบอกไว้เป๊ะเลย
+21-0360	sound_auth	Thought so. The bugs in the Matsugane office\nare still working, just like I said they'd be.	คิดไว้แล้ว เครื่องดักฟังในสำนักงานมัตสึกาเนะ\nยังทำงานอยู่ เหมือนที่ฉันบอกไว้เป๊ะเลย
+21-0361	sound_auth	Good. Can you hear anything?	ดี ได้ยินอะไรบ้างไหม?
+21-0362	sound_auth	Just small talk.\nSounds like there are a ton of people in there.	แค่คุยเล่นทั่วไป\nฟังดูเหมือนข้างในมีคนเยอะมากเลย
+21-0363	sound_auth	Just small talk.\nSounds like a ton of people in there.	แค่คุยเล่นทั่วไป\nฟังดูเหมือนข้างในมีคนเยอะมากเลย
+21-0364	sound_auth	Hamura, too?	ฮามุระด้วยเหรอ?
+21-0365	sound_auth	Hamura, too? You hear him?	ฮามุระด้วยเหรอ? ได้ยินเสียงเขาไหม?
+21-0366	sound_auth	Nah. Doubt it.	เปล่า ไม่น่าจะใช่หรอก
+21-0367	sound_auth	Everyone'd be on edge with him in the house.\nNo chance of small talk.	ถ้ามันอยู่ในบ้านนั้นทุกคนต้อง เกร็งกันหมด\nไม่มีทางคุยเล่นกันหรอก
+21-0368	sound_auth	But Hamura's still gonna get\nin touch with them, right?	แต่ยังไงฮามุระก็ต้อง\nติดต่อพวกนั้นอยู่ดีใช่ไหม?
+21-0369	sound_auth	But... Hamura's still gonna get in touch\nwith them, right?	แต่... ยังไงฮามุระก็ต้องติดต่อ\nพวกนั้นอยู่ดีใช่ไหม?
+21-0370	sound_auth	Mmm, maybe.	อืม อาจจะครับ
+21-0371	sound_auth	Whaddya mean, maybe!?\nYou're the one who said he'd be calling 'em!	อาจจะเนี่ยนะ!? ก็แกเป็นคนบอกเองว่า\nมันจะโทรหาพวกนั้นไง!
+21-0372	sound_auth	"Maybe"!? You're the one\nwho said he'd be calling 'em!	"อาจจะ" เนี่ยนะ!? ก็แกเป็นคน\nบอกเองว่ามันจะโทรหาพวกนั้น!
+21-0373	sound_auth	You don't gotta\nlose your shit over it.	ไม่เห็นต้อง\nหัวร้อนขนาดนั้นเลยครับ
+21-0374	sound_auth	You don't gotta lose your shit over it.	ไม่เห็นต้องหัวร้อนขนาดนั้นเลยครับ
+21-0375	sound_auth	Ugh... Where the hell is he?	เชอะ... มันหายหัวไปไหนวะเนี่ย?
+21-0376	sound_auth	Guess all we can do now is sit here and wait\n'til somebody spills the beans.	ตอนนี้คงทำได้แค่นั่งรอที่นี่\nจนกว่าจะมีใครสักคนปากโป้งออกมา
+21-0377	sound_auth	Ah, well. Guess all we can do now is sit and wait\n'til somebody spills the beans on him.	เอาเถอะ ตอนนี้คงทำได้แค่นั่งรอ\nจนกว่าจะมีใครสักคนปากโป้ง เรื่องมันออกมา
+21-0378	sound_auth	Can you at least put that shit out?\nYou're stinking up the whole van.	ดับไอ้นั่นทีได้ไหม?\nนายทำวินทั้งคันเหม็นไปหมดแล้ว
+21-0379	sound_auth	Can you at least put that shit out?\nThe air already sucks in here.	ดับไอ้นั่นทีได้ไหม?\nอากาศในนี้แย่อยู่แล้วนะ
+21-0380	sound_auth	My bad.	โทษที
+21-0381	sound_auth	Whoops, bad habit.	อุ๊ย นิสัยไม่ดีน่ะ
+21-0382	sound_auth	Yeah, bad habit. Sorry.	เออ นิสัยไม่ดีจริง ขอโทษที
+21-0383	sound_auth	Sorry, but you're just\ngonna have to deal.	โทษละกัน แต่นายก็\nต้องทนเอาแหละ
+21-0384	sound_auth	You can stick it out.	ทนหน่อยแล้วกัน
+21-0385	sound_auth	Anyway. You're serious\nabout capturing Hamura, yeah?	เอาเถอะ นายจริงจัง\nเรื่องจะจับฮามุระใช่ไหม?
+21-0386	sound_auth	You're serious about capturing Hamura, yeah?	นายจริงจังเรื่องจะจับฮามุระใช่ไหม?
+21-0387	sound_auth	Yeah. He's our only chance\nof finding the Mole.	ใช่ มันคือโอกาสเดียว\nที่จะตามหาไส้ศึกได้
+21-0388	sound_auth	Yup. Hamura's our only chance\nof finding the Mole.	ใช่ ฮามุระคือโอกาสเดียว\nที่จะตามหาไส้ศึกได้
+21-0389	sound_auth	We don't get Hamura, we lose.\nAyabe and Okubo are done for.	ถ้าเราจับฮามุระไม่ได้ ก็แพ้\nอายาเบะกับโอคุโบะจบเห่แน่
+21-0390	sound_auth	If we don't get Hamura, then our case is finished.\nAyabe and Okubo are done for.	ถ้าเราจับฮามุระไม่ได้ คดีนี้ก็จบเห่\nอายาเบะกับโอคุโบะซวยแน่
+21-0391	sound_auth	I'm hearin' you, but sitting crammed\nin this damn car ain't gonna help us nab him.	เข้าใจนะที่นายพูด แต่การนั่งอัดกัน\nอยู่ในรถบ้า ๆ นี่ไม่ช่วยให้จับมันได้หรอก
+21-0392	sound_auth	I hear you, but we're not gettin' anywhere\ncrammed in this damn car.	เข้าใจนะ แต่เรานั่งอัดกัน\nอยู่ในรถบ้า ๆ นี่ไม่ไปถึงไหนหรอก
+21-0393	sound_auth	Luckily, I have just the thing.	โชคดีที่ผมมีของเด็ดพอดีเลยครับ
+21-0394	sound_auth	Well... I might have just the thing.	เอ่อ... ผมอาจจะมีของเด็ดอยู่พอดีครับ
+21-0395	sound_auth	We'll spy on them from the sky.	เราจะสอดแนมพวกนั้นจากบนฟ้ากันครับ
+21-0396	sound_auth	We'll spy on the Matsugane\nfrom the sky.	เราจะสอดแนมมัตสึกาเนะ\nจากบนฟ้ากันครับ
+21-0397	sound_auth	The hell're you going, man?\nWe're supposed to be scoutin' the office.	จะไปไหนของนายวะ?\nเรามีหน้าที่สอดแนมสำนักงานนะ
+21-0398	sound_auth	Hey, the hell're you going?\nWe're supposed to be scoutin' the office.	เฮ้ย จะไปไหนของนายวะ?\nเรามีหน้าที่สอดแนมสำนักงานนะ
+21-0399	sound_auth	Is that Higashi?	นั่นฮิงาชิใช่ไหม?
+21-0400	sound_auth	Yup. Guy really thinks\nhe's hot shit, huh?	ใช่ ไอ้นี่คิดว่าตัวเอง\nเจ๋งจริงเลยนะ
+21-0401	sound_auth	Looks like. Guy really thinks\nhe's hot shit, huh?	ดูเหมือนจะใช่ ไอ้นี่คิดว่าตัวเอง\nเจ๋งจริงเลยนะ
+21-0402	sound_auth	Heh, guess he's movin' up in the world.	ฮึ ดูท่าจะได้ดิบได้ดีขึ้นนี่นา
+21-0403	sound_auth	Heh. He's movin' up in the world.	ฮึ มันได้ดิบได้ดีขึ้นนี่นา
+21-0404	sound_auth	Maybe with Hamura gone he's been\nable to relax a little.	อาจเป็นเพราะฮามุระหายไป\nมันเลยผ่อนคลายขึ้นมาบ้าง
+21-0405	sound_auth	With Hamura gone,\ndoes he call the shots?	พอฮามุระหายไป\nมันได้กุมบังเหียนแทนหรือเปล่า?
+21-0406	sound_auth	Hm? He's leaving.	อ้าว? เขาเดินออกไปแล้วครับ
+21-0407	sound_auth	Hm? Look. Higashi's leaving.	อ้าว? ดูสิครับ ฮิงาชิเดินออกไปแล้ว
+21-0408	sound_auth	I'm gonna follow him. Better to split up\nthan all sit around in one place.	ผมจะตามไปดู แยกกันไปดีกว่า\nนั่งเบียดกันอยู่ที่เดียวเฉย ๆ
+21-0409	sound_auth	I'm gonna follow Higashi.\nBetter to split up than all sit around in one place.	ผมจะตามฮิงาชิไปดู\nแยกกันไปดีกว่านั่งเบียดกันอยู่ ที่เดียวเฉย ๆ
+21-0410	sound_auth	I'll come with.\nMy legs're getting sore as shit in here.	ฉันไปด้วย\nขานี่เมื่อยจะแย่อยู่แล้ว
+21-0411	sound_auth	So what, I'm stuck here by myself?	แล้วงี้ผมต้องอยู่คนเดียวเหรอครับ?
+21-0412	sound_auth	What? So I'm stuck here by myself?	อะไรนะ? แล้วงี้ผมต้องอยู่คนเดียวเหรอครับ?
+21-0413	sound_auth	I'll switch with you later, promise.	เดี๋ยวจะสลับให้ทีหลัง สัญญา
+21-0414	sound_auth	I'll switch with you later!	เดี๋ยวจะสลับให้ทีหลังนะ!
+21-0415	sound_auth	(I need to find Higashi...)	(ต้องหาฮิงาชิให้เจอ...)
+21-0416	sound_auth	(I'll wait for Higashi to start moving.)	(รอให้ฮิงาชิเริ่มขยับก่อนดีกว่า)
+21-0417	sound_auth	Dude, you're too close!\nBack off a bit.	เฮ้ย นายเข้าไปใกล้เกินไปแล้ว!\nถอยออกมาหน่อย
+21-0418	sound_auth	Whoa, dude, you're too close!\nBack off a bit.	โอ้โห นายเข้าไปใกล้เกินไปแล้ว!\nถอยออกมาหน่อย
+21-0419	sound_auth	Hey Tak...\nYou sure we can be out like this?	เฮ้ ทาคุ...\nแน่ใจนะว่าเราออกมาแบบนี้ได้?
+21-0420	sound_auth	Hey Tak... You sure we should be\nout in broad daylight?	เฮ้ ทาคุ... แน่ใจนะว่าเราควร\nออกมาเพ่นพ่านตอนกลางวันแสก ๆ แบบนี้?
+21-0421	sound_auth	Good point. Shono could be sending\nhis assassin after us as we speak.	มีเหตุผล โชโนะอาจกำลังส่ง\nมือสังหารตามล่าเราอยู่ตอนนี้ก็ได้
+21-0422	sound_auth	Good point. Shono could be sending\nthe Mole after us right now.	มีเหตุผล โชโนะอาจกำลังส่ง\nไส้ศึกตามล่าเราอยู่ตอนนี้ก็ได้
+21-0423	sound_auth	We could get attacked at any time.	เราอาจโดนโจมตีเมื่อไหร่ก็ได้
+21-0424	sound_auth	Heh, thought so.	ฮึ คิดไว้แล้ว
+21-0425	sound_auth	Where the hell's Higashi going?	ฮิงาชิมันจะไปไหนวะเนี่ย?
+21-0426	sound_auth	Where the hell you going, Higashi...?	แกจะไปไหนวะ ฮิงาชิ...?
+21-0427	sound_auth	No clue... but he's alone now.\nWe could just walk up to him and ask.	ไม่รู้เหมือนกัน... แต่ตอนนี้เขาอยู่คนเดียว\nเราเดินเข้าไปถามตรง ๆ เลยก็ได้
+21-0428	sound_auth	You know what? He's alone now.\nWe could just walk up to him and ask.	รู้อะไรไหม? ตอนนี้เขาอยู่คนเดียว\nเราเดินเข้าไปถามตรง ๆ เลยก็ได้
+21-0429	sound_auth	You really think he's gonna listen to us?\nHaven't talked to him since our fight at that restaurant.	นายคิดว่ามันจะยอมฟังเราจริง ๆ เหรอ?\nไม่ได้คุยกับมันเลยตั้งแต่ตี กันที่ร้านอาหารนั่น
+21-0430	sound_auth	You really think he's gonna listen to us?\nHaven't talked to him since our fight.	นายคิดว่ามันจะยอมฟังเราจริง ๆ เหรอ?\nไม่ได้คุยกับมันเลยตั้งแต่ตีกัน ครั้งนั้น
+21-0431	sound_auth	Worst thing that happens is he says no.	อย่างแย่ที่สุดก็แค่เขาปฏิเสธ
+21-0432	sound_auth	Huh, guess you got a point there.\nAll right, let's give it a shot.	อือ นายก็พูดมีเหตุผลอยู่นะ\nเอาวะ ลองดูสักตั้ง
+21-0433	sound_auth	What the? He's bolting!	อะไรวะ? มันเผ่นแล้ว!
+21-0434	sound_auth	Huh...? What the hell? He's boltin'!	หา...? บ้าอะไรวะ? มันเผ่นแล้ว!
+21-0435	sound_auth	What, you done running?	ไง หมดแรงวิ่งหรือยัง?
+21-0436	sound_auth	I wasn't running away.\nNot from you, anyway.	ผมไม่ได้วิ่งหนีนะ\nอย่างน้อยก็ไม่ใช่หนีพวกคุณ
+21-0437	sound_auth	...Guess so. But it wasn't you\nI was runnin' from.	...ก็คงงั้น แต่ผมไม่ได้วิ่งหนี\nพวกคุณหรอกนะ
+21-0438	sound_auth	I just couldn't let the family\nsee us talking. You get it?	ผมแค่ห้ามไม่ให้ตระกูลเห็นว่า\nเรากำลังคุยกันอยู่ เข้าใจไหมครับ?
+21-0439	sound_auth	If the family saw us talkin',\nwe'd both be screwed.	ถ้าตระกูลเห็นว่าเรากำลัง\nคุยกัน เราซวยกันทั้งคู่แน่
+21-0440	sound_auth	So then you'll hear us out?	งั้นแปลว่าคุณจะยอมฟังเราสินะ?
+21-0441	sound_auth	So... you'll talk?	งั้น... คุณจะยอมพูดสินะ?
+21-0442	sound_auth	Higashi... You fuckin'...	ฮิงาชิ... ไอ้เวร...
+21-0443	sound_auth	He's not gonna run anymore.\nJust, take it easy, Kaito-san.	เขาคงไม่หนีไปไหนแล้วล่ะครับ\nใจเย็น ๆ ก่อนนะ ไคโตะซัง
+21-0444	sound_auth	He's done running.\nTake it easy, Kaito-san.	เขาเลิกหนีแล้วล่ะครับ\nใจเย็น ๆ ก่อนนะ ไคโตะซัง
+21-0445	sound_auth	Okay, look... Captain Hamura's throwing everything\nhe's got into catching the two of you.	โอเค ฟังนะ... กัปตันฮามุระทุ่มสุดตัว\nเพื่อจะจับพวกคุณสองคนให้ได้
+21-0446	sound_auth	Captain Hamura's throwing everything he's got\ninto catching you two.	กัปตันฮามุระทุ่มสุดตัว\nเพื่อจะจับพวกคุณสองคนให้ได้
+21-0447	sound_auth	Whole family's got orders to let him\nknow if you ever cross our path.	ทั้งตระกูลได้รับคำสั่งให้แจ้งเขา\nทันทีถ้าเจอพวกคุณ
+21-0448	sound_auth	Whole family's got orders.\nIf we see you, we contact him.	ทั้งตระกูลได้รับคำสั่งมา\nถ้าเจอพวกคุณต้องติดต่อเขาทันที
+21-0449	sound_auth	Meaning if you called him now,\nhe'd come straight to us.	หมายความว่าถ้าคุณโทรหาเขาตอนนี้\nเขาจะรีบมาหาเราทันทีสินะ
+21-0450	sound_auth	Huh. Meaning if you called him now,\nhe'd come straight to us.	ฮึ หมายความว่าถ้าคุณโทรหาเขาตอนนี้\nเขาจะรีบมาหาเราทันทีสินะ
+21-0451	sound_auth	And then what, huh?\nHe wants you dead, you know that, right?	แล้วไงต่อวะ?\nมันอยากให้แกตาย รู้ตัวใช่ไหม?
+21-0452	sound_auth	And then what, huh?\nHe wants you dead, you know that?	แล้วไงต่อวะ?\nมันอยากให้แกตายนะ รู้ตัวหรือเปล่า?
+21-0453	sound_auth	Just tell me where he is.	บอกมาเลยว่ามันอยู่ไหน
+21-0454	sound_auth	Just tell me where Hamura is.	บอกมาเลยว่าฮามุระอยู่ไหน
+21-0455	sound_auth	Nobody's told me. Honest.	ไม่มีใครบอกผมเลยจริง ๆ ครับ
+21-0456	sound_auth	Listen. I'm not gonna rat\nabout seeing you here.	ฟังนะครับ ผมจะไม่ไปแฉ\nเรื่องที่เจอพวกคุณที่นี่หรอก
+21-0457	sound_auth	Listen, I'm not gonna rat\nabout seeing you here.	ฟังนะ ผมจะไม่ไปแฉ\nเรื่องที่เจอพวกคุณที่นี่หรอกครับ
+21-0458	sound_auth	But if I were you, I'd consider\ngetting outta town. Real fast.	แต่ถ้าเป็นผมนะ ผมคง\nพิจารณาหนีออกจากเมืองนี้ให้ เร็วที่สุด
+21-0459	sound_auth	But if I were you, I'd get\noutta town. And fast.	แต่ถ้าเป็นผมนะ ผมคง\nรีบหนีออกจากเมืองนี้ให้ไวเลย
+21-0460	sound_auth	Bet Matsugane-san would\nagree with me, too.	ผมว่ามัตสึกาเนะซังก็คง\nเห็นด้วยกับผมเหมือนกัน
+21-0461	sound_auth	Bet the boss would\nagree with me, too.	ผมว่าท่านหัวหน้าก็คง\nเห็นด้วยกับผมเหมือนกัน
+21-0462	sound_auth	Y'know, that wasn't as bad\nas I was expecting.	รู้อะไรไหม เรื่องนี้ไม่ได้แย่\nเท่าที่คิดไว้เลย
+21-0463	sound_auth	Should we take him up on that offer?\nSkip town, wait 'til it all blows over?	จะรับข้อเสนอเขาดีไหม?\nหนีออกจากเมือง รอให้เรื่องเงียบไปก่อน?
+21-0464	sound_auth	So, think we should listen to him\nand skip town?	แล้วนายว่าเราควรฟังเขา\nแล้วหนีออกจากเมืองไหม?
+21-0465	sound_auth	Don't be an idiot.	อย่าทำตัวโง่ไปหน่อยเลย
+21-0466	sound_auth	Heh, just joking.	ฮ่ะ ล้อเล่นน่ะ
+21-0467	sound_auth	Anyway, sounds like Hamura's got men\nlooking for us. And they're out for blood.	เอาเถอะ ฟังดูเหมือนฮามุระส่งคน\nมาตามหาเราแล้ว แล้วก็มาแบบเอาเป็นเอาตายซะด้วย
+21-0468	sound_auth	Anyway, sounds like Hamura's got men looking for us.\nAnd they're out for blood.	เอาเถอะ ฟังดูเหมือนฮามุระส่งคนมาตามหาเราแล้ว\nแล้วก็มาแบบเอาเป็นเอาตายซะด้วย
+21-0469	sound_auth	What do you mean, "so what"?	หมายความว่า "แล้วไง" เนี่ยนะ?
+21-0470	sound_auth	If they wanna find us so bad, let 'em find us.\nAnyone who comes our way's in for a world of hurt.	ถ้ามันอยากเจอเรามากนัก ก็ปล่อยให้เจอไปเลย\nใครที่ผ่านมาทางเราจะเจอดีแน่
+21-0471	sound_auth	Well, if Hamura wants us so bad, let 'em find us.\nAnyone who comes our way's in for a world of hurt.	ถ้าฮามุระอยากเจอเรามากนัก ก็ปล่อยให้เจอไปเลย\nใครที่ผ่านมาทางเราจะเจอดีแน่
+21-0472	sound_auth	And once we capture 'em,\nwe can force 'em to tell us where Hamura is.	แล้วพอจับตัวมันได้\nเราก็บีบให้มันปากโป้งบอก ที่อยู่ฮามุระได้
+21-0473	sound_auth	Then, we just get 'em to cough up\nHamura's location, and we're good.	จากนั้นก็แค่บีบให้มัน\nคายที่อยู่ฮามุระออกมา แค่นั้นก็จบ
+21-0474	sound_auth	How're you so confident? They might kill us\nbefore we get a chance to fight.	นายมั่นใจได้ยังไง? พวกมันอาจฆ่าเรา\nก่อนที่เราจะได้สู้ด้วยซ้ำ
+21-0475	sound_auth	How're you so confident?\nThey might kill us before we get a chance to fight.	นายมั่นใจได้ยังไง?\nพวกมันอาจฆ่าเราก่อนที่เราจะได้ สู้ด้วยซ้ำ
+21-0476	sound_auth	Maybe even gouge our eyes out.	อาจจะควักลูกตาเราออกมาด้วยซ้ำ
+21-0477	sound_auth	Then what, you wanna just sit in the car\nwith Sugiura in the non-smoking section?	แล้วไง นายอยากไปนั่งอยู่ในรถ\nโซนปลอดบุหรี่ของซุกิอุระแทนงั้นเหรอ?
+21-0478	sound_auth	So you'd rather sit in Sugiura's\nnon-smoking car?	งั้นนายอยากไปนั่งในรถ\nปลอดบุหรี่ของซุกิอุระแทนสินะ?
+21-0479	sound_auth	Yeah that doesn't sound\nso good either.	เอ่อ นั่นก็ฟังดู\nไม่ดีเหมือนกันนะ
+21-0480	sound_auth	Yeah, that doesn't sound\nso good either.	เอ่อ นั่นก็ฟังดูไม่ดี\nเหมือนกันนะ
+21-0481	sound_auth	Damn right it doesn't.\nNow go walk around a bit.	นั่นสิ ไม่ดีแน่ ๆ\nงั้นไปเดินเพ่นพ่านซะหน่อย
+21-0482	sound_auth	Right? Now... Let's go take a walk.\nGrab some attention.	เห็นไหมล่ะ เอาละ... ไปเดินเล่นกัน\nดึงความสนใจสักหน่อย
+21-0483	sound_auth	I'll be watching from behind.	ฉันจะคอยดูอยู่ข้างหลังเอง
+21-0484	sound_auth	Oh, and try and make yourself\nlook like an easy target.	อ้อ แล้วก็พยายามทำตัวให้\nดูเป็นเหยื่อง่าย ๆ หน่อยนะ
+21-0485	sound_auth	We wanna bait them into jumping us.\nMake yourself look like an easy target.	เราอยากล่อให้พวกมันเข้ามาจู่โจม\nทำตัวให้ดูเป็นเหยื่อง่าย ๆ หน่อย
+21-0486	sound_auth	And how exactly am I gonna do that?	แล้วผมจะทำแบบนั้นได้ยังไงกันแน่?
+21-0487	sound_auth	I get what you're saying, but...\nhow do I do that?	เข้าใจที่นายพูดแหละ แต่...\nจะทำยังไงล่ะ?
+21-0488	sound_auth	Beats me.\nI'm sure you can think of somethin'.	ไม่รู้สิ\nแต่นายต้องคิดออกอยู่แล้วแหละ
+21-0489	sound_auth	I'm sure you can think of somethin'.	นายต้องคิดออกอยู่แล้วแหละ
+21-0490	sound_auth	Yo, Tak. Can you hear me?	เฮ้ ทาคุ ได้ยินฉันไหม?
+21-0491	sound_auth	Yo. Can you hear me, Tak?	โย่ ได้ยินฉันไหม ทาคุ?
+21-0492	sound_auth	I've got your back.	ฉันคอยหนุนหลังนายเอง
+21-0493	sound_auth	I've got your back\nfrom over here.	ฉันคอยหนุนหลังนาย\nอยู่ตรงนี้เอง
+21-0494	sound_auth	Just go wherever,\nand try to look vulnerable.	แค่เดินไปเรื่อย ๆ\nแล้วพยายามทำตัวดูอ่อนแอไว้
+21-0495	sound_auth	Just go wherever, and try to\nlook vulnerable.	แค่เดินไปเรื่อย ๆ แล้วพยายาม\nทำตัวดูอ่อนแอไว้
+21-0496	sound_auth	Nice going, Tak.\nYou look weak as shit out there.	เยี่ยมไปเลย ทาคุ\nนายดูอ่อนแอสุด ๆ เลยตรงนั้น
+21-0497	sound_auth	Nice going, Tak.\nYou look weak as hell out there.	เยี่ยมไปเลย ทาคุ\nนายดูอ่อนแอสุด ๆ เลยตรงนั้น
+21-0498	sound_auth	You're like a baby sheep or somethin'.\nHow are you even doing that?	นายเหมือนลูกแกะตัวน้อยเลยว่ะ\nทำได้ยังไงเนี่ย?
+21-0499	sound_auth	This is incredible!\nYou're like a baby sheep or somethin'.	สุดยอดไปเลย!\nนายเหมือนลูกแกะตัวน้อยเลยว่ะ
+21-0500	sound_auth	...Can you not?\nThis is how I always walk.	...หยุดพูดได้ไหม?\nผมเดินแบบนี้เป็นปกติอยู่แล้ว
+21-0501	sound_auth	Can you chill out?\nI'm just walking normally.	ใจเย็น ๆ หน่อยได้ไหม?\nผมแค่เดินปกติเฉย ๆ
+21-0502	sound_auth	Heh. Sorry, sorry. And don't worry,\nyou're in the clear for now.	ฮ่ะ โทษที โทษที ไม่ต้องห่วงนะ\nตอนนี้ยังปลอดภัยอยู่
+21-0503	sound_auth	Don't mind me. And you're in the clear\nfor now, don't worry.	อย่าไปสนใจฉันเลย แล้วตอนนี้นายก็\nยังปลอดภัยอยู่ ไม่ต้องห่วง
+21-0504	sound_auth	I hope you're watching...	หวังว่านายจะดูอยู่นะ...
+21-0505	sound_auth	Really? I hope you're watching...	จริงเหรอ? หวังว่านายจะดูอยู่นะ...
+21-0506	sound_auth	I am, I am.	ดูอยู่ ดูอยู่
+21-0507	sound_auth	Hey, I got this.	เฮ้ ผมจัดการได้อยู่แล้ว
+21-0508	sound_auth	We don't know what's gonna happen next, though.\nYou might wanna grab a bite while you still can.	แต่เราก็ไม่รู้หรอกว่าต่อไปจะเป็นไง\nนายน่าจะรีบหาอะไรกินไว้ตอนที่ ยังทำได้
+21-0509	sound_auth	Thanks for the heads up.	ขอบใจที่บอกนะ
+21-0510	sound_auth	Look at those assholes. You could wipe\nthe floor with 'em no problem.	ดูไอ้พวกนั้นสิ นายเก็บพวกมัน\nได้สบาย ๆ อยู่แล้ว
+21-0511	sound_auth	You could wipe the floor with\nthese thugs, no problem.	นายเก็บพวกอันธพาลพวกนี้\nได้สบาย ๆ อยู่แล้ว
+21-0512	sound_auth	...You're sure?	...แน่ใจนะ?
+21-0513	sound_auth	What, can't you tell?\nThis is all you, man.	อะไรวะ ดูไม่ออกเหรอ?\nงานนี้นายจัดการเองล้วน ๆ
+21-0514	sound_auth	You <font_kind=yakuza_italic>can</font_kind> handle it, yeah?	นาย<font_kind=yakuza_italic>รับมือ</font_kind>ได้อยู่แล้วใช่ไหม?
+21-0515	sound_auth	Yeah, yeah. I'll be fine.	ครับ ๆ ผมไม่เป็นไรหรอก
+21-0516	sound_auth	All right already. I'll be fine.	โอเคน่า ผมไม่เป็นไรหรอก
+21-0517	sound_auth	Those scrubs ain't Matsugane guys.	ไอ้พวกกากนั่นไม่ใช่คนของมัตสึกาเนะนะ
+21-0518	sound_auth	Take a closer look at those scrubs.\nThey ain't Matsugane guys.	ดูไอ้พวกกากนั่นดี ๆ สิ\nไม่ใช่คนของมัตสึกาเนะหรอก
+21-0519	sound_auth	Which means Tak's flyin' solo\non this one.	หมายความว่ารอบนี้ทาคุ\nต้องเดี่ยวเอง
+21-0520	sound_auth	Which means you can take 'em.	หมายความว่านายเก็บพวกมันได้สบาย ๆ
+21-0521	sound_auth	You make it sound so easy!	พูดง่ายจังเลยนะ!
+21-0522	sound_auth	Don't make it sound so easy!	อย่าทำให้มันฟังดูง่ายขนาดนั้นสิ!
+21-0523	sound_auth	These dicks got nothin' on you, Tak.	ไอ้พวกงี่เง่านี่ไม่มีทางสู้นาย ได้หรอก ทาคุ
+21-0524	sound_auth	Good luck. I'm gonna hang back.\nKeep watch, y'know?	โชคดีละกัน ฉันจะถอยไปคอยดูอยู่ห่าง ๆ\nคุมสถานการณ์ไว้ รู้ใช่ไหม?
+21-0525	sound_auth	Now, I'm gonna hang back.\nKeep watch, y'know?	เอาละ ฉันจะถอยไปคอยดูอยู่ห่าง ๆ\nคุมสถานการณ์ไว้ รู้ใช่ไหม?
+21-0526	sound_auth	Okay, okay...	โอเค โอเค...
+21-0527	sound_auth	Hey Tak.\nWhy do you get in so many fights?	เฮ้ ทาคุ\nทำไมนายต้องไปมีเรื่องบ่อยจังวะ?
+21-0528	sound_auth	Dude, why do you get in\nso many fights?	เฮ้ย ทำไมนายต้องไปมีเรื่อง\nบ่อยจังวะ?
+21-0529	sound_auth	Beats me.\nPeople just wanna hit me, I guess.	ไม่รู้สิ\nคงเป็นเพราะคนอยากต่อยผมมั้ง
+21-0530	sound_auth	People just wanna hit me, I guess.	คงเป็นเพราะคนอยากต่อยผมมั้ง
+21-0531	sound_auth	You've gotta start lookin' tougher, man.\nMake it so nobody even <font_kind=yakuza_italic>dares</font_kind> step up on you.	นายต้องทำตัวให้ดูแกร่งกว่านี้หน่อยนะ\nทำให้ไม่มีใคร<font_kind=yakuza_italic>กล้า</font_kind> มาหาเรื่องนายเลยดีกว่า
+21-0532	sound_auth	Man, you've gotta start lookin' tougher.\nMake it so nobody even <font_kind=yakuza_italic>dares</font_kind> step up on you.	เฮ้ย นายต้องทำตัวให้ดูแกร่งกว่านี้หน่อยนะ\nทำให้ไม่มีใคร<font_kind=yakuza_italic>กล้า</font_kind> มาหาเรื่องนายเลยดีกว่า
+21-0533	sound_auth	Well excuse the hell out of me.	อ้าว ขอโทษทีนะที่เป็นแบบนี้
+21-0534	sound_auth	Well, excuse the hell out of me.	แหม ขอโทษทีก็แล้วกันนะ
+21-0535	sound_auth	Dude, that what you normally eat?	นี่นายกินแบบนี้เป็นปกติเหรอ
+21-0536	sound_auth	Do you really have to\ncomment on everything I do...?	นายต้องคอมเมนต์ทุกอย่างที่ผมทำ\nเลยเหรอ...?
+21-0537	sound_auth	Could do without the commentary...	ไม่ต้องคอมเมนต์ก็ได้นะ...
+21-0538	sound_auth	Look at you, buyin' gear and shit!	โห ดูนายสิ ซื้อของซื้ออุปกรณ์เพียบเลย!
+21-0539	sound_auth	Look at you, buyin' gear and shit.	ดูนายสิ ซื้อของซื้ออุปกรณ์เพียบเลย
+21-0540	sound_auth	Yup. Never know what's\ngonna happen out there.	เออ ก็ไม่รู้ว่าข้างนอก\nจะเจออะไรบ้างนี่
+21-0541	sound_auth	Yup, better to be prepared.	เออ เตรียมตัวไว้ก่อนดีกว่า
+21-0542	sound_auth	Don't forget the mission, yeah?	อย่าลืมภารกิจล่ะ เข้าใจนะ?
+21-0543	sound_auth	I won't. This is all part of the plan.	ไม่ลืมหรอก นี่ก็เป็นส่วนหนึ่งของแผนทั้งนั้น
+21-0544	sound_auth	What's up, Kaito-san?	มีอะไรเหรอ ไคโตะซัง?
+21-0545	sound_auth	Those Matsugane assholes ain't biting.\nYou might wanna try lookin' even weaker.	ไอ้พวกมัตสึกาเนะนั่นไม่ยอมกิน เหยื่อเลยว่ะ\nนายลองทำตัวอ่อนแอกว่านี้อีกหน่อยดิ
+21-0546	sound_auth	If the Matsugane are around, they ain't biting.\nCan't you look more pathetic?	ถ้ามัตสึกาเนะอยู่แถวนี้ พวกมันไม่กินเหยื่อหรอก\nนายทำตัวน่าสมเพชกว่านี้ไม่ได้เหรอ
+21-0547	sound_auth	And how am I gonna do that?	แล้วผมจะทำแบบนั้นได้ยังไง
+21-0548	sound_auth	Huh? Sure, but... How?	หา? ได้สิ แต่... ยังไงล่ะ
+21-0549	sound_auth	Hmmm... Maybe if you tried\ngetting drunk?	อืม... ลองเมาดู\nมั้ยล่ะ?
+21-0550	sound_auth	Hmmm, well... Maybe if you tried\ngetting drunk?	อืม เอ่อ... ลองเมาดู\nมั้ยล่ะ?
+21-0551	sound_auth	Not a bad idea.\nGuess I'll stop by Tender, then.	ไม่เลวนะ\nงั้นผมแวะไปที่เทนเดอร์ก่อนละกัน
+21-0552	sound_auth	Drinking, huh? Not a bad idea.\nGuess I'll stop by Tender, then.	ดื่มเหรอ ไม่เลวนะ\nงั้นแวะไปเทนเดอร์ก่อนละกัน
+21-0553	sound_auth	Well you sure took your sweet time in there.\nDid you forget the mission, Tak?	โห นายใช้เวลาข้างในนานจังนะ\nลืมภารกิจไปแล้วเหรอ ทาคุ
+21-0554	sound_auth	Yo. You sure took your sweet time in there, Tak.\nYou forget the whole plan?	โย่ นายใช้เวลาข้างในนานจังนะ ทาคุ\nลืมแผนทั้งหมดไปแล้วเหรอ
+21-0555	sound_auth	You're supposed to be luring out Hamura's goons,\nnot drinking with the fuckin' locals.	นายมีหน้าที่ล่อพวกลูกน้องฮามุระออกมา\nไม่ใช่ไปนั่งดื่มกับชาวบ้านซะงั้น
+21-0556	sound_auth	You're supposed to be luring out Hamura's goons, right?\nNot chatting up the locals!	นายมีหน้าที่ล่อพวกลูกน้อง ฮามุระออกมาไม่ใช่เหรอ\nไม่ใช่มานั่งจีบชาวบ้านนะ!
+21-0557	sound_auth	...Seriously? <font_kind=yakuza_italic>You're</font_kind> the one who told me to get drunk.	...พูดจริงเหรอ? <font_kind=yakuza_italic>นาย</font_kind>เองแหละที่บอกให้ผมไปเมา
+21-0558	sound_auth	...Seriously? <font_kind=yakuza_italic>You're</font_kind> the one who told me\nto get drunk.	...พูดจริงเหรอ? <font_kind=yakuza_italic>นาย</font_kind>เองแหละที่บอกให้ผม\nไปเมา
+21-0559	sound_auth	Guess I did, huh? I'm sick of waiting, though!\nHow 'bout we just go bust into the Matsugane office?	ก็จริงนะ แต่ฉันเบื่อรอแล้วว่ะ!\nไปบุกสำนักงานตระกูลมัตสึกาเนะ เลยดีมั้ย?
+21-0560	sound_auth	Yeah... I'm just sick of waitin', though!\nHow 'bout we just go bust into the Matsugane office?	เออ... แต่ฉันเบื่อรอแล้วว่ะ!\nไปบุกสำนักงานตระกูลมัตสึกาเนะ เลยดีมั้ย?
+21-0561	sound_auth	Think about how many guys they've got.\nWe'd be fools to charge in there.	ลองคิดดูสิว่าพวกนั้นมีคนเยอะแค่ไหน\nบุกเข้าไปตรงๆ คงโง่เกินไป
+21-0562	sound_auth	Uh, bad idea. Think about how many guys they've got.\nWe'd be fools to charge in there.	เอ่อ ความคิดแย่มาก ลองคิดดูว่าพวกนั้นมีคนเยอะแค่ไหน\nบุกเข้าไปตรงๆ คงโง่เกินไป
+21-0563	sound_auth	Then... Oh, I got it!	งั้น... อ๋อ คิดออกแล้ว!
+21-0564	sound_auth	Do you now.	งั้นเหรอ
+21-0565	sound_auth	Try goin' to one of the Matsugane clubs.	ลองไปที่ร้านของ ตระกูลมัตสึกาเนะสักแห่งดูสิ
+21-0566	sound_auth	Try goin' to one of the\nMatsugane's clubs.	ลองไปที่ร้านของ\nตระกูลมัตสึกาเนะสักแห่งดูสิ
+21-0567	sound_auth	And that'll help, how?	แล้วมันจะช่วยได้ยังไง
+21-0568	sound_auth	How would that help?	มันจะช่วยได้ยังไงล่ะ
+21-0569	sound_auth	You just show up and tell\n'em Yagami's here.	แค่โผล่ไปแล้วบอก\nพวกมันว่ายากามิมาที่นี่
+21-0570	sound_auth	You waltz right up to the Matsugane's doorstep,\nand tell 'em Yagami's here.	เดินยิ้มร่าเข้าไปหน้าประตู ตระกูลมัตสึกาเนะเลย\nแล้วบอกว่ายากามิมาที่นี่
+21-0571	sound_auth	Word'll probably make it up\nto Hamura in no time.	ข่าวคงไปถึง\nฮามุระไม่ช้าหรอก
+21-0572	sound_auth	After that, it shouldn't take too long.\nWord'll make it up to Hamura in no time.	หลังจากนั้นก็ไม่นานหรอก\nข่าวจะไปถึงฮามุระเอง
+21-0573	sound_auth	You know, that might actually work. Just point me\nto a club and we'll go from there.	รู้อะไรมั้ย มันอาจจะได้ผลจริงๆ นะ\nแค่บอกร้านมาที ที่เหลือค่อยว่ากัน
+21-0574	sound_auth	I see... That might actually work.\nJust point me to the nearest club.	เข้าใจแล้ว... มันอาจจะได้ผลจริงๆ นะ\nบอกร้านที่ใกล้ที่สุดมาที
+21-0575	sound_auth	Lemme see... Why don't you try Alvin,\nover on Tenkaichi Street?	ขอคิดดูก่อน... ลองไปที่อัลวินดูสิ\nอยู่แถวถนนเทนไคจิ
+21-0576	sound_auth	Lemme see... Why don't you try\nAlvin, over on Tenkaichi Street?	ขอคิดดูก่อน... ลองไปที่\nอัลวิน แถวถนนเทนไคจิดูสิ
+21-0577	sound_auth	All right, I'll head over now.	ได้ ผมไปเดี๋ยวนี้เลย
+21-0578	sound_auth	Okay, sure. I'll head over now.	โอเค ได้เลย ผมไปเดี๋ยวนี้เลย
+21-0579	sound_auth	Hm? What's going on?	อืม? เกิดอะไรขึ้นเหรอ?
+21-0580	sound_auth	Didn't you hear what we said last week?\nI want a fuckin' answer, today!	ไม่ได้ยินที่กูพูดไปอาทิตย์ ที่แล้วหรือไง\nกูอยากได้คำตอบเดี๋ยวนี้ว่ะ!
+21-0581	sound_auth	Look, we told you last week!\nI want a fuckin' answer, today!	ฟังนะ บอกไปแล้วอาทิตย์ที่แล้ว!\nกูอยากได้คำตอบเดี๋ยวนี้ว่ะ!
+21-0582	sound_auth	Please, it's not exactly possible right now.	ได้โปรดเถอะครับ ตอนนี้มันเป็นไปไม่ได้จริงๆ
+21-0583	sound_auth	Please, it's not exactly possible...	ได้โปรดเถอะครับ มันเป็นไปไม่ได้จริงๆ...
+21-0584	sound_auth	It better be fucking possible!	ก็ทำให้มันเป็นไปได้สิวะ!
+21-0585	sound_auth	With how fast your management costs're rising,\nof course your protection's gonna cost more!	ค่าใช้จ่ายร้านมึงพุ่งเร็วขนาดนี้\nค่าคุ้มครองก็ต้องแพงขึ้นตามสิวะ!
+21-0586	sound_auth	When management costs go up,\nprotection goes up right along with it!	ค่าใช้จ่ายร้านสูงขึ้นเท่าไหร่\nค่าคุ้มครองก็ต้องขึ้นตามไปด้วยสิวะ!
+21-0587	sound_auth	N-No...	ไ-ไม่นะ...
+21-0588	sound_auth	N-No way...	ไ-ไม่จริงน่า...
+21-0589	sound_auth	Tak, those thugs are Matsugane.\nNo doubt about it.	ทาคุ พวกนักเลงนั่นเป็นคนของ\nตระกูลมัตสึกาเนะแน่นอน
+21-0590	sound_auth	Tak, take a look.\nThose thugs are Matsugane boys for sure.	ทาคุ ดูสิ\nพวกนักเลงนั่นเป็นคนของ ตระกูลมัตสึกาเนะแน่ๆ
+21-0591	sound_auth	Yeah, looks like.	ใช่ ดูท่าจะเป็นงั้น
+21-0592	sound_auth	Maybe you should, uh... help or something?\nThat guy looks like he could use a hand.	นายน่าจะเข้าไปช่วยหน่อยมั้ง...\nดูท่าคนนั้นต้องการมือช่วยเหลือนะ
+21-0593	sound_auth	You can step in if you want?\nI dunno, that guy might appreciate it.	นายจะเข้าไปช่วยก็ได้นะถ้าอยากช่วย...\nไม่รู้สิ คนนั้นอาจจะซึ้งใจก็ได้
+21-0594	sound_auth	You could at least <font_kind=yakuza_italic>try</font_kind>\nto sound interested.	อย่างน้อยก็<font_kind=yakuza_italic>ลอง</font_kind>\nทำเสียงสนใจหน่อยได้มั้ย
+21-0595	sound_auth	Kaito-san... At least <font_kind=yakuza_italic>try</font_kind> to sound interested.	ไคโตะซัง... อย่างน้อยก็<font_kind=yakuza_italic>ลอง</font_kind>ทำเสียงสนใจหน่อยสิ
+21-0596	sound_auth	Just hurry up and get it over with.	รีบๆ จัดการให้จบๆ ไปเถอะ
+21-0597	sound_auth	I think you've had enough\nfun for one day.	คิดว่าคุณสนุกมาพอแล้วนะ\nสำหรับวันนี้
+21-0598	sound_auth	Hey. I think that's enough.	เฮ้ พอได้แล้วมั้ง
+21-0599	sound_auth	Huh? The fuck...?	หา? อะไรวะ...?
+21-0600	sound_auth	Wait, that's Yagami!\nThe hell're you doin' here!?	เดี๋ยวนะ นั่นมันยากามินี่!\nมึงมาทำอะไรที่นี่วะ!?
+21-0601	sound_auth	Wait, it's Yagami!\nThe hell're you doin' here!?	เดี๋ยว นั่นยากามิเหรอ!\nมึงมาทำอะไรตรงนี้วะ!?
+21-0602	sound_auth	My question first.\nWhy are you threatening this civilian?	ขอถามผมก่อน\nทำไมถึงข่มขู่ประชาชนคนนี้
+21-0603	sound_auth	First, I'd like to know why you're\nthreatening this civilian.	อย่างแรก ผมอยากรู้ก่อนว่าทำไมคุณถึง\nข่มขู่ประชาชนคนนี้
+21-0604	sound_auth	None of your fuckin' business!	ไม่ใช่เรื่องของมึงว่ะ!
+21-0605	sound_auth	Ugh, watch the volume. Or is yelling\nthe only thing a dumb guy like you can do?	แหม ลดเสียงหน่อยเถอะ หรือว่าตะโกน\nคือสิ่งเดียวที่คนโง่แบบคุณทำได้
+21-0606	sound_auth	Hey, turn it down, would you?\nOr is yelling the only volume you've got?	เฮ้ ลดเสียงหน่อยได้มั้ย\nหรือว่าคุณมีโหมดเสียงเดียวคือตะโกน
+21-0607	sound_auth	Ohhh, that must be why you're bottom\nof the ladder. It all makes sense now.	อ๋อ นั่นสินะ ทำไมถึงรั้งท้าย\nสุดในกลุ่ม เข้าใจแล้ว
+21-0608	sound_auth	Ohhh, that must be why you're\nbottom of the ladder. I get it now.	อ๋อ นั่นสินะทำไมถึงรั้งท้าย\nสุดในแก๊ง เข้าใจล่ะ
+21-0609	sound_auth	You little... I'll slaughter you!	ไอ้เด็กเวร... กูจะเชือดมึงซะ!
+21-0610	sound_auth	Listen up!	ฟังนะ!
+21-0611	sound_auth	Eep...!	อี๊ดดด...!
+21-0612	sound_auth	Go tell your precious Captain Hamura\nthat Yagami was here. Got that?	ไปบอกกัปตันฮามุระสุดที่รักของนาย\nว่ายากามิมาที่นี่ เข้าใจมั้ย
+21-0613	sound_auth	Go cry to Captain Hamura\nand tell him Yagami was here!	ไปร้องไห้บอกกัปตันฮามุระ\nว่ายากามิมาที่นี่ซะ!
+21-0614	sound_auth	Just do it.	ทำตามที่บอกก็พอ
+21-0615	sound_auth	On your way now.	ไปได้แล้ว
+21-0616	sound_auth	Y'know, Tak...\nThis strategy's pretty solid, huh?	รู้อะไรมั้ย ทาคุ...\nแผนนี้เจ๋งดีเหมือนกันนะ
+21-0617	sound_auth	Y'know, Tak... this strategy's\npretty solid, huh?	รู้มั้ย ทาคุ... แผนนี้เจ๋งดี\nเหมือนกันเนอะ
+21-0618	sound_auth	Well, we'll find out soon enough.	เดี๋ยวก็รู้เอง
+21-0619	sound_auth	Yeah, we'll see.	เออ เดี๋ยวก็รู้
+21-0620	sound_auth	You know any other Matsugane joints,\nKaito-san? We should hit a few, just to be safe.	ไคโตะซังรู้จักร้านอื่นของ ตระกูลมัตสึกาเนะอีกมั้ย\nเราน่าจะไปหลายๆ ที่ไว้ก่อน เผื่อไว้
+21-0621	sound_auth	Kaito-san, you know any other Matsugane joints?\nWe should hit a few, just to be safe.	ไคโตะซัง รู้จักร้านอื่นของ ตระกูลมัตสึกาเนะอีกมั้ย?\nเราน่าจะแวะไปหลายที่ไว้ก่อนเผื่อไว้
+21-0622	sound_auth	Hm... There's Romance of the Three Kinkdoms\nover on Pink Street.	อืม... มีร้าน Romance of the Three Kinkdoms\nอยู่แถวถนนพิงก์สตรีท
+21-0623	sound_auth	Fantastic Romance on West Shichifuku, and...\nOh, Sweet Billow on East Shichifuku.	แฟนตาสติกโรแมนซ์ที่ถนนชิจิฟุกุ ฝั่งตะวันตก แล้วก็...\nอ้อ สวีทบิลโลว์ที่ถนนชิจิฟุกุฝั่ง ตะวันออกด้วย
+21-0624	sound_auth	Fantastic Romance on West Shichifuku,\nand... Sweet Billow on East Shichifuku.	แฟนตาสติกโรแมนซ์ที่ถนนชิจิฟุกุ ฝั่งตะวันตก\nแล้วก็...สวีทบิลโลว์ที่ถนนชิจิฟุกุฝั่ง ตะวันออก
+21-0625	sound_auth	All right, I'll try all of 'em.	ได้ ผมจะลองแวะไปให้ครบทุกที่เลย
+21-0626	sound_auth	So, this is Sweet Billow, huh?	งั้นนี่ก็คือสวีทบิลโลว์สินะ
+21-0627	sound_auth	Meaning the guy puffing away\nover there is probably an employee.	หมายความว่าผู้ชายที่กำลังพ่น ควันบุหรี่\nอยู่ตรงนั้นน่าจะเป็นพนักงานร้าน
+21-0628	sound_auth	Meaning the guy puffing away over there\nis probably an employee.	หมายความว่าผู้ชายที่พ่น ควันบุหรี่อยู่ตรงนั้น\nน่าจะเป็นพนักงานร้าน
+21-0629	sound_auth	Why don't you quit standing\naround and go find out?	ทำไมไม่เลิกยืนเฉยๆ\nแล้วไปถามให้รู้เรื่องซะทีล่ะ
+21-0630	sound_auth	Quit standing around\nand go find out.	เลิกยืนเฉยๆ ได้แล้ว\nไปถามให้รู้เรื่องซะ
+21-0631	sound_auth	Someone's bossy today...	วันนี้ใครบางคนขี้บงการจังนะ...
+21-0632	sound_auth	Just do it, Tak.	ทำไปเถอะน่า ทาคุ
+21-0633	sound_auth	Hey, you work here?	เฮ้ ทำงานที่นี่เหรอ
+21-0634	sound_auth	...I do. Why?	...ใช่ครับ ทำไมเหรอ
+21-0635	sound_auth	...Yes, but why?	...ใช่ครับ แต่ทำไมเหรอ
+21-0636	sound_auth	Lemme ask you something.\nThis is a Matsugane establishment, right?	ขอถามอะไรหน่อย\nที่นี่เป็นร้านของ ตระกูลมัตสึกาเนะใช่มั้ย
+21-0637	sound_auth	The name's Yagami. Don't worry,\nI won't stick around much longer.	ผมชื่อยากามิ ไม่ต้องห่วง\nผมจะไม่อยู่นานหรอก
+21-0638	sound_auth	The name's Yagami.\nDon't worry, I won't stick around much longer.	ผมชื่อยากามิ\nไม่ต้องห่วง ผมจะไม่อยู่นานหรอก
+21-0639	sound_auth	Just tell your boss\nI dropped by to say hello.	แค่บอกเจ้านายคุณว่า\nผมแวะมาทักทายก็พอ
+21-0640	sound_auth	Just tell your boss Yagami\ndropped by to say hello.	แค่บอกเจ้านายคุณว่ายากามิ\nแวะมาทักทายก็พอ
+21-0641	sound_auth	...What's going on here?	...เกิดอะไรขึ้นเนี่ย
+21-0642	sound_auth	Look, just tell him, okay?\nI've gotta run.	ฟังนะ บอกเขาไปก็พอ โอเคมั้ย\nผมต้องไปแล้ว
+21-0643	sound_auth	Nothing. Just tell him, okay?\nAnyway, I've gotta run.	ไม่มีอะไรหรอก บอกเขาไปก็พอ โอเคนะ\nยังไงผมต้องไปแล้ว
+21-0644	sound_auth	(That should do it.\nWhere to next?)	(แค่นี้ก็น่าจะพอแล้ว\nต่อไปที่ไหนดี)
+21-0645	sound_auth	So, this is Romance of the Three Kinkdoms?	งั้นนี่ก็คือ Romance of the Three Kinkdoms สินะ
+21-0646	sound_auth	How 'bout stopping in for a round, pal?\nWe got the finest girls to satisfy any kink!	แวะมาสักรอบมั้ยพวก\nเรามีสาวเด็ดพร้อมเสิร์ฟทุก รสนิยมเลยนะ!
+21-0647	sound_auth	Hey, pal! How 'bout stopping in for a round?\nWe got the girls for any kink!	เฮ้พวก! แวะมาสักรอบมั้ย\nเรามีสาวๆ พร้อมทุกรสนิยมเลยนะ!
+21-0648	sound_auth	Do you work here?	คุณทำงานที่นี่เหรอ
+21-0649	sound_auth	Yeah! Just come on in, buddy!\nI'll give you a great deal!	ใช่แล้ว! เข้ามาเลยเพื่อน!\nจัดราคาพิเศษให้เลย!
+21-0650	sound_auth	Yup! Just come on in, buddy!\nI'll give you a great deal!	ใช่เลย! เข้ามาเลยเพื่อน!\nจัดราคาพิเศษให้เลย!
+21-0651	sound_auth	This is a Matsugane place, right?	ที่นี่เป็นร้านของ ตระกูลมัตสึกาเนะใช่มั้ย
+21-0652	sound_auth	Huh? What're you... I, uh...\nI don't want any trouble, man.	หา? คุณมัน... เอ่อ...\nผมไม่อยากมีเรื่องนะพวก
+21-0653	sound_auth	Huh? What...? I don't know, uh...\nI don't want any trouble, man.	หา? อะไรนะ...? ผมไม่รู้เรื่อง เอ่อ...\nผมไม่อยากมีเรื่องนะพวก
+21-0654	sound_auth	It's not like that.	ไม่ใช่อย่างนั้นหรอก
+21-0655	sound_auth	Just tell your boss Yagami stopped by.	แค่บอกเจ้านายคุณว่ายากามิแวะมาก็พอ
+21-0656	sound_auth	Just tell your boss something.\nYagami stopped by.	บอกเจ้านายคุณสักอย่างก็พอ\nว่ายากามิแวะมา
+21-0657	sound_auth	Uh... I'm not sure I follow.	เอ่อ... ผมไม่แน่ใจว่าเข้าใจถูกรึเปล่า
+21-0658	sound_auth	Yagami? I don't get it...	ยากามิ? ผมไม่เข้าใจเลย...
+21-0659	sound_auth	Just do it, okay? I gotta go.	ทำไปก็พอ โอเคนะ ผมต้องไปแล้ว
+21-0660	sound_auth	It's fine. There's not much else to it.\nNow, I better go.	ไม่เป็นไรหรอก แค่นี้แหละ\nเอาล่ะ ผมต้องไปแล้ว
+21-0661	sound_auth	So this place is Fantastic Romance.	งั้นที่นี่ก็คือแฟนตาสติกโรแมนซ์สินะ
+21-0662	sound_auth	So this place is Fantastic Romance?	ที่นี่คือแฟนตาสติกโรแมนซ์เหรอเนี่ย
+21-0663	sound_auth	It's good to see you, gentlemen!	ยินดีต้อนรับครับท่านทั้งหลาย!
+21-0664	sound_auth	Don't "good to see you" me.\nYou're late on your payment and you know it.	ไม่ต้องมา "ยินดีต้อนรับ" หรอกน่า\nรู้ตัวดีอยู่แล้วว่าค้างจ่ายอยู่
+21-0665	sound_auth	Sure. You've been late on\nyour payments.	ก็ได้ นายค้างจ่าย\nมาหลายงวดแล้วนะ
+21-0666	sound_auth	I'm sorry, sir.\nOur sales haven't been the best this month...	ขอโทษครับท่าน\nยอดขายเดือนนี้ไม่ค่อยดีเลย...
+21-0667	sound_auth	I'm sorry, sir.\nOur sales have been down...	ขอโทษครับท่าน\nยอดขายตกลงไปมาก...
+21-0668	sound_auth	Then work on your pitch. Just being open's\nnot enough to bring in customers.	งั้นก็ไปปรับปรุงลีลาขายซะ แค่เปิดร้านทิ้งไว้\nมันไม่พอจะดึงลูกค้าเข้ามาหรอก
+21-0669	sound_auth	Then work on your pitch.\nYou can't just sit and wait for customers.	งั้นก็ไปปรับปรุงลีลาขายซะ\nนั่งรอลูกค้าเฉยๆ ไม่ได้หรอกนะ
+21-0670	sound_auth	Looks like you're right on time, Tak!	มาถึงพอดีเป๊ะเลยนะ ทาคุ!
+21-0671	sound_auth	Hey, Tak! Looks like you're right on time!	เฮ้ ทาคุ! มาถึงพอดีเป๊ะเลย!
+21-0672	sound_auth	Go on, introduce yourself!	ไปสิ แนะนำตัวซะ!
+21-0673	sound_auth	Go on, let's see your big entrance!	ไปเลย ขอดูฉากเข้าใหญ่โตของนายหน่อย!
+21-0674	sound_auth	 Yeah, sure.	 เออ ได้
+21-0675	sound_auth	Excuse me, are you guys open?	ขอโทษนะครับ เปิดอยู่รึเปล่า
+21-0676	sound_auth	Excuse me. You guys open?	ขอโทษนะครับ เปิดอยู่รึเปล่า
+21-0677	sound_auth	Welcome, sir. We—	ยินดีต้อนรับครับท่าน เรา—
+21-0678	sound_auth	Welcome, sir...	ยินดีต้อนรับครับท่าน...
+21-0679	sound_auth	What the! Yagami!?	อะไรวะ! ยากามิ!?
+21-0680	sound_auth	Oh, are you from the Matsugane Family?\nIt's good to see you.	อ้อ พวกคุณมาจากตระกูลมัตสึกาเนะเหรอ\nยินดีที่ได้เจอนะ
+21-0681	sound_auth	Oh, huh! You from the\nMatsugane Family? Evening.	อ้าว เฮ้! พวกคุณมาจาก\nตระกูลมัตสึกาเนะเหรอ สวัสดีตอนเย็น
+21-0682	sound_auth	Who the fuck do you think you are,\nstrollin' up on us like it's no big deal?	มึงคิดว่าตัวเองเป็นใครวะ\nเดินเข้ามาเฉยเหมือนไม่มีอะไรงั้นเหรอ
+21-0683	sound_auth	I wanna see Captain Hamura.\nKnow where he is?	ผมอยากเจอกัปตันฮามุระ\nรู้มั้ยว่าเขาอยู่ไหน
+21-0684	sound_auth	I wanna see Captain Hamura.\nGot any idea where he is?	ผมอยากเจอกัปตันฮามุระ\nพอจะรู้มั้ยว่าเขาอยู่ที่ไหน
+21-0685	sound_auth	You little shit.\nWho do you think you're talking to!?	ไอ้เด็กเวร\nมึงคิดว่ากำลังพูดกับใครอยู่วะ!?
+21-0686	sound_auth	You what...? Little shit.\nWho do you think you're talking to!?	มึงว่าไงนะ...? ไอ้เด็กเวร\nคิดว่ากำลังพูดกับใครวะ!?
+21-0687	sound_auth	You're never meetin' Hamura...\n'cause you're gonna die right here!	มึงไม่มีวันได้เจอฮามุระหรอก...\nเพราะมึงจะตายตรงนี้แหละ!
+21-0688	sound_auth	You're never meetin' the captain...\n'cause you're gonna die right here!	มึงไม่มีวันได้เจอกัปตันหรอก...\nเพราะมึงจะตายตรงนี้แหละ!
+21-0689	sound_auth	Heh. Satisfied?	ฮึ พอใจรึยัง
+21-0690	sound_auth	Gah...! Shit!	กาห์...! เวรเอ๊ย!
+21-0691	sound_auth	If you know what's good for you,\nyou'll report this to your family.	ถ้ารู้ว่าอะไรดีกับตัวเอง\nก็ไปรายงานตระกูลซะ
+21-0692	sound_auth	If I were you, I'd report this\nto the family.	ถ้าเป็นผม ผมจะไปรายงาน\nเรื่องนี้ให้ตระกูลรู้
+21-0693	sound_auth	I'm out of here.	ผมไปล่ะ
+21-0694	sound_auth	Now, I should get going.	เอาล่ะ ผมควรไปได้แล้ว
+21-0695	sound_auth	(All right, I've been everywhere\nKaito-san mentioned.)	(เอาล่ะ ผมไปครบทุกที่\nที่ไคโตะซังบอกแล้ว)
+21-0696	sound_auth	Yo, it's Kaito.\nThat was freakin' amazing, Tak.	โย่ ไคโตะเองนะ\nเมื่อกี้เจ๋งเป้งเลยว่ะ ทาคุ
+21-0697	sound_auth	Yo, it's Kaito. That was freakin' amazing, Tak.\nNice job out there.	โย่ ไคโตะเองนะ เมื่อกี้เจ๋งเป้งเลยว่ะ ทาคุ\nทำได้ดีมาก
+21-0698	sound_auth	Yup, absolute perfection.\nHamura'll have guys on your ass in no time.	เยี่ยมสุดๆ ไปเลย\nอีกไม่นานฮามุระต้องส่งคนมา ตามล่านายแน่
+21-0699	sound_auth	Yup, absolute perfection. If I know Hamura,\nhe'll have guys on your ass in no time.	เยี่ยมสุดๆ ไปเลย ถ้ารู้จักฮามุระดี\nอีกไม่นานเขาต้องส่งคนมาตามล่านายแน่
+21-0700	sound_auth	Just keep walkin' around town.\nWon't be long 'til they jump you.	แค่เดินไปเรื่อยๆ ในเมือง\nอีกไม่นานพวกมันต้องมารุมนายแน่
+21-0701	sound_auth	All you gotta do is just keep walkin' around town.\nWon't be long 'til they jump you.	แค่เดินไปเรื่อยๆ ในเมืองก็พอ\nอีกไม่นานพวกมันต้องมารุมนายแน่
+21-0702	sound_auth	Yo, Tak. Why don't you head somewhere\nwith less people hangin' around?	โย่ ทาคุ ทำไมไม่ไปที่ๆ\nคนน้อยกว่านี้ล่ะ
+21-0703	sound_auth	Yo, Tak. Why don't you head somewhere\nwith less people?	โย่ ทาคุ ไปที่ๆ คนน้อยกว่านี้\nดีกว่ามั้ย
+21-0704	sound_auth	Those Matsugane assholes aren't dumb\nenough to jump you with so many witnesses in sight.	ไอ้พวกมัตสึกาเนะพวกนั้นไม่โง่\nพอจะรุมนายต่อหน้าพยานเยอะขนาดนี้หรอก
+21-0705	sound_auth	They aren't dumb enough to jump you\nwith so many witnesses.	พวกมันไม่โง่พอจะรุมนาย\nต่อหน้าพยานเยอะขนาดนี้หรอก
+21-0706	sound_auth	Where'd you have in mind?	นายนึกถึงที่ไหนไว้ล่ะ
+21-0707	sound_auth	I was thinkin' the Champion District.	นึกถึงย่านแชมเปี้ยนอยู่นะ
+21-0708	sound_auth	Streets're so narrow there they'll\nbe more than happy to ambush you.	ถนนแถวนั้นแคบมาก พวกมันคง\nดีใจจนอยากซุ่มโจมตีนายแน่ๆ
+21-0709	sound_auth	Streets're so narrow there, they'll be\nlicking their chops.	ถนนแถวนั้นแคบมาก พวกมันคง\nน้ำลายสอเลยล่ะ
+21-0710	sound_auth	Well that's a scary thought...\nBut okay. I'll head over now.	ฟังดูน่ากลัวอยู่นะ...\nแต่ก็ได้ ผมไปเดี๋ยวนี้เลย
+21-0711	sound_auth	Well, that's a scary thought... but okay.	ฟังดูน่ากลัวอยู่นะ... แต่ก็ได้
+21-0712	sound_auth	Get after him, Tak! Make him cough\nup all he knows about Hamura!	ไล่ตามมันไปเลย ทาคุ! ทำให้มัน\nคายทุกอย่างที่รู้เรื่องฮามุระออกมา!
+21-0713	sound_auth	Get after him, Tak!\nWe need his info on Hamura!	ไล่ตามมันไปเลย ทาคุ!\nเราต้องการข้อมูลเรื่องฮามุระจากมัน!
+21-0714	sound_auth	Phew. I think we lost 'em.	ฟู้ว คิดว่าเราหนีพ้นแล้วล่ะ
+21-0715	sound_auth	Okay... I think we lost 'em.	โอเค... คิดว่าเราหนีพ้นแล้ว
+21-0716	sound_auth	What about... Kaito-san?	แล้ว... ไคโตะซังล่ะ?
+21-0717	sound_auth	Hamura shot him in the stomach...\nso he'd have to carry him out. After that, I dunno.	ฮามุระยิงเขาที่ท้อง...\nเลยต้องหามตัวออกไป หลังจากนั้นผมก็ไม่รู้แล้ว
+21-0718	sound_auth	Hamura shot him in the stomach... Those yakuza\nhave him now. That's all we know.	ฮามุระยิงเขาที่ท้อง... ตอนนี้พวกยากูซ่า\nคุมตัวเขาไว้ ผมรู้แค่นี้แหละ
+21-0719	sound_auth	Dammit. We've gotta go after him!	บ้าเอ๊ย ต้องรีบไปตามหาเขาแล้ว!
+21-0720	sound_auth	Damn it! We've gotta go after him!	บ้าเอ๊ย! ต้องรีบไปตามหาเขาแล้ว!
+21-0721	sound_auth	...Hold on.\nHow'd you know where we were?	...เดี๋ยวก่อน\nคุณรู้ได้ยังไงว่าเราอยู่ตรงนี้
+21-0722	sound_auth	...Hold on. How'd you know\nwhere we were?	...เดี๋ยวก่อน คุณรู้ได้ยังไง\nว่าเราอยู่ตรงนี้
+21-0723	sound_auth	I was sittin' in the van listening in on the Matsugane office.\nThey all rolled out, so I followed.	ผมนั่งอยู่ในรถตู้ ดักฟังสำนักงานตระกูลมัตสึกาเนะอยู่\nพอพวกเขาออกมากันหมด ผมก็เลยตามมา
+21-0724	sound_auth	I was listening to the Matsugane office, since I was\nstuck sitting back here. They rolled out, so I followed.	ผมดักฟังสำนักงานตระกูลมัตสึกาเนะอยู่ เพราะติดอยู่\nในรถตรงนี้พอดี พอพวกเขาออกมา ผมก็เลยตามมา
+21-0725	sound_auth	Do you know where Hamura's holed up, then?\nMaybe they dropped a hint while you were listening.	งั้นรู้มั้ยว่าฮามุระหลบซ่อน อยู่ที่ไหน\nบางทีอาจมีคำใบ้หลุดมาตอนที่คุณ ดักฟังอยู่
+21-0726	sound_auth	Do you know where Hamura's holed up, then?\nWas there any hint of it as you listened?	งั้นรู้มั้ยว่าฮามุระหลบซ่อน อยู่ที่ไหน\nมีคำใบ้อะไรหลุดออกมาตอนที่คุณ ฟังอยู่มั้ย
+21-0727	sound_auth	Hm... I did hear them mention\nthe "Soleil Building" once or twice.	อืม... ผมได้ยินพวกเขาพูดถึง\n"ตึกโซเลย์" อยู่หนึ่งหรือสองครั้ง
+21-0728	sound_auth	You think that's where\nthey took Kaito-san?	คิดว่าพวกเขา\nพาไคโตะซังไปที่นั่นเหรอ
+21-0729	sound_auth	Soleil...? Think that's where they\ntook Kaito-san?	โซเลย์...? คิดว่าพวกเขา\nพาไคโตะซังไปที่นั่นเหรอ
+21-0730	sound_auth	Can't say for sure.\nHe could be anywhere, really.	บอกแน่ชัดไม่ได้ครับ\nเขาอาจจะอยู่ที่ไหนก็ได้จริงๆ
+21-0731	sound_auth	Can't say for sure.\nHe could be anywhere.	บอกแน่ชัดไม่ได้ครับ\nเขาอาจจะอยู่ที่ไหนก็ได้
+21-0732	sound_auth	But it's worth lookin' into. It sounded like\nSoleil has been abandoned for a while.	แต่ก็น่าจะลองไปดูนะครับ ฟังดูเหมือนตึกโซเลย์\nถูกทิ้งร้างมาสักพักแล้ว
+21-0733	sound_auth	But I think it's gotta be some kinda\nabandoned building in Kamurocho.	แต่ผมว่ามันต้องเป็น\nตึกร้างสักแห่งในคามุโรโจแน่ๆ
+21-0734	sound_auth	We can second-guess ourselves later,\nthen. Let's get moving.	งั้นค่อยมาคิดทบทวนทีหลังก็ได้\nไปกันเถอะ
+21-0735	sound_auth	We can second-guess ourselves later.\nLet's go.	ค่อยมาคิดทบทวนทีหลังก็ได้\nไปกันเถอะ
+21-0736	sound_auth	That's it.\nThe Soleil Building.	นั่นแหละ\nตึกโซเลย์
+21-0737	sound_auth	That's the Soleil Building.	นั่นคือตึกโซเลย์
+21-0738	sound_auth	Hold on, I recognize those guys out front.\nThey're Matsugane for sure.	เดี๋ยวก่อน ผมจำพวกที่ยืนอยู่หน้าตึกได้\nเป็นคนของตระกูลมัตสึกาเนะแน่ๆ
+21-0739	sound_auth	I recognize those guys out front.\nThey're Matsugane for sure.	ผมจำพวกที่ยืนอยู่หน้าตึกได้\nเป็นคนของตระกูลมัตสึกาเนะแน่ๆ
+21-0740	sound_auth	Does that mean Kaito-san's\nactually in there?	หมายความว่าไคโตะซัง\nอยู่ในนั้นจริงๆ เหรอครับ
+21-0741	sound_auth	What does that mean for Kaito-san?\nHe's actually in there?	แล้วมันหมายความว่าไงกับไคโตะซัง\nเขาอยู่ในนั้นจริงๆ เหรอ
+21-0742	sound_auth	Hard to tell from out here.\nLooks like their guard's down, though.	ดูจากตรงนี้บอกยาก\nแต่ดูเหมือนการ์ดพวกมันจะหย่อนอยู่นะ
+21-0743	sound_auth	Hard to tell from out here.\nBut... looks like their guard's down.	ดูจากตรงนี้บอกยาก\nแต่... ดูเหมือนการ์ดพวกมันจะหย่อนอยู่
+21-0744	sound_auth	Guess we've just gotta bust in,\nthen. Sooner the better.	งั้นก็ต้องบุกเข้าไป\nยิ่งเร็วยิ่งดี
+21-0745	sound_auth	Guess we've just gotta bust in, then.\nSooner the better.	งั้นก็ต้องบุกเข้าไปเลย\nยิ่งเร็วยิ่งดี
+21-0746	sound_auth	Yagami-san, you all set?	ยากามิซัง พร้อมรึยังครับ
+21-0747	sound_auth	Yup, let's go.	เออ ไปกันเถอะ
+21-0748	sound_auth	Gotcha. Lemme know\nwhen you wanna go.	รับทราบครับ บอกผมด้วย\nว่าเมื่อไหร่จะไป
+21-0749	sound_auth	Gotcha. Lemme know when\nyou wanna go.	รับทราบครับ บอกผมด้วยว่า\nเมื่อไหร่จะไป
+21-0750	sound_auth	You ready yet, Yagami-san?\nWe're breakin' in there, right?	พร้อมรึยังครับ ยากามิซัง\nเราจะบุกเข้าไปใช่มั้ย
+21-0751	sound_auth	Yagami-san? We're breakin' in there, right?\nYou ready to go?	ยากามิซังครับ? เราจะบุกเข้าไปใช่มั้ย\nพร้อมรึยัง
+21-0752	sound_auth	Huh? Oh, good.	หา? อ้อ ดี
+21-0753	sound_auth	Gotcha.\nLemme know when you wanna go.	รับทราบครับ\nบอกผมด้วยว่าเมื่อไหร่จะไป
+21-0754	sound_auth	Hey, that's... Yagami!\nYou got balls showin' up around here!	เฮ้ นั่นมัน... ยากามิ!\nกล้ามาโผล่แถวนี้ได้ไงวะ!
+21-0755	sound_auth	Hey, that's... Yagami!\nYou got balls showin' up here!	เฮ้ นั่นมัน... ยากามิ!\nกล้ามาโผล่ที่นี่ได้ไงวะ!
+21-0756	sound_auth	Let's go, Yagami-san.	ไปกันเถอะครับ ยากามิซัง
+21-0757	sound_auth	Is it... over, Yagami-san?	จบแล้ว... เหรอครับ ยากามิซัง
+21-0758	sound_auth	Yagami-san? Is it over?	ยากามิซังครับ? จบแล้วเหรอ
+21-0759	sound_auth	Shit, we can't fight like this!\nFind the light switch, Yagami-san!	เวรแล้ว สู้แบบนี้ไม่ได้แน่!\nหาสวิตช์ไฟที ยากามิซัง!
+21-0760	sound_auth	Whoa, shit... Yagami-san, get the lights!\nWe can't fight like this!	โอ้ ให้ตายสิ... ยากามิซัง เปิดไฟที!\nสู้แบบนี้ไม่ไหวแน่
+21-0761	sound_auth	Gimme a second.	ขอเวลาแป๊บนึง
+21-0762	sound_auth	Phew, thanks.	ฟู้ว ขอบคุณครับ
+21-0763	sound_auth	(It's locked.\nCan't pick a lock without light.)	(มันล็อกอยู่\nงัดกุญแจไม่ได้ถ้าไม่มีแสงไฟ)
+21-0764	sound_auth	Lemme guess, turn the lights on?\nCan't you do it yourself?	ให้เดานะ ให้เปิดไฟใช่มั้ย?\nทำเองไม่ได้เหรอ
+21-0765	sound_auth	Yeah, yeah, the lights.\nI get it already.	เออ เออ เรื่องไฟ\nรู้แล้วน่า
+21-0766	sound_auth	How... DARE you!	กล้าดียังไง... ถึงบังอาจ!
+21-0767	sound_auth	You think you're real clever, huh?	คิดว่าตัวเองฉลาดนักเหรอ
+21-0768	sound_auth	Yeah. Glad you're okay.\nCome gimme a hand.	เออ ดีใจที่นายปลอดภัย\nมาช่วยฉันหน่อย
+21-0769	sound_auth	Sugiura... Glad you're okay.\nHelp me with this lug.	ซุกิอุระ... ดีใจที่นายปลอดภัย\nช่วยแบกร่างนี้หน่อย
+21-0770	sound_auth	How do you feel, Kaito-san?	รู้สึกยังไงบ้างครับ ไคโตะซัง
+21-0771	sound_auth	Kaito-san, how do you feel?	ไคโตะซัง รู้สึกยังไงบ้างครับ
+21-0772	sound_auth	What, me? It was just a scratch.	อะไร ฉันเหรอ? แค่รอยข่วนนิดหน่อยเอง
+21-0773	sound_auth	What, me? It's just a scratch.	อะไร ฉันเหรอ? แค่รอยข่วนเอง
+21-0774	sound_auth	I'm good on my own.	ฉันไหวคนเดียวน่า
+21-0775	sound_auth	I can handle myself...	ฉันจัดการตัวเองได้...
+21-0776	sound_auth	Ngh!	อึก!
+21-0777	sound_auth	Still acting tough with lead in your stomach?\nWho you trying to impress?	ยังจะแข็งทั้งที่มีกระสุนคาท้อง อยู่เนี่ยนะ?\nจะไปทำเท่ให้ใครดู
+21-0778	sound_auth	Still actin' tough with lead in your stomach?\nCome on...	ยังจะแข็งทั้งที่มีกระสุนคาท้อง อยู่อีกเหรอ?\nไม่เอาน่า...
+21-0779	sound_auth	Yo. Lemme jump in, too.	โย่ ขอร่วมด้วยคนนะ
+21-0780	sound_auth	Yo. We don't have all day.	โย่ เราไม่มีเวลาทั้งวันหรอกนะ
+21-0781	sound_auth	Higashi...	ฮิงาชิ...
+21-0782	sound_auth	Matsugane-san, too...	ท่านมัตสึกาเนะ...มาด้วย...
+21-0783	sound_auth	My van's right outside.	รถตู้ของผมจอดอยู่ข้างนอกครับ
+21-0784	sound_auth	You two get him to a doctor.\nThere's something I still need to do here.	พวกนายสองคนพาเขาไปหาหมอที\nผมยังมีธุระต้องสะสางที่นี่อีกหน่อย
+21-0785	sound_auth	Guess I'm joining your little party.	ดูเหมือนผมจะได้มาร่วมวงกับ พวกคุณด้วยนะ
+21-0786	sound_auth	Not even the threat of death\ncan stop you guys.	ต่อให้ขู่จะฆ่า\nก็หยุดพวกนายไม่ได้สินะ
+21-0787	sound_auth	You stubborn boys...\nNot even the threat of death stops you.	ไอ้พวกดื้อด้าน...\nขู่จะฆ่ายังไงก็หยุดพวกนายไม่ได้
+21-0788	sound_auth	Took you long enough.	กว่าจะมาถึงก็นานเชียวนะ
+21-0789	sound_auth	At least you understand now, boss.	อย่างน้อยตอนนี้ก็เข้าใจแล้วสินะ โอยาบุน
+21-0790	sound_auth	Hey. It's about time\nyou give us some answers.	เฮ้ ได้เวลาแล้ว\nที่นายจะให้คำตอบพวกเราสักที
+21-0791	sound_auth	Hey. It's about time we got\nsome answers.	เฮ้ ได้เวลาแล้ว\nที่เราจะได้คำตอบกันสักที
+21-0792	sound_auth	I'm done wasting time on you,\nso just cooperate and it'll all be fine.	ผมไม่อยากเสียเวลากับนายอีกแล้ว\nงั้นให้ความร่วมมือซะ แล้วทุกอย่างจะจบด้วยดี
+21-0793	sound_auth	I'm done wasting time on you,\nso I suggest you cooperate.	ผมไม่อยากเสียเวลากับนายอีกแล้ว\nขอแนะนำให้ให้ความร่วมมือซะ
+21-0794	sound_auth	Ngh...	อึก...
+21-0795	sound_auth	What, your murderer friend abandon you?\nNot much use if he won't come when you need help.	ไง เพื่อนนักฆ่าของนายทิ้งนายแล้วเหรอ?\nไม่เห็นมีประโยชน์เลยนะ ถ้าเวลาต้องการความช่วยเหลือ แล้วมันไม่มา
+21-0796	sound_auth	Don't tell me the Mole abandoned you?\nNot much use if he won't come when you need help.	อย่าบอกนะว่าไส้ศึกทิ้งนายไปแล้ว?\nไม่เห็นมีประโยชน์เลย ถ้าเวลาต้องการความช่วยเหลือ แล้วมันไม่มา
+21-0797	sound_auth	Boss, listen. Things're gonna\nget ugly if I die here.	โอยาบุน ฟังนะ\nถ้ากูตายที่นี่ เรื่องจะบานปลายแน่
+21-0798	sound_auth	Boss... If I die here,\nthis is gonna get even uglier.	โอยาบุน...\nถ้ากูตายที่นี่ เรื่องจะยิ่งบานปลายกว่าเดิม
+21-0799	sound_auth	Neither of you will survive the aftermath.\nIt's not too late to put a stop to this.	ไม่มีใครในพวกมึงรอดจากผลที่ตามมาหรอก\nยังไม่สายที่จะหยุดเรื่องนี้ไว้นะ
+21-0800	sound_auth	Neither of you will survive the aftermath.\nIt's not too late to stop this.	ไม่มีใครในพวกมึงรอดจากผลที่ตามมาหรอก\nยังไม่สายที่จะหยุดเรื่องนี้
+21-0801	sound_auth	Just end this fucker\nand be done with it.	จบเรื่องไอ้นี่ซะ\nแล้วให้มันจบ ๆ ไป
+21-0802	sound_auth	And if I don't, the Mole will kill us both?\nIs that what you're saying?	แล้วถ้าผมไม่ยอม ไส้ศึกจะฆ่าเราทั้งคู่งั้นเหรอ?\nนั่นคือสิ่งที่นายพูดใช่ไหม?
+21-0803	sound_auth	And if I don't, what do you imagine will happen?\nThe Mole will come to kill us both?	แล้วถ้าผมไม่ยอม นายคิดว่าจะเกิดอะไรขึ้น?\nไส้ศึกจะมาฆ่าเราทั้งคู่งั้นเหรอ?
+21-0804	sound_auth	Look. Some people you can get away\nwith betraying, and some people you can't.	ฟังนะ บางคนมึงทรยศแล้วรอดตัวได้\nแต่บางคนก็ทำแบบนั้นไม่ได้
+21-0805	sound_auth	Some people in this world... you can get\naway with betraying. And some people you can't.	บางคนในโลกนี้...\nมึงทรยศแล้วรอดตัวได้ แต่บางคนก็ไม่ได้
+21-0806	sound_auth	And which am I, I wonder?	แล้วผมเป็นแบบไหนล่ะ สงสัยจัง
+21-0807	sound_auth	Pick your poison, Hamura. You die betraying\nthe Mole, or you die defending him.	เลือกเอาเถอะ ฮามุระ นายจะตายเพราะทรยศ\nไส้ศึก หรือจะตายเพราะปกป้องมัน
+21-0808	sound_auth	You can die betraying the Mole,\nor die defending him. What'll it be?	นายจะตายเพราะทรยศไส้ศึก\nหรือจะตายเพราะปกป้องมัน จะเอาแบบไหน?
+21-0809	sound_auth	<color=ｍonologue>(This oughta be good.)</color>	<color=ｍonologue>(เรื่องนี้น่าจะสนุกแน่)</color>
+21-0810	sound_auth	We're going to bring\nthis murderer to justice.	เราจะเอาตัวไอ้ฆาตกรคนนี้\nมาลงโทษให้ได้
+21-0811	sound_auth	We'll bring the Mole to justice.	เราจะเอาตัวไส้ศึกมาลงโทษให้ได้
+21-0812	sound_auth	Now tell me where I can find him.\nAnd his identity.	ทีนี้บอกผมมาว่าจะหาตัวมันได้ที่ไหน\nและตัวตนที่แท้จริงของมันคือใคร
+21-0813	sound_auth	Answer me!	ตอบมา!
+21-0814	sound_auth	If you want to live, answer me!	ถ้านายอยากมีชีวิตอยู่ ก็ตอบมา!
+21-0815	sound_auth	I'd rather die.	กูยอมตายซะดีกว่า
+21-0816	sound_auth	Don't play dumb with me.\nYou think I'm gonna talk that easy!?	อย่ามาแกล้งโง่กับกู\nคิดว่ากูจะปากโป้งง่าย ๆ งั้นเหรอ!?
+21-0817	sound_auth	Don't play dumb.\nYou think I'm gonna talk that easy!?	อย่าแกล้งโง่\nคิดว่ากูจะปากโป้งง่าย ๆ งั้นเหรอ!?
+21-0818	sound_auth	Huh. Didn't think you'd\nreally stand your ground.	ฮึ ไม่คิดเลยว่านาย\nจะยืนกรานขนาดนี้
+21-0819	sound_auth	I'm kind of impressed.\nDidn't think you'd stand your ground.	ผมค่อนข้างทึ่งเลยนะ\nไม่คิดว่านายจะยืนกรานได้ขนาดนี้
+21-0820	sound_auth	We can't stay here.\nWho knows when his backup might arrive.	เราอยู่ที่นี่ต่อไม่ได้แล้ว\nไม่รู้ว่ากำลังเสริมของมันจะ มาถึงเมื่อไหร่
+21-0821	sound_auth	We can't stay here for much longer.\nWho knows when his backup might arrive.	เราอยู่ที่นี่ต่อได้อีกไม่นานแล้ว\nไม่รู้ว่ากำลังเสริมของมันจะ มาถึงเมื่อไหร่
+21-0822	sound_auth	Are the Matsugane still after us?	คนของตระกูลมัตสึกาเนะยังตามล่า พวกเราอยู่ไหมครับ?
+21-0823	sound_auth	Most likely.\nEmbarrassing as that is to admit.	คงอย่างนั้นแหละ\nน่าอายที่ต้องยอมรับ
+21-0824	sound_auth	Most likely, yes. Though as the patriarch,\nit's embarrassing to admit.	คงอย่างนั้น ทั้งที่เป็นหัวหน้าตระกูลเอง\nก็ยังรู้สึกอายที่ต้องยอมรับแบบนี้
+21-0825	sound_auth	Well, guess we've gotta figure out\nhow to make you talk.	งั้นก็คงต้องหาทาง\nทำให้นายปากโป้งสินะ
+21-0826	sound_auth	...Guess we've gotta figure out\nhow to make you talk.	...คงต้องหาทาง\nทำให้นายปากโป้งให้ได้
+21-0827	sound_auth	Luckily, I've got a place in mind.\nYou heard of the Honmaruen cabaret?	โชคดีที่ผมมีที่ในใจอยู่แล้ว\nเคยได้ยินชื่อคาบาเรต์ฮนมารุเอ็นไหม?
+21-0828	sound_auth	Luckily, I've got a place in mind.\nYou know the Honmaruen cabaret?	โชคดีที่ผมมีที่ในใจอยู่แล้ว\nรู้จักคาบาเรต์ฮนมารุเอ็นไหม?
+21-0829	sound_auth	It's a Kyorei stronghold.	มันเป็นฐานที่มั่นของตระกูลเคียวเรอิ
+21-0830	sound_auth	It's a Kyorei Clan stronghold.	มันเป็นฐานที่มั่นของตระกูลเคียวเรอิ
+21-0831	sound_auth	I'm sure your former prey\nwill be thrilled to see you.	ผมมั่นใจว่าเหยื่อเก่า ๆ ของนาย\nคงตื่นเต้นที่จะได้เจอนายอีกครั้งแน่
+21-0832	sound_auth	I'm sure the Mole's former prey\nwill be thrilled to see you.	ผมมั่นใจว่าเหยื่อเก่า ๆ ของไส้ศึก\nคงตื่นเต้นที่จะได้เจอนายแน่
+21-0833	sound_auth	If they can't break you, I don't know what can.\nI doubt you'll last, though.	ถ้าพวกนั้นเอานายไม่อยู่ ผมก็ไม่รู้แล้วว่าอะไรจะเอานายอยู่\nแต่ผมว่านายคงทนไม่ไหวหรอก
+21-0834	sound_auth	It'll be damn interesting\neither way.	ยังไงก็สนุก\nแน่นอน
+21-0835	sound_auth	Now c'mon. Let's go.	เอาละ ไปกันเถอะ
+21-0836	sound_auth	Now. Let's go!	ไปกันเลย!
+21-0837	sound_auth	Here he is, the man of the hour.\nGlad you could make it, Hamura.	มาแล้วไง พระเอกของงานเรา\nดีใจที่มึงมาได้นะ ฮามุระ
+21-0838	sound_auth	Glad you could make it, Hamura!\nYou're the man of the hour, y'know?	ดีใจที่มึงมาได้นะ ฮามุระ!\nมึงคือพระเอกของงานเลยนะ รู้ตัวไหม?
+21-0839	sound_auth	And you must be Patriarch Matsugane?\nIt's a pleasure to meet you.	แล้วคุณก็คือท่าน หัวหน้าตระกูลมัตสึกาเนะสินะ?\nยินดีที่ได้รู้จักครับ
+21-0840	sound_auth	And you must be Patriarch Matsugane?\nIt's a real pleasure.	แล้วคุณก็คือท่าน หัวหน้าตระกูลมัตสึกาเนะสินะ?\nยินดีที่ได้รู้จักจริง ๆ ครับ
+21-0841	sound_auth	Though if you ask me, Tojo leadership should be\nbetter at keeping their dogs chained up.	แต่ถ้าถามกูนะ ผู้นำตระกูลโทโจ\nน่าจะคุมหมาในสังกัดให้อยู่ใน โซ่ให้ดีกว่านี้
+21-0842	sound_auth	Though if you ask me, the Tojo Clan\noughta keep its dogs on tighter leashes.	แต่ถ้าถามกูนะ ตระกูลโทโจ\nน่าจะผูกโซ่หมาในสังกัดให้แน่น กว่านี้หน่อย
+21-0843	sound_auth	Agreed. There is no excuse\nfor how I acted.	เห็นด้วย ไม่มีข้อแก้ตัวใด ๆ\nสำหรับสิ่งที่ผมทำลงไป
+21-0844	sound_auth	Agreed.\nI make no excuses.	เห็นด้วย\nผมไม่ขอแก้ตัวใด ๆ ทั้งนั้น
+21-0845	sound_auth	Shioya-san.	ชิโอยะซัง
+21-0846	sound_auth	We're gonna make Hamura tell us who the Mole is.\nThink you can keep us safe 'til then?	เราจะบีบให้ฮามุระบอกว่าไส้ศึกคือใคร\nคิดว่าคุณจะคุ้มกันพวกเราไว้ได้ จนกว่าจะจบไหม?
+21-0847	sound_auth	Heh. Maybe, maybe not.	ฮึ อาจจะได้ หรืออาจจะไม่ได้
+21-0848	sound_auth	This is what Chairman Kajihira wants.	นี่คือสิ่งที่ประธานคาจิฮิระต้องการ
+21-0849	sound_auth	Let me remind you, this is what\nChairman Kajihira wants.	ขอเตือนไว้ก่อนนะ นี่คือสิ่งที่\nประธานคาจิฮิระต้องการ
+21-0850	sound_auth	You don't wanna disobey\nhis orders, do you?	คุณคงไม่อยากขัดคำสั่ง\nของท่านหรอกใช่ไหม?
+21-0851	sound_auth	You're not gonna go rogue, are you?	คุณจะไม่คิดแหกกฎใช่ไหม?
+21-0852	sound_auth	Well that's rude.	นั่นมันหยาบคายไปหน่อยนะ
+21-0853	sound_auth	Now that's just rude, Yagami.	นั่นมันหยาบคายไปหน่อยนะ ยากามิ
+21-0854	sound_auth	I still haven't paid you back for what you did to me.\nIf you don't mind, I'd like to settle that first.	กูยังไม่ได้ตอบแทนสิ่งที่มึงทำ กับกูเลย\nถ้าไม่ว่าอะไร กูอยากจะสะสางเรื่องนั้นก่อน
+21-0855	sound_auth	I still haven't paid you back for what you did to me.\nIf it's all the same, how 'bout we settle it?	กูยังไม่ได้ตอบแทนสิ่งที่มึงทำ กับกูเลย\nถ้าไม่ติดอะไร มาสะสางเรื่องนั้นกันก่อนดีไหม?
+21-0856	sound_auth	For what <font_kind=yakuza_italic>I</font_kind> did?\nYou're the one who kidnapped Mafuyu.	สิ่งที่<font_kind=yakuza_italic>ผม</font_kind>ทำงั้นเหรอ?\nคุณต่างหากที่ลักพาตัวมาฟุยุ
+21-0857	sound_auth	For what <font_kind=yakuza_italic>I</font_kind> did?\nYou're the one who tried to kidnap Mafuyu.	สิ่งที่<font_kind=yakuza_italic>ผม</font_kind>ทำงั้นเหรอ?\nคุณต่างหากที่พยายามลักพาตัวมาฟุยุ
+21-0858	sound_auth	If you ask me,\nyou got what was coming to you.	ถ้าถามผมนะ\nคุณแค่ได้รับสิ่งที่สมควรได้
+21-0859	sound_auth	Grr, fine!	หึ ก็ได้!
+21-0860	sound_auth	...Under one condition.	...มีเงื่อนไขเดียว
+21-0861	sound_auth	We'll play along...\nunder one condition.	กูจะเล่นด้วย...\nแต่มีเงื่อนไขเดียว
+21-0862	sound_auth	Once you're done with him...\nyou give Hamura to us.	พอมึงจัดการกับมันเสร็จแล้ว...\nยกฮามุระให้พวกกู
+21-0863	sound_auth	Gladly.	ยินดีเลย
+21-0864	sound_auth	All right. Gladly.	ได้เลย ยินดี
+21-0865	sound_auth	What, no witty comeback?\nI think that's a first for you.	ไง ไม่มีมุกกัดกลับมาเหรอ?\nนี่คงเป็นครั้งแรกของนายเลยมั้ง
+21-0866	sound_auth	What, no more snarky comments?\nI think that's a first for you.	ไง ไม่มีคำพูดกวนประสาทแล้วเหรอ?\nนี่คงเป็นครั้งแรกของนายเลยมั้ง
+21-0867	sound_auth	...Shut it.	...หุบปาก
+21-0868	sound_auth	...Shut up.	...หุบปากไปเลย
+21-0869	sound_auth	Get your fucking hands off me.	เอามือแม่งออกไปจากตัวกู
+21-0870	sound_auth	This is as good a spot as any. You need\nany... instruments, you just ask me.	ที่นี่ก็เหมาะดีเหมือนกัน ถ้าต้องการ\n"เครื่องมือ" อะไร บอกกูได้เลย
+21-0871	sound_auth	This is good a spot as any. Just say the word,\nand I'll bring out the "instruments."	ที่นี่เหมาะดีเหมือนกัน แค่บอกคำเดียว\nแล้วกูจะเอา "เครื่องมือ" มาให้
+21-0872	sound_auth	Hopefully it doesn't come to that.	หวังว่าคงไม่ต้องถึงขั้นนั้นนะ
+21-0873	sound_auth	Now, I think it's about time we got some answers.	เอาละ ผมว่าได้เวลาที่เราจะได้คำตอบกันสักที
+21-0874	sound_auth	I've been waiting a long time\nto hear some answers from you.	ผมรอมานานแล้ว\nที่จะได้ยินคำตอบจากนาย
+21-0875	sound_auth	And you're gonna give them to us.	และนายจะต้องให้คำตอบนั้นกับเรา
+21-0876	sound_auth	You're gonna tell me all you know.	นายจะต้องบอกทุกอย่างที่รู้กับผม
+21-0877	sound_auth	Should we take it from the top?	เริ่มจากต้นเลยดีไหม?
+21-0878	sound_auth	Let's take it from the top.	เริ่มจากต้นกันเลย
+21-0879	sound_auth	First off, the one in control of all this...\nis Shono, the AD-9 researcher.	อันดับแรก คนที่คุมเรื่องทั้งหมดนี้...\nคือโชโนะ นักวิจัย AD-9
+21-0880	sound_auth	First off, the one in control of all this...\nthe AD-9 researcher, Shono.	อันดับแรก คนที่คุมเรื่องทั้งหมดนี้...\nคือโชโนะ นักวิจัย AD-9 นั่นเอง
+21-0881	sound_auth	How long have you been working for him?\nMurdering for him?	นายทำงานให้มันมานานแค่ไหนแล้ว?\nฆ่าคนให้มันมานานแค่ไหน?
+21-0882	sound_auth	You've been working for him. For how long?\nWhat brought you into contact?	นายทำงานให้มันมาตลอด นานแค่ไหนแล้ว?\nแล้วอะไรทำให้นายมาติดต่อกับมัน?
+21-0883	sound_auth	I already have a pretty good idea.\nHow about I guess?	ผมพอเดาออกอยู่แล้วละ\nงั้นให้ผมลองทายดูไหม?
+21-0884	sound_auth	I already have a pretty good idea myself.\nHow about I guess?	ผมเองก็พอเดาออกอยู่แล้ว\nงั้นให้ผมลองทายดูไหม?
+21-0885	sound_auth	The first time you used the Mole was...	ครั้งแรกที่นายใช้ไส้ศึกคือ...
+21-0886	sound_auth	The Kyorei Clan guys\nwho turned up dead.	พวกคนของตระกูลเคียวเรอิ\nที่ถูกพบเป็นศพ
+21-0887	sound_auth	For the Kyorei killings.	เพื่อฆ่าคนของตระกูลเคียวเรอิ
+21-0888	sound_auth	Their eyes were gouged out\nand the bodies dumped in the alleyways.	ถูกควักลูกตาออก\nแล้วเอาศพไปทิ้งในตรอก
+21-0889	sound_auth	Murdering members of the Kyorei Clan.\nHunting them down in Kamurocho.	ฆ่าสมาชิกตระกูลเคียวเรอิ\nไล่ล่าพวกเขาไปทั่วคามุโรโจ
+21-0890	sound_auth	Yeah? Real solid detective work there.	อ้อเหรอ? งานสืบสวนเนี้ยบมากเลยนะ
+21-0891	sound_auth	Sure. Let's go with that.	ก็ได้ เอาตามนั้นแหละ
+21-0892	sound_auth	Yo, Yagami. That doesn't feel right.\nI mean, look at that shit-eating grin.	เฮ้ ยากามิ มันดูไม่ค่อยใช่นะ\nดูหน้ายิ้มกวนประสาทแบบนั้นสิ
+21-0893	sound_auth	Yeah, right. Lemme think here...	อือ จริงด้วย ขอผมคิดดูก่อน...
+21-0894	sound_auth	...At least, that's how you made it <font_kind=yakuza_italic>look</font_kind>.	...อย่างน้อยนายก็ทำให้มัน<font_kind=yakuza_italic>ดู</font_kind>เป็นแบบนั้น
+21-0895	sound_auth	What the shit, man.	อะไรวะเนี่ย
+21-0896	sound_auth	For fuck's sake...	แม่งเอ๊ย...
+21-0897	sound_auth	Now, the first time\nyou used the Mole was...	เอาละ ครั้งแรกที่\nนายใช้ไส้ศึกคือ...
+21-0898	sound_auth	Now, the real first time you\nused the Mole was...	เอาละ ครั้งแรกจริง ๆ ที่\nนายใช้ไส้ศึกคือ...
+21-0899	sound_auth	When you offed Shintani.	ตอนที่นายเก็บชินทานิ
+21-0900	sound_auth	When you offed a Kamurocho lawyer.	ตอนที่นายเก็บทนายความในคามุโรโจ
+21-0901	sound_auth	You had your man kill him,\nand dump his body in my office.	นายให้ลูกน้องฆ่าเขา\nแล้วเอาศพมาทิ้งในออฟฟิศของผม
+21-0902	sound_auth	You had your man kill Shintani\nand dump his body in my office.	นายให้ลูกน้องฆ่าชินทานิ\nแล้วเอาศพมาทิ้งในออฟฟิศของผม
+21-0903	sound_auth	Back it up, you were investigating these murders\nway before that happened, weren't you?	เดี๋ยวก่อน มึงสืบคดีฆาตกรรมพวกนี้\nมาก่อนที่เรื่องนั้นจะเกิดขึ้นอีกนะ ใช่ไหม?
+21-0904	sound_auth	Hey, hold up. You were investigatin' the Mole\nway before that happened.	เฮ้ เดี๋ยวก่อน มึงสืบเรื่องไส้ศึก\nมาก่อนที่เรื่องนั้นจะเกิดขึ้นอีกนี่
+21-0905	sound_auth	You been hitting the bottle, kid?	ดื่มเหล้ามาเยอะไปหรือเปล่า ไอ้หนู?
+21-0906	sound_auth	I think you're veerin' off track.	กูว่ามึงกำลังหลุดประเด็นไปแล้วนะ
+21-0907	sound_auth	I know what I'm doing, Shioya.\nIt's all part of the plan.	ผมรู้ว่าตัวเองกำลังทำอะไรอยู่ ชิโอยะ\nมันเป็นส่วนหนึ่งของแผนทั้งหมด
+21-0908	sound_auth	I know what I'm doing! Don't break my flow here.\nIt's all part of the plan.	ผมรู้ว่าตัวเองกำลังทำอะไรอยู่! อย่าตัดจังหวะผมสิ\nมันเป็นส่วนหนึ่งของแผนทั้งหมด
+21-0909	sound_auth	Like hell it is.	แผนบ้าอะไร
+21-0910	sound_auth	Anyway, the first time\nyou used the Mole was...	เอาเป็นว่า ครั้งแรกที่\nนายใช้ไส้ศึกคือ...
+21-0911	sound_auth	Anyway, the first time you\nused the Mole was...	เอาเป็นว่า ครั้งแรกที่\nนายใช้ไส้ศึกก็คือ...
+21-0912	sound_auth	When you murdered Waku-san\nat the ADDC.	ตอนที่นายฆ่าวาคุซัง\nที่ ADDC
+21-0913	sound_auth	The case I defended Okubo\nin three years ago.	คดีที่ผมเป็นทนายแก้ต่างให้โอคุโบะ\nเมื่อสามปีก่อน
+21-0914	sound_auth	Three years ago. The case\nwhere I defended Okubo.	เมื่อสามปีก่อน คดี\nที่ผมเป็นทนายแก้ต่างให้โอคุโบะ
+21-0915	sound_auth	To silence Waku-san in the hospital, Shono hired\nan assassin and... Wait, is that what happened?	เพื่อปิดปากวาคุซังที่อยู่ในโรงพยาบาล โชโนะจ้าง\nมือสังหารมา... เดี๋ยวนะ เรื่องมันเป็นแบบนั้นเหรอ?
+21-0916	sound_auth	To silence Waku-san in the hospital, Shono hired\nan assassin and, uh... Wait, hold on.	เพื่อปิดปากวาคุซังที่อยู่ในโรงพยาบาล โชโนะจ้าง\nมือสังหารมา แล้ว... เดี๋ยวนะ เดี๋ยวก่อน
+21-0917	sound_auth	Moving on. The first time you\nused the Mole was...	ไปกันต่อ ครั้งแรกที่\nนายใช้ไส้ศึกคือ...
+21-0918	sound_auth	When you murdered Emi Terasawa\nand set her apartment on fire.	ตอนที่นายฆ่าเอมิ เทราซาวะ\nแล้วเผาอพาร์ตเมนต์ของเธอ
+21-0919	sound_auth	When you killed a nurse and\nburned her apartment down.	ตอนที่นายฆ่าพยาบาลคนหนึ่ง\nแล้วเผาอพาร์ตเมนต์ของเธอจนวอด
+21-0920	sound_auth	Three years ago. She was Shinpei Okubo's\ngirlfriend, as I'm sure you remember.	เมื่อสามปีก่อน เธอเป็นแฟนสาวของ\nชินเป โอคุโบะ ผมมั่นใจว่านายยังจำได้
+21-0921	sound_auth	You arranged for the murder of Shinpei Okubo's\ngirlfriend, Emi Terasawa... three years back.	นายจัดการฆ่าแฟนสาวของ\nชินเป โอคุโบะ อย่างเอมิ เทราซาวะ...เมื่อสามปีก่อน
+21-0922	sound_auth	You made it look like Okubo killed her.	นายทำให้ดูเหมือนโอคุโบะเป็นคนฆ่าเธอ
+21-0923	sound_auth	You made it look like\nOkubo killed her.	นายทำให้ดูเหมือน\nโอคุโบะเป็นคนฆ่าเธอ
+21-0924	sound_auth	Bullshit I did. Three years ago?\nSure as shit wasn't us.	กูไม่ได้ทำห่าอะไรทั้งนั้น เมื่อสามปีก่อนน่ะเหรอ?\nไม่ใช่ฝีมือพวกกูแน่นอน
+21-0925	sound_auth	Bullshit I did. You're blowin' smoke.\nThree years ago? Sure as shit wasn't us.	กูไม่ได้ทำห่าอะไรทั้งนั้น มึงเพ้อเจ้อไปเอง\nเมื่อสามปีก่อนน่ะเหรอ? ไม่ใช่ฝีมือพวกกูแน่
+21-0926	sound_auth	Oh... Dammit,\nI guess you're right.	โอ้... บ้าเอ๊ย\nนายพูดถูกจริงด้วยสินะ
+21-0927	sound_auth	Oh, yeah...\nI guess you're right.	อ้อ ใช่สิ...\nนายพูดถูกจริงด้วยสินะ
+21-0928	sound_auth	Head in the game, Yagami.	มีสมาธิหน่อย ยากามิ
+21-0929	sound_auth	Get serious!	จริงจังหน่อยสิ!
+21-0930	sound_auth	For Hashiki, the vice director of the ADDC.	สำหรับฮาชิกิ รองผู้อำนวยการของ ADDC
+21-0931	sound_auth	When you murdered the vice director\nof the ADDC.	ตอนที่นายฆ่ารองผู้อำนวยการ\nของ ADDC
+21-0932	sound_auth	He got beat to death six months ago,\nas you well know.	เขาถูกซ้อมจนตายเมื่อหกเดือนก่อน\nนายก็รู้ดีอยู่แล้ว
+21-0933	sound_auth	Six months ago, Toru Hashiki\nwas beaten to death.	เมื่อหกเดือนก่อน โทรุ ฮาชิกิ\nถูกซ้อมจนเสียชีวิต
+21-0934	sound_auth	Hashiki had a secret deal\nwith Chairman Kajihira.	ฮาชิกิมีข้อตกลงลับ\nกับประธานคาจิฮิระ
+21-0935	sound_auth	Together they were gonna poke holes in this AD-9\nbusiness and bring the ADDC to its knees.	ทั้งคู่วางแผนจะขุดคุ้ยความผิดปกติของ AD-9\nและทำให้ ADDC ล้มทั้งยืน
+21-0936	sound_auth	They'd poison the ADDC from the inside,\nand shut down AD-9 for good.	พวกเขาจะวางยา ADDC จากภายใน\nแล้วปิดโครงการ AD-9 ให้สิ้นซาก
+21-0937	sound_auth	But Shono, the researcher in charge of the drug,\nhad a big secret he needed to keep hidden.	แต่โชโนะ นักวิจัยผู้ดูแลตัวยานี้\nมีความลับใหญ่ที่ต้องปิดไว้ให้มิด
+21-0938	sound_auth	But... Shono, the researcher in charge of the drug,\nhad a secret he needed to keep hidden.	แต่... โชโนะ นักวิจัยผู้ดูแลตัวยานี้\nมีความลับที่ต้องปิดไว้ให้มิด
+21-0939	sound_auth	Hashiki's little investigation\nposed a big problem...	การสืบสวนเล็ก ๆ ของฮาชิกิ\nกลายเป็นปัญหาใหญ่...
+21-0940	sound_auth	Hashiki's little investigation\nposed a big problem for Shono...	การสืบสวนเล็ก ๆ ของฮาชิกิ\nกลายเป็นปัญหาใหญ่ให้โชโนะ...
+21-0941	sound_auth	That is, until he got beaten down\nin the back streets of Kamurocho.	จนกระทั่งเขาถูกซ้อม\nในตรอกลับของคามุโรโจ
+21-0942	sound_auth	Or at least it did. Until he got beaten down\nin the back streets of Kamurocho.	หรืออย่างน้อยก็เคยเป็นแบบนั้น จนกระทั่งเขาถูกซ้อม\nในตรอกลับของคามุโรโจ
+21-0943	sound_auth	Hashiki was fatally wounded by the Mole,\nbut survived for another three weeks.	ฮาชิกิถูกไส้ศึกทำร้ายจนบาดเจ็บสาหัส\nแต่ยังรอดมาได้อีกสามสัปดาห์
+21-0944	sound_auth	The Mole fatally wounded Hashiki,\nbut he survived for another three weeks.	ไส้ศึกทำให้ฮาชิกิบาดเจ็บสาหัส\nแต่เขายังรอดมาได้อีกสามสัปดาห์
+21-0945	sound_auth	That kept suspicion off Shono.\nAnd left practically no evidence.	นั่นทำให้ไม่มีใครสงสัยโชโนะ\nแทบไม่เหลือหลักฐานเลยด้วยซ้ำ
+21-0946	sound_auth	Only the most skilled killer could\npull something like that off.	มีแต่มือสังหารฝีมือดีที่สุดเท่านั้น\nที่จะทำแบบนั้นสำเร็จได้
+21-0947	sound_auth	Only the most skilled killer\ncould pull something like that off.	มีแต่มือสังหารฝีมือดีที่สุด\nเท่านั้นที่จะทำแบบนั้นสำเร็จได้
+21-0948	sound_auth	In other words...\nThe assassin you and Shono have been using.	พูดง่าย ๆ ก็คือ...\nมือสังหารที่นายกับโชโนะใช้งาน อยู่นั่นแหละ
+21-0949	sound_auth	You and Shono know him well.\nThe assassin known as the Mole.	นายกับโชโนะรู้จักมันดี\nมือสังหารที่รู้จักกันในชื่อไส้ศึก
+21-0950	sound_auth	Heh, think you struck a nerve.	ฮึ ดูเหมือนมึงจะโดนใจเข้าให้แล้วนะ
+21-0951	sound_auth	Think you struck a nerve.	ดูเหมือนมึงจะโดนใจเข้าให้แล้ว
+21-0952	sound_auth	You're a real crack detective, Yagami.	มึงนี่นักสืบฝีมือดีจริง ๆ ยากามิ
+21-0953	sound_auth	Yagami, you ain't half bad at this.	ยากามิ มึงก็เก่งเรื่องนี้ไม่เบาเลยนะ
+21-0954	sound_auth	You know, I personally funded his time at law school.\nHe never would've passed the bar without me.	รู้ไหม ผมเป็นคนออกค่าเทอมมหาวิทยาลัย กฎหมายให้เขาเอง\nถ้าไม่มีผม เขาคงสอบเนติบัณฑิตไม่ผ่านหรอก
+21-0955	sound_auth	You know, I funded his law school degree.\nHelped him pass the bar, too.	รู้ไหม ผมเป็นคนออกเงินให้เขาเรียนกฎหมาย\nช่วยให้เขาสอบเนติบัณฑิตผ่านด้วย
+21-0956	sound_auth	No shit? I'd say you made a good investment.\nPayin' off in spades.	จริงดิ? กูว่าท่านลงทุนไว้คุ้มเลยนะ\nได้ผลตอบแทนคืนมาเต็ม ๆ
+21-0957	sound_auth	Whoa, no shit?\nLooks like you made a good investment.	โห จริงดิ?\nดูเหมือนท่านจะลงทุนไว้คุ้มเลยนะ
+21-0958	sound_auth	Do you mind? I'm kinda in the middle\nof something here.	ขอโทษนะ ผมกำลังทำอะไร\nค้างอยู่ตรงนี้
+21-0959	sound_auth	Do you mind?\nI'm in the middle of something.	ขอโทษนะ\nผมกำลังทำอะไรค้างอยู่
+21-0960	sound_auth	Sorry!	ขอโทษ!
+21-0961	sound_auth	You're doing good, Yagami.\nJust lemme know if you need the instruments.	มึงทำได้ดีนะ ยากามิ\nถ้าต้องการเครื่องมือเมื่อไหร่ ก็บอกกูได้เลย
+21-0962	sound_auth	You're doin' good, Yagami. Remember, just say the word...\nand I'll bring out some of my favorite toys.	มึงทำได้ดีนะ ยากามิ จำไว้นะ แค่บอกคำเดียว...\nแล้วกูจะเอาของเล่นชิ้นโปรดออกมาให้
+21-0963	sound_auth	Tak. What are you going to ask next?	ทาคุ นายจะถามอะไรต่อ?
+21-0964	sound_auth	Tak. What are you going to\nask Hamura next?	ทาคุ นายจะถาม\nฮามุระอะไรต่อ?
+21-0965	sound_auth	Who the Mole is. Hamura's the only one\nwho knows his true identity.	ตัวตนของไส้ศึก มีแต่ฮามุระเท่านั้น\nที่รู้ตัวตนที่แท้จริงของมัน
+21-0966	sound_auth	Who the Mole is. The only one who knows\nhis identity... is Hamura himself.	ตัวตนของไส้ศึก คนเดียวที่รู้\nตัวตนของมัน...ก็คือฮามุระเอง
+21-0967	sound_auth	So. Where's your friend?	งั้น เพื่อนนายอยู่ไหนล่ะ?
+21-0968	sound_auth	So where's the Mole?	แล้วไส้ศึกอยู่ที่ไหน?
+21-0969	sound_auth	No clue... but he'll be here soon enough.\nAll three of you are dead where you stand.	ไม่รู้สิ...แต่มันคงมาถึงเร็ว ๆ นี้แหละ\nพวกมึงสามคนตายห่าคาที่ยืนแน่
+21-0970	sound_auth	No clue... but he'll be here soon enough.\nYou three are dead men walking.	ไม่รู้สิ...แต่มันคงมาถึงเร็ว ๆ นี้แหละ\nพวกมึงสามคนเป็นศพเดินได้แล้ว
+21-0971	sound_auth	He says the Mole's on his way here.	เขาบอกว่าไส้ศึกกำลังมาที่นี่
+21-0972	sound_auth	Oh is he now!? I'd love to have\na "chat" with the lad...	อ้อ งั้นเหรอ!? กูอยากจะขอ\n"คุย" กับเจ้าหนุ่มคนนั้นสักหน่อยเลยนะ
+21-0973	sound_auth	Heh, let him come.\nI could use a new punching bag.	ฮึ ให้มันมาเลย\nกูกำลังอยากได้กระสอบทรายชิ้นใหม่พอดี
+21-0974	sound_auth	Keep dreaming, pal. He'd wipe the floor\nwith your backcountry ass.	ฝันไปเถอะเพื่อน มันคงถลุงมึง\nไอ้บ้านนอกให้เละเลยล่ะ
+21-0975	sound_auth	Enough, Hamura. Tell us who the Mole is.\nAnd how you started working with him.	พอได้แล้ว ฮามุระ บอกมาว่าไส้ศึกคือใคร\nแล้วนายเริ่มร่วมงานกับมันได้ยังไง
+21-0976	sound_auth	Tell us who the Mole is. Is he just a killer?\nHow did you start working with him?	บอกมาว่าไส้ศึกคือใคร มันเป็นแค่มือสังหารเหรอ?\nแล้วนายเริ่มร่วมงานกับมันได้ยังไง
+21-0977	sound_auth	Have those instruments handy?	เครื่องมือพวกนั้นพร้อมใช้ไหม?
+21-0978	sound_auth	Got those instruments?	มีเครื่องมือพวกนั้นไหม?
+21-0979	sound_auth	Comin' right up!	มาเดี๋ยวนี้เลย!
+21-0980	sound_auth	All right, all right!\nI'll talk!	ก็ได้ ก็ได้!\nกูจะพูด!
+21-0981	sound_auth	Fine, I'll talk! Calm down...	ก็ได้ กูจะพูด! ใจเย็น ๆ...
+21-0982	sound_auth	That's almost a shame!\nI like when it's tool time.	น่าเสียดายจังเลยนะ!\nกูชอบเวลาได้ใช้เครื่องมือแบบนี้
+21-0983	sound_auth	Aw, caved already?\nOver before it began!	โธ่ ยอมแพ้แล้วเหรอ?\nจบก่อนจะเริ่มเลยนะเนี่ย!
+21-0984	sound_auth	Now, who is the Mole?	เอาละ ไส้ศึกคือใคร?
+21-0985	sound_auth	...At first, he was just an informant feeding\noff the chaos that breeds in Kamurocho like flies.	...แรกเริ่มมันก็แค่สายข่าว\nที่หากินอยู่กับความวุ่นวาย ในคามุโรโจเหมือนแมลงวันตอมขยะ
+21-0986	sound_auth	The Mole... At first, he was just an informant.\nFeeding off the chaos that is Kamurocho.	ไส้ศึก...แรกเริ่มมันก็แค่สายข่าว\nหากินอยู่กับความวุ่นวายของคามุโรโจ
+21-0987	sound_auth	An informant?	สายข่าวเหรอ?
+21-0988	sound_auth	Yup. And he was trained by one\nof the best in the business.	ใช่ แล้วมันก็ถูกฝึกมาโดย\nหนึ่งในมือดีที่สุดของวงการ
+21-0989	sound_auth	Yup. A good one. Trained by\none of the best in the business.	ใช่ มือดีเลยละ ถูกฝึกมาโดย\nหนึ่งในมือดีที่สุดของวงการ
+21-0990	sound_auth	Rose to prominence after the cops busted his mentor,\nand that made the Mole the top guy in the biz.	มันเริ่มดังหลังจากตำรวจจับ อาจารย์ของมันได้\nแล้วมันก็กลายเป็นเบอร์หนึ่งของ วงการนี้
+21-0991	sound_auth	But the cops finally busted his mentor.\nAnd the Mole filled the gap when he was gone.	แต่สุดท้ายตำรวจก็จับอาจารย์ของมันได้\nไส้ศึกเลยเข้ามาแทนที่ตอน อาจารย์มันหายไป
+21-0992	sound_auth	One of those situations where the student surpassed\nthe master. Nobody could beat his intel.	เป็นกรณีที่ลูกศิษย์แซงหน้า\nอาจารย์ตัวเองไปเลย ไม่มีใครสู้ข้อมูลของมันได้
+21-0993	sound_auth	Turns out, the student had become the master.\nThe guy had the best info in town.	กลายเป็นว่าลูกศิษย์กลายเป็น อาจารย์ไปซะเอง\nไอ้นี่มีข้อมูลดีที่สุดในเมืองนี้เลย
+21-0994	sound_auth	Could get his hands on anything you needed, too.\nGuns, forged documents, you name it.	แล้วมันยังหาของอะไรก็ได้ที่นาย ต้องการมาให้ได้ด้วย\nปืน เอกสารปลอม อะไรก็ว่ามา
+21-0995	sound_auth	Guns, forged documents, you name it.\nHe could supply whatever you wanted.	ปืน เอกสารปลอม อะไรก็ว่ามา\nมันหาให้ได้หมด แค่นายต้องการ
+21-0996	sound_auth	Before long we'd formed a nice little partnership.\nStarted making a name for ourselves.	ไม่นานพวกกูก็จับมือกันได้เนียน ๆ\nเริ่มสร้างชื่อให้ตัวเองขึ้นมา
+21-0997	sound_auth	Before long, we'd formed a nice little partnership\nand made a name for ourselves.	ไม่นานพวกกูก็จับมือกันได้เนียน ๆ\nแล้วก็สร้างชื่อให้ตัวเองขึ้นมา
+21-0998	sound_auth	Thinking about it...\nIt's been about 20 years now.	ลองคิดดูแล้ว...\nก็ปาเข้าไปยี่สิบปีแล้วสินะ
+21-0999	sound_auth	Think it's been about...\ntwenty years now.	คิดว่าก็คง...\nยี่สิบปีได้แล้วละ
+21-1000	sound_auth	And?\nKeep talking, or it's tools.	แล้วไง?\nพูดต่อไป ไม่งั้นได้ใช้เครื่องมือแน่
+21-1001	sound_auth	Yeah? Keep going.	อ้อเหรอ? พูดต่อสิ
+21-1002	sound_auth	Once I got the gig as captain of the Matsugane Family,\nI started relying on him even more.	พอกูได้เป็นกัปตันของตระกูลมัตสึกาเนะ\nกูก็ยิ่งพึ่งพามันมากขึ้นไปอีก
+21-1003	sound_auth	Once I got the gig as Matsugane Family captain,\nI relied on the Mole even more.	พอกูได้เป็นกัปตันของตระกูลมัตสึกาเนะ\nกูก็พึ่งพาไส้ศึกมากขึ้นไปอีก
+21-1004	sound_auth	Lemme tell you, the guy could dispose of a corpse\nlike it was the easiest damn thing in the world.	บอกให้รู้ไว้เลย ไอ้นี่กำจัดศพได้\nราวกับมันเป็นเรื่องง่ายที่สุดในโลก
+21-1005	sound_auth	Lemme tell you, guy could dispose of a corpse fast.\nLike it was the easiest damn thing in the world.	บอกให้รู้ไว้เลย ไอ้นี่กำจัดศพได้ไวมาก\nราวกับมันเป็นเรื่องง่ายที่สุดในโลก
+21-1006	sound_auth	He had nerves of steel.\nAnd he's never even sworn up.	มันใจเย็นเหมือนหินเลย\nแล้วก็ไม่เคยสาบานเข้าตระกูลด้วยซ้ำ
+21-1007	sound_auth	He had nerves of steel.\nAnd he never even swore up.	มันใจเย็นเหมือนหิน\nแล้วก็ไม่เคยสาบานเข้าตระกูลเลย สักครั้ง
+21-1008	sound_auth	Flash forward to a couple years ago.\nHe said he was ready to start doing hits.	ข้ามมาสักสองสามปีก่อน\nมันบอกว่าพร้อมจะเริ่มลงมือฆ่าคนแล้ว
+21-1009	sound_auth	Then, couple years ago.\nHe said he was ready to do hits.	แล้วสักสองสามปีก่อน\nมันก็บอกว่าพร้อมจะลงมือฆ่าคนแล้ว
+21-1010	sound_auth	That was when my big chance finally came.	นั่นแหละคือตอนที่โอกาสใหญ่ของ กูมาถึงในที่สุด
+21-1011	sound_auth	So I figured...\nIt was time to go big.	กูเลยคิดว่า...\nได้เวลาเล่นใหญ่แล้ว
+21-1012	sound_auth	<color=ｍonologue>(So it was the Mole who brought\nassassinations to the table.)</color>	<color=ｍonologue>(อ้อ งั้นไส้ศึกนี่เองที่เอา\nเรื่องลอบสังหารเข้ามาเกี่ยวข้อง)</color>
+21-1013	sound_auth	<color=ｍonologue>(Who's the real yakuza here?)</color>	<color=ｍonologue>(ใครกันแน่ที่เป็นยากูซ่าตัว จริงในเรื่องนี้)</color>
+21-1014	sound_auth	Honestly, I wasn't that big\non the whole murder thing.	พูดตรง ๆ นะ กูไม่ค่อยชอบ\nเรื่องฆ่าคนสักเท่าไหร่หรอก
+21-1015	sound_auth	If I'm bein' honest,\nhits weren't my thing.	ถ้าให้พูดตรง ๆ\nเรื่องฆ่าคนไม่ใช่แนวกูเลย
+21-1016	sound_auth	But the dangerous shit's\nwhat really brings in the cash.	แต่ของอันตรายพวกนี้แหละ\nที่ทำเงินได้จริง ๆ
+21-1017	sound_auth	But... that dangerous shit\nbrings in the real cash.	แต่...ของอันตรายพวกนั้นแหละ\nที่ทำเงินได้จริง ๆ
+21-1018	sound_auth	So, I started touting his "services"\naround the darker side of Kamurocho.	กูเลยเริ่มโฆษณา "บริการ" ของมัน\nไปทั่วด้านมืดของคามุโรโจ
+21-1019	sound_auth	So, I started spreading his "services"\naround the darker side of Kamurocho.	กูเลยเริ่มกระจาย "บริการ" ของมัน\nไปทั่วด้านมืดของคามุโรโจ
+21-1020	sound_auth	Felt like I'd added a new dish to my menu.	รู้สึกเหมือนได้เพิ่มเมนูใหม่ ให้ตัวเองเลยละ
+21-1021	sound_auth	Felt like I'd added a new dish\nto my menu.	รู้สึกเหมือนได้เพิ่มเมนูใหม่\nให้ตัวเอง
+21-1022	sound_auth	This is no time for jokes, you fool.	นี่ไม่ใช่เวลามาพูดเล่น ไอ้โง่
+21-1023	sound_auth	What, you don't approve of my methods?	ไง ไม่เห็นด้วยกับวิธีของกูงั้นเหรอ?
+21-1024	sound_auth	This city'll swallow you whole\nif you don't got the cash.	เมืองนี้จะกลืนกินมึงทั้งเป็น\nถ้ามึงไม่มีเงิน
+21-1025	sound_auth	Cash is how you survive in this city.\nOr Kamurocho'll open wide and swallow you whole.	เงินคือสิ่งที่ทำให้อยู่รอดใน เมืองนี้ได้\nไม่งั้นคามุโรโจจะอ้าปากกลืนมึง ทั้งเป็น
+21-1026	sound_auth	And protecting the family name\ndoesn't come cheap.	แล้วการปกป้องชื่อเสียงของตระกูล\nก็ไม่ใช่ของถูก ๆ
+21-1027	sound_auth	And I had to protect the family name.\nThat ain't cheap.	แล้วกูก็ต้องปกป้องชื่อเสียงของตระกูล\nซึ่งมันไม่ใช่ของถูก ๆ เลย
+21-1028	sound_auth	You think Kaito could have toughed it out\nwith all his swagger? We'd've vanished by now.	มึงคิดว่าไอ้ไคโตะจะฝ่าฟันมันไปได้\nด้วยท่าทีเก๊ก ๆ ของมันงั้นเหรอ? ป่านนี้พวกเราคงสูญพันธุ์ไปแล้ว
+21-1029	sound_auth	If all we'd had was Kaito's "swagger,"\nthe family would be dust.	ถ้ามีแค่ท่าทีเก๊ก ๆ ของไอ้ไคโตะ\nตระกูลนี้คงกลายเป็นผงไปนานแล้ว
+21-1030	sound_auth	But with enough money who knows?\nWe coulda rode it to the top of the Tojo Clan.	แต่ถ้ามีเงินมากพอ ใครจะรู้?\nพวกกูอาจจะขึ้นไปถึงจุดสูงสุด ของตระกูลโทโจก็ได้
+21-1031	sound_auth	But with enough money, who knows?\nWe coulda become a direct Tojo Clan family.	แต่ถ้ามีเงินมากพอ ใครจะรู้?\nพวกกูอาจจะได้เป็นตระกูลสายตรง ของโทโจเลยก็ได้
+21-1032	sound_auth	Wasn't that always part of the dream, boss?	มันก็เป็นส่วนหนึ่งของความฝันมา ตลอดไม่ใช่เหรอ โอยาบุน?
+21-1033	sound_auth	Right, boss?\nWasn't that always the dream?	ใช่ไหม โอยาบุน?\nมันเป็นความฝันมาตลอดไม่ใช่เหรอ?
+21-1034	sound_auth	It was, yes.\nBut not anymore.	มันเคยเป็นแบบนั้นจริง\nแต่ตอนนี้ไม่ใช่แล้ว
+21-1035	sound_auth	It was, yes... but no longer.	มันเคยเป็นแบบนั้นจริง... แต่ตอนนี้ไม่ใช่แล้ว
+21-1036	sound_auth	Heh, that so?	ฮึ่ย งั้นเหรอ?
+21-1037	sound_auth	That's funny. Because I spent my\nentire life chasing that dream for you!	ตลกจริง เพราะกูเอาทั้งชีวิต\nไล่ตามความฝันนั้นเพื่อท่าน!
+21-1038	sound_auth	Funny. 'Cause I... I've spent my whole life\nchasing that dream.	ตลกดี เพราะกู...กูเอาทั้งชีวิต\nไล่ตามความฝันนั้นมาตลอด
+21-1039	sound_auth	The goal you fucking told me\nto strive for! 	เป้าหมายที่ท่านบอกกับกู\nให้ไขว่คว้าไอ้เชี่ยนั่นไง!
+21-1040	sound_auth	The goal you fucking told me\nto strive for!	เป้าหมายที่ท่านบอกกับกู\nให้ไขว่คว้าไอ้เชี่ยนั่นไง!
+21-1041	sound_auth	Let's get back on topic, shall we!?	กลับเข้าเรื่องกันดีกว่าไหม!?
+21-1042	sound_auth	Stick to the answers I ask for!	ตอบเฉพาะคำถามที่ผมถามก็พอ!
+21-1043	sound_auth	Tell me this. You started shopping the Mole's\nservices around. What then? What happened?	บอกผมมาสิ นายเริ่มไปหาซื้อบริการ\nของไส้ศึกใช่ไหม แล้วยังไงต่อ เกิดอะไรขึ้น?
+21-1044	sound_auth	Let's pull it back. So you started shopping\nthe Mole's services around... So? What then?	ย้อนกลับไปหน่อย นายเริ่มไปติดต่อ\nขอใช้บริการของไส้ศึกใช่ไหม... แล้วไง ยังไงต่อ?
+21-1045	sound_auth	Wasn't long 'til we got our first hit.	ไม่นานกูก็ได้งานแรกเข้ามา
+21-1046	sound_auth	...Wasn't long 'til we got our first hit.	...ไม่นานกูก็ได้งานแรกเข้ามา
+21-1047	sound_auth	Our mark was Hashiki.\nVice director of the ADDC.	เป้าหมายคือฮาชิกิ\nรองผู้อำนวยการ ADDC
+21-1048	sound_auth	The vice director of the ADDC.\nSomeone wanted him dead.	รองผู้อำนวยการ ADDC\nมีคนอยากให้มันตาย
+21-1049	sound_auth	And Shono's the one who hired you?	แล้วโชโนะเป็นคนจ้างนายใช่ไหม?
+21-1050	sound_auth	That someone being... Shono, right?	คนที่ว่านั้นคือ... โชโนะใช่ไหม?
+21-1051	sound_auth	So I heard. He always contacted me\nthrough someone else.	กูได้ยินมาแบบนั้น มันติดต่อกู\nผ่านคนอื่นตลอด
+21-1052	sound_auth	Probably. Though I hadn't met the man myself.\nHe did his work through a contact.	คงงั้น แต่กูไม่เคยเจอตัวมันเองหรอก\nมันทำงานผ่านคนกลาง
+21-1053	sound_auth	<color=ｍonologue>(I see. So there was a middleman that connected\nthe Kamurocho yakuza to the ADDC.)</color>	<color=ｍonologue>(เข้าใจแล้ว งั้นก็มีคนกลางที่เชื่อม\nยากูซ่าคามุโรโจกับ ADDC เข้าด้วยกัน)</color>
+21-1054	sound_auth	Someone else? Who?	คนอื่นเหรอ ใคร?
+21-1055	sound_auth	Guy by the name of Ishimatsu.	คนที่ชื่ออิชิมัตสึ
+21-1056	sound_auth	Strange guy. Went by Ishimatsu.	ไอ้แปลกๆ คนนึง ใช้ชื่ออิชิมัตสึ
+21-1057	sound_auth	Short little guy. Always had this creepy\nfuckin' smile on his face.	ตัวเล็กๆ เตี้ยๆ หน้าตาก็ยิ้ม\nแบบเชี่ยๆ น่าขนลุกตลอดเวลา
+21-1058	sound_auth	He was short, and always wearing\nthis creepy fuckin' smile.	ตัวเตี้ย แล้วก็ยิ้ม\nแบบเชี่ยๆ น่าขนลุกอยู่ตลอด
+21-1059	sound_auth	At the time, we all thought this was gonna be\na one-off.\nDidn't do much prying, y'know.	ตอนนั้นพวกกูคิดว่ามันจะเป็น\nงานครั้งเดียวจบ\nเลยไม่ได้สืบอะไรมาก รู้ใช่ไหม
+21-1060	sound_auth	At the time, we all thought this was gonna be a one-off.\nDidn't do much prying, y'know?	ตอนนั้นพวกกูคิดว่ามันจะเป็นงาน ครั้งเดียวจบ\nเลยไม่ได้สืบอะไรมาก รู้ใช่ไหม?
+21-1061	sound_auth	Never even knew why they wanted the guy dead.\nWe just took the 10 mil and did what we were asked.	ไม่รู้ด้วยซ้ำว่าทำไมพวกมันถึง อยากให้ตาย\nพวกกูแค่รับสิบล้านมาแล้วทำตามที่สั่ง
+21-1062	sound_auth	Never even knew why they wanted Hashiki dead.\nJust took the ten mil and did our job.	ไม่รู้ด้วยซ้ำว่าทำไมพวกมันอยาก ให้ฮาชิกิตาย\nแค่รับสิบล้านมาแล้วทำงานให้จบ
+21-1063	sound_auth	They wanted him to die\ndiscreetly, though... right?	แต่พวกเขาต้องการให้เขาตาย\nแบบเงียบๆ ใช่ไหม?
+21-1064	sound_auth	They wanted him to die discreetly,\nthough, right?	แต่พวกเขาต้องการให้เขาตายแบบเงียบๆ\nใช่ไหม?
+21-1065	sound_auth	Pretty much... so he did.\nIshimatsu took a real shine to us after that.	ก็ประมาณนั้น...มันเลยตายแบบนั้นจริง\nหลังจากนั้นอิชิมัตสึก็ถูกใจพวกกูมาก
+21-1066	sound_auth	Few months later,\nhe was back with another job.	ผ่านไปไม่กี่เดือน\nมันก็กลับมาพร้อมงานใหม่
+21-1067	sound_auth	Few months later, he was back\nwith another job for us.	ผ่านไปไม่กี่เดือน มันก็กลับมา\nพร้อมงานใหม่ให้พวกกู
+21-1068	sound_auth	And that was?	แล้วนั่นคือ...?
+21-1069	sound_auth	Another job?	งานอะไร?
+21-1070	sound_auth	Well... Gathering test subjects for their AD-9\nexperiments. And disposing of the bodies.	ก็นะ...หาหนูทดลองให้การทดลอง\nAD-9 ของพวกมัน แล้วก็กำจัดศพ
+21-1071	sound_auth	Yeah... Gathering test subjects for AD-9 experiments.\nAnd disposing of the bodies.	ใช่...หาหนูทดลองสำหรับการทดลอง AD-9\nแล้วก็กำจัดศพด้วย
+21-1072	sound_auth	Ichinose...	อิจิโนเสะ...
+21-1073	sound_auth	Ichinose.	อิจิโนเสะ
+21-1074	sound_auth	So the Ministry of Health is in on this,\ntoo... It goes all the way up...	งั้นกระทรวงสาธารณสุขก็มีเอี่ยว\nด้วยสิ... มันโยงไปถึงระดับบนสุดเลย...
+21-1075	sound_auth	The guy from the Ministry of Health?\nThey're in on this too?	คนจากกระทรวงสาธารณสุขเหรอ?\nพวกเขาก็มีเอี่ยวด้วยเหรอ?
+21-1076	sound_auth	Maybe it does.\nYou familiar with the Medical Institute?	ก็อาจจะใช่\nมึงรู้จักสถาบันการแพทย์ไหมล่ะ?
+21-1077	sound_auth	Seems like it. How about the Medical Institute?\nYou familiar?	ดูเหมือนจะใช่ ว่าแต่สถาบันการแพทย์นั่น\nมึงรู้จักไหม?
+21-1078	sound_auth	<color=ｍonologue>(The Medical Institute... That's the organization\nthat runs the ADDC.)</color>	<color=ｍonologue>(สถาบันการแพทย์... นั่นคือองค์กร\nที่ดูแล ADDC อยู่)</color>
+21-1079	sound_auth	It's home to the ADDC, and it makes a comfy place\nfor all the Health Ministry execs to go retire.	มันคือที่ตั้งของ ADDC แล้วก็เป็นที่ให้พวก\nผู้บริหารกระทรวงสาธารณสุขไป เกษียณสบายๆ
+21-1080	sound_auth	It's home to the ADDC, and its where\nHealth Ministry execs go to retire.	มันคือที่ตั้งของ ADDC แล้วก็เป็นที่ที่\nพวกผู้บริหารกระทรวงสาธารณสุขไปเกษียณ
+21-1081	sound_auth	Well, it just so happens that the guy who founded\nit twenty years ago... was none other than Ichinose.	แล้วบังเอิญว่าคนที่ก่อตั้งมันขึ้นมา\nเมื่อยี่สิบปีก่อน...ก็ไม่ใช่ใครอื่น นอกจากอิจิโนเสะ
+21-1082	sound_auth	Well, just so happens that the guy who founded\nit twenty years ago... was none other than Ichinose.	แล้วก็บังเอิญว่าคนที่ก่อตั้ง มันขึ้นมา\nเมื่อยี่สิบปีก่อน...ก็ไม่ใช่ใครอื่น นอกจากอิจิโนเสะ
+21-1083	sound_auth	He rode that success\nall the way up to vice minister.	มันขี่กระแสความสำเร็จนั่น\nขึ้นไปจนถึงตำแหน่งรองปลัดกระทรวง
+21-1084	sound_auth	Then he rode that success\nall the way up to vice minister.	แล้วมันก็ขี่กระแสความสำเร็จนั่น\nขึ้นไปจนถึงตำแหน่งรองปลัดกระทรวง
+21-1085	sound_auth	In other words, his whole legacy's\nriding on the ADDC.	พูดง่ายๆ คือ ชื่อเสียงทั้งชีวิตของมัน\nแขวนอยู่กับ ADDC เลย
+21-1086	sound_auth	AD-9's gotta come out on top\nfor him to stay on top.	AD-9 ต้องประสบความสำเร็จ\nมันถึงจะรักษาตำแหน่งได้
+21-1087	sound_auth	And if he wants to stay on top,\nAD-9's gotta be a winner.	แล้วถ้ามันอยากรักษาตำแหน่งไว้\nAD-9 ก็ต้องชนะให้ได้
+21-1088	sound_auth	And he's willing to murder\nto make sure that happens?	แล้วมันยอมฆ่าคน\nเพื่อให้มันเป็นไปตามนั้นเลยเหรอ?
+21-1089	sound_auth	And to ensure that...\nhe'd stoop to murder?	แล้วเพื่อให้แน่ใจแบบนั้น...\nมันถึงขั้นยอมฆ่าคนเลยเหรอ?
+21-1090	sound_auth	Ichinose's not the only\none profiting, either.	อิจิโนเสะไม่ใช่คนเดียว\nที่ได้ผลประโยชน์หรอก
+21-1091	sound_auth	AD-9's got a lot of backers...	AD-9 มีคนหนุนหลังเยอะ...
+21-1092	sound_auth	There are tons of parties involved.\nAll being promised this much cash or that favor.	มีหลายฝ่ายเกี่ยวข้องเพียบเลย\nต่างก็ได้รับสัญญาเงินก้อนโต หรือไม่ก็สิทธิพิเศษ
+21-1093	sound_auth	Ichinose's not the only one profiting.\nOthers are being promised big cash, favors...	อิจิโนเสะไม่ใช่คนเดียวที่ได้ ผลประโยชน์\nคนอื่นก็ได้รับสัญญาเงินก้อนโต สิทธิพิเศษ...
+21-1094	sound_auth	If people have to die for AD-9\nto succeed... so be it.	ถ้าต้องมีคนตายเพื่อให้ AD-9\nสำเร็จ...ก็ต้องยอม
+21-1095	sound_auth	Doesn't matter how many have to die.\nThey can't afford to fail now.	ต่อให้ต้องตายกี่คนก็ช่าง\nพวกมันพลาดไม่ได้อีกแล้วตอนนี้
+21-1096	sound_auth	This shit got real serious\nreal quick, didn't it?	เรื่องนี้มันจริงจังขึ้นมา\nเร็วเหมือนกันนะเนี่ย
+21-1097	sound_auth	This is turnin' into some\nserious shit, huh?	เรื่องนี้มันกำลังกลายเป็น\nเรื่องใหญ่เลยนะ
+21-1098	sound_auth	We in over our heads?	เรามันเล่นเกินตัวไปแล้วหรือเปล่าวะ?
+21-1099	sound_auth	You sure we'll be okay here?	แน่ใจนะว่าเราจะไม่เป็นไร?
+21-1100	sound_auth	In the end, maybe it was my own incompetence\nthat led Hamura down this path...	สุดท้ายแล้ว บางทีความไม่เอาไหนของผมเอง\nอาจเป็นตัวพาฮามุระมาถึงจุดนี้...
+21-1101	sound_auth	In the end, maybe this is all my fault.\nMy incompetence led Hamura down this path...	สุดท้ายแล้ว บางทีนี่อาจเป็นความผิดของผมทั้งหมด\nความไม่เอาไหนของผมพาฮามุระ มาถึงจุดนี้...
+21-1102	sound_auth	Here's a question. Why'd you go after\nKyorei guys for the experiments?	มีคำถามนึง ทำไมนายถึงเลือกจับ\nพวกตระกูลเคียวเรอิมาทดลอง?
+21-1103	sound_auth	Here's a question.\nWhy'd you go after Kyorei guys for the experiments?	มีคำถามนึง\nทำไมนายถึงเลือกจับพวก ตระกูลเคียวเรอิมาทดลอง?
+21-1104	sound_auth	Just following Shono's orders.	ก็แค่ทำตามคำสั่งของโชโนะ
+21-1105	sound_auth	...Shono told you to?	...โชโนะสั่งนายเหรอ?
+21-1106	sound_auth	...Shono asked for them?	...โชโนะเป็นคนขอให้จับพวกมันมาเหรอ?
+21-1107	sound_auth	Yup. He said there was a chance of the subject\ndyin' when we gave 'em the AD-9.	ใช่ มันบอกว่ามีโอกาสที่หนูทดลอง\nจะตายตอนฉีด AD-9 เข้าไป
+21-1108	sound_auth	Yup. AD-9 was potentially lethal as it was,\naccording to him.	ใช่ มันบอกว่า AD-9 มีโอกาสถึงตาย\nอยู่แล้วในตัวมันเอง
+21-1109	sound_auth	Now if regular old civilians started disappearing,\nthat'd make the news in no time.	ถ้าประชาชนทั่วไปเริ่มหายตัวไป\nข่าวคงแพร่ไปทั่วในพริบตา
+21-1110	sound_auth	But nobody'd notice a few missing\nyakuza during a turf war.	แต่ถ้ายากูซ่าหายไปสักไม่กี่คน\nช่วงสงครามแย่งพื้นที่ ไม่มีใครสนหรอก
+21-1111	sound_auth	But... nobody'd notice a few missing yakuza\nduring a turf war.	แต่...ถ้ายากูซ่าหายไปสักไม่กี่คน\nช่วงสงครามแย่งพื้นที่ ไม่มีใครสนหรอก
+21-1112	sound_auth	Only natural there'd be\nsome casualties, yeah?	มันก็เป็นเรื่องธรรมดาที่จะต้องมี\nคนตายบ้างแหละ ว่าไหม?
+21-1113	sound_auth	After all, only natural there'd be\nsome casualties.	ยังไงก็ต้องมีการสูญเสีย\nบ้างเป็นธรรมดาอยู่แล้ว
+21-1114	sound_auth	I guess so.	ก็คงงั้นแหละ
+21-1115	sound_auth	...I guess.	...ก็คงงั้น
+21-1116	sound_auth	That wasn't the only reason, though.	แต่นั่นไม่ใช่เหตุผลเดียวหรอก
+21-1117	sound_auth	He had one more reason.	มันยังมีอีกเหตุผลนึง
+21-1118	sound_auth	Shono said he didn't wanna perform\ndangerous experiments on innocent civilians.	โชโนะบอกว่ามันไม่อยากทำ\nการทดลองอันตรายกับพลเรือน ผู้บริสุทธิ์
+21-1119	sound_auth	See, Shono... He didn't wanna perform\ndangerous experiments on innocent civilians.	คือโชโนะน่ะ... มันไม่อยากทำ\nการทดลองอันตรายกับพลเรือน ผู้บริสุทธิ์
+21-1120	sound_auth	And what, these yakuza\ndeserved this somehow?	แล้วไง พวกยากูซ่านี่\nสมควรโดนแบบนี้งั้นเหรอ?
+21-1121	sound_auth	So because they're yakuza,\nthey're disposable?	เพราะพวกเขาเป็นยากูซ่า\nเลยใช้แล้วทิ้งได้งั้นเหรอ?
+21-1122	sound_auth	The Kajihira Group was the one trying\nto shut down the ADDC to begin with.	กลุ่มคาจิฮิระเป็นฝ่ายที่พยายาม\nจะปิด ADDC ตั้งแต่แรกอยู่แล้ว
+21-1123	sound_auth	The Kajihira Group was the one trying to\nshut down the ADDC to begin with.	กลุ่มคาจิฮิระเป็นฝ่ายที่พยายามจะ\nปิด ADDC ตั้งแต่แรกอยู่แล้ว
+21-1124	sound_auth	And the Kyorei were Kajihira's lapdogs.	แล้วตระกูลเคียวเรอิก็เป็นแค่ หมารับใช้ของคาจิฮิระ
+21-1125	sound_auth	Plus, he figured the Kyorei were\njust his lapdogs.	แถมมันยังคิดว่าตระกูลเคียวเรอิ\nเป็นแค่หมารับใช้ของมันเองด้วย
+21-1126	sound_auth	A couple of dead thugs\ndidn't weigh on him too much.	อันธพาลตายไปสองสามคน\nก็ไม่ได้ทำให้มันรู้สึกผิดอะไรมาก
+21-1127	sound_auth	So a couple dead thugs?\nIt didn't weigh on him too much.	งั้นอันธพาลตายไปสองสามคนเนี่ยนะ?\nมันก็ไม่ได้รู้สึกผิดอะไรมาก
+21-1128	sound_auth	But don't shoot the messenger.\nShono's the one who said it.	แต่อย่ามาโทษกูเลย\nโชโนะเป็นคนพูดแบบนั้นเอง
+21-1129	sound_auth	Don't shoot the messenger here.\nShono's the one who said it.	อย่ามาโทษกูตรงนี้เลย\nโชโนะเป็นคนพูดแบบนั้นเอง
+21-1130	sound_auth	You'll keep talking if you know what's good for you.\nUnless you wanna go back to the hard way. I'm all for it.	มึงพูดต่อไปเถอะถ้ารู้ว่าอะไรดี กับตัวเอง\nไม่งั้นกูยินดีจะเล่นแบบโหดๆ กับมึงอีกรอบ
+21-1131	sound_auth	Just keep talkin' for us, buddy.\nOnce you're done, I can get to the fun part.	พูดต่อไปเถอะเพื่อน\nพอมึงพูดจบ กูจะได้เอาสนุกกับมึงบ้าง
+21-1132	sound_auth	What else could you\npossibly wanna know?	ยังอยากรู้อะไรอีก\nวะเนี่ย?
+21-1133	sound_auth	Tsk... Haven't I told you\neverything already?	จุ๊ๆ... กูบอกพวกมึง\nไปหมดแล้วไม่ใช่เหรอ?
+21-1134	sound_auth	Actually, I've got one more thing.	จริงๆ แล้วผมยังมีอีกเรื่องนึง
+21-1135	sound_auth	Nope. I've got something.	ยังก่อน ผมมีอะไรจะให้ดูอีกอย่าง
+21-1136	sound_auth	You made it sound earlier like you weren't that involved\nin the killings. But that's not the whole truth, is it?	เมื่อกี้นายพูดราวกับว่าไม่ได้ มีส่วนเกี่ยวข้อง\nกับการฆ่าคนพวกนั้นมากนัก แต่นั่นไม่ใช่ความจริงทั้งหมดใช่ไหม?
+21-1137	sound_auth	When I asked, it sounded like you weren't that involved\nin the Mole's killings. But that's not the whole truth, is it?	ตอนที่ผมถาม นายพูดราวกับว่าไม่ได้มีส่วน เกี่ยวข้อง\nกับการฆ่าคนของไส้ศึกมากนัก แต่นั่นไม่ใช่ความจริงทั้งหมดใช่ไหม?
+21-1138	sound_auth	In fact, I have something that shows you actively\nhelped carry out the Kyorei killings.	อันที่จริงผมมีหลักฐานที่แสดงว่านาย\nมีส่วนช่วยลงมือฆ่าคนของ ตระกูลเคียวเรอิด้วยตัวเอง
+21-1139	sound_auth	In fact, I have proof that shows you\nactively helped carry out the Kyorei killings. Here...	อันที่จริงผมมีหลักฐานที่แสดงว่านาย\nมีส่วนช่วยลงมือฆ่าคนของ ตระกูลเคียวเรอิด้วยตัวเอง นี่ไง...
+21-1140	sound_auth	<color=ｍonologue>(The proof that Hamura took part in\nattacking the Kyorei Clan is...)</color>	<color=ｍonologue>(หลักฐานที่แสดงว่าฮามุระมีส่วนร่วม\nในการโจมตีตระกูลเคียวเรอิคือ...)</color>
+21-1141	sound_auth	The security camera behind Amour, where the third\nvictim, Toshiro Kume, was abducted.	กล้องวงจรปิดหลังคลับอามูร์ ตรงจุดที่เหยื่อรายที่สาม\nโทชิโร คุเมะ ถูกลักพาตัวไป
+21-1142	sound_auth	When the third victim, Toshiro Kume, was abducted,\nthere was a security camera behind Amour.	ตอนที่เหยื่อรายที่สาม โทชิโร คุเมะ ถูกลักพาตัวไป\nมีกล้องวงจรปิดอยู่หลังคลับอามูร์
+21-1143	sound_auth	It was broken at the time of the murder.	มันเสียตอนที่เกิดเหตุฆาตกรรมพอดี
+21-1144	sound_auth	At the time of the murder,\nit was broken.	ตอนที่เกิดเหตุฆาตกรรม\nมันเสียอยู่พอดี
+21-1145	sound_auth	Yeah? What about it?	แล้วไง? มันเกี่ยวอะไร?
+21-1146	sound_auth	Hm? Actually, hold on a sec.	หืม? เดี๋ยวก่อนนะ
+21-1147	sound_auth	That's not what I wanted to show you.	นี่ไม่ใช่อันที่ผมอยากจะเอาให้ดูนี่นา
+21-1148	sound_auth	The hell are you doing, Yagami?	มึงทำอะไรของมึงวะ ยากามิ?
+21-1149	sound_auth	Hey. The hell are ya\ndoing, Yagami?	เฮ้ย มึงทำอะไรของมึง\nวะ ยากามิ?
+21-1150	sound_auth	Now then. I have something that shows you\nactively helped carry out the Kyorei killings.	เอาล่ะทีนี้ ผมมีหลักฐานที่แสดงว่านาย\nมีส่วนช่วยลงมือฆ่าคนของ ตระกูลเคียวเรอิด้วยตัวเอง
+21-1151	sound_auth	Anyway. I have something that shows you\nactively helped carry out the Kyorei killings. Here...	เอาเป็นว่า ผมมีหลักฐานที่แสดงว่านาย\nมีส่วนช่วยลงมือฆ่าคนของ ตระกูลเคียวเรอิด้วยตัวเอง นี่ไง...
+21-1152	sound_auth	The autopsy report for\nthe third victim, Toshiro Kume.	รายงานการชันสูตรศพของ\nเหยื่อรายที่สาม โทชิโร คุเมะ
+21-1153	sound_auth	The autopsy report for the\nthird victim, Toshiro Kume.	รายงานการชันสูตรศพของเหยื่อ\nรายที่สาม โทชิโร คุเมะ
+21-1154	sound_auth	It says the cause of death was an ice-pick-shaped\ninstrument piercing his brain through the eye socket. 	มันบอกว่าสาเหตุการตายคือถูก อุปกรณ์รูปทรง\nเหล็กเจาะน้ำแข็งแทงทะลุสมอง ผ่านเบ้าตา 
+21-1155	sound_auth	It says the cause of death was an ice-pick-shaped\ninstrument, piercing his brain through the eye socket. 	มันบอกว่าสาเหตุการตายคือถูก อุปกรณ์รูปทรงเหล็กเจาะน้ำแข็ง\nแทงทะลุสมองผ่านเบ้าตา 
+21-1156	sound_auth	Yup. But that was the Mole.\nI didn't have anything to do with it.	ใช่ แต่นั่นเป็นฝีมือไส้ศึก\nกูไม่เกี่ยวอะไรด้วยเลย
+21-1157	sound_auth	Yup. But that was the Mole.\nNothing to do with me.	ใช่ แต่นั่นเป็นฝีมือไส้ศึก\nไม่เกี่ยวกับกูเลย
+21-1158	sound_auth	...Right, I guess not.	...ใช่สิ คงไม่เกี่ยวหรอก
+21-1159	sound_auth	The autopsy report for\nthe first victim, Kenkichi Mashiba.	รายงานการชันสูตรศพของ\nเหยื่อรายแรก เค็นคิจิ มาชิบะ
+21-1160	sound_auth	The autopsy report for the\nfirst victim, Kenkichi Mashiba.	รายงานการชันสูตรศพของเหยื่อ\nรายแรก เค็นคิจิ มาชิบะ
+21-1161	sound_auth	Huh? My guy handled that one.\nI don't know shit about it.	หา? งานนั้นคนของกูจัดการเอง\nกูไม่รู้เรื่องอะไรเลยว่ะ
+21-1162	sound_auth	Huh? My guy handled that one.\nI don't know shit about it. That's the Mole's work.	หา? งานนั้นคนของกูจัดการเอง\nกูไม่รู้เรื่องอะไรเลยว่ะ นั่นฝีมือไส้ศึกทั้งนั้น
+21-1163	sound_auth	The autopsy report for\nthe second victim, Yasuo Kunimura.	รายงานการชันสูตรศพของ\nเหยื่อรายที่สอง ยาสึโอะ คุนิมุระ
+21-1164	sound_auth	The autopsy report for the\nsecond victim, Yasuo Kunimura.	รายงานการชันสูตรศพของเหยื่อ\nรายที่สอง ยาสึโอะ คุนิมุระ
+21-1165	sound_auth	It was all fun and games for him at Konban Wife,\nuntil someone gouged his eyes out a few hours later.	เขาสนุกสนานเต็มที่ที่ Konban Wife\nก่อนจะโดนควักลูกตาออกในอีกไม่ กี่ชั่วโมงต่อมา
+21-1166	sound_auth	Sucks for the guy, sure. But that was the Mole.\nI didn't lift a damn finger.	น่าสงสารเขาอยู่หรอกนะ แต่นั่นฝีมือไส้ศึก\nกูไม่ได้แตะต้องอะไรเลยสักนิด
+21-1167	sound_auth	Sucks for the guy, sure. But I didn't lift a damn finger.\nAll that stuff you just said? That was the Mole.	น่าสงสารเขาอยู่หรอกนะ แต่กูไม่ได้แตะต้องอะไรเลยสักนิด\nที่พูดมาทั้งหมดน่ะ ฝีมือไส้ศึกทั้งนั้น
+21-1168	sound_auth	Check this out. Look familiar?\nIt's camera footage of you abducting Kume.	ดูนี่สิ คุ้นตาไหม?\nนี่คือภาพจากกล้องตอนนายลักพาตัวคุเมะ
+21-1169	sound_auth	That shot look familiar?\nIt's camera footage of you abducting Kume.	ภาพนี้คุ้นตาไหม?\nนี่คือภาพจากกล้องตอนนายลักพาตัวคุเมะ
+21-1170	sound_auth	So tell me. Why'd you take the fall?\nThey even got your face on tape.	บอกผมมาสิ ทำไมนายถึงยอมรับผิดแทน?\nทั้งๆ ที่เขามีหน้านายติดกล้องชัดเจน
+21-1171	sound_auth	I've been wondering why you'd take the fall.\nThey even got your face on tape.	ผมสงสัยมาตลอดว่าทำไมนายถึง ยอมรับผิดแทน\nทั้งๆ ที่เขามีหน้านายติดกล้องชัดเจน
+21-1172	sound_auth	You're not usually that sloppy.	นายไม่ใช่คนสะเพร่าขนาดนั้นนี่นา
+21-1173	sound_auth	You're not that sloppy.	นายไม่ใช่คนสะเพร่าขนาดนั้น
+21-1174	sound_auth	Answer me.	ตอบผมมาสิ
+21-1175	sound_auth	Let's hear it.	ฟังหน่อยสิ
+21-1176	sound_auth	That was right after we axed\ntwo Kyorei guys one after another.	นั่นมันตอนที่พวกกูเพิ่งเก็บ\nคนของตระกูลเคียวเรอิไปสองคนติดกัน
+21-1177	sound_auth	At the time, we'd just axed two Kyorei guys.\nKilling two in a row made 'em wise.	ตอนนั้นพวกกูเพิ่งเก็บคนของ ตระกูลเคียวเรอิไปสองคน\nการฆ่าติดกันสองครั้งทำให้พวก มันเริ่มระแวง
+21-1178	sound_auth	They started catching on.\nWouldn't go 'round town alone anymore.	พวกมันเริ่มจับพิรุธได้\nเลยไม่มีใครเดินคนเดียวในเมืองอีกแล้ว
+21-1179	sound_auth	After that... they started catching on.\nWouldn't go 'round town alone anymore.	หลังจากนั้น...พวกมันเริ่มจับพิรุธได้\nเลยไม่มีใครเดินคนเดียวในเมืองอีกแล้ว
+21-1180	sound_auth	Keep going.	พูดต่อสิ
+21-1181	sound_auth	When your mark's that on guard, nobody's\nlaying a hand on 'em. Not even a trained assassin.	พอเป้าหมายระวังตัวขนาดนั้น ก็ไม่มีใคร\nแตะต้องมันได้หรอก ต่อให้เป็นมือสังหารมืออาชีพก็เถอะ
+21-1182	sound_auth	They were on guard. Even the Mole couldn't do much\nwith them lookin' around every corner.	พวกมันระวังตัวกันสุดๆ ต่อให้เป็นไส้ศึกเองก็ทำอะไรไม่ได้มาก\nตอนพวกมันจับตามองไป ทุกซอกทุกมุมแบบนั้น
+21-1183	sound_auth	So, the Mole needed a hand.\nSomeone he could trust to get the ball rolling.	ไส้ศึกเลยต้องการมือช่วย\nคนที่มันไว้ใจได้ให้เริ่มลงมือ
+21-1184	sound_auth	So, the Mole needed a little push.\nSomeone to get things rolling.	ไส้ศึกเลยต้องการแรงผลักดันนิดหน่อย\nคนที่จะช่วยให้ทุกอย่างเริ่มขยับ
+21-1185	sound_auth	And that someone, was me.	แล้วคนคนนั้นก็คือกูเอง
+21-1186	sound_auth	I guess... that someone was me.	กูว่า...คนคนนั้นก็คือกูนี่แหละ
+21-1187	sound_auth	But helping him is what got you\narrested for Kume's murder.	แต่การไปช่วยมันนี่แหละที่ทำให้นาย\nโดนจับข้อหาฆ่าคุเมะ
+21-1188	sound_auth	Was that part of the plan?\nWere you <font_kind=yakuza_italic>supposed</font_kind> to get caught?	นั่นเป็นส่วนหนึ่งของแผนหรือเปล่า?\nนายถูก<font_kind=yakuza_italic>วางแผน</font_kind> ให้โดนจับตั้งแต่แรกใช่ไหม?
+21-1189	sound_auth	They'd have put you away for life.	พวกเขาคงจับนายขังตลอดชีวิตแน่ๆ
+21-1190	sound_auth	That's why I needed an alibi.	เพราะงั้นกูเลยต้องมีพยานที่อยู่
+21-1191	sound_auth	Had to be somewhere lots of people would see me.	ต้องอยู่ในที่ที่มีคนเห็นกูเยอะๆ
+21-1192	sound_auth	Sauna Goten.	ซาวน่าโกเท็น
+21-1193	sound_auth	Mhm. But it turned out, there weren't as many witnesses as I was hopin'. Security footage was fuzzy as shit, too.	อืม แต่สุดท้ายก็มีพยานน้อยกว่าที่ กูหวังไว้ กล้องวงจรปิดก็ภาพเบลอเชี่ยๆ ด้วย
+21-1194	sound_auth	So of course my alibi got tossed.	พยานที่อยู่ของกูเลยถูกตีตกไป ตามระเบียบ
+21-1195	sound_auth	Prosecutors didn't care if I actually did it. They'd make a story up if it meant resolving the case.	อัยการไม่สนหรอกว่ากูทำจริงหรือเปล่า แค่ปิดคดีได้ พวกมันก็แต่งเรื่องขึ้นมาได้สบายๆ
+21-1196	sound_auth	For yakuza on yakuza violence? Didn't matter whose head rolled so long as someone's did.	ยากูซ่าฆ่ายากูซ่าน่ะเหรอ? ไม่สำคัญหรอกว่าหัวใครจะหลุด ขอแค่มีคนรับผิดก็พอ
+21-1197	sound_auth	So you didn't want to get arrested. Guess not everything went according to plan.	งั้นนายก็ไม่ได้อยากโดนจับตั้งแต่แรก สรุปว่าไม่ใช่ทุกอย่างเป็นไปตาม แผนสินะ
+21-1198	sound_auth	So, what happened after\nyou left Amour?	แล้วเกิดอะไรขึ้นหลังจาก\nนายออกจากคลับอามูร์?
+21-1199	sound_auth	So, what happened after you\nleft Amour?	แล้วเกิดอะไรขึ้นหลังจากนาย\nออกจากคลับอามูร์?
+21-1200	sound_auth	My guy took Kume out the back.	คนของกูพาคุเมะออกไปทางหลังร้าน
+21-1201	sound_auth	Loaded him in the trunk of a car. Took him\nto Shono. Just like all the other AD-9 tests.	โยนมันขึ้นท้ายรถ แล้วพาไปหา\nโชโนะ เหมือนกับหนูทดลอง AD-9 คนอื่นๆ
+21-1202	sound_auth	Just like all the other AD-9 guinea pigs... we threw him\nin the trunk of a car, then took him to Shono.	เหมือนกับหนูทดลอง AD-9 คนอื่นๆ นั่นแหละ...พวกกูโยนมัน\nขึ้นท้ายรถแล้วพาไปหาโชโนะ
+21-1203	sound_auth	To the ADDC?	ไปที่ ADDC เหรอ?
+21-1204	sound_auth	Nah, not the Center.	เปล่า ไม่ใช่ที่ศูนย์
+21-1205	sound_auth	I'm not sure where it is exactly.\nSome place Shono and the Mole set up.	กูก็ไม่รู้เป๊ะๆ ว่าที่ไหน\nที่ไหนสักแห่งที่โชโนะกับไส้ศึกจัดไว้
+21-1206	sound_auth	Don't know exactly. Some hidden drop-off.\nThe Mole knew where to go.	ไม่รู้ที่แน่ชัดหรอก ที่ซ่อนลับๆ สักแห่ง\nไส้ศึกมันรู้ว่าต้องไปที่ไหน
+21-1207	sound_auth	So they carried out their human experiments\nin some kinda... secret lab?	งั้นพวกมันทำการทดลองในมนุษย์\nในแล็บลับสักที่งั้นเหรอ?
+21-1208	sound_auth	So the human experiments... All those went down\nin some kinda secret lab?	งั้นการทดลองในมนุษย์...ทั้งหมดเกิดขึ้น\nในแล็บลับสักที่งั้นเหรอ?
+21-1209	sound_auth	Suppose they did.	กูว่าก็คงงั้นแหละ
+21-1210	sound_auth	Well then why'd they need\nto gouge the eyes out?	งั้นแล้วทำไมพวกมันถึงต้อง\nควักลูกตาออกด้วยล่ะ?
+21-1211	sound_auth	Then... why the need to\ngouge the eyes out?	แล้ว...ทำไมถึงต้อง\nควักลูกตาออกด้วยล่ะ?
+21-1212	sound_auth	No clue.\nHe never told me.	ไม่รู้เหมือนกัน\nมันไม่เคยบอกกู
+21-1213	sound_auth	No clue. He never told me.	ไม่รู้เหมือนกัน มันไม่เคยบอกกู
+21-1214	sound_auth	Maybe he wanted to make it look like a yakuza killing.\nOr maybe the Mole's just into some sick shit.	อาจจะอยากทำให้ดูเหมือนฝีมือยากูซ่า\nหรือไม่ก็ไส้ศึกมันวิปริตของมัน เองก็ได้
+21-1215	sound_auth	Maybe the Mole wanted some classic yakuza gore.\n...Or maybe it just turned him on.	ไส้ศึกอาจจะอยากได้ความโหดแบบ ยากูซ่าคลาสสิก\n...หรือไม่ก็แค่มันเสียวเฉยๆ
+21-1216	sound_auth	Okay, so about how the owner of Amour and your men\nleft the club on the night of Kume's murder...	โอเค ทีนี้เรื่องที่เจ้าของอามูร์กับ พวกของนาย\nออกจากร้านคืนที่คุเมะถูกฆ่า...
+21-1217	sound_auth	On the night Kume was killed, when the Matsugane\nyakuza and the owner of Amour left the club...	คืนที่คุเมะถูกฆ่า ตอนที่คนของตระกูลมัตสึกาเนะ\nกับเจ้าของอามูร์ออกจากร้าน...
+21-1218	sound_auth	So how exactly did they murder Kume?	แล้วพวกมันฆ่าคุเมะยังไงกันแน่?
+21-1219	sound_auth	I've been turnin' this whole situation over in my head, but I just can't figure it out.	กูคิดเรื่องนี้วนไปวนมาในหัวตลอดเลย แต่ก็ยังคิดไม่ออกสักที
+21-1220	sound_auth	Good point. Let's see what we can learn.	พูดถูก มาดูกันว่าเราจะรู้อะไรได้บ้าง
+21-1221	sound_auth	We have a lot of new info.\nLet's try and figure out what happened to Kume.	เรามีข้อมูลใหม่เยอะเลย\nลองมาคิดดูกันว่าเกิดอะไรขึ้นกับคุเมะ
+21-1222	sound_auth	Guess we're finally seeing the big picture here.	ในที่สุดเราก็เริ่มเห็นภาพ รวมทั้งหมดแล้วสินะ
+21-1223	sound_auth	Impressive, Tak. You're really something.	น่าทึ่งจริงๆ ทาคุ นายนี่ไม่ธรรมดาเลย
+21-1224	sound_auth	Lemme rest a bit.\nI'm gonna light up real quick.	ขอพักแป๊บนึง\nกูจะไปสูบบุหรี่หน่อย
+21-1225	sound_auth	But in reality it was different?	แต่ความจริงมันต่างออกไปเหรอ?
+21-1226	sound_auth	Yeah. The problem is what happened after Hamura and Kume were alone.	ใช่ ปัญหาคือเกิดอะไรขึ้นหลังจาก ฮามุระกับคุเมะอยู่กันตามลำพัง
+21-1227	sound_auth	What happened at Amour during that time?	แล้วเกิดอะไรขึ้นที่คลับอามูร์ ช่วงนั้น?
+21-1228	sound_auth	Murase and some other Kyorei yakuza busted in.	มุราเสะกับพวกยากูซ่าเคียวเรอิ บุกเข้ามา
+21-1229	sound_auth	Wait, hold on.	เดี๋ยว เดี๋ยวสิ
+21-1230	sound_auth	That's not it?	ไม่ใช่แบบนั้นเหรอ?
+21-1231	sound_auth	Murase did in fact take some guys and go to Amour to rescue Kume.	มุราเสะพาคนไปที่คลับอามูร์ เพื่อช่วยคุเมะจริงๆ
+21-1232	sound_auth	But, Murase said there wasn't anyone there when he went.	แต่มุราเสะบอกว่าตอนที่ไปถึง ไม่มีใครอยู่ที่นั่นเลย
+21-1233	sound_auth	Then, what happened?	งั้นเกิดอะไรขึ้นกันแน่?
+21-1234	sound_auth	Shono's human experiment...?	การทดลองมนุษย์ของโชโนะ...?
+21-1235	sound_auth	Inside Amour? Is that how it went?	ในคลับอามูร์เหรอ? มันเป็นแบบนั้นเหรอ?
+21-1236	sound_auth	No, that's not right.	ไม่ใช่ ผิดแล้ว
+21-1237	sound_auth	Then what really happened at the club?	งั้นเกิดอะไรขึ้นที่คลับกันแน่?
+21-1238	sound_auth	The Mole appeared.	ไส้ศึกโผล่มา
+21-1239	sound_auth	Hamura handed Kume over to him as a test subject for AD-9.	ฮามุระส่งมอบคุเมะให้มันเป็นหนูทดลอง AD-9
+21-1240	sound_auth	Kume got thrown in a trunk and taken to Shono.	คุเมะถูกโยนขึ้นท้ายรถแล้วถูกพา ไปหาโชโนะ
+21-1241	sound_auth	At 6 AM, his corpse was found in a garbage dump.	ตอนตีหก ศพของเขาถูกพบในกองขยะ
+21-1242	sound_auth	Guess that means he actually died as a side effect of AD-9.	คงแปลว่าเขาตายเพราะผลข้างเคียงของ AD-9 จริงๆ สินะ
+21-1243	sound_auth	But I still don't know why they gouged the corpse's eyes out. It's still unclear.	แต่ผมก็ยังไม่รู้อยู่ดีว่าทำไม พวกมันถึงควักลูกตาศพออก ยังไม่ชัดเจนเลย
+21-1244	sound_auth	Next up... is Shintani.	ต่อไป...คือชินทานิ
+21-1245	sound_auth	Next up... is Shintani's murder.	ต่อไป...คือคดีฆาตกรรมชินทานิ
+21-1246	sound_auth	He had nothing to do with the Kyorei Clan,\nbut you guys still used him as an AD-9 test subject.	เขาไม่เกี่ยวอะไรกับ ตระกูลเคียวเรอิเลย\nแต่พวกนายก็ยังเอาเขาไปใช้เป็น หนูทดลอง AD-9
+21-1247	sound_auth	Shintani had nothing to do with the Kyorei,\nbut you guys still used him as a test subject for AD-9.	ชินทานิไม่เกี่ยวอะไรกับ ตระกูลเคียวเรอิเลย\nแต่พวกนายก็ยังเอาเขาไปใช้เป็น หนูทดลอง AD-9
+21-1248	sound_auth	Or was there some other reason\nyou had him killed?	หรือว่ามีเหตุผลอื่น\nที่นายสั่งฆ่าเขา?
+21-1249	sound_auth	Or maybe... was there some other reason\nyou had him killed?	หรือว่า...มีเหตุผลอื่น\nที่นายสั่งฆ่าเขาหรือเปล่า?
+21-1250	sound_auth	Shintani's death...\nThat was my fault.	การตายของชินทานิ...\nนั่นเป็นความผิดของกูเอง
+21-1251	sound_auth	That particular death...\nThat was my fault.	การตายครั้งนั้น...\nนั่นเป็นความผิดของกูเอง
+21-1252	sound_auth	What's next on the list?\nKeep the fuckin' pressure on this shithead.	ต่อไปในลิสต์คืออะไร?\nกดดันไอ้เวรนี่ต่อไปเลย
+21-1253	sound_auth	What's next on Hamura here?\nKeep the pressure on.	ต่อไปฮามุระมีอะไรอีก?\nกดดันต่อไป
+21-1254	sound_auth	When we took care of Kume,\nI was the one on the hook for it.	ตอนที่พวกกูจัดการคุเมะ\nกูเป็นคนรับผิดชอบเรื่องนั้นเอง
+21-1255	sound_auth	Lemme tell you, endin' up in the slammer\nfor a murder you didn't do is scary shit.	บอกไว้เลยนะ การติดคุก\nเพราะคดีฆาตกรรมที่ตัวเองไม่ได้ ทำเนี่ย มันน่ากลัวโคตรๆ
+21-1256	sound_auth	Goin' to jail for a hit\nyou didn't do is scary shit.	ติดคุกเพราะงาน\nที่ตัวเองไม่ได้ทำเนี่ย มันน่ากลัวโคตรๆ
+21-1257	sound_auth	Made me think,\nwouldn't hurt to have some insurance.	ทำให้กูคิดได้ว่า\nมีประกันไว้หน่อยก็ไม่เสียหาย
+21-1258	sound_auth	Made me think... wouldn't hurt\nto have some insurance.	ทำให้กูคิดได้ว่า...มีประกันไว้หน่อย\nก็ไม่เสียหายอะไร
+21-1259	sound_auth	Insurance?	ประกันเหรอ?
+21-1260	sound_auth	Insurance...?	ประกันงั้นเหรอ...?
+21-1261	sound_auth	Talked to Shintani before the trial.\nAnd told him this.	กูคุยกับชินทานิก่อนขึ้นศาล\nแล้วบอกมันไปแบบนี้
+21-1262	sound_auth	Before the trial, I sat down with Shintani.\nTold him this:	ก่อนขึ้นศาล กูนั่งคุยกับชินทานิ\nแล้วบอกมันไปว่า
+21-1263	sound_auth	If the pieces fall into place and I hang for this...\nLook into Shono at the ADDC.	ถ้าทุกอย่างลงล็อกแล้วกูต้อง รับผิดเรื่องนี้...\nให้ไปสืบเรื่องโชโนะที่ ADDC
+21-1264	sound_auth	"If the pieces fall into place, and I hang for this...\nlook into Shono at the ADDC."	"ถ้าทุกอย่างลงล็อกแล้วกูต้อง รับผิดเรื่องนี้...\nให้ไปสืบเรื่องโชโนะที่ ADDC"
+21-1265	sound_auth	So you told him about the deal\nyou made with Ichinose.	งั้นนายก็บอกเขาเกี่ยวกับข้อตกลง\nที่นายทำกับอิจิโนเสะสินะ
+21-1266	sound_auth	So he knew everything? You told Shintani\nabout your deal with Ichinose?	งั้นเขารู้หมดเลยเหรอ? นายบอกชินทานิ\nเรื่องข้อตกลงที่ทำกับอิจิโนเสะเหรอ?
+21-1267	sound_auth	Not exactly.\nShono was the only name I mentioned.	ไม่เชิงหรอก\nกูพูดถึงแค่ชื่อโชโนะเท่านั้น
+21-1268	sound_auth	I didn't exactly get into the shit with Ichinose.\nI only mentioned Shono.	กูไม่ได้ลงรายละเอียดเรื่อง อิจิโนเสะขนาดนั้นหรอก\nพูดถึงแค่โชโนะเท่านั้นแหละ
+21-1269	sound_auth	But if anyone found out I spilled the beans to Shintani,\nwell... I'd be betrayin' the cause.	แต่ถ้ามีใครรู้ว่ากูปากโป้งบอก ชินทานิไป\nก็...กูคงกลายเป็นคนทรยศพวกเดียวกัน
+21-1270	sound_auth	All the same... if anyone found out I told Shintani...\nI'd be marked a snitch.	ยังไงก็เถอะ...ถ้ามีใครรู้ว่ากูบอกชินทานิไป...\nกูคงถูกตราหน้าว่าเป็นไอ้ขี้ฟ้อง
+21-1271	sound_auth	So I told the bastard.\nOnly go digging if shit really hits the fan.	กูเลยบอกไอ้เวรนั่นไป\nให้ขุดคุ้ยก็ต่อเมื่อเรื่องมัน บานปลายจริงๆ
+21-1272	sound_auth	That's why I told him, only go digging\nif shit really hits the fan. Otherwise, stay away.	เพราะงั้นกูถึงบอกมันไปว่า ให้ขุดคุ้ย\nก็ต่อเมื่อเรื่องมันบานปลายจริงๆ ไม่งั้นก็อย่ายุ่ง
+21-1273	sound_auth	Why did he call Shono if he knew it was that important\nto you? Why'd he start digging it up?	ถ้ามันรู้ว่าเรื่องนี้สำคัญกับ นายขนาดนั้น\nแล้วทำไมมันถึงโทรหาโชโนะ ทำไมถึงเริ่มขุดคุ้ย?
+21-1274	sound_auth	If he knew it was that big a deal for you...\nthen why did he call Shono directly?	ถ้ามันรู้ว่าเรื่องนี้สำคัญกับ นายขนาดนั้น...\nแล้วทำไมมันถึงโทรหาโชโนะโดยตรง?
+21-1275	sound_auth	Beats me.\nGot a pretty good theory, though.	กูก็ไม่รู้เหมือนกัน\nแต่กูมีทฤษฎีที่น่าจะใช่อยู่นะ
+21-1276	sound_auth	Beats me.\nBut... I've got my own theory.	กูก็ไม่รู้เหมือนกัน\nแต่...กูมีทฤษฎีของกูเองอยู่
+21-1277	sound_auth	You wanna hear?	อยากฟังไหมล่ะ?
+21-1278	sound_auth	<color=ｍonologue>(Why did Shintani go out of his way\nto call Shono?)</color>	<color=ｍonologue>(ทำไมชินทานิถึงยอมลำบาก\nโทรหาโชโนะด้วยตัวเอง?)</color>
+21-1279	sound_auth	Yeah, do tell.	เอาสิ พูดมาเลย
+21-1280	sound_auth	Sure. Let's hear it.	ได้ ฟังอยู่
+21-1281	sound_auth	My guess? He didn't wanna\nlet you hog all the glory.	กูเดาว่ามันคง\nไม่อยากให้มึงกินรวบเครดิตคนเดียว
+21-1282	sound_auth	You know Shintani. He didn't wanna let you\nhog all the glory.	มึงก็รู้จักชินทานินี่ มันคงไม่อยากให้มึง\nกินรวบเครดิตคนเดียว
+21-1283	sound_auth	He might've won my trial,\nbut you're the one who found the key evidence.	มันอาจจะชนะคดีให้กูก็จริง\nแต่มึงต่างหากที่เป็นคนหา หลักฐานสำคัญเจอ
+21-1284	sound_auth	He might've won my trial, but you're the one\nwho found the key evidence.	เขาอาจชนะคดีของกู แต่มึงต่างหาก\nที่หาหลักฐานชิ้นสำคัญมาได้
+21-1285	sound_auth	Shintani got recognition, sure.\nBut it was only by association.	ชินทานิได้หน้าไปก็จริง\nแต่ก็แค่พลอยได้ดีไปกับคนอื่น
+21-1286	sound_auth	Shintani got recognition...\nbut it was only by association.	ชินทานิได้หน้าไป...\nแต่ก็แค่พลอยได้ดีไปกับคนอื่น
+21-1287	sound_auth	Nobody said it, but they all knew.\nYou did the real work.	ไม่มีใครพูดออกมา แต่ทุกคนก็รู้กัน\nมึงต่างหากที่ลงมือทำงานจริง
+21-1288	sound_auth	Nobody said it. Not to his face.\nBut everyone knew.	ไม่มีใครพูดออกมา ไม่พูดต่อหน้าเขาหรอก\nแต่ทุกคนก็รู้กันดี
+21-1289	sound_auth	But even then, you didn't stop\ntrying to show up the poor guy.	แต่ถึงอย่างนั้นมึงก็ยังไม่หยุด\nพยายามข่มไอ้หมอนั่นให้ได้
+21-1290	sound_auth	But that didn't stop you.\nYou just kept one-upping the guy.	แต่นั่นก็ไม่ทำให้มึงหยุด\nยังคงเอาชนะเขาไปเรื่อยๆ
+21-1291	sound_auth	Right when the trial came to a close,\nthere you were hunting the real killer down.	พอคดีใกล้จบ\nมึงก็ดันไปตามล่าฆาตกรตัวจริงซะงั้น
+21-1292	sound_auth	Soon as the trial came to a close,\nyou started hunting the real killer down.	พอคดีจบ\nมึงก็เริ่มตามล่าฆาตกรตัวจริงทันที
+21-1293	sound_auth	How do you think Shintani felt, sitting around\nwaiting for you to stumble onto the truth?	คิดดูสิว่าชินทานิจะรู้สึกยังไง ต้องนั่งรอ\nให้มึงบังเอิญเจอความจริงเข้า
+21-1294	sound_auth	So, how do you think that must have felt for Shintani?\nSitting around, waiting for you to stumble onto the truth?	แล้วคิดว่าชินทานิจะรู้สึกยังไงล่ะ\nต้องนั่งรอให้มึงบังเอิญเจอ ความจริงเข้า
+21-1295	sound_auth	Can't imagine he was sleeping well.	คงนอนไม่หลับหรอกมั้ง
+21-1296	sound_auth	Can't imagine he felt great.	คงรู้สึกไม่ดีเท่าไหร่หรอก
+21-1297	sound_auth	Shintani wanted to find the truth before\nyou did. Wanted to earn his time in the sun.	ชินทานิอยากหาความจริงให้เจอก่อน\nมึง อยากมีวันที่ได้เฉิดฉายกับเขาบ้าง
+21-1298	sound_auth	Shintani wanted to find the truth before you did.\nIf he solved it, he'd finally get his time in the sun.	ชินทานิอยากหาความจริงให้เจอก่อนมึง\nถ้าไขคดีได้ เขาจะได้เฉิดฉายเสียที
+21-1299	sound_auth	Heh. You might as well let\nthis Mole shit go.	เฮอะ มึงเลิกยุ่งเรื่องไส้ศึก\nบ้าๆ นี่เถอะน่า
+21-1300	sound_auth	And that's why he called the ADDC?\nTo investigate the killings himself?	แล้วนั่นแหละเหตุผลที่เขาโทรหา ADDC?\nเพื่อสืบคดีฆาตกรรมด้วยตัวเองงั้นเหรอ?
+21-1301	sound_auth	So, Shintani... was trying to investigate the killings himself?\nThat's why he called the ADDC?	งั้น... ชินทานิพยายามสืบคดีฆาตกรรมด้วยตัวเอง?\nเลยโทรหา ADDC งั้นเหรอ?
+21-1302	sound_auth	That's my theory. Can't back it up, though.\nEither way, the end result was the same.	แค่ทฤษฎีกูเองแหละ พิสูจน์ไม่ได้หรอกนะ\nแต่ยังไงผลมันก็ออกมาเหมือนกัน
+21-1303	sound_auth	Sounds pretty fuckin' logical to me.\nEither way, we know how it ended.	ฟังดูมีเหตุผลเป็นบ้าเลยว่ะ\nยังไงก็รู้กันอยู่แล้วว่าจบยังไง
+21-1304	sound_auth	Ichinose found out Shintani was trying to get\nin touch with Shono. Signed his own death sentence.	อิจิโนเสะรู้เข้าว่าชินทานิ พยายามจะติดต่อ\nโชโนะ เท่ากับเซ็นใบมรณะบัตรให้ตัวเองไปแล้ว
+21-1305	sound_auth	Shintani definitely tried to get in touch with Shono.\nAnd Ichinose sniffed that out.	ชินทานิพยายามจะติดต่อโชโนะแน่ๆ\nแล้วอิจิโนเสะก็ดันไปได้กลิ่นเข้า
+21-1306	sound_auth	I'm sure it was plain as day that I was the guy\nwho put him on the right trail.	กูมั่นใจว่าเขาต้องรู้แน่ๆ ว่ากู\nนี่แหละที่ชี้ทางให้เขาไปเจอ
+21-1307	sound_auth	He probably knew right off\nthe bat I'd slipped him that info.	เขาคงรู้ตั้งแต่แรก\nว่ากูเป็นคนแอบบอกข้อมูลให้
+21-1308	sound_auth	<color=ｍonologue>(So, Ichinose's the one who\ngave the order...)</color>	<color=ｍonologue>(อิจิโนเสะนี่เองที่เป็นคน\nสั่งการ...)</color>
+21-1309	sound_auth	So... I had no choice but to silence Shintani.\nI even paid for the job outta my own pocket.	ก็เลย... กูไม่มีทางเลือกอื่นนอกจาก ปิดปากชินทานิ\nกูควักเงินตัวเองจ่ายค่าจ้างงาน นี้ด้วยซ้ำ
+21-1310	sound_auth	So it fell to me. I had no choice but to silence Shintani.\nCalled the Mole... paid for the job outta my own pocket.	เรื่องเลยตกมาที่กู ไม่มีทางเลือกอื่นนอกจากปิดปากชินทานิ\nโทรหาไส้ศึก... ควักเงินตัวเองจ่ายค่าจ้าง
+21-1311	sound_auth	And when it came to setting up\na fall guy... we picked Ayabe.	แล้วพอถึงเวลาต้องหา\nแพะรับบาป... กูเลือกอายาเบะ
+21-1312	sound_auth	And when we needed a fall guy...\nwe picked Ayabe.	แล้วตอนที่ต้องการแพะรับบาป...\nกูก็เลือกอายาเบะ
+21-1313	sound_auth	Stay outta this, boss!	อย่ายุ่งเรื่องนี้เลยนะ นาย!
+21-1314	sound_auth	Boss! Stay out of our way!	นาย! อย่ามาขวางทางพวกเรา!
+21-1315	sound_auth	Let the captain go!	ปล่อยกัปตันไปซะ!
+21-1316	sound_auth	Tak! Get these guys off of me!	ทาคุ! ช่วยเอาไอ้พวกนี้ออกจากตัวฉันที!
+21-1317	sound_auth	Come on, do something!	เร็วสิ ทำอะไรสักอย่างเถอะ!
+21-1318	sound_auth	Dammit! Come on, do something!	บ้าเอ๊ย! เร็วสิ ทำอะไรสักอย่างเถอะ!
+21-1319	sound_auth	Hot!	ร้อน!
+21-1320	sound_auth	You okay, Tak?	นายโอเคไหม ทาคุ?
+21-1321	sound_auth	Tak, you okay?	ทาคุ นายโอเคไหม?
+21-1322	sound_auth	There's no time to lose!	ไม่มีเวลาให้เสียแล้ว!
+21-1323	sound_auth	You're playing with fire.	นี่มันเล่นกับไฟชัดๆ
+21-1324	sound_auth	We done here!?	จบกันหรือยัง!?
+21-1325	sound_auth	What, not done yet?	หา ยังไม่จบอีกเหรอ?
+21-1326	sound_auth	Fucking finally.	ในที่สุดก็เสร็จซะที เวรเอ๊ย
+21-1327	sound_auth	And Patriarch Matsugane?	แล้วท่านหัวหน้ามัตสึกาเนะล่ะ?
+21-1328	sound_auth	...And Patriarch Matsugane?	...แล้วท่านหัวหน้ามัตสึกาเนะล่ะ?
+21-1329	sound_auth	He... didn't make it.	เขา...ไปไม่รอด
+21-1330	sound_auth	Didn't make it.	ไปไม่รอด
+21-1331	sound_auth	Oh no...	โอ้ ไม่นะ...
+21-1332	sound_auth	It was Kuroiwa...	เป็นฝีมือคุโรอิวะ...
+21-1333	sound_auth	Hm? Did you say something?	หือ? พูดอะไรหรือเปล่า?
+21-1334	sound_auth	Back at the center of\nthe crime scene, eh, Yagami?	กลับมาที่ศูนย์กลาง\nที่เกิดเหตุอีกแล้วสินะ ยากามิ
+21-1335	sound_auth	Getting yourself into trouble\nagain, Yagami?	หาเรื่องเดือดร้อนใส่ตัว\nอีกแล้วเหรอ ยากามิ
+21-1336	sound_auth	What the hell...? You son of a—	อะไรวะเนี่ย...? ไอ้เวร—
+21-1337	sound_auth	Yagami-kun?\nWhat's going on?	ยากามิคุง?\nเกิดอะไรขึ้น?
+21-1338	sound_auth	Wait! What's going on?	เดี๋ยวก่อน! เกิดอะไรขึ้น?
+21-1339	sound_auth	Don't fret, Fujii-san. We just need to have\na little chat at the station.	ไม่ต้องกังวลครับ ฟูจิอิซัง แค่จะขอคุย\nกันสักหน่อยที่โรงพัก
+21-1340	sound_auth	No need to worry, Prosecutor. We just need to\nhave a little chat at the station.	ไม่ต้องเป็นห่วงครับ ท่านอัยการ แค่จะขอ\nคุยกันสักหน่อยที่โรงพัก
+21-1341	sound_auth	No, he needs to get to a hospital.	ไม่ค่ะ เขาต้องไปโรงพยาบาล
+21-1342	sound_auth	No. I'm taking him to a hospital.	ไม่ค่ะ ดิฉันจะพาเขาไปโรงพยาบาล
+21-1343	sound_auth	He looks fine to me.\nI'll watch after him otherwise.	ผมว่าเขาดูปกติดีนะ\nถ้าไม่ไหวจริงผมจะดูแลเอง
+21-1344	sound_auth	Looks fine to me.\nWhy bother a doctor?	ดูปกติดีออก\nจะไปหาหมอทำไม
+21-1345	sound_auth	Are you a doctor now?\nHe needs professional attention.	คุณเป็นหมอด้วยเหรอคะ\nเขาต้องได้รับการดูแลจากผู้เชี่ยวชาญ
+21-1346	sound_auth	I'd rather he get an opinion\nfrom a professional.	ดิฉันอยากให้เขาได้ความเห็น\nจากผู้เชี่ยวชาญมากกว่า
+21-1347	sound_auth	Enough protesting.\nHe'll be just fine with me.	พอได้แล้วกับการค้าน\nอยู่กับผมเขาก็ไม่เป็นไรหรอก
+21-1348	sound_auth	I don't think that'll be necessary.\nI'll see to it he stays safe.	ผมว่าไม่จำเป็นหรอกครับ\nผมจะดูแลให้เขาปลอดภัยเอง
+21-1349	sound_auth	You don't even have a reason!	คุณไม่มีเหตุผลรองรับด้วยซ้ำ!
+21-1350	sound_auth	But how can you do that!?	แล้วคุณจะทำแบบนั้นได้ยังไง!?
+21-1351	sound_auth	It's okay. I'll go with you.\nI'm sure I'll be fine.	ไม่เป็นไร ผมไปกับคุณด้วยก็ได้\nผมมั่นใจว่าไม่เป็นไรหรอก
+21-1352	sound_auth	It's okay. I can go with him.\nI'll be fine.	ไม่เป็นไร ผมไปกับพวกเขาได้\nผมไม่เป็นไรหรอก
+21-1353	sound_auth	(I'm... exhausted.\nI just want to crash.)	(ผม...เหนื่อยจริงๆ\nแค่อยากจะล้มตัวลงนอน)
+21-1354	sound_auth	Hiya, mister!\nAre you Yagami?	หวัดดีค้าบลุง!\nลุงคือยากามิใช่ไหม?
+21-1355	sound_auth	Hiya, mister! Are you Yagami?	หวัดดีค้าบลุง! ลุงคือยากามิใช่ไหม?
+21-1356	sound_auth	Yeah? Who's asking?	หา? ใครถามน่ะ?
+21-1357	sound_auth	...Hm? Who's asking?	...หืม? ใครถามเหรอ?
+21-1358	sound_auth	I have a present for you.	ผมมีของขวัญมาให้ลุงด้วย
+21-1359	sound_auth	Here, take it!	นี่ครับ รับไปเลย!
+21-1360	sound_auth	I dunno! Some guy told me to give\nit to you. He said he was a friend.	ไม่รู้เหมือนกัน! มีลุงคนหนึ่งบอกให้\nเอามาให้ เขาบอกว่าเป็นเพื่อนลุง
+21-1361	sound_auth	I dunno! Some guy told me to give it to you.\nHe said he was a friend.	ไม่รู้เหมือนกัน! มีลุงคนหนึ่งบอกให้เอามาให้\nเขาบอกว่าเป็นเพื่อนลุง
+21-1362	sound_auth	Oh, and he said to open\nit right away!	อ้อ แล้วก็บอกให้เปิด\nเลยทันทีด้วยนะ!
+21-1363	sound_auth	He said to open it right away!	เขาบอกให้เปิดเลยทันที!
+21-1364	sound_auth	What the!	อะไรวะ!
+21-1365	sound_auth	Wonderful, Yagami-san! Such stunning reflexes!\nYou even avoided doing any property damage!	ยอดเยี่ยมมาก ยากามิซัง! ปฏิกิริยาว่องไวสุดๆ!\nยังหลบได้โดยไม่ทำทรัพย์สิน เสียหายเลยด้วย!
+21-1366	sound_auth	Wonderful, Yagami-san! Such stunning reflexes!\nYou even avoided damaging the nearby buildings!	ยอดเยี่ยมมาก ยากามิซัง! ปฏิกิริยาว่องไวสุดๆ!\nยังหลบได้โดยไม่ทำตึกแถวนั้น เสียหายเลยด้วย!
+21-1367	sound_auth	Well? Did you enjoy my present?	เป็นไงบ้าง ชอบของขวัญของผมไหม?
+21-1368	sound_auth	Did you enjoy my present?	ชอบของขวัญของผมไหม?
+21-1369	sound_auth	It was given to me as a gift,\nby an old business partner of mine.	มันเป็นของขวัญที่ผมได้รับ\nมาจากคู่ค้าเก่าคนหนึ่ง
+21-1370	sound_auth	Oh, pardon my rudeness.	อ้อ ขออภัยที่เสียมารยาท
+21-1371	sound_auth	This is my card.	นี่คือนามบัตรของผม
+21-1372	sound_auth	Koga?	โคกะ?
+21-1373	sound_auth	Oh, you don't know me?	อ้าว ไม่รู้จักผมเหรอ?
+21-1374	sound_auth	Hm? Have you not heard of me?	หืม? ไม่เคยได้ยินชื่อผมเลยเหรอ?
+21-1375	sound_auth	Hm, I see, I see...	อืม เข้าใจแล้ว เข้าใจแล้ว...
+21-1376	sound_auth	Hm... I see, I see.	อืม... เข้าใจแล้ว เข้าใจแล้ว
+21-1377	sound_auth	In that case, perhaps I should start over.\nMy name is Matsuhisa Koga... one of the Keihin Four.	ถ้าอย่างนั้นขอเริ่มใหม่ก็แล้วกัน\nผมชื่อมัตสึฮิสะ โคกะ... หนึ่งในสี่เทพเคฮิน
+21-1378	sound_auth	I am Matsuhisa Koga... one of the Keihin Four.\nDoes that clarify the matter?	ผมคือมัตสึฮิสะ โคกะ... หนึ่งในสี่เทพเคฮิน\nพอจะเข้าใจแล้วใช่ไหมครับ
+21-1379	sound_auth	I came to see what all\nthe fuss is about.	ผมมาดูว่าเรื่องที่วุ่นวายกัน\nอยู่นี่มันเรื่องอะไรกันแน่
+21-1380	sound_auth	Tonight, I'm just here to\nevaluate you.	คืนนี้ผมมาแค่เพื่อ\nประเมินฝีมือคุณเท่านั้น
+21-1381	sound_auth	And introduce you to my\nway of doing things.	แล้วก็มาแนะนำให้คุณรู้จัก\nวิธีการทำงานของผม
+21-1382	sound_auth	And introduce you to my methods.	แล้วก็มาแนะนำให้คุณรู้จัก วิธีการของผม
+21-1383	sound_auth	You know, our reputation has taken\nquite a hit thanks to your antics.	คุณรู้ไหม ชื่อเสียงของพวกเรา\nเสียหายไม่น้อยเลยเพราะเรื่องวุ่นๆ ที่คุณก่อไว้
+21-1384	sound_auth	Thanks to your antics, our organization's reputation\nhas taken quite a hit.	เพราะเรื่องวุ่นๆ ที่คุณก่อไว้ ชื่อเสียง\nขององค์กรเราเสียหายไปไม่น้อยเลย
+21-1385	sound_auth	That being the case,\nit falls to me to put a stop to this farce.	เมื่อเป็นเช่นนั้น\nผมจึงต้องมาหยุดเรื่องตลกโปกฮา นี้เสียเอง
+21-1386	sound_auth	It's quite embarrassing. I'm afraid I cannot\nallow this farce to continue.	มันน่าอับอายอยู่ไม่น้อย ผมคง\nปล่อยให้เรื่องตลกนี้ ดำเนินต่อไปไม่ได้
+21-1387	sound_auth	You guys are the farce...	พวกคุณต่างหากที่เป็นเรื่องตลก...
+21-1388	sound_auth	You're embarrassing yourselves.	คุณกำลังทำให้ตัวเองขายหน้าเองต่างหาก
+21-1389	sound_auth	Hmph. Enough talk.\nShow me what you can do, Yagami-san!	ฮึ่ม พอพูดกันแค่นี้\nแสดงฝีมือให้ผมดูหน่อยสิ ยากามิซัง!
+21-1390	sound_auth	Well, that's enough talk.\nShow me what you can do, Yagami-san!	เอาล่ะ พูดกันมาพอแล้ว\nแสดงฝีมือให้ผมดูหน่อยสิ ยากามิซัง!
+21-1391	sound_auth	Ngh, you're as strong as they said you'd be.\nIt seems fortune is not on my side today.	อึก แข็งแกร่งสมคำร่ำลือจริงๆ\nดูเหมือนโชคจะไม่เข้าข้างผมวันนี้
+21-1392	sound_auth	Ngh... you're as strong as they say.\nWhat a shame... Fortune wasn't on my side.	อึก... แข็งแกร่งสมคำร่ำลือจริงๆ\nน่าเสียดาย... โชคไม่เข้าข้างผมเลย
+21-1393	sound_auth	I surrender. You win.	ผมยอมแพ้ คุณชนะ
+21-1394	sound_auth	Huh? Already...?	หา? เร็วขนาดนี้เลยเหรอ...?
+21-1395	sound_auth	In the business world,\none must always know when to withdraw.	ในโลกธุรกิจ\nคนเราต้องรู้จักถอยเป็นเสมอ
+21-1396	sound_auth	In the business world, one must always know\nwhen to withdraw.	ในโลกธุรกิจ คนเราต้องรู้จัก\nถอยให้เป็นเสมอ
+21-1397	sound_auth	If Matsuhisa Koga lost to some thug on the street,\nour reputation would be in tatters.	ถ้ามัตสึฮิสะ โคกะ ไปแพ้อันธพาลข้างถนน\nชื่อเสียงของเราคงย่อยยับแน่
+21-1398	sound_auth	If <font_kind=yakuza_italic>the</font_kind> Matsuhisa Koga lost to some thug\non the street, our reputation would be in tatters.	ถ้า<font_kind=yakuza_italic>เจ้า</font_kind>มัตสึฮิสะ โคกะ ไปแพ้อันธพาลข้างถนน\nชื่อเสียงของเราคงย่อยยับแน่
+21-1399	sound_auth	My business partners would never\ntake me seriously again.	คู่ค้าทางธุรกิจของผมคง\nไม่มีวันเอาผมเป็นเรื่องจริงจัง อีกต่อไป
+21-1400	sound_auth	I don't know why they\nwould to begin with.	ผมว่าตั้งแต่แรกพวกเขาก็คงไม่เคย\nเอาคุณเป็นเรื่องจริงจังอยู่แล้วมั้ง
+21-1401	sound_auth	You're the street thug here.	คุณนี่แหละคืออันธพาลข้างถนนตัวจริง
+21-1402	sound_auth	Now, I must retire.\nUntil the day I get revenge.	เอาล่ะ ผมขอตัวก่อน\nจนกว่าจะถึงวันที่ผมล้างแค้นได้
+21-1403	sound_auth	At any rate, I must retire.\nMy revenge will come another day.	ยังไงก็ตาม ผมขอตัวก่อน\nการแก้แค้นของผมค่อยว่ากันวันหลัง
+21-1404	sound_auth	Farewell, Yagami-san.	ลาก่อน ยากามิซัง
+21-1405	sound_auth	For now, though, farewell.	ตอนนี้ขอลาก่อนแค่นี้
+21-1406	sound_auth	Can't these guys just leave me alone?	พวกนี้จะปล่อยผมไว้เฉยๆ บ้างไม่ได้เหรอ?
+21-1407	sound_auth	Can't these guys just leave me alone...?	พวกนี้จะปล่อยผมไว้เฉยๆ บ้างไม่ได้เหรอ...?
+21-1408	sound_auth	What happened with Kaito-san?\nIs he okay?	เกิดอะไรขึ้นกับไคโตะซัง?\nเขาไม่เป็นไรใช่ไหม?
+21-1409	sound_auth	Where's Kaito-san?\nIs he okay?	ไคโตะซังอยู่ไหน?\nเขาไม่เป็นไรใช่ไหม?
+21-1410	sound_auth	Doctor said he'll be back on his feet in a few days.\nWe took him to some back-alley joint. Hush hush, y'know.	หมอบอกว่าอีกไม่กี่วันก็ลุกเดิน ได้แล้ว\nพวกผมพาเขาไปที่ร้านลับๆ แถวตรอก เงียบๆ กันไว้น่ะ ยากามิซัง
+21-1411	sound_auth	Didn't realize you had\nthose kinds of connections.	ไม่รู้เลยว่านายมี\nคอนเนกชันแบบนั้นด้วย
+21-1412	sound_auth	Didn't realize you had those\nkinds of connections.	ไม่รู้เลยว่านายมีคอนเนกชัน\nแบบนั้นด้วย
+21-1413	sound_auth	Actually, he was a friend of Kaito-san's.\nSounded like they go way back.	จริงๆ แล้วเขาเป็นเพื่อนของไคโตะซัง\nฟังดูเหมือนจะรู้จักกันมานานแล้วด้วย
+21-1414	sound_auth	Couldn't you have just gone to a hospital?	ไปโรงพยาบาลตรงๆ เลยไม่ได้เหรอ?
+21-1415	sound_auth	Couldn't you have just\ngone to a hospital?	ไปโรงพยาบาลตรงๆ\nเลยไม่ได้เหรอ?
+21-1416	sound_auth	That's what I thought.\nKaito-san was pretty insistent, though.	ผมก็คิดแบบนั้นเหมือนกัน\nแต่ไคโตะซังยืนกรานสุดๆ เลย
+21-1417	sound_auth	That's what I thought.\nKaito-san wasn't having it, though.	ผมก็คิดแบบนั้นเหมือนกัน\nแต่ไคโตะซังไม่ยอมเอาด้วยเลย
+21-1418	sound_auth	Said he didn't have time to deal\nwith a bullet in the gut.	เขาบอกว่าไม่มีเวลามาจัดการ\nกับกระสุนในท้องหรอก
+21-1419	sound_auth	Said this is no time\nto be lyin' around.	เขาบอกว่านี่ไม่ใช่เวลามา\nนอนแอ้งแม้งอยู่เฉยๆ
+21-1420	sound_auth	That's Kaito.	นี่แหละไคโตะ
+21-1421	sound_auth	'Course he did.	ก็ต้องแบบนั้นแหละ
+21-1422	sound_auth	How'd everything go with you?\nI heard that Kyorei club burned down.	แล้วยากามิซังเป็นยังไงบ้าง?\nได้ยินว่าคลับของ ตระกูลเคียวเรอิไฟไหม้
+21-1423	sound_auth	How'd everything go with you?\nI heard that Kyorei cabaret burned down.	แล้วยากามิซังเป็นยังไงบ้าง?\nได้ยินว่าคาบาเรต์ของ ตระกูลเคียวเรอิไฟไหม้
+21-1424	sound_auth	Yeah. Things were... tough.	อือ เรื่องมัน...หนักหนาเอาเรื่อง
+21-1425	sound_auth	Yeah. I wouldn't say it went well.	อือ พูดไม่ได้เลยว่ามันไปได้สวย
+21-1426	sound_auth	Sounds like you could\nuse some rest, then.	งั้นฟังดูยากามิซังน่าจะ\nต้องพักผ่อนหน่อยแล้วนะ
+21-1427	sound_auth	Sounds like you could use\nsome rest, then.	งั้นฟังดูยากามิซังน่าจะต้อง\nพักผ่อนหน่อยแล้วนะ
+21-1428	sound_auth	Heading out then?	จะกลับแล้วเหรอ?
+21-1429	sound_auth	Not sticking around?	ไม่อยู่ต่อแล้วเหรอ?
+21-1430	sound_auth	I just figured I'd stop by\nto tell you about Kaito-san.	ผมแค่แวะมาบอก\nเรื่องไคโตะซังให้นายรู้เฉยๆ
+21-1431	sound_auth	Nah, I just came to tell you\nabout Kaito-san.	เปล่า ผมแค่มาบอกเรื่อง\nไคโตะซังให้นายรู้
+21-1432	sound_auth	Now that I know you're safe, too...\nI'm gonna go pass out at home.	ตอนนี้รู้แล้วว่ายากามิซังก็ปลอดภัยดี...\nผมจะกลับไปล้มตัวนอนที่บ้านแล้ว
+21-1433	sound_auth	Now that I know you're safe, too...\nI'm gonna go pass out for a bit.	ตอนนี้รู้แล้วว่ายากามิซังก็ปลอดภัยดี...\nผมจะไปล้มตัวนอนสักพักแล้ว
+21-1434	sound_auth	You do that. G'night.	ไปเถอะ ราตรีสวัสดิ์
+21-1435	sound_auth	You do that. Night.	ไปเถอะ ราตรีสวัสดิ์
+21-1436	sound_auth	Yagami-kun? It's Mafuyu.\nDid I wake you up?	ยากามิคุงคะ? มาฟุยุเองค่ะ\nปลุกคุณตื่นหรือเปล่า?
+21-1437	sound_auth	Oh, ah... It's Mafuyu.\nDid I wake you up?	อ้อ เอ่อ...มาฟุยุเองค่ะ\nปลุกคุณตื่นหรือเปล่า?
+21-1438	sound_auth	The Mole's claimed another victim.\nAnother Kyorei Clan yakuza.	ไส้ศึกเก็บเหยื่อไปอีกรายแล้วค่ะ\nยากูซ่าตระกูลเคียวเรอิอีกคนหนึ่ง
+21-1439	sound_auth	Head to the Matsugane Family\noffice if you can.	ถ้าไปได้ ช่วยไปที่สำนักงาน\nตระกูลมัตสึกาเนะทีค่ะ
+21-1440	sound_auth	He was found... just outside\nthe Matsugane office.	พบศพเขา...อยู่ด้านนอก\nสำนักงานมัตสึกาเนะเลยค่ะ
+21-1441	sound_auth	All right. I'll be right over.	รับทราบครับ ผมจะรีบไปเดี๋ยวนี้
+21-1442	sound_auth	They've already ID'ed the victim.	ทางเราระบุตัวเหยื่อได้แล้วค่ะ
+21-1443	sound_auth	They've already ID'ed the victim.\nI'll tell you...	ทางเราระบุตัวเหยื่อได้แล้วค่ะ\nดิฉันจะบอกให้ฟัง...
+21-1444	sound_auth	Satoshi Shioya. Captain of the Kyorei Clan.\nYou knew him, yes?	ซาโตชิ ชิโอยะ กัปตันตระกูลเคียวเรอิ\nคุณรู้จักเขาใช่ไหมคะ?
+21-1445	sound_auth	It was a Kyorei Clan captain, Shioya.\nYou knew him, right?	เป็นกัปตันตระกูลเคียวเรอิ ชื่อชิโอยะค่ะ\nคุณรู้จักเขาใช่ไหมคะ?
+21-1446	sound_auth	Mhm. If it was really the Mole...\nThat means his eyes have been gouged out?	อือ ถ้าเป็นฝีมือไส้ศึกจริง...\nแปลว่าดวงตาเขาถูกควักออกด้วยสินะ?
+21-1447	sound_auth	Mhm. Then if it was really the Mole...\nhis eyes were...?	อือ ถ้าเป็นฝีมือไส้ศึกจริง...\nดวงตาเขาก็คง...?
+21-1448	sound_auth	So I hear.\nI haven't confirmed it for myself.	ได้ยินมาแบบนั้นค่ะ\nแต่ดิฉันยังไม่ได้ยืนยันด้วยตาตัวเอง
+21-1449	sound_auth	Yes. Though I haven't confirmed it\nfor myself.	ใช่ค่ะ แต่ดิฉันยังไม่ได้ยืนยัน\nด้วยตาตัวเอง
+21-1450	sound_auth	Better that you don't.	ไม่ยืนยันเองก็ดีแล้วครับ
+21-1451	sound_auth	Who's handling the case?\nKuroiwa again?	ใครรับผิดชอบคดีนี้?\nคุโรอิวะอีกแล้วเหรอ?
+21-1452	sound_auth	Yes. He's right over there.	ใช่ค่ะ เขาอยู่ตรงนั้นเลย
+21-1453	sound_auth	Speaking of which, Yagami-kun.\nWhat happened last night? With the interrogation.	พูดถึงเรื่องนั้น ยากามิคุง\nเมื่อคืนเกิดอะไรขึ้นคะ เรื่องการสอบปากคำน่ะ
+21-1454	sound_auth	Yagami-kun. What happened last night?\nAre you all right?	ยากามิคุง เมื่อคืนเกิดอะไรขึ้น?\nคุณไม่เป็นไรใช่ไหม?
+21-1455	sound_auth	Listen, Mafuyu.	ฟังนะ มาฟุยุ
+21-1456	sound_auth	Hey, Mafuyu.	นี่ มาฟุยุ
+21-1457	sound_auth	It's Kuroiwa.\nHe's the Mole.	คุโรอิวะนั่นแหละ\nเขาคือไส้ศึก
+21-1458	sound_auth	It's Kuroiwa. He's the Mole.	คุโรอิวะนั่นแหละคือไส้ศึก
+21-1459	sound_auth	Apparently he and Hamura have been\nworking together for years.	ดูเหมือนเขากับฮามุระ\nจะร่วมมือกันมาหลายปีแล้ว
+21-1460	sound_auth	He and Captain Hamura...\nThey've been working together for years.	เขากับกัปตันฮามุระ...\nร่วมมือกันมาหลายปีแล้ว
+21-1461	sound_auth	At first he was just a dirty cop.\nNot too different from Ayabe, I'd guess.	ตอนแรกเขาก็แค่ตำรวจสกปรกคนหนึ่ง\nคงไม่ต่างจากอายาเบะเท่าไหร่
+21-1462	sound_auth	At first... he wasn't too different from Ayabe.\nJust another dirty cop.	ตอนแรก...เขาก็ไม่ต่างจากอายาเบะเท่าไหร่\nแค่ตำรวจสกปรกอีกคนหนึ่ง
+21-1463	sound_auth	But eventually he found\nmurder was profitable.	แต่สุดท้ายเขาก็พบว่า\nการฆ่าคนสร้างรายได้ดี
+21-1464	sound_auth	But eventually he decided murder's\nwhere the money is.	แต่สุดท้ายเขาก็ตัดสินใจว่า\nเงินมันอยู่ที่การฆ่าคน
+21-1465	sound_auth	That's not all. Shono from the ADDC is the one\nwho's been hiring him to do his dirty laundry.	ไม่ใช่แค่นั้น โชโนะจาก ADDC ต่างหาก\nที่จ้างเขาให้จัดการเรื่องสกปรกให้
+21-1466	sound_auth	On top of that, the Mole's just following orders.\nFor Shono, from the ADDC.	ยิ่งไปกว่านั้น ไส้ศึกก็แค่ทำตามคำสั่ง\nของโชโนะจาก ADDC เท่านั้น
+21-1467	sound_auth	And these corpses with their eyes gouged out?\nHuman experiments, every one of them. All for AD-9.	แล้วศพพวกนี้ที่ดวงตาถูกควักออก?\nล้วนเป็นหนูทดลองมนุษย์ทั้งนั้น เพื่อ AD-9 ทั้งหมด
+21-1468	sound_auth	And these corpses with their eyes gouged out?\nAll human experiments in the name of AD-9.	แล้วศพพวกนี้ที่ดวงตาถูกควักออก?\nล้วนเป็นการทดลองมนุษย์ในนามของ AD-9 ทั้งหมด
+21-1469	sound_auth	Shintani's dead.\nKilled by Ayabe, so they claim.	ชินทานิเสียชีวิตแล้ว\nตามข้อกล่าวหาคืออายาเบะเป็นคนฆ่า
+21-1470	sound_auth	Shintani was killed with a policeman's gun.\nThey say Ayabe did it.	ชินทานิถูกฆ่าด้วยปืนของตำรวจ\nมีการกล่าวหาว่าอายาเบะเป็นคนลงมือ
+21-1471	sound_auth	This is the pretrial conference for that case.	นี่คือการประชุมเตรียม พิจารณาคดีนั้นเอง
+21-1472	sound_auth	This is the pretrial conference\nfor that case.	นี่คือการประชุมเตรียมพิจารณา\nคดีนั้นเอง
+21-1473	sound_auth	Basically, we sit in here and hammer out the flow of the trial.\nTry to keep things as simple as possible for the jury, y'know.	พูดง่ายๆ คือเรานั่งอยู่ตรงนี้เพื่อกำหนด ขั้นตอนของการพิจารณาคดี\nพยายามทำให้เรื่องเรียบง่าย ที่สุดสำหรับลูกขุนน่ะนะ
+21-1474	sound_auth	According to the law, both the prosecution and the defense\nhave to submit all their evidence before even going to court.	ตามกฎหมายแล้ว ทั้งฝ่ายอัยการและฝ่ายจำเลย\nต้องยื่นหลักฐานทั้งหมดก่อนจะ ขึ้นศาลด้วยซ้ำ
+21-1475	sound_auth	Both the prosecution and the defense have to submit\nall their evidence before even going to court.	ทั้งฝ่ายอัยการและฝ่ายจำเลยต้องยื่น\nหลักฐานทั้งหมดก่อนจะขึ้นศาลด้วยซ้ำ
+21-1476	sound_auth	You can't burst in mid-trial with\nnew info like they do in the movies.	จะพรวดพราดเข้ามากลางศาลพร้อม\nข้อมูลใหม่แบบในหนังมันทำไม่ได้หรอก
+21-1477	sound_auth	You can't burst in mid-trial with new info,\nlike they do in the movies.	จะพรวดพราดเข้ามากลางศาลพร้อม ข้อมูลใหม่\nแบบในหนังมันทำไม่ได้หรอก
+21-1478	sound_auth	In other words, we need to make sure all our cards\nare in order... then show the other side our hand.	พูดอีกอย่างคือเราต้องจัดไพ่ในมือ\nให้พร้อม... แล้วค่อยเปิดไพ่ให้อีกฝ่ายดู
+21-1479	sound_auth	We've been going in circles\nfor a while now.	เราวนกันอยู่แค่นี้\nมาพักใหญ่แล้ว
+21-1480	sound_auth	We've been going in circles for a while now.	เราวนกันอยู่แค่นี้มาพักใหญ่แล้ว
+21-1481	sound_auth	We'll never get anywhere like this.	แบบนี้ไม่มีทางไปถึงไหนหรอก
+21-1482	sound_auth	You say that, yes. But we're only trying\nto protect the defendant's best interests.	จะพูดแบบนั้นก็ได้ครับ แต่เราแค่พยายาม\nปกป้องผลประโยชน์ของจำเลยเท่านั้น
+21-1483	sound_auth	You say that, but we're only trying to protect\nthe defendant's best interests.	จะพูดแบบนั้นก็ได้ แต่เราแค่พยายามปกป้อง\nผลประโยชน์ของจำเลยเท่านั้น
+21-1484	sound_auth	The rifling marks on the bullet are\nunshakable proof of guilt.	รอยเกลียวปืนบนหัวกระสุนคือ\nหลักฐานความผิดที่ปฏิเสธไม่ได้
+21-1485	sound_auth	The rifling marks on the bullet\nare undeniable proof of guilt.	รอยเกลียวปืนบนหัวกระสุน\nคือหลักฐานความผิดที่ปฏิเสธไม่ได้
+21-1486	sound_auth	You really want to plead innocent\nwith such a severe disadvantage?	จะยืนกรานให้การว่าบริสุทธิ์\nทั้งที่เสียเปรียบขนาดนี้จริงๆ เหรอครับ?
+21-1487	sound_auth	You really want to plead innocent\nat that kind of disadvantage?	จะยืนกรานให้การว่าบริสุทธิ์\nทั้งที่เสียเปรียบขนาดนั้นจริงๆ เหรอ?
+21-1488	sound_auth	How does the defense respond? You can also bargain\nfor a lesser sentence if you so desire.	ฝ่ายจำเลยจะตอบว่ายังไง? หรือจะต่อรอง\nขอลดหย่อนโทษก็ได้ถ้าต้องการ
+21-1489	sound_auth	Your response? Remember that you can\nbargain for a lesser sentence.	ฝ่ายจำเลยจะตอบว่ายังไง? อย่าลืมว่า\nสามารถต่อรองขอลดหย่อนโทษได้
+21-1490	sound_auth	No, we still contend that Detective Ayabe\nwas set up. Our stance remains unchanged.	ไม่ครับ เรายังคงยืนยันว่านักสืบอายาเบะ\nถูกใส่ร้าย จุดยืนของเราไม่เปลี่ยนแปลง
+21-1491	sound_auth	No, we still contend that Detective Ayabe was set up.\nOur stance remains unchanged.	ไม่ครับ เรายังคงยืนยันว่านักสืบอายาเบะ ถูกใส่ร้าย\nจุดยืนของเราไม่เปลี่ยนแปลง
+21-1492	sound_auth	...Got it.	...รับทราบครับ
+21-1493	sound_auth	So it was Kuroiwa all along.	งั้นก็เป็นคุโรอิวะมาตลอดเลยสินะ
+21-1494	sound_auth	So it was Kuroiwa...\nHe's the Mole.	งั้นก็คุโรอิวะนี่เอง...\nเขาคือไส้ศึก
+21-1495	sound_auth	Everything makes sense now.	ตอนนี้ทุกอย่างเข้าเค้าหมดเลย
+21-1496	sound_auth	That explains a lot.	อธิบายได้หลายอย่างเลยจริงๆ
+21-1497	sound_auth	Were there ever any warning signs?	เคยมีสัญญาณเตือนอะไรบ้างไหมครับ?
+21-1498	sound_auth	This might have nothin' to do with it,\nbut I heard a story about the guy once.	อาจไม่เกี่ยวอะไรกันเลยก็ได้นะ\nแต่ผมเคยได้ยินเรื่องราวของเขา มาครั้งหนึ่ง
+21-1499	sound_auth	Back when he was startin' out, his boss on the force\nwas working as a Tojo Clan go-between on the side.	ตอนที่เขาเพิ่งเริ่มงาน หัวหน้าในกรมของเขา\nแอบทำหน้าที่เป็นคนกลางให้ ตระกูลโทโจไปด้วย
+21-1500	sound_auth	Back when Kuroiwa started out, his boss on the force\nhad a side job, too. Workin' as a Tojo Clan go-between.	ตอนที่คุโรอิวะเพิ่งเริ่มงาน หัวหน้าในกรมของเขา\nก็มีงานเสริมด้วยเหมือนกัน เป็นคนกลางให้ตระกูลโทโจ
+21-1501	sound_auth	In exchange for kickbacks and whores, of course.\nKinda shit you see every day in Kamurocho.	แลกกับเงินใต้โต๊ะกับผู้หญิงนั่นแหละ\nเรื่องแบบนี้เห็นกันจนชินตาในคามุโรโจ
+21-1502	sound_auth	In exchange for kickbacks and whores.\nKinda shit you see every day in Kamurocho.	แลกกับเงินใต้โต๊ะกับผู้หญิง\nเรื่องแบบนี้เห็นกันจนชินตาในคามุโรโจ
+21-1503	sound_auth	But one day, that boss went and threw himself off a roof.\nRight when they were gonna haul him in, too.	แต่วันหนึ่งหัวหน้าคนนั้นก็ กระโดดตึกตาย\nดันเป็นจังหวะที่กำลังจะถูกจับพอดี
+21-1504	sound_auth	But one day, that boss went and threw himself off a roof.\nRight when they were gonna arrest him.	แต่วันหนึ่งหัวหน้าคนนั้นก็ กระโดดตึกตาย\nดันเป็นจังหวะที่กำลังจะถูกจับกุมพอดี
+21-1505	sound_auth	Guess some goody two shoes on the force\nwent and ratted him out.	คงมีตำรวจใสซื่อในกรมสักคน\nแอบไปแฉเขาให้คนอื่นรู้
+21-1506	sound_auth	...Guess some hotshot on the force\nwent and ratted him out.　	...คงมีตำรวจฝีมือดีในกรมสักคน\nแอบไปแฉเขาให้คนอื่นรู้　
+21-1507	sound_auth	One of his own coworkers?\nWas it Kuroiwa?	เพื่อนร่วมงานของเขาเองงั้นเหรอ?\nเป็นคุโรอิวะหรือเปล่า?
+21-1508	sound_auth	One of his own coworkers betrayed him...?\nKuroiwa?	เพื่อนร่วมงานของเขาเองที่ทรยศเขา...?\nคุโรอิวะเหรอ?
+21-1509	sound_auth	Nope. Funny enough, they found the snitch\nwith a noose 'round his neck just a day later.	เปล่า ตลกร้ายตรงที่พอผ่านไปแค่วันเดียว\nก็เจอศพไอ้ตัวแฉแขวนคอตายพอดี
+21-1510	sound_auth	So it was a double suicide...?	งั้นก็ฆ่าตัวตายซ้อนสองศพเลยเหรอ...?
+21-1511	sound_auth	Oh... So it was a double suicide...?	อ้อ...งั้นก็ฆ่าตัวตายซ้อนสองศพเลยเหรอ...?
+21-1512	sound_auth	From what I've heard, it's possible\nthat hanging was actually a homicide.	เท่าที่ผมได้ยินมา เป็นไปได้ว่า\nการแขวนคอครั้งนั้นจริงๆ แล้วเป็นการฆาตกรรม
+21-1513	sound_auth	Some people think the hanging\nwas actually a homicide.	บางคนคิดว่าการแขวนคอครั้งนั้น\nจริงๆ แล้วเป็นการฆาตกรรม
+21-1514	sound_auth	Maybe, just maybe...\nSomeone wanted revenge on the snitch.	บางที บางทีนะ...\nอาจมีใครสักคนอยากแก้แค้นไอ้ตัว แฉก็ได้
+21-1515	sound_auth	Just maybe... someone wanted revenge\non the snitch.	บางทีนะ...อาจมีใครสักคนอยากแก้แค้น\nไอ้ตัวแฉก็ได้
+21-1516	sound_auth	After the dust cleared, a new dirty cop had risen\nfrom the ashes. With his boss's connections, and then some.	พอเรื่องซาลง ตำรวจสกปรกคนใหม่ก็ผงาด\nขึ้นมาแทน พร้อมคอนเนกชันของหัวหน้าเก่า แถมมากกว่าเดิมอีก
+21-1517	sound_auth	After that... a new dirty cop rose from the ashes.\nWith his boss's connections, and then some.	หลังจากนั้น...ตำรวจสกปรกคนใหม่ก็ผงาดขึ้นมา\nพร้อมคอนเนกชันของหัวหน้าเก่า แถมมากกว่าเดิมอีก
+21-1518	sound_auth	He's been in bed with the yakuza ever since.\nTurns out, this guy's our top detective, too.	เขาคบหากับยากูซ่ามาตั้งแต่ตอนนั้น\nที่น่าขำคือหมอนี่เป็นนักสืบ มือหนึ่งของเราด้วย
+21-1519	sound_auth	He's been in bed with the yakuza ever since.\nOn top of being our ace detective, too.	เขาคบหากับยากูซ่ามาตั้งแต่ตอนนั้น\nแถมยังเป็นนักสืบมือฉมังของเรา อีกต่างหาก
+21-1520	sound_auth	And you're saying that's Kuroiwa?	หมายความว่าคนนั้นคือคุโรอิวะเหรอครับ?
+21-1521	sound_auth	Hey, I'm just telling you what I heard.\nYou're the one who asked about warning signs.	เฮ้ ผมก็แค่เล่าสิ่งที่ได้ยินมาให้ฟัง\nนายเองที่ถามเรื่องสัญญาณเตือนนี่นา
+21-1522	sound_auth	That's just what I heard.\nYou asked about warning signs.	นั่นก็แค่สิ่งที่ผมได้ยินมา\nนายเองที่ถามเรื่องสัญญาณเตือน
+21-1523	sound_auth	Let's split up, Hoshino-kun. Sticking with me\nis just gonna put you in more danger.	แยกกันเถอะ โฮชิโนะคุง ถ้าติดอยู่กับผม\nมีแต่จะทำให้นายตกอยู่ในอันตราย มากขึ้น
+21-1524	sound_auth	We should probably split up. If you stick with me,\nyou'll just be in more danger.	เราน่าจะแยกกันดีกว่า ถ้านายติดอยู่กับผม\nก็มีแต่จะตกอยู่ในอันตรายมากขึ้น
+21-1525	sound_auth	Come on, I'll be fine.\nI'm not a little kid.	ไม่เอาน่าครับ ผมไม่เป็นไรหรอก\nผมไม่ใช่เด็กเล็กๆ นะ

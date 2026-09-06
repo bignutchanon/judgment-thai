@@ -1,0 +1,836 @@
+id	bin	EN	TH
+35-0001	continue_info_tips_condition	Take your picture at just the right moment in order to satisfy all the objectives.\nThese objectives will be displayed on the right side of the screen.\nMake sure all the objectives are checked off before you take the shot.	ถ่ายภาพในจังหวะที่เหมาะสม ที่สุดเพื่อให้ตรงตามภารกิจ ทั้งหมด\nภารกิจเหล่านี้จะแสดงอยู่ด้านขวาของจอ\nตรวจสอบให้แน่ใจว่าภารกิจ ทั้งหมดถูกเช็คครบก่อนกดถ่าย
+35-0002	continue_info_tips_condition	"CAUTION" will display onscreen whenever an enemy targets your drone.\nQuickly maneuver your drone to avoid incoming attacks whenever you see this appear.	"CAUTION" จะแสดงบนจอทุกครั้งที่ศัตรูล็อก เป้าโดรนของคุณ\nรีบบังคับโดรนหลบทันทีเมื่อเห็น ข้อความนี้ขึ้นมาเพื่อ เลี่ยงการโจมตีที่กำลังจะมาถึง
+35-0003	continue_info_tips_condition	Successfully pick the lock within the time limit. Lifting a pin too high may reset all the work you've done so far, so be sure to move the pins delicately.	งัดกุญแจให้สำเร็จภายในเวลาที่กำหนด การยกลูกล็อกสูงเกินไปอาจทำให้ ความคืบหน้าที่ทำมาทั้งหมด รีเซ็ต ดังนั้นต้องขยับลูกล็อกอย่าง ระมัดระวัง
+35-0004	continue_info_tips_condition	Matsugane is more frail than you. Prioritize helping him, especially if he gets surrounded.	มัตสึกาเนะอ่อนแอกว่าคุณ ให้ความสำคัญกับการช่วยเหลือเขาก่อน โดยเฉพาะเมื่อเขาถูกล้อม
+35-0005	continue_info_tips_condition	When battles are timed, you've got to make the most of your damage. Remember that the Tiger Style has single, high-powered attacks, while the Crane Style can deal with large enemy groups effectively. Moreover, EX Actions pause the timer, so use them liberally.	เมื่อการต่อสู้มีเวลาจำกัด คุณต้องสร้างความเสียหายให้ได้ มากที่สุด อย่าลืมว่าท่าเสือมีท่าโจมตี เดี่ยวพลังสูง ส่วนท่ากระเรียนรับมือศัตรู กลุ่มใหญ่ได้อย่างมีประสิทธิภาพ นอกจากนี้ EX Action ยังหยุดเวลาไว้ชั่วคราวด้วย ดังนั้นใช้มันได้อย่างไม่ต้องเสียดาย
+35-0006	continue_info_tips_condition	Mafuyu isn't used to combat and will go down quickly. Prioritize helping her, especially when she's surrounded.	มาฟุยุไม่คุ้นกับการต่อสู้และจะ ล้มได้ง่าย ให้ความสำคัญกับการช่วยเหลือเธอก่อน โดยเฉพาะเมื่อเธอถูกล้อม
+35-0007	continue_info_tips_condition	Let your EX Gauge charge. EX Actions deal an incredible amount of damage and can be valuable in a pinch.	ปล่อยให้เกจ EX ชาร์จไปเรื่อย ๆ EX Action สร้างความเสียหายมหาศาลและมีค่า มากเวลาตกที่นั่งลำบาก
+35-0008	continue_info_tips_condition	Use a recovery item when your health runs low. You can set them to a shortcut or navigate to them through the Items app.	ใช้ไอเทมฟื้นฟูเมื่อพลังชีวิตต่ำ คุณตั้งเป็นทางลัดหรือเข้าไป เลือกผ่านแอปไอเทมก็ได้
+35-0009	continue_info_tips_condition	Improve your skills through the Skills App by using SP. This should help give you an edge in battle.	พัฒนาทักษะของคุณผ่านแอปทักษะโดยใช้ SP วิธีนี้จะช่วยให้คุณได้เปรียบใน การต่อสู้
+35-0010	continue_info_tips_condition	The Tiger Style is better suited to single, powerful foes. Unlike Crane, it can not only break enemy guards, but also makes you less likely to falter when blocked. It also contains some of your most powerful skills.	ท่าเสือเหมาะกับศัตรูเดี่ยวที่ทรงพลัง ต่างจากท่ากระเรียนตรงที่นอกจาก จะทลายการ์ดศัตรูได้แล้ว ยังทำให้คุณเซถอยจากการโดนบล็อก ได้ยากขึ้นด้วย และยังมีทักษะทรงพลังที่สุด บางส่วนของคุณอยู่ในนี้ด้วย
+35-0011	continue_info_tips_condition	The Tiger Style is better suited to single, powerful foes. To avoid Deadly Attacks, note that the enemy will be enveloped with an intense aura, and use wall kicks or EX Boosts to maximize your effectiveness against them.	ท่าเสือเหมาะกับศัตรูเดี่ยวที่ทรงพลัง เพื่อหลบการโจมตีร้ายแรง ให้สังเกตว่าศัตรูจะถูกห่อหุ้ม ด้วยออร่าที่รุนแรง แล้วใช้การกระโดดกำแพงหรือ EX Boost เพื่อรับมือกับพวกมันให้ได้ผลที่สุด
+35-0012	minigame_cabaret_island_coordinate_makeup_category	Eyebrows	คิ้ว
+35-0013	minigame_cabaret_island_coordinate_makeup_category	Change eyebrow shape and color.	เปลี่ยนทรงและสีคิ้ว
+35-0014	minigame_cabaret_island_coordinate_makeup_category	Change eyebrow color.	เปลี่ยนสีคิ้ว
+35-0015	minigame_cabaret_island_coordinate_makeup_category	Eyelashes	ขนตา
+35-0016	minigame_cabaret_island_coordinate_makeup_category	Change eyelash shape and color.	เปลี่ยนทรงและสีขนตา
+35-0017	minigame_cabaret_island_coordinate_makeup_category	Change eyelash color.	เปลี่ยนสีขนตา
+35-0018	minigame_cabaret_island_coordinate_makeup_category	Eyeliner	อายไลเนอร์
+35-0019	minigame_cabaret_island_coordinate_makeup_category	Change eyeliner style and color.	เปลี่ยนสไตล์และสีอายไลเนอร์
+35-0020	minigame_cabaret_island_coordinate_makeup_category	Change eyeliner color.	เปลี่ยนสีอายไลเนอร์
+35-0021	minigame_cabaret_island_coordinate_makeup_category	Eye Shadow	อายแชโดว์
+35-0022	minigame_cabaret_island_coordinate_makeup_category	Change eye shadow.	เปลี่ยนอายแชโดว์
+35-0023	minigame_cabaret_island_coordinate_makeup_category	Change eye shadow color.	เปลี่ยนสีอายแชโดว์
+35-0024	minigame_cabaret_island_coordinate_makeup_category	Color Contacts	คอนแทคเลนส์สี
+35-0025	minigame_cabaret_island_coordinate_makeup_category	Change contacts.	เปลี่ยนคอนแทคเลนส์
+35-0026	minigame_cabaret_island_coordinate_makeup_category	Change contact color.	เปลี่ยนสีคอนแทคเลนส์
+35-0027	minigame_cabaret_island_coordinate_makeup_category	Cheeks	แก้ม
+35-0028	minigame_cabaret_island_coordinate_makeup_category	Change cheek.	เปลี่ยนปัดแก้ม
+35-0029	minigame_cabaret_island_coordinate_makeup_category	Change cheek color.	เปลี่ยนสีปัดแก้ม
+35-0030	minigame_cabaret_island_coordinate_makeup_category	Lips	ริมฝีปาก
+35-0031	minigame_cabaret_island_coordinate_makeup_category	Change lip.	เปลี่ยนลิปสติก
+35-0032	minigame_cabaret_island_coordinate_makeup_category	Change lip color.	เปลี่ยนสีลิปสติก
+35-0033	minigame_cabaret_island_coordinate_makeup_category	Hair	ผม
+35-0034	minigame_cabaret_island_coordinate_makeup_category	Change hair style.	เปลี่ยนทรงผม
+35-0035	minigame_cabaret_island_coordinate_makeup_category	Change hair color.	เปลี่ยนสีผม
+35-0036	message_dialog	Continue?	เล่นต่อไหม?
+35-0037	message_dialog	ok	ตกลง
+35-0038	message_dialog	Not enough free space.	พื้นที่ว่างไม่พอ
+35-0039	message_dialog	No new updates found.	ไม่พบอัปเดตใหม่
+35-0040	message_dialog	Update has been canceled.	ยกเลิกการอัปเดตแล้ว
+35-0041	message_dialog	A problem has occurred with the trophy.	เกิดปัญหากับถ้วยรางวัล
+35-0042	message_dialog	Failed to obtain the trophy.	รับถ้วยรางวัลไม่สำเร็จ
+35-0043	message_dialog	An error has occurred.	เกิดข้อผิดพลาด
+35-0044	message_dialog	Please use only full-width characters.	กรุณาใช้อักขระเต็มความกว้างเท่านั้น
+35-0045	message_dialog	Cannot input anything other than half-width numerals.	ใส่ได้เฉพาะตัวเลขครึ่งความ กว้างเท่านั้น
+35-0046	message_dialog	You may only use 0-9, a-z, and A-Z.	ใช้ได้เฉพาะ 0-9, a-z และ A-Z เท่านั้น
+35-0047	message_dialog	You may only use 0-9 , a-z, A-Z, and -,_.	ใช้ได้เฉพาะ 0-9, a-z, A-Z และ -,_ เท่านั้น
+35-0048	message_dialog	There is not enough free space in system storage.\n\nTo free up space without quitting the game, delete applications from the home screen or delete video clips or screenshots from the Capture Gallery.	พื้นที่ว่างในที่จัดเก็บของระบบไม่พอ\n\nหากต้องการเพิ่มพื้นที่โดยไม่ ออกจากเกม ให้ลบแอปจากหน้าโฮม หรือลบคลิปวิดีโอหรือภาพหน้าจอจาก Capture Gallery
+35-0049	message_dialog	There is not enough free space in system storage.	พื้นที่ว่างในที่จัดเก็บของระบบไม่พอ
+35-0050	message_dialog	There is not enough free space.	พื้นที่ว่างไม่พอ
+35-0051	message_dialog	Press the A button to resume the game.	กดปุ่ม A เพื่อเล่นเกมต่อ
+35-0052	message_dialog	Profile has changed. Returning to title screen.	โปรไฟล์เปลี่ยนไปแล้ว กำลังกลับสู่หน้าจอไตเติล
+35-0053	message_dialog	No controller is connected. Please connect a controller and press the A button.	ยังไม่ได้เชื่อมต่อคอนโทรลเลอร์ กรุณาเชื่อมต่อคอนโทรลเลอร์แล้วกดปุ่ม A
+35-0054	message_dialog	You have been signed out. If you want to continue where you left off, please choose the same profile as before.	คุณถูกออกจากระบบแล้ว หากต้องการเล่นต่อจากที่ค้างไว้ กรุณาเลือกโปรไฟล์เดิม
+35-0055	message_dialog	Please press a button on the controller you would like to use as the second controller.	กรุณากดปุ่มบนคอนโทรลเลอร์ที่ ต้องการใช้ เป็นเครื่องที่สอง
+35-0056	message_dialog	Controller 1 is not connected. Please press a button on the controller you would like to use.	ยังไม่ได้เชื่อมต่อคอนโทรลเลอร์ 1 กรุณากดปุ่มบนคอนโทรลเลอร์ที่ ต้องการใช้
+35-0057	message_dialog	Controller 2 is not connected. Please press a button on the controller you would like to use.	ยังไม่ได้เชื่อมต่อคอนโทรลเลอร์ 2 กรุณากดปุ่มบนคอนโทรลเลอร์ที่ ต้องการใช้
+35-0058	verification_survey	The Corpse's Eyes	ดวงตาของศพ
+35-0059	verification_survey	Trash Bag	ถุงขยะ
+35-0060	verification_survey	Ground with No Traces of Blood	พื้นดินที่ไม่มีร่องรอยเลือด
+35-0061	verification_survey	Pants Pockets	กระเป๋ากางเกง
+35-0062	verification_survey	Punk	พังก์
+35-0063	verification_survey	Current Area	พื้นที่ปัจจุบัน
+35-0064	verification_survey	Around the Hospital Wing	บริเวณตึกโรงพยาบาล
+35-0065	verification_survey	Around the Underground Parking Lot	บริเวณลานจอดรถใต้ดิน
+35-0066	verification_survey	Around Kido's Office	บริเวณห้องทำงานของคิโดะ
+35-0067	verification_survey	Around the Research Wing	บริเวณตึกฝ่ายวิจัย
+35-0068	verification_survey	Around the Research Wing Entrance	บริเวณทางเข้าตึกฝ่ายวิจัย
+35-0069	verification_survey	Around the Hospital Wing Entrance	บริเวณทางเข้าตึกโรงพยาบาล
+35-0070	verification_survey	Panty Professor's Turf	ถิ่นของศาสตราจารย์กางเกงใน
+35-0071	verification_survey	Ass Catchem's Turf	ถิ่นของจอมจับตูด
+35-0072	verification_survey	Judge Creep 'n Peep's Turf	ถิ่นของผู้พิพากษาจอมถ้ำมอง
+35-0073	verification_survey	Locked Window	หน้าต่างที่ล็อกอยู่
+35-0074	verification_survey	Wet Sink	อ่างล้างจานที่เปียก
+35-0075	verification_survey	Locked Front Door	ประตูหน้าที่ล็อกอยู่
+35-0076	verification_survey	Woman's Earring	ต่างหูของผู้หญิง
+35-0077	verification_survey	Time of Day	เวลาของวัน
+35-0078	verification_survey	Azusa Otaki?	อาซึสะ โอทากิ?
+35-0079	verification_survey	Shuttered Window	หน้าต่างบานเกล็ดปิด
+35-0080	minigame_cabaret_island_coordinate_accessory_category	Hair Accessories	เครื่องประดับผม
+35-0081	minigame_cabaret_island_coordinate_accessory_category	Change hair accessory.	เปลี่ยนเครื่องประดับผม
+35-0082	minigame_cabaret_island_coordinate_accessory_category	Glasses	แว่นตา
+35-0083	minigame_cabaret_island_coordinate_accessory_category	Change glasses.	เปลี่ยนแว่นตา
+35-0084	minigame_cabaret_island_coordinate_accessory_category	Earrings	ต่างหู
+35-0085	minigame_cabaret_island_coordinate_accessory_category	Change earrings.	เปลี่ยนต่างหู
+35-0086	minigame_cabaret_island_coordinate_accessory_category	Necklaces	สร้อยคอ
+35-0087	minigame_cabaret_island_coordinate_accessory_category	Change necklace.	เปลี่ยนสร้อยคอ
+35-0088	minigame_cabaret_island_coordinate_accessory_category	Nails	เล็บ
+35-0089	minigame_cabaret_island_coordinate_accessory_category	Change nail style.	เปลี่ยนสไตล์เล็บ
+35-0090	minigame_cabaret_island_coordinate_accessory_category	Rings	แหวน
+35-0091	minigame_cabaret_island_coordinate_accessory_category	Change ring.	เปลี่ยนแหวน
+35-0092	minigame_cabaret_island_coordinate_accessory_category	Wristwatch	นาฬิกา
+35-0093	minigame_cabaret_island_coordinate_accessory_category	Change watch.	เปลี่ยนนาฬิกา
+35-0094	minigame_cabaret_island_coordinate_accessory_category	Bracelets	สร้อยข้อมือ
+35-0095	minigame_cabaret_island_coordinate_accessory_category	Change bracelet.	เปลี่ยนสร้อยข้อมือ
+35-0096	minigame_cabaret_island_coordinate_accessory_category	Perfumes	น้ำหอม
+35-0097	minigame_cabaret_island_coordinate_accessory_category	Change perfume.	เปลี่ยนน้ำหอม
+35-0098	minigame_cabaret_island_coordinate_accessory_category	Dresses	ชุดเดรส
+35-0099	minigame_cabaret_island_coordinate_accessory_category	Change dress.	เปลี่ยนชุดเดรส
+35-0100	minigame_cabaret_island_coordinate_accessory_category	Change dress color.	เปลี่ยนสีชุดเดรส
+35-0101	minigame_sugoroku_sugoroku_event_rule	Defeat the enemy.	เอาชนะศัตรู
+35-0102	minigame_sugoroku_sugoroku_event_rule	Destroy everything in sight.	ทำลายทุกอย่างที่เห็น
+35-0103	minigame_sugoroku_sugoroku_event_rule	Defeat the enemy within time limit.	เอาชนะศัตรูภายในเวลาที่กำหนด
+35-0104	minigame_sugoroku_sugoroku_event_rule	Fight using only Crane Style.	ต่อสู้โดยใช้ท่ากระเรียนเท่านั้น
+35-0105	minigame_sugoroku_sugoroku_event_rule	Fight using only Tiger Style.	ต่อสู้โดยใช้ท่าเสือเท่านั้น
+35-0106	minigame_sugoroku_sugoroku_event_rule	Fight using a bat.	ต่อสู้โดยใช้ไม้เบสบอล
+35-0107	minigame_sugoroku_sugoroku_event_rule	Fight while weakened.	ต่อสู้ขณะอ่อนแรง
+35-0108	minigame_sugoroku_sugoroku_event_rule	Land a hit on the enemy.	โจมตีศัตรูให้โดนสักครั้ง
+35-0109	minigame_sugoroku_sugoroku_event_rule	Evade the enemy's attacks.	หลบการโจมตีของศัตรู
+35-0110	minigame_sugoroku_sugoroku_event_rule	Defeat the enemy drone.	เอาชนะโดรนศัตรู
+35-0111	minigame_sugoroku_sugoroku_event_rule	Fight using a sword.	ต่อสู้โดยใช้ดาบ
+35-0112	minigame_sugoroku_sugoroku_event_rule	Fight using a railgun.	ต่อสู้โดยใช้ปืนรางแม่เหล็ก
+35-0113	minigame_sugoroku_sugoroku_event_rule	Fight using a golf club.	ต่อสู้โดยใช้ไม้กอล์ฟ
+35-0114	minigame_sugoroku_sugoroku_event_rule	Fight using a tonfa.	ต่อสู้โดยใช้ทงฟา
+35-0115	minigame_sugoroku_sugoroku_event_rule	Fight using nunchaku.	ต่อสู้โดยใช้นันชาคุ
+35-0116	minigame_sugoroku_sugoroku_event_rule	Fight using a double stick.	ต่อสู้โดยใช้ดับเบิลสติก
+35-0117	minigame_sugoroku_sugoroku_event_rule	Defeat enemies that can leave mortal wounds.	เอาชนะศัตรูที่สร้างบาดแผลร้ายแรงได้
+35-0118	minigame_sugoroku_sugoroku_event_rule	Fight to regain your stolen items.	ต่อสู้เพื่อเอาไอเทมที่ถูกขโมยคืนมา
+35-0119	minigame_sugoroku_sugoroku_event_rule	Destroy objects to gain a bonus.	ทำลายสิ่งของเพื่อรับโบนัส
+35-0120	minigame_sugoroku_sugoroku_event_rule	Unleash as many attacks as possible to gain a bonus.	ปล่อยการโจมตีให้ได้มากที่สุด เพื่อรับโบนัส
+35-0121	minigame_sugoroku_sugoroku_event_rule	Fight using a spear.	ต่อสู้โดยใช้หอก
+35-0122	pause_camera_filter	Monochrome	โมโนโครม
+35-0123	pause_camera_filter	Toy	ทอย
+35-0124	pause_camera_filter	Sepia	ซีเปีย
+35-0125	pause_camera_filter	Noir	นัวร์
+35-0126	pause_camera_filter	Cheery	ชีรี
+35-0127	pause_camera_filter	Hellscape	เฮลสเคป
+35-0128	pause_camera_filter	Red Blues	เรดบลูส์
+35-0129	pause_camera_filter	Verdant	เวอร์แดนต์
+35-0130	pause_camera_filter	Ruby	รูบี้
+35-0131	pause_camera_filter	Peridot	เพอริดอต
+35-0132	pause_camera_filter	Sapphire	แซฟไฟร์
+35-0133	pause_camera_filter	Nostalgic	นอสแทลจิก
+35-0134	pause_camera_filter	Dawn	ดอว์น
+35-0135	pause_camera_filter	Sunset	ซันเซ็ต
+35-0136	pause_camera_filter	Smokey	สโมกกี้
+35-0137	pause_camera_filter	Moody	มู้ดดี้
+35-0138	pause_camera_filter	Emotional	อีโมชันแนล
+35-0139	pause_camera_filter	Ice Cold	ไอซ์โคลด์
+35-0140	pause_camera_filter	Scorching	สกอร์ชิง
+35-0141	pause_camera_filter	Lemon	เลมอน
+35-0142	pause_camera_filter	2bit Retro	เรโทร 2 บิต
+35-0143	drone_course	1. Simple Road	1. ถนนธรรมดา
+35-0144	drone_course	A standard oval circuit. Stick close to the curves to lower your overall race time.	สนามวงรีมาตรฐาน เกาะโค้งให้ชิดเพื่อลดเวลา การแข่งขันโดยรวม
+35-0145	drone_course	2. Wide Way	2. เส้นทางกว้าง
+35-0146	drone_course	This wide-open course is great for building up speed and zipping through at high velocity.	สนามโล่งกว้างนี้เหมาะกับการ เร่งความเร็วและพุ่งทะยาน ด้วยความเร็วสูง
+35-0147	drone_course	3. Northern Canyon	3. แคนยอนเหนือ
+35-0148	drone_course	A course that cuts through the Millennium Tower on the north side of town. Prepare for steep climbs and sharp drops.	สนามที่ตัดผ่าน มิลเลนเนียมทาวเวอร์ทางฝั่ง เหนือของเมือง เตรียมรับมือทางชันขึ้นและดิ่ง ลงกะทันหัน
+35-0149	drone_course	4. Breakthrough Cafe	4. คาเฟ่ทะลวง
+35-0150	drone_course	A course that starts in Little Asia and ends in M Side Cafe. Make sure you know when to brake, as the pathways get tricky toward the end.	สนามที่เริ่มจากลิตเติลเอเชียไป จบที่เอ็ม ไซด์ คาเฟ่ ต้องรู้จังหวะเบรกให้ดี เพราะเส้นทางช่วงท้ายซับซ้อนขึ้นมาก
+35-0151	drone_course	5. Pipeline	5. ไปป์ไลน์
+35-0152	drone_course	A grueling course full of long, narrow paths. Avoiding obstacles is key to survival.	สนามโหดที่เต็มไปด้วยทางแคบยาว การหลบสิ่งกีดขวางคือกุญแจสำคัญ ที่จะรอดให้ถึงเส้นชัย
+35-0153	drone_course	6. Simple Road (Reverse)	6. ถนนธรรมดา (ย้อนกลับ)
+35-0154	drone_course	The reversed version of Simple Road. Make sure to hit all the Boost Points to build up to maximum speed.	เวอร์ชันย้อนกลับของถนนธรรมดา อย่าลืมผ่านจุดเร่งความเร็วให้ ครบเพื่อไต่ไปถึงความเร็วสูงสุด
+35-0155	drone_course	7. Wide Way (Reverse)	7. เส้นทางกว้าง (ย้อนกลับ)
+35-0156	drone_course	The reversed version of Wide Way. The roads are wide open and the course is mostly straight, so your machine's overall speed is the most important aspect here.	เวอร์ชันย้อนกลับของเส้นทางกว้าง ถนนโล่งกว้างและเกือบจะเป็น ทางตรงตลอดสาย ความเร็วสูงสุดของเครื่องคือ สิ่งสำคัญที่สุดในสนามนี้
+35-0157	drone_course	8. Northern Canyon (Reverse)	8. แคนยอนเหนือ (ย้อนกลับ)
+35-0158	drone_course	The reversed version of Northern Canyon. Swerving in and out of Millennium Tower will be your biggest challenge here.	เวอร์ชันย้อนกลับของแคนยอนเหนือ การหลบเลี้ยวเข้าออก มิลเลนเนียมทาวเวอร์คือความ ท้าทาย ที่สุดของสนามนี้
+35-0159	drone_course	9. Breakthrough Cafe (Reverse)	9. คาเฟ่ทะลวง (ย้อนกลับ)
+35-0160	drone_course	The reversed version of Breakthrough Cafe. Features many narrow passages that are difficult to navigate, even for experienced racers.	เวอร์ชันย้อนกลับของคาเฟ่ทะลวง เต็มไปด้วยทางแคบที่ขับยาก แม้แต่นักแข่งมือฉมังก็ยังหืดขึ้นคอ
+35-0161	drone_course	10. Pipeline (Reverse)	10. ไปป์ไลน์ (ย้อนกลับ)
+35-0162	drone_course	A no-mercy, no Boost Points reversal of Pipeline. This brutal course takes every ounce of skill the racer has in order to reach the finish line.	เวอร์ชันย้อนกลับของไปป์ไลน์ที่ ไร้ความปรานีและไม่มี จุดเร่งความเร็วเลย สนามโหดนี้ต้องใช้ฝีมือทุก กระเบียดนิ้วของนักแข่งเพื่อ ไปให้ถึงเส้นชัย
+35-0163	tips	Difficulty has been reverted.	ปรับความยากกลับสู่ค่าเดิมแล้ว
+35-0164	tips	The Fun Never Stops!	ความสนุกไม่มีวันหยุด!
+35-0165	tips	Make It Feel Like Home	ทำให้ที่นี่รู้สึกเหมือนบ้าน
+35-0166	tips	Managing Your Case File	การจัดการแฟ้มคดี
+35-0167	tips	Changing the Time of Day	การเปลี่ยนเวลากลางวัน/กลางคืน
+35-0168	tips	Attacking Enemies	การโจมตีศัตรู
+35-0169	tips	Entering a Fighting Stance / Focusing on a Target	การเข้าท่าต่อสู้ / การโฟกัสเป้าหมาย
+35-0170	tips	Evading Attacks with Quickstep	หลบการโจมตีด้วยควิกสเต็ป
+35-0171	tips	Upgrading Abilities	การอัปเกรดความสามารถ
+35-0172	tips	Extracts and Shortcuts	สารสกัดและทางลัด
+35-0173	tips	Improve Your Skills	พัฒนาทักษะของคุณ
+35-0174	tips	Update Your Records	อัปเดตบันทึกของคุณ
+35-0175	tips	Earn Rewards on the Go	รับรางวัลระหว่างเดินทาง
+35-0176	tips	The Importance of Regular Meals	ความสำคัญของการกินอาหารให้ตรงเวลา
+35-0177	tips	Pros and Cons of Getting Drunk	ข้อดีข้อเสียของการเมาเหล้า
+35-0178	tips	Valuable Information	ข้อมูลของมีค่า
+35-0179	tips	The Hottest Spots in Town	จุดฮอตที่สุดในเมือง
+35-0180	tips	Broaden Your Scope	ขยายขอบเขตการสำรวจของคุณ
+35-0181	tips	Deliver the Extract and Add It to Your Recipes	ส่งมอบสารสกัดเพื่อเพิ่มลงใน สูตรของคุณ
+35-0182	tips	When the Going Gets Tough	ยามยากลำบาก
+35-0183	qsearch_search	Aragaki	อารากากิ
+35-0184	qsearch_search	All	ทั้งหมด
+35-0185	qsearch_search	Aragaki, Club Amour	อารากากิ, คลับอามูร์
+35-0186	qsearch_search	Today	วันนี้
+35-0187	qsearch_search	Stardust, Seiya　	สตาร์ดัสต์, เซยะ　
+35-0188	qsearch_search	Stardust, Seiya, play	สตาร์ดัสต์, เซยะ, เล่น
+35-0189	qsearch_search	Stardust, Seiya, food	สตาร์ดัสต์, เซยะ, อาหาร
+35-0190	qsearch_search	Stardust, Seiya, date	สตาร์ดัสต์, เซยะ, เดต
+35-0191	qsearch_search	Last 15 minutes	15 นาทีล่าสุด
+35-0192	qsearch_search	Limited sweets	ขนมหวานลิมิเต็ด
+35-0193	qsearch_search	Limited sweets, matcha	ขนมหวานลิมิเต็ด, มัทฉะ
+35-0194	qsearch_search	Limited sweets, red bean	ขนมหวานลิมิเต็ด, ถั่วแดง
+35-0195	qsearch_search	Limited sweets, Saori	ขนมหวานลิมิเต็ด, ซาโอริ
+35-0196	qsearch_search	Limited sweets, open	ขนมหวานลิมิเต็ด, เปิด
+35-0197	qsearch_search	Limited sweets, open, Kamurocho	ขนมหวานลิมิเต็ด, เปิด, คามุโรโจ
+35-0198	qsearch_search	Wild Jackson, chicken	ไวลด์แจ็คสัน, ไก่
+35-0199	qsearch_search	Wild Jackson, scandal	ไวลด์แจ็คสัน, เรื่องอื้อฉาว
+35-0200	qsearch_search	Wild Jackson, specials	ไวลด์แจ็คสัน, เมนูพิเศษ
+35-0201	qsearch_search	Wild Jackson, tastes like ass	ไวลด์แจ็คสัน, รสชาติแย่มาก
+35-0202	sound_auth_subtitles_speech_list_sub_a14	Hello, Mr. Kiryu.	สวัสดีครับ คุณคิริว
+35-0203	sound_auth_subtitles_speech_list_sub_a14	So we meet again.	แล้วเราก็ได้พบกันอีกครั้ง
+35-0204	sound_auth_subtitles_speech_list_sub_a14	I've heard a lot about you lately, Kiryu-san.	ช่วงนี้ผมได้ยินเรื่องคุณมาเยอะเลย คุณคิริว
+35-0205	sound_auth_subtitles_speech_list_sub_a14	It seems you've become the best darts player in town.	ดูเหมือนคุณจะกลายเป็นนักดาร์ทที่เก่ง ที่สุดในเมืองนี้แล้วนะ
+35-0206	sound_auth_subtitles_speech_list_sub_a14	I think we could have a pretty good match, Kiryu-san.	ผมคิดว่าเราน่าจะแข่งกันได้สนุก ทีเดียวนะ คุณคิริว
+35-0207	sound_auth_subtitles_speech_list_sub_a14	Would you like to play against me?	อยากจะแข่งกับผมไหมครับ?
+35-0208	sound_auth_subtitles_speech_list_sub_a14	Yes!\nCome on!	ได้เลย!\nมาสิ!
+35-0209	sound_auth_subtitles_speech_list_sub_a14	Oh......	โอ้...
+35-0210	sound_auth_subtitles_speech_list_sub_a14	I'll be here a while.	ผมจะอยู่ที่นี่สักพักนะ
+35-0211	sound_auth_subtitles_speech_list_sub_a14	If you're feeling up to the challenge, come see me.	ถ้าพร้อมจะท้าทาย ก็มาหาผมได้เลย
+35-0212	sound_auth_subtitles_speech_list_sub_a14	Hello, Kiryu-san. \nAre you ready to challenge me?	สวัสดีครับ คุณคิริว\nพร้อมจะท้าผมหรือยัง?
+35-0213	sound_auth_subtitles_speech_list_sub_a14	Oh my God......!	โอ้พระเจ้า...!
+35-0214	sound_auth_subtitles_speech_list_sub_a14	Thank you, Mr. Kiryu.\nYou are a very, very good player!!	ขอบคุณครับ คุณคิริว\nคุณเป็นนักเล่นที่เก่งมากๆเลย!!
+35-0215	sound_auth_subtitles_speech_list_sub_a14	I appreciated the match.\nI'd like you to have this.	ขอบคุณสำหรับการแข่งนะครับ\nอยากให้คุณรับสิ่งนี้ไว้
+35-0216	sound_auth_subtitles_speech_list_sub_a14	I really enjoyed challenging you, Kiryu-san.	ผมสนุกกับการท้าแข่งคุณมากเลยครับ คุณคิริว
+35-0217	sound_auth_subtitles_speech_list_sub_a14	I'll play you again whenever you feel up to it.	เมื่อไหร่ที่คุณพร้อม ผมจะแข่งกับคุณอีกครั้งนะ
+35-0218	sound_auth_subtitles_speech_list_sub_a14	Oh, OK?	โอ้ โอเคเหรอ?
+35-0219	sound_auth_subtitles_speech_list_sub_a14	Well then, Kiryu-san. I hope we get to enjoy another game! Hahaha!	งั้นก็แล้วกันนะ คุณคิริว ผมหวังว่าเราจะได้เล่นกันอีกครั้ง! ฮ่าฮ่าฮ่า!
+35-0220	sound_auth_subtitles_speech_list_sub_a14	Hello, Kiryu-san. \nWould you like to challenge me to a match?	สวัสดีครับ คุณคิริว\nอยากท้าผมแข่งไหม?
+35-0221	minigame_batting_center_message	Hit	ตี
+35-0222	minigame_batting_center_message	${residue_num} balls remaining	เหลืออีก ${residue_num} ลูก
+35-0223	minigame_batting_center_message	Closed	ปิด
+35-0224	minigame_batting_center_message	Course	คอร์ส
+35-0225	minigame_batting_center_message	<color=${pitch_color}>${type_of_pitch}</color>　${speed} km/h	<color=${pitch_color}>${type_of_pitch}</color>　${speed} กม./ชม.
+35-0226	minigame_batting_center_message	pts.	แต้ม
+35-0227	minigame_batting_center_message	Home Runs	โฮมรัน
+35-0228	minigame_batting_center_message	Challenge Course	คอร์สท้าทาย
+35-0229	minigame_batting_center_message	Home Run Course	คอร์สโฮมรัน
+35-0230	minigame_batting_center_message	Clear	ผ่าน
+35-0231	minigame_batting_center_message	Failed	ล้มเหลว
+35-0232	minigame_batting_center_message	 sets	 เซต
+35-0233	minigame_batting_center_message	 pts	 แต้ม
+35-0234	minigame_batting_center_message	Normal Bat	ไม้เบสบอลธรรมดา
+35-0235	minigame_batting_center_message	Serene Bat	ไม้เบสบอลซีรีน
+35-0236	minigame_batting_center_message	Expert Bat	ไม้เบสบอลเซียน
+35-0237	minigame_batting_center_message	 times	 ครั้ง
+35-0238	minigame_batting_center_message	You've cleared all the Expert courses!\nTalk to Yoshida to attempt the ultimate\nchallenge in the Home Run Competition!	คุณผ่านคอร์สระดับเซียนครบหมดแล้ว!\nคุยกับโยชิดะเพื่อทดลอง\nท้าทายขั้นสูงสุดในการแข่งขันโฮมรัน!
+35-0239	minigame_batting_center_type_of_pitch	Fastball	ฟาสต์บอล
+35-0240	minigame_batting_center_type_of_pitch	Two-seam	ทูซีม
+35-0241	minigame_batting_center_type_of_pitch	One-seam	วันซีม
+35-0242	minigame_batting_center_type_of_pitch	Slider	สไลเดอร์
+35-0243	minigame_batting_center_type_of_pitch	Cutter	คัตเตอร์
+35-0244	minigame_batting_center_type_of_pitch	Curveball	เคิร์ฟบอล
+35-0245	minigame_batting_center_type_of_pitch	Forkball	ฟอร์กบอล
+35-0246	minigame_batting_center_type_of_pitch	Splitter	สปลิตเตอร์
+35-0247	minigame_batting_center_type_of_pitch	Change-up	เชนจ์อัพ
+35-0248	minigame_batting_center_type_of_pitch	Sinker	ซิงเกอร์
+35-0249	minigame_batting_center_type_of_pitch	Screwball	สกรูบอล
+35-0250	minigame_batting_center_type_of_pitch	Gyroball	ไจโรบอล
+35-0251	minigame_batting_center_type_of_pitch	Soaring Eagle	อินทรีทะยาน
+35-0252	minigame_batting_center_type_of_pitch	Drop	ดรอป
+35-0253	minigame_batting_center_type_of_pitch	Hard Slider	ฮาร์ดสไลเดอร์
+35-0254	minigame_batting_center_type_of_pitch	Power Slider	เพาเวอร์สไลเดอร์
+35-0255	minigame_batting_center_type_of_pitch	Knuckleball	นัคเคิลบอล
+35-0256	pause_message_person	Learning how to cook ♪	กำลังหัดทำอาหารอยู่...
+35-0257	pause_message_person	So sleepy... ^^;	ง่วงจัง... ^^;
+35-0258	pause_message_person	Massage out all your knots!	นวดคลายทุกปมกล้ามเนื้อ!
+35-0259	pause_message_person	Mind over matter	จิตเหนือกาย
+35-0260	pause_message_person	World Peace	สันติภาพโลก
+35-0261	pause_message_person	Full throttle 24/7	เต็มสปีดตลอด 24 ชม.
+35-0262	pause_message_person	I look forward to your next visit.	หวังว่าจะได้พบกันอีกในครั้งหน้า
+35-0263	pause_message_person	Let's drink together ♪	มาดื่มด้วยกันเถอะ...
+35-0264	pause_message_person	I'm the girl	ฉันคือผู้หญิง
+35-0265	pause_message_person	What color is your calamity?	สีของลางร้ายคุณคืออะไร?
+35-0266	pause_message_person	I want a drone!	อยากได้โดรน!
+35-0267	pause_message_person	Always thinking up songs	คิดแต่งเพลงตลอดเวลา
+35-0268	pause_message_person	Awright!	เจ๋ง!
+35-0269	pause_message_person	I'm the guy	ฉันคือผู้ชาย
+35-0270	pause_message_person	Please check out Akaushimaru	แวะไปชิมที่อากาอุชิมารุนะ
+35-0271	pause_message_person	Delicious yakiniku	ยากินิกุแสนอร่อย
+35-0272	pause_message_person	I love studs!	ชอบผู้ชายหล่อๆ!
+35-0273	input_game_state	Adventure	ผจญภัย
+35-0274	input_game_state	Combat	ต่อสู้
+35-0275	input_game_state	Virtua Fighter 2/ver2.1 (1P)	Virtua Fighter 2/ver2.1 (ผู้เล่น 1)
+35-0276	input_game_state	Virtua Fighter 2/ver2.1 (2P)	Virtua Fighter 2/ver2.1 (ผู้เล่น 2)
+35-0277	input_game_state	Virtua Fighter 5 Final Showdown (1P)	Virtua Fighter 5 Final Showdown (ผู้เล่น 1)
+35-0278	input_game_state	Virtua Fighter 5 Final Showdown (2P)	Virtua Fighter 5 Final Showdown (ผู้เล่น 2)
+35-0279	input_game_state	Keys	กุญแจ
+35-0280	input_game_state	Drone Photo	ภาพถ่ายโดรน
+35-0281	input_game_state	Stalking	สะกดรอย
+35-0282	input_game_state	Picking	งัดกุญแจ
+35-0283	input_game_state	Thumb Turn Bypass	เลี่ยงกลอนบิด
+35-0284	input_game_state	Sugoroku	ซุโกโรกุ
+35-0285	input_game_state	Fighting Vipers (1P)	Fighting Vipers (ผู้เล่น 1)
+35-0286	input_game_state	Fighting Vipers (2P)	Fighting Vipers (ผู้เล่น 2)
+35-0287	input_game_state	Chases	การไล่ล่า
+35-0288	input_game_state	Chase	ไล่ล่า
+35-0289	minigame_mahjong_string_kyoku	East 1	ตะวันออก 1
+35-0290	minigame_mahjong_string_kyoku	East 2	ตะวันออก 2
+35-0291	minigame_mahjong_string_kyoku	East 3	ตะวันออก 3
+35-0292	minigame_mahjong_string_kyoku	East 4	ตะวันออก 4
+35-0293	minigame_mahjong_string_kyoku	South 1	ใต้ 1
+35-0294	minigame_mahjong_string_kyoku	South 2	ใต้ 2
+35-0295	minigame_mahjong_string_kyoku	South 3	ใต้ 3
+35-0296	minigame_mahjong_string_kyoku	South 4	ใต้ 4
+35-0297	minigame_mahjong_string_kyoku	West 1	ตะวันตก 1
+35-0298	minigame_mahjong_string_kyoku	West 2	ตะวันตก 2
+35-0299	minigame_mahjong_string_kyoku	West 3	ตะวันตก 3
+35-0300	minigame_mahjong_string_kyoku	West 4	ตะวันตก 4
+35-0301	minigame_mahjong_string_kyoku	North 1	เหนือ 1
+35-0302	minigame_mahjong_string_kyoku	North 2	เหนือ 2
+35-0303	minigame_mahjong_string_kyoku	North 3	เหนือ 3
+35-0304	minigame_mahjong_string_kyoku	North 4	เหนือ 4
+35-0305	pause_complete_profile	Play Time	เวลาเล่น
+35-0306	pause_complete_profile	Distance Traveled	ระยะทางที่เดินทาง
+35-0307	pause_complete_profile	Total Money Earned	เงินรวมที่ได้รับ
+35-0308	pause_complete_profile	Total Money Used	เงินรวมที่ใช้ไป
+35-0309	pause_complete_profile	Encounters	การเผชิญหน้า
+35-0310	pause_complete_profile	EX Actions Used	EX Action ที่ใช้ไป
+35-0311	pause_complete_profile	Side Cases Completed	คดีเสริมที่ทำสำเร็จ
+35-0312	pause_complete_profile	City Reputation Level	ระดับชื่อเสียงในเมือง
+35-0313	pause_complete_profile	Skills Learned	ทักษะที่เรียนรู้
+35-0314	pause_complete_profile	Drone Races Won	การแข่งโดรนที่ชนะ
+35-0315	pause_complete_profile	Drone Parts Developed	ชิ้นส่วนโดรนที่พัฒนา
+35-0316	pause_complete_profile	Total KamuroGo Missions Cleared	ภารกิจ KamuroGo ที่ผ่านทั้งหมด
+35-0317	pause_complete_profile	　<symbol=case_file_right_arrow>Gold	　<symbol=case_file_right_arrow>ทอง
+35-0318	pause_complete_profile	　<symbol=case_file_right_arrow>Bronze	　<symbol=case_file_right_arrow>ทองแดง
+35-0319	pause_complete_profile	Completion Total	ยอดรวมความสำเร็จ
+35-0320	pause_complete_profile	　<symbol=case_file_right_arrow>Silver	　<symbol=case_file_right_arrow>เงิน
+35-0321	minigame_cabaret_island_coordinate_accessory_earrings	Circles	ห่วงกลม
+35-0322	minigame_cabaret_island_coordinate_accessory_earrings	Beloved by all, this classic design matches any style.	ดีไซน์คลาสสิกที่คนรักทั่วไป เข้าได้กับทุกสไตล์
+35-0323	minigame_cabaret_island_coordinate_accessory_earrings	Gaudy Rings	ห่วงใหญ่ฉูดฉาด
+35-0324	minigame_cabaret_island_coordinate_accessory_earrings	This attention-grabbing large ring design was all the rage right in the late 80s.	ดีไซน์ห่วงใหญ่สะดุดตาที่เคยฮิต สุดขีดช่วงปลายยุค 80
+35-0325	minigame_cabaret_island_coordinate_accessory_earrings	Hearts	หัวใจ
+35-0326	minigame_cabaret_island_coordinate_accessory_earrings	Classic earrings to complement that cute look.	ต่างหูทรงคลาสสิกที่เสริมลุค น่ารักได้ลงตัว
+35-0327	minigame_cabaret_island_coordinate_accessory_earrings	Crosses	ไม้กางเขน
+35-0328	minigame_cabaret_island_coordinate_accessory_earrings	Gold earrings for a striking impression.	ต่างหูทองที่สร้างความประทับใจโดดเด่น
+35-0329	minigame_cabaret_island_coordinate_accessory_earrings	Pearls	ไข่มุก
+35-0330	minigame_cabaret_island_coordinate_accessory_earrings	Simple, yet gorgeous earrings made with high-quality pearls.	ต่างหูเรียบง่ายแต่หรูหรา ทำจากไข่มุกคุณภาพสูง
+35-0331	minigame_cabaret_island_coordinate_accessory_earrings	Active Hearts	หัวใจแอ็กทีฟ
+35-0332	minigame_cabaret_island_coordinate_accessory_earrings	The latest model based on the heart motif.	รุ่นล่าสุดในธีมรูปหัวใจ
+35-0333	minigame_cabaret_island_coordinate_accessory_earrings	Stars	ดวงดาว
+35-0334	minigame_cabaret_island_coordinate_accessory_earrings	Elegant earrings that will make her shine as bright as a star.	ต่างหูสง่างามที่จะทำให้เธอ เปล่งประกายดั่งดวงดาว
+35-0335	minigame_photo_shooting_mission_mission_data	Try the Test Photography Mission	ลองเล่นภารกิจถ่ายภาพทดสอบ
+35-0336	minigame_photo_shooting_mission_mission_data	Test mission	ภารกิจทดสอบ
+35-0337	minigame_photo_shooting_mission_mission_data	Snap a Photo	ถ่ายภาพ
+35-0338	minigame_photo_shooting_mission_mission_data	Get the Infidelity on Camera	ถ่ายภาพการนอกใจให้ได้
+35-0339	minigame_photo_shooting_mission_mission_data	Get Some Good Dirt on Camera	ถ่ายภาพเรื่องฉาวให้ได้
+35-0340	minigame_photo_shooting_mission_mission_data	Get Iseya Staring at Rei's Chest on Camera	ถ่ายภาพอิเซยะจ้องหน้าอกเรย์ให้ได้
+35-0341	minigame_photo_shooting_mission_mission_data	Get Iseya Rubbing Rei's Shoulders on Camera	ถ่ายภาพอิเซยะนวดไหล่เรย์ให้ได้
+35-0342	minigame_photo_shooting_mission_mission_data	Get Iseya Rubbing Rei's Chest on Camera	ถ่ายภาพอิเซยะลูบหน้าอกเรย์ให้ได้
+35-0343	minigame_photo_shooting_mission_mission_data	Get Kotatsu Higurashi on Camera	ถ่ายภาพโคทัตสึ ฮิกุราชิให้ได้
+35-0344	minigame_photo_shooting_mission_mission_data	Get Bram-sama on Camera	ถ่ายภาพท่านแบรมให้ได้
+35-0345	minigame_photo_shooting_mission_mission_data	Get the White Crow on Camera	ถ่ายภาพอีกาเผือกให้ได้
+35-0346	minigame_photo_shooting_mission_mission_data	Selfie Smile	เซลฟี่ยิ้ม
+35-0347	minigame_photo_shooting_mission_mission_data	Selfie with a Nice Smile	เซลฟี่ยิ้มสวย
+35-0348	minigame_photo_shooting_mission_mission_data	Get a Picture of the Building	ถ่ายภาพตึกให้ได้
+35-0349	platform_term	PlayStation®4 system	เครื่อง PlayStation®4
+35-0350	platform_term	PlayStation®5 console	เครื่อง PlayStation®5
+35-0351	platform_term	device	อุปกรณ์
+35-0352	platform_term	directional buttons	ปุ่มทิศทาง
+35-0353	platform_term	D-pad	ปุ่มกากบาท
+35-0354	platform_term	direction pad	ปุ่มกากบาท
+35-0355	platform_term	Trophy	โทรฟี่
+35-0356	platform_term	Achievement	ความสำเร็จ
+35-0357	platform_term	achievement	ความสำเร็จ
+35-0358	platform_term	stick	สติ๊ก
+35-0359	platform_term	add-on	ส่วนเสริม
+35-0360	platform_term	downloadable content	ดาวน์โหลดคอนเทนต์
+35-0361	platform_term	button	ปุ่ม
+35-0362	platform_term	controller	คอนโทรลเลอร์
+35-0363	minigame_mahjong_string_common	${value} Han	${value} ฮัน
+35-0364	minigame_mahjong_string_common	${value} Fu	${value} ฟุ
+35-0365	minigame_mahjong_string_common	${value} pts.	${value} แต้ม
+35-0366	minigame_mahjong_string_common	Rank	อันดับ
+35-0367	minigame_mahjong_string_common	Dora	โดระ
+35-0368	minigame_mahjong_string_common	Ura-Dora	อุระโดระ
+35-0369	minigame_mahjong_string_common	Your Total Points	แต้มรวมของคุณ
+35-0370	minigame_mahjong_string_common	<Sign:2> Hide Window	<Sign:2> ซ่อนหน้าต่าง
+35-0371	minigame_mahjong_string_common	Current Winning Streak: ${count}	สถิติชนะติดต่อกันปัจจุบัน: ${count}
+35-0372	minigame_mahjong_string_common	　　Winning Streak: ${count}	　　สถิติชนะติดต่อกัน: ${count}
+35-0373	minigame_mahjong_string_common	Highest Winning Streak: ${count}	สถิติชนะติดต่อกันสูงสุด: ${count}
+35-0374	minigame_mahjong_string_common	Declare nine terminals and redraw the hand?	ประกาศเก้าไพ่ขอบแล้วแจกไพ่ใหม่ หรือไม่?
+35-0375	minigame_mahjong_string_common	End game?	จบเกมหรือไม่?
+35-0376	player_point	Money	เงิน
+35-0377	player_point	Hunger	ความหิวโหย
+35-0378	player_point	Mahjong Points	แต้มมาจอง
+35-0379	player_point	${value} point(s)	${value} แต้ม
+35-0380	player_point	Health	พลังชีวิต
+35-0381	player_point	Defense	พลังป้องกัน
+35-0382	player_point	Evasion	การหลบหลีก
+35-0383	player_point	EX Gauge	เกจ EX
+35-0384	player_point	Blade Resist	ต้านทานใบมีด
+35-0385	player_point	Gun Resist	ต้านทานปืน
+35-0386	player_point	Stamina	สตามิน่า
+35-0387	player_point	Chips Left:	ชิปที่เหลือ:
+35-0388	player_point	Chips Wagered:	ชิปที่เดิมพัน:
+35-0389	minigame_cabaret_island_coordinate_accessory_bracelet	Onyx Bracelet	สร้อยข้อมือโอนิกซ์
+35-0390	minigame_cabaret_island_coordinate_accessory_bracelet	A chic bracelet with a bold onyx design.	สร้อยข้อมือเก๋ดีไซน์โอนิกซ์ เด่นสะดุดตา
+35-0391	minigame_cabaret_island_coordinate_accessory_bracelet	Gold Bracelet	สร้อยข้อมือทอง
+35-0392	minigame_cabaret_island_coordinate_accessory_bracelet	A brilliant bracelet that goes well with flashy outfits.	สร้อยข้อมือสุกสกาว เข้ากับชุดฉูดฉาด
+35-0393	minigame_cabaret_island_coordinate_accessory_bracelet	Pearl Bracelet	สร้อยข้อมือไข่มุก
+35-0394	minigame_cabaret_island_coordinate_accessory_bracelet	A bracelet that exudes an aura of maturity.	สร้อยข้อมือที่แผ่ออร่าความ เป็นผู้ใหญ่
+35-0395	minigame_cabaret_island_coordinate_accessory_bracelet	Flower Bracelet	สร้อยข้อมือดอกไม้
+35-0396	minigame_cabaret_island_coordinate_accessory_bracelet	A legendary bracelet that uses a one-of-a-kind flower in its design.  	สร้อยข้อมือระดับตำนาน ดีไซน์จากดอกไม้หนึ่งเดียวในโลก  
+35-0397	minigame_cabaret_island_coordinate_accessory_bracelet	Simple	ง่าย
+35-0398	minigame_cabaret_island_coordinate_accessory_bracelet	A likeable, oft-used bracelet.	สร้อยข้อมือยอดนิยมที่ใช้กันบ่อย
+35-0399	minigame_cabaret_island_coordinate_accessory_bracelet	Leather Bracelet	สร้อยข้อมือหนัง
+35-0400	minigame_cabaret_island_coordinate_accessory_bracelet	A leather bracelet that emits an air of coolness.	สร้อยข้อมือหนังที่แผ่ความเท่
+35-0401	minigame_cabaret_island_coordinate_accessory_necklace	Elegant	หรูหรา
+35-0402	minigame_cabaret_island_coordinate_accessory_necklace	An elegant necklace that oozes sophistication.	สร้อยคอหรูหราที่แผ่ความมีระดับ
+35-0403	minigame_cabaret_island_coordinate_accessory_necklace	Chain	โซ่
+35-0404	minigame_cabaret_island_coordinate_accessory_necklace	This gold necklace magnifies the sexiness of the wearer.	สร้อยคอทองที่ขับความเซ็กซี่ของ ผู้สวมใส่ให้เด่นชัด
+35-0405	minigame_cabaret_island_coordinate_accessory_necklace	Triple Necklace	สร้อยสามชั้น
+35-0406	minigame_cabaret_island_coordinate_accessory_necklace	A simple necklace that coordinates well with any outfit.	สร้อยคอเรียบง่ายที่เข้ากับชุด ไหนก็ได้
+35-0407	minigame_cabaret_island_coordinate_accessory_necklace	Brilliant	แวววาว
+35-0408	minigame_cabaret_island_coordinate_accessory_necklace	A popular necklace that's simple, yet enhances the wearer's cuteness.	สร้อยคอยอดนิยม เรียบง่ายแต่เสริมความน่ารักให้ ผู้สวมใส่
+35-0409	minigame_cabaret_island_coordinate_accessory_necklace	Pearl	ไข่มุก
+35-0410	minigame_cabaret_island_coordinate_accessory_necklace	Made by discerning artisans, this necklace uses only the finest pearls.	สร้อยคอที่ช่างฝีมือพิถีพิถัน รังสรรค์จากไข่มุกชั้นเลิศ เท่านั้น
+35-0411	minigame_cabaret_island_coordinate_accessory_necklace	Onyx	โอนิกซ์
+35-0412	minigame_cabaret_island_coordinate_accessory_necklace	Its unique color and shine demand attention.	สีสันและประกายเฉพาะตัวที่ ดึงดูดทุกสายตา
+35-0413	minigame_chase_mission	Sega Taro	เซกะ ทาโร่
+35-0414	minigame_chase_mission	Quickfoot Kobayashi	โคบายาชิเท้าไว
+35-0415	minigame_chase_mission	Hashimoto the Hustler	ฮาชิโมโตะจอมตุกติก
+35-0416	minigame_chase_mission	Hat	หมวก
+35-0417	minigame_chase_mission	Wig	วิกผม
+35-0418	minigame_chase_mission	Mysterious Person	คนลึกลับ
+35-0419	minigame_chase_mission	Child	เด็ก
+35-0420	minigame_chase_mission	Hat?	หมวก?
+35-0421	minigame_chase_mission	Matsugane Family Member	สมาชิกตระกูลมัตสึกาเนะ
+35-0422	minigame_chase_mission	Dine-and-Dasher	จอมกินหนีบิล
+35-0423	minigame_chase_mission	Shun	ชุน
+35-0424	minigame_chase_mission	Ghost?	ผี?
+35-0425	minigame_cabaret_island_coordinate_accessory_glasses	Framed Glasses	แว่นมีกรอบ
+35-0426	minigame_cabaret_island_coordinate_accessory_glasses	A standard pair of glasses for that intellectual look.	แว่นทรงมาตรฐานที่ให้ลุคดูมีความรู้
+35-0427	minigame_cabaret_island_coordinate_accessory_glasses	Frameless Glasses	แว่นไร้กรอบ
+35-0428	minigame_cabaret_island_coordinate_accessory_glasses	A classic design that brings an air of friendliness to the wearer.	ดีไซน์คลาสสิกที่แผ่ ความเป็นมิตรให้ผู้สวมใส่
+35-0429	minigame_cabaret_island_coordinate_accessory_glasses	Imported Sunglasses	แว่นกันแดดนำเข้า
+35-0430	minigame_cabaret_island_coordinate_accessory_glasses	Imported sunglasses worn by a foreign celebrity. You can be a star, too!	แว่นกันแดดนำเข้าที่เซเลบ ต่างชาติเคยสวมใส่ คุณก็เป็นดาราได้เหมือนกัน!
+35-0431	minigame_cabaret_island_coordinate_accessory_glasses	Round Glasses	แว่นกลม
+35-0432	minigame_cabaret_island_coordinate_accessory_glasses	The thick lenses provide perfect vision. For the studious type.	เลนส์หนาช่วยให้มองเห็นชัดเป๊ะ เหมาะกับสายวิชาการ
+35-0433	minigame_cabaret_island_coordinate_accessory_glasses	Normal Glasses	แว่นธรรมดา
+35-0434	minigame_cabaret_island_coordinate_accessory_glasses	The glasses Saori always wears. She's fond of them.	แว่นที่ซาโอริใส่เป็นประจำ เธอชอบมันมาก
+35-0435	minigame_cabaret_island_coordinate_accessory_hair	Tiara	เทียร่า
+35-0436	minigame_cabaret_island_coordinate_accessory_hair	Exudes elegance worthy of a princess.	แผ่ความสง่างามสมกับเป็นเจ้าหญิง
+35-0437	minigame_cabaret_island_coordinate_accessory_hair	Headband	ที่คาดผม
+35-0438	minigame_cabaret_island_coordinate_accessory_hair	This ever-popular headband guarantees non-stop cuteness!	ที่คาดผมสุดฮิตตลอดกาล การันตีความน่ารักไม่มีสะดุด!
+35-0439	minigame_cabaret_island_coordinate_accessory_hair	Bunny Girl	บันนี่เกิร์ล
+35-0440	minigame_cabaret_island_coordinate_accessory_hair	A sexy style favored by guests who love casinos.	สไตล์เซ็กซี่ที่ลูกค้าคอคาสิโนชื่นชอบ
+35-0441	minigame_cabaret_island_coordinate_accessory_hair	Corsage	ช่อคอร์ซาจ
+35-0442	minigame_cabaret_island_coordinate_accessory_hair	A standard item with an elegant flower flourish.	ไอเทมมาตรฐานประดับด้วยดอกไม้หรูหรา
+35-0443	minigame_cabaret_island_coordinate_accessory_hair	Brim	ผ้าคาดผม
+35-0444	minigame_cabaret_island_coordinate_accessory_hair	The thing that maids have on their head.	สิ่งที่เมดใส่ไว้บนหัว
+35-0445	minigame_cabaret_island_coordinate_accessory_nail	Red	แดง
+35-0446	minigame_cabaret_island_coordinate_accessory_nail	The passionate color scheme screams sexy.  	โทนสีเร่าร้อนที่ตะโกนคำว่าเซ็กซี่  
+35-0447	minigame_cabaret_island_coordinate_accessory_nail	Pink	ชมพู
+35-0448	minigame_cabaret_island_coordinate_accessory_nail	Pink nails are perfect for completing that cute look.	เล็บสีชมพูช่วยเติมเต็มลุค น่ารักได้สมบูรณ์แบบ
+35-0449	minigame_cabaret_island_coordinate_accessory_nail	Black	ดำ
+35-0450	minigame_cabaret_island_coordinate_accessory_nail	Black nails give off an air of aloof sophistication.	เล็บสีดำแผ่ความเท่แบบเย็นชามีระดับ
+35-0451	minigame_cabaret_island_coordinate_accessory_nail	Rainbow	เรนโบว์
+35-0452	minigame_cabaret_island_coordinate_accessory_nail	Colorful and novel, these are guaranteed to draw attention.	สีสันจัดจ้านแปลกใหม่ การันตีดึงดูดทุกสายตา
+35-0453	minigame_cabaret_island_coordinate_accessory_nail	Glitter	กลิตเตอร์
+35-0454	minigame_cabaret_island_coordinate_accessory_nail	A dazzling style that tickles the fancy of men worldwide. Very popular lately.	สไตล์เจิดจรัสที่ถูกใจหนุ่ม ๆ ทั่วโลก กำลังฮิตสุด ๆ ตอนนี้
+35-0455	drone_enemy_division1	Jack B. Nimble	แจ็ค บี. นิมเบิล
+35-0456	drone_enemy_division1	Sauna Goten CEO	ซีอีโอซาวน่าโกเท็น
+35-0457	drone_enemy_division1	Tamotti	ทาม็อตติ
+35-0458	drone_enemy_division1	Kamuro Pioneer	ผู้บุกเบิกคามุโร
+35-0459	drone_enemy_division1	King Koji	ราชาโคจิ
+35-0460	drone_enemy_division1	Ryosuke Iwama	เรียวสุเกะ อิวามะ
+35-0461	drone_enemy_division1	Mushroom Freak	คนคลั่งเห็ด
+35-0462	drone_enemy_division1	Thunder Tiger	เสือสายฟ้า
+35-0463	drone_enemy_division1	TSUBASA	สึบาสะ
+35-0464	drone_enemy_division3	Drunken Dad	พ่อขี้เมา
+35-0465	drone_enemy_division3	Taro Tanaka	ทาโร ทานากะ
+35-0466	drone_enemy_division3	Captain Asia	กัปตันเอเชีย
+35-0467	drone_enemy_division3	HIBARI	ฮิบาริ
+35-0468	drone_enemy_division3	Supersonic Masa	มาสะจอมเร็ว
+35-0469	drone_enemy_division3	Stingy Ginji	กินจิขี้เหนียว
+35-0470	drone_enemy_division3	Jack B. Swift	แจ็ค บี. สวิฟต์
+35-0471	drone_enemy_division3	Ricardo	ริคาร์โด
+35-0472	drone_enemy_division3	Koi Groom	เจ้าบ่าวโคอิ
+35-0473	drone_enemy_division4	Meatman	มนุษย์เนื้อ
+35-0474	drone_enemy_division4	Akaushimaru Fan	แฟนคลับอากาอุชิมารุ
+35-0475	drone_enemy_division4	Jack B. Lithe	แจ็ค บี. ไลธ์
+35-0476	drone_enemy_division4	Hamilton	แฮมิลตัน
+35-0477	drone_enemy_division4	Shoeshine Joe	โจ ขัดรองเท้า
+35-0478	drone_enemy_division4	The North Wind	ลมเหนือ
+35-0479	drone_enemy_division4	Kenta Yamaguchi	เค็นตะ ยามากูจิ
+35-0480	drone_enemy_division4	Tomoki	โทโมกิ
+35-0481	drone_enemy_division4	Aloha Mola	อโลฮา โมลา
+35-0482	drone_enemy_division5	Kirara Kisaragi	คิราระ คิซารางิ
+35-0483	drone_enemy_division5	Apple Pie Rep	ตัวแทนแอปเปิลพาย
+35-0484	drone_enemy_division5	Popcorn Frog	กบป๊อปคอร์น
+35-0485	drone_enemy_division5	Little Boy Tetsu	เท็ตสึจิ๋ว
+35-0486	drone_enemy_division5	Taishi Kawaguchi	ไทชิ คาวากูจิ
+35-0487	drone_enemy_division5	Fernando	เฟอร์นันโด
+35-0488	drone_enemy_division5	JIN	จิน
+35-0489	drone_enemy_division5	Anonymous	ไม่ระบุชื่อ
+35-0490	drone_enemy_division5	Jack B. Gone	แจ็ค บี. กอน
+35-0491	minigame_poker_com_1	Urbanite Makoto	มาโคโตะชาวเมือง
+35-0492	minigame_poker_com_1	I dunno about this...	ไม่รู้สิเรื่องนี้...
+35-0493	minigame_poker_com_1	Bringin' home a nice haul tonight!	คืนนี้กูจะกวาดเงินกลับบ้านเพียบเลย!
+35-0494	minigame_poker_com_1	Shit, I'm outta chips...	เชี่ย ชิปหมดแล้ว...
+35-0495	minigame_poker_com_1	Why I gotta deal with this shit?	ทำไมต้องมาเจอเรื่องแบบนี้ด้วยวะ?
+35-0496	minigame_poker_com_1	Bahah! Gotta take my money and run!	ฮะฮะ! กูต้องเอาเงินแล้วชิ่งแล้ว!
+35-0497	minigame_poker_com_1	Wanted to keep going.	อยากเล่นต่ออีกหน่อยแหละ
+35-0498	minigame_poker_com_1	Think I can win this.	กูน่าจะเอาชนะเกมนี้ได้ว่ะ
+35-0499	minigame_poker_com_1	I'm 'bout to take you down!	กูจะเอามึงลงว่ะ!
+35-0500	minigame_poker_com_2	Timid Iwaki	อิวากิขี้อาย
+35-0501	minigame_poker_com_2	I'm so nervous...	ฉันตื่นเต้นมากเลย...
+35-0502	minigame_poker_com_2	L-Let's play.	ม-มาเล่นกันเถอะ
+35-0503	minigame_poker_com_2	No more chips, huh...	ชิปหมดแล้วสินะ...
+35-0504	minigame_poker_com_2	Hmm, this is bad.	หืม แย่แล้วสิ
+35-0505	minigame_poker_com_2	I'm no match for you.	ฉันสู้คุณไม่ได้เลย
+35-0506	minigame_poker_com_2	Guess it's time to go...	คงถึงเวลาต้องไปแล้วสินะ...
+35-0507	minigame_poker_com_2	Maybe I can win now...	บางทีตอนนี้ฉันอาจจะชนะก็ได้...
+35-0508	minigame_poker_com_2	Hope I can rack up some cash.	หวังว่าจะกวาดเงินได้บ้าง
+35-0509	minigame_poker_com_3	Diva Hitomi	ฮิโตมิดีว่า
+35-0510	minigame_poker_com_3	Disappointed.	ผิดหวังจัง
+35-0511	minigame_poker_com_3	Ready when you are!	พร้อมเมื่อไหร่ก็บอกได้เลย!
+35-0512	minigame_poker_com_3	I am so over you.	ฉันเลิกสนใจคุณแล้ว
+35-0513	minigame_poker_com_3	Still got a long way to go.	ยังต้องไปอีกไกลเลย
+35-0514	minigame_poker_com_3	Bye bye! See you later!	บ๊ายบาย! แล้วเจอกันใหม่!
+35-0515	minigame_poker_com_3	Goodbyes are always so sad.	การบอกลามันเศร้าเสมอเลยนะ
+35-0516	minigame_poker_com_3	Ahh, feels good.	อาห์ รู้สึกดีจัง
+35-0517	minigame_poker_com_3	Oh my goodness!	คุณพระช่วย!
+35-0518	minigame_poker_com_4	Joji of Spades	โจจิแห่งโพดำ
+35-0519	minigame_poker_com_4	This ain't good.	นี่ไม่ดีเลยว่ะ
+35-0520	minigame_poker_com_4	Let's get this shit crackin'!	เริ่มลุยกันเลยเว้ย!
+35-0521	minigame_poker_com_4	Fuckin' stupid.	โง่เชี่ยๆ
+35-0522	minigame_poker_com_4	Take it nice and slow...	ค่อยๆ ไปช้าๆ ใจเย็นเว้ย...
+35-0523	minigame_poker_com_4	Damn, I got my ass handed to me.	ซวยแล้ว โดนเละเลยกู
+35-0524	minigame_poker_com_4	Welp, I'm out!	เอาล่ะ กูออกแล้ว!
+35-0525	minigame_poker_com_4	Things're lookin' up!	ท่าทางจะดีขึ้นนะเนี่ย!
+35-0526	minigame_poker_com_4	This's some ol' bull...!	นี่มันเรื่องเหลวไหลชัดๆ...!
+35-0527	minigame_poker_com_5	Sickly Kento	เคนโตะขี้โรค
+35-0528	minigame_poker_com_5	I think I'm gonna lose...	คิดว่าคงแพ้แน่ๆ...
+35-0529	minigame_poker_com_5	...Shall we?	...เอาไหมล่ะ?
+35-0530	minigame_poker_com_5	You're done for...	คุณจบเห่แล้ว...
+35-0531	minigame_poker_com_5	Just can't catch a break...	ไม่มีจังหวะดีๆ ให้ฉันเลย...
+35-0532	minigame_poker_com_5	See you later...	แล้วเจอกันใหม่...
+35-0533	minigame_poker_com_5	Maybe I'll see you again...	บางทีคงได้เจอกันอีก...
+35-0534	minigame_poker_com_5	I think I can win...	คิดว่าฉันน่าจะชนะได้...
+35-0535	minigame_poker_com_5	My nose won't stop runnin'...	น้ำมูกฉันไม่ยอมหยุดไหลเลย...
+35-0536	minigame_poker_com_6	Troublesome Kotaro	โคทาโร่ตัวป่วน
+35-0537	minigame_poker_com_6	I should quit while I'm ahead.	ควรจะหยุดตอนที่ยังนำอยู่
+35-0538	minigame_poker_com_6	Let's rumble!	มาซัดกันเลย!
+35-0539	minigame_poker_com_6	What, broke already?	อะไร หมดตัวแล้วเหรอ?
+35-0540	minigame_poker_com_6	Tch, that's lame.	เชอะ ห่วยจัง
+35-0541	minigame_poker_com_6	Bye now.	ไปละนะ
+35-0542	minigame_poker_com_6	Hehe, that was awesome!	เฮ้เฮ้ เมื่อกี้เจ๋งมากเลย!
+35-0543	minigame_poker_com_6	Here it comes!	มาแล้ว!
+35-0544	minigame_poker_com_6	Well isn't this something!	นี่มันสุดยอดไปเลยนะ!
+35-0545	minigame_poker_com_high_1	Hungry Honekawa	โฮเนคาวะจอมหิว
+35-0546	minigame_poker_com_high_1	All crust and no bread.	มีแต่เปลือกไม่มีเนื้อ
+35-0547	minigame_poker_com_high_1	It's munch time!	ได้เวลาเขมือบแล้ว!
+35-0548	minigame_poker_com_high_1	Ah, nice and full!	อา อิ่มจนพุงกาง!
+35-0549	minigame_poker_com_high_1	Wonton noodles would be nice right now.	ตอนนี้กินบะหมี่เกี๊ยวน่าจะดีเลย
+35-0550	minigame_poker_com_high_1	I wanna go home and eat.	อยากกลับบ้านไปกินข้าว
+35-0551	minigame_poker_com_high_1	I'm starving...	หิวจะแย่แล้ว...
+35-0552	minigame_poker_com_high_1	Maybe I should order some sushi...	บางทีน่าจะสั่งซูชิสักหน่อย...
+35-0553	minigame_poker_com_high_1	Ooh, I should get some steak today!	โอ้ วันนี้น่าจะกินสเต๊กสักหน่อย!
+35-0554	minigame_poker_com_high_2	Mystical Minami	มินามิสายลึกลับ
+35-0555	minigame_poker_com_high_2	Should've used psychokinesis on this one...	น่าจะใช้พลังจิตกับตัวนี้ตั้งแต่แรก...
+35-0556	minigame_poker_com_high_2	I shall channel my way to victory.	ฉันจะรวมพลังจิตไปสู่ชัยชนะ
+35-0557	minigame_poker_com_high_2	I foresaw your defeat.	ฉันหยั่งรู้ความพ่ายแพ้ของคุณ ล่วงหน้าแล้ว
+35-0558	minigame_poker_com_high_2	I need to focus...	ต้องมีสมาธิให้มากกว่านี้...
+35-0559	minigame_poker_com_high_2	It seems I've strained my third eye... Oww.	ดูเหมือนตาที่สามจะเคล็ดไปหน่อย... โอ๊ย
+35-0560	minigame_poker_com_high_2	I foresee a rematch in our future.	ฉันหยั่งรู้ว่าเราจะได้พบกันอีกครั้ง
+35-0561	minigame_poker_com_high_2	Telepathy's not cheating.	การอ่านใจไม่ถือว่าโกงนะ
+35-0562	minigame_poker_com_high_2	My victory was written in the stars!	ชัยชนะของฉันถูกจารึกไว้ในดวงดาวแล้ว!
+35-0563	minigame_poker_com_high_4	Genteel Masuda	มาซึดะสุขุม
+35-0564	minigame_poker_com_high_4	Oh my word...	โอ้ แหม...
+35-0565	minigame_poker_com_high_4	This tea is absolutely delightful.	ชาถ้วยนี้อร่อยเหลือเกินครับ
+35-0566	minigame_poker_com_high_4	Mind your chips, now.	ดูแลชิปของคุณดีๆ นะครับ
+35-0567	minigame_poker_com_high_4	Whatever shall I do...	ผมควรทำอย่างไรดี...
+35-0568	minigame_poker_com_high_4	I shall return once more...	ผมจะกลับมาอีกครั้งแน่นอน...
+35-0569	minigame_poker_com_high_4	This was a game of chance.	นี่คือเกมแห่งโชคชะตา
+35-0570	minigame_poker_com_high_4	How splendid.	ยอดเยี่ยมจริงๆ
+35-0571	minigame_poker_com_high_4	Quite lovely, if I do say so myself.	ต้องพูดตามตรงว่าค่อนข้างงดงาม เลยนะครับ
+35-0572	minigame_poker_com_high_5	Accountant Fujimiya	ฟูจิมิยะนักบัญชี
+35-0573	minigame_poker_com_high_5	The numbers just aren't adding up...	ตัวเลขมันไม่ลงตัวเลยสักทีครับ...
+35-0574	minigame_poker_com_high_5	Gotta minimize your losses.	ต้องลดการขาดทุนให้น้อยที่สุดครับ
+35-0575	minigame_poker_com_high_5	Can't go bankrupt now.	ตอนนี้ยังล้มละลายไม่ได้ครับ
+35-0576	minigame_poker_com_high_5	All according to my calculations.	เป็นไปตามที่ผมคำนวณไว้ทั้งหมดครับ
+35-0577	minigame_poker_com_high_5	My funds are drying up.	เงินทุนของผมกำลังจะหมดแล้วครับ
+35-0578	minigame_poker_com_high_5	Appreciate the match.	ขอบคุณสำหรับเกมนี้ครับ
+35-0579	minigame_poker_com_high_5	Not letting up now.	ยังไม่ผ่อนมือตอนนี้ครับ
+35-0580	minigame_poker_com_high_5	Let's see how things play out.	มาดูกันว่าเรื่องจะเป็นยังไงต่อครับ
+35-0581	minigame_poker_com_high_6	Madame Nijioka	มาดามนิจิโอกะ
+35-0582	minigame_poker_com_high_6	I've had quite enough of this.	ดิฉันเบื่อเรื่องนี้เต็มทีแล้ว
+35-0583	minigame_poker_com_high_6	Be gentle, now.	ใจดีกับดิฉันหน่อยนะ
+35-0584	minigame_poker_com_high_6	It appears I'm out of chips.	ดูเหมือนชิปของดิฉันจะหมดแล้ว
+35-0585	minigame_poker_com_high_6	My, what a misstep.	แหม พลาดไปหน่อยนะเนี่ย
+35-0586	minigame_poker_com_high_6	I won't forget this!	ดิฉันจะไม่ลืมเรื่องนี้เด็ดขาด!
+35-0587	minigame_poker_com_high_6	Let us parlay again sometime!	ไว้มาเล่นกันอีกนะ!
+35-0588	minigame_poker_com_high_6	My, this is quite a problem.	แหม นี่มันปัญหาใหญ่เลยนะเนี่ย
+35-0589	minigame_poker_com_high_6	Ah, 'tis wonderful to be alive!	อา การมีชีวิตอยู่นี่วิเศษจริงๆ!
+35-0590	pause_others	Quit playing and return to the title screen.	เลิกเล่นแล้วกลับสู่หน้าจอหลัก
+35-0591	pause_others	Check how to play the game.	ดูวิธีการเล่นเกม
+35-0592	pause_others	Audio Language	ภาษาเสียงพากย์
+35-0593	pause_others	Change what language the voices are in.	เปลี่ยนภาษาของเสียงพากย์
+35-0594	pause_others	Text Language	ภาษาข้อความ
+35-0595	pause_others	Change what language the game's text is displayed in.	เปลี่ยนภาษาที่ใช้แสดงข้อความในเกม
+35-0596	pause_others	Change control settings.	เปลี่ยนการตั้งค่าปุ่มควบคุม
+35-0597	pause_others	Exit Game	ออกจากเกม
+35-0598	pause_others	End game and return to the desktop.	จบเกมและกลับสู่เดสก์ท็อป
+35-0599	position_stage_warp	Taxi to Kamurocho	แท็กซี่ไปคามุโรโจ
+35-0600	position_stage_warp	police	ตำรวจ
+35-0601	position_stage_warp	Kamuro Police Station	สถานีตำรวจคามุโร
+35-0602	position_stage_warp	sugoroku	ซุโกโรกุ
+35-0603	position_stage_warp	Tokyo Public Prosecutor's Office	สำนักงานอัยการโตเกียว
+35-0604	position_stage_warp	Kamuro Kikunoya	คามุโรคิคุโนยะ
+35-0605	position_stage_warp	Lab	ห้องแล็บ
+35-0606	position_stage_warp	Tokyo Detention Center	ศูนย์กักขังโตเกียว
+35-0607	position_stage_warp	Park Alley	ซอยปาร์ก
+35-0608	drone_enemy_division2	Jack B. Quick	แจ็ค บี. ควิก
+35-0609	drone_enemy_division2	Melon Soda	เมลอนโซดา
+35-0610	drone_enemy_division2	One-stringed Kubo	คุโบะสายเดียว
+35-0611	drone_enemy_division2	The Lovely Kanae	คานาเอะสุดน่ารัก
+35-0612	drone_enemy_division2	KAKERU	คาเครุ
+35-0613	drone_enemy_division2	Anon	นิรนาม
+35-0614	drone_enemy_division2	Sauna Fauna	สัตว์ซาวน่า
+35-0615	drone_enemy_division2	Macaulay	มาคอเลย์
+35-0616	minigame_cabaret_cabaret	SORA	โซระ
+35-0617	minigame_cabaret_cabaret	Platinum Cast	แคสต์แพลทินัม
+35-0618	minigame_cabaret_cabaret	Gold Cast	แคสต์โกลด์
+35-0619	minigame_cabaret_cabaret	Silver Cast	แคสต์ซิลเวอร์
+35-0620	minigame_cabaret_cabaret	Bronze Cast	แคสต์บรอนซ์
+35-0621	minigame_cabaret_cabaret	Beginner	มือใหม่
+35-0622	minigame_cabaret_cabaret	Beautiful \nEyes…	ดวงตา\nสวยงาม…
+35-0623	minigame_cabaret_cabaret	Beautiful Eyes…	ดวงตาสวยงาม…
+35-0624	minigame_cabaret_island_coordinate_makeup_eyebrows	Standard	มาตรฐาน
+35-0625	minigame_cabaret_island_coordinate_makeup_eyebrows	Default eyebrows.	คิ้วมาตรฐาน
+35-0626	minigame_cabaret_island_coordinate_makeup_eyebrows	Balanced	สมดุล
+35-0627	minigame_cabaret_island_coordinate_makeup_eyebrows	Known for its balance of width and shape.	ขึ้นชื่อเรื่องความสมดุลของความ กว้างและทรง
+35-0628	minigame_cabaret_island_coordinate_makeup_eyebrows	Thin	บาง
+35-0629	minigame_cabaret_island_coordinate_makeup_eyebrows	A thin, sharp style.	ทรงบางเรียว คมชัด
+35-0630	minigame_cabaret_island_coordinate_makeup_eyebrows	Thick	หนา
+35-0631	minigame_cabaret_island_coordinate_makeup_eyebrows	A slightly thick, soothing style.	ทรงหนาเล็กน้อย ให้ความรู้สึกอบอุ่น
+35-0632	minigame_cabaret_island_coordinate_makeup_eyeline	Default eyeliner.	อายไลเนอร์มาตรฐาน
+35-0633	minigame_cabaret_island_coordinate_makeup_eyeline	Eyeliner on the top and bottom, making the shape of your eyes clear.	ใส่อายไลเนอร์ทั้งบนและล่าง เน้นรูปทรงดวงตาให้ชัดเจน
+35-0634	minigame_cabaret_island_coordinate_makeup_eyeline	Cat Eyes	ตาแมว
+35-0635	minigame_cabaret_island_coordinate_makeup_eyeline	A meow-velous eyeliner style.	ทรงอายไลเนอร์สุดปัง...เหมียว!
+35-0636	minigame_cabaret_island_coordinate_makeup_eyeline	Droopy	ตาตก
+35-0637	minigame_cabaret_island_coordinate_makeup_eyeline	Makes your bottom eyelid more distinct.	เน้นเปลือกตาล่างให้เด่นชัดขึ้น
+35-0638	minigame_cabaret_island_coordinate_makeup_eyeline	Accent	จุดเน้น
+35-0639	minigame_cabaret_island_coordinate_makeup_eyeline	Accents the corner of your eyes.	เน้นหางตาให้โดดเด่น
+35-0640	minigame_mahjong_string_agari	Sacred Discard	ไพ่ศักดิ์สิทธิ์
+35-0641	minigame_mahjong_string_agari	Foul	ฟาวล์
+35-0642	minigame_mahjong_string_agari	Illegal Riichi	รีชผิดกฎ
+35-0643	minigame_mahjong_string_agari	Four Kan Draw	เจ๊าคังครบสี่
+35-0644	minigame_mahjong_string_agari	Four Riichi Draw	เจ๊ารีชครบสี่
+35-0645	minigame_mahjong_string_agari	Triple Ron	รอนสามเจ้า
+35-0646	minigame_mahjong_string_agari	Wind Discard Draw	เจ๊าทิ้งไพ่ลมซ้ำ
+35-0647	minigame_mahjong_string_agari	Nine Terminal Draw	เจ๊าไพ่ขอบเก้าใบ
+35-0648	minigame_poker_com_high_3	Horrifying Hacchan	แฮจังผู้น่าสะพรึง
+35-0649	minigame_poker_com_high_3	This sucks!	ห่วยแตก!
+35-0650	minigame_poker_com_high_3	Come at me, bro!	มาเลยเพื่อน!
+35-0651	minigame_poker_com_high_3	What, is that all you got?	อะไรวะ มีแค่นี้เหรอ?
+35-0652	minigame_poker_com_high_3	Aw shit, my bad!	เชี่ย พลาดไปว่ะ!
+35-0653	minigame_poker_com_high_3	See you around, sucka!	ไว้เจอกันนะ ไอ้โง่!
+35-0654	minigame_poker_com_high_3	Mama said knock you out!	แม่บอกให้อัดมึงให้เละ!
+35-0655	minigame_poker_com_high_3	I got so much game, it'll blow your brain!	กูเจ๋งขนาดจะทำสมองมึงระเบิด!
+35-0656	minigame_poker_com_special_1	Ooh, what should I do...	โอ๊ะ ควรทำยังไงดีน้า...
+35-0657	minigame_poker_com_special_1	Why don't we get started?	เริ่มกันเลยดีไหม?
+35-0658	minigame_poker_com_special_1	I believe you're out of chips.	คิดว่าคุณชิปหมดแล้วนะ
+35-0659	minigame_poker_com_special_1	Don't count me out just yet...	อย่ากะตัดฉันออกเร็วขนาดนั้นสิ...
+35-0660	minigame_poker_com_special_1	Let's play again soon.	ไว้มาเล่นกันใหม่นะ
+35-0661	minigame_poker_com_special_1	I need to rethink my strategy.	ต้องคิดกลยุทธ์ใหม่แล้ว
+35-0662	minigame_poker_com_special_1	I think I can pull it off...	คิดว่าทำได้อยู่นะ...
+35-0663	minigame_poker_com_special_1	Ho ho, I can win with this...	โอ้โฮ ไพ่นี้ชนะได้แน่...
+35-0664	minigame_poker_com_special_2	How disappointing.	น่าผิดหวังจริงๆ
+35-0665	minigame_poker_com_special_2	I am very much looking forward to this.	ฉันรอเรื่องนี้อยู่เลยจริงๆ
+35-0666	minigame_poker_com_special_2	There is naught else I can do.	ไม่มีสิ่งใดให้ฉันทำได้อีกแล้ว
+35-0667	minigame_poker_com_special_2	You still have much to learn.	คุณยังต้องเรียนรู้อีกมาก
+35-0668	minigame_poker_com_special_2	Farewell.	ลาก่อน
+35-0669	minigame_poker_com_special_2	Looks like this is the end.	ดูเหมือนนี่จะเป็นจุดจบแล้ว
+35-0670	minigame_poker_com_special_2	Looking good!	ดูดีนี่!
+35-0671	minigame_poker_com_special_2	Oh wow!	โอ้ ว้าว!
+35-0672	minigame_poker_com_special_4	How unfortunate.	ช่างโชคร้ายจริงๆ
+35-0673	minigame_poker_com_special_4	Hahaha! Let us commence!	ฮ่าฮ่าฮ่า! เริ่มกันเลย!
+35-0674	minigame_poker_com_special_4	It all ends here.	ทุกอย่างจบลงที่นี่
+35-0675	minigame_poker_com_special_4	Hah. This is far from over!	ฮะ ยังไม่จบง่ายๆ หรอก!
+35-0676	minigame_poker_com_special_4	The hammer of judgment has fallen.	ค้อนแห่งการตัดสินได้ฟาดลงมาแล้ว
+35-0677	minigame_poker_com_special_4	Our duel has come to a close.	การดวลของเราสิ้นสุดลงแล้ว
+35-0678	minigame_poker_com_special_4	Great!	เจ๋งเลย!
+35-0679	minigame_poker_com_special_4	How can this be...?	เป็นไปได้ยังไงกัน...?
+35-0680	sound_auth_subtitles_speech_list_sub_a13	I've been watching you guys play.	ผมเฝ้าดูพวกคุณเล่นอยู่นะครับ
+35-0681	sound_auth_subtitles_speech_list_sub_a13	You've got a ways to go, but I can tell you've got a talent for this.	ยังต้องฝึกอีกไกล แต่ผมบอกได้เลยว่าคุณมีแวว
+35-0682	sound_auth_subtitles_speech_list_sub_a13	Ah… Not you…	อ้า... ไม่ใช่คุณ...
+35-0683	sound_auth_subtitles_speech_list_sub_a13	You.	แก
+35-0684	sound_auth_subtitles_speech_list_sub_a13	Yes.\nWhat's your name?	ครับ\nคุณชื่ออะไรเหรอ?
+35-0685	sound_auth_subtitles_speech_list_sub_a13	You have the potential to be a great player, Kiryu-san.	คุณมีศักยภาพที่จะเป็นนักเล่น ระดับเยี่ยมได้เลยนะ คุณคิริว
+35-0686	sound_auth_subtitles_speech_list_sub_a13	I hope you'll continue to enjoy darts and keep polishing your skills.	ผมหวังว่าคุณจะสนุกกับดาร์ทต่อไป และฝึกฝนทักษะให้เก่งขึ้นเรื่อยๆ
+35-0687	sound_auth_subtitles_speech_list_sub_a13	I look forward to the day when we can have a heated match! Hahaha!	ผมรอวันที่เราจะได้แข่งกันอย่าง ดุเดือดเลยนะ! ฮ่าฮ่าฮ่า!
+35-0688	talk_category_title	Test Title 00	ชื่อทดสอบ 00
+35-0689	talk_category_title	Test Title 01	ชื่อทดสอบ 01
+35-0690	talk_category_title	Test Title 02	ชื่อทดสอบ 02
+35-0691	talk_category_title	Kanrai Owner, Fumio Matsuzaki	เจ้าของคันไร, ฟุมิโอะ มัตสึซากิ
+35-0692	talk_category_title	Norika Miyanishi	โนริกะ มิยานิชิ
+35-0693	talk_category_title	Hiroshi Kawasaki	ฮิโรชิ คาวาซากิ
+35-0694	talk_category_title	Yuma Kominato	ยูมะ โคมินาโตะ
+35-0695	talk_category_title	Japanese Sweet Shop, Takemitsu Owner	ร้านขนมหวานญี่ปุ่น, เจ้าของร้านทาเคมิตสึ
+35-0696	help_category	Battle	ต่อสู้
+35-0697	help_category	Minigames	มินิเกม
+35-0698	help_category	Skills	สกิล
+35-0699	help_category	Investigation Action	การสืบสวน
+35-0700	help_category	Venues	สถานที่จัดงาน
+35-0701	help_category	System	ระบบ
+35-0702	help_category	On the Side	กิจกรรมเสริม
+35-0703	minigame_poker_com_special_3	Hmm, could be better.	หืม อาจจะดีกว่านี้ได้
+35-0704	minigame_poker_com_special_3	Guess we're doing this!	งั้นก็ลงมือกันเลย!
+35-0705	minigame_poker_com_special_3	I guess I'm done.	คงจบแค่นี้แหละ
+35-0706	minigame_poker_com_special_3	Hah, no problem!	ฮ่า ไม่มีปัญหา!
+35-0707	minigame_poker_com_special_3	Aww. It's all over for me.	เฮ้อ จบเห่สำหรับฉันแล้ว
+35-0708	minigame_poker_com_special_3	Just what I needed!	นี่แหละที่ต้องการเลย!
+35-0709	minigame_poker_com_special_3	No way!	ไม่จริงน่า!
+35-0710	play_go_message	Installation must complete to\nproceed beyond this point.\nTime remaining: ${hour} hour(s), ${min} minute(s)	ต้องติดตั้งให้เสร็จก่อน\nจึงจะดำเนินการต่อจากจุดนี้ได้\nเวลาที่เหลือ: ${hour} ชั่วโมง ${min} นาที
+35-0711	play_go_message	Installation complete.	ติดตั้งเสร็จสิ้น
+35-0712	play_go_message	Installation must complete to proceed.\nTime remaining: ${hour} hour(s), ${min} minute(s)	ต้องติดตั้งให้เสร็จก่อนจึงจะ ดำเนินการต่อได้\nเวลาที่เหลือ: ${hour} ชั่วโมง ${min} นาที
+35-0713	play_go_message	You cannot proceed beyond\nthis point in the trial version.	คุณไม่สามารถดำเนินการต่อจากจุดนี้ได้\nในเวอร์ชันทดลองเล่น
+35-0714	play_go_message	This content is not available\nin the trial version.	เนื้อหานี้ไม่พร้อมใช้งาน\nในเวอร์ชันทดลองเล่น
+35-0715	play_go_message	This area is available in the full game.	พื้นที่นี้ใช้งานได้ในเกมเวอร์ชันเต็ม
+35-0716	play_go_message	This is available in the full game.	สิ่งนี้ใช้งานได้ในเกมเวอร์ชันเต็ม
+35-0717	shop	Dragon's Palace Exchange Desk	เคาน์เตอร์แลกรางวัล วังมังกร
+35-0718	shop	Dragon's Palace Casino Exchange Desk	เคาน์เตอร์แลกรางวัล คาสิโนวังมังกร
+35-0719	shop	L'Amant Exchange Desk	เคาน์เตอร์แลกรางวัล ลามองต์
+35-0720	shop	Dragon's Palace Wooden Tags Exchange Desk	เคาน์เตอร์แลกป้ายไม้ วังมังกร
+35-0721	shop	Dragon's Palace Casino Chips Exchange Desk	เคาน์เตอร์แลกชิปคาสิโน วังมังกร
+35-0722	shop	L'Amant Chips Exchange Desk	เคาน์เตอร์แลกชิป ลามองต์
+35-0723	shop	Iyama's Extract Shop	ร้านสารสกัดของอิยามะ
+35-0724	minigame_cabaret_island_coordinate_accessory_ring	Heart Ring	แหวนหัวใจ
+35-0725	minigame_cabaret_island_coordinate_accessory_ring	It might be a standard, but it works to accentuate feminine qualities.	แม้จะเป็นแบบพื้นฐาน แต่ช่วยขับความเป็นหญิงให้เด่นชัด
+35-0726	minigame_cabaret_island_coordinate_accessory_ring	Cool Ring	แหวนเท่
+35-0727	minigame_cabaret_island_coordinate_accessory_ring	A refined, sophisticated ring that showcases a shining jewel.	แหวนหรูหรามีระดับที่โชว์อัญมณี เปล่งประกาย
+35-0728	minigame_cabaret_island_coordinate_accessory_ring	Flower Ring	แหวนดอกไม้
+35-0729	minigame_cabaret_island_coordinate_accessory_ring	A cute ring with a design inspired by flowers.	แหวนน่ารักดีไซน์ได้แรงบันดาลใจ จากดอกไม้
+35-0730	minigame_cabaret_island_coordinate_accessory_watches	Simple Watch	นาฬิกาเรียบ ๆ
+35-0731	minigame_cabaret_island_coordinate_accessory_watches	A simple, cute watch. It might make you seem down-to-earth.  	นาฬิกาเรียบง่ายน่ารัก อาจทำให้คุณดูติดดินขึ้นมา
+35-0732	minigame_cabaret_island_coordinate_accessory_watches	Gorgeous Watch	นาฬิกาหรูหรา
+35-0733	minigame_cabaret_island_coordinate_accessory_watches	A gorgeous watch made with gold. Guaranteed to get you noticed.  	นาฬิกาหรูหราทำจากทองคำ การันตีให้ทุกคนต้องมอง
+35-0734	minigame_cabaret_island_coordinate_accessory_watches	Designer Watch	นาฬิกาดีไซเนอร์
+35-0735	minigame_cabaret_island_coordinate_accessory_watches	A famous designer watch. Note its diamond accents and craftsmanship.	นาฬิกาดีไซเนอร์ชื่อดัง สังเกตรายละเอียดเพชรประดับและ งานฝีมือ
+35-0736	minigame_mahjong_string_command	Pon	ปง
+35-0737	minigame_mahjong_string_command	Chi	ชี
+35-0738	minigame_mahjong_string_command	Kan	คัง
+35-0739	minigame_mahjong_string_command	Tsumo	สึโม
+35-0740	minigame_mahjong_string_command	Ron	รอน
+35-0741	minigame_mahjong_string_command	Riichi	รีช
+35-0742	minigame_mahjong_string_mangan	Mangan	มังกัง
+35-0743	minigame_mahjong_string_mangan	Haneman	ฮาเนมัง
+35-0744	minigame_mahjong_string_mangan	Baiman	ไบมัง
+35-0745	minigame_mahjong_string_mangan	Sanbaiman	ซันไบมัง
+35-0746	minigame_mahjong_string_mangan	Yakuman	ยากุมัง
+35-0747	minigame_mahjong_string_mangan	Exhaustive Draw	เจ๊าไพ่หมดกอง
+35-0748	minigame_mahjong_string_yakuman	Double Yakuman	ยากุมังคู่
+35-0749	minigame_mahjong_string_yakuman	Triple Yakuman	ยากุมังสาม
+35-0750	minigame_mahjong_string_yakuman	4x Yakuman	ยากุมัง 4 เท่า
+35-0751	minigame_mahjong_string_yakuman	5x Yakuman	ยากุมัง 5 เท่า
+35-0752	minigame_mahjong_string_yakuman	6x Yakuman	ยากุมัง 6 เท่า
+35-0753	minigame_mahjong_string_yakuman	7x Yakuman	ยากุมัง 7 เท่า
+35-0754	gamer_stat	Furthest Chapter Played	บทที่เล่นไกลที่สุด
+35-0755	gamer_stat	Chapter ${chapter_number}	บทที่ ${chapter_number}
+35-0756	gamer_stat	Enemies Defeated	ศัตรูที่กำจัด
+35-0757	gamer_stat	COMPLETE	ครบสมบูรณ์
+35-0758	gamer_stat	No. of KamuroGo Missions	จำนวนภารกิจ KamuroGo
+35-0759	minigame_cabaret_island_coordinate_makeup_eyelashes	Default eyelashes.	ขนตามาตรฐาน
+35-0760	minigame_cabaret_island_coordinate_makeup_eyelashes	Open	เปิด
+35-0761	minigame_cabaret_island_coordinate_makeup_eyelashes	Makes your eyes seem bigger somehow.	ทำให้ดวงตาดูโตขึ้นอย่างน่าประหลาดใจ
+35-0762	minigame_cabaret_island_coordinate_makeup_eyelashes	Defined	คมชัด
+35-0763	minigame_cabaret_island_coordinate_makeup_eyelashes	Clearly defines the shape of your eyes.	เน้นรูปทรงดวงตาให้ชัดเจน
+35-0764	minigame_mahjong_string_mainmenu	Start Ranked Match	เริ่มแมตช์จัดอันดับ
+35-0765	minigame_mahjong_string_mainmenu	Quit Game	ออกจากเกม
+35-0766	minigame_mahjong_string_mainmenu	Change Rules	เปลี่ยนกติกา
+35-0767	minigame_mahjong_string_mainmenu	Mahjong Basics	พื้นฐานมาจอง
+35-0768	minigame_mahjong_string_mainmenu	View Rankings	ดูอันดับ
+35-0769	minigame_rail_shooter_telop_text	It was not long before the virus completely overwhelmed Kamurocho.	ไม่นานนัก ไวรัสก็แผ่ปกคลุมคามุโรโจจนหมดสิ้น
+35-0770	minigame_rail_shooter_telop_text	In order to end this disaster, the government called for an aerial saturation bombing to end the undead outbreak and exterminate the virus once and for all.	เพื่อยุติหายนะครั้งนี้ รัฐบาลจึงสั่งให้ทิ้งระเบิดถล่ม พื้นที่ทั้งหมดทางอากาศ เพื่อกวาดล้างการระบาดของซอมบี้ และกำจัดไวรัสให้สิ้นซากไป ตลอดกาล
+35-0771	minigame_rail_shooter_telop_text	However, there are still some survivors left in Kamurocho...	ทว่ายังมีผู้รอดชีวิตหลง เหลืออยู่ในคามุโรโจ...
+35-0772	minigame_rail_shooter_telop_text	But only a few scant hours remain until the bombing commences.	แต่เหลือเวลาอีกเพียงไม่กี่ ชั่วโมงก่อนที่การทิ้งระเบิดจะ เริ่มขึ้น
+35-0773	minigame_rail_shooter_telop_text	Will you make it out of Kamurocho alive? Or die along with it?	คุณจะรอดออกจากคามุโรโจไปได้ หรือจะตายไปพร้อมกับมัน?
+35-0774	option_text_language	Español	สเปน
+35-0775	option_text_language	Deutsch	เยอรมัน
+35-0776	option_text_language	Français	ฝรั่งเศส
+35-0777	option_text_language	Italiano	อิตาลี
+35-0778	option_text_language	Portuguese	โปรตุเกส
+35-0779	talk_select_random_ls	Jamaican	จาเมกา
+35-0780	talk_select_random_ls	Kona	โคนา
+35-0781	talk_select_random_ls	Toraja	โตราจา
+35-0782	talk_select_random_ls	Guatemalan	กัวเตมาลา
+35-0783	talk_select_random_ls	Java Robusta	ชวาโรบัสต้า
+35-0784	dialog_info	New info has been added to your Case File.	มีข้อมูลใหม่ถูกเพิ่มลงใน แฟ้มคดีของคุณ
+35-0785	dialog_info	 <symbol=case_file_right_arrow> Evidence Updated	 <symbol=case_file_right_arrow> อัปเดตหลักฐาน
+35-0786	dialog_info	 <symbol=case_file_right_arrow> Persons of Interest Updated	 <symbol=case_file_right_arrow> อัปเดตบุคคลที่เกี่ยวข้อง
+35-0787	dialog_info	 <symbol=case_file_right_arrow> Case Synopsis Updated	 <symbol=case_file_right_arrow> อัปเดตสรุปคดี
+35-0788	minigame_cabaret_island_coordinate_accessory_perfume	Belle	เบลล์
+35-0789	minigame_cabaret_island_coordinate_accessory_perfume	A popular perfume that raises the wearer's spirits.	น้ำหอมยอดนิยมที่ช่วยยกระดับ อารมณ์ของผู้ใช้
+35-0790	minigame_cabaret_island_coordinate_accessory_perfume	Mignon	มิญง
+35-0791	minigame_cabaret_island_coordinate_accessory_perfume	A showstopping perfume that keeps the wearer calm in any situation.	น้ำหอมสุดโดดเด่นที่ช่วยให้ ผู้ใช้สงบนิ่งได้ในทุกสถานการณ์
+35-0792	minigame_mahjong_string_setting	Game Style	สไตล์เกม
+35-0793	minigame_mahjong_string_setting	Kuitan	คุยตัน
+35-0794	minigame_mahjong_string_setting	Two Han Minimum	ขั้นต่ำสองฮัง
+35-0795	minigame_mahjong_string_setting	Red Dora	โดระแดง
+35-0796	msg_unit	${value} People	${value} คน
+35-0797	msg_unit	Rank: ${value}	อันดับ: ${value}
+35-0798	msg_unit	${value}km	${value} กม.
+35-0799	msg_unit	${value}m	${value} ม.
+35-0800	reward_judge_clear_achievement	Legend Difficulty	ความยากตำนาน
+35-0801	reward_judge_clear_achievement	Unlocked	ปลดล็อกแล้ว
+35-0802	reward_judge_clear_achievement	Premium New Game Plus	นิวเกมพลัสพรีเมียม
+35-0803	reward_judge_clear_achievement	Acquired	ได้รับแล้ว
+35-0804	minigame_darts_rival_info_judge	Random-kun (Test)	แรนดอมคุง (ทดสอบ)
+35-0805	minigame_darts_rival_info_judge	Solo	โซโล
+35-0806	minigame_darts_rival_info_judge	Yukiko Tonegawa	ยูกิโกะ โทเนกาวะ
+35-0807	minigame_decorating_office_message	Select an item to place.	เลือกไอเทมที่จะวาง
+35-0808	minigame_decorating_office_message	You have no items to place...	คุณไม่มีไอเทมให้วาง...
+35-0809	minigame_decorating_office_message	You cannot place any more items.	คุณไม่สามารถวางไอเทมเพิ่มได้แล้ว
+35-0810	minigame_stalking_mission	Suspicious Detective	นักสืบต้องสงสัย
+35-0811	minigame_stalking_mission	Suspicious Tiny Man	ชายร่างเล็กต้องสงสัย
+35-0812	minigame_stalking_mission	Yukko	ยุกโกะ
+35-0813	continue_info_root	Retry	ลองใหม่
+35-0814	continue_info_root	Return to Title Screen	กลับสู่หน้าจอหลัก
+35-0815	drone_enemy_etc	Battle Drone	โดรนต่อสู้
+35-0816	drone_enemy_etc	Black Drone	โดรนดำ
+35-0817	minigame_darts_pattern	absolute	สัมบูรณ์
+35-0818	minigame_darts_pattern	relative	สัมพัทธ์
+35-0819	option_audio_language	English	อังกฤษ
+35-0820	option_audio_language	Japanese	ญี่ปุ่น
+35-0821	player_skill_category	Physical	กายภาพ
+35-0822	player_skill_category	Special	พิเศษ
+35-0823	sound_auth_subtitles_speech_list_caba_sora	Airabuyu（I love you）……	Airabuyu (I love you)……
+35-0824	sound_auth_subtitles_speech_list_caba_sora	Dorimukyasuto（Dreamcast）……	Dorimukyasuto (Dreamcast)……
+35-0825	minigame_cabaret_island_coordinate_makeup_cheek	On	เปิด
+35-0826	minigame_cabaret_island_coordinate_makeup_color_contact	Show	แสดง
+35-0827	minigame_photo_shooting_mission_message	You haven't fulfilled all the conditions yet.	คุณยังไม่ครบเงื่อนไขทั้งหมด
+35-0828	minigame_rail_shooter_text	SCORE x 	คะแนน x 
+35-0829	pause_crowdfunding_message	Minimum ${value}	ขั้นต่ำ ${value}
+35-0830	pause_trial_root	Check Missions	ตรวจสอบภารกิจ
+35-0831	player	Yagami	ยากามิ
+35-0832	scene	scene	ฉาก
+35-0833	search_param	Traits Check Test	แบบทดสอบตรวจสอบลักษณะ
+35-0834	shop_group	QUADRA	ควอดรา
+35-0835	title_movie_chapter	The Final Chapter: Down Came the Rain	บทสุดท้าย: สายฝนโปรยปราย

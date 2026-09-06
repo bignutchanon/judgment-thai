@@ -1,0 +1,1414 @@
+id	bin	EN	TH
+17-0001	sound_auth	<color=ｍonologue>(Nope.)</color>	<color=ｍonologue>(ไม่มี)</color>
+17-0002	sound_auth	<color=ｍonologue>(What about under the table?)</color>	<color=ｍonologue>(แล้วใต้โต๊ะล่ะ?)</color>
+17-0003	sound_auth	<color=ｍonologue>(Shoot. Not here.)</color>	<color=ｍonologue>(บ้าเอ๊ย ไม่อยู่ตรงนี้)</color>
+17-0004	sound_auth	<color=ｍonologue>(Is it under the sofa?)</color>	<color=ｍonologue>(อยู่ใต้โซฟาหรือเปล่า?)</color>
+17-0005	sound_auth	<color=ｍonologue>(Nope, don't see it.)</color>	<color=ｍonologue>(ไม่นี่ มองไม่เห็นเลย)</color>
+17-0006	sound_auth	<color=ｍonologue>(His call history should tell\nme everything I need to know.)</color>	<color=ｍonologue>(ประวัติการโทรของเขาน่าจะบอกทุกอย่าง\nที่ผมต้องรู้)</color>
+17-0007	sound_auth	<color=ｍonologue>(Most of these are to Genda's office.)</color>	<color=ｍonologue>(ส่วนใหญ่โทรไปที่สำนักงานเก็นดะ)</color>
+17-0008	sound_auth	<color=ｍonologue>(All of them except... the last number he called.)</color>	<color=ｍonologue>(ทั้งหมดเลย ยกเว้น... เบอร์สุดท้ายที่เขาโทรออก)</color>
+17-0009	sound_auth	<color=ｍonologue>(Shintani called it just a few hours before his death.\nWho was he talking to?)</color>	<color=ｍonologue>(ชินทานิโทรไปแค่ไม่กี่ชั่วโมงก่อนตาย\nเขาคุยกับใครกันแน่?)</color>
+17-0010	sound_auth	We received a call\nfrom the Genda Law Office.	เราได้รับแจ้ง\nจากสำนักงานกฎหมายเก็นดะ
+17-0011	sound_auth	I'm here about a report\nfrom the Genda Law Office.	ผมมาเรื่องรายงานที่แจ้ง\nจากสำนักงานกฎหมายเก็นดะ
+17-0012	sound_auth	You got here fast, Detective Kuroiwa.	มาเร็วนะครับ นักสืบคุโรอิวะ
+17-0013	sound_auth	I didn't think you'd get here\nso quick, Officer Kuroiwa.	ไม่คิดว่าคุณจะมาเร็ว\nขนาดนี้เลยนะครับ เจ้าหน้าที่คุโรอิวะ
+17-0014	sound_auth	Shintani, huh?	ชินทานิเหรอ?
+17-0015	sound_auth	His name has been coming up a lot lately.\nHe's the reason Hamura walked, after all.	ช่วงนี้ชื่อเขาโผล่มาบ่อยเชียว\nก็เขาเป็นเหตุผลที่ฮามุระรอดคดีนี่นา
+17-0016	sound_auth	He's been coming up a lot lately.\nHe's the reason Hamura walked, after all.	ช่วงนี้ชื่อเขาโผล่มาบ่อยเชียว\nก็เขาเป็นเหตุผลที่ฮามุระรอดคดีนี่นา
+17-0017	sound_auth	Perhaps... you couldn't stand his newfound fame,\nso you offed him?	หรือว่า... คุณทนดูเขาดังไม่ได้\nเลยเก็บเขาซะ?
+17-0018	sound_auth	I see. Got too popular for you,\nso you offed him?	อ๋อ เข้าใจแล้ว เขาดังเกินไป\nสำหรับคุณ เลยเก็บเขาซะสินะ?
+17-0019	sound_auth	I heard you two weren't\nexactly on good terms.	ได้ยินมาว่าคุณสองคน\nไม่ค่อยลงรอยกันเท่าไหร่
+17-0020	sound_auth	I hear you two weren't on good terms, either.	ได้ยินมาเหมือนกันว่าคุณสองคน ไม่ค่อยลงรอยกัน
+17-0021	sound_auth	Do you greet everyone by\naccusing them of murder?	คุณทักทายทุกคนด้วยการ\nกล่าวหาว่าเป็นฆาตกรแบบนี้เลยเหรอ?
+17-0022	sound_auth	Nice. Jump to murder accusations\nbefore you even say hello.	เยี่ยมมาก รีบกล่าวหาว่าเป็นฆาตกร\nก่อนจะทันได้ทักทายกันด้วยซ้ำ
+17-0023	sound_auth	Guess that's just how cops like you operate.	คงเป็นวิธีทำงานของตำรวจแบบคุณสินะ
+17-0024	sound_auth	Forensics will be here soon.	ทีมพิสูจน์หลักฐานกำลังจะมาถึง
+17-0025	sound_auth	...Forensics will be here soon.	...ทีมพิสูจน์หลักฐานกำลังจะมาถึง
+17-0026	sound_auth	We will need you present as a resident of the property.\nAfter that, we'll need some time to investigate.	เราต้องการให้คุณอยู่ด้วยในฐานะ ผู้พักอาศัย\nหลังจากนั้นเราจะขอเวลาตรวจสอบ สถานที่สักพัก
+17-0027	sound_auth	You need to be present as a resident of the property.\nWe'll need time to investigate after that.	คุณต้องอยู่ด้วยในฐานะผู้ พักอาศัยของที่นี่\nแล้วเราจะขอเวลาตรวจสอบสถานที่ หลังจากนั้น
+17-0028	sound_auth	How long?	นานแค่ไหน?
+17-0029	sound_auth	How long are we talking?	พูดถึงระดับไหนกัน?
+17-0030	sound_auth	You'll have to find somewhere else\nto stay tonight, at the very least.	อย่างน้อยที่สุดคุณต้องหาที่พัก\nอื่นสำหรับคืนนี้
+17-0031	sound_auth	You'll need other accommodations\nfor tonight, at least.	อย่างน้อยคุณต้องหาที่พักอื่น\nสำหรับคืนนี้
+17-0032	sound_auth	I don't have money for that...	ผมไม่มีเงินพอสำหรับเรื่องนั้นหรอกนะ...
+17-0033	sound_auth	I don't have the money for that...	ผมไม่มีเงินพอสำหรับเรื่องนั้นหรอก...
+17-0034	sound_auth	Yet you can afford bribing a cop?	แต่มีเงินพอติดสินบนตำรวจงั้นเหรอ?
+17-0035	sound_auth	Yet you have the cash\nto spare on bribing a cop?	แต่ดันมีเงินเหลือ\nไว้ติดสินบนตำรวจงั้นสิ?
+17-0036	sound_auth	Ayabe's sources aren't even that reliable.	ข้อมูลของอายาเบะยังไม่ น่าเชื่อถือเลยด้วยซ้ำ
+17-0037	sound_auth	Ayabe's intel isn't always accurate.	ข่าวกรองของอายาเบะไม่ได้แม่น เสมอไปหรอกนะ
+17-0038	sound_auth	Don't know what you mean.	ไม่รู้ว่าคุณพูดถึงอะไร
+17-0039	sound_auth	Don't know what you're talking about.	ไม่รู้เรื่องที่คุณพูดเลยสักนิด
+17-0040	sound_auth	Oh, I'm sure you do.	อ๋อ ผมมั่นใจว่าคุณรู้ดี
+17-0041	sound_auth	Listen. Don't underestimate the police.	ฟังนะ อย่าประมาทตำรวจนัก
+17-0042	sound_auth	Yeah, sorry. I had to wait around\nfor the cops to get here.	ครับ ขอโทษที ผมต้องรอ\nจนกว่าตำรวจจะมาถึงน่ะ
+17-0043	sound_auth	...Yeah. I had to wait around\nfor the cops to get here.	...ครับ ผมต้องรอ\nจนกว่าตำรวจจะมาถึงน่ะ
+17-0044	sound_auth	Is Genda-sensei still at the office?	อาจารย์เก็นดะยังอยู่ที่ สำนักงานไหมครับ?
+17-0045	sound_auth	Yes. He wants to talk to you\nabout Shintani.	ค่ะ เขาอยากคุยกับคุณ\nเรื่องชินทานิ
+17-0046	sound_auth	As do I.\nHoshino, too.	ฉันก็เหมือนกันค่ะ\nโฮชิโนะคุงก็ด้วย
+17-0047	sound_auth	Okay, I'll head over now.	โอเคครับ ผมจะไปเดี๋ยวนี้
+17-0048	sound_auth	Okay. I'll head over now.	โอเคครับ ผมไปเดี๋ยวนี้เลย
+17-0049	sound_auth	See you soon.	แล้วเจอกันครับ
+17-0050	sound_auth	I know you've had a rough night, Yagami... But if you're\nup to it, can you tell us what happened to Shintani?	ผมรู้ว่าคืนนี้คุณเจอเรื่องหนักมา ยากามิ... แต่ถ้าคุณไหว\nช่วยเล่าให้เราฟังได้ไหมว่าเกิด อะไรขึ้นกับชินทานิ
+17-0051	sound_auth	You've had a rough night, Yagami... but if you're up to it,\ncan you tell us what happened with Shintani?	คืนนี้คุณเจอเรื่องหนักมา ยากามิ... แต่ถ้าคุณไหว\nช่วยเล่าให้เราฟังได้ไหมว่าเกิด อะไรขึ้นกับชินทานิ
+17-0052	sound_auth	Saori-san was having trouble getting\nin touch with Shintani.	ซาโอริซังติดต่อชินทานิ\nไม่ได้เลย
+17-0053	sound_auth	...Shintani-sensei wasn't answering any calls.	...อาจารย์ชินทานิไม่รับสายเลยสักครั้ง
+17-0054	sound_auth	So I decided to give him a call myself,\nsee what the deal was.	ผมเลยลองโทรหาเขาเอง\nดูว่าเกิดอะไรขึ้น
+17-0055	sound_auth	At least, not from Saori-san.\nSo I thought I'd give him a call myself.	อย่างน้อยก็ไม่รับสายจากซาโอริซัง\nผมเลยลองโทรหาเขาเองดู
+17-0056	sound_auth	But when I dialed him up...\nI heard the phone ringing in my closet.	แต่พอผมโทรไป...\nกลับได้ยินเสียงโทรศัพท์ดังใน ตู้เสื้อผ้าของผม
+17-0057	sound_auth	Shintani was killed the same way\nas all the others.	ชินทานิถูกฆ่าด้วยวิธีเดียวกัน\nกับเหยื่อรายอื่นๆ
+17-0058	sound_auth	I found Shintani.\nJust like the Mole's other victims.	ผมเจอชินทานิ\nสภาพเหมือนเหยื่อรายอื่นของไส้ศึกเป๊ะ
+17-0059	sound_auth	The others?\nDo you mean his eyes were...	เหยื่อรายอื่น?\nหมายความว่าดวงตาของเขา...
+17-0060	sound_auth	It looked like the Mole's work?\nYou mean Shintani-sensei's eyes were...?	ฝีมือของไส้ศึกเหรอ?\nหมายความว่าดวงตาของอาจารย์ชินทานิ...?
+17-0061	sound_auth	Gouged out, yeah.	ถูกควักออก ใช่ครับ
+17-0062	sound_auth	Yeah. Gouged out.	ใช่ครับ ถูกควักออก
+17-0063	sound_auth	But Shintani's beef was with the Kyorei Clan.\nWhy would the Mole target him?	แต่คู่อริของชินทานิคือ ตระกูลเคียวเรอิ\nแล้วไส้ศึกจะเล่นงานเขาทำไม?
+17-0064	sound_auth	But the Kyorei were the ones after him.\nThere was no reason for the Mole to target him.	แต่คนที่ตามล่าเขาคือตระกูลเคียวเรอิ\nไส้ศึกไม่มีเหตุผลอะไรจะเล่นงานเขาเลย
+17-0065	sound_auth	I'm not so sure... It sounded like he knew\nsomething when you talked earlier.	ผมก็ไม่แน่ใจนัก... ฟังจากที่คุณคุยกับเขาก่อนหน้านี้\nดูเหมือนเขาจะรู้อะไรบางอย่าง
+17-0066	sound_auth	But Shintani-sensei... He sounded like he knew something\nearlier today, right?	แต่อาจารย์ชินทานิ... ฟังดูเหมือนเขารู้อะไรบางอย่าง\nตอนที่คุยกันวันนี้ใช่ไหมครับ?
+17-0067	sound_auth	Think this is some kind of yakuza pissing contest, do you?\nCome on! The Mole is way bigger than you know!	คิดว่านี่เป็นแค่เรื่องขัดแย้ง ของยากูซ่าเหรอครับ?\nไม่ใช่นะ! ไส้ศึกมันใหญ่กว่าที่อาจารย์คิดเยอะ!
+17-0068	sound_auth	You think this is just some yakuza dispute?\nThe Mole is bigger than any of that shit!	อาจารย์คิดว่านี่แค่เรื่อง ขัดแย้งของยากูซ่างั้นเหรอ?\nไส้ศึกมันใหญ่กว่าเรื่องพรรค์นั้นเยอะ!
+17-0069	sound_auth	He probably knew more about the Mole than I did.\nAnd his source had to have been Hamura.	เขาคงรู้เรื่องไส้ศึกมากกว่าผมด้วยซ้ำ\nและแหล่งข่าวของเขาก็คงเป็น ฮามุระนั่นเอง
+17-0070	sound_auth	So he knew something about the Mole that I didn't.\nI'd guess... he heard something from Hamura.	แปลว่าเขารู้เรื่องไส้ศึกที่ผมไม่รู้\nผมเดาว่า... เขาคงได้ยินอะไรมาจากฮามุระ
+17-0071	sound_auth	Maybe they killed him to keep their secret safe.	บางทีพวกมันอาจฆ่าเขาเพื่อ ปิดปากรักษาความลับ
+17-0072	sound_auth	But... why did he have to put\nShintani-sensei's body in your office?	แต่... ทำไมมันถึงต้องเอาศพ\nอาจารย์ชินทานิมาทิ้งไว้ที่ สำนักงานของยากามิซังด้วยล่ะคะ?
+17-0073	sound_auth	But, um... Why would the Mole have put Shintani-sensei...\nThat is, put his body in your office?	แต่... เอ่อ ทำไมไส้ศึกถึงเอาอาจารย์ชินทานิ...\nคือ เอาศพเขามาทิ้งที่สำนักงานของ ยากามิซังล่ะคะ?
+17-0074	sound_auth	Not sure.	ไม่แน่ใจเหมือนกัน
+17-0075	sound_auth	Maybe to harass me,\nmaybe to scare me off their trail. Maybe both.	อาจจะกวนประสาทผม\nหรือไม่ก็ขู่ให้ผมเลิกตามรอยพวกมัน หรืออาจจะทั้งสองอย่าง
+17-0076	sound_auth	Maybe to harass me, maybe to scare me\noff their trail. Maybe both.	อาจจะกวนประสาทผม หรือไม่ก็ขู่ให้ผมเลิกตามรอย\nพวกมัน หรืออาจจะทั้งสองอย่าง
+17-0077	sound_auth	You might wanna lay low for a bit.\nIt's not safe for you here.	คุณน่าจะหลบซ่อนตัวสักพัก\nอยู่ที่นี่มันไม่ปลอดภัยสำหรับคุณแล้ว
+17-0078	sound_auth	Get outta town, go somewhere quiet.	ออกไปนอกเมืองซะ ไปอยู่ที่เงียบๆ สักที่
+17-0079	sound_auth	If the Mole comes after you next...	ถ้าไส้ศึกหันมาเล่นงานคุณเป็นรายต่อไป...
+17-0080	sound_auth	Right. I'll do just that, Genda-sensei.	ครับ ผมจะทำแบบนั้นแหละครับ อาจารย์เก็นดะ
+17-0081	sound_auth	Makes sense.\nI'll do just that, Genda-sensei.	มีเหตุผลครับ\nผมจะทำแบบนั้นแหละ อาจารย์เก็นดะ
+17-0082	sound_auth	Y'know, I watched over Shintani\nsince his first day as a lawyer.	รู้ไหม ผมดูแลชินทานิ\nมาตั้งแต่วันแรกที่เขาเป็นทนาย
+17-0083	sound_auth	...I've been watching over Shintani\nsince his first day.	...ผมดูแลชินทานิมา\nตั้งแต่วันแรกเลยนะ
+17-0084	sound_auth	Kid had a good head on his shoulders.\nAnd a knack for the job I could never compete with.	เด็กคนนั้นหัวดีมาก\nมีพรสวรรค์ในงานนี้ที่ผมเองยัง สู้ไม่ได้
+17-0085	sound_auth	But he didn't have the guts to succeed when push came\nto shove. Not the most persistent lawyer I've seen.	แต่พอถึงเวลาคับขันจริงๆ เขากลับไม่มีความกล้าพอ\nจะไปให้สุด ไม่ใช่ทนายที่ยืนหยัดที่สุดที่ ผมเคยเจอ
+17-0086	sound_auth	But... he didn't have the guts when push came to shove.\nNot the most persistent lawyer I've seen.	แต่... พอถึงเวลาคับขันจริงๆ เขาไม่มีความกล้าพอ\nไม่ใช่ทนายที่ยืนหยัดที่สุดที่ ผมเคยเจอ
+17-0087	sound_auth	Even so, he looked up to me.	ถึงอย่างนั้นเขาก็ยังนับถือผม
+17-0088	sound_auth	Guess I took it for granted.\nThought he'd always be part of the team.	คงเป็นเพราะผมมองข้ามไปเอง\nคิดว่าเขาจะอยู่เป็นส่วนหนึ่ง ของทีมตลอดไป
+17-0089	sound_auth	Figured he'd always be part of the team here.\nTook him for granted.	คิดว่าเขาจะอยู่เป็นส่วนหนึ่ง ของทีมที่นี่ตลอดไป\nมองข้ามความสำคัญของเขาไปเอง
+17-0090	sound_auth	When I first joined, Shintani-sensei was the one\nwho showed me the ropes. He was a reliable man.	ตอนที่ผมเพิ่งเข้ามาทำงาน อาจารย์ชินทานิคือคนที่\nสอนงานให้ผมทุกอย่าง เขาเป็นคนที่พึ่งพาได้จริงๆ
+17-0091	sound_auth	When I first started working here, it was Shintani-sensei\nwho showed me the ropes of the job. He was my senpai.	ตอนที่ผมเริ่มทำงานที่นี่ใหม่ๆ อาจารย์ชินทานิคือคนที่\nสอนงานให้ผมทุกอย่าง เขาเป็นรุ่นพี่ของผม
+17-0092	sound_auth	Or so you thought, right?	หรือคุณแค่คิดไปเองว่างั้นสินะ
+17-0093	sound_auth	Thanks for this, Yagami.	ขอบใจนะ ยากามิ
+17-0094	sound_auth	Come on, Saori-kun.\nI'll walk you to the station.	ไปกันเถอะ ซาโอริคุง\nผมจะไปส่งที่สถานีเอง
+17-0095	sound_auth	Saori-kun... come on.\nI'll walk you to the station.	ซาโอริคุง... ไปกันเถอะ\nผมจะไปส่งที่สถานีเอง
+17-0096	sound_auth	Feel free to stay here tonight, Yagami.	คืนนี้พักที่นี่ได้ตามสบายเลยนะ ยากามิ
+17-0097	sound_auth	Feel free to stay here tonight.	คืนนี้พักที่นี่ได้ตามสบายเลย
+17-0098	sound_auth	What about you, Hoshino-kun?	แล้วโฮชิโนะคุงล่ะ?
+17-0099	sound_auth	And you, Hoshino-kun?	แล้วคุณล่ะ โฮชิโนะคุง?
+17-0100	sound_auth	I think I'll work a little more\nbefore I head home.	ผมว่าจะทำงานต่ออีกนิด\nก่อนกลับบ้านครับ
+17-0101	sound_auth	If you say so. G'night.	ถ้าคุณว่างั้นก็ตามนั้น ราตรีสวัสดิ์
+17-0102	sound_auth	If you say so.\nWell... 'Night.	ถ้าคุณว่างั้น\nก็... ราตรีสวัสดิ์
+17-0103	sound_auth	Good night, Boss.	ราตรีสวัสดิ์ครับ หัวหน้า
+17-0104	sound_auth	Good night.	ราตรีสวัสดิ์ครับ
+17-0105	sound_auth	(I need to go tell Genda-sensei\nwhat happened to Shintani...)	(ผมต้องไปบอกอาจารย์เก็นดะ\nว่าเกิดอะไรขึ้นกับชินทานิ...)
+17-0106	sound_auth	Make yourself at home, Yagami-san.\nI'll leave you the key.	พักที่นี่ได้ตามสบายเลยนะครับ ยากามิซัง\nผมจะฝากกุญแจไว้ให้
+17-0107	sound_auth	Make yourself at home, Yagami-san.\nHere, I'll even leave the key for you.	พักที่นี่ได้ตามสบายเลยครับ ยากามิซัง\nนี่ครับ ผมฝากกุญแจไว้ให้เลย
+17-0108	sound_auth	You've been here way longer anyway.\nYou deserve it more than me.	ยังไงคุณก็อยู่ที่นี่มานานกว่าผมเยอะ\nคุณสมควรได้รับสิ่งนี้มากกว่าผมครับ
+17-0109	sound_auth	You've been here way longer than I have, anyway.\nYou ought to have it.	ยังไงคุณก็อยู่ที่นี่มานานกว่า ผมเยอะครับ\nคุณควรได้รับสิ่งนี้มากกว่า
+17-0110	sound_auth	Are you going out, Yagami-san?	จะออกไปข้างนอกเหรอครับ ยากามิซัง?
+17-0111	sound_auth	...Yeah?	...ครับ?
+17-0112	sound_auth	...Hm?	...หืม?
+17-0113	sound_auth	There's, um...\nsomething I need to talk to you about.	มี เอ่อ...\nเรื่องที่ผมอยากคุยกับคุณครับ
+17-0114	sound_auth	Just, um... It can wait if you're busy, but\nthere's something I want to talk to you about.	แค่... เอ่อ ถ้าคุณไม่ว่างก็รอได้ครับ แต่\nมีเรื่องที่ผมอยากคุยด้วย
+17-0115	sound_auth	Uh, it can wait until you get back though.	เอ่อ แต่รอจนคุณกลับมาก่อนก็ได้ครับ
+17-0116	sound_auth	Ah, but don't let me keep you.	อ้อ แต่ไม่อยากรั้งคุณไว้หรอกครับ ไปเถอะ
+17-0117	sound_auth	Um, Yagami-san...\nDo you have a minute?	เอ่อ ยากามิซัง...\nมีเวลาสักครู่ไหมครับ?
+17-0118	sound_auth	Ah... Do you have a minute?\nI'd like to speak with you privately.	อ้อ... มีเวลาสักครู่ไหมครับ?\nผมอยากคุยกับคุณเป็นการส่วนตัว
+17-0119	sound_auth	Sure, what's up?	ได้สิ มีอะไรเหรอ?
+17-0120	sound_auth	Sure. What's up?	ได้สิ มีอะไรเหรอ?
+17-0121	sound_auth	Well, it's about Shintani-sensei...	คือ... เรื่องของอาจารย์ชินทานิน่ะครับ...
+17-0122	sound_auth	Yes, well... it's about Shintani-sensei...	ครับ คือ... เรื่องของอาจารย์ชินทานิน่ะครับ...
+17-0123	sound_auth	In a bit, okay?	เดี๋ยวค่อยคุยกันนะ?
+17-0124	sound_auth	Yagami-san, about what you said earlier...	ยากามิซัง เรื่องที่คุณพูดไว้เมื่อกี้...
+17-0125	sound_auth	I know you just told Genda-sensei\nyou're gonna lay low...	ผมรู้ว่าคุณเพิ่งบอกอาจารย์เก็นดะ\nไปว่าจะหลบซ่อนตัวสักพัก...
+17-0126	sound_auth	I know you told Genda-sensei\nyou're going to lay low...	ผมรู้ว่าคุณบอกอาจารย์เก็นดะ\nไปว่าจะหลบซ่อนตัว...
+17-0127	sound_auth	But that's not true, is it?\nYou want to keep hunting down this killer.	แต่นั่นไม่ใช่ความจริงใช่ไหมครับ?\nคุณยังอยากตามล่าฆาตกรคนนี้ ต่อไปอยู่ดี
+17-0128	sound_auth	But you're just going to keep looking\nfor the Mole, right?	แต่คุณก็แค่จะตามหา\nไส้ศึกต่อไปใช่ไหมครับ?
+17-0129	sound_auth	And if I said yes?	แล้วถ้าผมบอกว่าใช่ล่ะ?
+17-0130	sound_auth	And what if I am?	แล้วถ้าใช่ล่ะ?
+17-0131	sound_auth	Don't worry, I won't tell Genda-sensei.\nBut in return...	ไม่ต้องห่วงครับ ผมจะไม่บอกอาจารย์เก็นดะ\nแต่แลกกับที่...
+17-0132	sound_auth	I want to help you.\nLook for the Mole, that is.	ผมอยากช่วยคุณ\nตามหาไส้ศึกน่ะครับ
+17-0133	sound_auth	Can I help out too?\nLooking for the Mole, that is.	ผมขอช่วยด้วยคนได้ไหมครับ?\nช่วยตามหาไส้ศึกน่ะ
+17-0134	sound_auth	I won't slow you down, I promise.	ผมสัญญาว่าจะไม่ถ่วงคุณแน่นอนครับ
+17-0135	sound_auth	I won't slow you down,\nI promise! So...	ผมสัญญาว่าจะไม่ถ่วงคุณ\nแน่นอนครับ! เพราะฉะนั้น...
+17-0136	sound_auth	Looking to avenge Shintani, huh?	อยากล้างแค้นให้ชินทานิสินะ?
+17-0137	sound_auth	Don't tell me... you're looking to\navenge Shintani?	อย่าบอกนะว่า... คุณอยากจะ\nล้างแค้นให้ชินทานิ?
+17-0138	sound_auth	He wasn't as strong as he let on. The tough guy act\nwas a mask he wore to hide his insecurities.	เขาไม่ได้แข็งแกร่งอย่างที่ แสดงออกหรอกครับ ท่าทีห้าวๆ\nนั่นก็แค่หน้ากากที่เขาใช้ปิด บังความไม่มั่นใจในตัวเอง
+17-0139	sound_auth	You know... He only acted tough or arrogant to cover up his\ninsecurities. He was less confident than he let on.	รู้ไหมครับ... เขาแสดงท่าแข็งกร้าวหรือ หยิ่งผยองก็แค่\nปิดบังความไม่มั่นใจ จริงๆ แล้วเขามั่นใจน้อยกว่าที่แสดงออกเยอะ
+17-0140	sound_auth	Deep down, he was just... weak. 	ลึกๆ แล้วเขาก็แค่... อ่อนแอครับ
+17-0141	sound_auth	He was always trying to hide\nhow weak he was.	เขาพยายามปิดบังความอ่อนแอ\nของตัวเองมาตลอด
+17-0142	sound_auth	That's why he was going along with Hamura.\nNot because he wanted to.	นั่นแหละคือเหตุผลที่เขายอม ทำตามฮามุระ\nไม่ใช่เพราะเขาอยากทำหรอกครับ
+17-0143	sound_auth	That's why he was in with Captain Hamura.\nNot because he wanted to.	นั่นแหละคือเหตุผลที่เขาเข้าไป พัวพันกับกัปตันฮามุระ\nไม่ใช่เพราะเขาอยากทำหรอกครับ
+17-0144	sound_auth	I mean, who can say no to a yakuza...?	ก็... จะมีใครกล้าปฏิเสธยากูซ่าได้ล่ะครับ...?
+17-0145	sound_auth	He couldn't stand up to a yakuza, y'know?	เขาสู้ยากูซ่าไม่ไหวหรอกครับ รู้ไหม?
+17-0146	sound_auth	And now look how it turned out.	แล้วดูสิว่าจบลงยังไง
+17-0147	sound_auth	I was sitting right next to him this whole time...\nYet there was nothing I could do to help.	ผมนั่งอยู่ข้างๆ เขามาตลอดเวลา...\nแต่ก็ไม่มีอะไรที่ผมทำได้เพื่อ ช่วยเขาเลยครับ
+17-0148	sound_auth	The whole time, I just sat right next to him...\nand there was nothing I could do to help.	ตลอดเวลาที่ผ่านมา ผมแค่นั่งอยู่ข้างๆ เขา...\nแต่ไม่มีอะไรที่ผมช่วยได้เลยครับ
+17-0149	sound_auth	You know, I'm still young, I don't even know\nwhat kind of lawyer I want to be.	รู้ไหมครับ ผมยังเด็กอยู่ ผมยังไม่รู้เลยด้วยซ้ำ\nว่าอยากเป็นทนายแบบไหน
+17-0150	sound_auth	Really, I can't do much... I don't even know\nwhat kind of lawyer I want to be.	จริงๆ แล้วผมทำอะไรได้ไม่มากหรอกครับ... ผมยังไม่รู้เลย\nว่าอยากเป็นทนายแบบไหน
+17-0151	sound_auth	Criminal, civil...\nNot the slightest idea.	คดีอาญา คดีแพ่ง...\nผมไม่มีไอเดียเลยสักนิด
+17-0152	sound_auth	But I know one thing. I don't want to be the kind of lawyer\nwho sits on his hands after his friend gets murdered.	แต่มีอย่างหนึ่งที่ผมรู้แน่ๆ ผมไม่อยากเป็นทนายแบบที่\nนั่งเฉยอยู่เฉยๆ หลังเพื่อนถูกฆาตกรรม
+17-0153	sound_auth	But if there's one thing I do know...  I'm not a lawyer\nwho sits on his hands after his friend gets murdered.	แต่ถ้ามีเรื่องหนึ่งที่ผมรู้แน่ๆ... ผมไม่ใช่ทนาย\nที่จะนั่งเฉยหลังเพื่อนถูกฆาตกรรม
+17-0154	sound_auth	Which means...	ซึ่งหมายความว่า...
+17-0155	sound_auth	So...	เอาเป็นว่า...
+17-0156	sound_auth	Are you sure about this, Hoshino?\nGenda-sensei told me to lay low.	แน่ใจเหรอ โฮชิโนะ?\nอาจารย์เก็นดะสั่งให้ผมหลบ ซ่อนตัวไว้นะ
+17-0157	sound_auth	You sure about this?\nGenda-sensei already slapped my wrist.	แน่ใจแล้วเหรอ?\nอาจารย์เก็นดะเพิ่งเตือนผมมาหมาดๆ เลยนะ
+17-0158	sound_auth	If you're seen helping me...	ถ้าใครเห็นว่านายช่วยผม...
+17-0159	sound_auth	If you're seen helping me... 	ถ้าใครเห็นว่านายช่วยผม...
+17-0160	sound_auth	Don't worry about that.	ไม่ต้องห่วงเรื่องนั้นหรอกครับ
+17-0161	sound_auth	I'll defend myself in court if I need to.	ถ้าจำเป็นผมก็แก้ต่างให้ตัวเอง ในศาลได้เองครับ
+17-0162	sound_auth	Now, Yagami-san.	เอาล่ะครับ ยากามิซัง
+17-0163	sound_auth	Do you... mind if I tag along?	คุณ... จะรังเกียจไหมถ้าผมขอไปด้วย?
+17-0164	sound_auth	Is it okay? Can I tag along?	โอเคไหมครับ ผมขอไปด้วยได้ไหม?
+17-0165	sound_auth	You'll just tell Genda-sensei\nif I refuse, huh?	ถ้าผมปฏิเสธ นายก็จะไปบอก\nอาจารย์เก็นดะใช่ไหมล่ะ?
+17-0166	sound_auth	You'll just tell Genda-sensei if I refuse, huh?	ถ้าผมปฏิเสธ นายก็จะไปบอกอาจารย์เก็นดะใช่ไหมล่ะ?
+17-0167	sound_auth	...Yeah! Sorry, though.	...ใช่ครับ! แต่ก็ขอโทษด้วยนะครับ
+17-0168	sound_auth	Not much choice, then.\nWelcome aboard.	งั้นก็ไม่มีทางเลือกมากนักสินะ\nยินดีต้อนรับเข้าทีม
+17-0169	sound_auth	Well, not much choice.\nSure, welcome aboard.	ก็ไม่มีทางเลือกมากนัก\nได้เลย ยินดีต้อนรับเข้าทีม
+17-0170	sound_auth	Glad to be working with you.	ดีใจที่ได้ร่วมงานกับคุณครับ
+17-0171	sound_auth	The pleasure's mine.	ยินดีเหมือนกัน
+17-0172	sound_auth	Well, let's get down to business.  First off,\nI wanna know what Shintani was doing before he died.	เอาล่ะ เข้าเรื่องกันเลยดีกว่า\nอย่างแรกผมอยากรู้ว่าชินทานิทำ อะไรอยู่ก่อนตาย
+17-0173	sound_auth	Now, first we need to investigate what\nShintani was doing before he died.	เอาล่ะ อย่างแรกเราต้องสืบให้ได้\nว่าชินทานิทำอะไรอยู่ก่อนตาย
+17-0174	sound_auth	And I have some evidence\nthat may tell us just that.	และผมมีหลักฐานบางอย่าง\nที่อาจบอกเราได้พอดี
+17-0175	sound_auth	And I have some evidence that\nmay tell us just that.	และผมมีหลักฐานบางอย่าง\nที่อาจบอกเราได้พอดี
+17-0176	sound_auth	<color=ｍonologue>(I should have something that hints at\nwhat Shintani was doing before he died.)</color>	<color=ｍonologue>(ผมน่าจะมีอะไรบางอย่างที่บอกใบ้ได้\nว่าชินทานิทำอะไรอยู่ก่อนตาย)</color>
+17-0177	sound_auth	I managed to take this\nbefore the cops showed up.	ผมแอบเอาอันนี้มา\nก่อนตำรวจจะมาถึง
+17-0178	sound_auth	I took this before the cops showed up.	ผมเอาอันนี้มาก่อนตำรวจจะมาถึง
+17-0179	sound_auth	Yeah that's...\nShintani-sensei alright.	ใช่ นั่นคือ...\nอาจารย์ชินทานิแน่นอนครับ
+17-0180	sound_auth	That's... Shintani-sensei, isn't it.	นั่นคือ... อาจารย์ชินทานิใช่ไหมครับ
+17-0181	sound_auth	I'm not sure what this tells us about\nwhat he was doing before the murder.	ผมไม่แน่ใจว่ารูปนี้จะบอกอะไรเราได้\nเกี่ยวกับสิ่งที่เขาทำก่อนถูกฆ่า
+17-0182	sound_auth	But... I'm not sure what this tells us about\nhis actions before the murder.	แต่... ผมไม่แน่ใจว่ารูปนี้จะบอกอะไรเราได้\nเกี่ยวกับสิ่งที่เขาทำก่อนถูกฆ่า
+17-0183	sound_auth	Hm? Oh, right. My bad.	หืม? อ้อ จริงด้วย พลาดไปหน่อย
+17-0184	sound_auth	Hm? Really? Uh...\nWell, never mind.	หืม? จริงเหรอ? เอ่อ...\nช่างเถอะ ไม่เป็นไร
+17-0185	sound_auth	If we wanna know what Shintani\nwas up to before he got killed...	ถ้าเราอยากรู้ว่าชินทานิ\nทำอะไรอยู่ก่อนถูกฆ่า...
+17-0186	sound_auth	We need a clue... one that'll show us\nwhat Shintani did before his death.	เราต้องการเบาะแส... ที่จะบอกเราได้\nว่าชินทานิทำอะไรก่อนตาย
+17-0187	sound_auth	This might be just what we need.	อันนี้อาจเป็นสิ่งที่เราต้องการพอดี
+17-0188	sound_auth	Shintani dialed this number earlier today.	ชินทานิโทรไปเบอร์นี้เมื่อวันนี้เอง
+17-0189	sound_auth	Look. Shintani dialed this number\nearlier today.	ดูนี่สิ ชินทานิโทรไปเบอร์นี้\nเมื่อวันนี้เอง
+17-0190	sound_auth	I wanna know where it goes.	ผมอยากรู้ว่าเบอร์นี้โยงไปถึงใคร
+17-0191	sound_auth	And I'm wondering,\nwho's on the other end?	แล้วผมก็สงสัยว่า\nปลายสายคือใครกันแน่?
+17-0192	sound_auth	Right, that makes sense.	ครับ มีเหตุผลดี
+17-0193	sound_auth	It's a good thing the killer forgot\nto take Shintani's phone, huh?	โชคดีนะครับที่ฆาตกรลืม\nเอาโทรศัพท์ของชินทานิไปด้วย
+17-0194	sound_auth	I guess we got lucky, huh?\nThe killer must've forgotten to take his phone.	คงเป็นเพราะเราโชคดีสินะครับ\nฆาตกรคงลืมเอาโทรศัพท์เขาไปด้วย
+17-0195	sound_auth	This way we can see who he was calling.	แบบนี้เราก็เห็นได้ว่าเขาโทรหาใครบ้าง
+17-0196	sound_auth	Now we've got a trail we can follow.	ตอนนี้เรามีเส้นทางให้ตามรอยแล้วครับ
+17-0197	sound_auth	The killer didn't forget. Even if the phone was gone,\nwe'd still be able to get Shintani's data from his provider.	ฆาตกรไม่ได้ลืมหรอก ต่อให้โทรศัพท์หายไป\nเราก็ยังขอข้อมูลของชินทานิจาก ค่ายมือถือได้อยู่ดี
+17-0198	sound_auth	No, they didn't forget. Even if the phone was gone,\nwe could get Shintani's data from his provider.	ไม่ พวกมันไม่ได้ลืมหรอก ต่อให้โทรศัพท์หายไป\nเราก็ยังขอข้อมูลของชินทานิจาก ค่ายมือถือได้อยู่ดี
+17-0199	sound_auth	Really? I had no idea.	จริงเหรอ ไม่รู้เลยแฮะ
+17-0200	sound_auth	Yup. I'd bet he left the phone so I'd find the body quicker.	ใช่ ผมพนันได้เลยว่ามันเจตนาทิ้ง โทรศัพท์ไว้เพื่อให้ผมเจอศพเร็ว ขึ้น
+17-0201	sound_auth	I'd say... the Mole specifically left the phone\nso I'd find the body quicker.	ผมว่า... ไส้ศึกจงใจทิ้งโทรศัพท์ไว้\nเพื่อให้ผมเจอศพเร็วขึ้นต่างหาก
+17-0202	sound_auth	Huh...?	หา...?
+17-0203	sound_auth	I mean, he went through the trouble of hiding\nit in my office of all places.	ก็คือ มันถึงกับลำบากไปซ่อนศพ\nไว้ที่สำนักงานของผมโดยเฉพาะเลยนี่นา
+17-0204	sound_auth	I mean, he went through the trouble of\nhiding it in my office of all places.	ก็คือ มันถึงกับลำบากไปซ่อนศพไว้\nที่สำนักงานของผมโดยเฉพาะเลยนี่นา
+17-0205	sound_auth	Probably wanted to cause as much chaos\nas possible, you know?	คงแค่อยากสร้างความวุ่นวาย\nให้ได้มากที่สุดน่ะ เข้าใจนะ?
+17-0206	sound_auth	He probably just wanted to stir up\nsome fast, messy chaos... I guess.	เขาก็แค่อยากป่วนให้เละเทะ\nแบบไว ๆ นั่นแหละ... มั้ง
+17-0207	sound_auth	Hey! The number got a hit in the search.	เฮ้! เจอเบอร์นี้ในผลค้นหาแล้ว
+17-0208	sound_auth	...Ah! I found the number.\nIt's listed on the internet...	...อ๊ะ! เจอเบอร์แล้ว\nมันอยู่ในอินเทอร์เน็ตนี่เอง...
+17-0209	sound_auth	It's apparently for the...\nAdvanced Drug Development Center?	เหมือนจะเป็นเบอร์ของ...\nศูนย์พัฒนายาขั้นสูงเหรอเนี่ย?
+17-0210	sound_auth	"Advanced Drug Development Center"?\nI guess it's a business number...	"ศูนย์พัฒนายาขั้นสูง" เหรอ?\nคงเป็นเบอร์ธุรกิจสินะ...
+17-0211	sound_auth	What, do you know it?	อะไรเหรอ คุณรู้จักที่นั่นเหรอ?
+17-0212	sound_auth	Three years ago...\nThere was a pretty famous murder there.	เมื่อสามปีก่อน...\nมีคดีฆาตกรรมดังอยู่ที่นั่นด้วยนะ
+17-0213	sound_auth	Three years ago... there was\na famous murder there.	เมื่อสามปีก่อน... มี\nคดีฆาตกรรมดังเกิดขึ้นที่นั่น
+17-0214	sound_auth	A patient was killed,\nand their body dumped in the mountains.	คนไข้คนหนึ่งถูกฆ่า\nแล้วเอาศพไปทิ้งบนภูเขา
+17-0215	sound_auth	A patient was brutally murdered.\nThe body was dumped in the mountains.	คนไข้คนหนึ่งถูกฆ่าอย่างโหดร้าย\nศพถูกเอาไปทิ้งบนภูเขา
+17-0216	sound_auth	Whoa.	โว้ว
+17-0217	sound_auth	And the man they arrested for it\nwas named Shinpei Okubo.	แล้วคนที่ถูกจับข้อหานี้\nชื่อชินเป โอคุโบะ
+17-0218	sound_auth	And the man they arrested for it...\nwas Shinpei Okubo.	แล้วคนที่ถูกจับข้อหานี้...\nก็คือชินเป โอคุโบะ
+17-0219	sound_auth	Okubo, Okubo...	โอคุโบะ โอคุโบะ...
+17-0220	sound_auth	Okubo...?	โอคุโบะ...?
+17-0221	sound_auth	Wait, he was your client, wasn't he?	เดี๋ยวนะ เขาเคยเป็นลูกความคุณไม่ใช่เหรอ?
+17-0222	sound_auth	Wait, he was your client... wasn't he?	เดี๋ยวนะ เขาเคยเป็นลูกความคุณ... ไม่ใช่เหรอ?
+17-0223	sound_auth	Yeah, exactly.	ใช่ เขานั่นแหละ
+17-0224	sound_auth	Yeah, that's him.	ใช่ คนนั้นแหละ
+17-0225	sound_auth	He worked as a contract laundry man\nfor the center.	เขาทำงานเป็นพนักงานซักผ้า\nตามสัญญาให้ศูนย์นั้น
+17-0226	sound_auth	Shinpei Okubo was... a laundry guy\nover at the Center.	ชินเป โอคุโบะ เป็น...\nพนักงานซักผ้าที่ศูนย์นั่น
+17-0227	sound_auth	Every two or three days, he'd stop by\nto pick up their dirty linens.	ทุกสองสามวัน เขาจะแวะไป\nรับผ้าปูที่นอนเปื้อน ๆ มาซัก
+17-0228	sound_auth	Every two or three days,\nhe'd pick up their dirty linens.	ทุกสองสามวัน\nเขาจะไปรับผ้าเปื้อนมาซัก
+17-0229	sound_auth	According to the police report, it was thought he\ncarried the body out in a bundle of sheets.	ตามรายงานตำรวจ เชื่อว่าเขา\nแอบขนศพออกมาในมัดผ้าปูที่นอน
+17-0230	sound_auth	And, according to the police report,\nhe carried the body out in a bundle of sheets.	และตามรายงานตำรวจ\nเขาขนศพออกมาในมัดผ้าปูที่นอน
+17-0231	sound_auth	Right. And you defended him in court,\nand won...	ใช่ แล้วคุณก็แก้ต่างให้เขาในศาล\nจนชนะคดี...
+17-0232	sound_auth	...Right. And you were the one responsible\nfor clearing Okubo's name. 	...ใช่ แล้วคุณก็เป็นคนที่\nช่วยล้างมลทินให้โอคุโบะ 
+17-0233	sound_auth	But then he...\nHe got free and...	แต่แล้วเขาก็...\nพอเป็นอิสระแล้วก็...
+17-0234	sound_auth	But then, once he was free...	แต่แล้วพอเขาได้เป็นอิสระ...
+17-0235	sound_auth	You can stop there.	พอแค่นั้นเถอะ
+17-0236	sound_auth	But why would Shintani-sensei have called the ADDC?\nWho would he even talk to?	แต่ทำไมอาจารย์ชินทานิถึงโทรหา ADDC ล่ะ?\nเขาจะคุยกับใครที่นั่นกันแน่?
+17-0237	sound_auth	But then... why would Shintani-sensei call the ADDC?\nWho would he even talk to?	แต่แล้ว... ทำไมอาจารย์ชินทานิถึงโทรหา ADDC?\nเขาจะโทรหาใครที่นั่นกันแน่?
+17-0238	sound_auth	I bet we'll find out if we give them a ring.	โทรไปถามเองก็คงรู้แหละ
+17-0239	sound_auth	But it's getting late.	แต่ก็ดึกแล้วนะ
+17-0240	sound_auth	Then again, it's getting late.	ว่าไปก็ดึกแล้วเหมือนกัน
+17-0241	sound_auth	You should go home.\nWe both need some shut eye, yeah?	กลับบ้านไปเถอะ\nเราสองคนต้องนอนพักกันบ้างแล้วล่ะ
+17-0242	sound_auth	You should go home, Hoshino-kun.\nWe both need some shuteye, yeah?	กลับบ้านไปเถอะ โฮชิโนะคุง\nเราสองคนต้องพักผ่อนกันบ้างแล้วนะ
+17-0243	sound_auth	Yeah, we can start fresh tomorrow.\nWhere do we want to meet?	ครับ พรุ่งนี้เริ่มใหม่กันดีกว่า\nแล้วจะนัดเจอกันที่ไหนดีครับ?
+17-0244	sound_auth	Oh right...	อ้อ จริงด้วย...
+17-0245	sound_auth	We wanna keep this a secret\nfrom Genda-sensei, after all.	ยังไงเราก็อยากเก็บเรื่องนี้ เป็นความลับ\nจากอาจารย์เก็นดะอยู่แล้วนี่นา
+17-0246	sound_auth	Gotta keep this a secret from\nGenda-sensei, after all.	ยังไงก็ต้องปิดเรื่องนี้เป็นความลับ\nจากอาจารย์เก็นดะอยู่ดีนั่นแหละ
+17-0247	sound_auth	There's an arcade called Charles up on\nPark Boulevard. That should work for now.	มีร้านเกมชื่อชาร์ลส์อยู่แถว\nถนนปาร์คบูเลอวาร์ด ไปนัดที่นั่นก่อนก็ได้
+17-0248	sound_auth	Okay, I'll let Kaito-san know.	โอเค ผมจะไปบอกไคโตะซังนะครับ
+17-0249	sound_auth	Okay, I'll be sure to let\nKaito-san know.	โอเค ผมจะบอก\nไคโตะซังให้แน่ ๆ ครับ
+17-0250	sound_auth	Yeah. Thanks.	เออ ขอบใจ
+17-0251	sound_auth	Yeah, I'll see you.	อือ แล้วเจอกัน
+17-0252	sound_auth	Yeah, I'll see you at Charles.	อือ แล้วเจอกันที่ชาร์ลส์นะ
+17-0253	sound_auth	(I told Hoshino I'd meet him at Charles today.\nGuess it's time to head over.)	(บอกโฮชิโนะไว้ว่าจะไปเจอกันที่ ชาร์ลส์วันนี้\nคงถึงเวลาต้องไปแล้วสินะ)
+17-0254	sound_auth	Sugiura...	ซุกิอุระ...
+17-0255	sound_auth	Kaito-san told me you'd be here.	ไคโตะซังบอกผมว่าคุณอยู่ที่นี่ครับ
+17-0256	sound_auth	Don't forget about me next time, yeah?	ครั้งหน้าอย่าลืมผมด้วยล่ะ
+17-0257	sound_auth	I wish you'd fuckin' forget about me. Is there a reason\nyour little gang needs to keep meeting up here?	อยากให้ลืมผมไปเลยจริง ๆ จะให้พวกนาย\nมานัดเจอกันที่นี่กันทำไมนักหนา
+17-0258	sound_auth	I wish you'd fuckin' forget about <font_kind=yakuza_italic>me</font_kind>. Come on,\nwhy do you have to meet <font_kind=yakuza_italic>here</font_kind> of all places anyway?	อยากให้ลืม<font_kind=yakuza_italic>ผม</font_kind>ไปเลยจริง ๆ ให้ตายเถอะ\nจะมานัดเจอกัน<font_kind=yakuza_italic>ที่นี่</font_kind>ทำไมกันนักหนา
+17-0259	sound_auth	It's so nice of you to let us use your store, Higashi-san.\nEspecially when you're clearly so opposed to the idea.	ใจดีจังเลยนะครับที่ยอมให้ พวกเรายืมร้านใช้ ฮิงาชิซัง\nทั้ง ๆ ที่เห็นชัด ๆ ว่าไม่ค่อยเต็มใจเท่าไหร่
+17-0260	sound_auth	It's so nice of you to let us use your place, Higashi-san.\nEspecially when you're clearly so opposed to the idea.	ใจดีจังนะครับที่ให้พวกเรายืม ที่นี่ใช้ ฮิงาชิซัง\nทั้ง ๆ ที่เห็นชัด ๆ ว่าไม่ค่อยอยากให้ยืมเลย
+17-0261	sound_auth	Don't talk down to yakuza, kid.	อย่ามาพูดจาดูถูกยากูซ่า ไอ้หนู
+17-0262	sound_auth	...Don't tease the yakuza, kid.	...อย่ามาแหย่ยากูซ่า ไอ้หนู
+17-0263	sound_auth	It's okay, Higashi-san. I think we all know\nyou're nicer than you let on.	ไม่เป็นไรครับ ฮิงาชิซัง ผมว่าทุกคนก็รู้กันดี\nว่าจริง ๆ แล้วคุณใจดีกว่าที่แสดงออกเยอะ
+17-0264	sound_auth	It's all right, really! We can all tell\nyou're nicer than you let on.	ไม่เป็นไรจริง ๆ ครับ! พวกเรามองออกกันหมด\nว่าจริง ๆ แล้วคุณใจดีกว่าที่ทำเป็นเถอะ
+17-0265	sound_auth	Damn, and you're braver than you look,\nHoshino-kun.	โห กล้ากว่าที่หน้าตาบอกไว้เยอะเลยนะ\nโฮชิโนะคุง
+17-0266	sound_auth	Wow. You're braver than\nyou look, Hoshino.	โห นายกล้ากว่าที่\nดูภายนอกเยอะเลยนะ โฮชิโนะ
+17-0267	sound_auth	You got the skills to back it up?	แล้วมีฝีมือรองรับความกล้านั่นมั้ยล่ะ?
+17-0268	sound_auth	You have the skill\nto back that bravery up?	แล้วนายมีฝีมือ\nรองรับความกล้านั้นรึเปล่า?
+17-0269	sound_auth	Just a third degree blackbelt.	ก็แค่สายดำระดับสามเองครับ
+17-0270	sound_auth	Just a third degree\nblack belt in karate.	ก็แค่สายดำคาราเต้\nระดับสามเองครับ
+17-0271	sound_auth	Not that I've ever had to use it.	ถึงจะไม่เคยได้ใช้จริงเลยก็เถอะครับ
+17-0272	sound_auth	Not that I've ever used it.	ถึงจะไม่เคยได้ใช้เลยก็เถอะครับ
+17-0273	sound_auth	Well, wanna call this meeting to order?	เอาล่ะ เริ่มประชุมกันเลยมั้ย?
+17-0274	sound_auth	So the gang's all here.	มากันครบแก๊งแล้วสินะ
+17-0275	sound_auth	Sure, I'll do the honors.	ได้ ผมเริ่มเองก็ได้
+17-0276	sound_auth	Yeah. So we are.	ใช่ มากันครบจริงด้วย
+17-0277	sound_auth	Masamichi Shintani of the Genda Law Office,\nhas been murdered.	มาซามิจิ ชินทานิ จากสำนักงานกฎหมายเก็นดะ\nถูกฆาตกรรม
+17-0278	sound_auth	Masamichi Shintani, of the Genda Law Office,\nhas been murdered.	มาซามิจิ ชินทานิ แห่งสำนักงานกฎหมายเก็นดะ\nถูกฆาตกรรม
+17-0279	sound_auth	Given that his eyes were gouged out,\nit's likely the Mole was responsible.	จากที่ดวงตาถูกควักออก\nน่าจะเป็นฝีมือของไส้ศึก
+17-0280	sound_auth	Given that his eyes were gouged out,\nit's likely the Mole was responsible somehow.	จากที่ดวงตาถูกควักออก\nไม่ทางใดก็ทางหนึ่งน่าจะเป็น ฝีมือไส้ศึก
+17-0281	sound_auth	And I'll need all of your help\nto track him down.	และผมต้องขอความช่วยเหลือจากทุกคน\nเพื่อตามล่าตัวมันให้เจอ
+17-0282	sound_auth	Everyone... I'll need your help\nto track him down.	ทุกคน... ผมต้องขอความช่วยเหลือ\nเพื่อตามล่าตัวมันให้เจอ
+17-0283	sound_auth	The ADDC, huh?\nWeird time for that to come up again.	ADDC เหรอ\nแปลกจังที่ชื่อนี้โผล่มาอีกรอบตอนนี้
+17-0284	sound_auth	Again? It's come up before?	อีกรอบ? เคยมีมาก่อนด้วยเหรอ?
+17-0285	sound_auth	You're already familiar\nwith them, Yagami-san?	คุณรู้จักที่นั่น\nมาก่อนแล้วเหรอครับ ยากามิซัง?
+17-0286	sound_auth	We can talk about that later. What's important now is,\nShintani called them before he was killed.	เรื่องนั้นค่อยคุยกันทีหลัง ตอนนี้สิ่งสำคัญคือ\nชินทานิโทรหาที่นั่นก่อนถูกฆ่า
+17-0287	sound_auth	Yeah. But the key thing now is that Shintani\ncalled them just before his death.	ใช่ แต่ประเด็นสำคัญตอนนี้คือ\nชินทานิโทรหาที่นั่นก่อน เสียชีวิตไม่นาน
+17-0288	sound_auth	<color=ｍonologue>(I don't get it.\nWhat's the connection between Shintani and the ADDC?)</color>	<color=ｍonologue>(ผมไม่เข้าใจเลย\nชินทานิกับ ADDC เกี่ยวข้องกันยังไง?)</color>
+17-0289	sound_auth	Hm. I think I remember them being\nin the news a lot last year.	อืม ผมจำได้ว่าที่นั่น\nเคยออกข่าวบ่อยเมื่อปีที่แล้ว
+17-0290	sound_auth	I heard a little about the ADDC.\nWeren't they in the news a lot last year?	ผมเคยได้ยินเรื่อง ADDC มาบ้าง\nปีที่แล้วออกข่าวบ่อยไม่ใช่เหรอ?
+17-0291	sound_auth	Something about a new drug\nthat could win a Nobel Prize.	อะไรสักอย่างเกี่ยวกับยาตัวใหม่\nที่อาจคว้ารางวัลโนเบลได้
+17-0292	sound_auth	Something like... a new drug\nthat could win a Nobel Prize?	ประมาณว่า... ยาตัวใหม่\nที่อาจได้รางวัลโนเบลมั้ง?
+17-0293	sound_auth	Yeah, here it is.	ใช่ อยู่นี่ไง
+17-0294	sound_auth	Yes. Here it is.	ใช่ครับ อยู่ตรงนี้
+17-0295	sound_auth	The ADDC's research into AD-9 has now been published\nin one of the world's leading scientific magazines...	งานวิจัย AD-9 ของ ADDC ได้รับการตีพิมพ์แล้ว\nในนิตยสารวิทยาศาสตร์ชั้นนำของ โลกฉบับหนึ่ง...
+17-0296	sound_auth	Yes, the ADDC would like to welcome reporters from Japan\nand abroad to discuss our research into AD-9...	ครับ ทาง ADDC ขอต้อนรับผู้สื่อข่าวทั้งจากญี่ปุ่น\nและต่างประเทศ เพื่อพูดคุยเกี่ยวกับงานวิจัย AD-9 ของเรา...
+17-0297	sound_auth	Leading to the gathering of reporters from both\nJapan and abroad that we have here today.	จนนำมาสู่การรวมตัวของ ผู้สื่อข่าวทั้งจากญี่ปุ่น\nและต่างประเทศที่มากันในวันนี้
+17-0298	sound_auth	You may already have read of it in some of the papers\npublished in scientific journals across the world...	คุณอาจเคยอ่านเรื่องนี้มาบ้างแล้ว\nจากบทความที่ตีพิมพ์ในวารสาร วิทยาศาสตร์ทั่วโลก...
+17-0299	sound_auth	It's a brand new dementia drug.\nThey call it AD-9.	มันคือยารักษาโรคสมองเสื่อม ตัวใหม่ล่าสุด\nเรียกกันว่า AD-9
+17-0300	sound_auth	It's a brand new dementia drug\ncalled AD-9.	มันคือยารักษาโรคสมองเสื่อมตัวใหม่\nที่ชื่อว่า AD-9
+17-0301	sound_auth	This was right after Director Kido\nfrom the ADDC published his paper on it.	นี่คือช่วงหลังจากที่ผู้อำนวยการคิโดะ\nแห่ง ADDC เผยแพร่งานวิจัยเรื่องนี้ไม่นาน
+17-0302	sound_auth	This was after the ADDC's Director Kido\npublished his paper on it.	นี่คือช่วงหลังจากที่ ผู้อำนวยการคิโดะแห่ง ADDC\nเผยแพร่งานวิจัยเรื่องนี้
+17-0303	sound_auth	They're still undergoing clinical trials on larger animals, but apparently\nevery single mouse they've given it to has made a full recovery.	พวกเขายังอยู่ระหว่างทดลองทาง คลินิกกับสัตว์ใหญ่ แต่ดูเหมือนว่า\nหนูทุกตัวที่ได้รับยานี้จะหาย เป็นปกติหมดเลย
+17-0304	sound_auth	They're still undergoing clinical trials on larger animals,\nbut apparently it's been reliably curing affected mice.	พวกเขายังอยู่ระหว่างทดลองทาง คลินิกกับสัตว์ใหญ่\nแต่ดูเหมือนว่ามันรักษาหนูที่ ป่วยได้ผลแน่นอนทุกครั้ง
+17-0305	sound_auth	The man giving the presentation\nhere is Dr. Ryusuke Kido.	ชายที่กำลังบรรยายอยู่\nคือ ดร. ริวสึเกะ คิโดะ
+17-0306	sound_auth	There... The man smiling for the cameras\nis Dr. Kido.	นั่นไง... ชายที่กำลังยิ้มให้กล้อง\nคือ ดร. คิโดะ
+17-0307	sound_auth	A world leader in neurophysiology\nand the primary researcher on AD-9.	ผู้นำระดับโลกด้านสรีรวิทยาประสาท\nและนักวิจัยหลักของ AD-9
+17-0308	sound_auth	A world leader in neurophysiology,\nand the primary researcher into AD-9.	ผู้นำระดับโลกด้านสรีรวิทยาประสาท\nและเป็นนักวิจัยหลักของ AD-9
+17-0309	sound_auth	He's the one who showed me around the Center\nwhen I was looking into Okubo's case.	เขาคือคนที่พาผมเดินดูรอบศูนย์นั่น\nตอนที่ผมสืบคดีของโอคุโบะ
+17-0310	sound_auth	Three years ago, during the Okubo case,\nhe showed me around the building.	เมื่อสามปีก่อน ตอนคดีโอคุโบะ\nเขาพาผมเดินดูรอบตึกนั่น
+17-0311	sound_auth	Guess he's been the director for a while now.	งั้นเขาก็เป็นผู้อำนวยการมา สักพักแล้วสินะ
+17-0312	sound_auth	From what I can tell, the Ministry of Health is increasing\nthe ADDC's budget to hasten the development of AD-9. 	เท่าที่ผมเช็กดู กระทรวงสาธารณสุขกำลังเพิ่ม\nงบให้ ADDC เพื่อเร่งพัฒนา AD-9 
+17-0313	sound_auth	To get AD-9 ready for the public faster, the\nMinistry of Health is increasing the ADDC's budget.	เพื่อให้ AD-9 พร้อมใช้กับสาธารณชนเร็วขึ้น\nกระทรวงสาธารณสุขเลยเพิ่มงบให้ ADDC
+17-0314	sound_auth	They're even adding another building to the Center.\nIt's a huge project.	ถึงขั้นสร้างตึกเพิ่มให้ศูนย์อีกหลัง\nโปรเจกต์นี้ใหญ่โตจริง ๆ
+17-0315	sound_auth	They're definitely committed to expanding it.\nThe ADDC is even getting another building.	พวกเขาตั้งใจขยายกิจการแน่นอน\nถึงขั้นให้ ADDC ได้ตึกเพิ่มอีกหลัง
+17-0316	sound_auth	Yeah, and the ADDC's run by\nthe Medical Device Development Institute.	ใช่ แล้ว ADDC ก็บริหารโดย\nสถาบันพัฒนาอุปกรณ์การแพทย์
+17-0317	sound_auth	They have all the land in the world to expand on.	มีที่ดินให้ขยายได้ไม่จำกัดเลยแบบนี้
+17-0318	sound_auth	Damn good deal they've got.	โคตรได้เปรียบเลยเนี่ย
+17-0319	sound_auth	Sounds like they're rolling in it.	ฟังดูรวยจนไม่รู้จะเอาเงินไปทำ อะไรแล้ว
+17-0320	sound_auth	I'm still not gettin' it, though.\nWhy'd Shintani go and call them?	ฉันยังงงอยู่ดีว่ะ\nทำไมชินทานิต้องไปโทรหาที่นั่นด้วย?
+17-0321	sound_auth	Hold up. There's one thing I don't get.\nWhy'd Shintani call them, anyway?	เดี๋ยวก่อน มีเรื่องนึงที่ฉันยังไม่เก็ต\nทำไมชินทานิถึงโทรหาที่นั่นกันแน่?
+17-0322	sound_auth	That's what we're about to find out.\nAnd there's only one way to do that.	นั่นแหละคือสิ่งที่เรากำลังจะหาคำตอบ\nและมีทางเดียวที่จะรู้ได้
+17-0323	sound_auth	That's what we're about to find out, right?\nAnd calling the center is how we'll do it.	นั่นแหละคือสิ่งที่เรากำลังจะรู้ ใช่มั้ย?\nและการโทรไปที่ศูนย์นั่นแหละคือ วิธีที่จะรู้
+17-0324	sound_auth	C'mon, you can't just take a man's phone!	ไม่เอาน่า จะมาแย่งมือถือคนอื่นเฉย ๆ แบบนี้ได้ไงครับ!
+17-0325	sound_auth	Hey, what the!?\nThat's not your phone!	เฮ้ อะไรเนี่ย!?\nนั่นไม่ใช่มือถือคุณนะครับ!
+17-0326	sound_auth	First off, we'll need to figure out\nwho Shintani was calling.	อย่างแรกเลย เราต้องหาให้ได้ก่อน\nว่าชินทานิโทรหาใคร
+17-0327	sound_auth	Shintani must have called someone specific.\nWe gotta figure out who.	ชินทานิต้องโทรหาใครสักคนแน่ ๆ\nเราต้องหาให้เจอว่าใคร
+17-0328	sound_auth	Yeah. But how are we gonna do that\nover the phone?	ใช่ครับ แต่เราจะรู้ได้ยังไง\nแค่ผ่านโทรศัพท์?
+17-0329	sound_auth	I suppose that all depends on your acting skills,\nDetective Yagami.	ก็คงขึ้นอยู่กับฝีมือการแสดงของ คุณแล้วล่ะครับ\nนักสืบยากามิ
+17-0330	sound_auth	It's your job to figure that out,\nDetective Yagami.	นั่นเป็นหน้าที่ของคุณที่ต้องหาทางเอง\nนักสืบยากามิ
+17-0331	sound_auth	<color=ｍonologue>(I just have to figure out who he called, and why.)</color>	<color=ｍonologue>(ผมแค่ต้องหาให้ได้ว่าเขาโทรหาใคร แล้วทำไม)</color>
+17-0332	sound_auth	ADDC, front desk speaking.	ADDC แผนกต้อนรับค่ะ
+17-0333	sound_auth	Advanced Drug Development Center,\nfront desk speaking.	ศูนย์พัฒนายาขั้นสูง\nแผนกต้อนรับค่ะ
+17-0334	sound_auth	Hi there, ma'am. This is...	สวัสดีครับคุณผู้หญิง ผมชื่อ...
+17-0335	sound_auth	This is Masamichi Shintani.\nI'm a lawyer from the Genda Law Office.	ผมชื่อมาซามิจิ ชินทานิครับ\nเป็นทนายจากสำนักงานกฎหมายเก็นดะ
+17-0336	sound_auth	This is Masamichi Shintani,\na lawyer from the Genda Law Office.	ผมชื่อมาซามิจิ ชินทานิ\nทนายจากสำนักงานกฎหมายเก็นดะครับ
+17-0337	sound_auth	Oh, it's good to hear from you,\nShintani-sama.	อ๋อ ดีใจที่ได้ยินเสียง\nท่านชินทานิอีกครั้งค่ะ
+17-0338	sound_auth	Could put me through to the same\nperson I spoke to yesterday?	ช่วยต่อสายให้ผมคุยกับ\nคนเดิมที่คุยด้วยเมื่อวานได้ไหมครับ?
+17-0339	sound_auth	I actually called to speak to someone yesterday.\nCould you put me through to the same person?	จริง ๆ ผมโทรมาคุยกับใครบางคนเมื่อวานนี้ครับ\nช่วยต่อสายให้คุยกับคนเดิมได้ไหมครับ?
+17-0340	sound_auth	Do you know the extension\nyou wish to reach?	คุณทราบเบอร์ต่อภายใน\nที่ต้องการติดต่อไหมคะ?
+17-0341	sound_auth	I can help you reach a staff member,\nbut do you have a name or extension?	ดิฉันช่วยต่อสายให้เจ้าหน้าที่ได้ค่ะ\nแต่คุณมีชื่อหรือเบอร์ต่อไหมคะ?
+17-0342	sound_auth	Oh, uh... It sorta slipped my mind, sorry.\nCan you maybe look into the transfer history?	เอ่อ... จำไม่ได้ซะแล้วครับ ขอโทษที\nช่วยเช็กประวัติการโอนสายให้ หน่อยได้ไหมครับ?
+17-0343	sound_auth	...It sorta slipped my mind, sorry.\nCan you maybe look into the transfer history?	...จำไม่ได้ซะแล้วครับ ขอโทษที\nช่วยเช็กประวัติการโอนสายให้ หน่อยได้ไหมครับ?
+17-0344	sound_auth	Hm...	อืม...
+17-0345	sound_auth	Why don't you just tell me what the call was about,\nand I'll connect you to the proper department.	ลองเล่าให้ดิฉันฟังหน่อยว่าโทร มาเรื่องอะไรค่ะ\nแล้วดิฉันจะต่อสายไปแผนกที่ถูกต้องให้
+17-0346	sound_auth	Why don't you just tell me what the call was about?\nI'll connect you to the proper department.	บอกดิฉันหน่อยได้ไหมคะว่าโทรมา เรื่องอะไร?\nดิฉันจะต่อสายไปแผนกที่ถูกต้องให้
+17-0347	sound_auth	Oh, in that case...	อ๋อ ถ้างั้น...
+17-0348	sound_auth	That should be fine. Uh...	น่าจะโอเคนะครับ เอ่อ...
+17-0349	sound_auth	It was about the Shinpei Okubo incident.	เป็นเรื่องเกี่ยวกับเหตุการณ์ของชินเป โอคุโบะครับ
+17-0350	sound_auth	A patient of yours was murdered\non-site three years ago.	คนไข้ของที่นี่ถูกฆาตกรรม\nในบริเวณนี้เมื่อสามปีก่อนครับ
+17-0351	sound_auth	You're... not with the media, are you?	คุณ... ไม่ใช่สื่อใช่ไหมคะ?
+17-0352	sound_auth	Um... You're not with the media, are you?	เอ่อ... คุณไม่ใช่นักข่าวใช่ไหมคะ?
+17-0353	sound_auth	Nope, I'm most certainly a lawyer.	เปล่าครับ ผมเป็นทนายความแน่นอน
+17-0354	sound_auth	No, no. I'm a lawyer, like I said.	เปล่า เปล่า ผมเป็นทนายอย่างที่บอกครับ
+17-0355	sound_auth	Why don't I connect you with our publicity department?\nThey'll know more about what you're looking for.	ดิฉันขอต่อสายไปแผนก ประชาสัมพันธ์ให้นะคะ\nพวกเขาจะรู้เรื่องที่คุณตามหา มากกว่าค่ะ
+17-0356	sound_auth	Of course. Our PR department might have more\ninformation. May I connect you?	ได้ค่ะ แผนกประชาสัมพันธ์อาจมีข้อมูล\nมากกว่านี้ ดิฉันขอต่อสายให้นะคะ?
+17-0357	sound_auth	It was about AD-9. The drug that can\nsupposedly cure dementia.	เป็นเรื่องเกี่ยวกับ AD-9 ครับ ยาที่ว่ากันว่า\nรักษาโรคสมองเสื่อมได้
+17-0358	sound_auth	It was about a specialized drug?\nA new medication for dementia, I believe.	เป็นเรื่องเกี่ยวกับยาเฉพาะทาง ตัวหนึ่งครับ\nยารักษาโรคสมองเสื่อมตัวใหม่ ถ้าจำไม่ผิด
+17-0359	sound_auth	Sorry, but I'm not authorized to talk about that.\nWhy don't I connect you with our publicity department?	ขอโทษด้วยค่ะ แต่ดิฉันไม่มีสิทธิ์พูดเรื่องนั้น\nดิฉันขอต่อสายไปแผนก ประชาสัมพันธ์ให้นะคะ?
+17-0360	sound_auth	That's... Sorry, but I'm not authorized to discuss that.\nCan I connect you to our PR department?	เรื่องนั้น... ขอโทษด้วยค่ะ ดิฉันไม่มีสิทธิ์พูดเรื่องนี้\nดิฉันขอต่อสายไปแผนก ประชาสัมพันธ์ได้ไหมคะ?
+17-0361	sound_auth	Please hold, sir.	กรุณาถือสายรอสักครู่นะคะ
+17-0362	sound_auth	Doesn't sound like you're\nmaking much progress.	ฟังดูแล้วเหมือนจะยัง\nไม่คืบหน้าเท่าไหร่เลยนะ
+17-0363	sound_auth	I dunno. Doesn't sound like you're\nmaking much progress.	ไม่รู้สิ ฟังดูเหมือนนายจะยัง\nไม่คืบหน้าเท่าไหร่เลย
+17-0364	sound_auth	Thank you for waiting.	ขอบคุณที่รอนะคะ
+17-0365	sound_auth	It seems our publicity department never received\na call from a Shintani-sama.	ดูเหมือนแผนกประชาสัมพันธ์ของ เราจะไม่เคยได้รับ\nสายจากท่านชินทานิเลยค่ะ
+17-0366	sound_auth	It seems our PR department never\nreceived a call from a Shintani-sama.	ดูเหมือนแผนกประชาสัมพันธ์ของ เราจะไม่เคย\nได้รับสายจากท่านชินทานิเลยค่ะ
+17-0367	sound_auth	...I see.\nThank you anyway.	...เข้าใจแล้วครับ\nยังไงก็ขอบคุณนะครับ
+17-0368	sound_auth	I see...\nThanks anyway.	เข้าใจแล้ว...\nยังไงก็ขอบคุณครับ
+17-0369	sound_auth	It was about the murders in Kamurocho.	เป็นเรื่องเกี่ยวกับคดีฆาตกรรม ในคามุโรโจครับ
+17-0370	sound_auth	It was about the murders in Kamurocho,\nI believe.	เป็นเรื่องเกี่ยวกับคดีฆาตกรรม\nในคามุโรโจ ถ้าจำไม่ผิดครับ
+17-0371	sound_auth	Excuse me, sir?	ขอโทษนะคะ ว่ายังไงนะคะ?
+17-0372	sound_auth	Yes...? Ah, I'm sorry...	ค่ะ...? อ้อ ขอโทษค่ะ...
+17-0373	sound_auth	I'm not sure where to connect you for that.	ดิฉันไม่แน่ใจว่าจะต่อสายไปแผนก ไหนให้เรื่องนั้นค่ะ
+17-0374	sound_auth	In that case, I'm not sure what\ndepartment to connect you to.	ถ้างั้นดิฉันก็ไม่แน่ใจว่า\nจะต่อสายไปแผนกไหนให้ดีค่ะ
+17-0375	sound_auth	Right... Never mind, then.\nSorry.	อ้อ... งั้นช่างเถอะครับ\nขอโทษด้วย
+17-0376	sound_auth	I see... Well, sorry about that.\n	เข้าใจแล้วครับ... ขอโทษด้วยนะครับ\n
+17-0377	sound_auth	Well, who I am doesn't matter.	เอาเถอะ ผมเป็นใครไม่สำคัญหรอกครับ
+17-0378	sound_auth	Anyway, uh... I think a lawyer named Shintani\ncalled your office yesterday.	ยังไงก็เถอะ เอ่อ... ผมคิดว่ามีทนายชื่อชินทานิ\nโทรมาที่สำนักงานคุณเมื่อวานนี้ครับ
+17-0379	sound_auth	Anyway, uh... I think a lawyer\nnamed Shintani called your office yesterday.	ยังไงก็เถอะ เอ่อ... ผมคิดว่ามีทนาย\nชื่อชินทานิโทรมาที่นี่เมื่อวาน นี้ครับ
+17-0380	sound_auth	I was wondering if you could connect me\nwith whoever he spoke to.	ผมเลยอยากรู้ว่าคุณจะช่วยต่อสาย\nให้ผมคุยกับคนที่เขาคุยด้วยได้ไหมครับ
+17-0381	sound_auth	I'm sorry, but I can't do that.\nIt's in violation of our personal information policy.	ขอโทษด้วยค่ะ แต่ดิฉันทำแบบนั้นไม่ได้\nมันผิดนโยบายคุ้มครองข้อมูล ส่วนบุคคลของเรา
+17-0382	sound_auth	Well the truth is...\nShintani-san passed away yesterday.	ความจริงก็คือ...\nคุณชินทานิเสียชีวิตไปเมื่อวานนี้ครับ
+17-0383	sound_auth	The truth is... Shintani-sensei passed away\nyesterday, and I'm investigating.	ความจริงคือ... อาจารย์ชินทานิเสียชีวิต\nไปเมื่อวานนี้ครับ ผมกำลังสืบสวนเรื่องนี้อยู่
+17-0384	sound_auth	This is the last number he dialed,\nso I'm calling to ask about him.	นี่คือเบอร์สุดท้ายที่เขาโทรออก\nผมเลยโทรมาถามเรื่องของเขาครับ
+17-0385	sound_auth	This is the last number he had dialed,\nso I'm calling to ask about him.	นี่คือเบอร์สุดท้ายที่เขาโทรออกไป\nผมเลยโทรมาถามเรื่องของเขาครับ
+17-0386	sound_auth	Are you with the police?\nYou're not, are you?	คุณเป็นตำรวจหรือเปล่าคะ?\nไม่ใช่ใช่ไหมคะ?
+17-0387	sound_auth	...Are you with the police?\nYou're not, are you?	...คุณเป็นตำรวจหรือเปล่าคะ?\nไม่ใช่ใช่ไหมคะ?
+17-0388	sound_auth	Er, not exactly.\nYou know what... I'll try back later.	เอ่อ ก็ไม่เชิงครับ\nเอาเป็นว่า... ผมจะโทรมาใหม่ทีหลังครับ
+17-0389	sound_auth	Er, not exactly.\nAnyway... gotta run.	เอ่อ ก็ไม่เชิงครับ\nเอาเป็นว่า... ผมขอตัวก่อนนะครับ
+17-0390	sound_auth	This is Takayuki Yagami,\nfrom the Yagami Detective Agency.	ผมชื่อทาคายูกิ ยากามิ\nจากสำนักงานนักสืบยากามิครับ
+17-0391	sound_auth	Ah... Hello there, Yagami-san.	อ้อ... สวัสดีค่ะ ยากามิซัง
+17-0392	sound_auth	Ah... yes?	อ้อ... ว่ายังไงคะ?
+17-0393	sound_auth	I'm calling about a lawyer named Shintani\nwho I believe contacted you yesterday.	ผมโทรมาเรื่องทนายชื่อชินทานิ\nที่ผมเชื่อว่าติดต่อมาที่นี่ เมื่อวานนี้ครับ
+17-0394	sound_auth	Yesterday, I believe a lawyer named Shintani\ncontacted someone in your offices.	เมื่อวานนี้ ผมเชื่อว่ามีทนายชื่อชินทานิ\nติดต่อกับใครสักคนในสำนักงานของ คุณครับ
+17-0395	sound_auth	I was wondering if you could connect me\nwith whomever he spoke to.	ผมเลยอยากรู้ว่าคุณจะช่วยต่อสาย\nให้คุยกับคนที่เขาคุยด้วยได้ไหมครับ
+17-0396	sound_auth	I'm sorry, but that information is private.\nYou'll need a warrant if you want to know more.	ขอโทษด้วยค่ะ แต่ข้อมูลนั้นเป็นความลับ\nถ้าอยากรู้เพิ่มเติมคุณต้องมี หมายศาลค่ะ
+17-0397	sound_auth	I really am sorry, sir.	ดิฉันขอโทษจริง ๆ ค่ะ
+17-0398	sound_auth	I see. Thank you anyway.	เข้าใจแล้วครับ ยังไงก็ขอบคุณนะครับ
+17-0399	sound_auth	This is Takayuki Yagami.\nI'm a lawyer from the Genda Law Office.	ผมชื่อทาคายูกิ ยากามิครับ\nเป็นทนายจากสำนักงานกฎหมายเก็นดะ
+17-0400	sound_auth	This is Takayuki Yagami,\na lawyer from the Genda Law Office.	ผมชื่อทาคายูกิ ยากามิ\nทนายจากสำนักงานกฎหมายเก็นดะครับ
+17-0401	sound_auth	Sorry, I don't.	ขอโทษครับ ผมไม่ทราบครับ
+17-0402	sound_auth	Oh, it was... uh...	เอ่อ มันคือ... เอ่อ...
+17-0403	sound_auth	No way this happens over the phone.	แบบนี้คงเป็นไปไม่ได้ทางโทรศัพท์หรอก
+17-0404	sound_auth	It'll be faster to just head over\nthere myself.	ไปที่นั่นด้วยตัวเองซะเลย\nจะเร็วกว่าเยอะ
+17-0405	sound_auth	It'll be faster to just head over\nto the ADDC myself.	ไปที่ ADDC ด้วยตัวเองซะเลย\nจะเร็วกว่าเยอะ
+17-0406	sound_auth	You think that's gonna work?	นายคิดว่ามันจะได้ผลจริงเหรอ?
+17-0407	sound_auth	Not sure, but I know the director, remember?\nWorst-case scenario, I come back empty-handed.	ไม่แน่ใจเหมือนกัน แต่ผมรู้จักผู้อำนวยการที่นั่นนี่นา\nถ้าแย่สุดก็แค่กลับมามือเปล่า
+17-0408	sound_auth	Not sure, but I know the ADDC's director.\nWorst-case scenario, I come back empty-handed.	ไม่แน่ใจเหมือนกัน แต่ผมรู้จักผู้อำนวยการของ ADDC\nถ้าแย่สุดก็แค่กลับมามือเปล่าเท่านั้น
+17-0409	sound_auth	I'll come with you, Yagami-san.	ผมไปด้วยครับ ยากามิซัง
+17-0410	sound_auth	Kay, me and Higashi'll go check out what's going\non with the Matsugane Family.	โอเค ฉันกับฮิงาชิจะไปดูว่า\nตระกูลมัตสึกาเนะเป็นยังไงบ้าง
+17-0411	sound_auth	Alrighty. Me and Higashi'll go see\nwhat the Matsugane Family's up to, then.	โอเค ฉันกับฮิงาชิ\nไปดูความเคลื่อนไหวของ ตระกูลมัตสึกาเนะแล้วกัน
+17-0412	sound_auth	Shouldn't be tough with Hamura outta the picture.	ไม่น่ายากหรอกตอนที่ฮามุระไม่ อยู่แล้วแบบนี้
+17-0413	sound_auth	Shouldn't be tough with Hamura gone.	ไม่น่ายากหรอกตอนฮามุระหายไปแล้ว
+17-0414	sound_auth	Hey, I don't remember saying\nI was gonna help you...	เฮ้ ผมไม่เห็นเคยบอกเลย\nว่าจะช่วยพวกคุณ...
+17-0415	sound_auth	Come on. I didn't sign up for this...	ไม่เอาน่า ผมไม่ได้ตกลงจะทำแบบนี้ด้วยซ้ำ...
+17-0416	sound_auth	By the way, Yagami-san.	ว่าแต่ ยากามิซัง
+17-0417	sound_auth	What ever happened to that guy\nfrom three years ago? Shinpei Okubo.	เกิดอะไรขึ้นกับคนคนนั้น\nเมื่อสามปีก่อนเหรอครับ ชินเป โอคุโบะน่ะ
+17-0418	sound_auth	Remember that guy you saved? Shinpei Okubo, right?\nWhat happened to that guy?	จำคนที่คุณเคยช่วยไว้ได้ไหมครับ ชินเป โอคุโบะใช่ไหม?\nตอนนี้เขาเป็นยังไงบ้างแล้ว?
+17-0419	sound_auth	He's in the detention center.\nBeen there since they gave him his death sentence.	เขาอยู่ในเรือนจำ\nตั้งแต่ถูกตัดสินประหารชีวิตแล้ว
+17-0420	sound_auth	He's in prison now. Death row.\nThat's where he'll stay until his time's up.	ตอนนี้เขาอยู่ในคุก แดนประหาร\nต้องอยู่ที่นั่นจนกว่าจะถึงเวลาของเขา
+17-0421	sound_auth	Have you ever gone to see him, Yagami-san?	คุณเคยไปเยี่ยมเขาบ้างไหมครับ ยากามิซัง?
+17-0422	sound_auth	Yagami-san, have you ever\ngone to see him?	ยากามิซัง คุณเคย\nไปเยี่ยมเขาบ้างไหมครับ?
+17-0423	sound_auth	No. Why would I?	ไม่เคย จะไปทำไมล่ะ?
+17-0424	sound_auth	Nope. Not once.	ไม่เคยเลยสักครั้ง
+17-0425	sound_auth	Why do you ask anyway?	ว่าแต่ถามทำไมล่ะ?
+17-0426	sound_auth	Why are you asking me this?	ทำไมถึงถามผมแบบนี้ล่ะ?
+17-0427	sound_auth	I dunno,\nI was wondering what he was like.	ไม่รู้สิครับ\nแค่อยากรู้ว่าเขาเป็นคนยังไง
+17-0428	sound_auth	I dunno. I was wondering\nwhat Okubo was like.	ไม่รู้สิครับ ผมแค่อยากรู้\nว่าโอคุโบะเป็นคนยังไง
+17-0429	sound_auth	The case got tons of news coverage,\nyou know.	คดีนี้ออกข่าวเยอะมาก\nรู้ไหมครับ
+17-0430	sound_auth	The case got tons of\nnews coverage, you know.	คดีนี้ออกข่าว\nเยอะมากเลยนะครับ
+17-0431	sound_auth	I was also wondering what you thought.\nAbout the case.	แล้วก็อยากรู้ด้วยว่าคุณคิดยังไง\nเกี่ยวกับคดีนี้
+17-0432	sound_auth	Yagami-san... I was also wondering what you thought.\nAbout the case, I mean.	ยากามิซัง... ผมแค่อยากรู้ด้วยว่าคุณคิดยังไง\nเกี่ยวกับคดีนี้น่ะครับ
+17-0433	sound_auth	Did you really think that he was innocent?	คุณคิดจริง ๆ เหรอครับว่าเขาบริสุทธิ์?
+17-0434	sound_auth	Did you really think he was innocent?	คุณคิดจริง ๆ เหรอว่าเขาบริสุทธิ์?
+17-0435	sound_auth	...Guess I did.	...ผมก็คิดอย่างนั้นแหละ
+17-0436	sound_auth	But then he walked...\nand killed his girlfriend.	แต่แล้วเขาก็รอดพ้นคดี...\nแล้วก็ไปฆ่าแฟนสาวตัวเองซะงั้น
+17-0437	sound_auth	You defended him for that too, yeah?	คุณแก้ต่างให้เขาคดีนั้นด้วย ใช่ไหมครับ?
+17-0438	sound_auth	You defended him\nfor that too, yeah?	คุณแก้ต่างให้เขา\nคดีนั้นด้วยใช่ไหมครับ?
+17-0439	sound_auth	<color=ｍonologue>(...I did. Okubo-san asked me to\nafter he murdered Emi-chan in cold blood.)</color>	<color=ｍonologue>(...ใช่ ผมแก้ต่างให้ โอคุโบะซังขอร้องผมเอง\nหลังจากที่เขาฆ่าเอมิจังอย่าง เลือดเย็น)</color>
+17-0440	sound_auth	Did you believe him then, too?	ตอนนั้นคุณเชื่อเขาด้วยเหรอครับ?
+17-0441	sound_auth	So even then?\nYou still believed in him?	ขนาดตอนนั้นเหรอ?\nคุณยังเชื่อเขาอยู่อีกเหรอ?
+17-0442	sound_auth	He kept saying the same thing.\nHow he could never have killed anyone.	เขาพูดเรื่องเดิมซ้ำ ๆ\nว่าเขาไม่มีทางฆ่าใครได้เด็ดขาด
+17-0443	sound_auth	Okubo kept saying the same thing.\nHow he would never kill them.	โอคุโบะพูดเรื่องเดิมซ้ำ ๆ\nว่าเขาไม่มีทางฆ่าพวกเขาได้
+17-0444	sound_auth	But I...	แต่ผม...
+17-0445	sound_auth	I didn't believe him, no.	ผมไม่เชื่อเขาหรอก ไม่เชื่อเลย
+17-0446	sound_auth	Fighting for him in court made me\nsick to my stomach.	การสู้คดีให้เขาในศาลทำให้ผม\nรู้สึกคลื่นไส้
+17-0447	sound_auth	Every time I declared his innocence in that court...\nI felt sick to my stomach.	ทุกครั้งที่ผมยืนยัน ความบริสุทธิ์ของเขาในศาล...\nผมรู้สึกคลื่นไส้ไปหมด
+17-0448	sound_auth	Do you think he deserves the death penalty?	คุณคิดว่าเขาสมควรได้รับ โทษประหารไหมครับ?
+17-0449	sound_auth	Okay. So you figure Okubo deserves\nthe death penalty?	โอเค งั้นคุณคิดว่าโอคุโบะสมควร\nได้รับโทษประหารสินะครับ?
+17-0450	sound_auth	That's enough of the questions, Sugiura.	พอได้แล้ว ซุกิอุระ หยุดถามได้แล้ว
+17-0451	sound_auth	That's enough already, Sugiura.	พอเถอะน่า ซุกิอุระ
+17-0452	sound_auth	My bad.\nWas that too far?	ขอโทษครับ\nผมเลยเถิดไปหน่อยรึเปล่า?
+17-0453	sound_auth	Did I push it too far?	ผมถามมากไปหน่อยรึเปล่าครับ?
+17-0454	sound_auth	You're heading to the ADDC now, yes?	ตอนนี้จะไปที่ ADDC กันเลยใช่ไหมครับ?
+17-0455	sound_auth	You ready to go?\nTo the ADDC, I mean?	พร้อมไปหรือยังครับ?\nไป ADDC น่ะครับ
+17-0456	sound_auth	I'm gonna grab a taxi for us.\nI'll wait for you over on Park Boulevard.	ผมจะไปเรียกแท็กซี่ให้เราครับ\nจะรอคุณอยู่แถว ถนนปาร์คบูเลอวาร์ดนะครับ
+17-0457	sound_auth	I'm going to grab a taxi for us.\nI'll wait for you on Park Boulevard.	ผมจะไปเรียกแท็กซี่ให้เราครับ\nจะรอคุณอยู่ที่ ถนนปาร์คบูเลอวาร์ดนะครับ
+17-0458	sound_auth	Over here, Yagami-san!\nI have a taxi for us!	ทางนี้ครับ ยากามิซัง!\nผมเรียกแท็กซี่ไว้ให้เราแล้วครับ!
+17-0459	sound_auth	Yagami-san, over here!\nI have a taxi for us!	ยากามิซัง ทางนี้ครับ!\nผมเรียกแท็กซี่ไว้ให้เราแล้วครับ!
+17-0460	sound_auth	The ADDC, huh?	ADDC เหรอเนี่ย...
+17-0461	sound_auth	This has gotta be fate or somethin'...	นี่มันต้องเป็นโชคชะตาอะไรสัก อย่างแน่ๆ...
+17-0462	sound_auth	Don't get the wrong idea.	อย่าเข้าใจผิดไปเองนะ
+17-0463	sound_auth	Don't get the wrong idea, yeah?	อย่าเข้าใจผิดไปเองนะ โอเคนะ?
+17-0464	sound_auth	I'm not one of your little buddies.\nRemember that.	ฉันไม่ใช่เพื่อนซี้อะไรของนายหรอกนะ\nจำไว้ด้วยล่ะ
+17-0465	sound_auth	I'm not one of your little buddies.	ฉันไม่ใช่เพื่อนซี้อะไรของนายหรอกนะ
+17-0466	sound_auth	Do you have an appointment, sir?	คุณมีนัดหมายไว้หรือเปล่า
+17-0467	sound_auth	I don't, sorry. My name is Hoshino, from the Genda\nLaw Office. This is my partner, Yagami.	ไม่มีครับ ขอโทษด้วย ผมชื่อโฮชิโนะ จากสำนักงานกฎหมายเก็นดะครับ\nนี่คือหุ้นส่วนของผม ยากามิ
+17-0468	sound_auth	No, sorry... I'm Hoshino, from the Genda Law Office.\nThis is my partner, Yagami.	ไม่มีครับ ขอโทษด้วย... ผมชื่อโฮชิโนะ จากสำนักงานกฎหมายเก็นดะครับ\nนี่คือหุ้นส่วนของผม ยากามิ
+17-0469	sound_auth	We're here to talk about a murder\nthat took place in Kamurocho yesterday.	เรามาที่นี่เพื่อพูดคุย เรื่องคดีฆาตกรรม\nที่เกิดขึ้นในคามุโรโจเมื่อวานนี้ครับ
+17-0470	sound_auth	You see, we're investigating a murder\nthat happened in Kamurocho.	คือว่าเรากำลังสืบสวนคดีฆาตกรรม\nที่เกิดขึ้นในคามุโรโจครับ
+17-0471	sound_auth	A murder...?	ฆาตกรรม...?
+17-0472	sound_auth	Ah...?	อ้า...?
+17-0473	sound_auth	A coworker of ours, name's Shintani.\nHe was the victim.	เพื่อนร่วมงานของเรา ชื่อชินทานิ\nเขาคือเหยื่อครับ
+17-0474	sound_auth	One of our lawyers, Shintani,\nwas the victim.	ทนายความคนหนึ่งของเรา ชินทานิ\nคือเหยื่อครับ
+17-0475	sound_auth	We have a record that he called\nthis center before he was killed.	เรามีบันทึกว่าเขาโทรมา\nที่ศูนย์นี้ก่อนถูกฆ่าครับ
+17-0476	sound_auth	As far as we can tell, he called this center\nbefore he was killed.	เท่าที่เราทราบ เขาโทรมาที่ศูนย์นี้\nก่อนที่จะถูกฆ่าครับ
+17-0477	sound_auth	We're hoping you could help us track down\nexactly who he spoke to?	เราหวังว่าคุณจะช่วยเราตามหา\nว่าเขาคุยกับใครได้ไหมครับ?
+17-0478	sound_auth	If it's all right, could we maybe find out\nwho he spoke to?	ถ้าไม่เป็นการรบกวน เราขอทราบได้ไหมครับ\nว่าเขาคุยกับใคร?
+17-0479	sound_auth	I'm very sorry, sir...\nBut I can't provide such private information.	ต้องขอโทษด้วยจริงๆ...\nแต่ไม่สามารถให้ข้อมูลส่วนตัว แบบนี้ได้
+17-0480	sound_auth	I'm very sorry, sir...\nbut I can't provide such private information.	ต้องขอโทษด้วยจริงๆ...\nแต่ไม่สามารถให้ข้อมูลส่วนตัว แบบนี้ได้
+17-0481	sound_auth	Not the friendliest girl in town, huh?	ไม่ใช่สาวที่เป็นมิตรที่สุดใน เมืองนี้เลยนะ
+17-0482	sound_auth	We're not exactly welcome guests here.	ดูเหมือนเราจะไม่ใช่แขกที่น่า ต้อนรับที่นี่เท่าไหร่นัก
+17-0483	sound_auth	Guess we're not really welcome here.	คงไม่ใช่แขกที่น่าต้อนรับที่นี่สินะ
+17-0484	sound_auth	After I busted my ass to pass the bar,\nI always figured I'd have my pick of the ladies...	หลังจากที่ฉันสอบตั๋วทนายจนแทบตาย\nฉันนึกว่าตัวเองจะเลือกผู้หญิง ได้ตามใจซะอีก...
+17-0485	sound_auth	After I worked so hard to pass the bar and everything.\nI was thinking the ladies'd come flocking to me...	หลังจากที่ฉันทำงานหนักจนสอบ ตั๋วทนายผ่าน\nฉันนึกว่าผู้หญิงจะแห่กันมาหาฉันซะอีก...
+17-0486	sound_auth	Right this way, please.	เชิญทางนี้ค่ะ
+17-0487	sound_auth	Straight ahead is the ADDC's general ward.\nWaku-san's room is on the 4th floor.	ตรงไปข้างหน้าคือหอผู้ป่วยทั่วไปของ ADDC ค่ะ\nห้องของวาคุซังอยู่ชั้น 4 ค่ะ
+17-0488	sound_auth	Let's get this over with already.	รีบๆ จบเรื่องนี้กันเถอะน่า
+17-0489	sound_auth	Come on, let's get this\nover with already.	เร็วเข้า รีบจบเรื่องนี้\nกันเถอะน่า
+17-0490	sound_auth	Okubo's going down,\nno matter how you slice it.	ยังไงโอคุโบะก็ต้องติดคุก\nไม่ว่าจะมองมุมไหนก็ตาม
+17-0491	sound_auth	(I need to follow Terasawa-san.)	(ต้องตามเทราซาวะซังไปหน่อย)
+17-0492	sound_auth	Hey, Yagami. You're never gonna last\nif you keep taking cases like this.	เฮ้ ยากามิ แกจะไปรอดยังไง\nถ้ายังรับคดีแบบนี้ไปเรื่อยๆ
+17-0493	sound_auth	Criminal suits are a constant test of your conviction.\nYour sense of justice.	คดีอาญามันคือบททดสอบ ความเชื่อมั่นของแกตลอดเวลา\nสำนึกยุติธรรมของแกน่ะ
+17-0494	sound_auth	They don't even pay that well.	แถมค่าจ้างก็ไม่ได้ดีอะไรด้วยซ้ำ
+17-0495	sound_auth	Careful who you say that around.	ระวังปากหน่อยว่าจะพูดแบบนั้นกับใคร
+17-0496	sound_auth	Oh yeah? Careful who you say that around.	อ้อเหรอ? ระวังปากหน่อยว่าจะพูดแบบนั้นกับใคร
+17-0497	sound_auth	Look, just chill out, okay?	โอ๊ย ใจเย็นๆ หน่อยน่า โอเคไหม?
+17-0498	sound_auth	Take it from me.	เชื่อฉันเถอะ
+17-0499	sound_auth	Take it from me. I've been around\nthe block way longer than you have.	เชื่อฉันเถอะ ฉันผ่านโลกมาเยอะกว่าแก\nเยอะเลยนะ
+17-0500	sound_auth	I've been around the block\nway longer than you have.	ฉันผ่านโลกมาเยอะกว่าแก\nเยอะเลยนะ
+17-0501	sound_auth	This was the room assigned to Waku-san.	ห้องนี้คือห้องของวาคุซังค่ะ
+17-0502	sound_auth	This was Waku-san's room.	นี่คือห้องของวาคุซังค่ะ
+17-0503	sound_auth	What's down there?	ข้างล่างนั่นมีอะไร?
+17-0504	sound_auth	That's the research wing where\nthey develop all our new drugs.	ตรงนั้นคือปีกฝ่ายวิจัย\nที่ใช้พัฒนายาตัวใหม่ทั้งหมดของเราค่ะ
+17-0505	sound_auth	That leads to the pharmaceutical research wing.\nThey develop all our new drugs there.	ตรงนั้นเป็นทางไปปีกวิจัยเภสัชกรรม\nพวกเขาพัฒนายาตัวใหม่ทั้งหมด ที่นั่นค่ะ
+17-0506	sound_auth	Oh.	อ้อ.
+17-0507	sound_auth	You can't get in without a gold keycard,\nthough. Not even I have one.	แต่เข้าไม่ได้ถ้าไม่มีคีย์การ์ด สีทองค่ะ\nขนาดดิฉันเองก็ยังไม่มีเลย
+17-0508	sound_auth	You can't get in without a gold keycard, though.\nNot even I have one.	แต่ถ้าไม่มีคีย์การ์ดสีทองก็ เข้าไม่ได้ค่ะ\nขนาดดิฉันเองก็ยังไม่มีเลย
+17-0509	sound_auth	Gold, huh?	สีทองเหรอ...
+17-0510	sound_auth	...Gold, huh?	...สีทองเหรอ
+17-0511	sound_auth	I suppose because it's the heart\nof the Center's operations.	คงเพราะมันคือหัวใจ\nของการดำเนินงานทั้งหมดของศูนย์นี้ค่ะ
+17-0512	sound_auth	Heh, sounds like it's a whole nother world\nback there. Security like that must be a bitch.	เฮอะ ฟังดูเหมือนข้างในนั่นเป็นอีก โลกหนึ่งเลยนะ\nระบบรักษาความปลอดภัยแบบนั้น น่าจะปวดหัวน่าดู
+17-0513	sound_auth	Heh, sounds like a whole 'nother\nhigh-security world back there.	เฮอะ ฟังดูเหมือนข้างในนั่น\nเป็นโลกที่รักษาความปลอดภัย แน่นหนาอีกแบบเลยนะ
+17-0514	sound_auth	C'mon, Yagami.	เร็วเข้า ยากามิ
+17-0515	sound_auth	Before he died, Waku-san spent\nmost of his time in here.	ก่อนเสียชีวิต วาคุซังใช้เวลา\nส่วนใหญ่อยู่ในห้องนี้ค่ะ
+17-0516	sound_auth	This is the room Waku-san stayed in\nbefore his death.	นี่คือห้องที่วาคุซังพักอยู่\nก่อนเสียชีวิตค่ะ
+17-0517	sound_auth	And when was he admitted?	แล้วเขาเข้ารักษาตัวตั้งแต่เมื่อไหร่?
+17-0518	sound_auth	Two years ago, with Alzheimer's.	สองปีก่อนค่ะ ด้วยโรคอัลไซเมอร์
+17-0519	sound_auth	Two years ago. With Alzheimer's.	สองปีก่อนค่ะ ด้วยโรคอัลไซเมอร์
+17-0520	sound_auth	Some kinda dementia, right?	ก็เป็นโรคสมองเสื่อมประมาณนั้นใช่ไหม?
+17-0521	sound_auth	So he had dementia?	งั้นเขาเป็นโรคสมองเสื่อมสินะ?
+17-0522	sound_auth	Alzheimer's is a neurodegenerative disease\nthat leads to dementia, yes.	อัลไซเมอร์เป็นโรคความเสื่อมของ ระบบประสาท\nที่นำไปสู่ภาวะสมองเสื่อมค่ะ ใช่แล้ว
+17-0523	sound_auth	In fact, it's the cause of almost\n70% of all dementia cases.	อันที่จริง มันเป็นสาเหตุของผู้ป่วยสมองเสื่อม\nเกือบ 70% เลยค่ะ
+17-0524	sound_auth	In fact, Alzheimer's is the cause of almost\n70% of all dementia cases.	อันที่จริง อัลไซเมอร์เป็นสาเหตุของผู้ป่วย สมองเสื่อม\nเกือบ 70% เลยค่ะ
+17-0525	sound_auth	So they're one in the same kinda?	งั้นก็พูดได้ว่าเป็นเรื่อง เดียวกันสินะ?
+17-0526	sound_auth	So we're just mincing words, right?	งั้นก็แค่เล่นคำกันเฉยๆ สินะ?
+17-0527	sound_auth	Anyway. Do what you gotta do, Yagami.	เอาเถอะ แกอยากทำอะไรก็ทำไปเถอะ ยากามิ
+17-0528	sound_auth	All right, Yagami...\nDo what you gotta do.	เอาล่ะ ยากามิ...\nอยากทำอะไรก็ทำไปเถอะ
+17-0529	sound_auth	Has anyone else slept here\nsince Waku-san's death?	มีใครมานอนที่นี่อีกไหม\nหลังจากวาคุซังเสียชีวิต?
+17-0530	sound_auth	Since Waku-san's death, has anyone else\nslept in this room?	หลังจากวาคุซังเสียชีวิต\nมีใครมานอนในห้องนี้อีกไหม?
+17-0531	sound_auth	Nobody, no.	ไม่มีเลยค่ะ
+17-0532	sound_auth	And Waku-san was missing from his room\nthe morning of the incident, yes?	แล้ววาคุซังก็หายไปจากห้อง\nในเช้าวันเกิดเหตุใช่ไหม?
+17-0533	sound_auth	And on the morning of the incident,\nWaku-san was missing from his room, yes?	และในเช้าวันเกิดเหตุ\nวาคุซังก็หายไปจากห้องใช่ไหม?
+17-0534	sound_auth	So he was murdered here,\nthen carried out.	งั้นเขาก็ถูกฆ่าที่นี่\nแล้วค่อยถูกขนออกไป
+17-0535	sound_auth	I can't say for sure...\nBut it's likely.	ดิฉันไม่กล้ายืนยันแน่ชัด...\nแต่ก็เป็นไปได้ค่ะ
+17-0536	sound_auth	I can't say for sure...\nbut it's likely.	ดิฉันไม่กล้ายืนยันแน่ชัด...\nแต่ก็เป็นไปได้ค่ะ
+17-0537	sound_auth	(Working on that assumption,\nhow was his body carried outside?)	(ถ้าตั้งสมมติฐานแบบนั้น\nศพเขาถูกขนออกไปข้างนอกได้ยังไง?)
+17-0538	sound_auth	(I should look a little closer.)	(น่าจะลองดูให้ละเอียดกว่านี้หน่อย)
+17-0539	sound_auth	Waku-san was here until the morning of the incident,\nthen he just up and disappeared...	วาคุซังอยู่ที่นี่จนถึงเช้า วันเกิดเหตุ\nแล้วก็หายตัวไปดื้อๆ...
+17-0540	sound_auth	Waku-san was here until\nthe morning of the incident...	วาคุซังอยู่ที่นี่จนถึง\nเช้าวันเกิดเหตุ...
+17-0541	sound_auth	All the rooms have windows\nlike this, right?	ห้องทุกห้องมีหน้าต่าง\nแบบนี้หมดใช่ไหม?
+17-0542	sound_auth	It seems like people would notice\nif something was going on in here.	ดูเหมือนถ้ามีอะไรเกิดขึ้นในนี้\nคนก็น่าจะสังเกตเห็นได้
+17-0543	sound_auth	If something was going on in here,\nsurely someone outside would notice.	ถ้ามีอะไรเกิดขึ้นในนี้\nคนข้างนอกก็น่าจะสังเกตเห็นแน่ๆ
+17-0544	sound_auth	Well, we only have so many\nemployees in this ward...	ก็...พนักงานในหอผู้ป่วยนี้\nมีอยู่ไม่มากเท่าไหร่ค่ะ...
+17-0545	sound_auth	I'm not sure how quickly.\nThis ward has a smaller staff...	ดิฉันไม่แน่ใจว่าเร็วแค่ไหน\nหอผู้ป่วยนี้มีเจ้าหน้าที่ค่อน ข้างน้อยค่ะ...
+17-0546	sound_auth	The halls stay fairly busy, but it's mostly\ndementia patients moving between appointments.	ทางเดินค่อนข้างพลุกพล่านอยู่ เหมือนกันค่ะ แต่ส่วนใหญ่\nก็เป็นผู้ป่วยสมองเสื่อมที่เดิน ไปมาระหว่างนัดตรวจ
+17-0547	sound_auth	People do walk the halls often,\nbut that's mostly just other dementia patients.	มีคนเดินผ่านทางเดินบ่อยอยู่ค่ะ\nแต่ส่วนใหญ่ก็เป็นผู้ป่วย สมองเสื่อมคนอื่นๆ
+17-0548	sound_auth	I see. I wonder how the room\nlooks from the hallway.	เข้าใจแล้ว สงสัยว่าห้องนี้\nจะมองเห็นจากทางเดินยังไง
+17-0549	sound_auth	I wonder how well you can see\nin here from the hallway...	สงสัยว่าจะมองเห็นในนี้\nจากทางเดินได้ชัดแค่ไหน...
+17-0550	sound_auth	Can you really tell what's going on from out there?	มองจากข้างนอกจะเห็นชัดขนาดที่ บอกได้จริงๆ เหรอ?
+17-0551	sound_auth	The window's sealed shut. There's no way\nWaku-san could have escaped through here.	หน้าต่างถูกปิดตายครับ ไม่มีทาง\nที่วาคุซังจะหนีออกไปทางนี้ได้
+17-0552	sound_auth	This window doesn't even open.\nThere's no way anyone got out here.	หน้าต่างบานนี้เปิดไม่ได้ด้วยซ้ำครับ\nไม่มีทางที่ใครจะออกไปทางนี้ได้
+17-0553	sound_auth	You got all you need from here, yeah?	ได้ข้อมูลที่ต้องการจากตรงนี้ ครบแล้วใช่ไหมคะ?
+17-0554	sound_auth	I think you've looked at everything. Satisfied?	คิดว่าดูครบทุกอย่างแล้วนะครับ พอใจหรือยัง?
+17-0555	sound_auth	(Terasawa-san...\nA nurse at the ADDC hospital.)	(เทราซาวะซัง...\nพยาบาลของโรงพยาบาล ADDC)
+17-0556	sound_auth	(Doesn't look too happy. Probably because Shintani-sensei\nhas been a creep since he laid eyes on her.)	(ท่าทางไม่ค่อยพอใจเท่าไหร่ คงเพราะอาจารย์ชินทานิ\nทำตัวแปลกๆ ตั้งแต่เห็นหน้าเธอแล้วล่ะมั้ง)
+17-0557	sound_auth	(Or maybe she's just always tense.)	(หรือไม่ก็อาจจะเป็นคนเครียด อยู่แล้วก็ได้)
+17-0558	sound_auth	(Is this a standard nurse uniform these days?\nWait... Why am I investigating this?)	(สมัยนี้ชุดพยาบาลมาตรฐานเป็น แบบนี้เหรอ?\nเดี๋ยวนะ... ทำไมผมมัวมานั่งสืบเรื่องนี้อยู่)
+17-0559	sound_auth	(I... really shouldn't stare like this.)	(ผม... ไม่ควรจ้องมองแบบนี้จริงๆ)
+17-0560	sound_auth	(She's gonna think I'm no better\nthan Shintani-sensei.)	(เดี๋ยวเธอจะคิดว่าผมก็ไม่ต่าง\nจากอาจารย์ชินทานิหรอกนะเนี่ย)
+17-0561	sound_auth	(Masamichi Shintani, self-proclaimed king\nof the Genda Law Office.)	(มาซามิจิ ชินทานิ ราชาที่ตั้งตนเอง\nแห่งสำนักงานกฎหมายเก็นดะ)
+17-0562	sound_auth	(40 years old, single and looking.\nHobbies include leering and being condescending.)	(อายุ 40 ปี โสดและกำลังหาคู่\nงานอดิเรกคือมองลับๆ ล่อๆ กับวางท่าดูถูกคนอื่น)
+17-0563	sound_auth	(An attorney's badge. Lots of people don't even bother\nto wear theirs.)	(เข็มกลัดทนายความ หลายคนไม่ค่อยจะติด\nกันด้วยซ้ำ)
+17-0564	sound_auth	(Shintani-sensei always keeps his\nfront and center, though.)	(แต่อาจารย์ชินทานิติดไว้ตรงหน้าอก\nเด่นชัดตลอดเลยนะ)
+17-0565	sound_auth	Hm, you can definitely see what's\ngoing on from out here.	อืม มองจากข้างนอกนี่ก็เห็นชัดเลย\nว่าข้างในมีอะไรเกิดขึ้น
+17-0566	sound_auth	Seems about right.\nYou can definitely see in from the hallway.	ก็ดูสมเหตุสมผลดี\nมองจากทางเดินก็เห็นในนี้ชัดเจน
+17-0567	sound_auth	Shintani-sensei, can you\nlay on the bed for me?	อาจารย์ชินทานิ ช่วยไป\nนอนบนเตียงให้หน่อยได้ไหมคะ?
+17-0568	sound_auth	Sure thing.\nYou wanna join me, Terasawa-chan?	ได้เลย\nเทราซาวะจังจะมาร่วมด้วยกันไหมล่ะ?
+17-0569	sound_auth	Uh, I guess so. Care to join me,\nTerasawa-san? What have you got to lose?	เอ่อ ก็ได้มั้ง จะมาร่วมด้วยกันไหมล่ะ\nเทราซาวะซัง? เสียหายตรงไหนกัน?
+17-0570	sound_auth	Sure, want me to just take a nap?\nHey, care to join me, Terasawa-chan?	ได้สิ อยากให้ฉันงีบไปเลยไหมล่ะ?\nเฮ้ เทราซาวะจัง จะมาร่วมด้วยกันไหม?
+17-0571	sound_auth	It was a joke!	ล้อเล่นน่า!
+17-0572	sound_auth	So from this vantage point,\nyou can't make out the person's face...	งั้นจากมุมนี้\nก็มองไม่เห็นหน้าคนได้ชัดสินะ...
+17-0573	sound_auth	So you can't see the person's face...\nNot from the hallway, at least.	งั้นก็มองไม่เห็นหน้าคน...\nอย่างน้อยก็จากทางเดิน
+17-0574	sound_auth	(I've gotta go check out\nWaku-san's room.)	(ต้องไปตรวจดู\nห้องของวาคุซังหน่อยแล้ว)
+17-0575	sound_auth	So, was this the collossal waste\nof time I knew it'd be?	ไงล่ะ นี่มันคือการเสียเวลา\nครั้งใหญ่ที่ฉันรู้อยู่แล้วใช่ไหม?
+17-0576	sound_auth	Well? This whole thing was\na waste of time, right?	ไงล่ะ? เรื่องทั้งหมดนี้\nเสียเวลาเปล่าใช่ไหม?
+17-0577	sound_auth	Nope. I got something I'd only\nget from being here.	เปล่าเลย ผมได้อะไรบางอย่าง\nที่หาไม่ได้ถ้าไม่มาที่นี่
+17-0578	sound_auth	Nope. I found some clues I could only get\nfrom the scene of the crime.	เปล่าเลย ผมเจอเบาะแสบางอย่าง\nที่หาได้จากที่เกิดเหตุเท่านั้น
+17-0579	sound_auth	Does it matter? It's been days.\nThe case is practically closed.	มันสำคัญตรงไหน? ผ่านมาตั้งหลายวันแล้ว\nคดีนี้ก็แทบจะปิดไปแล้ว
+17-0580	sound_auth	This murder happened weeks ago.\nThe cops are closing the book.	คดีฆาตกรรมนี้ผ่านมาหลายสัปดาห์แล้ว\nตำรวจกำลังจะปิดคดีอยู่แล้ว
+17-0581	sound_auth	Shinpei Okubo is guilty as hell.	ชินเป โอคุโบะน่ะผิดเต็มประตู
+17-0582	sound_auth	Shinpei Okubo is a guilty man.	ชินเป โอคุโบะคือคนผิดคนนั้นแหละ
+17-0583	sound_auth	According to him, he's not.	แต่ตามที่เขาบอก เขาไม่ได้ทำ
+17-0584	sound_auth	Last I heard, he's pleading innocent.	เท่าที่ผมได้ยินมาล่าสุด เขายังยืนกรานว่าบริสุทธิ์
+17-0585	sound_auth	Well of course that's what he says.\nConsider the facts though, man.	ก็แน่ล่ะ เขาต้องพูดแบบนั้นอยู่แล้ว\nลองดูข้อเท็จจริงสิเพื่อน
+17-0586	sound_auth	That seems like a pretty long shot,\nconsidering the facts.	ฟังดูเป็นไปได้ยากนะ\nถ้าดูจากข้อเท็จจริงแล้ว
+17-0587	sound_auth	You wanna review the case?	อยากทบทวนคดีนี้ดูไหมล่ะ?
+17-0588	sound_auth	So, you wanna review the case?	ว่าไง อยากทบทวนคดีดูไหม?
+17-0589	sound_auth	Sure, let's go over\nwhat we know so far.	ได้เลย มาทบทวน\nสิ่งที่เรารู้กันตอนนี้ดีกว่า
+17-0590	sound_auth	Whatever you want.	แล้วแต่เลย
+17-0591	sound_auth	Okay, let's run the facts.	โอเค มาไล่ดูข้อเท็จจริงกัน
+17-0592	sound_auth	You can't see person's face\nfrom the hallway...	มองไม่เห็นหน้าคน\nจากทางเดิน...
+17-0593	sound_auth	You can't see the patient's face\nfrom the hallway...	มองไม่เห็นหน้าผู้ป่วย\nจากทางเดิน...
+17-0594	sound_auth	All right, here we go.	เอาล่ะ ไปกันเลย
+17-0595	sound_auth	Here we go.	มาเริ่มกันเลย
+17-0596	sound_auth	Our victim was the patient staying in this room:\nKoichi Waku. Male. Age 66.	เหยื่อของเราคือผู้ป่วยที่พัก อยู่ในห้องนี้\nโคอิจิ วาคุ เพศชาย อายุ 66 ปี
+17-0597	sound_auth	Our victim was the patient staying in this room:\nKoichi Waku. Age 66.	เหยื่อของเราคือผู้ป่วยที่พัก อยู่ในห้องนี้\nโคอิจิ วาคุ อายุ 66 ปี
+17-0598	sound_auth	At 8:30 AM on the morning of the crime,\nthe nurses noticed he was missing from his bed.	เวลา 8:30 น. ของเช้าวันเกิดเหตุ\nพยาบาลสังเกตเห็นว่าเขาหายไปจากเตียง
+17-0599	sound_auth	Given Waku's degenerative state, they assumed\nhe was wandering around the hospital somewhere.	เมื่อดูจากอาการเสื่อมของวาคุ พวกเขาก็สันนิษฐาน\nว่าเขาคงเดินเตร่อยู่แถวไหนใน โรงพยาบาล
+17-0600	sound_auth	Given Waku's degenerative state,\nthey assumed he was wandering around somewhere.	เมื่อดูจากอาการเสื่อมของวาคุ\nพวกเขาก็สันนิษฐานว่าเขาคงเดิน เตร่อยู่แถวไหนสักที่
+17-0601	sound_auth	But after being unable to track him down,\nhospital staff filed a missing person's report.	แต่พอตามหาเขาไม่เจอ\nเจ้าหน้าที่โรงพยาบาลก็แจ้งความคนหาย
+17-0602	sound_auth	But when they couldn't find him,\nhospital staff filed a missing persons report.	แต่พอหาเขาไม่เจอ\nเจ้าหน้าที่โรงพยาบาลก็แจ้งความคนหาย
+17-0603	sound_auth	You know what a dementia patient's like, though.\nHard to imagine they'd make it outside on their own.	แต่แกก็รู้ดีว่าผู้ป่วย สมองเสื่อมเป็นยังไง\nนึกภาพไม่ออกเลยว่าเขาจะออกไป ข้างนอกเองได้
+17-0604	sound_auth	You know what a dementia patient's like, though.\nHard to imagine they'd make it outside.	แต่แกก็รู้ดีว่าผู้ป่วย สมองเสื่อมเป็นยังไง\nนึกภาพไม่ออกเลยว่าเขาจะออกไป ข้างนอกได้
+17-0605	sound_auth	The only conclusion, then, was that somebody\nmust've taken him out of the hospital.	ข้อสรุปเดียวที่เหลืออยู่ก็คือ\nต้องมีใครสักคนพาเขาออกจากโรงพยาบาลไป
+17-0606	sound_auth	With that in mind, the police concluded that\nsomebody must've taken him out of the hospital.	ด้วยเหตุนี้ ตำรวจจึงสรุปว่า\nต้องมีใครสักคนพาเขาออกจากโรงพยาบาลไป
+17-0607	sound_auth	After inspecting all the cars that came in and out\nof the Center, they were left with one possible suspect.	หลังตรวจสอบรถทุกคันที่เข้าออก\nศูนย์นี้ ก็เหลือผู้ต้องสงสัยที่ เป็นไปได้แค่คนเดียว
+17-0608	sound_auth	After inspecting all cars that came in and out of the Center,\nthey were left with one possible suspect.	หลังตรวจสอบรถทุกคันที่เข้าออก ศูนย์นี้\nก็เหลือผู้ต้องสงสัยที่ เป็นไปได้แค่คนเดียว
+17-0609	sound_auth	A laundry man by the name of Shinpei Okubo.	พนักงานซักผ้าชื่อว่าชินเป โอคุโบะ
+17-0610	sound_auth	A laundry man, by the name\nof Shinpei Okubo.	พนักงานซักผ้า ชื่อว่า\nชินเป โอคุโบะ
+17-0611	sound_auth	It didn't take much prodding for Okubo to confess\nburying Waku's body out in the mountains.	ไม่ต้องซักถามอะไรมาก โอคุโบะก็สารภาพ\nว่าฝังศพวาคุไว้ในภูเขา
+17-0612	sound_auth	And lo and behold, three months after Waku disappeared,\nthe cops found his body rotting away right where Okubo said it'd be.	แล้วก็อย่างที่คาด สามเดือนหลังวาคุหายตัวไป\nตำรวจก็เจอศพเขาเน่าเปื่อยอยู่ ตรงจุดที่โอคุโบะบอกไว้เป๊ะ
+17-0613	sound_auth	And three months after Waku disappeared, the cops\nfound the body right where Okubo said it'd be.	และสามเดือนหลังวาคุหายตัวไป ตำรวจ\nก็เจอศพอยู่ตรงจุดที่โอคุโบะบอก ไว้พอดี
+17-0614	sound_auth	Cause of death was most likely suffocation,\nbut they still don't know for sure.	สาเหตุการตายน่าจะเป็นการขาด อากาศหายใจ\nแต่ก็ยังไม่รู้แน่ชัด
+17-0615	sound_auth	Any objections to this so far...\nYagami-sensei?	มีข้อโต้แย้งอะไรไหมจนถึงตรงนี้...\nอาจารย์ยากามิ?
+17-0616	sound_auth	Any objections so far... Yagami-sensei?	มีข้อโต้แย้งอะไรไหม... อาจารย์ยากามิ?
+17-0617	sound_auth	Actually, yeah.\nYou're forgetting something.	อันที่จริงก็มีนะ\nนายลืมอะไรบางอย่างไป
+17-0618	sound_auth	And what's that?	แล้วมันคืออะไรล่ะ?
+17-0619	sound_auth	Okubo-kun insists he didn't kill anyone.	โอคุโบะคุงยืนกรานว่าเขาไม่ได้ฆ่าใคร
+17-0620	sound_auth	Okubo-kun still insists he didn't\nkill anyone.	โอคุโบะคุงยังคงยืนกราน\nว่าเขาไม่ได้ฆ่าใคร
+17-0621	sound_auth	All he admits to is dumping the body.	สิ่งเดียวที่เขายอมรับคือการทิ้งศพ
+17-0622	sound_auth	He confessed, but only to\ndumping the body itself.	เขาสารภาพก็จริง แต่สารภาพแค่\nเรื่องทิ้งศพเท่านั้น
+17-0623	sound_auth	<color=ｍonologue>(You can't say for sure that the guy who\ndumped the body actually committed the murder.)</color>	<color=ｍonologue>(บอกไม่ได้แน่ชัดว่าคนที่\nทิ้งศพคือคนที่ลงมือฆ่าจริงๆ)</color>
+17-0624	sound_auth	<color=ｍonologue>(If I budge on that, I'd be admitting\nOkubo-kun did it before the trial even started.)</color>	<color=ｍonologue>(ถ้าผมยอมอ่อนข้อตรงนี้ ก็เท่ากับยอมรับ\nว่าโอคุโบะคุงเป็นคนทำ ทั้งที่การพิจารณาคดียังไม่ เริ่มด้วยซ้ำ)</color>
+17-0625	sound_auth	Oh, sure.	อืม ใช่สิ
+17-0626	sound_auth	But come on, Yagami. The guy's got a history\nof assault, and it's on record.	ไม่เอาน่า ยากามิ ไอ้หมอนี่มีประวัติ\nทำร้ายร่างกาย มีบันทึกไว้ด้วยนะ
+17-0627	sound_auth	Think about the context, though.\nThe guy's got a history of assault, right?	แต่ลองคิดถึงบริบทดูสิ\nไอ้หมอนี่มีประวัติ ทำร้ายร่างกายใช่ไหมล่ะ?
+17-0628	sound_auth	Roughed up his girlfriend.\nAccidentally broke her finger.	ซ้อมแฟนสาวตัวเอง\nจนนิ้วหัก ทั้งที่ไม่ได้ตั้งใจ
+17-0629	sound_auth	He broke his girlfriend's finger.	เขาทำนิ้วแฟนสาวหัก
+17-0630	sound_auth	Right, but that was over six years ago.	ใช่ แต่นั่นมันก็หกกว่าปีมาแล้วนะ
+17-0631	sound_auth	Sure, six years ago.	ก็ใช่ หกปีก่อนน่ะสิ
+17-0632	sound_auth	He was just a kid.\nGot drunk, made a huge mistake.	ตอนนั้นเขาก็แค่เด็กคนหนึ่ง\nเมาแล้วทำพลาดไปครั้งใหญ่เท่านั้นเอง
+17-0633	sound_auth	He was just a kid.\nCould've gotten drunk, made a mistake.	ตอนนั้นเขาก็แค่เด็กคนหนึ่ง\nอาจจะเมาแล้วทำพลาดไปก็ได้
+17-0634	sound_auth	And what, it's okay for a kid\nto hit a woman?	แล้วไง จะบอกว่าเป็นเด็ก\nก็ตบผู้หญิงได้งั้นเหรอ?
+17-0635	sound_auth	So it's okay to hit a girl if you're a <font_kind=yakuza_italic>kid</font_kind>?	งั้นถ้าเป็น<font_kind=yakuza_italic>เด็ก</font_kind>ก็ตบผู้หญิงได้เลยสิ?
+17-0636	sound_auth	Of course not.\nBut that's not what he's on trial for.	ไม่ใช่แบบนั้นแน่นอน\nแต่นั่นไม่ใช่ข้อหาที่เขาถูก พิจารณาคดีอยู่
+17-0637	sound_auth	No. The law might not have\njudged him for it, but I do.	ไม่ใช่ กฎหมายอาจจะยัง\nไม่ตัดสินเขาเรื่องนั้น แต่ผมตัดสินนะ
+17-0638	sound_auth	I don't condone what he did, but legally, committing\none crime doesn't mean you're guilty of another.	ผมไม่ได้เห็นด้วยกับสิ่งที่เขาทำ แต่ในทางกฎหมาย\nการก่อคดีหนึ่งไม่ได้แปลว่าเขา ผิดในอีกคดีหนึ่งด้วย
+17-0639	sound_auth	But still. That doesn't necessarily mean\nhe's guilty this time, too.	แต่ถึงยังไง นั่นก็ไม่ได้แปลว่า\nเขาจะผิดในครั้งนี้ไปด้วย
+17-0640	sound_auth	Fine, but what about Okubo's shaky alibi?	ก็ได้ แล้วพยานที่อยู่ที่โหว่ๆ ของโอคุโบะล่ะ?
+17-0641	sound_auth	What about Okubo's testimony?	แล้วคำให้การของโอคุโบะล่ะ?
+17-0642	sound_auth	He said he left the Center at 10 AM,\nafter grabbing the sheets from the general ward.	เขาบอกว่าออกจากศูนย์ตอน 10 โมงเช้า\nหลังจากไปเก็บผ้าปูที่นอนจากหอ ผู้ป่วยทั่วไป
+17-0643	sound_auth	Then it wasn't until he got to the linen supplier\nthat he discovered the body.	แล้วก็ไปเจอศพเอาตอนไปถึง\nร้านซักผ้าปูที่นอนนั่นแหละ
+17-0644	sound_auth	Claimed Waku-san's corpse "somehow"\ngot loaded into his truck.	อ้างว่าศพวาคุซัง "ไม่รู้ยังไง"\nไปอยู่บนรถบรรทุกของเขาซะได้
+17-0645	sound_auth	Claimed Waku-san's corpse "somehow"\ngot mixed in the sheets on his truck.	อ้างว่าศพวาคุซัง "ไม่รู้ยังไง"\nไปปนอยู่ในกองผ้าปูบนรถบรรทุกของเขา
+17-0646	sound_auth	Who's gonna believe garbage like that?	ใครจะไปเชื่อเรื่องไร้สาระแบบนั้น?
+17-0647	sound_auth	Who'd believe a garbage alibi like that?	ใครจะเชื่อพยานที่อยู่ไร้สาระแบบนั้น?
+17-0648	sound_auth	If anyone should, it's his lawyers.	ถ้าจะมีใครเชื่อ ก็ต้องเป็นทนายของเขาสิ
+17-0649	sound_auth	If anyone's gonna believe him,\nit should be his lawyers.	ถ้าจะมีใครเชื่อเขา\nก็ต้องเป็นทนายของเขานี่แหละ
+17-0650	sound_auth	Hmph. We're meeting with\nOkubo after this, right?	ฮึ่ม แล้วเราจะไปเจอ\nโอคุโบะกันต่อจากนี้ใช่ไหม?
+17-0651	sound_auth	Well, we're going to meet with Okubo ourselves\nafter this, right?	เอาล่ะ เราจะไปเจอโอคุโบะกันเอง\nต่อจากนี้ใช่ไหม?
+17-0652	sound_auth	You should just be honest with him.\nTell him the case is unwinnable.	แกน่าจะพูดตรงๆ กับเขาไปเลย\nบอกว่าคดีนี้ชนะไม่ได้
+17-0653	sound_auth	Just be honest with him.\nTell him the case is unwinnable.	พูดตรงๆ กับเขาไปเลย\nบอกว่าคดีนี้ชนะไม่ได้
+17-0654	sound_auth	Are you two done here?	คุณสองคนเสร็จธุระที่นี่แล้วหรือยังคะ?
+17-0655	sound_auth	Yup. Can you show us the garage next?\nThe one where Okubo-kun parked his truck.	ใช่ พาไปดูโรงจอดรถต่อได้ไหม?\nที่ที่โอคุโบะคุงจอดรถบรรทุกไว้น่ะ
+17-0656	sound_auth	Yup. How about you show us the parking garage\nwhere Okubo-kun parked his truck, Terasawa-chan?	ใช่ พาไปดูโรงจอดรถหน่อยได้ไหม\nเทราซาวะจัง ที่ที่โอคุโบะคุงจอดรถบรรทุกไว้น่ะ?
+17-0657	sound_auth	The service entrance, I think it was.	น่าจะเป็นทางเข้าฝ่ายบริการครับ
+17-0658	sound_auth	The service entrance, right?	ทางเข้าฝ่ายบริการใช่ไหมคะ?
+17-0659	sound_auth	That's the only other place\nwe'll need to see today.	นั่นเป็นที่เดียวที่เหลือ\nที่ต้องดูวันนี้ครับ
+17-0660	sound_auth	That's our last stop,\nthen I think we're done.	นั่นเป็นจุดสุดท้ายแล้ว\nจากนั้นก็คิดว่าเสร็จเรียบร้อยครับ
+17-0661	sound_auth	We'll need to take an elevator\ndown there. Follow me.	เราต้องนั่งลิฟต์\nลงไปที่นั่นค่ะ ตามดิฉันมาเลย
+17-0662	sound_auth	We'll need to take an elevator down to the\nservice entrance garage. Follow me.	เราต้องนั่งลิฟต์ลงไปที่โรงจอดรถ\nทางเข้าฝ่ายบริการค่ะ ตามดิฉันมาเลย
+17-0663	sound_auth	Looks like a regular old garage to me.	ดูเหมือนโรงจอดรถธรรมดาๆ สำหรับฉันนะ
+17-0664	sound_auth	Seems like a regular old garage to me.	สำหรับฉันมันก็ดูเป็นโรงจอดรถธรรมดาๆ นะ
+17-0665	sound_auth	Hm. You'd make it out with no problem if you\nput a body into your truck down here. It's quiet.	อืม ถ้าเอาศพใส่รถบรรทุกตรงนี้\nก็คงออกไปได้แบบไม่มีปัญหาเลย เงียบดีด้วย
+17-0666	sound_auth	Look. You'd make it out no problem\nif you put a body in a truck down here.	ดูสิ ถ้าเอาศพใส่รถบรรทุก\nตรงนี้ก็คงออกไปได้แบบไม่มีปัญหาเลย
+17-0667	sound_auth	I suppose.	ก็คงอย่างนั้น
+17-0668	sound_auth	Hey, Yagami.\nCheck this out.	เฮ้ ยากามิ\nมาดูนี่สิ
+17-0669	sound_auth	These are the carts they use\nto collect sheets and linens.	นี่คือรถเข็นที่พวกเขาใช้\nเก็บผ้าปูที่นอนกับผ้าลินิน
+17-0670	sound_auth	Day of the crime, Okubo was all over\nthe hospital with one of these things.	วันเกิดเหตุ โอคุโบะเข็นไอ้นี่\nวนไปทั่วโรงพยาบาลเลย
+17-0671	sound_auth	Okubo took one of these\nall over the hospital.	โอคุโบะเข็นไอ้นี่\nวนไปทั่วโรงพยาบาล
+17-0672	sound_auth	It would've been simple for him to sneak\na body in there and cart it right out.	เขาคงแอบยัดศพใส่ในนี้\nแล้วเข็นออกไปได้ง่ายๆ เลย
+17-0673	sound_auth	With one of these on hand, he could easily\nsneak a body in there and cart it right out.	มีไอ้นี่ติดมืออยู่ เขาก็คง\nแอบยัดศพใส่แล้วเข็นออกไปได้ง่ายๆ
+17-0674	sound_auth	Maybe so.	ก็อาจจะใช่นะ
+17-0675	sound_auth	Where was Okubo parked\non the day of the incident?	วันเกิดเหตุโอคุโบะ\nจอดรถอยู่ตรงไหน?
+17-0676	sound_auth	On the day of the incident, where was\nOkubo specifically parked?	ในวันเกิดเหตุ โอคุโบะ\nจอดรถอยู่ตรงจุดไหนกันแน่?
+17-0677	sound_auth	Oh, um...	อ้อ เอ่อ...
+17-0678	sound_auth	Right about here.	ประมาณตรงนี้ครับ
+17-0679	sound_auth	The truck was parked here with the back\nfacing the elevator. Here's a recreation of it.	รถบรรทุกจอดอยู่ตรงนี้ โดยหันท้ายรถ\nเข้าหาลิฟต์ครับ นี่คือแบบจำลองของมัน
+17-0680	sound_auth	The truck was parked with the back facing the elevator.\nHere's a recreation of it.	รถบรรทุกจอดโดยหันท้ายรถเข้าหา ลิฟต์ครับ\nนี่คือแบบจำลองของมัน
+17-0681	sound_auth	DNA evidence from the victim was found\nin the flatbed of the truck.	พบหลักฐานดีเอ็นเอของเหยื่อ\nอยู่บนกระบะท้ายรถบรรทุก
+17-0682	sound_auth	The truck was two tons. DNA evidence\nfrom the victim was found in the flatbed.	รถบรรทุกคันนั้นเป็นรุ่นสองตัน พบหลักฐานดีเอ็นเอ\nของเหยื่ออยู่บนกระบะท้ายรถ
+17-0683	sound_auth	That's proof enough that the body was there.	แค่นี้ก็พิสูจน์ได้แล้วว่าศพเคย อยู่ตรงนั้น
+17-0684	sound_auth	And when they confronted Okubo,\nhe flat out admitted it.	พอถูกซักถามเข้า โอคุโบะ\nก็ยอมรับแบบไม่อ้อมค้อมเลย
+17-0685	sound_auth	And when they confronted him,\nOkubo flat out admitted it.	พอถูกซักถามเข้า\nโอคุโบะก็ยอมรับแบบไม่อ้อมค้อมเลย
+17-0686	sound_auth	So the body was hidden in a laundry basket,\nand taken out through here...	งั้นศพก็ถูกซ่อนไว้ในตะกร้าผ้า\nแล้วขนออกไปทางนี้สินะ...
+17-0687	sound_auth	So as far as we know, he took the body\nout through here in a laundry cart...	เท่าที่เรารู้ เขาขนศพ\nออกไปทางนี้ด้วยรถเข็นผ้า...
+17-0688	sound_auth	There was evidence that the body\nwas in Okubo's truck...	มีหลักฐานว่าศพ\nเคยอยู่ในรถบรรทุกของโอคุโบะ...
+17-0689	sound_auth	When was Waku-san last seen?	เห็นวาคุซังครั้งสุดท้ายเมื่อไหร่?
+17-0690	sound_auth	Um, when was Waku-san last seen?	เอ่อ เห็นวาคุซังครั้งสุดท้ายเมื่อไหร่?
+17-0691	sound_auth	Just before 8 AM on the day of the crime.	ก่อน 8 โมงเช้าเล็กน้อยของวันเกิดเหตุค่ะ
+17-0692	sound_auth	Yeah. 7:50, to be precise.\nAn ADDC scientist will be testifying to that.	ใช่ 7:50 น. พอดีเป๊ะ\nนักวิจัยของ ADDC จะเป็นพยานยืนยันเรื่องนี้
+17-0693	sound_auth	He claims he saw him\nnice and cozy in his bed.	เขาอ้างว่าเห็นวาคุนอน\nสบายๆ อยู่บนเตียง
+17-0694	sound_auth	I see. Can we talk to this witness?	เข้าใจแล้ว เราคุยกับพยานคนนี้ได้ไหม?
+17-0695	sound_auth	I see. And can we talk to this witness?	เข้าใจแล้ว แล้วเราคุยกับพยานคนนี้ได้ไหม?
+17-0696	sound_auth	I tried to get an appointment, but they shut me down.\nSaid they don't want us interfering with their research anymore.	ผมลองขอนัดดูแล้วครับ แต่โดนปฏิเสธ\nเขาบอกว่าไม่อยากให้เรามารบกวน งานวิจัยของเขาอีกครับ
+17-0697	sound_auth	Nope. I couldn't get an appointment.\nSaid they couldn't have their research interrupted.	ไม่ได้เลยครับ ผมขอนัดไม่ได้เลย\nเขาบอกว่าให้งานวิจัยถูกรบกวน ไม่ได้ครับ
+17-0698	sound_auth	They're not willing to make\nan exception this once?	เขาไม่ยอมยกเว้นเป็นกรณีพิเศษ\nสักครั้งเลยเหรอ?
+17-0699	sound_auth	What, they can't make\nan exception this once?	อะไรกัน จะยกเว้นเป็นกรณีพิเศษ\nสักครั้งก็ไม่ได้เลยเหรอ?
+17-0700	sound_auth	This isn't an issue you wanna push, Yagami. Worst-case\nscenario, you get charged with witness intimidation.	เรื่องนี้ไม่ใช่เรื่องที่ควรไป ดันต่อนะครับ ยากามิซัง แย่ที่สุด\nคือคุณอาจโดนข้อหาข่มขู่พยานได้ เลยนะครับ
+17-0701	sound_auth	Fact is, we can't be that emphatic about it.\nWe could get charged with witness intimidation, so drop it.	ความจริงคือเราไปดันเรื่องนี้แรงๆ ไม่ได้ครับ\nอาจโดนข้อหาข่มขู่พยานได้ ปล่อยไปเถอะครับ
+17-0702	sound_auth	All right, all right. Anyway.\nThe victim was last seen at 7:50.	ก็ได้ ก็ได้ เอาเป็นว่า\nเหยื่อถูกพบเห็นครั้งสุดท้ายตอน 7:50 น.
+17-0703	sound_auth	I get it. Well...\nAnyway. The victim was last seen at 7:50.	เข้าใจแล้ว เอาล่ะ...\nเหยื่อถูกพบเห็นครั้งสุดท้ายตอน 7:50 น.
+17-0704	sound_auth	That's right. Breakfast is at 8 o'clock, so the patients\nwho can walk on their own gather in the break room.	ใช่ค่ะ อาหารเช้าเสิร์ฟตอน 8 โมง ผู้ป่วย\nที่เดินเองได้ก็จะไปรวมตัว กันที่ห้องพักผ่อนค่ะ
+17-0705	sound_auth	Breakfast is at 8 o'clock, so the patients who can walk\non their own gather in the day room.	อาหารเช้าเสิร์ฟตอนแปดโมง ผู้ป่วยที่เดินเองได้\nก็จะมารวมตัวกันที่เดย์รูม
+17-0706	sound_auth	But on the day of his disappearance, 8:30\ncame and went with no sign of Waku-san.	แต่ในวันที่เขาหายตัวไป พอถึงแปดโมงครึ่ง\nก็ไม่มีวี่แววของวาคุซังเลย
+17-0707	sound_auth	But on the day of his disappearance,\n8:30 came and went with no sign of Waku-san.	แต่ในวันที่เขาหายตัวไป\nพอถึงแปดโมงครึ่งก็ไม่มีวี่แวว ของวาคุซังเลย
+17-0708	sound_auth	You thought you'd find him quickly.\nDidn't exactly turn out that way.	นายคิดว่าจะหาเจอเร็วๆ\nแต่มันก็ไม่ได้เป็นแบบนั้นซะหน่อย
+17-0709	sound_auth	You thought you'd find him quickly...\nBut it didn't exactly turn out that way.	นายคิดว่าจะหาเจอเร็วๆ...\nแต่มันก็ไม่ได้เป็นแบบนั้นซะหน่อย
+17-0710	sound_auth	Got that, Yagami?\nHere, let's go over some more details.	เข้าใจนะ ยากามิ?\nเอาละ มาดูรายละเอียดกันต่อ
+17-0711	sound_auth	Got that?\nHere, let's go over some more details.	เข้าใจนะ?\nเอาละ มาดูรายละเอียดกันต่อ
+17-0712	sound_auth	<color=ｍonologue>(Sure, let's hear what the great\nShintani-sensei has to say.)</color>	<color=ｍonologue>(ได้เลย มาฟังกันว่าท่านอาจารย์ชินทานิ\nผู้ยิ่งใหญ่จะพูดว่ายังไง)</color>
+17-0713	sound_auth	With me?\nThis thing's airtight, Yagami.	ฟังนะ?\nเรื่องนี้มันแน่นหนาไร้ช่องโหว่ ยากามิ
+17-0714	sound_auth	See? The story's airtight, Yagami.	เห็นไหม? เรื่องราวมันแน่นหนาไร้ช่องโหว่ ยากามิ
+17-0715	sound_auth	I know you're getting into this,\nbut come on.	ฉันรู้ว่านายอินกับเรื่องนี้มาก\nแต่ไม่เอาน่า
+17-0716	sound_auth	Just give it up already.\nYou don't have a chance.	เลิกดื้อได้แล้ว\nนายไม่มีทางชนะหรอก
+17-0717	sound_auth	Even though Okubo says he's innocent?	ถึงโอคุโบะจะบอกว่าตัวเอง บริสุทธิ์เหรอ?
+17-0718	sound_auth	I promised him we'd do\neverything we could.	ผมสัญญากับเขาไว้แล้วว่าจะทำ\nทุกอย่างเท่าที่ทำได้
+17-0719	sound_auth	Not my problem.\nYou shouldn't make promises you can't keep.	ไม่ใช่เรื่องของฉัน\nนายไม่ควรให้สัญญาที่รักษาไม่ได้
+17-0720	sound_auth	Not my problem.\nDon't make promises you can't keep.	ไม่ใช่เรื่องของฉัน\nอย่าให้สัญญาที่รักษาไม่ได้
+17-0721	sound_auth	...Fine, then I'll do it alone.\nYou don't have to be involved.	...ก็ได้ งั้นผมทำคนเดียวก็แล้วกัน\nนายไม่ต้องเข้ามายุ่งก็ได้
+17-0722	sound_auth	Fine, then I'll do it alone!\nYou can sit this one out, Shintani-sensei.	ก็ได้ งั้นผมทำคนเดียว!\nนายจะถอนตัวจากคดีนี้ก็ได้นะ อาจารย์ชินทานิ
+17-0723	sound_auth	Even if I'm not...\nThe loss'll hurt Genda-sensei's reputation.	ต่อให้ฉันไม่เข้ามายุ่ง...\nถ้าแพ้คดีก็จะกระทบชื่อเสียงของ อาจารย์เก็นดะอยู่ดี
+17-0724	sound_auth	Even if I did...\nYour loss'll hurt Genda-sensei's reputation.	ต่อให้ฉันเข้ามายุ่ง...\nถ้านายแพ้คดีก็จะกระทบชื่อเสียง ของอาจารย์เก็นดะอยู่ดี
+17-0725	sound_auth	I'm sorry, but our client says he's innocent.\nI can't back down from this.	ผมขอโทษด้วย แต่ลูกความของเราบอกว่าเขาบริสุทธิ์\nผมถอยจากเรื่องนี้ไม่ได้
+17-0726	sound_auth	I'm sorry? Our client says he's innocent.\nI can't back down from this.	ผมขอโทษเหรอ? ลูกความของเราบอกว่าเขาบริสุทธิ์\nผมถอยจากเรื่องนี้ไม่ได้
+17-0727	sound_auth	...Fine.\nI'll be in the lobby.	...ก็ได้\nฉันจะไปรออยู่ที่ล็อบบี้
+17-0728	sound_auth	...Do what you want.\nI'll be in the lobby.	...นายจะทำอะไรก็เชิญ\nฉันจะไปรออยู่ที่ล็อบบี้
+17-0729	sound_auth	Um, if you like... I could take you\nto see Waku-san's room again.	เอ่อ ถ้าคุณต้องการ... ดิฉันพาคุณไป\nดูห้องของวาคุซังอีกครั้งได้นะคะ
+17-0730	sound_auth	Um, if you'd like...\nI could take you to see Waku-san's room again.	เอ่อ ถ้าคุณต้องการ...\nดิฉันพาคุณไปดูห้องของวาคุซัง อีกครั้งได้นะคะ
+17-0731	sound_auth	You don't mind?\nThat would be great.	ไม่รบกวนใช่ไหมครับ?\nถ้าอย่างนั้นคงจะดีมาก
+17-0732	sound_auth	You don't mind?\nThat'd be great.	ไม่รบกวนใช่ไหมครับ?\nถ้าอย่างนั้นคงจะดีมาก
+17-0733	sound_auth	<color=ｍonologue>(Here I am again. Don't really see\nanything out of the ordinary, though.)</color>	<color=ｍonologue>(มาที่นี่อีกแล้ว แต่ก็ไม่เห็นมี\nอะไรผิดปกติเลยนะ)</color>
+17-0734	sound_auth	Um... Are you finished?	เอ่อ... คุณดูเสร็จหรือยังคะ?
+17-0735	sound_auth	Not yet.\nJust a little longer.	ยังครับ\nขออีกสักครู่
+17-0736	sound_auth	Not yet.\nI'm still looking around.	ยังครับ\nผมยังดูอยู่
+17-0737	sound_auth	Yeah, I've seen what I need.\nAnything else you can share?	ครับ ผมดูเท่าที่ต้องการแล้ว\nมีอะไรที่คุณพอจะบอกผมได้อีกไหมครับ?
+17-0738	sound_auth	All right, I've seen all I need to see.\nAnything else?	เอาละ ผมดูทุกอย่างที่ต้องการแล้ว\nมีอะไรอีกไหมครับ?
+17-0739	sound_auth	How long will Okubo-san's sentence be?	โอคุโบะซังจะโดนตัดสินจำคุกกี่ปีคะ?
+17-0740	sound_auth	If he's found guilty, that is.	ถ้าเขาถูกตัดสินว่าผิดนะคะ
+17-0741	sound_auth	Probably 10 years, maybe more.\nIt's hard to say for sure.	อาจจะสัก 10 ปี หรือมากกว่านั้น\nบอกแน่ชัดได้ยากครับ
+17-0742	sound_auth	Ten years...? Maybe more.\nIt's hard to say for sure.	สิบปี...? หรืออาจจะมากกว่านั้น\nบอกแน่ชัดได้ยากครับ
+17-0743	sound_auth	And what if he confesses?\nWould they shorten his sentence?	แล้วถ้าเขาสารภาพล่ะคะ?\nโทษจะลดลงไหม?
+17-0744	sound_auth	And what if he confesses?\nWould they shorten Okubo-san's sentence?	แล้วถ้าเขาสารภาพล่ะคะ?\nโทษของโอคุโบะซังจะลดลงไหม?
+17-0745	sound_auth	At the very least, it'd make a better impression\nthan insisting he didn't do it.	อย่างน้อยก็ดูดีกว่าการยืนกราน\nว่าตัวเองไม่ได้ทำครับ
+17-0746	sound_auth	I'm sure the prosecution would appreciate it.\nMore than pleading innocence, at least.	ฝ่ายอัยการคงจะพอใจไม่น้อย\nอย่างน้อยก็ดีกว่าสู้คดีว่า บริสุทธิ์ครับ
+17-0747	sound_auth	But you're still going to push an innocent plea?\nEven though Okubo-san is the one who'll suffer for it?	แต่คุณก็ยังจะยืนยันสู้คดีว่า เขาบริสุทธิ์อยู่ดี?\nทั้งที่คนที่ต้องรับผลคือโอคุโบะซัง?
+17-0748	sound_auth	But that's the plea you'll enter, right?\nEven though Okubo-san is the one who'll suffer for it?	แต่นั่นคือคำให้การที่คุณจะยื่น ใช่ไหมคะ?\nทั้งที่คนที่ต้องรับผลคือโอคุโบะซัง?
+17-0749	sound_auth	If he's really not guilty,\nhe won't have to. I'll win.	ถ้าเขาบริสุทธิ์จริง\nเขาก็ไม่ต้องรับผลอะไรทั้งนั้น ผมจะชนะให้ได้
+17-0750	sound_auth	If he's really innocent, he won't suffer.\nI'll win.	ถ้าเขาบริสุทธิ์จริง เขาก็ไม่ต้องเจ็บปวดอะไร\nผมจะชนะให้ได้
+17-0751	sound_auth	But to be perfectly honest,\nthis is my first criminal case.	แต่พูดตรงๆ นะครับ\nนี่คือคดีอาญาคดีแรกของผมเลย
+17-0752	sound_auth	If I'm being honest, though...\nThis is my first criminal case.	ถ้าให้พูดตรงๆ นะครับ...\nนี่คือคดีอาญาคดีแรกของผมเลย
+17-0753	sound_auth	Civil cases have been a mixed bag for me,\ntoo. I've actually lost more than I've won.	คดีแพ่งของผมเองก็ครึ่งๆ กลางๆ\nนะครับ แพ้มากกว่าชนะเสียด้วยซ้ำ
+17-0754	sound_auth	Civil cases have been a mixed bag for me, too.\nI've actually lost more than I've won.	คดีแพ่งของผมเองก็ครึ่งๆ กลางๆ นะครับ\nแพ้มากกว่าชนะเสียด้วยซ้ำ
+17-0755	sound_auth	Oh, really?	จริงเหรอคะ?
+17-0756	sound_auth	Apparently a "smart" lawyer would never even\nconsider an innocent plea in this case.	เขาว่ากันว่าทนาย "ที่ฉลาด" จะไม่มีวัน\nคิดสู้คดีแบบยืนยัน ความบริสุทธิ์ในคดีนี้ด้วยซ้ำ
+17-0757	sound_auth	For this case... I've been told a "smart" lawyer\nwouldn't even think of pleading innocent.	สำหรับคดีนี้... มีคนบอกผมว่าทนาย "ที่ฉลาด"\nจะไม่มีวันคิดสู้คดีแบบยืนยัน ความบริสุทธิ์ด้วยซ้ำ
+17-0758	sound_auth	Guess it's a good thing that I'm not so smart, then...\nBecause I honestly believe I can win.	งั้นก็ดีแล้วที่ผมไม่ได้ฉลาดขนาดนั้น...\nเพราะผมเชื่อจริงๆ ว่าผมชนะได้
+17-0759	sound_auth	Terasawa-san.\nWere you close to Okubo-kun?	เทราซาวะซัง\nคุณสนิทกับโอคุโบะคุงไหมครับ?
+17-0760	sound_auth	I spoke to him pretty often, yes.\nI would see him around the ward all the time.	ค่ะ ดิฉันคุยกับเขาค่อนข้างบ่อย\nเจอเขาแถวหอผู้ป่วยอยู่เป็นประจำ
+17-0761	sound_auth	I spoke to him fairly often, yes.\nI would see him around the ward all the time.	ค่ะ ดิฉันคุยกับเขาบ่อยพอสมควร\nเจอเขาแถวหอผู้ป่วยอยู่เป็นประจำ
+17-0762	sound_auth	And what did you think of him? Did he seem like\nthe kinda guy who'd do something like this?	แล้วคุณคิดยังไงกับเขาครับ? เขาดูเป็นคนที่\nจะทำเรื่องแบบนี้ได้ไหม?
+17-0763	sound_auth	So, do you think Okubo's the kind of guy\nwho could do this?	คุณคิดว่าโอคุโบะเป็นคนที่\nจะทำเรื่องแบบนี้ได้ไหมครับ?
+17-0764	sound_auth	...I'm sorry.\nThe director told us not to say too much.	...ดิฉันขอโทษด้วยค่ะ\nผู้อำนวยการสั่งไว้ว่าอย่าพูดอะไรมาก
+17-0765	sound_auth	If you know anything that can help...\nJust get in touch, okay?	ถ้าคุณรู้อะไรที่พอจะช่วยได้...\nติดต่อผมได้เลยนะครับ
+17-0766	sound_auth	If you know anything that can help...\nJust call me.	ถ้าคุณรู้อะไรที่พอจะช่วยได้...\nโทรหาผมได้เลยนะครับ
+17-0767	sound_auth	I'll do whatever it takes\nto set Okubo-kun free.	ผมจะทำทุกวิถีทาง\nเพื่อพิสูจน์ให้โอคุโบะคุงเป็นอิสระ
+17-0768	sound_auth	I'll do whatever it takes to set Okubo-kun free.	ผมจะทำทุกวิถีทางเพื่อพิสูจน์ ให้โอคุโบะคุงเป็นอิสระ
+17-0769	sound_auth	But I can't do it alone. Just...\ngive it some thought, Terasawa-san.	แต่ผมทำคนเดียวไม่ได้ แค่...\nช่วยลองคิดดูนะครับ เทราซาวะซัง
+17-0770	sound_auth	But I don't think I can do it alone.\nJust... think about it, Terasawa-san.	ผมว่าผมทำคนเดียวไม่ไหว\nแค่... ลองคิดดูนะครับ เทราซาวะซัง
+17-0771	sound_auth	On the day of the crime,\nyou were in the general ward of the ADDC, yes?	ในวันเกิดเหตุ\nคุณอยู่ที่หอผู้ป่วยทั่วไปของ ADDC ใช่ไหม?
+17-0772	sound_auth	Starting at 8 AM, you went around\nto each room and gathered the linens.	ตั้งแต่แปดโมงเช้า คุณเดินไปเก็บ\nผ้าปูที่นอนทีละห้อง
+17-0773	sound_auth	Starting at 8 AM, you went to each room\nand gathered the linens.	ตั้งแต่แปดโมงเช้า คุณไปทีละห้อง\nเพื่อเก็บผ้าปูที่นอน
+17-0774	sound_auth	Yes, nobody would dispute that.	ใช่ครับ ไม่มีใครเถียงเรื่องนี้ได้
+17-0775	sound_auth	Yes, of course...\nNobody would dispute that.	ใช่ครับ แน่นอน...\nไม่มีใครเถียงเรื่องนี้ได้
+17-0776	sound_auth	And after that, you covered Waku-san's nose and mouth,\nsuffocated him, and then carted him out in a laundry bin.	แล้วหลังจากนั้น คุณก็ปิดจมูกปิดปากวาคุซัง\nทำให้เขาขาดอากาศหายใจตาย แล้วเข็นศพออกไปในตะกร้าผ้า
+17-0777	sound_auth	And after that, you covered Waku-san's nose and mouth,\nsuffocated him, and wheeled him out in a laundry cart.	แล้วหลังจากนั้น คุณก็ปิดจมูกปิดปากวาคุซัง\nทำให้เขาขาดอากาศหายใจตาย แล้วเข็นศพออกไปในรถเข็นผ้า
+17-0778	sound_auth	That's not true. Waku-san wasn't\nthere when I went into his room.	ไม่จริงครับ วาคุซังไม่ได้\nอยู่ที่นั่นตอนที่ผมเข้าไปในห้อง
+17-0779	sound_auth	That's not true. Waku-san wasn't there\nwhen I went into his room.	ไม่จริงครับ วาคุซังไม่ได้อยู่ที่นั่น\nตอนที่ผมเข้าไปในห้อง
+17-0780	sound_auth	I didn't see him at all that day.\nYou have to believe me...!	ผมไม่เห็นเขาเลยสักนิดในวันนั้น\nเชื่อผมเถอะครับ...!
+17-0781	sound_auth	I swear, I didn't see Waku-san\nat all that day!	ผมสาบานได้ว่าไม่เห็นวาคุซัง\nเลยสักนิดในวันนั้น!
+17-0782	sound_auth	Now, you left the hospital\nin your truck around 10 AM.	จากนั้น คุณออกจากโรงพยาบาล\nด้วยรถบรรทุกตอนราวสิบโมงเช้า
+17-0783	sound_auth	But when you went to unload\nthe linens from the flatbed...	แต่ตอนที่คุณไปขน\nผ้าปูที่นอนลงจากกระบะท้าย...
+17-0784	sound_auth	You realized there was a body\nhidden among them.	คุณก็รู้ตัวว่ามีศพ\nถูกซ่อนอยู่ในกองผ้านั้น
+17-0785	sound_auth	And I do.	และผมก็เข้าใจดี
+17-0786	sound_auth	So when you went down to leave the center\nat 10 AM after gathering the linens...	ดังนั้นตอนที่คุณลงมาจะออกจากศูนย์\nตอนสิบโมงหลังเก็บผ้าปูที่นอนเสร็จ...
+17-0787	sound_auth	So you finished collecting the sheets at around 10 AM,\nbut when you went to leave the hospital...	คุณเก็บผ้าปูที่นอนเสร็จตอนราวสิบโมง\nแต่พอจะออกจากโรงพยาบาล...
+17-0788	sound_auth	You realized there was a body\nhidden in the truck.	คุณก็รู้ตัวว่ามีศพ\nถูกซ่อนอยู่ในรถบรรทุก
+17-0789	sound_auth	...You found the body of the victim\nstashed in the flatbed of your truck.	...คุณพบศพของผู้เสียชีวิต\nถูกซ่อนอยู่ในกระบะท้ายรถบรรทุกของคุณ
+17-0790	sound_auth	Yes, that's what happened.	ใช่ครับ มันเป็นแบบนั้นจริงๆ
+17-0791	sound_auth	That's... what happened, yes.	มันเป็น... แบบนั้นจริงๆ ครับ
+17-0792	sound_auth	Then after debating whether or not to report the body,\nyou chose to hide it in the mountains.	แล้วหลังจากลังเลอยู่นานว่า จะแจ้งเรื่องศพดีไหม\nคุณก็เลือกที่จะเอาไปซ่อนบนภูเขา
+17-0793	sound_auth	<color=ｍonologue>(That's gonna be a huge hurdle to climb in the trial...)</color>	<color=ｍonologue>(นี่จะเป็นอุปสรรคใหญ่ในชั้นศาลแน่ๆ...)</color>
+17-0794	sound_auth	I had a criminal assault on my record. I knew\nthe police would've suspected me if I went to them.	ผมมีประวัติทำร้ายร่างกายติดตัวอยู่ ผมรู้ดีว่า\nตำรวจต้องสงสัยผมแน่ถ้าไปแจ้งความ
+17-0795	sound_auth	I had a criminal assault on my record.\nThe police would've suspected me if I went to them. So...	ผมมีประวัติทำร้ายร่างกายติดตัวอยู่\nตำรวจต้องสงสัยผมแน่ถ้าไปแจ้งความ ก็เลย...
+17-0796	sound_auth	Aren't you forgetting the bad blood\nyou had with Waku-san?	คุณลืมเรื่องบาดหมางที่มีกับวาคุซัง\nไปแล้วหรือไงครับ?
+17-0797	sound_auth	If I recall, there was some kind of trouble between\nyou and Waku-san, wasn't there?	ถ้าผมจำไม่ผิด คุณกับวาคุซังเคยมีเรื่อง\nขัดแย้งกันอยู่ไม่ใช่หรือครับ?
+17-0798	sound_auth	Bad blood?\nWhat are you talking about?	บาดหมางเหรอ?\nนายพูดเรื่องอะไร?
+17-0799	sound_auth	Trouble? What are you talking about?	เรื่องขัดแย้งเหรอ? นายพูดเรื่องอะไร?
+17-0800	sound_auth	Three days before the murder, Waku-san claimed\nOkubo-kun here punched him and stole his wallet.	สามวันก่อนเกิดเหตุฆาตกรรม วาคุซังกล่าวหาว่า\nโอคุโบะคุงคนนี้ต่อยเขาแล้วขโมย กระเป๋าสตางค์ไป
+17-0801	sound_auth	Three days before the murder, Waku-san claimed\nOkubo-kun punched him and stole his wallet.	สามวันก่อนเกิดเหตุฆาตกรรม วาคุซังกล่าวหาว่า\nโอคุโบะคุงต่อยเขาแล้วขโมย กระเป๋าสตางค์ไป
+17-0802	sound_auth	They told me all about it at the Center.	ที่ศูนย์เขาเล่าเรื่องนี้ให้ฉัน ฟังหมดแล้ว
+17-0803	sound_auth	When did you even ask?	นายไปถามตอนไหนกัน?
+17-0804	sound_auth	When did you have the time to ask that?	นายมีเวลาไปถามเรื่องนั้นตอนไหน?
+17-0805	sound_auth	While you were busy chatting up\nTerasawa-chan.	ตอนที่นายยุ่งอยู่กับการจีบ\nเทราซาวะจังไง
+17-0806	sound_auth	Even if I bitch about it,\nI'm still damn good at my job.	ต่อให้ฉันบ่นไปเรื่อย\nฉันก็ยังทำงานเก่งอยู่ดีวะ
+17-0807	sound_auth	Heh. I might complain the whole way,\nbut I still do my job.	ฮึ ฉันอาจจะบ่นไปตลอดทาง\nแต่ก็ยังทำหน้าที่ของฉันอยู่ดี
+17-0808	sound_auth	Well, Okubo-kun?\nDid you take his wallet, or...	เอาละ โอคุโบะคุง?\nคุณเอากระเป๋าสตางค์เขาไปไหม หรือว่า...
+17-0809	sound_auth	Well, Okubo-kun?\nDid you take Waku-san's wallet, or...	เอาละ โอคุโบะคุง?\nคุณเอากระเป๋าสตางค์ของวาคุซังไปไหม หรือว่า...
+17-0810	sound_auth	Not quite!	ยังไม่ใช่ซะทีเดียว!
+17-0811	sound_auth	He didn't.	เขาไม่ได้ทำ
+17-0812	sound_auth	They call it delusion of theft.	เขาเรียกอาการนี้ว่าอาการหลงผิด คิดว่าถูกขโมยของ
+17-0813	sound_auth	They call it delusion of theft, right?	เขาเรียกอาการนี้ว่าอาการหลงผิด คิดว่าถูกขโมยของ ใช่ไหมล่ะ?
+17-0814	sound_auth	It's a symptom of dementia. You think something's been\nstolen from you, then blame the first person you see.	เป็นอาการหนึ่งของโรคสมองเสื่อม คิดไปเองว่าของ\nถูกขโมยไป แล้วก็โทษคนแรกที่เห็น
+17-0815	sound_auth	Not the easiest thing to deal with, right?	ไม่ใช่เรื่องง่ายที่จะรับมือเลย ใช่ไหมล่ะ?
+17-0816	sound_auth	Someone accuses you of theft for no reason?\nMust have been a shock!	จู่ๆ ก็มีคนกล่าวหาว่าคุณขโมยของ ทั้งที่ไม่ได้ทำ?\nคงตกใจน่าดูสิครับ!
+17-0817	sound_auth	Outta the blue, someone starts calling you a thief.\nProbably a pretty big shock.	อยู่ดีๆ ก็มีคนตะโกนหาว่าคุณเป็นขโมย\nคงเป็นเรื่องช็อกน่าดูเลยครับ
+17-0818	sound_auth	So when Waku-san tried to hit you,\nyou just about hit him back.	ดังนั้นพอวาคุซังพยายามจะตีคุณ\nคุณก็เกือบจะตีกลับใช่ไหมครับ
+17-0819	sound_auth	So when the old man tried to hit you,\nyou just about hit him back.	ดังนั้นพอตาแก่คนนั้นพยายามจะตีคุณ\nคุณก็เกือบจะตีกลับใช่ไหมครับ
+17-0820	sound_auth	But I didn't hit him.	แต่ผมไม่ได้ตีเขา
+17-0821	sound_auth	No. You murdered him.	ไม่ใช่ คุณฆ่าเขาต่างหาก
+17-0822	sound_auth	Right... You jumped to murder.	ใช่สิ... คุณรีบสรุปว่าเป็นฆาตกรรมไปเลย สินะครับ
+17-0823	sound_auth	I wouldn't kill a man over\nsomething like that.	ผมไม่มีทางฆ่าคนเพราะ\nเรื่องแค่นั้นหรอกครับ
+17-0824	sound_auth	I couldn't... I'd never kill a man\nover something like that.	ผมทำไม่ได้หรอก... ผมไม่มีทางฆ่าคน\nเพราะเรื่องแค่นั้น
+17-0825	sound_auth	I wish I could believe you, pal.	ผมก็อยากจะเชื่อคุณนะ เพื่อนยาก
+17-0826	sound_auth	I sure wish I could believe you, kiddo.	ผมก็อยากจะเชื่อคุณจริงๆ นะ เด็กน้อย
+17-0827	sound_auth	C'mon Okubo-kun.\nYou've got a record of violence.	ไม่เอาน่า โอคุโบะคุง\nคุณมีประวัติใช้ความรุนแรงอยู่แล้ว
+17-0828	sound_auth	Okubo-kun... You've gotten violent\nwith women before, too.	โอคุโบะคุง... คุณเคยใช้ความรุนแรง\nกับผู้หญิงมาก่อนด้วย
+17-0829	sound_auth	It wasn't me, I swear.\nSomebody set me up.	ไม่ใช่ผม ผมสาบานได้\nมีคนใส่ร้ายผม
+17-0830	sound_auth	Please, you have to believe me! Whoever did this\nis laughing at all of us right now!	ได้โปรดเถอะ เชื่อผมเถอะครับ! ไม่ว่าใครที่ทำเรื่องนี้\nตอนนี้มันต้องหัวเราะเยาะพวกเรา อยู่แน่ๆ!
+17-0831	sound_auth	Please, you have to believe me!\nWhoever did this is laughing at all of us right now!	ได้โปรดเถอะ เชื่อผมเถอะครับ!\nไม่ว่าใครที่ทำเรื่องนี้ ตอนนี้มันต้องหัวเราะเยาะพวกเรา อยู่แน่ๆ!
+17-0832	sound_auth	Calm down!	ใจเย็นๆ ก่อน!
+17-0833	sound_auth	Yagami-sensei...\nDo you believe me?	อาจารย์ยากามิ...\nคุณเชื่อผมไหมครับ?
+17-0834	sound_auth	Yagami-sensei...\nDo you really believe me?	อาจารย์ยากามิ...\nคุณเชื่อผมจริงๆ ใช่ไหมครับ?
+17-0835	sound_auth	Okay...\nThen next time, come alone.	ครับ...\nงั้นครั้งหน้ามาคนเดียวนะครับ
+17-0836	sound_auth	Then... next time, please come alone.	งั้น... ครั้งหน้าขอมาคนเดียวนะครับ
+17-0837	sound_auth	Fine, I can take a hint. You and Yagami-sensei\ncan cuddle up all you want.	ก็ได้ ผมเข้าใจแล้วน่า จะให้คุณกับ\nอาจารย์ยากามิกอดกันจุ๊บๆ ตามใจเลย
+17-0838	sound_auth	Don't worry, I can take a hint.\nI'll be out of your hair from now on.	ไม่ต้องห่วง ผมเข้าใจแล้วน่า\nต่อไปนี้จะไม่มากวนใจคุณอีก
+17-0839	sound_auth	Hey, you know that nurse,\nTerasawa-san? Cute girl.	เฮ่ นางพยาบาลคนนั้นที่คุณรู้จัก\nเทราซาวะซังน่ะ น่ารักดีนะ
+17-0840	sound_auth	Hey. That nurse, Terasawa-san...\nYou know her? Cute girl.	เฮ่ นางพยาบาลคนนั้น เทราซาวะซัง...\nคุณรู้จักเธอใช่ไหม น่ารักดีนะ
+17-0841	sound_auth	It sounded like she was worried about you.\nBet you'd have a chance with her once you get out of here.	ฟังดูเหมือนเธอเป็นห่วงคุณนะ\nพนันได้เลยว่าคุณมีลุ้นกับเธอ พอออกไปจากที่นี่ได้
+17-0842	sound_auth	It sounded like she was worried about you.\nOnce you're free, you should ask her out.	ฟังดูเหมือนเธอเป็นห่วงคุณนะ\nพอเป็นอิสระแล้ว ลองชวนเธอไปเดตดูสิ
+17-0843	sound_auth	I dunno.\nIf you'll excuse me.	ผมก็ไม่รู้เหมือนกันครับ\nขอตัวก่อนนะครับ
+17-0844	sound_auth	...Yeah.\nIf you'll excuse me.	...ครับ\nขอตัวก่อนนะครับ
+17-0845	sound_auth	So Shintani just left you hanging, huh?	งั้นชินทานิก็ทิ้งไว้แบบนั้นเลยสินะ?
+17-0846	sound_auth	And that was it?\nShintani just left you there?	แล้วก็แค่นั้นเลยเหรอ?\nชินทานิทิ้งไว้ตรงนั้นเลยเหรอ?
+17-0847	sound_auth	He's gotta learn some damn patience.	เขาต้องหัดอดทนกันบ้างแล้วนะ จริงๆ เลย
+17-0848	sound_auth	He's gotta learn some patience.	เขาต้องหัดมีความอดทนกันบ้างแล้วนะ
+17-0849	sound_auth	Maybe so... but this is my case now.\nI can handle it myself.	อาจจะใช่ครับ... แต่ตอนนี้มันเป็นคดีของผมแล้ว\nผมรับมือเองได้
+17-0850	sound_auth	Maybe... but this is my case now.\nI can handle it on my own.	อาจจะ... แต่ตอนนี้มันเป็นคดีของผมแล้ว\nผมจัดการเองได้
+17-0851	sound_auth	Heh. Okay.	ฮึ ก็ได้
+17-0852	sound_auth	Heh. Right.	ฮึ ก็จริง
+17-0853	sound_auth	Have you seen Mafuyu lately?	ช่วงนี้ได้เจอมาฟุยุบ้างไหมคะ?
+17-0854	sound_auth	Have you met up with Mafuyu recently?	ช่วงนี้ได้ไปเจอมาฟุยุบ้างไหมคะ?
+17-0855	sound_auth	Where's this coming from?	มาจากไหนกันเนี่ย?
+17-0856	sound_auth	Huh? Where's this coming from?	หา? อยู่ดีๆ ถามเรื่องนี้มาได้ไง?
+17-0857	sound_auth	She's just not that great with men.	เธอไม่ค่อยถนัดเรื่องผู้ชาย เท่าไหร่น่ะค่ะ
+17-0858	sound_auth	Look, she's not really used to\ndealing with men.	นี่ เธอไม่ค่อยชินกับการ\nรับมือกับผู้ชายเท่าไหร่หรอกค่ะ
+17-0859	sound_auth	I suggest you be more assertive.	ฉันว่าคุณน่าจะกล้าแสดงออกให้ มากกว่านี้นะคะ
+17-0860	sound_auth	You should be more assertive.	คุณควรจะกล้าแสดงออกให้มากกว่านี้นะคะ
+17-0861	sound_auth	Right, okay.	อืม ก็ได้
+17-0862	sound_auth	You mean that friend of yours, Saori-kun?	หมายถึงเพื่อนของคุณคนนั้น ซาโอริคุงน่ะเหรอ?
+17-0863	sound_auth	She's got Shintani all riled up.	เธอทำเอาชินทานิร้อนรนไปหมดเลยนะ
+17-0864	sound_auth	Shintani's all bitter about her.	ชินทานิถึงกับขมขื่นเรื่องเธอคน นั้นเลย
+17-0865	sound_auth	Said he'd've been nicer to you if he knew\nyou had friends who looked like her. Jackass.	บอกว่าถ้ารู้ว่าคุณมีเพื่อน หน้าตาดีขนาดนั้น\nคงใจดีกับคุณกว่านี้ ไอ้บ้านั่น
+17-0866	sound_auth	Said he'd have been nicer to you\nif he knew you had pretty friends like her.	บอกว่าถ้ารู้ว่าคุณมีเพื่อน หน้าตาดีแบบนั้น\nคงใจดีกับคุณกว่านี้
+17-0867	sound_auth	Hey, nothing's official yet, guys.	เฮ่ ยังไม่มีอะไรเป็นทางการเลยนะครับพวก
+17-0868	sound_auth	Nothing's official yet anyway, guys.	ยังไงก็ยังไม่มีอะไรเป็นทางการ เลยนะครับพวก
+17-0869	sound_auth	Yet? That word says more than you think.	ยังเหรอ? คำนั้นมันบอกอะไรมากกว่าที่คิดนะคะ
+17-0870	sound_auth	"Yet," you say?\nThe word speaks volumes.	พูดว่า "ยัง" งั้นเหรอคะ?\nคำนั้นมันบอกอะไรได้เยอะเลยนะ
+17-0871	sound_auth	Regardless, keep it on the downlow, okay?	ยังไงก็เถอะ อย่าเพิ่งพูดออกไปนะ โอเคไหม?
+17-0872	sound_auth	Regardless, no gossiping, okay?	ยังไงก็เถอะ ห้ามเอาไปนินทานะ โอเคไหม?
+17-0873	sound_auth	I'll keep my lips sealed.	ฉันจะปิดปากเงียบให้เลยค่ะ
+17-0874	sound_auth	I'll give you space, don't worry.	ฉันจะไม่ไปยุ่งให้หรอกค่ะ ไม่ต้องห่วง
+17-0875	sound_auth	Mafuyu-kun's a prosecutor, right? Isn't it kinda\ntaboo for her to date a defense attorney?	มาฟุยุคุงเป็นอัยการใช่ไหมครับ? มันก็ค่อนข้าง\nต้องห้ามอยู่นะ ที่จะคบกับทนายฝ่ายจำเลย
+17-0876	sound_auth	Mafuyu-kun's a prosecutor, right?\nIsn't it kinda taboo to date the defense?	มาฟุยุคุงเป็นอัยการใช่ไหมครับ?\nมันก็ค่อนข้างต้องห้ามอยู่นะ ที่จะคบกับฝ่ายจำเลย
+17-0877	sound_auth	Can we not do this?	ขอไม่พูดเรื่องนี้ได้ไหม?
+17-0878	sound_auth	Can we please stop talking about this?	ขอเลิกพูดเรื่องนี้กันทีได้ไหม?
+17-0879	sound_auth	Either way, guess the Okubo case comes first.\nWe're pleading innocent, yeah?	ยังไงก็เถอะ คดีของโอคุโบะคงต้องมาก่อน\nเราจะสู้คดีว่าเขาบริสุทธิ์ใช่ไหมครับ?
+17-0880	sound_auth	Either way, guess Shinpei Okubo comes first.\nYou're pleading innocent, yeah?	ยังไงก็เถอะ คดีของชินเป โอคุโบะคงต้องมาก่อน\nคุณจะสู้คดีว่าเขาบริสุทธิ์ใช่ไหมครับ?
+17-0881	sound_auth	That's the plan.	นั่นแหละที่ตั้งใจไว้
+17-0882	sound_auth	What is your plan here?\nThis isn't gonna be an easy win.	แล้วแผนของคุณคืออะไรครับ?\nคดีนี้ไม่ใช่จะชนะง่ายๆ นะ
+17-0883	sound_auth	But how are you going to clinch it?\nDo you have a strategy?	แต่คุณจะเอาชนะได้ยังไงครับ?\nมีกลยุทธ์อะไรไหม?
+17-0884	sound_auth	Well, I'm working on that. There's one piece\nof evidence that still bothers me.	เอาละ ผมกำลังคิดอยู่ครับ มีหลักฐาน\nชิ้นหนึ่งที่ยังติดอยู่ในใจผม
+17-0885	sound_auth	Well, sorta. There's one piece of evidence\nthat's been bothering me.	ก็พอมีครับ มีหลักฐานชิ้นหนึ่ง\nที่ค้างคาใจผมอยู่
+17-0886	sound_auth	Yeah? And what's that?	อ้อเหรอ? แล้วมันคืออะไร?
+17-0887	sound_auth	Oh?\nAnd what's that?	อ้อ?\nแล้วมันคืออะไรครับ?
+17-0888	sound_auth	<color=ｍonologue>(What should I focus on if I want to\nprove Okubo innocent?)</color>	<color=ｍonologue>(ถ้าอยากพิสูจน์ว่าโอคุโบะบริสุทธิ์\nผมควรโฟกัสตรงไหนดี)</color>
+17-0889	sound_auth	It's the hospital room\nthe victim was staying in.	มันคือห้องพยาบาล\nที่ผู้เสียชีวิตพักอยู่
+17-0890	sound_auth	It's the hospital room that the victim\nwas staying in.	มันคือห้องพยาบาลที่ผู้เสียชีวิต\nพักอยู่
+17-0891	sound_auth	This is the last place Waku-san\nwas seen before he disappeared.	นี่คือที่สุดท้ายที่มีคนเห็นวาคุซัง\nก่อนที่เขาจะหายตัวไป
+17-0892	sound_auth	Their witness claims he saw\nWaku-san lying in his bed here.	พยานของฝ่ายนั้นอ้างว่าเห็น\nวาคุซังนอนอยู่บนเตียงตรงนี้
+17-0893	sound_auth	At the time...	ตอนนั้น...
+17-0894	sound_auth	But at the time...	แต่ตอนนั้น...
+17-0895	sound_auth	The witness would have seen Waku-san from\nthis angle through the window in the door.	พยานคงเห็นวาคุซังจาก\nมุมนี้ผ่านช่องกระจกที่ประตู
+17-0896	sound_auth	The witness would have seen Waku-san\nfrom this angle through the window in the door.	พยานคงเห็นวาคุซัง\nจากมุมนี้ผ่านช่องกระจกที่ประตู
+17-0897	sound_auth	But the cabinet here would have\nbeen blocking his face.	แต่ตู้เก็บของตรงนี้น่าจะ\nบังหน้าเขาไว้
+17-0898	sound_auth	But the cabinet here would\nhave been blocking his face.	แต่ตู้เก็บของตรงนี้น่าจะบัง\nหน้าเขาไว้
+17-0899	sound_auth	In other words, there's room to argue that the witness\nnever actually saw Waku-san to begin with.	พูดอีกอย่างคือ เรามีช่องเถียงได้ว่าพยาน\nไม่ได้เห็นวาคุซังจริงๆ ตั้งแต่แรก
+17-0900	sound_auth	It might've just looked like there was somebody in there.\nOr maybe the killer set it up to look that way.	มันอาจจะแค่ดูเหมือนมีคนอยู่ในนั้น\nหรือไม่ฆาตกรก็จัดฉากให้ดูแบบนั้น
+17-0901	sound_auth	And how would that impact the trial?	แล้วมันจะส่งผลต่อการพิจารณาคดี ยังไงครับ?
+17-0902	sound_auth	Well, the premise that the victim was still alive\nat 8 o'clock would no longer be on the table.	อย่างแรกเลย ข้อสันนิษฐานที่ว่าผู้เสียชีวิต ยังมีชีวิตอยู่\nตอนแปดโมงก็จะตกไปทันที
+17-0903	sound_auth	Well, the premise that the victim was still alive at 8 o'clock\nwould no longer be on the table.	ข้อสันนิษฐานที่ว่าผู้เสียชีวิต ยังมีชีวิตอยู่ตอนแปดโมง\nก็จะตกไปทันที
+17-0904	sound_auth	Meaning the crime could have occurred\nduring a much wider time range.	หมายความว่าเหตุอาจจะเกิดขึ้น\nในช่วงเวลาที่กว้างกว่าที่คิดมาก
+17-0905	sound_auth	Meaning the timeframe could be much wider\nthan we initially thought.	หมายความว่าช่วงเวลาที่ เป็นไปได้กว้างกว่า\nที่เราคิดไว้ตอนแรกมาก
+17-0906	sound_auth	With that in mind, we could claim there's no proof\nthat Okubo took Waku-san out of the room.	ด้วยเหตุนี้ เราก็อ้างได้ว่าไม่มีหลักฐาน\nยืนยันว่าโอคุโบะพาวาคุซัง ออกจากห้องไป
+17-0907	sound_auth	Right. Not bad.	ครับ ไม่เลวเลย
+17-0908	sound_auth	Right.\nNot bad.	ครับ\nไม่เลวเลย
+17-0909	sound_auth	This is Waku-san, the victim.	นี่คือวาคุซัง ผู้เสียชีวิต
+17-0910	sound_auth	Suffocation is the apparent cause of death,\nbut they still haven't nailed it down conclusively.	สาเหตุการตายที่คาดว่าคือขาด อากาศหายใจ\nแต่ก็ยังสรุปแน่ชัดไม่ได้
+17-0911	sound_auth	As for his body,\nit was found buried in the mountains of Okutama.	ส่วนศพของเขา\nพบว่าถูกฝังอยู่บนภูเขาโอคุทามะ
+17-0912	sound_auth	As for his body, it was found in\nthe mountains of Okutama.	ส่วนศพของเขา พบว่าอยู่\nบนภูเขาโอคุทามะ
+17-0913	sound_auth	And Okubo's the one who told them\nwhere it was, right?	แล้วโอคุโบะก็เป็นคนบอก\nตำแหน่งเองใช่ไหมครับ?
+17-0914	sound_auth	As I've seen,\nhe's admitted to that much at least.	เท่าที่ผมเห็นมา\nเขายอมรับแค่นั้นแหละ
+17-0915	sound_auth	You must be aware he even admitted\nto dumping it there.	คุณคงรู้อยู่แล้วว่าเขายอมรับ\nด้วยซ้ำว่าเป็นคนเอาไปทิ้ง
+17-0916	sound_auth	Yes, but he insists he didn't\ncommit the murder.	ใช่ครับ แต่เขายืนยันว่าตัวเอง\nไม่ได้ลงมือฆ่า
+17-0917	sound_auth	Yes. But he insists he didn't\ncommit the murder.	ใช่ครับ แต่เขายืนยันว่า\nไม่ได้ลงมือฆ่า
+17-0918	sound_auth	Maybe so, but you're gonna need evidence\nif you wanna prove it.	ก็อาจจะใช่ครับ แต่คุณต้องมีหลักฐาน\nถ้าอยากพิสูจน์เรื่องนั้น
+17-0919	sound_auth	Well, whatever the case, you'll need proof.	ยังไงก็เถอะ คุณต้องมีหลักฐานอยู่ดีครับ
+17-0920	sound_auth	They find anything on the body?	เจออะไรที่ศพบ้างไหมครับ?
+17-0921	sound_auth	Maybe something that'd give\nour man an alibi?	อาจจะเป็นอะไรที่ช่วยยืนยัน\nพยานที่อยู่ของฝ่ายเราได้บ้างไหมครับ?
+17-0922	sound_auth	For example... something that'd give\nour man an alibi?	ยกตัวอย่างเช่น... อะไรที่ช่วยยืนยัน\nพยานที่อยู่ของฝ่ายเราได้บ้างไหมครับ?
+17-0923	sound_auth	...No, nothing like that.	...ไม่ครับ ไม่มีอะไรแบบนั้น
+17-0924	sound_auth	That's a shame.	น่าเสียดายจังครับ
+17-0925	sound_auth	That's not my point, though.\nThe evidence I showed you is...	แต่นั่นไม่ใช่ประเด็นของผม\nหลักฐานที่ผมให้คุณดูคือ...
+17-0926	sound_auth	That's not my point, though.\nThe evidence I showed you is—	แต่นั่นไม่ใช่ประเด็นของผม\nหลักฐานที่ผมให้คุณดูก็คือ—
+17-0927	sound_auth	That evidence won't win you the case.	หลักฐานนั้นไม่ทำให้คุณชนะคดีหรอกครับ
+17-0928	sound_auth	The DNA sample they\nfound from Waku-san.	ตัวอย่าง DNA ที่พวกเขา\nเจอจากตัววาคุซัง
+17-0929	sound_auth	This is the DNA sample they found\nfrom Waku-san.	นี่คือตัวอย่าง DNA ที่พวกเขาเจอ\nจากตัววาคุซัง
+17-0930	sound_auth	It was in the flatbed of the truck\nOkubo-kun used for work.	มันอยู่ในกระบะท้ายรถบรรทุก\nที่โอคุโบะคุงใช้ทำงาน
+17-0931	sound_auth	Right, that's why they went after\nOkubo in the first place.	ใช่ นั่นแหละที่ทำให้พวกเขา\nจับตาโอคุโบะตั้งแต่แรกครับ
+17-0932	sound_auth	Right. That's why they went after Okubo\nin the first place.	ใช่ครับ นั่นแหละที่ทำให้พวกเขาจับตาโอคุโบะ\nตั้งแต่แรก
+17-0933	sound_auth	As for Waku-san's body, it was hidden in the pile of sheets\nthat had been loaded into the truck.	ส่วนศพของวาคุซัง ถูกซ่อนอยู่ในกองผ้าปูที่นอน\nที่ถูกขนขึ้นรถบรรทุกไปแล้ว
+17-0934	sound_auth	Okubo-kun said he didn't notice it until\nhe got to the linen supplier's factory.	โอคุโบะคุงบอกว่าไม่ทันสังเกตเห็น\nจนกระทั่งไปถึงโรงงานผู้จัดหา ผ้าปูที่นอน
+17-0935	sound_auth	As for Waku-san's body, it was hidden in the pile\nof sheets that had been loaded into the truck.	ส่วนศพของวาคุซัง ถูกซ่อนอยู่ในกองผ้าปู\nที่นอนที่ถูกขนขึ้นรถบรรทุกไปแล้ว
+17-0936	sound_auth	He said he noticed it when he was\njust about to leave the ADDC.	เขาบอกว่าสังเกตเห็นตอนที่\nกำลังจะออกจาก ADDC พอดี
+17-0937	sound_auth	According to Okubo-kun,\nhe didn't notice it until he was leaving the ADDC.	ตามคำบอกเล่าของโอคุโบะคุง\nเขาไม่ทันสังเกตเห็นจนกระทั่ง ตอนจะออกจาก ADDC
+17-0938	sound_auth	And then he panicked and buried\nthe body in the mountains of Okutama.	แล้วเขาก็ตกใจกลัวจนเอาศพ\nไปฝังบนภูเขาโอคุทามะเหรอครับ
+17-0939	sound_auth	So, he panicked and buried the body\nin the mountains of Okutama?	แล้วเขาก็ตกใจกลัวจนเอาศพไปฝัง\nบนภูเขาโอคุทามะเลยเหรอครับ?
+17-0940	sound_auth	As I've seen, he's admitted\nto that much at least, right?	เท่าที่ผมเห็นมา เขายอมรับ\nแค่นั้นแหละใช่ไหมครับ?
+17-0941	sound_auth	He admitted to that much, didn't he?	เขายอมรับแค่นั้นใช่ไหมครับ?
+17-0942	sound_auth	Maybe so, but you're gonna\nneed evidence if you wanna prove it.	ก็อาจจะใช่ครับ แต่คุณต้อง\nมีหลักฐานถ้าอยากพิสูจน์เรื่องนั้น
+17-0943	sound_auth	Did we get anything else from that truck?	เราได้อะไรจากรถบรรทุกคันนั้น อีกไหมครับ?
+17-0944	sound_auth	Did we get anything else from the truck?	เราได้อะไรจากรถบรรทุกอีกไหมครับ?
+17-0945	sound_auth	Like maybe a DNA sample\nfrom the actual killer?	อย่างเช่นตัวอย่าง DNA\nของฆาตกรตัวจริงบ้างไหมครับ?
+17-0946	sound_auth	This is the laundry bin that was thought\nto have been used to transport Waku-san's body.	นี่คือตะกร้าผ้าที่คาดว่า\nถูกใช้ขนศพของวาคุซัง
+17-0947	sound_auth	This is the laundry cart thought to have been used\nto transport Waku-san's body.	นี่คือรถเข็นผ้าที่คาดว่าถูกใช้\nขนศพของวาคุซัง
+17-0948	sound_auth	Okubo-kun, the laundry man,\nwould have been responsible for it.	โอคุโบะคุง คนงานเก็บผ้าปูที่นอน\nน่าจะเป็นคนรับผิดชอบเรื่องนี้
+17-0949	sound_auth	Okubo-kun would have been\nresponsible for it.	โอคุโบะคุงน่าจะเป็นคน\nรับผิดชอบเรื่องนี้
+17-0950	sound_auth	Where exactly are you going\nwith this, Yagami?	ตกลงคุณจะสื่ออะไร\nกันแน่ครับ ยากามิ?
+17-0951	sound_auth	I understand that, just...\nWhere are you going with this?	ผมเข้าใจตรงนั้นครับ แค่...\nคุณจะสื่ออะไรกันแน่?
+17-0952	sound_auth	It was only about 40 minutes between when\nWaku-san was last seen and when he disappeared.	มันห่างกันแค่ประมาณ 40 นาที ระหว่างครั้งสุดท้าย\nที่มีคนเห็นวาคุซังกับตอนที่เขา หายตัวไป
+17-0953	sound_auth	It was only about 40 minutes between when\nWaku-san was last seen and his disappearance.	มันห่างกันแค่ประมาณ 40 นาที ระหว่างครั้งสุดท้าย\nที่มีคนเห็นวาคุซังกับตอนที่เขา หายตัวไป
+17-0954	sound_auth	There's only one way his body\ncould have been carried out discreetly.	มีวิธีเดียวเท่านั้นที่จะเอาศพ\nของเขาออกไปได้โดยไม่มีใครสังเกตเห็น
+17-0955	sound_auth	So, we know the corpse was removed\nwithout anyone noticing.	เรารู้กันแล้วว่าศพถูกเคลื่อน ย้ายออกไป\nโดยไม่มีใครสังเกตเห็น
+17-0956	sound_auth	And that's...\nin Okubo-kun's laundry bin.	และนั่นก็คือ...\nในถังผ้าปูที่นอนของโอคุโบะคุง
+17-0957	sound_auth	And Okubo-kun had his laundry cart.\nIt would have been a perfect hiding place.	แล้วโอคุโบะคุงก็มีรถเข็น ผ้าปูที่นอนของตัวเอง\nมันคงเป็นที่ซ่อนที่เหมาะเจาะที่สุด
+17-0958	sound_auth	The victim was in his room one minute\nand then gone the next.	เหยื่ออยู่ในห้องแท้ๆ อยู่ดีๆ\nก็หายตัวไปในพริบตา
+17-0959	sound_auth	The window doesn't open,\nso the only way out is through the door.	หน้าต่างเปิดไม่ได้\nทางออกเดียวจึงมีแค่ประตู
+17-0960	sound_auth	His window didn't open, so the only way he could\nhave been taken out was through the door.	หน้าต่างห้องเขาเปิดไม่ได้ ทางเดียวที่จะเอาตัวเขา\nออกมาได้ก็คือผ่านประตูเท่านั้น
+17-0961	sound_auth	No one saw him leave though, even though\nthere are always people in the halls.	แต่ไม่มีใครเห็นเขาออกไปเลย ทั้งที่\nปกติแล้วในทางเดินก็มีคนพลุกพล่านตลอด
+17-0962	sound_auth	But nobody saw that happen, even though\nthere were people in the hallway.	แต่ไม่มีใครเห็นเหตุการณ์นั้นเลย ทั้งที่\nมีคนอยู่ในทางเดินตลอดเวลา
+17-0963	sound_auth	And the only one who entered the room\nwas Okubo with his laundry cart.	และคนเดียวที่เข้าไปในห้องนั้น\nก็คือโอคุโบะกับรถเข็น ผ้าปูที่นอนของเขา
+17-0964	sound_auth	And the only one who went in the victim's room\nwas Shinpei Okubo with his laundry cart.	และคนเดียวที่เข้าไปในห้องของเหยื่อ\nก็คือชินเป โอคุโบะกับรถเข็นผ้าปูที่นอนของเขา
+17-0965	sound_auth	Hey, I don't wanna be a downer... \nBut doesn't that point to Okubo being the killer?	เฮ้ ไม่อยากจะทำตัวกวนใจหรอกนะ... \nแต่นั่นมันชี้ไปทางโอคุโบะเป็น ฆาตกรไม่ใช่เหรอ?
+17-0966	sound_auth	Right. Not to interrupt you, of course, but...\ndoesn't that point to Okubo being the killer?	อือ ไม่ได้จะขัดจังหวะอะไรหรอกนะ แต่...\nนั่นมันก็ชี้ไปทางโอคุโบะเป็น ฆาตกรไม่ใช่เหรอ?
+17-0967	sound_auth	What the hell's your problem!?	นี่! มีปัญหาอะไรของนายวะ!?
+17-0968	sound_auth	Hey! What the hell's your problem!?	เฮ้ย! มีปัญหาอะไรของนายวะ!?
+17-0969	sound_auth	Was that Shintani!?	นั่นชินทานิใช่ไหม!?
+17-0970	sound_auth	Hold on, isn't that Shintani?	เดี๋ยวก่อน นั่นชินทานิไม่ใช่เหรอ?
+17-0971	sound_auth	I think so!	น่าจะใช่ครับ!
+17-0972	sound_auth	That bastard...\nwas eavesdropping on you...	ไอ้นั่น...\nมันแอบดักฟังอาจารย์อยู่...
+17-0973	sound_auth	I tried to stop him,\nbut he pulled a stun gun on me...	พยายามจะห้ามมันไว้\nแต่ดันโดนมันจ่อปืนช็อตใส่ซะก่อน...
+17-0974	sound_auth	Yeah... I tried to stop him,\nbut he pulled a stun gun on me...	ใช่... พยายามจะห้ามมันไว้\nแต่ดันโดนมันจ่อปืนช็อตใส่ซะก่อน...
+17-0975	sound_auth	Wait up!	เดี๋ยวก่อนสิ!
+17-0976	sound_auth	A woman...?	เสียงผู้หญิง...?
+17-0977	sound_auth	Help!\nSomeone help me!	ช่วยด้วย!\nใครก็ได้ช่วยฉันที!
+17-0978	sound_auth	Somebody help!\nI'm getting molested!	ใครก็ได้ช่วยที!\nมีคนลวนลามฉัน!
+17-0979	sound_auth	Aren't you... Terasawa-san!?	คุณ...ไม่ใช่เทราซาวะซังเหรอ!?
+17-0980	sound_auth	Wait, you're Terasawa-san!\nAren't you?	เดี๋ยวนะ คุณคือเทราซาวะซังนี่!\nใช่ไหม?
+17-0981	sound_auth	Let go of me!	ปล่อยฉันนะ!
+17-0982	sound_auth	We got a groper out here!?\nScum of the earth!	มีไอ้พวกลวนลามอยู่แถวนี้ด้วยเหรอ!?\nไอ้สวะสังคม!
+17-0983	sound_auth	Groping a pretty young lady in public, huh?\nYou scumbag!	ลวนลามสาวสวยกลางที่สาธารณะเนี่ยนะ?\nไอ้สารเลว!
+17-0984	sound_auth	Not on my watch,\nyou son of a bitch!	จะไม่ให้เกิดขึ้นต่อหน้าผมหรอกนะ\nไอ้เลวเอ๊ย!
+17-0985	sound_auth	You're gonna pay for that! Come on!	ต้องชดใช้ให้กับเรื่องนี้แน่! มาเลย!
+17-0986	sound_auth	Can all lawyers fight like that?	ทนายทุกคนต่อยตีเก่งขนาดนี้เลยเหรอคะ?
+17-0987	sound_auth	Did you really need to run away like that?	จำเป็นต้องวิ่งหนีขนาดนั้นเลยเหรอครับ?
+17-0988	sound_auth	Did you really need to run away?	จำเป็นต้องวิ่งหนีด้วยเหรอครับ?
+17-0989	sound_auth	I assume you came to see me.	ผมเข้าใจว่าคุณมาพบผมสินะครับ
+17-0990	sound_auth	There was something I wanted to talk to you\nabout, yes... but I wasn't sure if I should.	มีเรื่องหนึ่งที่ดิฉันอยากจะคุยกับคุณ\nค่ะ... แต่ก็ไม่แน่ใจว่าควรพูดดีไหม
+17-0991	sound_auth	I did want to talk to you about something, Yagami-san...\nbut I wasn't sure if I should.	ดิฉันอยากจะคุยกับคุณเรื่องหนึ่งจริงๆ ค่ะ ยากามิซัง...\nแต่ก็ไม่แน่ใจว่าควรพูดดีไหม
+17-0992	sound_auth	Then that pigheaded friend of yours\nstarted shouting, so I just lost it...	แล้วเพื่อนหัวรั้นของคุณคนนั้น\nก็เริ่มตะโกนใส่ ดิฉันเลยเผลออารมณ์เสียไปค่ะ...
+17-0993	sound_auth	Then that pigheaded friend of yours\nstarted shouting, and...	แล้วเพื่อนหัวรั้นของคุณคนนั้น\nก็เริ่มตะโกนใส่ แล้วก็...
+17-0994	sound_auth	Okay, but did you have to tase him?	ก็ได้ แต่จำเป็นต้องช็อตไฟฟ้าใส่เขาด้วยเหรอ?
+17-0995	sound_auth	The stun gun was a little over the top...	ปืนช็อตไฟฟ้านี่มันดูจะเกินไปหน่อยนะ...
+17-0996	sound_auth	Not that he didn't have it coming.	ถึงเขาจะสมควรโดนอยู่แล้วก็เถอะนะ
+17-0997	sound_auth	Still... If anyone deserved it, it's him.	ถึงอย่างนั้น...ถ้าจะมีใครสมควรโดน ก็ต้องเป็นเขาคนนี้แหละ
+17-0998	sound_auth	Anyway.\nI'm listening if you wanna talk.	ยังไงก็ตามครับ\nถ้าอยากจะเล่าอะไร ผมพร้อมรับฟังนะครับ
+17-0999	sound_auth	Anyway, I'm listening if you wanna talk.	ยังไงก็ตาม ถ้าอยากจะเล่าอะไร ผมพร้อมรับฟังนะครับ
+17-1000	sound_auth	No matter what it is,\nI'll keep your secret.	ไม่ว่าจะเป็นเรื่องอะไรก็ตาม\nผมจะเก็บเป็นความลับให้ครับ
+17-1001	sound_auth	No matter what it is, I'll keep your secret.	ไม่ว่าจะเป็นเรื่องอะไรก็ตาม ผมจะเก็บเป็นความลับให้ครับ
+17-1002	sound_auth	Anything you tell me will fall\nunder client-attorney privilege.	ทุกอย่างที่คุณเล่าให้ผมฟังจะ ถูกคุ้มครอง\nภายใต้สิทธิ์การรักษาความลับ ระหว่างทนายกับลูกความครับ
+17-1003	sound_auth	It's my job. Lawyers are sworn\nto confidentiality.	มันคือหน้าที่ของผมครับ ทนายความมีคำสาบาน\nที่จะรักษาความลับอยู่แล้ว
+17-1004	sound_auth	Well, you know the witness\nwho last saw Waku-san?	คุณก็รู้จักพยานคนที่เห็นวาคุซัง\nเป็นคนสุดท้ายใช่ไหมคะ?
+17-1005	sound_auth	Said he saw him sleeping in his bed.	เขาบอกว่าเห็นวาคุซังนอนหลับ อยู่บนเตียง
+17-1006	sound_auth	Well, that witness is a man\nby the name of Shono-san.	พยานคนนั้นก็คือผู้ชายคนหนึ่ง\nชื่อโชโนะซังค่ะ
+17-1007	sound_auth	I can tell you more. That witness is a man\nby the name of Shono-san.	ดิฉันจะเล่าให้ฟังเพิ่มเติมนะคะ พยานคนนั้นคือผู้ชาย\nชื่อโชโนะซังค่ะ
+17-1008	sound_auth	He's one of the scientists at the ADDC. Not only that,\nbut he's the director's right-hand man, too.	เขาเป็นหนึ่งในนักวิจัยของ ADDC ไม่เพียงเท่านั้น\nเขายังเป็นมือขวาของท่าน ผู้อำนวยการอีกด้วยค่ะ
+17-1009	sound_auth	He's one of the scientists at the ADDC.\nAnd the director's right-hand man.	เขาเป็นหนึ่งในนักวิจัยของ ADDC\nและเป็นมือขวาของท่าน ผู้อำนวยการด้วยค่ะ
+17-1010	sound_auth	And this is him?	แล้วนี่คือเขาใช่ไหมครับ?
+17-1011	sound_auth	That's Shono?	นั่นโชโนะเหรอครับ?
+17-1012	sound_auth	<color=ｍonologue>(Pretty much your run-of-the-mill researcher.)</color>	<color=ｍonologue>(ดูก็เป็นนักวิจัยธรรมดาทั่วไปคน หนึ่งนี่นา)</color>
+17-1013	sound_auth	Yes. He's a very dedicated doctor,\nso the nurses have a lot of faith in him.	ใช่ค่ะ เขาเป็นหมอที่ทุ่มเทมาก\nพยาบาลทุกคนถึงไว้ใจเขากันมาก
+17-1014	sound_auth	Yes. The nurses at the ADDC say\nhe's a reliable, diligent worker.	ใช่ค่ะ พยาบาลที่ ADDC ต่างพูดกันว่า\nเขาเป็นคนน่าเชื่อถือและขยันขันแข็ง
+17-1015	sound_auth	But something felt off when I heard\nwhat he had to say about the incident.	แต่ดิฉันรู้สึกแปลกๆ ตอนที่ได้ยิน\nสิ่งที่เขาพูดถึงเรื่องที่เกิดขึ้นค่ะ
+17-1016	sound_auth	But when I listened to his testimony,\nsomething about it didn't feel right.	แต่ตอนที่ดิฉันฟังคำให้การของเขา\nมีบางอย่างที่รู้สึกไม่ชอบมาพากลค่ะ
+17-1017	sound_auth	I guess I'm just skeptical as to whether\nor not he actually saw Waku-san.	ดิฉันก็แค่ไม่แน่ใจว่า\nเขาเห็นวาคุซังจริงๆ หรือเปล่าค่ะ
+17-1018	sound_auth	I'm not sure he really saw Waku-san.\nSomething doesn't make sense.	ดิฉันไม่แน่ใจว่าเขาเห็นวาคุซังจริงๆ หรือเปล่าค่ะ\nมันมีอะไรที่ไม่สมเหตุสมผล
+17-1019	sound_auth	I don't think he's intentionally deceiving us...\nBut he may be mistaken somehow.	ดิฉันไม่คิดว่าเขาตั้งใจจะหลอก พวกเรานะคะ...\nแต่เขาอาจจะเข้าใจผิดอะไร บางอย่างก็ได้
+17-1020	sound_auth	I don't think he's intentionally deceiving us, but...\nhe may be mistaken somehow.	ดิฉันไม่คิดว่าเขาตั้งใจจะหลอก พวกเราค่ะ แต่...\nเขาอาจจะเข้าใจผิดอะไรบางอย่างก็ได้
+17-1021	sound_auth	And if I had to guess,\nI'd say the other nurses feel the same.	และถ้าให้ดิฉันเดา\nพยาบาลคนอื่นก็คงรู้สึกเหมือนกันค่ะ
+17-1022	sound_auth	And if I had to guess,\nI'd say the other nurses agree with me.	และถ้าให้ดิฉันเดา\nพยาบาลคนอื่นก็คงเห็นด้วยกับดิฉันค่ะ
+17-1023	sound_auth	Still, why hasn't anyone mentioned\nthis until now?	แต่ทำไมถึงไม่มีใครพูดเรื่องนี้\nออกมาก่อนหน้านี้เลยล่ะครับ?
+17-1024	sound_auth	Nobody mentioned any of this before.	ไม่มีใครเคยพูดเรื่องนี้มาก่อนเลย
+17-1025	sound_auth	How could we? Nurses talking about\na doctor behind his back?	แล้วดิฉันจะพูดได้ยังไงคะ พยาบาลมานินทา\nคุณหมอลับหลังเนี่ยนะ?
+17-1026	sound_auth	Doesn't it feel like talking behind\na doctor's back?	มันก็เหมือนกับการนินทา\nคุณหมอลับหลังไม่ใช่เหรอคะ?
+17-1027	sound_auth	That's not something a nurse could do without consequences.\nAnd if it came to a courtroom testimony...	มันไม่ใช่เรื่องที่พยาบาลจะ ทำได้โดยไม่มีผลตามมาค่ะ\nแล้วถ้าต้องขึ้นให้การในศาลด้วยล่ะก็...
+17-1028	sound_auth	For a nurse especially, that's a scary prospect.\nAnd if it came to a courtroom testimony...	โดยเฉพาะสำหรับพยาบาลแล้ว มันเป็นเรื่องน่ากลัวมากค่ะ\nแล้วถ้าต้องขึ้นให้การในศาลด้วยล่ะก็...
+17-1029	sound_auth	None of you would testify?	ไม่มีใครยอมขึ้นให้การเลยเหรอครับ?
+17-1030	sound_auth	You wouldn't testify, Terasawa-san?	คุณเทราซาวะไม่ยอมขึ้นให้การเหรอครับ?
+17-1031	sound_auth	Maybe the other nurses wouldn't, but I would.\nI never really fit in over there anyway. Besides...	พยาบาลคนอื่นอาจจะไม่ยอม แต่ดิฉันยอมค่ะ\nยังไงดิฉันก็ไม่เคยเข้ากับ ที่นั่นได้จริงๆ อยู่แล้ว แล้วก็...
+17-1032	sound_auth	...I could. I never really fit in there\nanyway. Besides...	...ดิฉันทำได้ค่ะ ยังไงดิฉันก็ไม่เคยเข้ากับที่นั่นได้\nจริงๆ อยู่แล้ว แล้วก็...
+17-1033	sound_auth	I think Okubo-san is innocent.	ดิฉันคิดว่าโอคุโบะซังบริสุทธิ์ค่ะ
+17-1034	sound_auth	Oh really? Sounds like I've\nfinally got an ally on my team.	จริงเหรอครับ? ฟังดูเหมือนผม\nจะได้พันธมิตรเข้าทีมสักทีแล้ว สินะครับ
+17-1035	sound_auth	Oh yeah? Nice.\nGuess we're on the same team, then.	จริงเหรอครับ? เยี่ยมเลย\nงั้นเราก็อยู่ทีมเดียวกันแล้วสินะครับ
+17-1036	sound_auth	I'm currently employed as a researcher\nat the Advanced Drug Development Center.	ปัจจุบันผมทำงานเป็นนักวิจัย\nอยู่ที่ศูนย์พัฒนายาขั้นสูงครับ
+17-1037	sound_auth	Part of our research consists of clinical tests\nwe perform on patients in the general ward of the center.	งานวิจัยส่วนหนึ่งของเราคือการ ทดสอบทางคลินิก\nที่เราทำกับผู้ป่วยในหอผู้ป่วย ทั่วไปของศูนย์ครับ
+17-1038	sound_auth	Part of the ADDC's research consists of clinical tests\nwe perform on patients in the general ward.	งานวิจัยส่วนหนึ่งของ ADDC คือการทดสอบทางคลินิก\nที่เราทำกับผู้ป่วยในหอผู้ป่วย ทั่วไปครับ
+17-1039	sound_auth	On the day of the crime, I was making\nmy usual rounds through the ward.	ในวันเกิดเหตุ ผมกำลังเดิน\nตรวจหอผู้ป่วยตามปกติครับ
+17-1040	sound_auth	So, on the day of the crime,\nI was making my usual rounds through the ward.	ดังนั้นในวันเกิดเหตุ\nผมกำลังเดินตรวจหอผู้ป่วยตามปกติครับ
+17-1041	sound_auth	And what time was that?	แล้วเวลานั้นคือกี่โมงครับ?
+17-1042	sound_auth	Around 7:50.	ประมาณเจ็ดโมงห้าสิบครับ
+17-1043	sound_auth	Yes. The patients eat breakfast\nat precisely 8 o' clock.	ครับ ผู้ป่วยจะทานอาหารเช้า\nตอนแปดโมงตรงพอดี
+17-1044	sound_auth	Yes, the patients eat breakfast\nat precisely 8 o'clock.	ครับ ผู้ป่วยจะทานอาหารเช้า\nตอนแปดโมงตรงพอดี
+17-1045	sound_auth	I always head to the break room\nmyself right around then, too.	ผมเองก็มักจะไปที่ห้องพักผ่อน\nช่วงเวลาประมาณนั้นเช่นกันครับ
+17-1046	sound_auth	It's not an unusual occurrence... I always head to the floor's\nday room myself right around then, too.	มันไม่ใช่เรื่องแปลกอะไร... ผมเองก็มักจะไปที่เดย์รูม\nของชั้นนั้นในช่วงเวลาประมาณ นั้นด้วยเหมือนกันครับ
+17-1047	sound_auth	This break room, to be precise?	ห้องพักผ่อนนี้ใช่ไหมครับ พูดให้ชัดเจน?
+17-1048	sound_auth	The "day room" being this one?	"เดย์รูม" ที่ว่าคือที่นี่ใช่ไหมครับ?
+17-1049	sound_auth	That's correct. Our more mobile patients walk there\nfor breakfast instead of eating in their own rooms.	ถูกต้องครับ ผู้ป่วยที่ยังเดินไหวจะเดินมาที่นี่\nเพื่อทานอาหารเช้าแทนที่จะทานใน ห้องของตัวเอง
+17-1050	sound_auth	That's correct. Our more mobile patients walk there for breakfast\ninstead of eating in their own rooms.	ถูกต้องครับ ผู้ป่วยที่ยังเดินไหวจะเดินมา ที่นี่เพื่อทานอาหารเช้า\nแทนที่จะทานในห้องของตัวเอง
+17-1051	sound_auth	Then while the nurses help the patients eat, I ask about\nhow they feel and how the medicine is treating them.	จากนั้นระหว่างที่พยาบาลช่วย ผู้ป่วยทาน ผมก็จะถาม\nว่าพวกเขารู้สึกอย่างไร และยาที่ใช้ได้ผลแค่ไหน
+17-1052	sound_auth	Then while the nurses help the patients eat,\nI ask about how they feel and how the medicine is treating them.	จากนั้นระหว่างที่พยาบาลช่วย ผู้ป่วยทาน\nผมก็จะถามว่าพวกเขารู้สึกอย่างไร และยาที่ใช้ได้ผลแค่ไหน
+17-1053	sound_auth	And on the day of Waku-san's disappearance,\nyou passed by his room before going to the break room?	แล้วในวันที่วาคุซังหายตัวไป\nคุณเดินผ่านห้องเขาก่อนจะไป ห้องพักผ่อนใช่ไหมครับ?
+17-1054	sound_auth	And on the day of Waku-san's disappearance, Shono-san,\nyou passed by his room before going to the break room?	แล้วในวันที่วาคุซังหายตัวไป โชโนะซัง\nคุณเดินผ่านห้องเขาก่อนจะไป ห้องพักผ่อนใช่ไหมครับ?
+17-1055	sound_auth	And in that room,\nyou saw Waku-san lying on the bed.	และในห้องนั้น\nคุณเห็นวาคุซังนอนอยู่บนเตียง
+17-1056	sound_auth	And in that room, you saw Waku-san\nlying on the bed.	และในห้องนั้น คุณเห็นวาคุซัง\nนอนอยู่บนเตียง
+17-1057	sound_auth	Can you describe the situation\nto us as you remember it?	ช่วยเล่าสถานการณ์ตอนนั้น\nเท่าที่คุณจำได้ให้เราฟังหน่อย ได้ไหมครับ?
+17-1058	sound_auth	Can you describe the situation to us\nas you remember it?	ช่วยเล่าสถานการณ์ตอนนั้นให้เราฟัง\nเท่าที่คุณจำได้หน่อยได้ไหมครับ?
+17-1059	sound_auth	The door has a window, so you can see\ninto the room from the hallway.	ประตูมีช่องกระจก คุณจึงสามารถมองเห็น\nเข้าไปในห้องได้จากทางเดินครับ
+17-1060	sound_auth	There's a window on the hospital room's doors,\nso you can see inside from the hallway.	ประตูห้องผู้ป่วยมีช่องกระจกอยู่\nจึงมองเห็นข้างในได้จากทางเดินครับ
+17-1061	sound_auth	And this is the room\nyou're referring to, yes?	และนี่คือห้อง\nที่คุณกำลังพูดถึงใช่ไหมครับ?
+17-1062	sound_auth	And this is the room you're referring to?	และนี่คือห้องที่คุณกำลังพูดถึง ใช่ไหมครับ?
+17-1063	sound_auth	From where I was standing in the hallway,\nI could see Waku-san lying in bed.	จากจุดที่ผมยืนอยู่ในทางเดิน\nผมมองเห็นวาคุซังนอนอยู่บนเตียงครับ
+17-1064	sound_auth	From the hallway,\nI could see Waku-san in his room.	จากทางเดิน\nผมมองเห็นวาคุซังอยู่ในห้องของเขาครับ
+17-1065	sound_auth	He was asleep, with a blanket\ncovering most of his body.	เขานอนหลับอยู่ โดยมีผ้าห่ม\nคลุมร่างเขาไว้เกือบทั้งตัวครับ
+17-1066	sound_auth	Waku-san had a blanket over himself.\nHe was asleep in his bed.	วาคุซังมีผ้าห่มคลุมตัวอยู่\nเขานอนหลับอยู่บนเตียงครับ
+17-1067	sound_auth	No further questions.	ไม่มีคำถามเพิ่มเติมแล้วครับ
+17-1068	sound_auth	Yagami-sensei.\nWhy did you call her to the stand?	คุณยากามิ\nทำไมถึงเรียกเธอขึ้นให้การครับ?
+17-1069	sound_auth	Yagami-sensei... What's she doing here?\nWhy did you call her to the stand?	คุณยากามิ... เธอมาทำอะไรที่นี่ครับ?\nทำไมถึงเรียกเธอขึ้นให้การ?
+17-1070	sound_auth	She actually asked to testify.\nIs that a problem?	จริงๆ แล้วเธอเป็นคนขอมาให้การเองครับ\nมีปัญหาอะไรหรือครับ?
+17-1071	sound_auth	Not really, no.	ก็ไม่หรอกครับ
+17-1072	sound_auth	<color=ｍonologue>(Here's my chance for a comeback!)</color>	<color=ｍonologue>(นี่แหละโอกาสพลิกเกมของผม!)</color>
+17-1073	sound_auth	Terasawa-san. You were present for Shono-san's\ntestimony just now, yes?	คุณเทราซาวะ คุณอยู่ที่นี่ตอนที่โชโนะซัง\nให้การเมื่อสักครู่ใช่ไหมครับ?
+17-1074	sound_auth	Terasawa-san. You were present for\nShono-san's testimony just now, yes?	คุณเทราซาวะ คุณอยู่ที่นี่ตอน\nที่โชโนะซังให้การเมื่อสักครู่ ใช่ไหมครับ?
+17-1075	sound_auth	And what is your opinion\non that testimony?	แล้วคุณมีความเห็นอย่างไร\nต่อคำให้การนั้นครับ?
+17-1076	sound_auth	And what is your opinion on that testimony?	แล้วคุณมีความเห็นอย่างไรต่อ คำให้การนั้นครับ?
+17-1077	sound_auth	For a scientist,\nI felt his wording was rather imprecise.	สำหรับนักวิทยาศาสตร์คนหนึ่งแล้ว\nดิฉันรู้สึกว่าคำพูดของเขา ค่อนข้างไม่ชัดเจนค่ะ
+17-1078	sound_auth	And as a medical professional,\nI felt his actions were negligent.	และในฐานะบุคลากรทางการแพทย์\nดิฉันรู้สึกว่าการกระทำของเขา ประมาทเลินเล่อค่ะ
+17-1079	sound_auth	Could I ask you to be\na little more specific?	ผมขอให้คุณพูด\nให้ชัดเจนขึ้นอีกนิดได้ไหมครับ?
+17-1080	sound_auth	Could I ask you to be more specific?	ผมขอให้คุณพูดให้ชัดเจนขึ้นอีก นิดได้ไหมครับ?
+17-1081	sound_auth	Our witness, Shono-san, claims he saw Waku-san\nsleeping in his bed during his morning rounds.	พยานของเรา โชโนะซัง อ้างว่าเขาเห็นวาคุซัง\nนอนหลับอยู่บนเตียงระหว่างที่ เดินตรวจตอนเช้า
+17-1082	sound_auth	According to Shono-san, he saw Waku-san\nsleeping under a blanket in his bed.	ตามคำบอกเล่าของโชโนะซัง เขาเห็นวาคุซัง\nนอนหลับคลุมผ้าห่มอยู่บนเตียงค่ะ
+17-1083	sound_auth	However, there's no way he could have known\nthat just by looking in from the hallway.	แต่ไม่มีทางที่เขาจะรู้ได้\nแค่จากการมองเข้ามาจากทางเดินค่ะ
+17-1084	sound_auth	However... there's no way he could have known that\njust by looking in from the hallway.	แต่ว่า... ไม่มีทางที่เขาจะรู้ได้\nแค่จากการมองเข้ามาจากทางเดินค่ะ
+17-1085	sound_auth	And why do you say that, Terasawa-san?	แล้วทำไมคุณถึงพูดแบบนั้นครับ คุณเทราซาวะ?
+17-1086	sound_auth	Can you explain why?	ช่วยอธิบายเหตุผลได้ไหมครับ?
+17-1087	sound_auth	The head of the bed is obstructed\nby the large cabinet in the room.	หัวเตียงถูกบดบัง\nด้วยตู้ใบใหญ่ที่อยู่ในห้องค่ะ
+17-1088	sound_auth	You wouldn't know if the patient was asleep\nunless you walked into the room yourself.	คุณจะไม่มีทางรู้ว่าผู้ป่วยหลับ อยู่จริงหรือเปล่า\nเว้นแต่จะเดินเข้าไปในห้อง ด้วยตัวเองค่ะ
+17-1089	sound_auth	I have evidence supporting\nTerasawa-san's testimony.	ผมมีหลักฐานสนับสนุน\nคำให้การของคุณเทราซาวะครับ
+17-1090	sound_auth	I have supporting evidence for\nTerasawa-san's testimony.	ผมมีหลักฐานสนับสนุน\nคำให้การของคุณเทราซาวะครับ
+17-1091	sound_auth	<color=ｍonologue>(Shono shouldn't have been able to see Waku.\nI have evidence to prove that.)</color>	<color=ｍonologue>(โชโนะไม่น่าจะมองเห็นวาคุได้\nผมมีหลักฐานที่พิสูจน์เรื่องนี้ได้)</color>
+17-1092	sound_auth	Take a look at this if you would.	ช่วยดูสิ่งนี้หน่อยครับ
+17-1093	sound_auth	Please look at this.	กรุณาดูสิ่งนี้ครับ
+17-1094	sound_auth	And this is...?	แล้วนี่คืออะไรครับ?
+17-1095	sound_auth	Ah, well it's an important piece of evidence, but the truly\nvital part is what I'm going to show you next.	อ่า มันเป็นหลักฐานสำคัญชิ้นหนึ่งครับ แต่ส่วนที่\nสำคัญจริงๆ คือสิ่งที่ผมกำลังจะแสดงให้ดู ต่อไปนี้ครับ
+17-1096	sound_auth	...Well, it's an important piece of evidence,\nbut the vital part is what I'm going to show you next.	...มันเป็นหลักฐานสำคัญชิ้นหนึ่งครับ\nแต่ส่วนที่สำคัญจริงๆ คือสิ่งที่ผมกำลังจะแสดงให้ดู ต่อไปนี้ครับ
+17-1097	sound_auth	It's a photograph of the victim's room,\nas viewed from the hallway.	มันคือภาพถ่ายห้องของผู้เสียชีวิต\nที่มองจากทางเดินครับ
+17-1098	sound_auth	It's a photograph of the victim's room\nas viewed from the hallway door.	มันคือภาพถ่ายห้องของผู้เสียชีวิต\nที่มองจากประตูทางเดินครับ
+17-1099	sound_auth	In other words, this is what Shono-san\nwould have seen when he checked in on Waku-san.	กล่าวอีกนัยหนึ่ง นี่คือสิ่งที่โชโนะซัง\nจะได้เห็นตอนที่เขาแวะดูวาคุซังครับ
+17-1100	sound_auth	In other words, this is what Shono-san would have seen\nwhen he checked in on Waku-san.	กล่าวอีกนัยหนึ่ง นี่คือสิ่งที่โชโนะซังจะได้เห็น\nตอนที่เขาแวะดูวาคุซังครับ
+17-1101	sound_auth	<color=ｍonologue>(And this evidence points to this fact...)</color>	<color=ｍonologue>(และหลักฐานชิ้นนี้ก็ชี้ไปยัง ข้อเท็จจริงข้อนี้...)</color>
+17-1102	sound_auth	Waku-san was already dead\nwhen Shono-san went to check on him.	วาคุซังเสียชีวิตไปแล้ว\nตั้งแต่ตอนที่โชโนะซังไปดูเขาครับ
+17-1103	sound_auth	The victim was already dead\nwhen Shono-san saw him.	ผู้เสียชีวิตเสียชีวิตไปแล้ว\nตั้งแต่ตอนที่โชโนะซังเห็นเขาครับ
+17-1104	sound_auth	What are you implying?	คุณกำลังจะสื่ออะไรครับ?
+17-1105	sound_auth	Huh...? What are you talking about?	หา...? คุณกำลังพูดถึงอะไรครับ?
+17-1106	sound_auth	At the time, the defendant hadn't yet collected\nthe linens. In fact, he hadn't even arrived at the ADDC.	ในตอนนั้น จำเลยยังไม่ได้เก็บ\nผ้าปูที่นอนด้วยซ้ำ อันที่จริงเขายังไปไม่ถึง ADDC เลยครับ
+17-1107	sound_auth	At the time, the defendant hadn't gathered the linens.\nHe hadn't even arrived at the Center.	ในตอนนั้น จำเลยยังไม่ได้เก็บผ้าปูที่นอนเลย\nเขายังไปไม่ถึงศูนย์ด้วยซ้ำครับ
+17-1108	sound_auth	Meaning Okubo-san could not\nhave been the murderer. 	นั่นหมายความว่าโอคุโบะซังไม่มีทาง\nเป็นฆาตกรได้เลยครับ 
+17-1109	sound_auth	Which means the murderer was not the defendant,\nbut someone else entirely.	ซึ่งหมายความว่าฆาตกรตัวจริง ไม่ใช่จำเลย\nแต่เป็นคนอื่นโดยสิ้นเชิงครับ
+17-1110	sound_auth	Assuming that's true, then...	สมมติว่าเป็นความจริง งั้น...
+17-1111	sound_auth	If the defendant isn't the killer...	ถ้าจำเลยไม่ใช่ฆาตกร...
+17-1112	sound_auth	Why did he go through the trouble of hiding\nWaku-san's body in his laundry cart?	ทำไมเขาถึงลำบากลำบน\nซ่อนศพวาคุซังไว้ในรถเข็น ผ้าปูที่นอนของตัวเองล่ะ?
+17-1113	sound_auth	...then why did he go to the trouble of hiding the body\nin his laundry cart and taking it out of the room?	...แล้วทำไมเขาถึงลำบากลำบนซ่อนศพ\nไว้ในรถเข็นผ้าปูที่นอน แล้วเอาออกไปจากห้องล่ะ?
+17-1114	sound_auth	Huh? Well, depending on how you look at it...	หา? ก็...แล้วแต่มุมมองนะครับ...
+17-1115	sound_auth	Huh? Well, you see, that's... Um...	หา? ก็...คือว่ามัน...เอ่อ...
+17-1116	sound_auth	Please. You know this is\na court of law, don't you?	ขอทีเถอะ คุณก็รู้ว่าที่นี่\nเป็นศาลยุติธรรมไม่ใช่เหรอครับ?
+17-1117	sound_auth	Do you even understand\nwhat you're saying?	คุณเข้าใจไหมครับ\nว่าตัวเองกำลังพูดอะไรอยู่?
+17-1118	sound_auth	<color=ｍonologue>(Shoot, I have to calm down.\nLet's try this again!)</color>	<color=ｍonologue>(บ้าเอ๊ย ต้องตั้งสติหน่อย\nลองใหม่อีกครั้ง!)</color>
+17-1119	sound_auth	The murderer was already\nhiding in the room.	ฆาตกรตัวจริงซ่อนตัวอยู่\nในห้องนั้นอยู่แล้วครับ
+17-1120	sound_auth	The killer was hiding in the room.	ฆาตกรซ่อนตัวอยู่ในห้องนั้นครับ
+17-1121	sound_auth	He then killed Waku-san after Shono-san left.	จากนั้นเขาก็ฆ่าวาคุซัง หลังจากที่โชโนะซังออกไปแล้ว ครับ
+17-1122	sound_auth	Then, they killed the victim\nafter Shono-san left.	จากนั้นเขาก็ฆ่าผู้เสียชีวิต\nหลังจากที่โชโนะซังออกไปแล้วครับ
+17-1123	sound_auth	After that, he used a laundry cart to carry\nthe body down to Okubo-san's truck in the garage.	หลังจากนั้นเขาก็ใช้รถเข็น ผ้าปูที่นอนขนศพ\nลงไปที่รถบรรทุกของโอคุโบะซังใน โรงจอดรถครับ
+17-1124	sound_auth	They used a laundry cart to hide the body,\nand take it to the truck in the parking garage.	เขาใช้รถเข็นผ้าปูที่นอนซ่อนศพ\nแล้วขนไปที่รถบรรทุกในโรงจอดรถครับ
+17-1125	sound_auth	But there was only one person seen taking\na laundry cart from Waku-san's room...	แต่มีคนเดียวเท่านั้นที่มีคนเห็นเข็น\nรถผ้าปูที่นอนออกมาจากห้องวาคุซัง...
+17-1126	sound_auth	C'mon! The person who took the laundry cart\nafter the victim was seen...	ไม่เอาน่า! คนที่เข็นรถผ้าปูที่นอนออกมา\nหลังจากผู้เสียชีวิตถูกพบเห็น...
+17-1127	sound_auth	...And that's Okubo-san himself!	...ก็คือโอคุโบะซังคนนั้นเองครับ!
+17-1128	sound_auth	...Was the man you're defending!	...ก็คือคนที่คุณกำลังปกป้องอยู่นี่ไง!
+17-1129	sound_auth	Are you saying he really is the culprit?	คุณกำลังจะบอกว่าเขาคือ ผู้ก่อเหตุตัวจริงงั้นเหรอครับ?
+17-1130	sound_auth	So that means he <font_kind=yakuza_italic>is</font_kind> the culprit\nafter all, right?	งั้นก็หมายความว่าเขา<font_kind=yakuza_italic>คือ</font_kind>ผู้ก่อเหตุ\nตัวจริงอยู่ดีใช่ไหมล่ะครับ?
+17-1131	sound_auth	Huh? I, um...	หา? ผม เอ่อ...
+17-1132	sound_auth	Huh? Wait, hold on...	หา? เดี๋ยว เดี๋ยวก่อน...
+17-1133	sound_auth	The one who killed Waku-san...\nis actually our witness, Shono-san.	คนที่ฆ่าวาคุซัง...\nก็คือพยานของเราเอง โชโนะซังครับ
+17-1134	sound_auth	The real culprit in Waku-san's murder\nis Shono-san, the witness.	ผู้ก่อเหตุตัวจริงในคดีฆาตกรรมวาคุซัง\nก็คือโชโนะซัง พยานคนนั้นเองครับ
+17-1135	sound_auth	Excuse me? What grounds do you\nhave for that assertion!?	ว่าไงนะครับ? คุณมีมูลเหตุอะไร\nมารองรับคำกล่าวอ้างนั้น!?
+17-1136	sound_auth	Huh...? Wait, what!?\nWhat basis do you have for that?	หา...? เดี๋ยวนะ อะไรนะ!?\nคุณมีหลักอะไรมารองรับเรื่องนั้น?
+17-1137	sound_auth	Grounds? Grounds... Um, well...	มูลเหตุเหรอครับ? มูลเหตุ...เอ่อ ก็...
+17-1138	sound_auth	Basis? My basis is...\nUh, you see...	หลักฐานเหรอครับ? หลักฐานของผมคือ...\nเอ่อ คือว่า...
+17-1139	sound_auth	Sorry. Let me start over.	ขอโทษครับ ขอเริ่มใหม่นะครับ
+17-1140	sound_auth	My apologies. Let me start over.	ต้องขออภัยครับ ขอเริ่มต้นใหม่อีกครั้งนะครับ
+17-1141	sound_auth	The witness, Shono-san, said that\nWaku-san was sleeping in his room.	พยานอย่างโชโนะซังบอกว่า\nวาคุซังนอนหลับอยู่ในห้องของเขา
+17-1142	sound_auth	However, I'm not convinced\nthat's actually what happened.	แต่ผมไม่เชื่อว่า\nนั่นคือสิ่งที่เกิดขึ้นจริงครับ
+17-1143	sound_auth	However, it should be impossible\nfor him to testify to that.	แต่ที่จริงแล้วมันเป็นไปไม่ได้\nที่เขาจะให้การแบบนั้นได้ครับ
+17-1144	sound_auth	Correct. As such, there's no way he could have known\nwhether or not it was Waku-san in the bed.	ถูกต้องค่ะ ดังนั้นจึงไม่มีทางที่เขาจะรู้ได้เลย\nว่าคนบนเตียงนั้นเป็นวาคุซัง จริงหรือไม่
+17-1145	sound_auth	Shono-san was lying when he said\nhe saw Waku-san in the bed.	โชโนะซังโกหกตอนที่บอกว่า\nเขาเห็นวาคุซังอยู่บนเตียง
+17-1146	sound_auth	Shono-san testified that he saw Waku-san,\nbut that's untrue.	โชโนะซังให้การว่าเขาเห็นวาคุซัง\nแต่นั่นไม่เป็นความจริงครับ
+17-1147	sound_auth	Excuse me?	ว่าไงนะ?
+17-1148	sound_auth	What he saw from the door was likely\nnothing more than a bulge of sheets.	สิ่งที่เขาเห็นจากประตูน่าจะเป็นแค่\nผ้าห่มที่นูนขึ้นมาเป็นก้อน เท่านั้นครับ
+17-1149	sound_auth	Shono-san believes he saw someone,\nbut what he saw was not necessarily Waku-san.	โชโนะซังเชื่อว่าเขาเห็นใครสักคน\nแต่สิ่งที่เขาเห็นไม่จำเป็นต้อง เป็นวาคุซังเสมอไปครับ
+17-1150	sound_auth	He couldn't have been able to identify\nit specifically as Waku-san.	เขาไม่มีทางระบุได้แน่ชัด\nว่าเป็นวาคุซังโดยเฉพาะครับ
+17-1151	sound_auth	The sheets could have been\nruffled for all he knew.	ผ้าปูที่นอนอาจแค่ยับๆ นูนขึ้นมา\nก็เป็นได้เท่าที่เขารู้ครับ
+17-1152	sound_auth	So, to claim as much in his testimony\nseems like quite an exaggeration, don't you think?	ฉะนั้นการอ้างขนาดนั้นในคำให้การ\nดูจะเกินจริงไปหน่อยไม่ใช่เหรอครับ?
+17-1153	sound_auth	Despite that, testifying that he saw Waku-san sleeping\nis quite an exaggeration.	ทั้งที่เป็นแบบนั้น การให้การว่าเห็นวาคุซังนอนหลับอยู่\nก็ดูจะเกินจริงไปหน่อยครับ
+17-1154	sound_auth	But common sense would dictate otherwise, would it not?\nWho would be in the bed other than Waku-san?	แต่สามัญสำนึกก็บอกเป็นอย่าง อื่นไม่ใช่เหรอครับ?\nจะมีใครอยู่บนเตียงนั้นนอกจาก วาคุซังล่ะ?
+17-1155	sound_auth	How so? It would be common sense\nto suppose Waku-san is in his own bed.	ยังไงกันครับ? มันก็เป็นสามัญสำนึก\nที่จะคิดว่าวาคุซังอยู่บนเตียง ของตัวเอง
+17-1156	sound_auth	The staff nurses are trained to always enter\na room when checking in on a patient.	พยาบาลทุกคนได้รับการฝึกให้เข้าไป\nในห้องเสมอเวลาไปตรวจดูผู้ป่วยค่ะ
+17-1157	sound_auth	In our training as nurses, we always enter a room\nwhen checking in on a patient.	ในการฝึกอบรมพยาบาลของเรา เราจะเข้าไปในห้องเสมอ\nเวลาไปตรวจดูผู้ป่วยค่ะ
+17-1158	sound_auth	And in the course of a day,\nhow often does a nurse visit each patient?	แล้วในหนึ่งวัน\nพยาบาลจะแวะไปดูผู้ป่วยแต่ละคน บ่อยแค่ไหนครับ?
+17-1159	sound_auth	At least ten times a day on average.	อย่างน้อยสิบครั้งต่อวันโดยเฉลี่ยค่ะ
+17-1160	sound_auth	Even in the middle of the night, we'll go in\nevery three hours or so to change their diapers.	แม้แต่กลางดึก เราก็จะเข้าไป\nทุกๆ สามชั่วโมงเพื่อเปลี่ยนผ้าอ้อมให้ค่ะ
+17-1161	sound_auth	Patients will sometimes call for a nurse's assistance\noutside of our regular check-ins as well.	บางครั้งผู้ป่วยก็เรียกให้ พยาบาลช่วยเหลือ\nนอกเหนือจากรอบตรวจตามปกติด้วยค่ะ
+17-1162	sound_auth	And you always walk into the room?	แล้วคุณจะเดินเข้าไปในห้อง ทุกครั้งเลยเหรอครับ?
+17-1163	sound_auth	In Waku-san's case, it's impossible to tell\nanything just by looking in from the hallway.	ในกรณีของวาคุซัง เป็นไปไม่ได้เลยที่จะบอกอะไรได้\nแค่มองเข้ามาจากทางเดินค่ะ
+17-1164	sound_auth	In Waku-san's case, it's impossible to tell\njust by looking in from the hallway.	ในกรณีของวาคุซัง เป็นไปไม่ได้เลยที่จะบอกได้\nแค่มองเข้ามาจากทางเดินค่ะ
+17-1165	sound_auth	There was actually one time a while back\nwhere we thought he was under the covers...	จริงๆ แล้วเคยมีครั้งหนึ่งเมื่อนานมาแล้ว\nที่พวกเราคิดว่าเขานอนคลุมโปงอยู่ค่ะ...
+17-1166	sound_auth	In one instance, we believed we saw him\nunder the covers in his room...	มีครั้งหนึ่งที่พวกเราเชื่อว่าเห็นเขา\nนอนคลุมโปงอยู่ในห้องค่ะ...
+17-1167	sound_auth	Only to find Waku-san eating\nin the break room a second later.	แต่กลับพบว่าวาคุซังกำลังทานอาหารอยู่\nที่ห้องพักผ่อนในอีกไม่กี่ วินาทีต่อมาค่ะ
+17-1168	sound_auth	...Only to find him eating\nin the day room a second later.	...แต่กลับพบว่าเขากำลังทานอาหารอยู่\nที่เดย์รูมในอีกไม่กี่วินาทีต่อมาค่ะ
+17-1169	sound_auth	And upon re-examining the room, we realized\nthat we had mistaken a bunched-up pillow for Waku-san.	และพอกลับไปตรวจดูห้องอีกครั้ง เราถึงรู้ว่า\nเราเข้าใจผิดคิดว่าหมอนที่ขยุ้ม เป็นก้อนคือวาคุซังค่ะ
+17-1170	sound_auth	After we entered the room ourselves to check,\nwe realized it had just been a bunched-up pillow.	หลังจากที่พวกเราเข้าไปในห้อง เพื่อตรวจดูเอง\nเราถึงรู้ว่ามันเป็นแค่หมอนที่ ขยุ้มเป็นก้อนเท่านั้นค่ะ
+17-1171	sound_auth	The witness makes an important distinction.	พยานได้ชี้ให้เห็นข้อแตกต่างที่ สำคัญครับ
+17-1172	sound_auth	Our witness makes an important point.	พยานของเราได้ชี้ประเด็นสำคัญไว้ครับ
+17-1173	sound_auth	The prosecution asserts that\nShono-san's testimony is clear.	ฝ่ายอัยการยืนยันว่า\nคำให้การของโชโนะซังนั้นชัดเจนครับ
+17-1174	sound_auth	The prosecution asserts that\na clear timeframe exists.	ฝ่ายอัยการยืนยันว่า\nมีกรอบเวลาที่ชัดเจนอยู่ครับ
+17-1175	sound_auth	That the victim was taken out of his room\nat some point between 7:50 and 8:30 in the morning.	ว่าผู้เสียชีวิตถูกนำตัวออกจากห้อง\nช่วงเวลาระหว่างเจ็ดโมงห้าสิบ ถึงแปดโมงครึ่งเช้าครับ
+17-1176	sound_auth	By Shono-san's account, the victim was removed at some point\nbetween 7:50 and 8:30 in the morning.	ตามคำบอกเล่าของโชโนะซัง ผู้เสียชีวิตถูกนำตัวออกไป\nช่วงเวลาระหว่างเจ็ดโมงห้าสิบ ถึงแปดโมงครึ่งเช้าครับ
+17-1177	sound_auth	They claim that because of this time frame, the defendant must\nhave smuggled Waku-san's body out in his laundry bin.	พวกเขาอ้างว่าด้วยกรอบเวลานี้ จำเลย\nต้องเป็นคนลักลอบขนศพวาคุซังออก ไปในถังผ้าปูที่นอนของเขาครับ
+17-1178	sound_auth	Based on this testimony, they suggest the defendant\nsmuggled Waku-san's body out in a laundry cart.	จากคำให้การนี้ พวกเขาเสนอว่าจำเลย\nลักลอบขนศพวาคุซังออกไปในรถเข็น ผ้าปูที่นอนครับ
+17-1179	sound_auth	<color=ｍonologue>(That's why Okubo-kun was assumed to be\nthe only person who could have killed Waku-san.)</color>	<color=ｍonologue>(นั่นแหละคือเหตุผลที่โอคุโบะคุง ถูกสันนิษฐานว่า\nเป็นคนเดียวที่มีทางฆ่าวาคุซังได้)</color>
+17-1180	sound_auth	But if Shono-san's testimony is invalid,\nas the defense asserts...	แต่ถ้าคำให้การของโชโนะซังใช้ไม่ได้\nตามที่ฝ่ายจำเลยยืนยัน...
+17-1181	sound_auth	But if Shono-san's testimony\nis thrown into question...	แต่ถ้าคำให้การของโชโนะซัง\nถูกตั้งข้อสงสัย...
+17-1182	sound_auth	We have to consider the possibility that Waku-san\nwas taken in the middle of the night, when nobody else was around.	เราต้องพิจารณาความเป็นไปได้ที่ วาคุซัง\nถูกนำตัวไปตอนดึก ตอนที่ไม่มีใครอยู่แถวนั้นเลย
+17-1183	sound_auth	...Then there is another possibility: That Waku-san was taken\nin the middle of the night, with nobody to see it.	...งั้นก็มีความเป็นไปได้อีก อย่างหนึ่งคือ วาคุซังถูกนำตัวไป\nตอนดึก โดยไม่มีใครเห็นเลย
+17-1184	sound_auth	After which the killer could have waited until\nmorning to plant the body in the defendant's truck.	หลังจากนั้นฆาตกรก็อาจรอจนถึง\nตอนเช้า แล้วค่อยนำศพไปวางไว้ในรถบรรทุก ของจำเลยครับ
+17-1185	sound_auth	After which, the killer could have waited until the morning\nto plant the body in the defendant's truck.	หลังจากนั้น ฆาตกรก็อาจรอจนถึงตอนเช้า\nแล้วค่อยนำศพไปวางไว้ในรถบรรทุก ของจำเลยครับ
+17-1186	sound_auth	In other words, the defense establishes that\nthere is reasonable doubt that Okubo-san is the killer.	กล่าวอีกนัยหนึ่ง ฝ่ายจำเลยได้พิสูจน์ให้เห็นว่า\nมีข้อสงสัยตามสมควรว่าโอคุโบะ ซังคือฆาตกรจริงหรือไม่ครับ
+17-1187	sound_auth	In other words, it's entirely possible that Waku-san was murdered\nby someone other than Okubo-san here.	กล่าวอีกนัยหนึ่ง เป็นไปได้อย่างมากที่วาคุซังถูก ฆาตกรรม\nโดยคนอื่นที่ไม่ใช่โอคุโบะซังคน นี้ครับ
+17-1188	sound_auth	Rendering the prosecution's\ncentral argument unsound.	ทำให้ข้อโต้แย้งหลักของฝ่ายอัยการ\nไม่มีน้ำหนักอีกต่อไปครับ
+17-1189	sound_auth	Your Honor. Taking this new testimony into account, I'd like\nto call Shono-san back to the stand for cross-examination.	ท่านผู้พิพากษาครับ เมื่อพิจารณาคำให้การใหม่นี้แล้ว ผมขอ\nเรียกโชโนะซังกลับขึ้นให้การ อีกครั้งเพื่อซักค้านครับ
+17-1190	sound_auth	Your Honor. Taking this new testimony into account,\nI'd like to recall Shono-san to the stand for cross-examination.	ท่านผู้พิพากษาครับ เมื่อพิจารณาคำให้การใหม่นี้แล้ว\nผมขอเรียกโชโนะซังกลับขึ้น ให้การอีกครั้งเพื่อซักค้านครับ
+17-1191	sound_auth	Shono-san.	โชโนะซัง
+17-1192	sound_auth	<color=ｍonologue>(Let's see how Shono responds with that evidence\nand Terasawa-san's testimony out in the open.)</color>	<color=ｍonologue>(มาดูกันว่าโชโนะจะตอบยังไง เมื่อทั้งหลักฐานชิ้นนั้น\nและคำให้การของคุณเทราซาวะถูก เปิดเผยออกมาแล้ว)</color>
+17-1193	sound_auth	I'll get right to the point.	ผมจะเข้าประเด็นเลยนะครับ
+17-1194	sound_auth	Allow me to get right to the point.	ขออนุญาตเข้าประเด็นเลยนะครับ
+17-1195	sound_auth	On the day of the crime, what did you see\nwhen you looked into Waku-san's room?	ในวันเกิดเหตุ คุณเห็นอะไร\nตอนที่มองเข้าไปในห้องของวาคุซัง?
+17-1196	sound_auth	I saw Waku-san asleep in his bed...\nI think.	ผมเห็นวาคุซังนอนหลับอยู่บนเตียง...\nผมคิดว่านะครับ
+17-1197	sound_auth	I believe... I saw Waku-san\nasleep in his bed.	ผมเชื่อว่า...ผมเห็นวาคุซัง\nนอนหลับอยู่บนเตียงครับ
+17-1198	sound_auth	And did you get a clear look\nat his face?	แล้วคุณเห็นหน้าเขา\nชัดเจนไหมครับ?
+17-1199	sound_auth	And did you get a clear look\nat Waku-san's face?	แล้วคุณเห็นหน้าวาคุซัง\nชัดเจนไหมครับ?
+17-1200	sound_auth	I don't remember.	ผมจำไม่ได้
+17-1201	sound_auth	So it's possible that it could have been\nsomeone other than Waku-san in that bed?	งั้นก็เป็นไปได้ว่า\nคนบนเตียงนั้นอาจจะไม่ใช่วาคุ ซังก็ได้ใช่ไหมครับ?
+17-1202	sound_auth	So it's possible that the person in the bed\nwas someone else entirely.	งั้นก็เป็นไปได้ว่าคนบนเตียงนั้น\nอาจเป็นคนอื่นไปเลยก็ได้ครับ
+17-1203	sound_auth	Or maybe even a pillow that you mistook\nto be Waku-san's body?	หรือจะเป็นแค่หมอนที่คุณเข้าใจผิด\nคิดว่าเป็นร่างของวาคุซังก็ได้ครับ?
+17-1204	sound_auth	Or maybe even a pillow\nthat you mistook to be Waku-san's body.	หรืออาจเป็นแค่หมอน\nที่คุณเข้าใจผิดคิดว่าเป็นร่าง ของวาคุซังก็ได้ครับ
+17-1205	sound_auth	Objection!\nThe defense is leading the witness.	คัดค้าน!\nฝ่ายจำเลยกำลังชี้นำพยาน
+17-1206	sound_auth	Objection!\nCouncil is leading the witness.	คัดค้าน!\nทนายฝ่ายจำเลยกำลังชี้นำพยาน
+17-1207	sound_auth	Sustained.\nPlease rephrase the question.	รับคำคัดค้าน\nกรุณาถามคำถามใหม่
+17-1208	sound_auth	Shono-san. Can you say without a doubt that Waku-san\nwas in that bed when you checked on him?	โชโนะซัง คุณกล้ายืนยันได้แน่ชัดไหมว่าวาคุซัง\nอยู่บนเตียงนั้นตอนที่คุณไปตรวจดู?
+17-1209	sound_auth	Can you say beyond a reasonable doubt\nthat Waku-san was in that bed?	คุณยืนยันได้เกินความสงสัยตามสมควรไหม\nว่าวาคุซังอยู่บนเตียงนั้นจริง?
+17-1210	sound_auth	I... don't think I can, no.	ผม... คงยืนยันแบบนั้นไม่ได้ครับ
+17-1211	sound_auth	I'm afraid I... can't say for sure.	ผมเกรงว่า... คงไม่กล้ายืนยันครับ
+17-1212	sound_auth	Then the defense rests.	งั้นฝ่ายจำเลยขอยุติการซักถามครับ
+17-1213	sound_auth	But, I do have a quick remark\nfor the prosecution.	แต่ผมมีข้อสังเกตสั้น ๆ\nจะฝากถึงฝ่ายโจทก์ครับ
+17-1214	sound_auth	But I'd like to address the prosecution,\nif you don't mind.	แต่ผมขออนุญาตกล่าวถึงฝ่ายโจทก์\nสักหน่อยครับ
+17-1215	sound_auth	<color=ｍonologue>(The prosecution's argument has fallen apart.\nNow to go in for the kill!)</color>	<color=ｍonologue>(ข้อโต้แย้งของฝ่ายโจทก์พัง ไม่เป็นท่าแล้ว\nได้เวลาเข้าไปจัดการให้จบ!)</color>
+17-1216	sound_auth	The charges against my client stem from your assertion\nthat he's the only possible suspect...	ข้อกล่าวหาต่อลูกความของผมมีที่ มาจากการยืนยันของฝ่ายท่าน\nว่าเขาเป็นผู้ต้องสงสัยเพียง คนเดียวที่เป็นไปได้...
+17-1217	sound_auth	Charges were brought against my client based\non the assumption of a given timeframe.	ข้อกล่าวหาต่อลูกความของผมตั้งอยู่บน\nสมมติฐานเรื่องกรอบเวลาที่กำหนดไว้
+17-1218	sound_auth	Assuming the crime took place\nwithin the stated time frame.	สมมติว่าเหตุอาชญากรรมเกิดขึ้น\nภายในกรอบเวลาที่ระบุไว้
+17-1219	sound_auth	The defendant was considered\nthe only possible suspect.	จำเลยถูกมองว่า\nเป็นผู้ต้องสงสัยเพียงคนเดียว ที่เป็นไปได้
+17-1220	sound_auth	However, the defense has proven without a doubt that Shono-san's\ntestimony is unreliable, establishing reasonable doubt for my client.	แต่ฝ่ายจำเลยได้พิสูจน์อย่าง ชัดเจนแล้วว่าคำให้การของโชโนะ ซัง\nไม่น่าเชื่อถือ จนก่อให้เกิดข้อสงสัยตามสมควร ต่อลูกความของผม
+17-1221	sound_auth	However, Shono-san's testimony has been proven unreliable,\nmeaning that another person could have committed the crime.	แต่คำให้การของโชโนะซังได้รับ การพิสูจน์แล้วว่าไม่ น่าเชื่อถือ\nซึ่งหมายความว่าอาจมีคนอื่นเป็น ผู้ก่อเหตุก็ได้
+17-1222	sound_auth	I would suggest, then...	ดังนั้น ผมจึงขอเสนอว่า...
+17-1223	sound_auth	Therefore...	เพราะฉะนั้น...
+17-1224	sound_auth	That you withdraw the charges\nagainst my client.	ขอให้ฝ่ายโจทก์ถอนฟ้อง\nต่อลูกความของผม
+17-1225	sound_auth	I suggest you drop the charges.	ผมขอเสนอให้ยกฟ้องเสียครับ
+17-1226	sound_auth	With such inconclusive evidence,\nyou'll only be wasting the court's precious time.	ด้วยหลักฐานที่ยังไม่ชัดเจนเช่นนี้\nท่านมีแต่จะเสียเวลาอันมีค่าของ ศาลไปเปล่า ๆ
+17-1227	sound_auth	With such inconclusive evidence,\nyou'll only waste the court's time if you proceed.	ด้วยหลักฐานที่ยังไม่ชัดเจนเช่นนี้\nหากดำเนินคดีต่อ ก็มีแต่จะเสียเวลาของศาลไปเปล่า ๆ
+17-1228	sound_auth	The prosecution does not consider\nthe witness's testimony inconclusive.	ฝ่ายโจทก์ไม่เห็นว่า\nคำให้การของพยานยังไม่ชัดเจน แต่อย่างใด
+17-1229	sound_auth	His memory of the incident may be fuzzy, yes,\nbut that doesn't change that he saw the victim.	ความทรงจำของเขาเกี่ยวกับ เหตุการณ์อาจเลือนราง\nแต่นั่นไม่ได้เปลี่ยนความจริง ที่ว่าเขาเห็นผู้เสียหาย
+17-1230	sound_auth	His memory may be fuzzy, yes,\nbut that doesn't change that he saw the victim.	ความทรงจำของเขาอาจเลือนราง\nแต่นั่นก็ไม่เปลี่ยนความจริง ที่ว่าเขาเห็นผู้เสียหาย
+17-1231	sound_auth	So your whole case\nis based on a "fuzzy" memory?	งั้นคดีทั้งหมดของฝ่ายท่าน\nตั้งอยู่บนความทรงจำที่ "เลือนราง" งั้นหรือ?
+17-1232	sound_auth	Is a "fuzzy memory" accurate enough\nfor testimony?	"ความทรงจำเลือนราง" แม่นยำพอ\nจะใช้เป็นคำให้การได้หรือ?
+17-1233	sound_auth	This promising young man's future is at stake, and you're\nwilling to throw that away on unreliable testimony?	อนาคตของชายหนุ่มที่มีอนาคตไกล คนนี้กำลังตกอยู่ในความเสี่ยง\nแล้วท่านจะยอมทิ้งมันไปด้วย คำให้การที่ไม่น่าเชื่อถือ เช่นนี้หรือ?
+17-1234	sound_auth	Are you sure you can completely trust the witness,\nwith this young man's promising future at stake?	ท่านแน่ใจหรือว่าจะเชื่อถือพยาน ได้เต็มร้อย\nทั้งที่อนาคตอันสดใสของชายหนุ่ม คนนี้แขวนอยู่บนเส้นด้าย?
+17-1235	sound_auth	Dr. Shono is a bright\nand diligent researcher.	ดร.โชโนะเป็นนักวิจัย\nที่ฉลาดและขยันขันแข็ง
+17-1236	sound_auth	The witness, Dr. Shono,\nis a devoted researcher.	พยานปากนี้ ดร.โชโนะ\nเป็นนักวิจัยที่ทุ่มเทอย่างยิ่ง
+17-1237	sound_auth	After watching his own grandmother develop dementia,\nhe vowed to create a drug that could cure the disease.	หลังเห็นคุณยายของตัวเองป่วย เป็นโรคสมองเสื่อม\nเขาก็ตั้งปณิธานจะคิดค้น ยารักษาโรคนี้ให้ได้
+17-1238	sound_auth	After watching his own grandmother develop dementia,\nhe vowed to create a cure.	หลังเห็นคุณยายของตัวเองป่วย เป็นโรคสมองเสื่อม\nเขาก็ตั้งปณิธานจะคิดค้นยารักษาให้ได้
+17-1239	sound_auth	After paying his own way through medical school,\nhe went on to become the head researcher at the ADDC.	หลังจากส่งตัวเองเรียนจบแพทย์ ด้วยน้ำพักน้ำแรง\nเขาก็ก้าวขึ้นเป็นหัวหน้านักวิจัยของ ADDC
+17-1240	sound_auth	He paid his own way through medical school\nand went on to become the ADDC's head researcher.	เขาส่งตัวเองเรียนจบแพทย์ด้วย น้ำพักน้ำแรง\nก่อนจะก้าวขึ้นเป็นหัวหน้านักวิจัยของ ADDC
+17-1241	sound_auth	Day after day, Dr. Shono visits his sick\npatients out of the kindness of his heart.	ทุกวันเล่าไป ดร.โชโนะไปเยี่ยมผู้ป่วย\nด้วยความเมตตาจากใจจริง
+17-1242	sound_auth	Day after day, Dr. Shono visits his patients\nout of the kindness of his heart.	ทุกวันเล่าไป ดร.โชโนะไปเยี่ยมผู้ป่วยของเขา\nด้วยความเมตตาจากใจจริง
+17-1243	sound_auth	Leading to his valiant testimony here today.	จนนำมาสู่คำให้การอันกล้าหาญของ เขาในวันนี้
+17-1244	sound_auth	Leading to the testimony we heard today.	จนนำมาสู่คำให้การที่เราได้ฟัง กันในวันนี้
+17-1245	sound_auth	If you want to know whether I trust this man,\nthen my answer is a resounding yes!	ถ้าท่านอยากรู้ว่าผมเชื่อใจชาย คนนี้หรือไม่\nคำตอบของผมคือใช่อย่างไม่ต้องสงสัย!
+17-1246	sound_auth	If you want to know whether I trust this man,\nthen my answer is a resounding yes.	ถ้าท่านอยากรู้ว่าผมเชื่อใจชาย คนนี้หรือไม่\nคำตอบของผมคือใช่อย่างไม่ต้องสงสัย
+17-1247	sound_auth	In other words, because he's such a great researcher, his testimony\nis infallible? His own admission that he's not sure is somehow overlooked?	พูดง่าย ๆ ก็คือ เพราะเขาเป็นนักวิจัยที่ยอดเยี่ยม คำให้การของเขา\nจึงไม่มีทางผิดพลาดงั้นหรือ? แล้วที่เขายอมรับเองว่าไม่แน่ใจ กลับถูกมองข้ามไปเฉย ๆ อย่างนั้นหรือ?
+17-1248	sound_auth	So what you're saying is that no matter his claims,\nthe prosecution believes him with blind faith.	งั้นที่ท่านพูดก็คือ ไม่ว่าเขาจะกล่าวอ้างอะไรก็ตาม\nฝ่ายโจทก์ก็เชื่อเขาแบบหลับหูหลับตา
+17-1249	sound_auth	Is that the sum of it?	สรุปได้แค่นั้นใช่ไหม?
+17-1250	sound_auth	Does that sum it up?	สรุปได้ประมาณนั้นใช่ไหม?
+17-1251	sound_auth	Because from here, it sounds like you're putting\nyour faith in Shono-san's title, not his testimony today.	เพราะเท่าที่ฟังดู มันเหมือนกับว่าท่านกำลังฝากความเชื่อ\nไว้กับตำแหน่งของโชโนะซัง ไม่ใช่คำให้การของเขาในวันนี้
+17-1252	sound_auth	If you ask me, it sounds like you're putting your faith\nin Shono-san's title, not his testimony.	ถ้าถามผม มันฟังดูเหมือนท่านฝากความเชื่อ\nไว้กับตำแหน่งของโชโนะซัง ไม่ใช่คำให้การของเขา
+17-1253	sound_auth	The prosecution is not as easily\nswayed as you think!	ฝ่ายโจทก์ไม่ได้โลเลง่าย ๆ\nอย่างที่ท่านคิดหรอกนะ!
+17-1254	sound_auth	The prosecution would not be swayed\nby something so petty.	ฝ่ายโจทก์จะไม่มีวันโลเล\nเพราะเรื่องเล็กน้อยเพียงเท่านี้
+17-1255	sound_auth	And you want to talk reputation,\nwhat of your client's history of domestic abuse?	แล้วถ้าจะพูดเรื่องชื่อเสียงล่ะ\nประวัติความรุนแรงในครอบครัวของ ลูกความท่านล่ะว่าไง?
+17-1256	sound_auth	Moreover... the courtroom judges all equally,\neven a defendant with a history of domestic abuse. 	ยิ่งไปกว่านั้น... ศาลตัดสินทุกคนอย่างเท่าเทียมกัน\nแม้แต่จำเลยที่มีประวัติ ความรุนแรงในครอบครัวก็ตาม
+17-1257	sound_auth	<color=ｍonologue>(Uh oh. He's gonna bring up Okubo's record...)</color>	<color=ｍonologue>(แย่แล้ว เขากำลังจะขุดประวัติของโอคุโบะขึ้นมา...)</color>
+17-1258	sound_auth	Six years ago, the defendant broke his girlfriend's finger.\nThe poor girl is still suffering from the effects.	หกปีก่อน จำเลยเคยหักนิ้วของแฟนสาวตัวเอง\nสาวน้อยผู้น่าสงสารยังคงทนทุกข์ กับผลกระทบนั้นมาจนถึงทุกวันนี้
+17-1259	sound_auth	And the cause?\nA minor drunken disagreement.	แล้วสาเหตุคืออะไร?\nแค่การถกเถียงเล็กน้อยตอนเมา
+17-1260	sound_auth	And the cause?\nNothing more than a minor drunken disagreement.	แล้วสาเหตุคืออะไร?\nไม่มีอะไรมากไปกว่าการถกเถียง เล็กน้อยตอนเมา
+17-1261	sound_auth	Now, fast forward to what occurred\na few days prior to the crime.	ทีนี้ ลองย้อนไปดูเหตุการณ์\nไม่กี่วันก่อนเกิดคดีนี้
+17-1262	sound_auth	Now, let us revisit the days\nbefore this murder.	ทีนี้ ลองย้อนกลับไปดูวันเวลา\nก่อนเกิดคดีฆาตกรรมนี้
+17-1263	sound_auth	Waku-san, suspecting the defendant of stealing his wallet,\nlashed out and punched the defendant in the face.	วาคุซังสงสัยว่าจำเลยขโมย กระเป๋าสตางค์ของเขาไป\nจึงระเบิดอารมณ์และต่อยหน้า จำเลยเข้าอย่างจัง
+17-1264	sound_auth	Waku-san suspected the defendant of stealing his wallet.\nHe lashed out and punched him.	วาคุซังสงสัยว่าจำเลยขโมย กระเป๋าสตางค์ของเขาไป\nเขาจึงระเบิดอารมณ์และชกใส่จำเลย
+17-1265	sound_auth	Given the clearly violent nature of Okubo-san here,\nthat alone would be motivation enough to murder the poor old...	เมื่อพิจารณาจากนิสัยรุนแรงที่ ชัดเจนของโอคุโบะซัง\nแค่นี้ก็เพียงพอเป็นแรงจูงใจให้ ฆ่าคุณตาผู้น่าสงสารคนนั้นได้ แล้ว...
+17-1266	sound_auth	In this case, given the defendant's violent nature,\nthat would surely be motive enough for killing the... Uh..	ในกรณีนี้ เมื่อพิจารณาจากนิสัยรุนแรงของจำเลย\nแค่นี้ก็น่าจะเพียงพอเป็น แรงจูงใจให้ฆ่า... เอ่อ..
+17-1267	sound_auth	Is something wrong, ma'am?\nPlease remain seated while court is in session.	มีอะไรผิดปกติหรือครับ คุณผู้หญิง?\nกรุณานั่งลงระหว่างที่ศาลกำลัง พิจารณาคดีอยู่ครับ
+17-1268	sound_auth	Is something wrong?\nPlease be seated while court is in session.	มีอะไรผิดปกติหรือครับ?\nกรุณานั่งลงระหว่างศาล พิจารณาคดีอยู่ครับ
+17-1269	sound_auth	No, it's nothing, Vice Minister.	ไม่มีอะไรครับ ท่านรองปลัด
+17-1270	sound_auth	No, nothing to worry about,\nVice Minister.	ไม่มีอะไรต้องกังวลครับ\nท่านรองปลัด
+17-1271	sound_auth	I haven't seen you in about three years,\nKido-san. I see you're still the director.	ไม่ได้เจอกันสักสามปีได้แล้วนะครับ\nคิโดะซัง เห็นว่ายังเป็นผู้อำนวยการอยู่เลย
+17-1272	sound_auth	It's been three years, Kido-san.\nI see you're still the ADDC's director.	ผ่านมาสามปีแล้วนะครับ คิโดะซัง\nเห็นว่ายังเป็นผู้อำนวยการของ ADDC อยู่เลย
+17-1273	sound_auth	You look familiar, but I can't quite place the name.\nI seem to recall you looking sharper.	หน้าตาคุณดูคุ้น ๆ แต่ผมนึกชื่อไม่ออก\nจำได้ว่าคุณเคยดูดีกว่านี้
+17-1274	sound_auth	You do look familiar, yes.\nThough... perhaps a little worse for wear.	คุณดูคุ้นหน้าจริง ๆ\nแม้ว่า... ดูจะโทรมลงไปหน่อยก็ตาม
+17-1275	sound_auth	I'm a detective based in Kamurocho now.	ตอนนี้ผมเป็นนักสืบอยู่ที่ คามุโรโจครับ
+17-1276	sound_auth	These days, I'm a detective\nbased in Kamurocho.	ช่วงนี้ผมเป็นนักสืบ\nอยู่ที่คามุโรโจครับ
+17-1277	sound_auth	The name's Yagami.	ผมชื่อยากามิครับ
+17-1278	sound_auth	I remember now. You're the reason\nTerasawa-kun's no longer with us.	นึกออกแล้ว คุณนี่เองที่เป็นต้นเหตุ\nให้เทราซาวะคุงไม่อยู่กับพวกเรา อีกแล้ว
+17-1279	sound_auth	Remember, Shono?	จำได้ไหม โชโนะ?
+17-1280	sound_auth	Isn't that right, Shono?	ใช่ไหมล่ะ โชโนะ?
+17-1281	sound_auth	Okubo-san was unstoppable.\nIf only my testimony had been better...	คุณโอคุโบะนั้นหยุดไม่อยู่จริง ๆ\nถ้าคำให้การของผมดีกว่านี้ก็คงจะดี...
+17-1282	sound_auth	Shono-san, right?	โชโนะซังใช่ไหมครับ?
+17-1283	sound_auth	Is that you, Shono-san?	นั่นโชโนะซังใช่ไหมครับ?
+17-1284	sound_auth	Does it matter?\nWhat brings you here anyway?	มันสำคัญด้วยเหรอ?\nมีธุระอะไรมาที่นี่กันแน่?
+17-1285	sound_auth	That aside.\nWhat brings you here today?	เรื่องนั้นช่างเถอะ\nวันนี้มีธุระอะไรมาที่นี่?
+17-1286	sound_auth	I'm investigating a murder.	ผมกำลังสืบคดีฆาตกรรมอยู่ครับ
+17-1287	sound_auth	And I'll need your cooperation with it.\nJust like old times.	และผมต้องขอความร่วมมือจากคุณด้วย\nเหมือนสมัยก่อนเลยครับ
+17-1288	sound_auth	One I'll need your cooperation on.\nJust like old times.	คดีที่ผมต้องขอความร่วมมือจากคุณ\nเหมือนสมัยก่อนเลยครับ
+17-1289	sound_auth	Yes, I see. Yes. Thank you.	ครับ เข้าใจแล้ว ครับ ขอบคุณครับ
+17-1290	sound_auth	Yes. I see.\nI understand... Thank you.	ครับ เข้าใจแล้ว\nรับทราบครับ... ขอบคุณครับ
+17-1291	sound_auth	The same Shono-san you were just with?	โชโนะซังคนเดียวกับที่คุณเพิ่ง คุยด้วยเหรอครับ?
+17-1292	sound_auth	Wait, the same Shono-san?	เดี๋ยวนะ โชโนะซังคนเดียวกันเลยเหรอ?
+17-1293	sound_auth	<color=ｍonologue>(Why would Shintani call Shono?)</color>	<color=ｍonologue>(ทำไมชินทานิถึงโทรหาโชโนะ?)</color>
+17-1294	sound_auth	Yes. However, it's unclear as to what the point\nof the call was meant to be.	ครับ แต่ยังไม่ชัดเจนว่าจุดประสงค์\nของสายนั้นคืออะไรกันแน่
+17-1295	sound_auth	Yes. However, it's unclear as to what\nthe point of the call was.	ครับ แต่ยังไม่ชัดเจนว่า\nจุดประสงค์ของสายนั้นคืออะไร
+17-1296	sound_auth	Shono was away from his desk at the time, you see,\nand Shintani-san didn't leave a message.	ตอนนั้นโชโนะไม่อยู่ที่โต๊ะพอดี น่ะครับ\nแล้วชินทานิซังก็ไม่ได้ฝากข้อความไว้
+17-1297	sound_auth	You have no idea what he wanted to talk about?	คุณไม่รู้เลยเหรอครับว่าเขาโทร มาเรื่องอะไร?
+17-1298	sound_auth	So you have no idea\nwhat he wanted?	งั้นคุณไม่รู้เลย\nว่าเขาต้องการอะไร?
+17-1299	sound_auth	None. Shono says he doesn't know a Shintani-san,\nand sees no reason why he would be calling.	ไม่รู้เลยครับ โชโนะบอกว่าเขาไม่รู้จักชินทานิซัง\nและนึกไม่ออกว่าทำไมเขาถึงโทรมาหา
+17-1300	sound_auth	Oh really.	งั้นเหรอครับ
+17-1301	sound_auth	Then why?	แล้วทำไมล่ะ?
+17-1302	sound_auth	Shono and I co-authored the research paper on AD-9.\nWe're quite well-known, as it turns out.	ผมกับโชโนะร่วมกันเขียนงานวิจัยเรื่อง AD-9\nจริง ๆ แล้วเราค่อนข้างมีชื่อเสียงเลยล่ะครับ
+17-1303	sound_auth	Sometimes complete strangers pretend to be close friends\nor relatives in order to contact us.	บางครั้งคนแปลกหน้าที่ไม่เคย รู้จักกันเลย\nก็แสร้งทำเป็นเพื่อนสนิทหรือ ญาติเพื่อจะติดต่อเรา
+17-1304	sound_auth	Sometimes, complete strangers pretend to be\nclose friends or relatives in order to contact us.	บางครั้งคนแปลกหน้าที่ไม่รู้จักกัน\nก็แสร้งทำเป็นเพื่อนสนิทหรือ ญาติเพื่อติดต่อเรา
+17-1305	sound_auth	Perhaps Shintani-san fell into that category?	บางทีชินทานิซังอาจเข้าข่ายแบบ นั้นก็ได้ครับ?
+17-1306	sound_auth	Perhaps Shintani-san\nfell into that category.	บางทีชินทานิซัง\nอาจเข้าข่ายแบบนั้นก็ได้ครับ
+17-1307	sound_auth	Have you heard of the Mole murders taking place\nin Kamurocho, Dr. Kido?	คุณเคยได้ยินเรื่องคดีฆาตกรรม ของไส้ศึกที่เกิดขึ้น\nในคามุโรโจไหมครับ ดร.คิโดะ?
+17-1308	sound_auth	The guy we think is behind Shintani's murder\nis a serial killer in Kamurocho called the Mole.	คนที่เราคิดว่าอยู่เบื้องหลัง การฆาตกรรมชินทานิ\nคือฆาตกรต่อเนื่องในคามุโรโจที่ เรียกกันว่าไส้ศึก
+17-1309	sound_auth	Three yakuza, each one with their eyes gouged out.\nIt's a grisly business.	ยากูซ่าสามคน แต่ละคนถูกควักลูกตาออกทั้งคู่\nเป็นคดีที่โหดร้ายมากครับ
+17-1310	sound_auth	So far, he's killed three.\nYakuza, with eyes gouged out.	จนถึงตอนนี้เขาฆ่าไปแล้วสามคน\nล้วนเป็นยากูซ่าที่ถูกควักลูกตาออก
+17-1311	sound_auth	Shintani was killed in the same way.	ชินทานิก็ถูกฆ่าด้วยวิธีเดียวกันครับ
+17-1312	sound_auth	Does that sound familiar at all?	ฟังดูคุ้น ๆ บ้างไหมครับ?
+17-1313	sound_auth	I've seen the news.	ผมเห็นข่าวมาบ้างครับ
+17-1314	sound_auth	Can you think of anything\ntying the ADDC to those murders?	คุณพอนึกอะไรได้ไหมครับ\nที่โยง ADDC เข้ากับคดีฆาตกรรมพวกนั้น?
+17-1315	sound_auth	Can you think of anything\ntying the ADDC to the Mole's murders?	คุณพอนึกอะไรได้ไหมครับ\nที่โยง ADDC เข้ากับคดีฆาตกรรมของไส้ศึก?
+17-1316	sound_auth	Huh? Look, just what are you implying!?	หา? นี่คุณจะสื่ออะไรกันแน่!?
+17-1317	sound_auth	Huh? What exactly are you implying?	หา? คุณกำลังจะสื่ออะไรกันแน่?
+17-1318	sound_auth	I believe we're done here.\nThere's nothing I can help you with.	ผมว่าเราคุยกันจบแค่นี้\nไม่มีอะไรที่ผมช่วยคุณได้อีกแล้วครับ
+17-1319	sound_auth	I believe we're done here.\nThere is nothing more I can help you with.	ผมว่าเราคุยกันจบแค่นี้\nไม่มีอะไรเพิ่มเติมที่ผมช่วยคุณ ได้อีกแล้ว
+17-1320	sound_auth	Please, stop!\nYou can't!	หยุดก่อนค่ะ!\nเข้าไปไม่ได้นะคะ!
+17-1321	sound_auth	Ah... Please, stop!\nYou can't!	อ้าว... หยุดก่อน!\nเข้าไปไม่ได้นะคะ!
+17-1322	sound_auth	Detective Kuroiwa.\nKamuro Police, Organized Crime.	นักสืบคุโรอิวะ\nตำรวจคามุโร แผนกปราบปรามองค์กรอาชญากรรม
+17-1323	sound_auth	The name's Kuroiwa.\nKamuro Police, Organized Crime.	ผมชื่อคุโรอิวะ\nตำรวจคามุโร แผนกปราบปรามองค์กรอาชญากรรม
+17-1324	sound_auth	One of your guests here has information related\nto the case I'm currently investigating.	แขกคนหนึ่งที่มาที่นี่มีข้อมูล ที่เกี่ยวข้อง\nกับคดีที่ผมกำลังสืบสวนอยู่
+17-1325	sound_auth	Today, I'm here for one of your guests.\nHe's related to my current case.	วันนี้ผมมาหาแขกคนหนึ่งของคุณ\nเขาเกี่ยวข้องกับคดีที่ผมกำลังสืบอยู่
+17-1326	sound_auth	That would be you, Yagami.	คนนั้นก็คือคุณนี่แหละ ยากามิ
+17-1327	sound_auth	That'd be you, Yagami.	คนนั้นก็คือคุณนั่นแหละ ยากามิ
+17-1328	sound_auth	I'd like to speak to you as a material witness\nto the murder of the lawyer, Masamichi Shintani.	ผมอยากขอคุยกับคุณในฐานะพยานปากสำคัญ\nในคดีฆาตกรรมทนายความมาซามิจิ ชินทานิ
+17-1329	sound_auth	I'd like to speak to you as a material witness\nto the murder of Masamichi Shintani.	ผมอยากขอคุยกับคุณในฐานะพยานปากสำคัญ\nในคดีฆาตกรรมของมาซามิจิ ชินทานิ
+17-1330	sound_auth	I'm Hoshino,\nan attorney at Genda Law Office.	ผมชื่อโฮชิโนะ\nทนายความจากสำนักงานกฎหมายเก็นดะครับ
+17-1331	sound_auth	I'm Hoshino,\nfrom the Genda Law Office.	ผมชื่อโฮชิโนะ\nจากสำนักงานกฎหมายเก็นดะครับ
+17-1332	sound_auth	Officer, is this interview voluntary, or?	คุณตำรวจครับ การสัมภาษณ์ครั้งนี้เป็นไป โดยสมัครใจหรือเปล่าครับ?
+17-1333	sound_auth	Detective...\nMay I assume this interview is voluntary?	คุณนักสืบ...\nขอถือว่าการสัมภาษณ์นี้เป็นไป โดยสมัครใจได้ไหมครับ?
+17-1334	sound_auth	...It is.	...ใช่
+17-1335	sound_auth	It's your call, Yagami-san.	แล้วแต่คุณตัดสินใจเลยครับ ยากามิซัง
+17-1336	sound_auth	Yagami-san?\nWhat's your call?	ยากามิซัง?\nคุณจะว่ายังไงครับ?
+17-1337	sound_auth	I think I'll pass.	คิดว่าขอผ่านดีกว่า
+17-1338	sound_auth	I'll pass.	ไม่ล่ะ
+17-1339	sound_auth	You have your answer, sir.\nYou can go now.	คุณได้คำตอบแล้วนะครับ\nกลับได้แล้วครับ
+17-1340	sound_auth	You have your answer, sir.\nNow please leave.	คุณได้คำตอบแล้วนะครับ\nกรุณากลับไปได้แล้วครับ
+17-1341	sound_auth	You can make this easier if you come now.\nNext time it won't be voluntary.	จะให้เรื่องนี้ง่ายขึ้นก็มากับ ผมตอนนี้เลย\nครั้งหน้าจะไม่ให้เลือกแบบ สมัครใจแล้วนะ
+17-1342	sound_auth	You're better off coming with me now, let me tell you.\nThis won't be voluntary next time.	บอกไว้เลยว่ามากับผมตอนนี้ดีกว่านะ\nครั้งหน้าจะไม่ใช่แบบสมัครใจแล้ว
+17-1343	sound_auth	Your empty threats don't\nmean much to a lawyer.	คำขู่ลอย ๆ แบบนั้น\nไม่มีความหมายอะไรกับทนายความหรอกครับ
+17-1344	sound_auth	Threaten all you like,\nbut Yagami-san knows the law.	จะขู่ยังไงก็เชิญ\nแต่ยากามิซังรู้กฎหมายดีครับ
+17-1345	sound_auth	Can you take this elsewhere?\nI really must be—	ช่วยเอาเรื่องนี้ไปคุยที่อื่น ได้ไหมครับ\nผมมีธุระต้อง—
+17-1346	sound_auth	Excuse me, can you take this somewhere else?\nI really must be—	ขอโทษนะครับ ช่วยเอาเรื่องนี้ไปคุยที่อื่นได้ไหม\nผมมีธุระต้อง—
+17-1347	sound_auth	Too bad he's not a lawyer\nanymore then.	น่าเสียดายที่เขาไม่ใช่ทนายความ\nอีกต่อไปแล้วนี่สิ
+17-1348	sound_auth	Good thing he's not a lawyer anymore.	โชคดีที่เขาไม่ใช่ทนายความ อีกต่อไปแล้ว
+17-1349	sound_auth	Your friend's nothing now.	เพื่อนคุณตอนนี้ไม่มีค่าอะไรแล้ว
+17-1350	sound_auth	Just come along quietly. I'll come back\nwith a warrant if I have to.	มาแต่โดยดีเถอะ ไม่งั้นผมจะกลับมาใหม่\nพร้อมหมายจับก็ได้นะ
+17-1351	sound_auth	Just come along quietly.\nIf I have to, I'll be more than happy to get a warrant.	มาแต่โดยดีเถอะ\nถ้าจำเป็น ผมยินดีไปขอหมายมาเลยด้วยซ้ำ
+17-1352	sound_auth	I'd like to see you try.	อยากเห็นคุณลองดูเหมือนกันครับ
+17-1353	sound_auth	Why do you suspect me, anyway?\nI bet you don't even have a reason.	ทำไมถึงสงสัยผมกันแน่ครับ?\nผมพนันได้เลยว่าคุณไม่มีเหตุผลด้วยซ้ำ
+17-1354	sound_auth	Why do you suspect me?\nDo you even have a reason?	ทำไมถึงสงสัยผมล่ะครับ?\nคุณมีเหตุผลด้วยหรือเปล่า?
+17-1355	sound_auth	I can come up with a few good ones.	ผมคิดเหตุผลดี ๆ ได้อีกหลายข้อเลยนะ
+17-1356	sound_auth	I can always make one.	จะสร้างเหตุผลขึ้นมาก็ยังได้
+17-1357	sound_auth	Enough!\nGet the hell out of my office!	พอกันที!\nออกไปจากห้องทำงานของผมเดี๋ยวนี้!
+17-1358	sound_auth	You'll regret this, Yagami.	คุณจะต้องเสียใจภายหลัง ยากามิ
+17-1359	sound_auth	You'll regret this.	คุณจะต้องเสียใจภายหลัง
+17-1360	sound_auth	Kuroiwa-san!	คุณคุโรอิวะ!
+17-1361	sound_auth	Kuroiwa-san.	คุณคุโรอิวะ
+17-1362	sound_auth	You too. Out!	พวกคุณด้วย ออกไป!
+17-1363	sound_auth	That includes you two.	รวมถึงพวกคุณสองคนด้วย
+17-1364	sound_auth	Before we go, can we speak\nto Shono-san for a sec?	ก่อนจะไป ขอคุยกับโชโนะซัง\nสักครู่ได้ไหมครับ?
+17-1365	sound_auth	One thing first. Any chance we could\nstill talk to Shono-san?	มีเรื่องหนึ่งก่อนนะครับ พอจะมีโอกาส\nได้คุยกับโชโนะซังไหม?
+17-1366	sound_auth	We need to know why\nShintani called him.	เราต้องรู้ว่าทำไม\nชินทานิถึงโทรหาเขา
+17-1367	sound_auth	We need to know why Shintani called him.\nThat's all.	เราแค่ต้องรู้ว่าทำไมชินทานิถึง โทรหาเขา\nแค่นั้นเองครับ
+17-1368	sound_auth	Listen, I already told you, he doesn't know.\nGet it through your skull.	ฟังนะ ผมบอกไปแล้วว่าเขาไม่รู้\nเข้าใจสักทีเถอะ
+17-1369	sound_auth	I already told you, Shono doesn't know!\nDo you understand?	ผมบอกไปแล้วว่าโชโนะไม่รู้!\nเข้าใจไหม?
+17-1370	sound_auth	Now. Please leave.	เอาล่ะ กรุณาออกไปได้แล้ว
+17-1371	sound_auth	Now please leave.	กรุณาออกไปได้แล้ว
+17-1372	sound_auth	No problem.\nWe'll let you get back to work.	ไม่มีปัญหาครับ\nพวกเราจะปล่อยให้คุณกลับไปทำงานต่อ
+17-1373	sound_auth	I get it.\nWe'll let you get back to your work.	เข้าใจแล้วครับ\nพวกเราจะปล่อยให้คุณกลับไปทำงานต่อ
+17-1374	sound_auth	This is really getting out\nof hand, don't you think?	เรื่องนี้เริ่มจะบานปลาย\nไปกันใหญ่แล้วนะครับ ว่าไหม?
+17-1375	sound_auth	All this is... starting to\nget out of hand.	เรื่องทั้งหมดนี้... เริ่มจะ\nบานปลายไปกันใหญ่แล้ว
+17-1376	sound_auth	I can't believe that detective\nthinks you're a material witness.	ไม่อยากจะเชื่อเลยว่านักสืบคนนั้น\nคิดว่าคุณเป็นพยานปากสำคัญ
+17-1377	sound_auth	You hear that detective? I can't believe he said\nyou're a material witness, Yagami-san.	ได้ยินนักสืบคนนั้นไหมครับ? ไม่อยากเชื่อเลยว่าเขาพูด\nว่าคุณเป็นพยานปากสำคัญ ยากามิซัง
+17-1378	sound_auth	Yeah, I dunno what\nhe's talking about.	ครับ ผมก็ไม่รู้เหมือนกัน\nว่าเขาพูดเรื่องอะไร
+17-1379	sound_auth	Yeah. I dunno what he's\ntalking about.	ครับ ผมไม่รู้\nว่าเขาพูดเรื่องอะไร
+17-1380	sound_auth	But what I'm more interested in\nis how he even knew where to find me.	แต่สิ่งที่ผมสนใจมากกว่านั้น\nคือเขารู้ได้ยังไงว่าจะมาหาผมที่นี่
+17-1381	sound_auth	That aside, what I'm more interested in is\nhow he even knew where to find me.	เรื่องนั้นช่างเถอะ สิ่งที่ผมสนใจมากกว่านั้นคือ\nเขารู้ได้ยังไงว่าจะมาหาผมที่นี่
+17-1382	sound_auth	That's a good point.\nHow would the police know we were here?	จุดนี้น่าสนใจนะครับ\nตำรวจรู้ได้ยังไงว่าเราอยู่ที่นี่?
+17-1383	sound_auth	Good point. How would the police\nknow we were here?	จุดนี้น่าสนใจครับ ตำรวจรู้ได้ยังไง\nว่าเราอยู่ที่นี่?
+17-1384	sound_auth	No clue.	ไม่รู้เหมือนกัน
+17-1385	sound_auth	For now let's focus on Shono, though. It would be\na waste coming here and not talking to him.	ตอนนี้เอาเรื่องโชโนะก่อนดีกว่าครับ จะเสียแรงเปล่า\nถ้ามาถึงที่นี่แล้วไม่ได้คุยกับเขา
+17-1386	sound_auth	For now, let's focus on Shono.\nIt'd be a waste, coming here and not talking to him.	ตอนนี้เอาเรื่องโชโนะก่อนดีกว่า\nจะเสียแรงเปล่าถ้ามาแล้วไม่ได้ คุยกับเขา
+17-1387	sound_auth	Agreed. Let's see if the\nreceptionist can help us.	เห็นด้วยครับ ลองไปดูกันว่า\nพนักงานต้อนรับจะช่วยอะไรเราได้บ้าง
+17-1388	sound_auth	Agreed.\nLet's see if the receptionist can help us.	เห็นด้วยครับ\nลองไปดูว่าพนักงานต้อนรับจะช่วย อะไรได้บ้าง
+17-1389	sound_auth	Can I help you?	มีอะไรให้ช่วยมั้ย?
+17-1390	sound_auth	Welcome, sir.	ยินดีต้อนรับ
+17-1391	sound_auth	Actually, I've already been here.\nI was just with Director Kido, remember?	ที่จริงผมมาแล้วครับ\nเพิ่งอยู่กับผู้อำนวยการคิโดะมา จำได้ไหมครับ?
+17-1392	sound_auth	Actually, I was just here asking\nabout the Director...	ที่จริงผมเพิ่งมาถามเรื่อง\nผู้อำนวยการอยู่พอดี...
+17-1393	sound_auth	Oh, of course!\nDid you forget something, sir?	อ๋อ จริงด้วยค่ะ!\nลืมอะไรไว้หรือเปล่าคะ?
+17-1394	sound_auth	Not exactly. I'd actually like to speak\nto Shono-san, the AD-9 researcher.	ไม่เชิงครับ ที่จริงผมอยากคุย\nกับโชโนะซัง นักวิจัย AD-9 ครับ
+17-1395	sound_auth	Well, I've got another question. I'd like to speak to\nShono-san, the AD-9 researcher.	จริง ๆ แล้วผมมีคำถามอีกข้อครับ ผมอยากคุยกับ\nโชโนะซัง นักวิจัย AD-9
+17-1396	sound_auth	Where would I be able to find him?	ผมจะไปหาเขาได้ที่ไหนครับ?
+17-1397	sound_auth	Let me see, that should be the research wing.\nI believe he's in the protein abnormalities lab.	ขอดูก่อนนะคะ น่าจะเป็นตึกฝ่ายวิจัยค่ะ\nคิดว่าเขาอยู่ที่แล็บโปรตีนผิดปกติค่ะ
+17-1398	sound_auth	Let me see... That should be the research wing.\nI believe he's in the protein abnormalities lab.	ขอดูก่อนนะคะ... น่าจะเป็นตึกฝ่ายวิจัยค่ะ\nคิดว่าเขาอยู่ที่แล็บโปรตีนผิดปกติค่ะ
+17-1399	sound_auth	Probably need a gold keycard\nto get in there, huh?	คงต้องใช้คีย์การ์ดสีทอง\nถึงจะเข้าไปได้สินะครับ?
+17-1400	sound_auth	That's correct, sir. I should be able to lend\nyou one with the director's approval, though.	ถูกต้องค่ะ ดิฉันน่าจะยืมให้คุณได้\nถ้าได้รับอนุมัติจากผู้อำนวยการค่ะ
+17-1401	sound_auth	Yes. But I should be able to lend you one\nwith the director's approval.	ค่ะ แต่ดิฉันน่าจะยืมให้คุณได้\nถ้าได้รับอนุมัติจากผู้อำนวยการ
+17-1402	sound_auth	Just give me a moment to ask.\nCould you tell me your name, sir?	รอสักครู่นะคะ ดิฉันจะไปถามให้\nขอทราบชื่อคุณหน่อยได้ไหมคะ?
+17-1403	sound_auth	Actually, uh... never mind.\nKido-san seemed pretty busy earlier.	เอ่อ ที่จริง... ไม่เป็นไรครับ\nเมื่อกี้คิโดะซังดูยุ่งอยู่พอดี
+17-1404	sound_auth	Uh, actually... never mind.\nKido-san seemed pretty busy earlier.	เอ่อ ที่จริง... ไม่เป็นไรครับ\nคิโดะซังดูยุ่งอยู่พอดี
+17-1405	sound_auth	I'll try back later.	เดี๋ยวผมลองกลับมาใหม่ครับ
+17-1406	sound_auth	I'll come back later.	เดี๋ยวจะกลับมาใหม่
+17-1407	sound_auth	Are you sure, sir...?	แน่ใจนะคะ...?
+17-1408	sound_auth	Are you sure...?	แน่ใจนะคะ...?
+17-1409	sound_auth	Good call. There's no chance\nKido-san would let us in.	ตัดสินใจถูกแล้วครับ คิโดะซัง\nไม่มีทางยอมให้เราเข้าไปแน่ ๆ
+17-1410	sound_auth	There's no way he's\ngonna let us through.	ไม่มีทางที่เขา\nจะยอมให้เราผ่านเข้าไปหรอก
+17-1411	sound_auth	At least now we know where Shono is.	อย่างน้อยตอนนี้เราก็รู้แล้วว่า โชโนะอยู่ที่ไหน
+17-1412	sound_auth	Still, at least we know where Shono is.	ถึงอย่างนั้น อย่างน้อยเราก็รู้แล้วว่าโชโนะ อยู่ที่ไหน
+17-1413	sound_auth	<color=ｍonologue>(The research wing.)</color>	<color=ｍonologue>(ตึกฝ่ายวิจัยสินะ)</color>

@@ -1,0 +1,1412 @@
+id	bin	EN	TH
+03-0001	talk	Oh, a new challenger approaches, and this one's a detective. Watch out, Mari.	โอ้ มีผู้ท้าชิงหน้าใหม่มาแล้ว แถมเป็นนักสืบซะด้วย ระวังตัวไว้นะ มาริ
+03-0002	talk	Come for some sport, Tak?	มาลองเสี่ยงดวงด้วยเหรอ ทาคุ
+03-0003	talk	You want in? It's a 10,000 yen ante. Whoever guesses Mari's occupation takes the pot.	อยากร่วมวงไหม เดิมพันหนึ่งหมื่นเยน ใครเดาอาชีพของมาริถูกกินรวบทั้งหมด
+03-0004	talk	Don't be a buzzkill, Tak. I think you might actually have a shot.	อย่าทำเสียบรรยากาศสิ ทาคุ ฉันว่าคุณมีลุ้นเหมือนกันนะ
+03-0005	talk	So, how about I make it more interesting for you? I'll bet 50,000... that nobody can guess.	งั้นให้ฉันทำให้มันสนุกขึ้นดีไหม ฉันขอวางเดิมพันห้าหมื่น... ว่าไม่มีใครเดาถูก
+03-0006	talk	Th-That's a lot! So the winner gets 90,000 yen!?	เ-เยอะเกิน! งั้นคนชนะได้เก้าหมื่นเยนเลยเหรอ!?
+03-0007	talk	Wow, more interesting is right.	โห สนุกขึ้นจริงด้วย
+03-0008	talk	How about it, Tak? There's quite a fortune on the line if you can guess it.	เป็นไง ทาคุ ถ้าเดาถูกมีเงินก้อนโตรอคุณอยู่นะ
+03-0009	talk	Ah, a vote of no confidence, then? How disappointing.	อ้าว ไม่มั่นใจในตัวเองงั้นเหรอ น่าผิดหวังจัง
+03-0010	talk	Then... Do you want in or not?	งั้น... จะร่วมวงหรือเปล่าล่ะ
+03-0011	talk	Come on, you're short?	เอาน่า เงินไม่พอเหรอ
+03-0012	talk	What a buzzkill.	เสียบรรยากาศจริงๆ
+03-0013	talk	Let's see those detective skills at work, Tak.	ขอดูฝีมือนักสืบของคุณหน่อยสิ ทาคุ
+03-0014	talk	Haha... You're welcome to "observe." Take all the time you need.	ฮ่าๆ... จะ "สังเกต" ก็เชิญตามสบายเลยค่ะ ใช้เวลาได้เต็มที่
+03-0015	talk	(That necklace has some expensive stones... Certainly didn't come from the discount aisle.)	(สร้อยคอเส้นนี้ฝังเพชรพลอยราคาแพงนี่... ไม่ใช่ของลดราคาแน่นอน)
+03-0016	talk	(If she bought it herself, she's doing just fine on her own. But it could also have been a gift from a guy...)	(ถ้าซื้อเองแสดงว่าฐานะดีไม่น้อย แต่ก็อาจเป็นของขวัญจากผู้ชายคน ไหนก็ได้...)
+03-0017	talk	(Then again, if she's here every night, chances are low that she's serious with anyone right now.)	(แต่ถ้ามาที่นี่ทุกคืนแบบนี้ โอกาสที่จะมีแฟนจริงจังก็คงน้อย)
+03-0018	talk	(That material isn't cheap, and the design is classy, too. Probably a luxury brand?)	(เนื้อผ้าก็ไม่ถูก ดีไซน์ก็ดูหรู คงเป็นแบรนด์เนมสินะ)
+03-0019	talk	(No way she goes through the hassle of dressing up to come drinking, but no way she wears that to work, either...)	(ไม่น่าจะแต่งตัวจัดเต็มขนาดนี้ แค่มาดื่ม แต่ก็ไม่น่าใส่ชุดนี้ไปทำงานเหมือนกัน...)
+03-0020	talk	(Could she be a freelancer of some sort?)	(หรือเธอจะเป็นฟรีแลนซ์อะไรสักอย่าง?)
+03-0021	talk	(No ring on the finger. Not even a callus where one would have been. I've gotta assume she's not married.)	(ไม่มีแหวนที่นิ้ว แถมไม่มีรอยด้านตรงที่ควรจะมีด้วย คงต้องสรุปว่ายังไม่แต่งงาน)
+03-0022	talk	(Nice. That's useful info.)	(ดี นี่เป็นข้อมูลที่มีประโยชน์)
+03-0023	talk	(Her nails are nicely manicured...)	(เล็บของเธอทำมาอย่างดี...)
+03-0024	talk	(That probably means having long nails and nail polish don't interfere with her job.)	(น่าจะแปลว่าเล็บยาวกับสีเล็บไม่ เป็นอุปสรรคกับงานของเธอ)
+03-0025	talk	(The color is a bold choice.)	(สีที่เลือกก็ค่อนข้างจัดจ้าน)
+03-0026	talk	(It's safe to assume wherever she works isn't super conservative.)	(สรุปได้ว่าที่ทำงานของเธอคงไม่ เคร่งครัดอะไรมาก)
+03-0027	talk	Your hair is dyed and your nails are done, so you clearly don't have a job that would impose rules on you.	ผมสีย้อม เล็บก็แต่งมาอย่างดี เห็นได้ชัดว่างานของคุณไม่มี กฎเกณฑ์อะไรมาบังคับ
+03-0028	talk	No ring means no husband. You're dressed to the nines, down to the accessories. Clearly you have money.	ไม่มีแหวนแปลว่าไม่มีสามี แต่งตัวจัดเต็มไปถึงเครื่องประดับ เห็นชัดว่ามีเงิน
+03-0029	talk	And... the fact that you're here every night means you aren't working very demanding hours.	แล้วก็... การที่คุณมาที่นี่ทุกคืน แปลว่างานของคุณไม่ได้เข้มงวด เรื่องเวลามากนัก
+03-0030	talk	Impressive! I know who to call if I ever need a detective.	น่าประทับใจจัง! รู้แล้วว่าถ้าต้องการนักสืบต้อง โทรหาใคร
+03-0031	talk	So, I'm right so far?	งั้นที่ผ่านมาผมพูดถูกใช่ไหม
+03-0032	talk	Ha, could be. It wouldn't be fair if I told you, would it?	ฮะ ก็อาจจะนะ ถ้าบอกไปเลยก็ไม่ยุติธรรมสิคะ
+03-0033	talk	Oh, I can confirm that she isn't short on money.	อ้อ ยืนยันได้เลยว่าเธอไม่ขาดเงินแน่นอน
+03-0034	talk	I couldn't help but notice earlier... You paid your tab with a black card, right?	อดสังเกตเห็นเมื่อกี้ไม่ได้เลย... คุณจ่ายบิลด้วยบัตรแบล็คการ์ดใช่ไหม
+03-0035	talk	Oh, now that I think about it...	อ้อ พอมาคิดดูแล้ว...
+03-0036	talk	Really? Can't you only get one of those if you're filthy rich?	จริงเหรอ ต้องรวยระดับเทพเลยไม่ใช่เหรอ ถึงจะมีบัตรแบบนั้น
+03-0037	talk	Heyyy, how rich are we talking here!?	เฮ้ยยย รวยขนาดไหนกันเนี่ย!?
+03-0038	talk	(She clearly has both money and the luxury of time...)	(เห็นชัดว่าเธอมีทั้งเงินและ เวลาว่างเหลือเฟือ...)
+03-0039	talk	(Then Mari's occupation must be...)	(งั้นอาชีพของมาริก็คงจะเป็น...)
+03-0040	talk	If you're spending money however you want, I'm going to say you're romantically involved with a CEO.	ถ้าคุณใช้เงินได้ตามใจขนาดนี้ ผมขอทายว่าคุณคบอยู่กับซีอีโอสักคน
+03-0041	talk	And the reason you're here alone... is because he doesn't make time for you.	แล้วที่คุณมาคนเดียว... ก็เพราะเขาไม่มีเวลาให้คุณ
+03-0042	talk	Oh really? That one certainly came out of nowhere...	จริงเหรอคะ อันนี้มาจากไหนก็ไม่รู้...
+03-0043	talk	Makes sense to me. So you're betting on her being a CEO's lover, Tak?	ก็ฟังดูมีเหตุผลนะ งั้นนายเดิมพันว่าเธอเป็นชู้ของ ซีอีโอเหรอ ทาคุ
+03-0044	talk	Are you an author, perhaps? I'd guess you come to the bar to hear stories that make for great research.	หรือว่าคุณเป็นนักเขียน ผมเดาว่าคุณมาบาร์เพื่อฟัง เรื่องราวเก็บไว้เป็นข้อมูล วิจัย
+03-0045	talk	Interesting. No one's every guessed that before. Final answer?	น่าสนใจนี่ ไม่เคยมีใครเดาแบบนี้มาก่อนเลย คำตอบสุดท้ายแล้วใช่ไหม
+03-0046	talk	Yeah, I'll go with it.	ครับ ขอยืนยันคำตอบนี้
+03-0047	talk	If you're that rich, I can only assume you're a doctor.	ถ้ารวยขนาดนั้น ผมคงต้องเดาว่าคุณเป็นหมอ
+03-0048	talk	But aren't doctors kind of busy? And I don't think I'd see a doctor with nails like these...	แต่หมอไม่ยุ่งเหรอคะ แล้วก็ไม่คิดว่าจะเจอหมอที่เล็บ แบบนี้ด้วย...
+03-0049	talk	Not if you own your practice yourself. And who's to say when you put on that nail polish?	ไม่หรอกถ้าคุณเปิดคลินิกเป็นของตัวเอง แล้วใครจะรู้ว่าคุณทาสีเล็บตอนไหน
+03-0050	talk	Anyone else? Care to venture a guess?	มีใครอยากลองเดาอีกไหมคะ
+03-0051	talk	Hmm. I'm gonna go with accountant. Yep.	อืม ขอเดาว่านักบัญชี เอาแบบนั้นแหละ
+03-0052	talk	I'll say she's a principal of a private school.	ว่าเป็นครูใหญ่โรงเรียนเอกชนนะ
+03-0053	talk	All good guesses. I'll take a stab at her being in stocks.	เดากันเก่งทุกคนเลย ขอเดาว่าเล่นหุ้นดีกว่า
+03-0054	talk	Real estate management.	บริหารอสังหาริมทรัพย์
+03-0055	talk	So, time to call the bet. What's the answer, Mari?	เอาล่ะ ได้เวลาเฉลยแล้ว คำตอบคืออะไร มาริ
+03-0056	talk	...Bzzzt. You're all wrong.	...แต๊ก ทายผิดกันหมดเลยค่ะ
+03-0057	talk	I win. Looks like I'll be taking the pot.	ฉันชนะ ดูเหมือนเงินกองนี้จะเป็นของฉันแล้วนะ
+03-0058	talk	Ugh. Damn it...	อุ๊ย บ้าเอ๊ย...
+03-0059	talk	I should be off, though. I do have <font_kind=yakuza_italic>work</font_kind> to do, you know.	แต่ฉันต้องไปแล้วล่ะ ยังมี<font_kind=yakuza_italic>งาน</font_kind>ต้องทำอยู่นะ
+03-0060	talk	Work? At this time of night?	งานเหรอ ดึกป่านนี้เลยเนี่ยนะ
+03-0061	talk	Yep. Not that I have to go if I don't feel like it.	ใช่ค่ะ แต่ก็ไม่ใช่ว่าต้องไปหรอกถ้าไม่อยากไป
+03-0062	talk	Well, that went poorly.	ก็... ไม่ค่อยเข้าเป้าเท่าไหร่นะ
+03-0063	talk	Ugh. I doubt we were even close.	เฮ้อ ไม่คิดว่าเราจะใกล้เคียงเลยด้วยซ้ำ
+03-0064	talk	Yup. And we're no closer now than when we started.	ใช่ แล้วตอนนี้ก็ไม่ได้ใกล้คำตอบไป กว่าตอนเริ่มเลย
+03-0065	talk	Say, Tak. Don't detectives also tail people for a living?	นี่ ทาคุ นักสืบก็หากินด้วยการสะกดรอยตาม คนไม่ใช่เหรอ
+03-0066	talk	Huh? Wait, you don't mean...	หา? เดี๋ยวนะ นายหมายความว่า...
+03-0067	talk	Oh, but I do! Why don't you see where she goes? Discreetly, of course.	ใช่เลย! ลองตามดูสิว่าเธอไปไหน แบบเนียนๆ นะ
+03-0068	talk	S-Seriously?	จ-จริงเหรอ?
+03-0069	talk	Oh, that's good! At this point, I'd be willing to pay for the truth.	โอ้ เยี่ยมเลย! ป่านนี้ยอมจ่ายเงินแลกความจริง เลยด้วยซ้ำ
+03-0070	talk	...Fine. If it's a job, I'll take it.	...ก็ได้ ถ้าเป็นงานก็รับไว้ก็แล้วกัน
+03-0071	talk	(Hm. There she is. Let's see where she goes.)	(อืม เจอแล้ว ลองดูว่าเธอจะไปไหน)
+03-0072	talk	Hey! That's...	เฮ้! นั่นมัน...
+03-0073	talk	Mari... No way...	มาริ... ไม่จริงน่า...
+03-0074	talk	I guess you'd make pretty good money at a high-end soapland...	คงทำเงินได้ดีทีเดียวถ้าทำงาน ที่ร้านอาบอบนวดหรูๆ...
+03-0075	talk	(Damn, she's onto me. Just who are you, Mari?)	(บ้าเอ๊ย เธอรู้ตัวว่าผมตามอยู่ มาริ เธอเป็นใครกันแน่?)
+03-0076	talk	(But I may have a chance if she's going to work now... I just have to make sure she doesn't catch me.)	(แต่ถ้าเธอกำลังจะไปทำงานตอนนี้ ก็อาจยังมีโอกาส... แค่ต้องไม่ให้เธอจับได้)
+03-0077	talk	(Mari would recognize me in a heartbeat, of course. Maybe I should...)	(มาริคงจำหน้าผมได้ทันทีแน่ๆ บางทีผมน่าจะ...)
+03-0078	talk	(There we go. This should make it harder for her to recognize me.)	(เอาล่ะ แบบนี้น่าจะทำให้เธอจำผมไม่ออก ง่ายขึ้น)
+03-0079	talk	Wait, don't tell me...	เดี๋ยวนะ อย่าบอกนะว่า...
+03-0080	talk	Is that you, Tak? Try as you might, you can't hide it. Besides, I had a hunch you might follow me.	นั่นคุณเหรอ ทาคุ พยายามแค่ไหนก็ซ่อนไม่มิดหรอกนะ แถมฉันก็แอบรู้สึกอยู่แล้ว ด้วยว่าคุณอาจจะตามมา
+03-0081	talk	...! But how?	...! แต่รู้ได้ยังไง?
+03-0082	talk	I guess I knew you'd be the type to call my bluff.	คงเพราะรู้อยู่แล้วว่าคุณเป็นคน ที่จะจับไต๋ฉันได้
+03-0083	talk	Your bluff?	ไต๋อะไร?
+03-0084	talk	Don't you get it? Welcome to what I do for a living.	ยังไม่เก็ตอีกเหรอ นี่แหละงานที่ฉันทำหากิน
+03-0085	talk	You're... a gambler?	คุณ... เป็นนักพนันเหรอ?
+03-0086	talk	That's right. And a gambler only works when she's feeling lucky.	ใช่แล้ว แล้วนักพนันจะลงมือก็ต่อเมื่อ รู้สึกว่าดวงกำลังดีเท่านั้น
+03-0087	talk	That's my little secret.	นี่แหละความลับเล็กๆ ของฉัน
+03-0088	talk	I see... Makes sense why the idea of a betting pool excited you, too.	อ๋อ... ก็เลยเข้าใจแล้วว่าทำไมไอเดีย เดิมพันแบบนี้ถึงทำให้คุณ ตื่นเต้นได้ขนาดนั้น
+03-0089	talk	I only did it for fun at first, you know. But then I kept winning.	ตอนแรกทำเล่นๆ เพื่อความสนุกเฉยๆ นะ แต่แล้วก็ชนะเรื่อยมา
+03-0090	talk	I guess I have a talent for it.	คงมีพรสวรรค์ด้านนี้อยู่ในตัวมั้ง
+03-0091	talk	And when I'd made enough money, I left office work behind.	พอได้เงินมากพอ ก็เลยเลิกทำงานออฟฟิศไปเลย
+03-0092	talk	And now you have a black card. Pretty impressive.	แล้วตอนนี้คุณก็มีแบล็คการ์ดด้วย น่าประทับใจจริงๆ
+03-0093	talk	But the others are chomping at the bit to find out, I assume? Tell you what, if I pay you, will you keep it a secret?	แต่คนอื่นๆ คงอยากรู้กันใหญ่แน่ๆ สินะ งั้นเอาแบบนี้ ถ้าฉันจ่ายให้ คุณจะช่วยเก็บเป็นความลับไหม
+03-0094	talk	Can't exactly have rumors spreading that I make my fortunes in illegal casinos, can I?	จะให้ข่าวลือแพร่ไปว่าฉันรวยจาก บ่อนพนันผิดกฎหมายก็คง ไม่ได้ใช่ไหมล่ะ
+03-0095	talk	Yeah, I wouldn't want that getting out either. I'll tell them I lost you in a crowd.	ครับ ผมก็ไม่อยากให้เรื่องนี้หลุดออก ไปเหมือนกัน จะบอกพวกเขาว่าตามคุณไม่ทัน เพราะคนเยอะ
+03-0096	talk	But I must say, you're a really good detective. Your logic was on point.	แต่ต้องยอมรับว่าคุณเป็นนักสืบ ที่เก่งจริงๆ นะ การให้เหตุผลของคุณแม่นมาก
+03-0097	talk	What do you say? Want to see how you fare in my line of work? You might do better than you'd think.	เป็นไง อยากลองดูไหมว่าคุณจะไปได้ดีแค่ ไหนในงานแบบฉัน อาจจะเก่งกว่าที่คิดก็ได้นะ
+03-0098	talk	N-Nah. I could also do worse than you'd think.	ไ-ไม่ล่ะ ผมก็อาจจะแย่กว่าที่คิดเหมือนกัน
+03-0099	talk	(I've gotta figure out how to tail Mari without being caught...)	(ต้องหาทางตามมาริโดยไม่ให้จับได้...)
+03-0100	talk	(Nah, this won't work. Isn't there something I could use to hide my face?)	(ไม่ได้ แบบนี้ไม่เวิร์ก มีอะไรที่ใช้บังหน้าได้บ้างไหมนะ?)
+03-0101	talk	(Maybe... She's already married?)	(หรือว่า... เธอแต่งงานไปแล้ว?)
+03-0102	talk	(Is there anything I can find on her that would tell me more about her marriage history?)	(มีอะไรที่จะหาข้อมูลเรื่อง ประวัติการแต่งงานของเธอได้ เพิ่มไหมนะ?)
+03-0103	talk	(She went downstairs....)	(เธอลงไปชั้นล่าง...)
+03-0104	talk	Those eyes... They're deeper than the Kamurocho sewers, yet brighter than a trash can bonfire... Just who are you, anyway?	ดวงตาคู่นั้น... ลึกยิ่งกว่าท่อระบายน้ำคามุโรโจ แต่กลับสว่างยิ่งกว่ากองไฟใน ถังขยะเสียอีก... คุณเป็นใครกันแน่?
+03-0105	talk	...I'm Yagami. Can I help you with something?	...ผมยากามิครับ มีอะไรให้ช่วยไหม
+03-0106	talk	Depends. Let me introduce myself first. I'm Morio Onodera.	แล้วแต่กรณีนะ ขอแนะนำตัวก่อนดีกว่า ผมโมริโอะ โอโนเดระ
+03-0107	talk	I tell ya buddy, when you've spent as much time below the pipes as me, you stumble across some strange shit.	บอกเลยนะเพื่อน ถ้าใช้ชีวิตอยู่ใต้ท่อนานเท่าผม จะได้เจออะไรแปลกๆ เต็มไปหมด
+03-0108	talk	Dealing in such odds and ends is what I do for a living.	การค้าขายของแปลกพวกนี้แหละคือ งานหาเลี้ยงชีพของผม
+03-0109	talk	Hmm. Got anything worth looking at?	อืม มีของน่าดูบ้างไหม
+03-0110	talk	How 'bout a talisman that boosts your luck at the casino? And that's just for starters.	เครื่องรางเสริมดวงในบ่อนคาสิโนล่ะ นี่แค่ตัวอย่างเบื้องต้นเท่านั้นนะ
+03-0111	talk	(Why would anyone even make something like that? Sounds pretty sketchy...)	(ใครจะไปทำของแบบนี้ขึ้นมากันนะ ฟังดูน่าสงสัยชะมัด...)
+03-0112	talk	...I see. What's your asking price?	...เข้าใจแล้ว คุณตั้งราคาไว้เท่าไหร่
+03-0113	talk	Pshaw, I ain't after any money.	ชะ ผมไม่ได้ต้องการเงินหรอกน่า
+03-0114	talk	What do you mean? You have to make a living somehow.	หมายความว่ายังไง ยังไงคุณก็ต้องหาเลี้ยงชีพด้วย อะไรสักอย่างสิ
+03-0115	talk	That's where you're wrong. I chose this lifestyle 'cause I don't wanna be tied down to the filth of the world above.	ตรงนั้นแหละที่คุณเข้าใจผิด ผมเลือกใช้ชีวิตแบบนี้เพราะไม่ อยากถูกผูกมัดกับความ สกปรกของโลกข้างบน
+03-0116	talk	They call it the almighty coin, but I say it's the root of all evil. What I value now is experience.	คนเขาเรียกมันว่าเงินตราผู้ยิ่งใหญ่ แต่ผมว่ามันคือรากเหง้าของความ ชั่วร้ายทั้งปวง สิ่งที่ผมให้คุณค่าตอนนี้คือ ประสบการณ์
+03-0117	talk	Go on...	พูดต่อสิ...
+03-0118	talk	So I have people talk about their life experiences and give them something based on what they say.	เลยให้คนมาเล่าประสบการณ์ชีวิตให้ฟัง แล้วผมก็มอบอะไรบางอย่างให้ ตามเรื่องที่เขาเล่า
+03-0119	talk	Your eyes tell me you've gone through quite a lot in your young life. I bet you got some amazing stories to tell.	ดวงตาของคุณบอกว่าผ่านอะไรมา เยอะทั้งที่ยังอายุน้อย ผมพนันได้เลยว่าคุณต้องมี เรื่องราวเจ๋งๆ ให้เล่าแน่
+03-0120	talk	How about it? Feel like having a sit-down?	เป็นไง อยากนั่งคุยกันหน่อยไหม
+03-0121	talk	Yeah, I could do that.	ครับ ได้เลย
+03-0122	talk	Perfect. This is what I have in stock right now.	เยี่ยม นี่คือของที่มีอยู่ในสต๊อกตอนนี้
+03-0123	talk	On a tight schedule, huh? It's fine, you can always come back some other time.	มีธุระเร่งด่วนสินะ ไม่เป็นไร แวะมาใหม่วันหลังก็ได้
+03-0124	talk	I knew you were one of a kind! What an incredible story... Can't wait to hear more.	รู้อยู่แล้วว่าคุณไม่เหมือนใคร! เรื่องราวสุดยอดจริงๆ... อยากฟังเพิ่มอีกจัง
+03-0125	talk	Hey, Yagami-san. There anything you want today?	เฮ้ ยากามิซัง วันนี้อยากได้อะไรไหม
+03-0126	talk	Remember, I trade in life experiences, not coins. So give me a good story.	อย่าลืมนะ ผมค้าขายด้วยประสบการณ์ชีวิต ไม่ใช่เงินตรา เพราะฉะนั้นเล่าเรื่องดีๆ มาให้ฟังหน่อย
+03-0127	talk	Yagami-san, you are one unusual guy. Honestly, I don't think I've ever met another fella with such an interesting background.	ยากามิซัง คุณนี่เป็นคนแปลกจริงๆ พูดตามตรงนะ ไม่เคยเจอใครที่มีภูมิหลัง น่าสนใจขนาดนี้มาก่อนเลย
+03-0128	talk	Yeah. So I'm throwin' in a little bonus this time.	นั่นสิ เลยขอแถมโบนัสเล็กๆ น้อยๆ ให้รอบนี้
+03-0129	talk	I'm sure I'll scrounge up something new sooner or later, so hopefully I'll have something for you next time!	เดี๋ยวผมคงหาของใหม่ๆ มาได้อีกไม่ช้าก็เร็ว หวังว่าจะมีอะไรมาให้คุณอีกใน ครั้งหน้านะ!
+03-0130	talk	Sounds good to me.	ฟังดูดีเลยครับ
+03-0131	talk	'Preciate it! Come back again soon!	ขอบใจนะ! แวะมาอีกเร็วๆ นี้ล่ะ!
+03-0132	talk	Yagami-san, need something?	ยากามิซัง มีอะไรให้ดิฉันช่วยไหมคะ
+03-0133	talk	Saori-san, got any work for me?	ซาโอริซัง มีงานให้ผมทำไหมครับ
+03-0134	talk	Here's what we have right now.	นี่คืองานที่มีอยู่ตอนนี้ค่ะ
+03-0135	talk	Do your best out there.	สู้ๆ นะคะ
+03-0136	talk	No, it's fine. I'll come back later.	ไม่เป็นไรครับ เดี๋ยวผมกลับมาใหม่
+03-0137	talk	Good work out there.	ทำงานได้ดีมากค่ะ
+03-0138	talk	Saori-san, wanna grab some fresh air with me?	ซาโอริซัง อยากออกไปสูดอากาศข้างนอกกับผมไหม
+03-0139	talk	I suppose I can make the time. Give me just a second.	คงพอมีเวลาให้ได้นะ รอฉันแป๊บนึง
+03-0140	talk	I'm ready. Let's go.	พร้อมแล้ว ไปกันเถอะ
+03-0141	talk	What is it, Yagami-san?	มีอะไรเหรอคะ ยากามิซัง
+03-0142	talk	You wanna start heading back?	อยากเริ่มเดินกลับกันหรือยัง
+03-0143	talk	Okay. It's about that time.	ได้ค่ะ ก็ได้เวลาแล้วเหมือนกัน
+03-0144	talk	That was a nice change of pace. It's nice to get out of the office now and then.	เปลี่ยนบรรยากาศแบบนี้ดีจัง ได้ออกจากออฟฟิศบ้าง เป็นครั้งคราวก็ดีเหมือนกัน
+03-0145	talk	I'm glad. I'll walk you back to the office.	ดีใจที่คุณชอบ เดี๋ยวผมเดินไปส่งที่ออฟฟิศเอง
+03-0146	talk	I see... Okay.	อ๋อ... ค่ะ
+03-0147	talk	Let's do it again sometime, yeah?	ไว้มาทำแบบนี้กันอีกนะ
+03-0148	talk	Sure. I don't usually walk that much, so I'm tired.	ได้สิคะ ปกติไม่ค่อยได้เดินขนาดนี้ เลยเหนื่อยนิดหน่อย
+03-0149	talk	Sounds like you need to hit the gym. Haha. I'll walk you back to the office.	ฟังดูเหมือนต้องไปเข้ายิมซะแล้วนะ ฮ่าๆ เดี๋ยวผมเดินไปส่งที่ออฟฟิศเอง
+03-0150	talk	How about you invite Mafuyu out sometime?	ลองชวนมาฟุยุออกไปข้างนอกดูบ้างไหมคะ
+03-0151	talk	Huh? Mafuyu?	หา? มาฟุยุเหรอ?
+03-0152	talk	Yes. I'm sure she would be thrilled.	ค่ะ เชื่อว่าเธอต้องดีใจแน่ๆ
+03-0153	talk	Ah, yeah. I'll think about it.	อ้อ เอ่อ... เดี๋ยวผมลองคิดดู
+03-0154	talk	Well, let's head back to the office.	เอาล่ะ กลับไปที่ออฟฟิศกันเถอะ
+03-0155	talk	(How are the jobs looking?)	(งานตอนนี้เป็นยังไงบ้างนะ?)
+03-0156	talk	(What am I in the mood for?)	(วันนี้อยากทำอะไรดีนะ?)
+03-0157	talk	(I guess I should get some records first.)	(คงต้องไปหาข้อมูลก่อนสินะ)
+03-0158	talk	(Hm? What's that noise?)	(หืม? เสียงอะไรน่ะ?)
+03-0159	talk	(An alarm? Where's it coming from?)	(เสียงเตือนภัยเหรอ? มาจากไหนกันนะ?)
+03-0160	talk	(What!? That was an explosion!)	(อะไรนะ!? นั่นมันเสียงระเบิด!)
+03-0161	talk	Ahhh! Run for it!	อ๊าาา! วิ่งหนีเร็ว!
+03-0162	talk	Call the police!	เรียกตำรวจเร็ว!
+03-0163	talk	R-Run!	ว-วิ่ง!
+03-0164	talk	(Is it terrorists? Some kind of yakuza thing?)	(เป็นผู้ก่อการร้ายหรือเปล่า? หรือเรื่องของยากูซ่า?)
+03-0165	talk	That noise again. Another bomb? Where is it coming from!?	เสียงนั้นอีกแล้ว ระเบิดลูกใหม่อีกเหรอ? มาจากไหนกันแน่!?
+03-0166	talk	(Here it is! It really is a bomb...)	(อยู่นี่เอง! เป็นระเบิดจริงๆ ด้วย...)
+03-0167	talk	Waaaaah! Mommy!	แงงงง! แม่ครับ!
+03-0168	talk	(How did this kid end up here alone!?)	(เด็กคนนี้มาอยู่ตรงนี้คนเดียวได้ยังไง!?)
+03-0169	talk	(This is bad. This kid could get...)	(แย่แล้ว เด็กคนนี้อาจจะโดน...)
+03-0170	talk	(What do I do, what do I do, what do I do!?)	(ทำไงดี ทำไงดี ทำไงดี!?)
+03-0171	talk	(No time to think! Shit!)	(ไม่มีเวลาคิดแล้ว! บ้าเอ๊ย!)
+03-0172	talk	(Only 15 seconds left!!)	(เหลือแค่ 15 วินาที!!)
+03-0173	talk	(Ugh, what the fuck!?)	(อึ้ย เวรเอ๊ย!?)
+03-0174	talk	(Shit! No time left! Just gotta do it!)	(บ้าเอ๊ย! ไม่มีเวลาแล้ว! ทำเลยก็แล้วกัน!)
+03-0175	talk	(Ahhhhhhh!!)	(อาาาาาา!!)
+03-0176	talk	Did we... survive?	เรา... รอดแล้วเหรอ?
+03-0177	talk	Yasu-kun!	ยาสึคุง!
+03-0178	talk	Mommy!	แม่ครับ!
+03-0179	talk	I'm sorry! I'm so sorry!	แม่ขอโทษนะ! ขอโทษจริงๆ!
+03-0180	talk	(Oh thank god... I thought we were both goners...)	(โล่งอกไปที... นึกว่าทั้งคู่จะไม่รอดซะแล้ว...)
+03-0181	talk	(A phone call? Who would be calling me from a blocked number?)	(โทรศัพท์เข้า? ใครจะโทรมาจากเบอร์ที่ปิดบังไว้กันนะ?)
+03-0182	talk	There are bombs in Kamurocho.	มีระเบิดอยู่ในคามุโรโจ
+03-0183	talk	Excuse me!?	อะไรนะ!?
+03-0184	talk	I said, I've placed bombs in Kamurocho. Three, in total.	บอกแล้วไงว่าวางระเบิดไว้ในคามุโรโจ ทั้งหมดสามลูก
+03-0185	talk	The first one exploded, as you saw. The second, you have just disarmed.	ลูกแรกระเบิดไปแล้วอย่างที่เห็น ลูกที่สองเพิ่งถูกกู้ไป
+03-0186	talk	And that leaves one more.	เหลืออีกลูกเดียว
+03-0187	talk	Hold on! Who are you!? And how did you get my number!?	เดี๋ยวก่อน! คุณเป็นใคร!? แล้วรู้เบอร์ผมได้ยังไง!?
+03-0188	talk	Is there really time to be asking questions? You have five minutes before it explodes.	มีเวลาว่างมานั่งถามคำถามด้วยเหรอ เหลือเวลาห้านาทีก่อนมันจะระเบิด
+03-0189	talk	Hahaha... If you don't want anyone else to get hurt, I suggest you start looking.	ฮ่าฮ่าฮ่า... ถ้าไม่อยากให้ใครบาดเจ็บอีก แนะนำให้รีบไปหาซะ
+03-0190	talk	Wait, wait! Fine, I'll look for it! But where? You've gotta tell me where!	เดี๋ยว เดี๋ยวก่อน! ก็ได้ ผมจะไปหาก็ได้! แต่ที่ไหนล่ะ? ต้องบอกผมด้วยว่าที่ไหน!
+03-0191	talk	Haha, I suppose it wouldn't be very fair otherwise. I'll give you a hint.	ฮ่าๆ ถ้าไม่ให้เบาะแสเลยก็คงไม่แฟร์ เท่าไหร่ งั้นจะให้คำใบ้ไว้
+03-0192	talk	You'll find it in the angel of the warrior's maze.	จะเจอมันอยู่ที่นางฟ้าแห่ง เขาวงกตนักรบ
+03-0193	talk	Angel of the warrior's maze? What kind of hint is that!?	นางฟ้าแห่งเขาวงกตนักรบ? คำใบ้อะไรกันเนี่ย!?
+03-0194	talk	Give it some thought, why don't you? Just remember... the clock's ticking. Five minutes.	ลองคิดดูสิ อย่าลืมนะ... เวลากำลังเดิน ห้านาที
+03-0195	talk	Things are going to get messy if you fail... Hahahaha.	ถ้าทำไม่สำเร็จ เรื่องจะยุ่งกว่านี้แน่... ฮ่าฮ่าฮ่าฮ่า
+03-0196	talk	(Angel of the warrior's maze... What the hell!?)	(นางฟ้าแห่งเขาวงกตนักรบ... อะไรกันเนี่ย!?)
+03-0197	talk	(Warrior's maze... Where could that be in Kamurocho?)	(เขาวงกตนักรบ... อยู่ตรงไหนของคามุโรโจกันนะ?)
+03-0198	talk	(Could he mean Little Asia?)	(หมายถึงลิตเติลเอเชียหรือเปล่านะ?)
+03-0199	talk	(No, that has nothing to do with any of those words...)	(ไม่สิ ไม่เกี่ยวอะไรกับคำพวกนั้นเลย...)
+03-0200	talk	(Warrior... Fighter... Hero? ...Champion!)	(นักรบ... นักสู้... วีรบุรุษ? ...แชมเปี้ยน!)
+03-0201	talk	(I've got it! It's somewhere in the Champion District!)	(คิดออกแล้ว! ต้องอยู่แถวย่านแชมเปี้ยนแน่!)
+03-0202	talk	(Then the next part of the clue is "angel...")	(งั้นส่วนต่อไปของคำใบ้คือ "นางฟ้า"...)
+03-0203	talk	(Did he mean Shellac, maybe?)	(หมายถึงเชลแล็กหรือเปล่านะ?)
+03-0204	talk	(No, that has nothing to do with angels...)	(ไม่สิ ไม่เกี่ยวกับนางฟ้าเลย...)
+03-0205	talk	(Wait, there <font_kind=yakuza_italic>is</font_kind> an angel in the Champion District! Earth Angel!)	(เดี๋ยวนะ ในย่านแชมเปี้ยน<font_kind=yakuza_italic>มี</font_kind>นางฟ้าอยู่จริงๆ! เอิร์ธแองเจิล!)
+03-0206	talk	(There's no time! I've gotta make it to Earth Angel before that bomb explodes!)	(ไม่มีเวลาแล้ว! ต้องไปให้ถึงเอิร์ธแองเจิลก่อน ระเบิดจะทำงาน!)
+03-0207	talk	("Angel of the warrior's maze..." He had to have meant Earth Angel here in the Champion District, right?)	("นางฟ้าแห่งเขาวงกตนักรบ"... ต้องหมายถึงเอิร์ธแองเจิลใน ย่านแชมเปี้ยนนี่แน่ๆ ใช่ไหม?)
+03-0208	talk	(Now where's the bomb!?)	(ทีนี้ระเบิดอยู่ไหนล่ะ!?)
+03-0209	talk	(...Found it!)	(...เจอแล้ว!)
+03-0210	talk	(Same type of bomb as the other, so I should be able to just pull the wire...)	(ระเบิดแบบเดียวกับลูกก่อน น่าจะแค่ดึงสายไฟออกได้...)
+03-0211	talk	(...Did that work?)	(...ได้ผลไหมเนี่ย?)
+03-0212	talk	(...The countdown stopped!)	(...นับถอยหลังหยุดแล้ว!)
+03-0213	talk	(Thank god...)	(โล่งอกจริงๆ...)
+03-0214	talk	Haha... You've done well.	ฮ่าๆ... ทำได้ดีมาก
+03-0215	talk	Is there a point to this!? What's your game!?	ทำแบบนี้มีจุดประสงค์อะไร!? เล่นอะไรอยู่กันแน่!?
+03-0216	talk	Now, let's not get ahead of ourselves. You've been chosen, you see.	ใจเย็นๆ ก่อน อย่าเพิ่งรีบร้อนไป คุณถูกเลือกแล้วล่ะ
+03-0217	talk	Chosen? Chosen for what!?	เลือก? เลือกทำอะไร!?
+03-0218	talk	Chosen to stop me. You either succeed, or Kamurocho will go up in flames.	เลือกให้มาหยุดฉัน คุณจะทำสำเร็จ หรือไม่ก็ปล่อยให้คามุโรโจลุกเป็นไฟ
+03-0219	talk	This isn't over, I'm afraid. Now you just be a good boy and wait... Hahahaha...	เรื่องนี้ยังไม่จบหรอกนะ ตอนนี้เอาแค่รอไปเงียบๆ ก่อนแล้วกัน... ฮ่าฮ่าฮ่าฮ่า...
+03-0220	talk	(He hung up... Who the hell is this guy?)	(วางสายไปแล้ว... เจ้าคนนี้มันใครกันแน่?)
+03-0221	talk	(He said this isn't over though... Shit, what should I do?)	(บอกว่าเรื่องนี้ยังไม่จบซะด้วย... บ้าเอ๊ย จะทำยังไงดี?)
+03-0222	talk	(Shit! Time's... up.)	(บ้าเอ๊ย! หมดเวลา...)
+03-0223	talk	We go now to the bombing incident in Kamurocho, where it seems we have an update on the device found at the scene.	ต่อไปเป็นข่าวเหตุระเบิดในคามุโรโจ ดูเหมือนจะมีความคืบหน้า เกี่ยวกับอุปกรณ์ที่พบใน ที่เกิดเหตุ
+03-0224	talk	(They're still looking into that bombing...)	(ยังสืบสวนเรื่องระเบิดครั้งนั้น อยู่เลย...)
+03-0225	talk	According to newly released police reports, the bomb was handcrafted and included a remote controlled timer.	จากรายงานล่าสุดของตำรวจ ระเบิดลูกนี้ประกอบขึ้นเองและมี ตัวจับเวลาแบบควบคุมระยะไกล
+03-0226	talk	The police are continuing to search for any evidence that may lead to the culprit.	ตำรวจยังคงเดินหน้าค้นหาหลักฐาน ที่อาจนำไปสู่ตัว ผู้ก่อเหตุต่อไป
+03-0227	talk	Citizens are encouraged to call the police should they see any suspicious persons or unattended bags.	ขอความร่วมมือประชาชนแจ้งตำรวจ หากพบบุคคลต้องสงสัยหรือ สัมภาระที่ไม่มีเจ้าของ
+03-0228	talk	In other news, the baby panda born last month continues to show healthy growth and...	ในข่าวอื่น ลูกแพนด้าที่เกิด เมื่อเดือนที่แล้วยังคงเติบโต แข็งแรงดี และ...
+03-0229	talk	(So basically, they're still hoping to find a lead.)	(สรุปแล้วคือยังไม่มีเบาะแสอะไรใหม่)
+03-0230	talk	(...A blocked number? Could it be from the bomber? Answering this could lead to trouble, but should I?)	(...เบอร์ปิดบังอีกแล้ว? จะเป็นมือระเบิดหรือเปล่านะ? รับสายนี้อาจมีปัญหาตามมา แต่ควรจะรับดีไหม?)
+03-0231	talk	Hahaha... The police are useless, wouldn't you agree, Yagami-san?	ฮ่าฮ่าฮ่า... ตำรวจไม่ได้เรื่องเลยจริงไหม ยากามิซัง?
+03-0232	talk	...Are you the bomber? Why do you know my name?	...คุณคือมือระเบิดใช่ไหม รู้ชื่อผมได้ยังไง?
+03-0233	talk	I've done my homework. You're a private eye, aren't you?	ทำการบ้านมาแล้วนะ นักสืบเอกชนใช่ไหมล่ะ
+03-0234	talk	That's none of your business.	นั่นไม่ใช่เรื่องของคุณ
+03-0235	talk	Hahaha, don't be like that, Yagami. This is fun, isn't it?	ฮ่าฮ่าฮ่า อย่าทำท่าแบบนั้นสิ ยากามิ สนุกดีไม่ใช่เหรอ?
+03-0236	talk	Shut the hell up.	หุบปากไปเลย
+03-0237	talk	Are you sure it's wise to take this attitude with me? Or would you rather try to find the next bomb without any hints?	แน่ใจเหรอว่าจะพูดกับฉันแบบนี้ เป็นเรื่องฉลาด หรือจะลองหาระเบิดลูกต่อไปโดย ไม่มีคำใบ้ดูล่ะ?
+03-0238	talk	Hahaha, that certainly changed your tune. I can hear it in your voice. I can feel the tension rising.	ฮ่าฮ่าฮ่า ท่าทีเปลี่ยนไปเลยนี่ ฟังจากน้ำเสียงก็รู้ รู้สึกได้เลยว่าความตึงเครียด เพิ่มขึ้น
+03-0239	talk	...What do you get out of this? What's your motive!?	...คุณได้อะไรจากเรื่องนี้? แรงจูงใจของคุณคืออะไร!?
+03-0240	talk	Kamurocho's security system is so full of holes, the city should have sunk by now.	ระบบรักษาความปลอดภัยของ คามุโรโจมันรั่วซะจนเมืองนี้ น่าจะจมไปนานแล้ว
+03-0241	talk	Don't you feel like a fool for paying taxes when this is what the government has to show for it?	คุณไม่รู้สึกโง่บ้างเหรอ ที่จ่ายภาษีไปได้แค่นี้จากรัฐบาล?
+03-0242	talk	A criminal wasting tax dollars on bombs has no business bringing that up.	อาชญากรที่ผลาญภาษีชาวบ้านไปทำระเบิด ไม่มีสิทธิ์มาพูดเรื่องนี้หรอก
+03-0243	talk	Hahaha, I like your style, Yagami-san. While I would love to debate this further, I'm afraid time's running short.	ฮ่าฮ่าฮ่า ฉันชอบสไตล์คุณนะ ยากามิซัง อยากจะเถียงเรื่องนี้ต่อเหมือนกัน แต่เสียดายเวลาเหลือน้อยแล้ว
+03-0244	talk	Let's get started! Shall we?	เริ่มกันเลยดีไหม?
+03-0245	talk	This new bomb I've set up in Kamurocho packs a real punch.	ระเบิดลูกใหม่ที่ฉันวางไว้ ในคามุโรโจนี่แรงไม่เบาเลยนะ
+03-0246	talk	There's an ox inside the inn. That's where you'll find it.	มีวัวอยู่ในโรงเตี๊ยม นั่นแหละคือที่ที่คุณจะเจอมัน
+03-0247	talk	An ox in an inn?	วัวในโรงเตี๊ยม?
+03-0248	talk	Hahaha... Five minutes, Yagami-san. The clock's ticking.	ฮ่าฮ่าฮ่า... ห้านาที ยากามิซัง เวลากำลังเดิน
+03-0249	talk	(Shit, not again! An ox in an inn... I have to think!)	(บ้าเอ๊ย ไม่อีกแล้ว! วัวในโรงเตี๊ยม... ต้องคิดให้ออก!)
+03-0250	talk	(Shit. I only have 3 minutes. Not good. What does he mean by ox...?)	(บ้าเอ๊ย เหลือแค่ 3 นาที แย่แล้ว เขาหมายถึงวัวอะไรกันแน่...?)
+03-0251	talk	(Barbecue? Kanrai, maybe?)	(ปิ้งย่าง? คันไรรึเปล่านะ?)
+03-0252	talk	(No, there's too many barbecue places to narrow it down to one...)	(ไม่ใช่ ร้านปิ้งย่างในเมืองนี้มีตั้งเยอะ จะเจาะจงร้านเดียวไม่ได้...)
+03-0253	talk	(An ox... A cow... Oh, Akaushimaru! But there are two Akaushimaru locations in Kamurocho!)	(วัว... วัวตัวผู้... อ้อ อากาอุชิมารุ! แต่อากาอุชิมารุในคามุโรโจมี ตั้งสองสาขา!)
+03-0254	talk	(That must be where the "inn" comes into play...)	(นั่นแหละที่ทำให้ "โรงเตี๊ยม" เข้ามาเกี่ยวข้อง...)
+03-0255	talk	(The apartments north of the city...?)	(อพาร์ตเมนต์ทางเหนือของเมือง...?)
+03-0256	talk	(No, that's not right...)	(ไม่ใช่ ไม่ใช่แบบนั้น...)
+03-0257	talk	(Inn... Hostel... Hotel!)	(โรงเตี๊ยม... โฮสเทล... โรงแรม!)
+03-0258	talk	(There's an Akaushimaru in the Hotel District!)	(มีอากาอุชิมารุอยู่ในย่านโรงแรมด้วย!)
+03-0259	talk	(No time to waste! That's where I have to be!)	(ไม่มีเวลาแล้ว! ต้องไปที่นั่น!)
+03-0260	talk	(An ox in an inn... He must have meant the Akaushimaru in the Hotel District!)	(วัวในโรงเตี๊ยม... เขาต้องหมายถึงอากาอุชิมารุใน ย่านโรงแรมแน่ๆ!)
+03-0261	talk	(Where's the bomb!?)	(ระเบิดอยู่ไหนกัน!?)
+03-0262	talk	(...There! I found it!)	(...อยู่นั่นไง! เจอแล้ว!)
+03-0263	talk	(Same design. I'll just pull the wire out like last time...)	(แบบเดียวกับที่แล้ว ดึงสายไฟออกเหมือนเดิมก็พอ...)
+03-0264	talk	(...There! Did it stop?)	(...นั่นไง! หยุดแล้วรึยัง?)
+03-0265	talk	(Yes, the countdown stopped!)	(ใช่ นับถอยหลังหยุดแล้ว!)
+03-0266	talk	(Phew... It didn't go off...)	(โล่งอก... มันไม่ระเบิด...)
+03-0267	talk	...You need to stop this.	...คุณต้องหยุดเรื่องนี้ได้แล้ว
+03-0268	talk	Hahaha, wonderful! You've done wonderfully, Yagami-san!	ฮ่าฮ่าฮ่า เยี่ยมไปเลย! คุณทำได้ดีมาก ยากามิซัง!
+03-0269	talk	Listen, you son of a—	ฟังนะ ไอ้เวร—
+03-0270	talk	Hold your tongue. If you want something to blame, blame Kamurocho, not me.	หุบปากไปเลย ถ้าคุณอยากโทษใครสักคน ก็ไปโทษคามุโรโจ ไม่ใช่ฉัน
+03-0271	talk	This couldn't happen if Kamurocho had invested properly in its security system!	เรื่องนี้จะไม่มีทางเกิดขึ้นเลย ถ้าคามุโรโจลงทุนกับระบบรักษา ความปลอดภัยอย่างจริงจัง!
+03-0272	talk	The automation of our lives... The citizens who accept it! The whole country is at fault!	การปล่อยให้ทุกอย่างในชีวิต เป็นระบบอัตโนมัติ... ประชาชนที่ยอมรับมันโดยไม่คิด! ทั้งประเทศนี่แหละที่ผิด!
+03-0273	talk	Is that anger I detect? What's wrong, you mad that nothing exploded?	นั่นคือความโกรธที่ผมได้ยินใช่ไหม? เป็นอะไร โมโหที่ไม่มีอะไรระเบิดหรือไง?
+03-0274	talk	Save your taunts. You'll eat those words when you fail next time. Hahaha...	เก็บคำเยาะเย้ยไว้เถอะ คุณจะต้องกลืนคำพูดพวกนั้น ตอนที่ทำพลาดในครั้งต่อไป ฮ่าฮ่าฮ่า...
+03-0275	talk	Next time!? Hey!	ครั้งต่อไปเหรอ!? เดี๋ยวก่อน!
+03-0276	talk	(Tch, he's still not done with this? What's his goal here? Damn it...)	(เชอะ ยังไม่เลิกอีกเหรอ? มันต้องการอะไรกันแน่? บ้าเอ๊ย...)
+03-0277	talk	(Looks like time's... up.)	(ดูเหมือนเวลาจะ... หมดแล้ว)
+03-0278	talk	Haha... Glad you decided to answer the phone. I was getting lonely.	ฮ่าฮ่า... ดีใจที่คุณยอมรับสาย ฉันเริ่มเหงาแล้วนะ
+03-0279	talk	Oh hey, Tsukumo! What brings you out into the real world?	เฮ้ สึคุโมะ! อะไรทำให้นายออกมาสู่โลกจริงได้ ล่ะเนี่ย?
+03-0280	talk	Hehe... Just something that piqued my curiosity...	เฮะๆ... แค่มีอะไรบางอย่างที่ทำให้ผมสงสัยน่ะ...
+03-0281	talk	What could you possibly be curious about that a search engine couldn't tell you?	มีเรื่องอะไรที่นายอยากรู้แต่ เสิร์ชเอนจินตอบไม่ได้กันล่ะ?
+03-0282	talk	Oh, I picked up on this electromagnetic wave with a weird frequency. It's not normal radios or taxis or anything.	อ๋อ ผมจับคลื่นแม่เหล็กไฟฟ้าประหลาดๆ ได้น่ะ ความถี่มันไม่ใช่วิทยุทั่วไป หรือแท็กซี่อะไรพวกนั้นเลย
+03-0283	talk	An electromagnetic wave?	คลื่นแม่เหล็กไฟฟ้า?
+03-0284	talk	Don't make me explain it... Hehe. I was bored anyway, so I figured I'd come check it out.	อย่าให้ผมต้องอธิบายเลย... เฮะๆ เผื่อๆ ผมก็เบื่ออยู่พอดี เลยออกมาดูหน่อย
+03-0285	talk	You've gotta be the only guy who would leave his house to check out an electromagnetic wave...	นายนี่คงเป็นคนเดียวในโลกมั้ง ที่ยอมออกจากบ้านมาดู คลื่นแม่เหล็กไฟฟ้า...
+03-0286	talk	(Hm... A blocked number. Is this the bomber again? Should I answer it?)	(หืม... เบอร์ที่ปิดกั้นไว้ นี่มันคนวางระเบิดอีกแล้วรึเปล่า? รับดีไหม?)
+03-0287	talk	Hahaha, shall we get straight to it, Yagami-san?	ฮ่าฮ่าฮ่า เข้าเรื่องกันเลยดีไหม ยากามิซัง?
+03-0288	talk	How many times do we need to go through this? You have a grudge against me or something?	ต้องเล่นแบบนี้กันอีกกี่รอบ? คุณมีเรื่องแค้นอะไรกับผมหรือไง?
+03-0289	talk	A grudge? You're the one who started this, Yagami-san. You disarmed the first bomb, remember?	แค้นเหรอ? คุณต่างหากที่เริ่มก่อน ยากามิซัง คุณไปปลดชนวนระเบิดลูกแรกไง จำได้ไหม?
+03-0290	talk	It would have gone off without a hitch, but <font_kind=yakuza_italic>you</font_kind> just had to go and play hero!	มันจะระเบิดได้อย่างราบรื่นเลยนะ ถ้า<font_kind=yakuza_italic>คุณ</font_kind>ไม่ดันไปเล่นเป็นฮีโร่!
+03-0291	talk	You're out of your damn mind.	คุณนี่มันเสียสติไปแล้วจริงๆ
+03-0292	talk	Shut up! No more talk! Let's do this!	หุบปาก! ไม่ต้องพูดอีกแล้ว! เริ่มกันเลย!
+03-0293	talk	There's a new bomb in Kamurocho... Just one! Stop it if you can, dumbass!	มีระเบิดลูกใหม่ในคามุโรโจ... แค่ลูกเดียว! หยุดมันให้ได้สิ ถ้ามึงทำได้นะ ไอ้โง่!
+03-0294	talk	Your hint is... The pigeon coos among the cherry blossoms!	คำใบ้ของคุณคือ... นกพิราบขันท่ามกลางดอกซากุระ!
+03-0295	talk	(He gets more and more cryptic... What does that even mean!?)	(มันพูดปริศนามากขึ้นเรื่อยๆ... นั่นมันหมายความว่ายังไงกันแน่!?)
+03-0296	talk	You seem kinda tense, Yagami-shi. Who were you talking to?	ท่าทางเครียดๆ นะ ยากามิ คุยโทรศัพท์กับใครมา?
+03-0297	talk	Sorry, Tsukumo. I don't have time to explain. See you later!	ขอโทษนะ สึคุโมะ ตอนนี้ไม่มีเวลาอธิบาย ไว้เจอกันทีหลัง!
+03-0298	talk	I wasn't asking because I was curious. I asked because that electromagnetic wave I was tracking just spiked.	ผมไม่ได้ถามเพราะอยากรู้เฉยๆ นะ แต่เพราะคลื่นแม่เหล็กไฟฟ้าที่ ผมตามอยู่มันเพิ่งพุ่งขึ้นมา
+03-0299	talk	Could be a coincidence, but I think you're up to something, Yagami-shi.	อาจจะบังเอิญก็ได้ แต่ผมว่านายกำลังทำอะไรบางอย่างอยู่นะ ยากามิ
+03-0300	talk	Listen, Tsukumo. Somewhere in Kamurocho, there's a bomb set to blow in the next five minutes.	ฟังนะ สึคุโมะ มีระเบิดถูกตั้งเวลาไว้ที่ไหน สักแห่งในคามุโรโจ จะระเบิดในอีกห้านาที
+03-0301	talk	A bomb? Hm.	ระเบิดเหรอ? หืม
+03-0302	talk	Yeah, remember that explosion a little while back? The culprit keeps calling me.	ใช่ จำเรื่องระเบิดครั้งก่อนได้ไหม? คนก่อเหตุยังโทรมาหาผมเรื่อยๆ เลย
+03-0303	talk	Ahh, now it all makes sense! Fascinating! This electromagnetic wave is probably your bomb!	อ้าห์ เข้าใจแล้วล่ะ! น่าสนใจมาก! คลื่นแม่เหล็กไฟฟ้านี่คงเป็น ระเบิดของนายแน่ๆ!
+03-0304	talk	Seriously? Can you use that signal to track down where he is?	จริงเหรอ? นายใช้สัญญาณนั้นตามหาตัวมันได้ไหม?
+03-0305	talk	Hehe, easy-peasy. You should still probably go stop it, though.	เฮะๆ ง่ายจะตาย แต่นายก็ควรรีบไปหยุดมันด้วยนะ
+03-0306	talk	Quiet, you. The crazy shit has been finding me! Anyway, make it happen, Tsukumo!	เงียบน่า เรื่องบ้าๆ พวกนี้มันหาผมเจอเองตลอดแหละ! เอาเถอะ รีบทำเลย สึคุโมะ!
+03-0307	talk	(All right, while Tsukumo handles that, I need to figure out this pigeon cooing in the cherry blossoms...)	(เอาล่ะ ระหว่างที่สึคุโมะจัดการเรื่องนั้น ผมต้องคิดเรื่องนกพิราบขัน ท่ามกลางดอกซากุระนี่ให้ออก...)
+03-0308	talk	(Shit. Not good. First let's figure out what the pigeon cooing is...)	(บ้าเอ๊ย แย่แล้ว ต้องคิดก่อนว่านกพิราบขันหมายถึงอะไร...)
+03-0309	talk	(Pigeon... eggs? Quail eggs? A yakitori place, maybe?)	(นกพิราบ... ไข่? ไข่นกกระทา? ร้านยากิโทริรึเปล่านะ?)
+03-0310	talk	(No, he said pigeon, not quail. And you don't grill pigeons, anyway.)	(ไม่ใช่ มันบอกว่านกพิราบ ไม่ใช่นกกระทา แล้วก็ไม่มีใครเอานกพิราบไปย่าง หรอกด้วย)
+03-0311	talk	(Pigeon cooing... Po... Po... Ah...! Poppo, the convenience store!)	(นกพิราบขัน... ป๊อ... ป๊อ... อ้า...! ป๊อปโป ร้านสะดวกซื้อไง!)
+03-0312	talk	(Dammit, but Kamurocho has like, four of them! Which one is it!?)	(บ้าเอ๊ย แต่คามุโรโจมีร้านป๊อปโปตั้งสี่สาขา! สาขาไหนกันแน่!?)
+03-0313	talk	(The "cherry blossoms" should narrow it down...)	("ดอกซากุระ" น่าจะช่วยให้แคบลงได้...)
+03-0314	talk	(Shangri-La? No, that place is anything but cherry blossoms...)	(แชงกรีล่า? ไม่สิ ที่นั่นไม่เกี่ยวกับดอกซากุระ เลยสักนิด...)
+03-0315	talk	(Cherry blossoms... Sakura... Spring... Grr!)	(ดอกซากุระ... ซากุระ... ฤดูใบไม้ผลิ... เกรอะ!)
+03-0316	talk	(Wait... Pink! Cherry blossoms are pink!)	(เดี๋ยวนะ... สีชมพู! ดอกซากุระสีชมพูนี่!)
+03-0317	talk	(...And there's a Poppo on Pink Street!)	(...แล้วก็มีป๊อปโปอยู่บน ถนนพิงก์สตรีทด้วย!)
+03-0318	talk	(No time to spare! I've gotta get to that Poppo on Pink Street!)	(ไม่มีเวลาแล้ว! ต้องรีบไปที่ป๊อปโปบนถนนพิงก์สตรีท!)
+03-0319	talk	(The pigeon coos amongst the cherry blossoms... It had to be this Poppo on Pink Street, right?)	(นกพิราบขันท่ามกลางดอกซากุระ... ต้องเป็นป๊อปโปบนถนนพิงก์สตรีทนี้แน่ๆ ใช่ไหม?)
+03-0320	talk	(There! I found it!)	(อยู่นั่นไง! เจอแล้ว!)
+03-0321	talk	(Just gotta rip the cord like last time...)	(แค่ดึงสายออกเหมือนครั้งที่แล้วก็พอ...)
+03-0322	talk	(That should do it...)	(แค่นี้ก็น่าจะเรียบร้อย...)
+03-0323	talk	Excuse me, sir, what exactly are you doing?	ขอโทษนะ คุณกำลังทำอะไรอยู่กันแน่?
+03-0324	talk	Huh? Oh, it's nothing...	หา? อ๋อ ไม่มีอะไรหรอก...
+03-0325	talk	W-What are you holding!? Is that... a bomb!? Ahhh!	น-นั่นคุณถืออะไรอยู่!? นั่นมัน... ระเบิดเหรอ!? อ๊าาา!
+03-0326	talk	No, wait. This isn't...	ไม่ใช่ เดี๋ยวก่อน นี่มันไม่ใช่...
+03-0327	talk	Ahhh! You're the bomber, aren't you!? Police! Somebody help!	อ๊าาา! คุณคือคนวางระเบิดใช่ไหม!? ตำรวจ! ใครก็ได้ช่วยด้วย!
+03-0328	talk	Hey, no, no! Calm down! I'm a detective, not a bomber!	เฮ้ ไม่ใช่ ไม่ใช่! ใจเย็นก่อน! ผมเป็นนักสืบ ไม่ใช่คนวางระเบิด!
+03-0329	talk	Indeed! This man is not the bomber. Not at all.	ถูกต้องแล้ว! ชายคนนี้ไม่ใช่คนวางระเบิดหรอก ไม่ใช่แน่นอน
+03-0330	talk	Tsukumo... Good timing. Did you track the guy down?	สึคุโมะ... มาถูกจังหวะเลย ตามรอยมันเจอรึยัง?
+03-0331	talk	Did you even doubt it? Hehe. It's that guy. The electromagnetic waves are coming straight from him.	นายยังสงสัยอีกเหรอ? เฮะๆ คือคนนั้นแหละ คลื่นแม่เหล็กไฟฟ้าส่งมาจากตัว เขาโดยตรงเลย
+03-0332	talk	Hahaha... Not bad, you two! Quite the detective!	ฮ่าฮ่าฮ่า... ไม่เลวเลยนะ พวกนาย! สมเป็นนักสืบจริงๆ
+03-0333	talk	You... I'm tired of your games! And the cops are going to want to discuss a few things, so you're coming with me!	คุณ... ผมเบื่อเกมของคุณแล้ว! แล้วตำรวจก็คงอยากคุยกับคุณหลาย เรื่องด้วย ไปกับผมเดี๋ยวนี้!
+03-0334	talk	Don't take another step! You see this!?	อย่าขยับมาอีกก้าวเดียว! เห็นนี่ไหมล่ะ!?
+03-0335	talk	Hahaha, quite a sight, isn't it? You see, <font_kind=yakuza_italic>I</font_kind> am the last bomb!	ฮ่าฮ่าฮ่า เป็นภาพที่น่าตื่นตาดีใช่ไหมล่ะ? มึงรู้อะไรไหม <font_kind=yakuza_italic>กู</font_kind>นี่แหละคือระเบิดลูกสุดท้าย!
+03-0336	talk	What are you trying to pull!? What do you gain by blowing yourself up?	คุณจะทำอะไรกันแน่!? ระเบิดตัวเองแล้วจะได้อะไรขึ้นมา?
+03-0337	talk	This town's security is trash! And I need to make them see that!	ระบบรักษาความปลอดภัยของเมือง นี้มันห่วยแตก! แล้วกูต้องทำให้พวกมันเห็น ความจริงข้อนี้!
+03-0338	talk	Well, this guy was apparently fired from a security firm three months ago. Does that answer your question?	อ้อ เท่าที่รู้มา เขาถูกไล่ออกจากบริษัทรักษา ความปลอดภัยเมื่อสามเดือนก่อน น่ะ พอจะตอบคำถามนายได้ไหม?
+03-0339	talk	You're fast... And yes. I'm going to teach those money-grubbing sons of bitches a lesson they won't soon forget!	เร็วจริงๆ... แล้วก็ใช่ กูจะสั่งสอนไอ้พวกเห็นแก่เงิน นั่นให้เจ็บจนจำไปตลอดชีวิต!
+03-0340	talk	I gave everything I had to this city!	กูทุ่มเททุกอย่างที่มีให้กับเมืองนี้!
+03-0341	talk	I created a detailed proposal to revamp this entire city's security...! And they just laughed at the cost!	กูร่างข้อเสนอปรับปรุงระบบรักษา ความปลอดภัยของ ทั้งเมืองไว้อย่างละเอียด...! แล้วพวกมันก็แค่หัวเราะเยาะ เรื่องค่าใช้จ่าย!
+03-0342	talk	It's clear these assholes won't do shit until something serious happens!	เห็นชัดๆ เลยว่าไอ้พวกสารเลวนี่จะไม่ทำอะไรเลย จนกว่าจะมีเรื่องร้ายแรงเกิดขึ้น!
+03-0343	talk	You can talk all you want... But I think we both know all you really want is revenge.	คุณจะพูดยังไงก็ได้... แต่ผมว่าเราทั้งคู่รู้ดีว่าสิ่ง ที่คุณต้องการจริงๆ คือการแก้แค้น
+03-0344	talk	Revenge has nothing to do with it! I'm sacrificing myself to show the people of Kamurocho the truth!	เรื่องแก้แค้นไม่เกี่ยวอะไรด้วยเลย! กูกำลังสละตัวเองเพื่อให้คน คามุโรโจได้เห็นความจริง!
+03-0345	talk	And with that... bombs away!	แล้วก็... ปล่อยระเบิดกันเลย!
+03-0346	talk	No, stop!	ไม่นะ หยุด!
+03-0347	talk	I'm afraid that won't work! I hacked into your transmitter and changed the frequency.	เกรงว่าจะใช้ไม่ได้แล้วล่ะ! ผมแฮกเข้าไปในเครื่องส่งสัญญาณ ของนายแล้วเปลี่ยนความถี่ไปแล้ว
+03-0348	talk	You're done. Come quietly!	จบเกมแล้ว มาแต่โดยดีเถอะ!
+03-0349	talk	Hell no! I'm not going down without a fight!	ไม่มีทาง! กูจะไม่ยอมแพ้ง่ายๆ หรอก!
+03-0350	talk	(Damn! Time is... up.)	(บ้าเอ๊ย! เวลา... หมดแล้ว)
+03-0351	talk	Thank god that's over...	โล่งอกไปที ในที่สุดก็จบซะที...
+03-0352	talk	G-Guuggh...	อ๊า... โอ๊ย...
+03-0353	talk	We go now to breaking news. The man suspected of the bombing incident in Kamurocho has finally been apprehended.	ข่าวด่วนที่เพิ่งเข้ามา ผู้ต้องสงสัยคดีวางระเบิด ในคามุโรโจถูกจับกุมตัวได้แล้ว
+03-0354	talk	The suspect, Ryu Asaka, a 34 year-old convenience store employee, was fired from his security firm earlier this year.	ผู้ต้องสงสัยคือริว อาซากะ พนักงานร้านสะดวกซื้อวัย 34 ปี ที่ถูกไล่ออกจากบริษัทรักษา ความปลอดภัยเมื่อต้นปีนี้
+03-0355	talk	According to police, the rejection of Asaka's security proposal was the motive for his actions.	ตำรวจระบุว่าสาเหตุที่อาซากะก่อเหตุ มาจากการที่ข้อเสนอด้าน ความปลอดภัยของเขาถูกปฏิเสธ
+03-0356	talk	Asaka's private residence has been searched, and we are told some explosive devices have been deactivated.	บ้านพักส่วนตัวของอาซากะถูก ตรวจค้นแล้ว และได้รับแจ้งว่ามีการปลดชนวน อุปกรณ์ระเบิดบางส่วนไปแล้ว
+03-0357	talk	Well, it sounds like this is all wrapped up. I owe you one, Tsukumo.	เอาล่ะ ดูเหมือนเรื่องนี้จะจบลงแล้ว ผมติดหนี้บุญคุณนายนะ สึคุโมะ
+03-0358	talk	Not at all. That was like something straight out of a video game.	ไม่หรอก เรื่องนี้เหมือนหลุดออกมาจาก วิดีโอเกมเลยล่ะ
+03-0359	talk	Well, you hungry? It's my treat.	นี่ นายหิวไหม? ผมเลี้ยงเอง
+03-0360	talk	Hehe, nah, no need, Yagami. I've actually got a date with a ladyfriend of mine.	เฮะๆ ไม่ต้องหรอก ยากามิ จริงๆ แล้วผมมีนัดกับผู้หญิงที่คบกันอยู่น่ะ
+03-0361	talk	What? Seriously?	หา? จริงเหรอ?
+03-0362	talk	I fixed an issue she was having with her phone at the net café, and she was so grateful, we're having dinner. Hehe.	ผมช่วยแก้ปัญหาโทรศัพท์ให้เธอ ที่ร้านเน็ตคาเฟ่ แล้วเธอก็ซาบซึ้งใจมาก เลยชวนไปกินมื้อเย็นด้วยกัน เฮะๆ
+03-0363	talk	Damn... For real? And you're going dressed like that?	โห... จริงดิ? แล้วนายจะไปแต่งตัวแบบนี้เนี่ยนะ?
+03-0364	talk	She's weird, Yagami. She likes me just the way I am. Even said I was "cute." Hehehehe.	เธอแปลกดีนะ ยากามิ เธอชอบผมแบบที่เป็นอยู่นี่แหละ ยังบอกว่าผม "น่ารัก" อีกต่างหาก เฮะๆๆๆ
+03-0365	talk	Wow. Are you... some kinda lady's man in your circles, Tsukumo?	โห นายนี่... เป็นเจ้าชู้ในกลุ่มเพื่อนรึไง สึคุโมะ?
+03-0366	talk	Hehe, what can I say? I must be sitting on the F5 key, because my ass is refreshing.	เฮะๆ จะให้พูดว่าไงดีล่ะ? คงเพราะผมนั่งทับปุ่ม F5 อยู่มั้ง เพราะตูดผมมันรีเฟรชตลอดเวลาเลย
+03-0367	talk	Oh for... Next time I'm letting you get blown up.	โธ่เอ๊ย... ครั้งหน้าผมจะปล่อยให้นายโดน ระเบิดไปเลยละกัน
+03-0368	talk	You're persistent, you know? Who are you?	คุณนี่ดื้อจริงๆ นะ คุณเป็นใครกันแน่?
+03-0369	talk	Fuck you! When I call, you answer it, shithead!	ไอ้เหี้ย! เวลากูโทรมา มึงต้องรับสิวะ ไอ้สัส!
+03-0370	talk	Whoa, no need to get flustered. I didn't think we had that kind of relationship.	โห ไม่ต้องหัวเสียขนาดนั้นก็ได้ ผมไม่รู้เลยว่าเรามี ความสัมพันธ์แบบนั้นต่อกัน
+03-0371	talk	If you don't shut that smartass mouth, I'm gonna blow this thing right now, asshole!	ถ้ามึงไม่หุบปากกวนตีนนั่นซะ กูจะจุดระเบิดเดี๋ยวนี้เลย ไอ้สารเลว!
+03-0372	talk	F-Fine, fine. Let's just talk this through like rational adults...	โ-โอเค โอเค คุยกันดีๆ แบบผู้ใหญ่มีเหตุผลเถอะนะ...
+03-0373	talk	Hahaha... That's better. I'm the one in charge here.	ฮ่าฮ่าฮ่า... แบบนี้สิ กูเป็นคนคุมเกมตรงนี้
+03-0374	talk	But speaking of magnets, you're a real magnet for trouble, Yagami-shi! Hehehe.	แต่พูดถึงเรื่องแม่เหล็กแล้ว นายนี่เป็นแม่เหล็กดึงดูดปัญหาจริงๆ นะ ยากามิ เฮะๆๆ
+03-0375	talk	Ohoho... Ahahahahaha! I think NOT, sir!	โอโฮ่โฮ่... อะฮ่าฮ่าฮ่าฮ่าฮ่า! ผมว่าไม่จริงหรอกท่าน!
+03-0376	talk	You there. There's something I must tell you.	คุณคนนั้น ดิฉันมีเรื่องต้องบอกค่ะ
+03-0377	talk	A disaster will befall you. A calamity of water, to be specific.	ภัยพิบัติกำลังจะมาเยือนคุณ พูดให้เจาะจงคือลางร้ายแห่งสายน้ำ
+03-0378	talk	O-Oh. I've never put much stock in fortunetelling, lady.	อ-อ้อ ผมไม่ค่อยเชื่อเรื่องดูดวง เท่าไหร่หรอกครับ คุณผู้หญิง
+03-0379	talk	This is no fortune. It is a prophecy.	นี่ไม่ใช่การดูดวงนะคะ นี่คือคำพยากรณ์
+03-0380	talk	In other words, I have seen your future. You cannot escape fate.	กล่าวอีกนัยหนึ่งคือ ดิฉันได้เห็นอนาคตของคุณแล้ว คุณหนีชะตากรรมไปไม่พ้นหรอกค่ะ
+03-0381	talk	Tread carefully. It will happen sooner than you think.	ระมัดระวังไว้ให้ดี มันจะเกิดขึ้นเร็วกว่าที่คุณคิดค่ะ
+03-0382	talk	Thanks... for the warning.	ขอบคุณ... ที่เตือนนะครับ
+03-0383	talk	(She probably preys on people's insecurities to lure them into whatever she's shilling.)	(เธอคงหากินกับความไม่มั่นคงในใจคน เพื่อล่อให้คนหลงเชื่อในสิ่งที่ เธอขายอยู่สินะ)
+03-0384	talk	Watch it!	ระวัง!
+03-0385	talk	A calamity of water... Once again, my prophecy comes to fruition.	ลางร้ายแห่งสายน้ำ... คำพยากรณ์ของดิฉันเป็นจริง อีกครั้งแล้ว
+03-0386	talk	Wasn't that just a coincidence?	นั่นมันแค่เรื่องบังเอิญไม่ใช่เหรอ?
+03-0387	talk	There's no such thing. All that happens is a predetermined certainty.	ไม่มีสิ่งที่เรียกว่าบังเอิญหรอกค่ะ ทุกสิ่งที่เกิดขึ้นล้วนถูกกำหนด ไว้แล้วทั้งสิ้น
+03-0388	talk	Oh, I get it. You're in it together with the guy on the bike, right?	อ๋อ เข้าใจแล้ว คุณสมรู้ร่วมคิดกับคนขี่จักรยาน คนนั้นใช่ไหมล่ะ?
+03-0389	talk	If you think I'm trying to swindle you for money, you couldn't be more wrong. I only wish to forewarn of impending doom.	ถ้าคุณคิดว่าดิฉันพยายามหลอกเอา เงินคุณ คุณคิดผิดถนัดเลยค่ะ ดิฉันแค่อยากเตือนล่วงหน้าถึง หายนะที่กำลังจะมาถึง เท่านั้นเอง
+03-0390	talk	Oh, right. Sure.	อ๋อ ได้ครับ ได้
+03-0391	talk	Hey! Amane-san!	เฮ้! อามาเนะซัง!
+03-0392	talk	Have you taken proper precaution for the black calamity that will befall you?	คุณเตรียมการป้องกันลางร้ายสีดำ ที่กำลังจะมาเยือนไว้ เรียบร้อยหรือยังคะ?
+03-0393	talk	How can I, when your prophecies are so damn vague! At least give me some details!	จะให้ฉันเตรียมได้ยังไง ในเมื่อคำพยากรณ์ของเธอมัน คลุมเครือสุดๆ! ให้รายละเอียดมาหน่อยสิ!
+03-0394	talk	I'm sorry, but all I can see are shadows of the future. I lack the ability to decipher their exact contents...	ดิฉันขอโทษด้วยค่ะ แต่สิ่งที่ดิฉันมองเห็นได้มี เพียงเงาของอนาคตเท่านั้น ดิฉันไม่มีความสามารถที่จะ ถอดรหัสรายละเอียดที่แน่ชัดได้...
+03-0395	talk	Ugh, you're useless! ...Huh?	แหวะ ไม่ได้เรื่องเลย! ...เอ๊ะ?
+03-0396	talk	A black... jacket?	แจ็กเก็ตสี... ดำ?
+03-0397	talk	Aghh!	อ๊าก!
+03-0398	talk	What's his deal?	เขาเป็นใครกัน?
+03-0399	talk	That's Meguro-san, a regular of mine.	นั่นคือเมกุโระซัง ลูกค้าประจำของดิฉันค่ะ
+03-0400	talk	An ill-fated man who's fallen victim to many, many disasters.	ชายผู้อาภัพที่ตกเป็นเหยื่อของ ภัยพิบัตินับครั้งไม่ถ้วน
+03-0401	talk	Though my prophecies have averted the worst of them... I am rather offended that he fails to see this.	แม้คำพยากรณ์ของดิฉันจะช่วย ป้องกันเหตุร้ายแรงที่สุด ไว้ได้ก็ตาม... แต่ดิฉันก็ค่อนข้างขุ่นเคืองที่ เขามองไม่เห็นความจริงข้อนี้
+03-0402	talk	So why did he just run away from me?	แล้วทำไมเขาถึงวิ่งหนีผมไปล่ะ?
+03-0403	talk	He bears the sign of a black disaster. Your black garb must have frightened him.	เขามีลางแห่งภัยพิบัติสีดำติดตัวอยู่ ชุดสีดำของคุณคงทำให้เขาตกใจกลัวค่ะ
+03-0404	talk	...Poor, twisted soul. He is losing his way, unable to cope with the pressure of fate.	...น่าสงสารจิตวิญญาณที่บิดเบี้ยวไป เขากำลังหลงทาง ไม่อาจรับมือกับแรงกดดันของโชคชะตาได้
+03-0405	talk	Personally, I think all your negative predictions are probably just making him paranoid.	ส่วนตัวผมว่าคำทำนายแง่ลบ ทั้งหมดของคุณนั่นแหละ ที่ทำให้เขาหวาดระแวงไปเอง
+03-0406	talk	...There may be some truth in what you say. I can't say I'm not concerned.	...สิ่งที่คุณพูดอาจมีความจริงอยู่บ้าง ดิฉันปฏิเสธไม่ได้ว่าเป็นห่วง เขาเหมือนกันค่ะ
+03-0407	talk	Good sir, I have a request.	ท่านสุภาพบุรุษ ดิฉันมีคำขอค่ะ
+03-0408	talk	What kind of request?	คำขออะไรกัน?
+03-0409	talk	Will you follow that man and shield him from the black disaster?	คุณจะติดตามชายคนนั้นและปกป้อง เขาจากลางร้ายสีดำได้ไหมคะ?
+03-0410	talk	Didn't you say your prophecies are absolute? If that's true, what could I even do?	คุณไม่ได้บอกเหรอว่าคำพยากรณ์ ของคุณเป็นสิ่งที่ หลีกเลี่ยงไม่ได้? ถ้าจริงอย่างนั้น ผมจะไปทำอะไรได้ล่ะ?
+03-0411	talk	Oh, the calamity will occur, that much is certain. But that doesn't mean you can't minimize the damage.	อ๋อ ภัยพิบัติจะเกิดขึ้นแน่นอนค่ะ นั่นคือสิ่งที่แน่นอนที่สุด แต่นั่นไม่ได้แปลว่าคุณจะลด ความเสียหายลงไม่ได้
+03-0412	talk	If you're prepared for a fire, does it not minimize its toll?	ถ้าคุณเตรียมพร้อมรับมือกับไฟไหม้ นั่นไม่ช่วยลดความสูญเสียหรอกหรือคะ?
+03-0413	talk	Hmm, I guess that's true...	หืม ก็จริงอยู่นะ...
+03-0414	talk	Besides, subtlety is your specialty, is it not, detective?	อีกอย่าง ความละเมียดละไมก็เป็นความถนัด ของคุณอยู่แล้วไม่ใช่หรือคะ คุณนักสืบ?
+03-0415	talk	...! How did you know that?	...! คุณรู้ได้ยังไง?
+03-0416	talk	It's simple, really... I need only to decipher your aura.	มันง่ายมากค่ะ... ดิฉันแค่ต้องถอดรหัสออร่าของคุณ เท่านั้นเอง
+03-0417	talk	I suppose, but you know I'm not a charity, right? So how's a discounted rate of 15,000 yen sound?	ก็คงงั้น แต่คุณก็รู้นะว่าผมไม่ใช่องค์กร การกุศล เอาเป็นราคาพิเศษ 15,000 เยนเป็นไงล่ะ?
+03-0418	talk	The price is fair, and so the die is cast.	ราคานั้นยุติธรรมดี ฉะนั้นเกมก็เริ่มขึ้นแล้วค่ะ
+03-0419	talk	...Something like that.	...ประมาณนั้นแหละ
+03-0420	talk	Tell me your name. I am Amane.	บอกชื่อคุณมาสิคะ ดิฉันชื่ออามาเนะ
+03-0421	talk	I'm Yagami. Nice to meet you.	ผมยากามิ ยินดีที่ได้รู้จักครับ
+03-0422	talk	Yagami-san. You must mitigate that man's impending "black disaster." Be especially wary of black objects.	ยากามิซัง คุณต้องช่วยบรรเทา "ลางร้ายสีดำ" ที่กำลังจะมาถึงชายคนนั้นให้ได้ค่ะ โดยเฉพาะต้องระวังวัตถุสีดำเป็นพิเศษ
+03-0423	talk	(That guy went down Pink Street. Maybe I'll see if I can find him.)	(หมอนั่นเดินลงไปทางถนนพิงก์สตรีท ลองไปตามหาดูดีกว่า)
+03-0424	talk	(There. That's him.)	(อยู่นั่นไง คนนั้นแหละ)
+03-0425	talk	(He already knows what I look like because of that stupid prophecy. I better make sure he doesn't see me.)	(เขารู้หน้าผมอยู่แล้วเพราะ คำพยากรณ์บ้าๆ นั่น ต้องระวังไม่ให้เขาเห็นผมดีกว่า)
+03-0426	talk	Hey. How about a drink? It's yours for 2,000 yen.	เฮ้ ดื่มสักแก้วไหม? แค่ 2,000 เยนเท่านั้น
+03-0427	talk	...Yeah. I could use a drink, I feel like I'm losing my mind.	...เอาสิ ฉันอยากดื่มอยู่พอดี รู้สึกเหมือนจะเสียสติอยู่แล้ว
+03-0428	talk	Excellent! Our bar is right over here.	เยี่ยมเลย! บาร์ของเราอยู่ตรงนี้เอง
+03-0429	talk	(Black Alice? No way...)	(แบล็กอลิซ? ไม่จริงน่า...)
+03-0430	talk	You're not going anywhere until you pay up, you son of a bitch!	มึงไปไหนไม่ได้จนกว่าจะจ่ายเงินให้ครบ ไอ้สารเลว!
+03-0431	talk	100,000 yen for a single bottle of beer!? That's ridiculous!	เบียร์ขวดเดียวตั้ง 100,000 เยนเลยเหรอ!? มันไร้สาระสิ้นดี!
+03-0432	talk	You kidding? That black beer is legit! It's made from water by melting the goddamn South Pole or some shit!	มึงล้อกูเล่นรึไง? เบียร์ดำนั่นของแท้เลยนะ! ทำจากน้ำที่ละลายมาจาก ขั้วโลกใต้แม่งเลยว่ะ!
+03-0433	talk	(The beer is black too?)	(เบียร์นี่สีดำด้วยเหรอ?)
+03-0434	talk	No way! I saw you guys pour it from another can!	ไม่จริงหรอก! ฉันเห็นพวกแกเทมันมาจากกระป๋อง อื่นชัดๆ!
+03-0435	talk	Shut the fuck up! Just hand over your fucking wallet, or it'll be your body melting at the South Pole!	หุบปากซะเหี้ย! ส่งกระเป๋าตังค์มึงมาซะดีๆ ไม่งั้นร่างมึงจะได้ไปละลายที่ ขั้วโลกใต้แทน!
+03-0436	talk	Hey. That's enough.	เฮ้ พอได้แล้ว
+03-0437	talk	The barker said the beer would cost 2,000 yen.	คนเชิญชวนบอกว่าเบียร์ราคา 2,000 เยนนี่นา
+03-0438	talk	Besides, baiting customers with alcohol is against the law.	อีกอย่าง การใช้เหล้าล่อลูกค้าแบบนี้มัน ผิดกฎหมายด้วยนะ
+03-0439	talk	...You a cop?	...มึงเป็นตำรวจเหรอ?
+03-0440	talk	I'm a private investigator. I've been asked to watch out for this guy.	ผมเป็นนักสืบเอกชน มีคนขอให้ผมคอยดูแลเขาคนนี้อยู่น่ะ
+03-0441	talk	Oh, a bodyguard, huh?	อ้อ บอดี้การ์ดสินะ?
+03-0442	talk	Then you can guard him by paying for him! Leave us your wallet, ya smart ass!	ถ้างั้นก็จ่ายเงินแทนมันซะสิ ถือว่าดูแลกันไป! เอากระเป๋าตังค์มึงมาซะ ไอ้เจ้าเล่ห์!
+03-0443	talk	This should cover a single beer.	เท่านี้น่าจะพอสำหรับเบียร์แก้ว เดียวนะ
+03-0444	talk	W-Who are you!? And since when did you become my bodyguard!?	แ-แกเป็นใครกัน!? แล้วตั้งแต่เมื่อไหร่ที่แกกลาย มาเป็นบอดี้การ์ดของฉัน!?
+03-0445	talk	That fortune teller, Amane-san, asked me to protect you. She's the one you should be thanking.	หมอดูคนนั้น อามาเนะซัง เป็นคนขอให้ผมมาปกป้องคุณเองแหละ ต้องขอบคุณเธอนะ
+03-0446	talk	Wait... That leather jacket... You're the harbinger of my damnation!	เดี๋ยวนะ... แจ็กเก็ตหนังนั่น... แกคือผู้นำพาหายนะมาสู่ฉัน!
+03-0447	talk	I'm so tired of this!	ฉันเหนื่อยกับเรื่องพวกนี้เต็มทีแล้ว!
+03-0448	talk	Man. All this talk of calamity must be getting to him.	แหม เรื่องลางร้ายพวกนี้คงกดดันเขา หนักจริงๆ สินะ
+03-0449	talk	(But then again... She called it. Is Amane-san the real deal?)	(แต่ก็นะ... เธอทายถูกจริงๆ ด้วย อามาเนะซังนี่ของจริงหรือเปล่านะ?)
+03-0450	talk	Here. For your troubles.	นี่ค่ะ ค่าเหนื่อยของคุณ
+03-0451	talk	...How do you even make a living?	...แล้วคุณหาเลี้ยงชีพยังไงกันเนี่ย?
+03-0452	talk	Like I said, I am unswayed by petty materialism. I simply seek to use my power in aid of those who need it.	อย่างที่บอกไปค่ะ ดิฉันไม่หวั่นไหวกับเรื่อง วัตถุนิยมเล็กๆ น้อยๆ ดิฉันเพียงต้องการใช้พลัง ของตัวเองช่วยเหลือคนที่ ต้องการเท่านั้น
+03-0453	talk	I see. Guess you really are an altruist.	อ๋อ งั้นคุณก็เป็นคนเสียสละเพื่อ ผู้อื่นจริงๆ สินะ
+03-0454	talk	But that guy was pretty paranoid. Think he's gonna be okay?	แต่หมอนั่นก็หวาดระแวงหนักอยู่นะ คิดว่าเขาจะไหวไหม?
+03-0455	talk	He does seem to be a magnet for catastrophe. I shall have to warn him when I see him next.	เขาดูเหมือนจะเป็นแม่เหล็ก ดึงดูดหายนะจริงๆ ค่ะ ดิฉันคงต้องเตือนเขาอีกครั้ง ตอนที่เจอกันคราวหน้า
+03-0456	talk	Ahh, that wasn't really what I was getting at...	อ้า ผมไม่ได้หมายความแบบนั้นเลยนะ...
+03-0457	talk	Maybe you could uh, try to soften the blow a little? Phrasing is everything...	บางที คุณอาจจะลองพูดให้มันนุ่มนวล ขึ้นหน่อยได้ไหม? การเลือกใช้คำมันสำคัญมากนะ...
+03-0458	talk	Hmm. I'll take that into consideration.	หืม ดิฉันจะเก็บไปพิจารณาดูค่ะ
+03-0459	talk	(...Is she trying to sell me something? Should I hear her out?)	(...เธอพยายามจะขายอะไรให้ผมรึเปล่านะ? ควรฟังเธอพูดต่อดีไหม?)
+03-0460	talk	(I don't really want to deal with this, but...)	(ผมไม่ค่อยอยากยุ่งเรื่องนี้ เท่าไหร่หรอกนะ แต่...)
+03-0461	talk	What about?	เรื่องอะไร?
+03-0462	talk	Sorry. I'm in bit of a hurry.	ขอโทษนะครับ ผมกำลังรีบอยู่หน่อย
+03-0463	talk	...Oh.	...อ้อ
+03-0464	talk	(What should I do? Do I accept?)	(ควรทำยังไงดี? รับข้อเสนอไหม?)
+03-0465	talk	Sorry. I'm a bit busy right now...	ขอโทษนะครับ ตอนนี้ผมค่อนข้างยุ่งอยู่...
+03-0466	talk	Very well... If you have a change of heart, there may still be time.	ได้ค่ะ... ถ้าคุณเปลี่ยนใจเมื่อไหร่ ก็อาจจะยังทันเวลาอยู่
+03-0467	talk	Yeah, I'll think about it.	ครับ เดี๋ยวผมลองคิดดูก่อน
+03-0468	talk	Hey... About that request...	นี่... เรื่องคำขอนั้นน่ะ...
+03-0469	talk	Will you accept?	คุณจะรับไหมคะ?
+03-0470	talk	(All right. Gotta find Meguro...)	(เอาล่ะ ต้องไปตามหาเมกุโระ...)
+03-0471	talk	Yagami-san. A moment of your time, if you would.	ยากามิซัง ขอเวลาสักครู่ได้ไหมคะ
+03-0472	talk	Do you remember Meguro-san? I have seen yet another catastrophe in his fate.	คุณจำเมกุโระซังได้ไหมคะ? ดิฉันมองเห็นหายนะอีกครั้งใน โชคชะตาของเขาแล้ว
+03-0473	talk	You mean that guy who's pretty much losing his mind because you keep predicting disasters for him?	หมายถึงคนที่แทบจะเสียสติเพราะ คุณคอยทำนายภัยพิบัติให้ เขาตลอดคนนั้นน่ะเหรอ?
+03-0474	talk	What's going on with him now?	ตอนนี้เขาเป็นยังไงบ้าง?
+03-0475	talk	It was not long after you assisted him last time. I was struck by yet another vision...	ไม่นานหลังจากที่คุณช่วยเขาไว้ ครั้งก่อน ดิฉันก็ได้เห็นนิมิตอีกครั้ง...
+03-0476	talk	And within, I beheld a calamity of white intertwining with his calamity of black.	และในนิมิตนั้น ดิฉันเห็นลางร้ายสีขาวพันเกี่ยว อยู่กับลางร้ายสีดำของเขา
+03-0477	talk	Black... and white? So there were two colors this time?	ดำ... กับขาว? แปลว่าคราวนี้มีสองสีเลยเหรอ?
+03-0478	talk	Yes. Perhaps he will be mauled by a panda, or something to that effect.	ใช่ค่ะ บางทีเขาอาจจะถูกหมีแพนด้าทำร้าย หรืออะไรทำนองนั้น
+03-0479	talk	(Mauled by a panda? I can never tell if this lady's serious or not...)	(โดนแพนด้าทำร้ายเหรอ? ผมไม่เคยรู้เลยว่าผู้หญิงคนนี้ พูดจริงหรือล้อเล่นกันแน่...)
+03-0480	talk	And I assume this calamity hasn't happened yet?	แล้วผมเข้าใจถูกไหมว่าลางร้าย นี้ยังไม่เกิดขึ้น?
+03-0481	talk	Correct. The sign of his calamity was still lingering in the air when I saw him earlier on Tenkaichi Street.	ถูกต้องค่ะ สัญญาณแห่งหายนะของเขายังคงลอย อยู่ในอากาศ ตอนที่ดิฉันเห็นเขาบนถนนเทนไคจิ เมื่อครู่นี้
+03-0482	talk	Yagami-san. I implore you to help this man. Can you protect him from his inevitable fate?	ยากามิซัง ดิฉันขอวิงวอนให้คุณช่วยชายคนนี้ที คุณจะปกป้องเขาจากโชคชะตาที่ หลีกเลี่ยงไม่ได้นี้ได้ไหมคะ?
+03-0483	talk	As long as we're talking business, sure. 15,000 yen, same as last time?	ตราบใดที่เป็นเรื่องธุรกิจ ได้เลยครับ 15,000 เยน เท่าเดิมใช่ไหม?
+03-0484	talk	Yes, that's quite agreeable. Thank you in advance.	ใช่ค่ะ ตกลงด้วยความยินดี ขอบคุณล่วงหน้านะคะ
+03-0485	talk	You said you saw Meguro on Tenkaichi Street? I guess I'll start there.	คุณบอกว่าเห็นเมกุโระอยู่บน ถนนเทนไคจิใช่ไหม? งั้นเริ่มจากตรงนั้นก่อนแล้วกัน
+03-0486	talk	(There's Meguro-san. It looks like he's had one too many.)	(นั่นเมกุโระซัง ท่าทางเมาหนักไปหน่อยแล้วนะ)
+03-0487	talk	(Their clothes... Could they be the calamity Amane-san saw?)	(เสื้อผ้าของพวกเขา... นี่จะใช่ลางร้ายที่อามาเนะซัง เห็นรึเปล่านะ?)
+03-0488	talk	*hiccup* I'm sorr—	*สะอึก* ข... ขอโทษ—
+03-0489	talk	Waaaah! Black! White! Please, have mercy!	ว้าาาาห์! ดำ! ขาว! ขอความเมตตาด้วยเถอะ!
+03-0490	talk	Huh? What's with this fool?	หา? ไอ้บ้านี่มันเป็นอะไรวะ?
+03-0491	talk	Eh, c'mon bro, leave him be. He'll probably puke on you.	เฮ้ย เพื่อน ปล่อยมันไปเหอะ เดี๋ยวมันอ้วกใส่แกหรอก
+03-0492	talk	Yeah, fuck that. Watch where you're goin' next time, dumbass!	แม่ง ช่างมันเถอะ ไอ้โง่ ทีหลังดูทางเดินซะบ้างนะ!
+03-0493	talk	(Oh... I guess they weren't the calamity. Now even I'm starting to feel paranoid.)	(อ้อ... งั้นพวกนั้นไม่ใช่ลางร้ายสินะ ตอนนี้ผมเริ่มจะระแวงไปหมดแล้ว)
+03-0494	talk	(A dog? No way that's it... Is it?)	(หมาเหรอ? ไม่มีทางที่จะเป็นมัน... จริงเหรอ?)
+03-0495	talk	Aghh! That dog is black and white! Ahhh! Be a good boy, don't bite me!	อ้าาา! หมาตัวนั้นสีดำขาว! อ๊าาา! เป็นเด็กดีนะ อย่ากัดนะ!
+03-0496	talk	Ahhhhhhhh! A black and white car! Please don't run me over!	อ๊าาาาาาห์! รถสีดำขาว! ได้โปรดอย่าชนนะ!
+03-0497	talk	(He's still okay... But maybe that's being generous...)	(เขายังโอเคอยู่นะ... แต่ก็อาจจะใจดีเกินไปที่พูดแบบนั้น...)
+03-0498	talk	Hm? Isn't this where...	ห๊ะ? ตรงนี้มันคือที่ที่...
+03-0499	talk	Meguro-san. What are you doing here?	เมกุโระซัง มาทำอะไรตรงนี้คะ
+03-0500	talk	This is all your fault!	นี่มันเป็นความผิดของคุณทั้งนั้น!
+03-0501	talk	I can't even work anymore because of you!	ตอนนี้ฉันทำงานไม่ได้เลยเพราะคุณ!
+03-0502	talk	I'm a zookeeper, you know! I take care of pandas!	ฉันเป็นคนเลี้ยงสัตว์ในสวนสัตว์นะ! ฉันดูแลแพนด้าอยู่!
+03-0503	talk	Ah. I didn't expect to be right about the panda, but I'll take it.	อ้อ ฉันก็ไม่คิดว่าจะทายเรื่อง แพนด้าถูกเป๊ะขนาดนี้ แต่ก็เอาเถอะค่ะ
+03-0504	talk	Ever since you saw this little "calamity," I can't even look at my pandas! Hell, I can hardly walk down the street!	ตั้งแต่คุณเห็น "ลางร้าย" นี่ ฉันแทบมองหน้าแพนด้าของฉัน ไม่ได้อีกเลย! แถมยังแทบเดินตามถนนไม่ได้ด้วยซ้ำ!
+03-0505	talk	I requested to be given a different enclosure, and you know what they gave me!? Zebras! Fuckin' zebras!	ฉันขอย้ายไปดูแลกรงอื่น แล้วรู้ไหมว่าเขาให้ฉันไปดูแลอะไร!? ม้าลาย! ม้าลายเวรตะไลนี่แหละ!
+03-0506	talk	I'm afraid my prophecies are absolute, Meguro-san. Destiny is immutable.	ฉันเกรงว่าคำทำนายของฉันเป็น สิ่งที่แน่นอนเสมอค่ะ เมกุโระซัง โชคชะตาไม่มีวันเปลี่ยนแปลง
+03-0507	talk	E-Exactly. Everything happens exactly as you predict it, right!?	ถ-ถูกต้อง ทุกอย่างเกิดขึ้นตามที่คุณทำนาย เป๊ะเลยใช่ไหมล่ะ!?
+03-0508	talk	That means your prophecies are the cause! It's all your fault!	นั่นแปลว่าคำทำนายของคุณต่างหาก ที่เป็นต้นเหตุ! เป็นความผิดของคุณทั้งนั้น!
+03-0509	talk	That is patently false. All I'm doing is glimpsing into an inevitable future.	นั่นไม่ถูกต้องเลยค่ะ ฉันแค่แอบมองเห็นอนาคตที่ หลีกเลี่ยงไม่ได้เท่านั้น
+03-0510	talk	Y-You're wrong!	ค-คุณคิดผิด!
+03-0511	talk	No, Meguro-san. And I can sense your calamity drawing nearer. I'd advise caution, now.	ไม่หรอกค่ะ เมกุโระซัง แล้วตอนนี้ฉันรู้สึกได้ว่า ลางร้ายของคุณกำลังใกล้เข้ามา ระวังตัวไว้ดีกว่านะคะ
+03-0512	talk	Sh-Shut up!	ห-หุบปาก!
+03-0513	talk	Ah... What are you doing?	อ้าว... คุณกำลังทำอะไรน่ะ?
+03-0514	talk	It's simple! I'm ending the source of my calamities!	ง่ายจะตาย! ฉันจะกำจัดต้นตอของลางร้าย ทั้งหมดนี่แหละ!
+03-0515	talk	A black jacket and a white shirt... You too!?	เสื้อแจ็คเก็ตดำกับเสื้อเชิ้ตขาว... คุณด้วยเหรอ!?
+03-0516	talk	Oh. Yeah, huh.	อ้อ นั่นสิ ว่างั้น
+03-0517	talk	Goddammit! I'll kill you both!	บ้าเอ๊ย! ฉันจะฆ่าพวกแกทั้งคู่!
+03-0518	talk	(Don't tell me I'm the black and white calamity...)	(อย่าบอกนะว่าผมคือลางร้ายสีดำขาว...)
+03-0519	talk	Fuck!	บ้าเอ๊ย!
+03-0520	talk	Oh, hey! Police cars... are black and white.	อ้อ เดี๋ยวนะ! รถตำรวจ... ก็สีดำขาวเหมือนกันนี่
+03-0521	talk	I think that may be the answer. Fate works in mysterious ways, doesn't it?	ฉันว่านั่นอาจจะเป็นคำตอบนะคะ โชคชะตาทำงานในแบบที่คาดเดา ไม่ได้จริงๆ เนอะ
+03-0522	talk	(He brought it upon himself, yet her prophecy was spot on...)	(เขาทำร้ายตัวเองแท้ๆ แต่คำทำนายของเธอก็แม่นเป๊ะเลย...)
+03-0523	talk	Would you say you've become a believer, Yagami-san?	แบบนี้พอจะเรียกว่ายากามิซัง เริ่มเชื่อแล้วได้ไหมคะ?
+03-0524	talk	I don't know if I'd go that far. After all, you couldn't predict that you were going to be attacked, right?	ผมไม่แน่ใจว่าจะไปไกลถึงขนาดนั้นไหมนะ ก็คุณยังทายไม่ได้เลยว่าตัวเอง จะโดนทำร้ายไม่ใช่เหรอ?
+03-0525	talk	Or maybe you can sense everyone's calamities but your own?	หรือว่าคุณมองเห็นลางร้ายของ คนอื่นได้หมด ยกเว้นของตัวเอง?
+03-0526	talk	Perhaps. As mysterious as fate may be, it also has a dark sense of humor.	ก็อาจจะใช่นะคะ โชคชะตาน่ะลึกลับก็จริง แต่ก็มีอารมณ์ขันแบบมืดๆ อยู่เหมือนกัน
+03-0527	talk	Well, as long you don't predict the apocalypse of humanity, I guess I'll look forward to the next paying calamity?	เอาเถอะ ตราบใดที่คุณไม่ทายวันสิ้นโลก ของมนุษยชาติ ผมก็คงรอลางร้ายรอบหน้าที่มี ค่าจ้างให้ต่อไปได้มั้ง?
+03-0528	talk	...And with that, here is your fee.	...แล้วก็นี่ค่ะ ค่าจ้างของคุณ
+03-0529	talk	Thanks. Here's to averting more disasters together.	ขอบคุณครับ ขอให้เราช่วยกันป้องกัน ภัยพิบัติต่อไปได้อีกนะ
+03-0530	talk	Oh, sorry. I'm kind of busy right now.	อ้อ ขอโทษที ตอนนี้ผมค่อนข้างยุ่งน่ะ
+03-0531	talk	I see. That's a shame.	งั้นเหรอคะ น่าเสียดายจัง
+03-0532	talk	There may still be time, so just let me know if you decide to be altruistic.	อาจจะยังพอมีเวลาอยู่นะคะ ถ้าตัดสินใจอยากช่วยเหลือคนอื่น เมื่อไหร่ก็บอกฉันได้เลยค่ะ
+03-0533	talk	Yagami-san. Will you accept my request?	ยากามิซัง จะรับคำขอของฉันไหมคะ?
+03-0534	talk	(Well, guess I'd better get going...)	(เอาล่ะ ผมว่าคงต้องไปได้แล้วล่ะ...)
+03-0535	talk	Uh... like what?	เอ่อ... เหมือนอะไรอ่ะครับ?
+03-0536	talk	Hm? And what would that be?	หืม? แล้วมันคืออะไรล่ะ?
+03-0537	talk	N-No, of course I do! In fact, I'm doing the thing right now!	เ-เปล่าครับ ผมรู้อยู่แล้ว! อันที่จริงผมกำลังทำมันอยู่เลย!
+03-0538	talk	Oh, before you go! There's something I need to serve you!	อ้อ ก่อนจะกลับ! มีอะไรที่ผมต้องเสิร์ฟให้คุณอีก อย่างครับ!
+03-0539	talk	I have to, uh, serve you something... that... comes at the end of the meal...?	ผมต้อง เอ่อ เสิร์ฟอะไรบางอย่างให้คุณ... ที่... เสิร์ฟตอนท้ายมื้ออาหารน่ะครับ...?
+03-0540	talk	You know. Every sushi restaurant serves it at the end. That thing!	ก็รู้ๆ กันอยู่นี่ครับ ร้านซูชิทุกร้านเสิร์ฟมันตอนท้าย ของแบบนั้นแหละ!
+03-0541	talk	C'monnnn, I'm sure you know what it is! Just let me know and I'll be happy to get it for you!	ไม่เอาน่าาา ผมว่าคุณต้องรู้แน่ๆ ว่ามันคืออะไร! บอกผมมาเถอะ ผมจะรีบไปเอามาให้เลย!
+03-0542	talk	Oh? Like what?	อ๋อเหรอ? เหมือนอะไรล่ะ?
+03-0543	talk	What thing?	ของอะไร?
+03-0544	talk	Uh... yeah! Hand towel, coming right up!	เอ่อ... ใช่ครับ! ผ้าเย็น เดี๋ยวจัดให้เลย!
+03-0545	talk	(Don't tell me... This guy doesn't know what to serve, so he's trying to coax the answer out of me?)	(อย่าบอกนะว่า... เจ้านี่ไม่รู้ว่าต้องเสิร์ฟอะไร เลยพยายามหลอกล่อให้ผมบอกคำตอบเอง?)
+03-0546	talk	Uh... sure! Boss, I need some ginger for this fine gentleman!	เอ่อ... ได้ครับ! บอส ขอขิงให้ลูกค้าท่านนี้หน่อยครับ!
+03-0547	talk	(Hmm. But what would a sushi restaurant serve at the end of the meal?)	(อืม... แต่ร้านซูชิเขาเสิร์ฟอะไรกัน ตอนท้ายมื้อนะ?)
+03-0548	talk	Oh, I see! Boss, the customer's asking for the restroom key!	อ๋อ เข้าใจแล้ว! บอส ลูกค้าขอกุญแจห้องน้ำครับ!
+03-0549	talk	Are you talking about a hand towel?	คุณหมายถึงผ้าเย็นรึเปล่า?
+03-0550	talk	Are you talking about ginger?	คุณหมายถึงขิงรึเปล่า?
+03-0551	talk	Waaaaaaaahhhh! I'm sorry, I'm sorry!	ว้าาาาาาาาห์! ขอโทษครับ ขอโทษครับ!
+03-0552	talk	Y-Yes sir!	ค-ครับผม!
+03-0553	talk	...Sorry you had to cover for me just now.	...ขอโทษด้วยนะครับที่ต้องช่วย ออกหน้าให้เมื่อกี้
+03-0554	talk	Are you talking about the restroom key?	คุณหมายถึงกุญแจห้องน้ำรึเปล่า?
+03-0555	talk	Now, now. I'm the one who told him the wrong answer. Can't you go a little easy on him?	เอาน่า ผมเองที่บอกคำตอบผิดให้เขา จะใจดีกับเขาหน่อยไม่ได้เหรอครับ?
+03-0556	talk	Ah... You know what, that totally makes sense!	อ้อ... นั่นสินะ ฟังดูมีเหตุผลเลยครับ!
+03-0557	talk	I think I know what you're talking about. It's green tea, right?	ผมว่าผมรู้แล้วล่ะว่าคุณหมายถึงอะไร ชาเขียวใช่ไหม?
+03-0558	talk	Welp, here's your tea!	เอาล่ะครับ นี่ชาของคุณ!
+03-0559	talk	It's generally served last because it washes away the fish taste from the mouth.	ปกติเขาเสิร์ฟมันเป็นอย่างสุดท้าย เพราะช่วยล้างรสปลาที่ค้างอยู่ ในปากออกไป
+03-0560	talk	Phew... Whenever I ask the chef something, he always gets super upset, so... thanks for helping me out.	ฟื้อ... ทุกครั้งที่ผมถามเชฟอะไรสักอย่าง เขาต้องโมโหใส่ผมทุกทีเลย... ขอบคุณที่ช่วยผมนะครับ
+03-0561	talk	Don't worry about it.	ไม่ต้องห่วงหรอก
+03-0562	talk	Huh? Bean juice?	หา? น้ำถั่วเหรอ?
+03-0563	talk	H-Hey, why do you keep asking me? I'm your customer, man.	เ-เฮ้ย ทำไมมัวแต่ถามผมล่ะ ผมเป็นลูกค้าคุณนะ
+03-0564	talk	N-No, of course not! In fact, I'm restocking it right now!	เ-เปล่าครับ ไม่มีทาง! อันที่จริงผมกำลังเติมมันอยู่เลยครับ!
+03-0565	talk	Oh, Yagami-san! Please wait! Do you know what he means by <font_kind=yakuza_italic>bean juice</font_kind>?	อ้อ ยากามิซัง! รอเดี๋ยวก่อนครับ! คุณรู้ไหมครับว่าเขาหมายถึงอะไร ตอนพูดว่า <font_kind=yakuza_italic>น้ำถั่ว</font_kind>?
+03-0566	talk	But... if I ask anyone else, they always get all mad at me, so...	แต่... ถ้าผมไปถามคนอื่น พวกเขาก็โมโหใส่ผมทุกทีเลยครับ เพราะงั้น...
+03-0567	talk	Sheesh, some chef you are. How did you even get hired?	โธ่เอ๊ย เป็นเชฟแบบนี้ได้ไง คุณผ่านสัมภาษณ์งานเข้ามาได้ ยังไงเนี่ย?
+03-0568	talk	That's not what's important, Yagami-san! Please, just tell me: what does he mean by "bean juice"?	นั่นไม่ใช่ประเด็นครับ ยากามิซัง! ได้โปรดบอกผมเถอะครับว่า "น้ำถั่ว" ที่เขาพูดหมายถึงอะไร?
+03-0569	talk	(Bean juice, huh... Could it be a sauce made out of some kind of bean?)	(น้ำถั่วเหรอ... จะเป็นซอสที่ทำจากถั่วบางชนิด รึเปล่านะ?)
+03-0570	talk	Maybe he was referring to honey.	บางทีเขาอาจจะหมายถึงน้ำผึ้งก็ได้นะ
+03-0571	talk	Ah, you think he said "bee juice" instead? ...Hey, that actually makes sense! Maybe honey's his secret recipe! Boss, you're a genius!	อ้อ คุณคิดว่าเขาหมายถึงน้ำผึ้งเหรอครับ? ...เฮ้ นั่นมันฟังดูมีเหตุผลเลยนะ! บางทีน้ำผึ้งอาจเป็นสูตรลับของ เขาก็ได้! บอส สุดยอดไปเลยครับ!
+03-0572	talk	He doesn't mean hummus, does he?	เขาไม่ได้หมายถึงฮัมมัสใช่ไหม?
+03-0573	talk	Ah, I see! Hummus is made from garbanzo beans... I could see how that makes sense!	อ้อ เข้าใจแล้ว! ฮัมมัสทำจากถั่วชิกพี... นั่นก็ฟังดูมีเหตุผลเหมือนกันนะครับ!
+03-0574	talk	Wouldn't that be kind of strange, though?	แต่มันก็แปลกๆ อยู่ดีไม่ใช่เหรอ?
+03-0575	talk	Yeah... What kind of sushi restaurant serves hummus, anyway...?	ก็จริงครับ... ร้านซูชิร้านไหนจะเสิร์ฟฮัมมัส กันล่ะเนี่ย...?
+03-0576	talk	Maybe he meant wasabi?	หรือว่าเขาหมายถึงวาซาบิ?
+03-0577	talk	Don't go too hard on him, now. He is improving!	อย่าไปซีเรียสกับเขามากนักเลย เขาก็ค่อยๆ พัฒนาขึ้นนะ!
+03-0578	talk	I see! He made a mistake and wanted me to fill up the wasabi tray... Okay, I'm on it, boss!	อ๋อ เข้าใจแล้ว! เขาพูดผิดแล้วจริงๆ อยากให้ผมเติมถาดวาซาบิสินะ... โอเคครับ เดี๋ยวผมจัดการเลย บอส!
+03-0579	talk	Waaaah! Forgive me!	ว้าาาาห์! ขอโทษด้วยครับ!
+03-0580	talk	I think he's referring to soy sauce.	ผมว่าเขาหมายถึงซีอิ๊วนะ
+03-0581	talk	I'm sorry you always have to cover for me...	ขอโทษด้วยนะครับที่ต้องคอยช่วยผมตลอด...
+03-0582	talk	Interesting... Thanks for breaking it down like that!	น่าสนใจจัง... ขอบคุณที่อธิบายให้ฟังแบบนั้นนะครับ!
+03-0583	talk	Moreover, you saved me from the chef's verbal assault. I'm thankful for that more than anything.	ยิ่งไปกว่านั้น คุณยังช่วยผมรอดพ้นจากคำด่าของเชฟด้วย ผมขอบคุณเรื่องนี้มากที่สุดเลยครับ
+03-0584	talk	It's made from fermented soybeans, and since this is a sushi restaurant, I doubt it'd be anything else.	มันทำจากถั่วเหลืองหมัก แล้วนี่ก็เป็นร้านซูชิด้วย ผมว่าคงไม่ใช่อย่างอื่นแน่
+03-0585	talk	Yes. It hasn't even been a year since I started.	ใช่ครับ ผมเพิ่งเริ่มทำงานที่นี่ยังไม่ ถึงปีเลย
+03-0586	talk	Still getting the hang of things, huh?	งั้นก็ยังไม่ค่อยชินสินะ?
+03-0587	talk	I used to live overseas because of my parents. I even went to school there and spoke an entirely different language...	ผมเคยอาศัยอยู่ต่างประเทศเพราะ พ่อแม่ครับ ไปเรียนที่นั่นด้วย พูดกันคนละภาษาไปเลย...
+03-0588	talk	Oh, so that's why you haven't learned your way around the sushi bar yet.	อ๋อ นี่เองที่ทำให้คุณยังไม่คุ้นเคย กับร้านซูชิเท่าไหร่
+03-0589	talk	Mm. That was amazing.	อืม อร่อยเยี่ยมไปเลย
+03-0590	talk	Oh, Yagami-san! Sorry to do this to you again, but...	อ้อ ยากามิซัง! ขอโทษที่ต้องรบกวนคุณอีกแล้วนะครับ แต่...
+03-0591	talk	...What's going on this time?	...คราวนี้มีอะไรอีกล่ะ?
+03-0592	talk	The chef told me to put away the "sandals."	เชฟบอกให้ผมเอา "เกี๊ยะ" ไปเก็บครับ
+03-0593	talk	Do you know what that could mean?	คุณรู้ไหมครับว่านั่นหมายถึงอะไร?
+03-0594	talk	Seriously, why do you keep asking me...	จริงจังนะเนี่ย ทำไมมัวแต่มาถามผมเรื่อยเลย...
+03-0595	talk	(Sandals... What item in a sushi bar would possibly resemble sandals?)	(เกี๊ยะ... มีอะไรในร้านซูชิที่จะดูคล้าย เกี๊ยะได้บ้างนะ?)
+03-0596	talk	I think he's talking about your shoes. Maybe they got too dirty?	ผมว่าเขาหมายถึงรองเท้าของคุณนะ บางทีมันอาจจะสกปรกเกินไปแล้ว?
+03-0597	talk	Oh, I see! It's true, my shoes do get bean juice stains all over them!	อ๋อ เข้าใจแล้ว! จริงด้วยครับ รองเท้าผมเปื้อนคราบน้ำถั่ว เต็มไปหมดเลย!
+03-0598	talk	Maybe he meant used chopsticks? Those are made of wood, sandals are made of wood... I honestly have no idea.	หรือว่าเขาหมายถึงตะเกียบที่ใช้แล้ว? พวกนั้นก็ทำจากไม้ เกี๊ยะก็ทำจากไม้... พูดตรงๆ ผมก็ไม่รู้เหมือนกัน
+03-0599	talk	Boss, I'm gonna go clean my shoes!	บอสครับ ผมจะไปทำความสะอาดรองเท้านะครับ!
+03-0600	talk	Maybe what he meant to say was "vandals." Are there some bad customers he wants you to toss out?	หรือว่าเขาอยากจะพูดว่า "พวกป่วน" รึเปล่า? มีลูกค้าเกเรที่เขาอยากให้คุณ ไล่ออกไปรึเปล่า?
+03-0601	talk	Well, that's better than what I was gonna guess! Hahahahaha!	ก็ยังดีกว่าที่ผมกำลังจะเดาซะอีกครับ! ฮ่าๆๆๆๆ!
+03-0602	talk	Don't worry. He'll get better in time.	ไม่ต้องห่วงหรอก เดี๋ยวเขาก็ค่อยๆ เก่งขึ้นเอง
+03-0603	talk	It's the wooden plates you serve the sushi on.	มันคือจานไม้ที่คุณใช้เสิร์ฟ ซูชินั่นแหละ
+03-0604	talk	Oh, I see! Even though I've never done that before... there's always a first time for everything! Now whose ass am I kicking!?	อ๋อ เข้าใจแล้ว! ถึงจะไม่เคยทำมาก่อนก็เถอะ... อะไรๆ ก็มีครั้งแรกกันทั้งนั้น! เอาล่ะ ทีนี้จะไปจัดการใครดีล่ะ!?
+03-0605	talk	Aaaaahhh! Dang it! I totally knew that...!	อ๊าาาห์! ให้ตายสิ! ผมรู้อยู่แล้วทั้งนั้นแหละ...!
+03-0606	talk	When you look at one from the side, it looks like a wooden sandal, right?	พอมองจากด้านข้าง มันดูเหมือนเกี๊ยะไม้เลยใช่ไหมล่ะ?
+03-0607	talk	Ohh, now I get it! So that's why the boss calls it that.	อ๋อ เข้าใจแล้ว! นี่เองที่บอสถึงเรียกมันแบบนั้น
+03-0608	talk	All right, boss! I served the green tea and dropped off all the checks!	เรียบร้อยครับ บอส! ผมเสิร์ฟชาเขียวแล้วก็เอาบิลไป วางให้ลูกค้าหมดแล้วครับ!
+03-0609	talk	I refilled all the bean juice containers, too! And I made sure all the sandals are washed, dried, and ready to go!	แล้วก็เติมน้ำถั่วในขวดจนเต็ม หมดแล้วด้วยครับ! แล้วก็ล้างเกี๊ยะทุกอันจนแห้ง พร้อมใช้งานเรียบร้อยแล้วครับ!
+03-0610	talk	Is this the same Uozumi-kun who couldn't tell his shoes from his sandals? You sound a lot more confident now.	นี่คืออุโอซึมิคุงคนเดิมที่แยก รองเท้ากับเกี๊ยะไม่ออก เหรอเนี่ย? ตอนนี้ดูมั่นใจขึ้นเยอะเลยนะ
+03-0611	talk	Ah, Yagami-san. Actually, I ended up taking your advice and started studying a lot harder.	อ้อ ยากามิซัง จริงๆ แล้วผมเอาคำแนะนำของคุณไปใช้ แล้วก็เริ่มตั้งใจเรียนมากขึ้นครับ
+03-0612	talk	Take notes right away and review it before the day is done... Something like that?	จดโน้ตทันทีแล้วก็ทบทวนก่อนจบวัน... ประมาณนั้นใช่ไหมครับ?
+03-0613	talk	Yeah. Glad to see it's working.	ใช่ ดีใจนะที่เห็นว่ามันได้ผล
+03-0614	talk	Oh, I know just the thing! So we recently started stocking this really high-grade tuna, right?	อ้อ ผมรู้แล้วครับว่าจะให้อะไรดี! ช่วงนี้ร้านเราเพิ่งเริ่มมี ทูน่าเกรดสูงมากเข้ามาใหม่ ใช่ไหมครับ?
+03-0615	talk	It's a special, domestically raised species, which means our supply is limited...	มันเป็นสายพันธุ์พิเศษที่เลี้ยง ในประเทศ ซึ่งแปลว่าเรามีจำนวนจำกัด...
+03-0616	talk	But I'll tell the chef to bump you up to VIP status, Yagami-san! You can have it whenever you like!	แต่ผมจะบอกเชฟให้อัพเกรดคุณเป็น VIP เลยครับ ยากามิซัง! คุณจะสั่งกินเมื่อไหร่ก็ได้เลย!
+03-0617	talk	No kidding! Then I'll look forward to it!	จริงเหรอเนี่ย! งั้นผมรอเลยนะ!
+03-0618	talk	(Domestically raised tuna... Can't wait to try it out!)	(ทูน่าเลี้ยงในประเทศเหรอ... รอลองไม่ไหวแล้ว!)
+03-0619	talk	Hey Uozumi, the customer's about to leave! Aren't you forgetting something?	เฮ้ อุโอซึมิ ลูกค้าเขากำลังจะกลับแล้วนะ! ลืมอะไรไปรึเปล่า?
+03-0620	talk	Don't tell me you <font_kind=yakuza_italic>still</font_kind> don't remember!	อย่าบอกนะว่า<font_kind=yakuza_italic>ยัง</font_kind>จำไม่ได้อีก!
+03-0621	talk	Dumbass! You're supposed to be serving green tea!	ไอ้โง่! ต้องเสิร์ฟชาเขียวสิวะ!
+03-0622	talk	We serve it at the end to help cleanse the palate from the oil contained in the fish. I told you a thousand times!	เราเสิร์ฟมันตอนท้ายเพื่อล้าง ความมันจากปลาที่ค้างอยู่ในปาก บอกไปตั้งกี่ครั้งแล้ว!
+03-0623	talk	Is that so... Well, I suppose that's fine. But you're not getting off the hook next time, Uozumi!	งั้นเหรอ... ก็ได้ ยกไปก่อนคราวนี้ แต่คราวหน้าไม่รอดแน่ อุโอซึมิ!
+03-0624	talk	I can only imagine how hard it is working at a sushi bar. You must have a lot to learn.	ผมพอนึกออกเลยว่าทำงานในร้าน ซูชิมันยากแค่ไหน คุณคงต้องเรียนรู้อีกเยอะเลยสินะ
+03-0625	talk	Yeah, especially 'cause the boss makes up his own weird terminology that's nearly impossible to memorize. You'll see what I mean.	ใช่ครับ โดยเฉพาะเพราะบอสชอบคิดศัพท์แปลกๆ ขึ้นมาเองซึ่งจำแทบไม่ได้เลย เดี๋ยวคุณก็เข้าใจเองครับ
+03-0626	talk	Interesting. I guess I'll be seeing you around, then. Name's Yagami, by the way.	น่าสนใจดี งั้นคงได้เจอกันอีกนะ อ้อ ผมชื่อยากามิ
+03-0627	talk	Nice to meet you, Yagami-san. I'm Kenta Uozumi. And please, don't let my lack of knowledge keep you away from our store.	ยินดีที่ได้รู้จักครับ ยากามิซัง ผมชื่อเค็นตะ อุโอซึมิ แล้วก็อย่าให้ความไม่รู้ของผม ทำให้คุณไม่มาร้านเราอีกเลยนะ ครับ
+03-0628	talk	You're fine. And besides, the sushi here is too delicious to keep me away.	ไม่ต้องห่วงหรอก แล้วก็ซูชิที่นี่มันอร่อยเกิน กว่าจะทำให้ผมไม่มาอยู่แล้ว
+03-0629	talk	Yagami-san, thank you again for dining with us today!	ยากามิซัง ขอบคุณอีกครั้งที่มาทานที่ร้าน เราวันนี้ครับ!
+03-0630	talk	Well, good luck.	เอาล่ะ โชคดีนะ
+03-0631	talk	Hey, Uozumi! I need the bean juice restocked!	เฮ้ อุโอซึมิ! เติมน้ำถั่วให้หน่อย!
+03-0632	talk	Don't tell me... You forgot again?	อย่าบอกนะ... ลืมอีกแล้วเหรอ?
+03-0633	talk	You dimwit, I was asking for <font_kind=yakuza_italic>soy sauce</font_kind>! I call it "bean juice" because it's made from fermented soybeans!	ไอ้ทึ่ม ฉันขอ<font_kind=yakuza_italic>ซีอิ๊ว</font_kind>ต่างหาก! ฉันเรียกมันว่า "น้ำถั่ว" เพราะมันทำจากถั่วเหลืองหมัก!
+03-0634	talk	<font_kind=yakuza_italic>Any</font_kind> human being with a halfway decent IQ would know this!	คนที่มี IQ พอใช้ได้<font_kind=yakuza_italic>ทุกคน</font_kind>ก็ต้องรู้เรื่องนี้!
+03-0635	talk	You really think so? Hmph... Well, can't argue with the customer.	คิดงั้นจริงเหรอ? หึ... ก็เถียงลูกค้าไม่ได้หรอก
+03-0636	talk	So this is my first time living in Japan.	นี่เป็นครั้งแรกที่ผมมาอยู่ ญี่ปุ่นเลยครับ
+03-0637	talk	That's right. I'm not used to hearing any terminology that's different than what I know.	ใช่ครับ ผมยังไม่ค่อยชินกับศัพท์ที่ ต่างจากที่เคยรู้มาเลย
+03-0638	talk	That makes a lot of sense.	นั่นก็สมเหตุสมผลดี
+03-0639	talk	Thanks again for being patient with me. I hope you come by again soon.	ขอบคุณอีกครั้งที่อดทนกับผมนะครับ หวังว่าจะได้มาอีกเร็วๆ นี้
+03-0640	talk	You knucklehead! I was talking about the sushi plates!	ไอ้เซ่อ! ฉันพูดถึงจานเสิร์ฟซูชิต่างหาก!
+03-0641	talk	I told you it's because they look like wooden sandals from the side!	บอกแล้วไงว่าเพราะมองจากด้าน ข้างมันดูเหมือนเกี๊ยะไม้!
+03-0642	talk	Hmph... Don't see any indication of that whatsoever...	หึ... ไม่เห็นจะมีวี่แววอย่างนั้นเลยสักนิด...
+03-0643	talk	Wow, you really know your stuff. Thanks to that, I can avoid getting chewed out... at least for today.	ว้าว คุณรู้เยอะจริงๆ ครับ ต้องขอบคุณที่ทำให้ผมไม่โดนด่าวันนี้... อย่างน้อยก็วันนี้แหละ
+03-0644	talk	Sorry I'm always bugging you... I should know all this by now.	ขอโทษที่กวนคุณตลอดเลยนะครับ... ป่านนี้ผมควรจะรู้เรื่องพวกนี้ได้แล้ว
+03-0645	talk	You really should stop asking customers for help. Have you ever thought about studying your job?	คุณควรเลิกถามลูกค้าเรื่องพวก นี้ได้แล้วนะ เคยลองศึกษางานของตัวเองดูบ้างไหม?
+03-0646	talk	For example, try taking notes on what he tells you and then go home and review it.	อย่างเช่น ลองจดสิ่งที่เขาบอกไว้ แล้วกลับบ้านไปทบทวนดูสิ
+03-0647	talk	Gah... You do have a point there. Maybe I've been doing it all wrong...	อูย... คุณพูดถูกเลยครับ บางทีผมอาจจะทำผิดมาตลอดก็ได้...
+03-0648	talk	(Hope I wasn't too harsh on the guy.)	(หวังว่าผมจะไม่ได้พูดแรงไปกับเขานะ)
+03-0649	talk	Hi, I'm Yagami. Are you Ohata-san, by any chance?	สวัสดีครับ ผมชื่อยากามิ คุณคือโอฮาตะซังใช่ไหมครับ?
+03-0650	talk	Yes, that's me. I'm sorry for the sudden request.	ใช่ครับ ผมเอง ขอโทษด้วยที่ขอความช่วยเหลือ กะทันหันแบบนี้
+03-0651	talk	No problem. I understand that these things are urgent sometimes. What can I do for you?	ไม่เป็นไรครับ ผมเข้าใจว่าบางเรื่องมันก็เร่งด่วน มีอะไรให้ผมช่วยครับ?
+03-0652	talk	Um... I need you to find my son.	เอ่อ... ผมอยากให้คุณช่วยตามหาลูกชายผมครับ
+03-0653	talk	Your son is missing? Is he lost, or... kidnapped!?	ลูกชายคุณหายไปเหรอ? หลงทางรึเปล่า หรือว่า... ถูกลักพาตัว!?
+03-0654	talk	Oh no, nothing of the sort.	โอ้ ไม่เลยครับ ไม่มีอะไรแบบนั้นหรอก
+03-0655	talk	Uh... Then what are we talking about here?	เอ่อ... งั้นเรากำลังพูดถึงเรื่องอะไร กันแน่ครับ?
+03-0656	talk	He's playing hide-and-seek, and I'd like you to find him.	เขากำลังเล่นซ่อนหา แล้วผมอยากให้คุณช่วยตามหาเขาครับ
+03-0657	talk	Wait, what? He's hiding from you?	เดี๋ยวนะ ว่าไงนะ? เขาซ่อนตัวจากคุณเองเหรอ?
+03-0658	talk	Precisely. My son's name is Ayumu, and he turned six this year. Hide-and-seek is his favorite game right now.	ถูกต้องครับ ลูกชายผมชื่ออายุมุ ปีนี้อายุหกขวบ ตอนนี้ซ่อนหาเป็นเกมโปรดของเขาเลย
+03-0659	talk	I don't mean to be presumptuous, but... maybe you should... find him, then?	ผมไม่ได้อยากจะก้าวก่ายนะครับ แต่... บางทีคุณน่าจะ... ไปตามหาเขาเองรึเปล่า?
+03-0660	talk	Oh yes, I agree. But I have to be getting to work right now.	ครับ ผมก็เห็นด้วยนะ แต่ตอนนี้ผมต้องรีบไปทำงานแล้ว
+03-0661	talk	Can your wife pitch in or anything?	ภรรยาคุณช่วยได้บ้างไหมครับ?
+03-0662	talk	Nah, we divorced three years ago. I'm a single father.	ไม่ครับ เราหย่ากันมาสามปีแล้ว ผมเลี้ยงลูกคนเดียว
+03-0663	talk	Fine... But all the same, is this really something you need to hire a detective for?	ก็ได้... แต่ถึงยังไงก็เถอะ นี่มันเรื่องที่ต้องจ้างนักสืบจริงๆ เหรอครับ?
+03-0664	talk	Well, Ayumu is pretty good actually... It's always a real hassle to find him.	อายุมุเขาซ่อนตัวเก่งมากเลยครับ... ทุกทีตามหาเขายากมากจริงๆ
+03-0665	talk	Last time, he was hiding in the women's restroom, and I never would have found him.	คราวก่อนเขาไปซ่อนอยู่ในห้องน้ำหญิง ผมคงหาไม่เจอแน่ๆ ถ้าไม่มีใครช่วย
+03-0666	talk	...How did you find him then?	...แล้วคุณหาเขาเจอได้ยังไงล่ะครับ?
+03-0667	talk	Ayumu has a cellphone on him at all times. In case of emergencies, mostly.	อายุมุพกมือถือติดตัวตลอดครับ ส่วนใหญ่ก็ไว้เผื่อเหตุฉุกเฉิน
+03-0668	talk	But he likes to send me pictures as a hint for his hiding places.	แต่เขาชอบส่งรูปมาให้เป็นคำใบ้ บอกที่ซ่อนของเขาด้วยครับ
+03-0669	talk	Usually it's enough to go on, but I really don't have time for this today.	ปกติแค่นั้นก็พอจะตามหาเจอแล้วครับ แต่วันนี้ผมไม่มีเวลาจริงๆ
+03-0670	talk	A six-year-old sending his father hide-and-seek hints on his cell... Welcome to the future, I guess.	เด็กหกขวบส่งคำใบ้ซ่อนหาให้พ่อ ทางมือถือ... นี่แหละยุคสมัยใหม่จริงๆ
+03-0671	talk	Yagami-san, I'm happy to pay your fee for this! 80,000 yen. Will you take the job?	ยากามิซัง ผมยินดีจ่ายค่าจ้างให้เต็มที่เลยครับ! 80,000 เยน จะรับงานนี้ไหมครับ?
+03-0672	talk	Well, I guess a paycheck is a paycheck...	เอาล่ะ เงินก็คือเงินนี่นะ...
+03-0673	talk	Let me just send you the hint I got from Ayumu about where he is!	ขอผมส่งคำใบ้ที่ได้จากอายุมุ เรื่องที่ซ่อนของเขาไปให้นะครับ!
+03-0674	talk	No, thank you! I really have to be getting to work now!	ไม่ล่ะครับ ขอบคุณ! ผมต้องรีบไปทำงานจริงๆ แล้ว!
+03-0675	talk	(I have to find a kid playing hide-and-seek from his father... This is a new one.)	(ผมต้องตามหาเด็กที่เล่นซ่อนหา หนีพ่อตัวเอง... นี่มันงานแปลกใหม่จริงๆ)
+03-0676	talk	(...Where was this picture taken from?)	(...รูปนี้ถ่ายจากตรงไหนกันนะ?)
+03-0677	talk	(I should try going to places that come to mind. Asking around might be good too.)	(ผมน่าจะลองไปที่ที่นึกออกดูก่อน ถามคนแถวนั้นด้วยก็คงดี)
+03-0678	talk	(Based on that picture, Ayumu should be around here somewhere...)	(ดูจากรูปนี้ อายุมุน่าจะอยู่แถวๆ นี้แหละ...)
+03-0679	talk	(I should search the area.)	(ผมน่าจะลองค้นหาแถวนี้ดู)
+03-0680	talk	(Whoa! Is that the kid!? That's pretty dangerous!)	(โห! นั่นเด็กคนนั้นเหรอ!? อันตรายมากเลยนะนั่น!)
+03-0681	talk	(I have to get him down before something awful happens...!)	(ผมต้องรีบพาเขาลงมาก่อนจะ เกิดเรื่องร้ายแรง...!)
+03-0682	talk	Hey! Are you Ayumu-kun? I've been looking for you!	เฮ้! เธอคืออายุมุคุงใช่ไหม? ผมตามหาเธออยู่เลยนะ!
+03-0683	talk	Oh, your dad couldn't make it out today, so he sent me to find you instead!	อ้อ พ่อของเธอมาไม่ได้วันนี้น่ะ เลยส่งผมมาตามหาเธอแทน!
+03-0684	talk	Huh? Dad isn't coming?	หา? พ่อไม่มาเหรอ?
+03-0685	talk	Hey, it's pretty dangerous up there. Why don't you come down so we can talk?	เฮ้ ตรงนั้นมันอันตรายนะ ลงมาคุยกันก่อนดีไหม?
+03-0686	talk	So my dad really isn't coming? I sent him the picture and everything...	งั้นพ่อไม่มาจริงๆ เหรอ? หนูส่งรูปให้แล้วด้วยนะ...
+03-0687	talk	Yeah, he had some important work to do, buddy.	ใช่ พ่อของเธอมีงานสำคัญต้องทำน่ะ
+03-0688	talk	Oh, okay. I understand.	อ๋อ โอเค หนูเข้าใจแล้ว
+03-0689	talk	Do you want me to help you get home?	อยากให้ผมช่วยพาเธอกลับบ้านไหม?
+03-0690	talk	Nope! I can do it myself.	ไม่ล่ะ! หนูทำเองได้
+03-0691	talk	Yeah, I do it all the time. See you later, mister.	ใช่ หนูทำแบบนี้ตลอดแหละ แล้วเจอกันนะลุง
+03-0692	talk	(He seemed pretty upset that it wasn't his father who found him. Guess I better call Ohata-san.)	(ดูเหมือนเขาจะผิดหวังไม่น้อยที่ คนมาเจอไม่ใช่พ่อตัวเอง ผมควรโทรหาโอฮาตะซังดีกว่า)
+03-0693	talk	Hello, this is Yagami.	สวัสดีครับ ยากามิพูด
+03-0694	talk	Oh, Yagami-san. Were you able to find Ayumu?	อ้อ ยากามิซัง หาอายุมุเจอไหมครับ?
+03-0695	talk	Yes, just now.	ครับ เพิ่งเจอเมื่อกี้เลย
+03-0696	talk	I offered to get him home, but he seemed to know the way just fine, so...	ผมเสนอจะพาเขากลับบ้าน แต่ดูเหมือนเขาจะรู้ทางดีอยู่แล้ว เลย...
+03-0697	talk	I see. That's okay. Boys will be boys!	งั้นเหรอครับ ไม่เป็นไรหรอก เด็กผู้ชายก็เป็นแบบนี้แหละ!
+03-0698	talk	Ayumu is such a handful sometimes. Hahaha.	อายุมุนี่บางทีก็จัดการยากจริงๆ ฮ่าๆ
+03-0699	talk	Hey, I'm at work right now, so I'll send your payment digitally.	เดี๋ยวนี้ผมอยู่ที่ทำงานน่ะครับ เดี๋ยวโอนเงินให้นะครับ
+03-0700	talk	Then I guess that wraps this up. Thank you again!	งั้นก็จบเรื่องแค่นี้แหละครับ ขอบคุณอีกครั้งนะครับ!
+03-0701	talk	(I can't help but wonder if Ayumu-kun made it home...)	(อดสงสัยไม่ได้เลยว่าอายุมุคุง กลับถึงบ้านหรือเปล่า...)
+03-0702	talk	(Is he hiding in the locker?)	(เขาซ่อนอยู่ในล็อกเกอร์รึเปล่านะ?)
+03-0703	talk	(...Nah. The picture was taken from higher up.)	(...ไม่หรอก รูปนั้นถ่ายจากที่สูงกว่านี้)
+03-0704	talk	Hmm. It's not like I can get fingerprints or anything.	อืม ผมก็ไม่ใช่จะเก็บลายนิ้วมือ ได้ขนาดนั้นนี่นา
+03-0705	talk	(Is he inside here?)	(เขาอยู่ข้างในนี้รึเปล่านะ?)
+03-0706	talk	I wonder if that boy's lost...	สงสัยเด็กคนนั้นจะหลงทางรึเปล่านะ...
+03-0707	talk	Um. Excuse me, I'm looking for a boy, about 6 years old. Have you seen him?	เอ่อ ขอโทษนะครับ ผมกำลังตามหาเด็กผู้ชายอายุประมาณ 6 ขวบ เห็นเขาไหมครับ?
+03-0708	talk	Yes, I did. So he was lost? He was walking toward East Taihei Boulevard.	เห็นค่ะ อ้าว หลงทางเหรอ เมื่อกี้เขาเดินมุ่งไปทาง ถนนไทเฮฝั่งตะวันออกนะ
+03-0709	talk	East Taihei Boulevard. Got it. Thank you!	ถนนไทเฮฝั่งตะวันออกเหรอ รับทราบครับ ขอบคุณมากครับ!
+03-0710	talk	Ah, Yagami-san. Sorry to drag you out again.	อ้อ ยากามิซัง ขอโทษที่ต้องเรียกใช้คุณอีกแล้วนะครับ
+03-0711	talk	Not at at all. What can I do for you today?	ไม่เป็นไรเลยครับ วันนี้มีอะไรให้ผมช่วยครับ?
+03-0712	talk	Um... I'd like you to find Ayumu again.	เอ่อ... ผมอยากให้คุณช่วยตามหาอายุมุ อีกครั้งครับ
+03-0713	talk	Hide-and-seek again?	ซ่อนหาอีกแล้วเหรอครับ?
+03-0714	talk	I have some important deadlines to hit at work, and I can't play with him right now.	ผมมีงานสำคัญที่ต้องรีบทำให้ทัน ตอนนี้ครับ เลยเล่นกับเขาไม่ได้
+03-0715	talk	I'll pay you more than last time! 100,000 yen!	ผมจะจ่ายให้มากกว่าคราวที่แล้วครับ! 100,000 เยน!
+03-0716	talk	Hey, I don't mind doing the job, but...	เฮ้ ผมไม่ได้ว่าอะไรกับงานนี้หรอกนะ แต่...
+03-0717	talk	Oh, thank you very much!	โอ้ ขอบคุณมากครับ!
+03-0718	talk	No, but Ayumu doesn't seem to be having fun with this. Something's off.	เปล่าครับ แต่ดูเหมือนอายุมุจะไม่ค่อยสนุก กับเรื่องนี้เลย มีอะไรแปลกๆ อยู่นะ
+03-0719	talk	He was pretty disheartened last time when I told him you couldn't come.	คราวที่แล้วเขาดูผิดหวังมากเลย ตอนที่ผมบอกว่าคุณมาไม่ได้
+03-0720	talk	Oh, he's just shy.	อ๋อ เขาแค่ขี้อายน่ะครับ
+03-0721	talk	He really clams up around people he doesn't know.	เขามักจะเงียบไปเลยเวลาอยู่กับ คนที่ไม่รู้จักครับ
+03-0722	talk	I better get to work, though. I'll forward you the picture Ayumu sent me again.	แต่ผมต้องไปทำงานแล้วล่ะครับ เดี๋ยวจะส่งรูปที่อายุมุส่งมา ให้คุณอีกครั้งนะครับ
+03-0723	talk	(I don't want to judge a single dad, but I feel bad for Ayumu-kun if this is how it always is...)	(ผมไม่อยากตัดสินพ่อเลี้ยงเดี่ยวหรอกนะ แต่ก็รู้สึกสงสารอายุมุคุงถ้า มันเป็นแบบนี้ตลอด...)
+03-0724	talk	Yagami-san, this is the picture Ayumu sent me. Thanks again!	ยากามิซัง นี่คือรูปที่อายุมุส่งมาให้ครับ ขอบคุณอีกครั้งนะครับ!
+03-0725	talk	(He's somewhere up high again. And what's that in the middle?)	(เขาอยู่ที่สูงอีกแล้วสินะ แล้วตรงกลางนั่นคืออะไรนะ?)
+03-0726	talk	(Hmm... Does this location look familiar at all...?)	(อืม... ที่นี่ดูคุ้นๆ อยู่บ้างไหมนะ...?)
+03-0727	talk	(If Ayumu's picture is right, he should be hiding somewhere around here.)	(ถ้ารูปของอายุมุถูกต้อง เขาน่าจะซ่อนตัวอยู่แถวๆ นี้แหละ)
+03-0728	talk	(Guess I'll look around.)	(ลองมองหาดูรอบๆ ก่อนดีกว่า)
+03-0729	talk	(There he is! And he's in a dangerous spot again...)	(เจอแล้ว! แล้วก็อยู่ในจุดอันตรายอีกแล้วด้วย...)
+03-0730	talk	(I better talk to him now!)	(รีบไปคุยกับเขาดีกว่า!)
+03-0731	talk	Ayumu-kun, I've been looking for you! And that's dangerous, so why don't you come down!?	อายุมุคุง ผมตามหาเธออยู่เลยนะ! แล้วตรงนั้นมันอันตรายด้วย ลงมาก่อนดีไหม!?
+03-0732	talk	You? You came again?	ลุงเหรอ? มาอีกแล้วเหรอ?
+03-0733	talk	Yeah buddy, your dad's really busy at work, so I came to find you again!	ใช่แล้วเพื่อนยาก พ่อเธองานยุ่งมากเลยน่ะ ผมเลยมาตามหาเธออีกรอบ!
+03-0734	talk	Dad isn't coming again...?	พ่อไม่มาอีกแล้วเหรอ...?
+03-0735	talk	Hey, we'll talk after you come down!	เฮ้ เดี๋ยวค่อยคุยกันหลังลงมาก่อนนะ!
+03-0736	talk	So Dad's working again, huh?	งั้นพ่อทำงานอีกแล้วสินะ?
+03-0737	talk	Yeah, he said he's really swamped.	ใช่ เขาบอกว่างานรัดตัวมากเลย
+03-0738	talk	Hey, Ayumu-kun?	เฮ้ อายุมุคุง?
+03-0739	talk	Why do you always hide in places like that? It's dangerous, and you could really get hurt.	ทำไมเธอถึงชอบไปซ่อนในที่แบบ นั้นตลอดเลยล่ะ? มันอันตรายนะ เธออาจจะเจ็บตัวจริงๆ ได้
+03-0740	talk	...Because it's dangerous.	...เพราะมันอันตรายน่ะ...
+03-0741	talk	Forget it. I'm going home.	ช่างเถอะ หนูจะกลับบ้านแล้ว
+03-0742	talk	(Is he hiding in such dangerous places to get his dad's attention?)	(เขาไปซ่อนตัวในที่อันตรายแบบนี้ เพื่อให้พ่อสนใจหรือเปล่านะ?)
+03-0743	talk	(Well, at least the job's done. I'll get in touch with Ohata-san.)	(เอาเถอะ อย่างน้อยงานก็เสร็จแล้ว เดี๋ยวติดต่อโอฮาตะซังดู)
+03-0744	talk	Yagami-san, I trust that you found Ayumu?	ยากามิซัง ผมเชื่อว่าคุณเจออายุมุแล้วใช่ไหมครับ?
+03-0745	talk	Fantastic, thank you! I'll send you the money digitally again.	เยี่ยมไปเลย ขอบคุณมากครับ! เดี๋ยวผมโอนเงินให้เหมือนเดิมนะครับ
+03-0746	talk	Um, Ohata-san. About your son...	เอ่อ โอฮาตะซัง เรื่องลูกชายคุณน่ะครับ...
+03-0747	talk	Sorry, sorry, late for a meeting! Thank you so much, though!	ขอโทษ ขอโทษจริง ๆ ครับ ผมสายประชุมแล้ว! ยังไงก็ขอบคุณมากนะครับ!
+03-0748	talk	J-Just a sec—	เดี๋ยว รอเดี๋ยว—
+03-0749	talk	(...He hung up. He's too preoccupied to ask about his son.)	(...วางสายไปซะแล้ว ยุ่งเกินกว่าจะถามถึงลูกตัวเองด้วยซ้ำ)
+03-0750	talk	(I wonder if he even pays attention to him when they're together...)	(สงสัยจังว่าเวลาอยู่ด้วยกันเขา สนใจลูกบ้างไหมนะ...)
+03-0751	talk	(That poor kid...)	(เด็กน่าสงสารจริง...)
+03-0752	talk	Hey, isn't that the boy from before?	เฮ้ นั่นเด็กคนที่เจอเมื่อกี้ไม่ใช่เหรอ?
+03-0753	talk	I wonder if he's still lost...	ไม่รู้เขาจะยังหลงทางอยู่อีกไหมนะ...
+03-0754	talk	Um. Excuse me. I'm looking for a boy, about 6 years old...	เอ่อ ขอโทษนะครับ ผมกำลังตามหาเด็กผู้ชายอายุประมาณ 6 ขวบน่ะครับ...
+03-0755	talk	Yeah, I saw him. He was strolling toward the Hills Garden.	เห็นสิ เดินเล่นไปทางฮิลส์การ์เดนนู่นแหละ
+03-0756	talk	Toward the Hills Garden. Got it, thank you!	ไปทางฮิลส์การ์เดนเหรอครับ เข้าใจแล้ว ขอบคุณมากครับ!
+03-0757	talk	Hey, aren't you his father? You really oughta keep an eye on that boy.	เดี๋ยวนะ คุณเป็นพ่อเด็กหรือเปล่า? ต้องดูแลเด็กคนนั้นให้ดีกว่านี้ หน่อยนะ
+03-0758	talk	(I'm not his father...)	(ผมไม่ใช่พ่อเขาซะหน่อย...)
+03-0759	talk	Yagami-san, I apologize for the constant stream of requests.	ยากามิซัง ต้องขอโทษด้วยจริง ๆ ที่รบกวนบ่อยขนาดนี้
+03-0760	talk	No worries, it keeps me busy. Ayumu-kun is hiding again?	ไม่เป็นไรครับ อย่างน้อยก็มีงานทำ อายุมุคุงซ่อนตัวอีกแล้วเหรอครับ?
+03-0761	talk	Yes, and I have a contract to settle with a client of ours.	ใช่ครับ แล้วผมก็มีสัญญาที่ต้องเคลียร์ กับลูกค้าอีกด้วย
+03-0762	talk	Ohata-san, like I said before, Ayumu-kun is doing this in hopes that you'll be the one who finds him...	โอฮาตะซัง อย่างที่ผมเคยบอกไปนะครับ อายุมุคุงทำแบบนี้เพราะหวังว่า คุณจะเป็นคนไปหาเขาเอง...
+03-0763	talk	I know that, but it's not like I can just put my job on hold to do that!	ผมก็รู้! แต่มันไม่ใช่ว่าผมจะพักงานไปทำ แบบนั้นได้ง่าย ๆ ซะหน่อย!
+03-0764	talk	I can't pretend to know all your circumstances, but I think you need to set aside some time for your son...	ผมคงไม่รู้ทุกอย่างเกี่ยวกับ สถานการณ์ของคุณหรอกครับ แต่ผมว่าคุณควรแบ่งเวลาให้ ลูกชายบ้างนะครับ...
+03-0765	talk	I will, I will! As soon as I get this contract locked!	จะทำ จะทำครับ! แค่รอให้เคลียร์สัญญานี้ให้ เรียบร้อยก่อน!
+03-0766	talk	If you'll just do this, I'll give you 120,000! That's worth your time, right?	ถ้าคุณช่วยเรื่องนี้ให้ที ผมจะให้ 120,000 เยนเลย! คุ้มกับเวลาคุณใช่ไหมล่ะครับ?
+03-0767	talk	Fine, but I'm only taking this case on one condition...	ก็ได้ครับ แต่ผมจะรับงานนี้โดยมีเงื่อนไขเดียว...
+03-0768	talk	After this job's done, you make some time for Ayumu-kun.	พองานนี้เสร็จ คุณต้องแบ่งเวลาให้อายุมุคุงบ้าง
+03-0769	talk	I will! And thank you!	จะทำแน่นอนครับ! แล้วก็ขอบคุณมากครับ!
+03-0770	talk	I'll send you the photo Ayumu sent me as usual, Yagami-san!	ผมจะส่งรูปที่อายุมุส่งมาให้ เหมือนเดิมนะครับ ยากามิซัง!
+03-0771	talk	Keep an eye out for him!	ช่วยดูแลเขาด้วยนะครับ!
+03-0772	talk	(I can't help but wonder if he's going to keep his promise...)	(อดสงสัยไม่ได้เลยว่าเขาจะรักษา สัญญาไหมนะ...)
+03-0773	talk	Yagami-san, this is the photo Ayumu sent me. Find him, please!	ยากามิซัง นี่คือรูปที่อายุมุส่งมาให้ครับ ช่วยตามหาเขาทีนะครับ!
+03-0774	talk	(Huh, he doesn't seem to be somewhere high this time. It looks like this was taken indoors?)	(เอ๊ะ รอบนี้ดูเหมือนเขาจะไม่ได้อยู่ ที่สูงนะ นี่ถ่ายในร่มหรือเปล่า?)
+03-0775	talk	(I can tell there's a Wild Jackson outside the window, though. That should narrow it down.)	(แต่เห็นไวลด์แจ็คสันอยู่นอก หน้าต่างด้วย น่าจะช่วยจำกัดวงได้)
+03-0776	talk	(Judging from the photo Ayumu-kun sent, he must be in one of these buildings.)	(ดูจากรูปที่อายุมุคุงส่งมา เขาต้องอยู่ในตึกแถวนี้แน่ ๆ)
+03-0777	talk	(Whew, cleaned that up. Ayumu-kun sure chose a rough spot this time.)	(เฮ้อ จัดการเรียบร้อย รอบนี้อายุมุคุงเลือกที่ซ่อนโหดจริง ๆ)
+03-0778	talk	Ayumu-kun, are you in here? I give up, so you can come out now!	อายุมุคุง อยู่ในนี้หรือเปล่า? ผมยอมแพ้แล้ว ออกมาได้เลยนะ!
+03-0779	talk	...I'm here, mister.	...หนูอยู่นี่ครับ ลุง
+03-0780	talk	Oh, so you <font_kind=yakuza_italic>are</font_kind> here. This isn't safe, so let's get outside.	อ้อ งั้นก็<font_kind=yakuza_italic>อยู่</font_kind>จริง ๆ ด้วย ที่นี่ไม่ปลอดภัยนะ ออกไปข้างนอกกันเถอะ
+03-0781	talk	Ayumu-kun, this place is where a lot of scary guys hang out. Don't ever come back here, okay?	อายุมุคุง ที่นี่มีพวกคนน่ากลัวมา ป้วนเปี้ยนเยอะนะ ห้ามกลับมาที่นี่อีกเด็ดขาดนะ เข้าใจไหม?
+03-0782	talk	...Dad isn't coming again?	...พ่อไม่มาอีกแล้วเหรอ?
+03-0783	talk	Sorry, buddy. He's busy again.	ขอโทษนะเพื่อน พ่อยุ่งอีกแล้วน่ะ
+03-0784	talk	Ayumu!	อายุมุ!
+03-0785	talk	...Huh? D-Dad?	...เอ๊ะ? พ...พ่อ?
+03-0786	talk	Ohata-san? I thought you had work to do?	โอฮาตะซัง? นึกว่าคุณมีงานต้องทำซะอีกครับ?
+03-0787	talk	It hit me when I really looked at the picture Ayumu sent me...	ผมเพิ่งรู้ตัวตอนดูรูปที่อายุมุ ส่งมาจริง ๆ...
+03-0788	talk	Isn't this an office for... Well, you know, right?	นี่มันสำนักงานของ... เอ่อ คุณก็รู้ใช่ไหมครับ?
+03-0789	talk	Once I realized it, I put work aside and came straight down.	พอรู้ตัวปุ๊บ ผมวางงานทันทีแล้ววิ่งมาที่นี่เลย
+03-0790	talk	Ayumu! You're not hurt, are you?	อายุมุ! ลูกไม่เจ็บตรงไหนใช่ไหม?
+03-0791	talk	You came to find me even though you knew it'd be dangerous, Dad?	พ่อรู้ว่ามันอันตรายแต่ก็ยัง มาตามหาหนูเหรอ?
+03-0792	talk	Of course, son. I would never want you to get hurt.	แน่นอนสิลูก พ่อไม่มีวันอยากให้ลูกเจ็บตัวหรอก
+03-0793	talk	Not that I had a plan or anything as I dashed out of the office... Haha.	ก็ไม่ได้คิดแผนอะไรไว้เลยตอน วิ่งออกจากออฟฟิศหรอกนะ...ฮ่าฮ่า
+03-0794	talk	That's okay, Dad.	ไม่เป็นไรหรอกพ่อ
+03-0795	talk	Hey, you hungry, Ayumu? Why don't we grab something to eat? Anything you want!	นี่ อายุมุหิวไหม? ไปกินอะไรกันดีไหม? อยากกินอะไรก็บอกได้เลยนะ!
+03-0796	talk	I want omurice.	หนูอยากกินข้าวห่อไข่
+03-0797	talk	All right, let's hit the town! I'll get you some real good omelet rice!	ได้เลย งั้นไปลุยกันเลย! พ่อจะพาไปกินข้าวห่อไข่เจ๋ง ๆ ให้
+03-0798	talk	Yagami-san, thank you so much. Here's your pay for today.	ยากามิซัง ขอบคุณมากจริง ๆ ครับ นี่ค่าจ้างของวันนี้
+03-0799	talk	And don't worry. I know I screwed up. But I'm gonna make it right.	แล้วก็ไม่ต้องห่วงนะครับ ผมรู้ตัวว่าทำพลาดไป แต่ผมจะแก้ไขให้ดีขึ้นแน่นอน
+03-0800	talk	Ayumu means more to me than anything, and I'll show him that.	อายุมุสำคัญกับผมยิ่งกว่าอะไรทั้งนั้น แล้วผมจะพิสูจน์ให้เขาเห็นเอง
+03-0801	talk	Yeah, I think that's all he wants.	ครับ ผมว่านั่นแหละคือสิ่งเดียวที่ เขาต้องการ
+03-0802	talk	Well, ready, Ayumu?	เอาล่ะ พร้อมหรือยัง อายุมุ?
+03-0803	talk	(...I'm happy for you, buddy.)	(...ดีใจด้วยนะเพื่อน)
+03-0804	talk	...What company is this? Hm?	...บริษัทอะไรกันเนี่ย? อืม?
+03-0805	talk	Huh, what the hell are you doing!? This some kinda raid!?	หา มึงทำบ้าอะไรวะ!? นี่มันบุกจับหรือไงวะ!?
+03-0806	talk	(Oh crap... It's a yakuza front, isn't it?)	(แย่ล่ะสิ... นี่มันบังหน้าของยากูซ่านี่นา?)
+03-0807	talk	(Don't tell me this is what he meant by going somewhere dangerous!)	(อย่าบอกนะว่านี่คือที่ที่เขา หมายถึงตอนพูดว่า 'อันตราย'!)
+03-0808	talk	A kid!? Ain't no kids around here!	เด็กเหรอ!? แถวนี้ไม่มีเด็กหรอกโว้ย!
+03-0809	talk	(...I don't have much choice. If I explain the situation, maybe they'll listen to reason.)	(...ไม่มีทางเลือกแล้ว ถ้าอธิบายสถานการณ์ให้ฟัง บางทีพวกเขาอาจจะเข้าใจ)
+03-0810	talk	You sonuvabitch... You a cop!?	ไอ้สารเลว... มึงเป็นตำรวจใช่ไหมวะ!?
+03-0811	talk	You think I'm gonna let you raid us on some flimsy bullshit like that!?	คิดว่ากูจะปล่อยให้มึงมาบุกจับ ด้วยข้ออ้างห่วย ๆ แบบนั้นเหรอวะ!?
+03-0812	talk	Umm, excuse me?	เอ่อ ขอโทษนะครับ?
+03-0813	talk	You asshole... Go play your baby games somewhere else. This place is off-limits.	ไอ้เวร... จะเล่นซ่อนหาแบบเด็ก ๆ ก็ไปเล่นที่อื่นซะ ที่นี่ห้ามเข้า
+03-0814	talk	If you want in so bad, you'll have to go through me!	ถ้าอยากเข้ามาจริง ๆ ก็ต้องข้ามศพกูไปก่อน!
+03-0815	talk	A raid? Ha ha, no, sir. Actually...	บุกจับเหรอครับ? ฮ่าฮ่า ไม่ใช่หรอกครับพี่ จริง ๆ แล้ว...
+03-0816	talk	I'm looking for a child, and I'm pretty sure he's hiding in your building.	ผมกำลังตามหาเด็กคนหนึ่ง แล้วผมค่อนข้างมั่นใจว่าเขา ซ่อนตัวอยู่ในตึกนี้ครับ
+03-0817	talk	Usually I'd agree with you, but this kid's really good at hiding...	ปกติผมก็เห็นด้วยกับคุณนะครับ แต่เด็กคนนี้ซ่อนเก่งจริง ๆ...
+03-0818	talk	It's just a game of hide-and-seek, sir, please...	มันแค่เกมซ่อนหาธรรมดาครับพี่ ขอร้องเถอะครับ...
+03-0819	talk	Oh, was that boy lost again?	อ้าว เด็กคนนั้นหลงทางอีกแล้วเหรอ?
+03-0820	talk	A shame his parents let this happen.	น่าสงสารจัง พ่อแม่ปล่อยให้เป็นแบบนี้ได้ยังไงนะ
+03-0821	talk	Excuse me... I'm looking for a boy myself, about six years old?	ขอโทษนะครับ... ผมกำลังตามหาเด็กผู้ชายอายุประมาณ 6 ขวบน่ะครับ?
+03-0822	talk	Yes, I saw him walking down East Taihei Boulevard.	เห็นสิ เดินอยู่แถวถนนไทเฮฝั่งตะวันออก นู่นแหละ
+03-0823	talk	Are you his father? You really ought to keep a better eye on him.	คุณเป็นพ่อเด็กหรือเปล่า? ต้องดูแลให้ดีกว่านี้หน่อยนะ
+03-0824	talk	Uh, no, but... Thanks.	เอ่อ เปล่าครับ แต่... ขอบคุณครับ
+03-0825	talk	(East Taihei Boulevard, huh? Guess I'll have a look.)	(ถนนไทเฮฝั่งตะวันออกเหรอ งั้นไปดูสักหน่อยดีกว่า)
+03-0826	talk	Pardon me, sir, but could I get a minute of your time?	ขอโทษนะคะ ขอเวลาสักครู่ได้ไหมคะ
+03-0827	talk	What can I do for you?	มีอะไรให้ช่วยไหม
+03-0828	talk	Well, my name is Mami Sakuma, and I've been working here for a while now.	ค่ะ ดิฉันชื่อมามิ ซาคุมะ ทำงานที่นี่มาสักพักแล้วค่ะ
+03-0829	talk	Basically, I'm looking for customer feedback. Would you mind describing how that tasted just now?	จริง ๆ แล้วดิฉันกำลังเก็บความคิดเห็น จากลูกค้าน่ะค่ะ รบกวนเล่าให้ฟังหน่อยได้ไหมคะ ว่าที่เพิ่งชิมไปรสชาติเป็น ยังไง?
+03-0830	talk	Sure. I tend not to hold back, though.	ได้ครับ แต่ผมมักจะพูดตรง ๆ นะครับ
+03-0831	talk	That's fine! I've been training to make each pastry exactly like the owner does, so I need all the constructive criticism I can get.	ไม่เป็นไรค่ะ! ดิฉันฝึกทำขนมแต่ละชิ้นให้ เหมือนเจ้าของร้านที่สุดเลย เลยอยากได้คำติชมตรง ๆ มากเท่าไหร่ก็ยิ่งดีค่ะ
+03-0832	talk	Wow. Sounds like you're working hard.	โห ฟังดูขยันมากเลยนะครับ
+03-0833	talk	Heh, I try!	เอ่อ ก็พยายามอยู่ค่ะ!
+03-0834	talk	But it's all a part of following my dream, so I don't mind. Because one day, I'll be the best patissier in town!	แต่นี่ก็เป็นส่วนหนึ่งของ การไล่ตามฝันดิฉัน เลยไม่ถือสาหรอกค่ะ เพราะสักวันดิฉันจะเป็น ปาติสซีเยร์ที่เก่งที่สุดใน เมืองนี้ให้ได้!
+03-0835	talk	It's nice to be passionate about your job, isn't it?	การมีใจรักในงานที่ทำแบบนี้ดี จังนะครับ
+03-0836	talk	Of course! So, would you mind sharing your thoughts? On the road to perfecting confections, every comment counts!	แน่นอนค่ะ! เอาล่ะ รบกวนบอกความคิดเห็นได้ไหมคะ? บนเส้นทางสู่ขนมที่สมบูรณ์แบบ ทุกความเห็นมีค่าหมดเลยค่ะ!
+03-0837	talk	Great, thank you so much!	เยี่ยมเลยค่ะ ขอบคุณมากนะคะ!
+03-0838	talk	Now, can I ask what you thought of that cake?	เอาล่ะค่ะ ขอถามหน่อยได้ไหมคะว่าคิดยังไง กับเค้กชิ้นนั้น?
+03-0839	talk	Yeah, so I thought the chocolate cake was a little too sweet.	ครับ ผมว่าเค้กช็อกโกแลตหวานไปนิดนึงนะครับ
+03-0840	talk	I say that because most of your menu is sweet stuff. Some people might wanna order something more on the bitter side.	ที่พูดแบบนี้เพราะเมนูส่วนใหญ่ ของร้านออกไปทางหวานหมดเลยครับ บางคนอาจอยากได้อะไรที่ออกขม กว่านี้บ้าง
+03-0841	talk	That makes sense... We do have a lot of different people coming through here, after all.	เข้าใจแล้วค่ะ... ก็จริงนะคะ ลูกค้าที่มาร้านเรามีหลากหลายจริง ๆ
+03-0842	talk	Yeah. And besides, wouldn't a bitter cake pair better with one of your beverages? At least I think so.	ครับ แล้วก็เค้กรสขมน่าจะเข้ากับ เครื่องดื่มของร้านได้ ดีกว่าด้วยนะครับ อย่างน้อยผมก็คิดแบบนั้น
+03-0843	talk	Wow, that was actually pretty insightful! Thank you!	โห นั่นมันลึกซึ้งมากเลยค่ะ! ขอบคุณนะคะ!
+03-0844	talk	It might just be me, but I think the cheesecake's a little lacking in the sour department.	อาจจะเป็นแค่ผมคนเดียวก็ได้นะครับ แต่ผมว่าชีสเค้กมันเปรี้ยวน้อยไปหน่อย
+03-0845	talk	You mean it's not sour enough?	หมายถึงมันเปรี้ยวไม่พอใช่ไหมคะ?
+03-0846	talk	Well, if I were a customer who wanted something sweet, I'd probably pick something else. Almost anything can be sweet.	ครับ ถ้าผมเป็นลูกค้าที่อยากกินของหวาน ผมคงเลือกอย่างอื่นมากกว่า เพราะของหวานมันมีให้เลือก เยอะแยะอยู่แล้ว
+03-0847	talk	But the thing that makes a cheesecake a cheesecake is that unmistakable tanginess that lingers on the tongue.	แต่สิ่งที่ทำให้ชีสเค้กเป็นชีส เค้กจริง ๆ ก็คือรสเปรี้ยวเฉพาะตัวที่ติด ปลายลิ้นไงครับ
+03-0848	talk	That's true.	ก็จริงนะ
+03-0849	talk	So I think you should keep sourness in mind when making your next batch.	เพราะงั้นผมว่าตอนทำล็อตต่อไป ควรใส่ใจเรื่องความเปรี้ยวด้วยนะครับ
+03-0850	talk	Is this cake another original of yours, Sakuma-san?	เค้กชิ้นนี้เป็นสูตรที่ซาคุมะ ซังคิดเองอีกแล้วเหรอครับ?
+03-0851	talk	It sure is. How'd you like it?	ใช่แล้วค่ะ เป็นยังไงบ้างคะ?
+03-0852	talk	Hmm, it was pretty good... But it almost felt like it was missing something.	อืม อร่อยดีนะครับ... แต่รู้สึกเหมือนขาดอะไรไปนิดหน่อย
+03-0853	talk	It kinda just tasted like a normal cake, you know? It needs that special something to make it really stand out.	รสชาติมันเหมือนเค้กทั่ว ๆ ไปน่ะครับ ต้องมีจุดเด่นพิเศษกว่านี้ถึงจะ โดดออกมาจริง ๆ
+03-0854	talk	I'll remember that, thank you. That's not a bad idea.	จะจำไว้เลยค่ะ ขอบคุณนะคะ ไอเดียนี้ไม่เลวเลย
+03-0855	talk	So, the seasonal cake is good. It's got fresh fruit, it's got fresh flavor. But...	เค้กตามฤดูกาลนี่ดีเลยนะครับ มีผลไม้สด รสชาติสดใหม่ แต่ว่า...
+03-0856	talk	I feel like the cake itself is losing out because of the generic name. Give it some flair.	ผมรู้สึกว่าตัวเค้กเสียเปรียบ เพราะชื่อมันธรรมดาไปหน่อยครับ ลองใส่ลูกเล่นเข้าไปดูสิ
+03-0857	talk	I see... Now that you bring it up, it does sound a bit dull.	อ๋อ... พอพูดแบบนี้ก็จริงนะคะ ชื่อมันดูจืด ๆ ไปหน่อยจริง ๆ
+03-0858	talk	Just a bit. When it comes to marketing a product, naming it something memorable is one of the most important parts.	นิดหน่อยเองครับ พอพูดถึงการทำการตลาด การตั้งชื่อให้คนจำได้นี่สำคัญ มากเลยนะครับ
+03-0859	talk	I'll remember that, thank you. That was actually quite insightful!	จะจำไว้เลยค่ะ ขอบคุณนะคะ นั่นลึกซึ้งมากจริง ๆ!
+03-0860	talk	Well, it's just my personal opinion, so take it with a grain of salt.	ก็แค่ความเห็นส่วนตัวผมนะครับ อย่าไปเชื่อทั้งหมดก็ได้
+03-0861	talk	Oh, not at all! You always give me really valuable feedback, so I hope you'll come back more often!	ไม่เลยค่ะ! คุณให้คำติชมที่มีค่ากับดิฉันเสมอเลย เลยหวังว่าจะแวะมาบ่อย ๆ นะคะ!
+03-0862	talk	Definitely. After all... this place takes the cake.	แน่นอนครับ เพราะยังไง... ร้านนี้ก็ชนะเลิศเรื่องเค้กจริง ๆ
+03-0863	talk	You think so? Well, I'd hate to see you <font_kind=yakuza_italic>dessert</font_kind> us... So please come back again soon!	คิดแบบนั้นเหรอคะ? งั้นดิฉันคงไม่อยากให้คุณ<font_kind=yakuza_italic>ทิ้ง</font_kind> ร้านเราไปไหนหรอกนะคะ... เพราะงั้นแวะมาอีกเร็ว ๆ นี้นะคะ!
+03-0864	talk	(Sakuma-san really seems to value my input. Makes me want to talk cakes with her more often.)	(ซาคุมะซังดูจะให้ความสำคัญกับ ความเห็นของผมจริง ๆ ทำให้อยากคุยเรื่องเค้กกับเธอบ่อย ๆ เลย)
+03-0865	talk	Thank you for visiting us today.	ขอบคุณที่แวะมาวันนี้นะคะ
+03-0866	talk	Ah, Sakuma-san. Hello there.	อ้อ ซาคุมะซัง สวัสดีครับ
+03-0867	talk	Hello and welcome. Can I ask for your thoughts about today's cake as well?	สวัสดีค่ะ ยินดีต้อนรับ วันนี้ขอความเห็นเรื่องเค้กอีก เหมือนเดิมได้ไหมคะ?
+03-0868	talk	Hey, Sakuma-san. I've got an aching for some baking.	ไง ซาคุมะซัง วันนี้ผมอยากกินขนมอบสักหน่อยเลยครับ
+03-0869	talk	Well you're in for a treat, 'cause I just put the finishing touches on a special new dessert!	งั้นคุณมาถูกจังหวะเลยค่ะ เพราะดิฉันเพิ่งแต่งหน้าขนม พิเศษตัวใหม่เสร็จหมาด ๆ เลย!
+03-0870	talk	And what would that be?	แล้วนั่นคืออะไรล่ะ?
+03-0871	talk	It is... the one and only... Mega Fruit Tart!	มันคือ... หนึ่งเดียวไม่มีสอง... เมกะฟรุตทาร์ต!
+03-0872	talk	Not just any fruit tart, but a <font_kind=yakuza_italic>mega</font_kind> fruit tart? I like it.	ไม่ใช่แค่ทาร์ตผลไม้ธรรมดา แต่เป็นทาร์ตผลไม้แบบ<font_kind=yakuza_italic>เมกะ</font_kind>เลยเหรอ? ผมชอบนะ
+03-0873	talk	Yep. We start by using a heaping helping of only the freshest fruits available, so it looks and tastes terrific.	ใช่ค่ะ เราเริ่มจากใส่ผลไม้สด ๆ ลงไปเต็มพิกัดเลย เลยทั้งสวยทั้งอร่อยแน่นอน
+03-0874	talk	And then we finish it off with a sumptuous helping of sweet but slightly tart custard. Is your mouth watering yet?	แล้วก็ปิดท้ายด้วยคัสตาร์ดหวาน อมเปรี้ยวเนื้อเนียนแบบจัดเต็ม น้ำลายสอหรือยังคะเนี่ย?
+03-0875	talk	Oh yeah. I can feel my sweet tooth tingling in its nerve ending as we speak.	แน่นอนครับ ตอนนี้ผมรู้สึกถึงต่อมความหวาน สั่นระริกอยู่เลยจริง ๆ
+03-0876	talk	Hehe. If it wasn't for all your constructive criticism, I doubt I could've created such a masterpiece. So thank you!	เฮะเฮะ ถ้าไม่มีคำติชมของคุณ ดิฉันคงสร้างผลงานชิ้นเอกแบบนี้ ไม่ได้แน่ ๆ ขอบคุณนะคะ!
+03-0877	talk	Nah, all I did was eat. You put in all the hard work.	ไม่หรอกครับ ผมแค่กินเฉย ๆ คุณต่างหากที่ทุ่มเทจริง ๆ
+03-0878	talk	Well I hope you enjoy the fruits of our labor. The mega fruit tarts, that is!	หวังว่าคุณจะได้ลิ้มรสผลของ ความพยายามเราไปเต็ม ๆ นะคะ ก็ทาร์ตผลไม้เมกะนี่แหละ!
+03-0879	talk	I think I've said my piece on just about every cake you got.	ผมว่าผมพูดความเห็นครบทุกเค้ก ที่คุณมีแล้วล่ะครับ
+03-0880	talk	You've given me plenty of food for thought, that's for sure. I really can't thank you enough.	คุณให้อะไรให้ดิฉันคิดต่อเยอะเลยจริง ๆ ค่ะ ขอบคุณเท่าไหร่ก็ไม่พอจริง ๆ
+03-0881	talk	No problem. Can't wait to see what you whip up next.	ไม่มีปัญหาครับ รอดูว่าครั้งหน้าคุณจะทำอะไรออกมาอีก
+03-0882	talk	Is this Yagami? From Yagami Detective Agency?	นี่ยากามิใช่ไหมครับ? จากสำนักงานนักสืบยากามิ?
+03-0883	talk	Speaking. What can I do for you?	พูดอยู่ครับ มีอะไรให้ช่วยไหมครับ?
+03-0884	talk	I'm calling to talk about a request I submitted. Should be under the name Yosuke Saotome?	โทรมาเรื่องคำขอที่ผมส่งไปน่ะครับ น่าจะอยู่ภายใต้ชื่อโยสึเกะ ซาโอโตเมะนะครับ?
+03-0885	talk	Right, Saotome-san. Why don't we meet at my office so we can go over the details?	อ๋อ ซาโอโตเมะซัง งั้นมาคุยรายละเอียดกันที่ ออฟฟิศผมดีไหมครับ?
+03-0886	talk	Works for me. I'll drop in!	ได้เลยครับ เดี๋ยวผมแวะไป!
+03-0887	talk	And yes, I'm Yosuke Saotome.	แล้วก็ใช่ครับ ผมชื่อโยสึเกะ ซาโอโตเมะ
+03-0888	talk	Oh, and this is my sister, Tsukino.	อ้อ แล้วนี่น้องสาวผมเอง สึกิโนะครับ
+03-0889	talk	Hello.	สวัสดี
+03-0890	talk	(Guess they're twins or something.)	(สงสัยจะเป็นฝาแฝดกันสินะ)
+03-0891	talk	Well, shall we get down to business? What can I help you with?	เอาล่ะครับ เข้าเรื่องกันเลยดีไหม มีอะไรให้ผมช่วยครับ?
+03-0892	talk	Before that, Yagami-san... I have a question for you. Have you ever heard of the Twisted Trio?	ก่อนอื่น ยากามิซัง... ผมมีคำถามจะถามครับ เคยได้ยินเรื่องสามโรคจิตไหมครับ?
+03-0893	talk	Um... No? Should I have?	เอ่อ... ไม่นะครับ? ควรจะรู้เหรอครับ?
+03-0894	talk	Well, yes! They're a gang of perverts who have been terrorizing Kamurocho!	ก็ใช่น่ะสิครับ! พวกเขาเป็นแก๊งโรคจิตที่ก่อ ความเดือดร้อนไปทั่วคามุโรโจเลย ครับ!
+03-0895	talk	Stealing underwear, public groping, peeping on unsuspecting couples... These guys are shameless.	ขโมยชุดชั้นใน ลวนลามในที่สาธารณะ แอบดูคู่รักที่ไม่ทันระวังตัว... พวกนี้ไม่มียางอายเลยจริง ๆ ครับ
+03-0896	talk	Oh. First I'm hearing about them...	อ้อ นี่เพิ่งเคยได้ยินเป็นครั้งแรกเลย...
+03-0897	talk	Now you know. They're three really bad guys, and they have names to prove it. Our problem is with the Panty Professor.	ตอนนี้ก็รู้แล้วครับ พวกนี้เลวสามคนเลย แล้วก็มีชื่อเรียกเฉพาะตัวด้วย ปัญหาของเราคือ ศาสตราจารย์กางเกงในครับ
+03-0898	talk	The... Panty Professor? Did I hear that right?	ศาสตราจารย์...กางเกงในเหรอครับ? ผมฟังไม่ผิดใช่ไหมเนี่ย?
+03-0899	talk	I'm afraid so. His obsession with women's underwear is how he earned that one.	น่าเสียดายที่ใช่ครับ เพราะเขาคลั่งไคล้ชุดชั้นในผู้หญิงมาก เลยได้ฉายานี้มา
+03-0900	talk	Which brings us to my request. A few days ago, my sister fell victim to this... Panty Professor.	ซึ่งนั่นก็เชื่อมมาถึงคำขอของผมครับ เมื่อไม่กี่วันก่อน น้องสาวผมตกเป็นเหยื่อของ... ศาสตราจารย์กางเกงในคนนี้
+03-0901	talk	Yagami-san, you have to bring this wretch to justice!	ยากามิซัง คุณต้องเอาไอ้ชั่วคนนี้มาลงโทษ ให้ได้ครับ!
+03-0902	talk	Please, detective. I can't even relax in my own bedroom anymore.	ได้โปรดเถอะค่ะ คุณนักสืบ ตอนนี้ดิฉันพักผ่อนในห้องนอน ตัวเองไม่ได้เลยค่ะ
+03-0903	talk	Well, I'll need a little more info first. And I'm sorry if this is uncomfortable to discuss, but...	ครับ ผมคงต้องขอข้อมูลเพิ่มอีกนิดนะครับ แล้วก็ขอโทษด้วยถ้าเรื่องนี้จะ พูดถึงแล้วอึดอัด แต่...
+03-0904	talk	It's fine... But, um, every time I hang my panties out to dry on the balcony, they get stolen.	ไม่เป็นไรค่ะ... แต่ เอ่อ ทุกครั้งที่ดิฉันตากกางเกงในไว้ ที่ระเบียง มันจะถูกขโมยไปตลอดเลยค่ะ
+03-0905	talk	It never fails, especially with my panties that have a certain style.	ไม่เคยพลาดสักครั้งเลย โดยเฉพาะตัวที่มีลายเฉพาะแบบหนึ่งค่ะ
+03-0906	talk	The guy must be particular about his fetish.	หมอนี่ต้องมีรสนิยมเฉพาะทางแน่ ๆ
+03-0907	talk	Have you managed to catch a glimpse of the culprit?	เห็นหน้าคนร้ายบ้างไหมครับ?
+03-0908	talk	Well, not exactly... He actually steals them with a drone.	ก็...ไม่เชิงค่ะ... จริง ๆ แล้วเขาใช้โดรนขโมยไปน่ะค่ะ
+03-0909	talk	A drone?	โดรนเหรอ?
+03-0910	talk	Yup. That's his M.O. You could even say it's his calling card.	ใช่แล้วครับ นั่นคือวิธีการของเขาเลย จะเรียกว่าเป็นลายเซ็นของเขาก็ได้ครับ
+03-0911	talk	Ah, so that's how you came to suspect you were a victim of the Panty Professor himself.	อ๋อ นั่นเองที่ทำให้คุณสงสัยว่า ตกเป็นเหยื่อของ ศาสตราจารย์กางเกงในตัวจริง
+03-0912	talk	And have you gone to the police with this?	แล้วเรื่องนี้ไปแจ้งตำรวจหรือยังครับ?
+03-0913	talk	Of course we have, but even with all their resources, they're struggling to tighten the noose on this guy.	แจ้งไปแล้วสิครับ แต่ถึงจะมีทรัพยากรพร้อมแค่ไหน พวกเขาก็ยังตามตัวหมอนี่ไม่ได้เลยครับ
+03-0914	talk	His drone is pretty fast, too...	แล้วโดรนของเขาก็เร็วมากด้วยค่ะ...
+03-0915	talk	Then it sounds like we'll need to set up a trap to catch him...	งั้นก็ดูเหมือนเราต้องวางกับดัก เพื่อจับเขาแล้วล่ะครับ...
+03-0916	talk	Then you plan on taking the case? I offered 50,000 yen for the job...	งั้นคุณจะรับงานนี้ใช่ไหมครับ? ผมเสนอค่าจ้างไว้ที่ 50,000 เยนนะครับ...
+03-0917	talk	Yes. That's fine, but you're a student right? Can you afford that?	ครับ รับได้ แต่คุณเป็นนักศึกษาไม่ใช่เหรอครับ? จ่ายไหวจริงเหรอครับ?
+03-0918	talk	Oh, don't worry about me! But how will you catch him?	อ๋อ ไม่ต้องห่วงผมหรอกครับ! แต่คุณจะจับเขายังไงล่ะครับ?
+03-0919	talk	I think we'll have to draw him out... with panties.	ผมว่าเราคงต้องล่อเขาออกมา... ด้วยกางเกงในนี่แหละ
+03-0920	talk	That's a good plan, but... Then we'd need to know what his preferences are...	แผนดีนะครับ แต่... งั้นเราก็ต้องรู้รสนิยมของเขาก่อน...
+03-0921	talk	(She needs to spill it. This is about to get awkward.)	(เธอต้องเล่าให้ฟังแล้วล่ะ นี่กำลังจะอึดอัดกันแล้วสิ)
+03-0922	talk	Tsukino-san. If you want my help, you'll need to divulge what kind of panties you wear.	สึกิโนะซัง ถ้าอยากให้ผมช่วย คุณต้องบอกผมด้วยนะครับว่าใส่ กางเกงในแบบไหน
+03-0923	talk	It's how it has to be. Are they white? Black? Thongs?	มันต้องเป็นแบบนี้แหละครับ สีขาว? สีดำ? จีสตริง?
+03-0924	talk	He's right, the more details you can give me, the better our chances.	เขาพูดถูกครับ ยิ่งให้รายละเอียดผมมากเท่าไหร่ โอกาสสำเร็จก็ยิ่งสูงเท่านั้น
+03-0925	talk	Aah! You really need a lot of details, huh?	อ๊าาา! ต้องการรายละเอียดเยอะขนาดนี้ เลยเหรอคะเนี่ย?
+03-0926	talk	Do you want to catch this guy or not, Tsukino? He wouldn't ask unless he needed that information.	สึกิโนะ เธออยากจับหมอนี่หรือเปล่า? เขาคงไม่ถามหรอกถ้าไม่ จำเป็นต้องรู้จริง ๆ
+03-0927	talk	He's right. Trust me, this is purely professional. I don't have any personal stake in this.	เขาพูดถูกครับ เชื่อผมเถอะ นี่เป็นเรื่องมืออาชีพล้วน ๆ ผมไม่มีผลประโยชน์ส่วนตัวอะไรทั้งนั้น
+03-0928	talk	(I can't ask her about her panties with her brother here...)	(ผมถามเรื่องกางเกงในเธอต่อหน้า พี่ชายแบบนี้ไม่ได้หรอกนะ...)
+03-0929	talk	I see you're struggling with what comes next, Yagami-san. Allow me.	ผมเห็นแล้วว่ายากามิซังกำลัง ลำบากใจว่าจะถามยังไงต่อ งั้นให้ผมช่วยเองครับ
+03-0930	talk	(He's going to do it, isn't he...)	(เขาจะถามเองจริง ๆ เหรอเนี่ย...)
+03-0931	talk	Tsukino. Tell our detective friend here what kind of panties you wear.	สึกิโนะ บอกคุณนักสืบไปสิว่าเธอใส่ กางเกงในแบบไหน
+03-0932	talk	What!? Do we really need to go that far!?	อะไรนะ!? ต้องขนาดนั้นเลยเหรอคะ!?
+03-0933	talk	Sorry, but he's right. I can't catch this guy if I don't have the right bait.	ขอโทษนะครับ แต่เขาพูดถูก ถ้าผมไม่มีเหยื่อล่อที่ใช่ ผมก็จับหมอนี่ไม่ได้
+03-0934	talk	U-Um... There's a pattern, I guess...	อ...เอ่อ... มีลายแบบหนึ่งค่ะ...
+03-0935	talk	And that is?	แล้วมันคืออะไรล่ะ?
+03-0936	talk	They're lace. Mostly black, but I have a few red pairs too. Some have little ribbons on the front.	เป็นลูกไม้ค่ะ ส่วนใหญ่สีดำ แต่ก็มีสีแดงอยู่บ้าง บางตัวก็มีโบว์เล็ก ๆ ติดด้านหน้าด้วยค่ะ
+03-0937	talk	That should be enough. Thanks for your bravery, Tsukino.	แค่นี้ก็น่าจะพอแล้วครับ ขอบคุณที่กล้าพูดออกมานะ สึกิโนะ
+03-0938	talk	Urgh...	อุก...
+03-0939	talk	(Well, that could have gone worse.)	(เอาเถอะ มันแย่กว่านี้ก็ยังได้)
+03-0940	talk	Okay, I'll find some panties just like that and I'll set the trap.	โอเค ผมจะไปหากางเกงในแบบนั้นมาแล้ว วางกับดักครับ
+03-0941	talk	If this Panty Professor guy is really out there, that should lure him out.	ถ้าศาสตราจารย์กางเกงในคนนี้มี ตัวตนจริง วิธีนี้น่าจะล่อเขาออกมาได้
+03-0942	talk	But even it if does, how would you catch him? That's why he uses the drone!	แต่ถึงจะล่อออกมาได้ คุณจะจับเขายังไงล่ะครับ? ก็เขาถึงได้ใช้โดรนไงครับ!
+03-0943	talk	The drone has to go somewhere. If I put a GPS tracker on the panties, I'll know exactly where.	โดรนก็ต้องบินไปที่ไหนสักแห่งอยู่ดี ถ้าผมติดตัวติดตาม GPS ไว้ที่กางเกงใน ผมก็จะรู้ตำแหน่งแน่ชัดครับ
+03-0944	talk	Huh... That's pretty clever, actually.	โห... นั่นฉลาดมากเลยนะครับเนี่ย
+03-0945	talk	I'm looking forward to your results, Yagami-san. Thank you so much. Help us get this pervert off the streets!	ผมรอผลงานคุณอยู่นะครับ ยากามิซัง ขอบคุณมากจริง ๆ ครับ ช่วยเก็บไอ้โรคจิตนี่ให้พ้นถนน ทีนะครับ!
+03-0946	talk	(...Guess I should head over to Le Marche and buy some panties. Good times.)	(...งั้นคงต้องไปเลอมาร์เช่เพื่อ ซื้อกางเกงในสินะ ช่างเป็นวันดี ๆ จริง ๆ)
+03-0947	talk	Would you like these gift-wrapped, sir?	ต้องการห่อของขวัญด้วยไหม
+03-0948	talk	No thanks, I have a more immediate need for these.	ไม่ครับ ผมมีเรื่องด่วนต้องใช้เลย
+03-0949	talk	An... immediate need, sir?	เรื่อง...ด่วนหรือ?
+03-0950	talk	Very well, sir. Discretion is our guarantee.	เข้าใจแล้ว ทางร้านรักษาความลับให้แน่นอน
+03-0951	talk	Wait, what!? N-No, they're not for me!	เดี๋ยวก่อน! ไม่ใช่แบบนั้นครับ! ม-ไม่ใช่ของผมนะครับ!
+03-0952	talk	Of course not, sir. To each their own.	ไม่เป็นไร แต่ละคนก็มีรสนิยมต่างกันไป
+03-0953	talk	(I'm really on a roll today...)	(วันนี้ผมมาแรงจริง ๆ...)
+03-0954	talk	(Okay, once I have a tracker on these, I just need to take them up to the roof.)	(โอเค พอติดตัวติดตามเสร็จ ก็แค่เอาไปวางไว้บนดาดฟ้า)
+03-0955	talk	I guess this should do it.	คงพอแล้วมั้ง
+03-0956	talk	I wonder how obvious this is, though? He might see right through it...	แต่ไม่รู้สิ มันจะดูออกง่ายไปหรือเปล่านะ? เขาอาจจะจับพิรุธได้...
+03-0957	talk	Oh well. Still worth a shot.	ช่างเถอะ ยังไงก็ลองดูสักตั้ง
+03-0958	talk	(Here comes a drone!)	(โดรนมาแล้ว!)
+03-0959	talk	(Yes, he took the bait!)	(เยส เขาติดเหยื่อแล้ว!)
+03-0960	talk	(Now I just follow the signal of our intrepid panty thief to the source. The batting cages...)	(เอาล่ะ ตามสัญญาณของเจ้าโจรกางเกงในจอมกล้า ไปให้ถึงต้นตอ... กรงตีลูกนี่เอง...)
+03-0961	talk	*sniff* *sniff* *sniff* Ah, the fragrance is fresh, but there are notes of musk...	*ดม* *ดม* *ดม* อาห์ กลิ่นสดชื่นจัง แต่มีกลิ่นมัสก์แทรกอยู่ด้วย...
+03-0962	talk	Perhaps this is a nice and burly, working woman type...	บางทีนี่อาจจะเป็นสาวร่างท้วมใหญ่ สายทำงานหนักก็ได้...
+03-0963	talk	Hey, you.	นี่ เธอ
+03-0964	talk	Hm? Who dares to disturb my feast!?	อืม? ใครกันที่กล้ามารบกวนงานเลี้ยง ของข้าพเจ้า!?
+03-0965	talk	You the one they call the Panty Professor?	นายคือคนที่เขาเรียกกันว่า ศาสตราจารย์กางเกงในใช่ไหม?
+03-0966	talk	Indeed I am. I have a great many names. Panty Professor, Skivvies Scholar, Lingerie Literati...	ใช่แล้ว ข้าพเจ้ามีนามเรียกขานมากมายนัก ทั้งศาสตราจารย์กางเกงใน นักวิชาการกางเกงใน ปราชญ์ชุดชั้นในลูกไม้...
+03-0967	talk	Perhaps you've come to partake of the banquet with me? Or are you just a scavenger, hoping for sloppy seconds?	หรือนายมาร่วมงานเลี้ยงกับ ข้าพเจ้าด้วยหรือ? หรือนายเป็นแค่นักฉกฉวยที่หวัง ของเหลือกินล่ะ?
+03-0968	talk	Not to ruin the moment, but those are actually mine. Well... not <font_kind=yakuza_italic>mine</font_kind>, per se. I bought them to lure you out.	ไม่อยากทำลายบรรยากาศหรอกนะ แต่จริง ๆ นั่นของผมเอง เอ่อ... ไม่ใช่<font_kind=yakuza_italic>ของผม</font_kind>หรอก แค่ซื้อมาล่อนายออกมาต่างหาก
+03-0969	talk	What!? I don't deserve this punishment...	อะไรนะ!? ข้าพเจ้าไม่สมควรโดนลงทัณฑ์แบบนี้...
+03-0970	talk	Blecchhh! I'm gonna puke! I've been basking in the scent of <font_kind=yakuza_italic>man</font_kind> sweat!?	อี๋ว! จะอ้วกอยู่แล้ว! ข้าพเจ้าดมกลิ่นเหงื่อ<font_kind=yakuza_italic>ผู้ชาย</font_kind> มาตลอดเลยหรือนี่!?
+03-0971	talk	Just come along quietly, man. We'll find you some real strong odors down at the station.	ไปแต่โดยดีเถอะน่า ที่โรงพักมีกลิ่นแรง ๆ ให้ดมเยอะเลย
+03-0972	talk	Never! There are far too many panties in the world just waiting for me to discover them!	ไม่มีวัน! ในโลกนี้ยังมีกางเกงในอีกมากมาย ที่รอให้ข้าพเจ้าค้นพบ!
+03-0973	talk	If you're going to interfere, then this is where you die!	ถ้านายจะมาขวางทาง นายก็ต้องตายที่นี่แหละ!
+03-0974	talk	(Damn! He's going for a gun...)	(บ้าเอ๊ย! มันจะชักปืน...)
+03-0975	talk	Wait, whose are those!?	เดี๋ยวนะ นั่นของใครกัน!?
+03-0976	talk	These belonged to none other than the heartthrob supermodel, Arisa Takeda!	นี่คือของนางแบบซูเปอร์โมเดลสุดฮอต อาริสะ ทาเคดะ ไม่ใช่ใครอื่น!
+03-0977	talk	*sniff* *sniff* *sniff*... *sniff* *sniff* *sniff*... 	*ดม* *ดม* *ดม*... *ดม* *ดม* *ดม*...
+03-0978	talk	Yes, yes, <font_kind=yakuza_italic>yes</font_kind>! Their fuchsia power is welling up within me!	ใช่ ใช่ <font_kind=yakuza_italic>ใช่</font_kind>! พลังสีชมพูอมม่วงกำลัง พลุ่งพล่านอยู่ในตัวข้าพเจ้า!
+03-0979	talk	Hrahhh!	ฮร้าาห์!
+03-0980	talk	What!? Is he actually getting stronger!?	อะไรกัน!? มันแข็งแกร่งขึ้นจริง ๆ เหรอเนี่ย!?
+03-0981	talk	The scent of eros grants me strength! Prepare yourself for the might of my swelling libido!	กลิ่นแห่งกามารมณ์มอบพลังให้ข้าพเจ้า! จงเตรียมรับมือพลังแห่งราคะอัน พลุ่งพล่านของข้าพเจ้าเถิด!
+03-0982	talk	How!? Even my panty-fueled rage couldn't cut the mustard...	ทำไมกัน!? แม้แต่ความคลั่งจากกางเกงในก็ ยังเอาชนะไม่ได้...
+03-0983	talk	Hey! You're coming downtown, sicko!	เฮ้ย! ไปโรงพักซะ ไอ้โรคจิต!
+03-0984	talk	I may have fallen limp... but the others still stand erect! They shall ensure you meet your end!	ข้าพเจ้าอาจล้มลงแล้ว... แต่คนอื่นในทีมยังยืนหยัดอยู่! พวกเขาจะจัดการให้เจ้าถึงจุดจบแน่นอน!
+03-0985	talk	Hahaha... Hahahahaha! See you in hell!	ฮ่าฮ่าฮ่า... ฮ่าฮ่าฮ่าฮ่าฮ่า! ไปเจอกันในนรกนะ!
+03-0986	talk	That's enough outta you! Come on!	พอได้แล้วนะ ไปกันเลย!
+03-0987	talk	(I should tell the Saotome twins what happened.)	(ต้องไปบอกฝาแฝดตระกูลซาโอโตเมะ ว่าเกิดอะไรขึ้นซะหน่อย)
+03-0988	talk	You can rest easy now. The Panty Professor's going away for a long time.	ตอนนี้วางใจได้เลยครับ ศาสตราจารย์กางเกงในจะต้อง เข้าไปอยู่ในนั้นอีกนาน
+03-0989	talk	Wow! You're amazing, Yagami-san! You actually caught him!	โห! คุณเจ๋งมากเลยครับ ยากามิซัง! จับเขาได้จริง ๆ ด้วย!
+03-0990	talk	Thank you, Yagami-san. Now I can sleep in peace.	ขอบคุณค่ะ ยากามิซัง ตอนนี้ดิฉันนอนหลับสบายได้แล้วค่ะ
+03-0991	talk	Oh, but before I forget, I think Tsukino wanted to ask a favor of you.	อ้อ เกือบลืมไป ผมว่าสึกิโนะอยาก ขอความช่วยเหลือจากคุณสักอย่าง นะครับ
+03-0992	talk	Yeah? Shoot.	อ้อเหรอ ว่ามาเลย
+03-0993	talk	Um... This is hard to ask, but...	เอ่อ... เรื่องนี้พูดยากนิดหน่อยค่ะ แต่...
+03-0994	talk	Don't worry, I can take it.	ไม่ต้องห่วง ผมรับได้
+03-0995	talk	Can you, um... destroy any records of what I told you about my panties? Knowing that's out there is mortifying...	คุณช่วย... เอ่อ ทำลายบันทึกทุกอย่างที่ฉัน เล่าเรื่องกางเกงในให้ฟังได้ไหม คะ? แค่คิดว่ามันยังมีอยู่ก็อายจะแย่แล้ว...
+03-0996	talk	Sure, if that'll make you more comfortable.	ได้ ถ้ามันทำให้คุณสบายใจขึ้น
+03-0997	talk	This Panty Professor is probably the first guy to actually see them, huh Tsukino?	ไอ้ศาสตราจารย์กางเกงในนี่คง เป็นผู้ชายคนแรกที่ได้เห็น ของจริงเลยมั้ง สึกิโนะ?
+03-0998	talk	Didn't I just say I didn't want to think about it!?	บอกแล้วไงว่าไม่อยากคิดเรื่องนี้!?
+03-0999	talk	Hey, Yagami-san, just so you know, Tsukino is on the market, and I'd say if <font_kind=yakuza_italic>you</font_kind> wanted to see her panties...	เฮ่ ยากามิซัง จะบอกให้นะ สึกิโนะยังโสดอยู่ ถ้า<font_kind=yakuza_italic>คุณ</font_kind>อยากเห็นกางเกงในของเธอละก็...
+03-1000	talk	Haha, get outta here with that.	ฮ่าๆ พูดอะไรของนายเนี่ย
+03-1001	talk	The Twisted Trio. Let's hope the cops get to deal with the other two...	สามโรคจิต หวังว่าตำรวจจะจัดการอีกสองคน ที่เหลือได้...
+03-1002	talk	Um... You must be Saotome-san?	เอ่อ... คุณคือคุณซาโอโตเมะใช่ไหมครับ?
+03-1003	talk	I'm Yagami, the detective you were asking about.	ผมยากามิ นักสืบที่คุณสอบถามถึงครับ
+03-1004	talk	Ah! It's a pleasure to meet you, Yagami-san!	อ้า! ยินดีที่ได้รู้จักครับ ยากามิซัง!
+03-1005	talk	(All right, time to head up.)	(เอาล่ะ ได้เวลาขึ้นไปแล้ว)
+03-1006	talk	'Scuse me... I don't mean to scare ya, but I need help bad...	ขอโทษนะ... ไม่ได้ตั้งใจจะทำให้ตกใจหรอก แต่ผมต้องการความช่วยเหลือด่วนจริงๆ...
+03-1007	talk	...What's the matter? Are you hurt?	...เป็นอะไรไป? บาดเจ็บหรือเปล่า?
+03-1008	talk	My stomach, it's... killing me all of a sudden... *groan*	ท้องผมมัน... ปวดจนแทบตายเลยจู่ๆ ก็เป็น... *คราง*
+03-1009	talk	Should I call an ambulance?	จะให้เรียกรถพยาบาลไหม?
+03-1010	talk	No, don't do that... I don't have that kinda money... Please, just go get Moroboshi-sensei...	ไม่ อย่าเรียกเลย... ผมไม่มีเงินขนาดนั้นหรอก... ได้โปรด แค่ไปตามอาจารย์โมโรโบชิมาให้ที...
+03-1011	talk	Is he some kind of doctor?	เขาเป็นหมออะไรทำนองนั้นเหรอ?
+03-1012	talk	Y-Yeah, he should be underground in the sewers... You can get there through a manhole in the Children's Park...	ใ-ใช่ เขาน่าจะอยู่ใต้ดินในท่อระบายน้ำ... คุณเข้าไปได้ทางฝาท่อในสวนเด็ก...
+03-1013	talk	All right. Stay put for a minute.	ได้ อยู่ตรงนี้เดี๋ยวนะ
+03-1014	talk	He'll understand if you tell him Kondo is asking for him. Please... hurry...	แค่บอกว่าคนโดะตามหาเขา เขาก็เข้าใจเอง ได้โปรด... รีบไปเถอะ...
+03-1015	talk	(Why would a doctor be hanging around in the sewers? ...Guess that's not what really matters here.)	(ทำไมหมอถึงต้องมาป้วนเปี้ยนอยู่ ในท่อระบายน้ำนะ? ...เอาเถอะ ตอนนี้คงไม่ใช่ประเด็นสำคัญ)
+03-1016	talk	Hey, are you Moroboshi-sensei?	นี่ คุณคืออาจารย์โมโรโบชิใช่ไหม?
+03-1017	talk	...I am. And who might you be?	...ใช่ แล้วคุณล่ะเป็นใคร?
+03-1018	talk	Doesn't ring a bell. So what do you want?	ไม่คุ้นเลย แล้วต้องการอะไร?
+03-1019	talk	(...What was I supposed to tell this guy again?)	(...ผมต้องบอกอะไรกับเขานะ?)
+03-1020	talk	Your homeboy's calling for you.	เพื่อนซี้นายเรียกอยู่นะ
+03-1021	talk	...Hmm?	...อืม?
+03-1022	talk	Oh, wait, that isn't what I meant...	อ้อ เดี๋ยวนะ ไม่ใช่แบบที่ผมหมายถึง...
+03-1023	talk	No rush. Think about what you're saying here.	ไม่ต้องรีบ คิดดีๆ ก่อนว่าจะพูดอะไร
+03-1024	talk	(Damn. What was I supposed to say again...?)	(บ้าเอ๊ย ผมต้องพูดอะไรนะ...?)
+03-1025	talk	Moroboshi's calling for you.	โมโรโบชิเรียกนายอยู่นะ
+03-1026	talk	Huh? What do you mean? I'm Moroboshi.	หา? หมายความว่าไง? ผมคือโมโรโบชิ
+03-1027	talk	There's no need to rush. Just stay calm and be precise.	ไม่จำเป็นต้องรีบร้อน ใจเย็นๆ แล้วพูดให้ชัดเจน
+03-1028	talk	(Crap, I got it wrong. Uhh, what was I supposed to say again...?)	(แย่แล้ว พูดผิดซะได้ เอ่อ... ผมต้องพูดอะไรนะ...?)
+03-1029	talk	The condor has left the nest.	คอนดอร์ออกจากรังแล้ว
+03-1030	talk	There's this homeless guy, goes by Kondo. You know him? He was asking for your help just now.	มีคนไร้บ้านคนหนึ่งชื่อคนโดะ รู้จักไหม? เขาเพิ่งขอให้ผมมาตามคุณไปช่วย
+03-1031	talk	...What? Kondo-san was?	...อะไรนะ? คนโดะซังงั้นเหรอ?
+03-1032	talk	Yeah. He said his stomach was killing him.	ใช่ เขาบอกว่าท้องปวดจนแทบตาย
+03-1033	talk	Public Park Three.	สวนสาธารณะสาม
+03-1034	talk	H-Hey!	เ-เฮ้!
+03-1035	talk	Whoo... I made it! Thanks a million, doc. You too, my guy.	โอ้โห... รอดมาได้! ขอบคุณมากๆ เลยนะ หมอ แล้วก็ขอบใจนายด้วยนะเพื่อน
+03-1036	talk	Did you eat something strange again?	ไปกินอะไรแปลกๆ เข้าอีกแล้วเหรอ?
+03-1037	talk	Uhh, let me think... Well, I did some dumpster diving at Pink Street yesterday. I knew I tasted something fishy!	เอ่อ ขอคิดก่อนนะ... เมื่อวานผมไปคุ้ยถังขยะแถว ถนนพิงก์สตรีทมา รู้สึกแปลกๆ ตั้งแต่ตอนกินแล้วเชียว!
+03-1038	talk	For crying out loud...	ให้ตายสิ...
+03-1039	talk	Hahaha. Oops, looks like Kondo-san's done it again! ♪	ฮ่าๆๆ อุ๊ย ดูเหมือนคนโดะซังจะทำพลาดอีกแล้ว!
+03-1040	talk	Yagami-san... wasn't it?	ยากามิซัง... ใช่ไหม?
+03-1041	talk	Sorry for your trouble. This guy's always eating trash and messing up his stomach.	ขอโทษที่ทำให้คุณลำบาก เจ้านี่ชอบกินขยะจนท้องเสียเป็นประจำ
+03-1042	talk	No worries. But I've gotta ask, are you actually a doctor?	ไม่เป็นไรครับ แต่ผมขอถามหน่อย คุณเป็นหมอจริงๆ เหรอ?
+03-1043	talk	...Yeah. Or at least, I was. But that's all in the past.	...ใช่ หรืออย่างน้อยก็เคยเป็น แต่นั่นมันอดีตไปแล้ว
+03-1044	talk	Moroboshi-sensei used to be a doctor at this huuuge medical university!	อาจารย์โมโรโบชิเคยเป็นหมอที่ มหาวิทยาลัยแพทย์ใหญ่โตมากเลยนะ!
+03-1045	talk	But he's been down in the dumps since he lost his chance to become a professor. So he started helping us out instead.	แต่หลังจากพลาดโอกาสเป็นศาสตราจารย์ เขาก็ซังกะตายมาตลอด เลยหันมาช่วยพวกเราแทน
+03-1046	talk	...You talk too much, Kondo-san.	...พูดมากไปแล้ว คนโดะซัง
+03-1047	talk	Oopsie-daisy. My bad.	อุ๊ยตาย ขอโทษที
+03-1048	talk	As for you, Yagami-san... Here's something for your trouble. I know it isn't much.	ส่วนคุณ ยากามิซัง... นี่เป็นค่าตอบแทนเล็กๆ น้อยๆ รู้ว่าไม่มากหรอกนะ
+03-1049	talk	I appreciate it either way.	ยังไงก็ขอบคุณนะครับ
+03-1050	talk	Thanks for helping out, Yagami-san! I'll see you around.	ขอบคุณที่ช่วยเหลือนะ ยากามิซัง! แล้วเจอกันใหม่
+03-1051	talk	Ah. Yagami-san. Thanks for the other day.	อ้อ ยากามิซัง ขอบคุณสำหรับเมื่อวันก่อนนะ
+03-1052	talk	No sweat, Moroboshi-sensei. Good to see you.	ไม่เป็นไรเลยครับ อาจารย์โมโรโบชิ ดีใจที่ได้เจอกันอีก
+03-1053	talk	So... You used to be part of a medical university? What was that like?	ว่าแต่... คุณเคยอยู่ในมหาวิทยาลัยแพทย์เหรอ? เป็นยังไงบ้าง?
+03-1054	talk	...That was a long time ago. Thinking back on it now, I can't believe I got swept up in all that bullshit.	...นั่นมันนานมาแล้ว พอมานั่งคิดตอนนี้ ผมเองก็ยังไม่อยากเชื่อว่าเคยไป พัวพันกับเรื่องเหลวไหลพวกนั้น
+03-1055	talk	All I ever thought about was how to get tenured, even at the cost of the people around me. Couldn't trust anyone.	ตอนนั้นคิดแต่เรื่องจะได้ ตำแหน่งประจำยังไง แม้ต้องแลกด้วยคนรอบตัวก็ตาม ไว้ใจใครไม่ได้เลยสักคน
+03-1056	talk	After I left the hospital and ended up on the streets, these folks were the only ones who showed me any kind of dignity.	หลังจากออกจากโรงพยาบาลมา เร่ร่อนตามถนน มีแต่คนพวกนี้แหละที่ยัง ให้เกียรติผมเหมือนคนคนหนึ่ง
+03-1057	talk	They've been taking care of me ever since.	พวกเขาดูแลผมมาตลอดตั้งแต่นั้น
+03-1058	talk	Wow... I had no idea.	โห... ไม่เคยรู้เลยครับ
+03-1059	talk	Moroboshi-sensei! Help, we need a doctor!	อาจารย์โมโรโบชิ! ช่วยด้วย ต้องการหมอด่วน!
+03-1060	talk	What's wrong, Hamanaka-san?	เกิดอะไรขึ้น ฮามานากะซัง?
+03-1061	talk	I-It's Kondo-san! He got into an accident!	เ-เป็นคนโดะซัง! เขาประสบอุบัติเหตุ!
+03-1062	talk	We're bringing him here right now, so can you take a look!?	ตอนนี้กำลังพาเขามา ช่วยดูให้หน่อยได้ไหม!?
+03-1063	talk	I'm on it!	รับทราบ!
+03-1064	talk	All right. I've done everything I can. But we don't have enough blood for a proper transfusion...	เอาล่ะ ผมทำทุกอย่างที่ทำได้แล้ว แต่เลือดไม่พอสำหรับ การถ่ายเลือดอย่างเหมาะสม...
+03-1065	talk	...Yagami-san, Hamanaka-san. I have a favor to ask.	...ยากามิซัง ฮามานากะซัง ผมมีเรื่องอยากขอร้อง
+03-1066	talk	What is it, Moroboshi-sensei!?	เรื่องอะไรเหรอ อาจารย์โมโรโบชิ!?
+03-1067	talk	We need people who can donate type O blood to Kondo-san... Several of them!	เราต้องการคนที่บริจาคเลือดกรุ๊ป O ให้คนโดะซังได้... หลายคนเลย!
+03-1068	talk	Okay! I'll ask around the homeless community!	ได้! ฉันจะไปถามในกลุ่มคนไร้บ้านดู!
+03-1069	talk	I'm going to ask around the Champion District, so could you take care of Public Park Three?	ฉันจะไปถามแถวย่านแชมเปียน คุณช่วยไปดูที่สวนสาธารณะสามได้ไหม?
+03-1070	talk	Public Park Three. Got it.	สวนสาธารณะสาม เข้าใจแล้ว
+03-1071	talk	All right, I'm counting on you!	โอเค ฝากด้วยนะ!
+03-1072	talk	Excuse me! Is anyone here blood type O?	ขอโทษนะครับ! มีใครเลือดกรุ๊ป O บ้างไหม?
+03-1073	talk	Huh? What's this all of a sudden?	หา? อยู่ๆ มาถามอะไรแบบนี้?
+03-1074	talk	This guy named Kondo-san got into an accident and needs a blood transfusion, fast!	มีคนชื่อคนโดะซังประสบอุบัติเหตุ ต้องการเลือดด่วน!
+03-1075	talk	What did you say!? Kon-chan's hurt!? Are you serious?	ว่าไงนะ!? คงจังบาดเจ็บเหรอ!? จริงหรือเปล่า?
+03-1076	talk	Yes! So please! Is there anyone with type O blood!?	จริงครับ! ได้โปรด! มีใครเลือดกรุ๊ป O บ้างไหม!?
+03-1077	talk	I'm... type O.	ฉัน... กรุ๊ป O นะ
+03-1078	talk	Great! Now would you please come with me right away?	เยี่ยมเลย! ช่วยไปกับผมเดี๋ยวนี้ได้ไหมครับ?
+03-1079	talk	S-Sure. Anything for Kon-chan.	ไ-ได้สิ เพื่อคงจังทำได้ทุกอย่าง
+03-1080	talk	Then let's get going!	งั้นไปกันเลย!
+03-1081	talk	...Alright, that should do it.	...เอาล่ะ น่าจะพอแล้ว
+03-1082	talk	That was a close one...	หวุดหวิดจริงๆ...
+03-1083	talk	Moroboshi-sensei, thank you so much!	อาจารย์โมโรโบชิ ขอบคุณมากๆ เลยนะ!
+03-1084	talk	Man, I'm so happy right now.	โอ๊ย ดีใจจริงๆ ตอนนี้
+03-1085	talk	Thanks again, Yagami-san. Sorry to put you out like that.	ขอบคุณอีกครั้งนะ ยากามิซัง ขอโทษที่ทำให้ต้องลำบากแบบนั้น
+03-1086	talk	It was no trouble at all.	ไม่ลำบากเลยครับ
+03-1087	talk	Well, I need to thank you somehow.	ยังไงก็ต้องขอบคุณคุณสักหน่อย
+03-1088	talk	If you find yourself injured, I'll treat you any time. Stop by whenever medicine alone won't do the trick.	ถ้าคุณบาดเจ็บเมื่อไหร่ ผมรักษาให้ได้ทุกเมื่อ แวะมาได้เวลาที่ยากินยาไม่พอ
+03-1089	talk	You're welcome here anytime.	มาที่นี่ได้ทุกเวลาเลย
+03-1090	talk	I do have to charge you, of course.	แน่นอนว่าต้องคิดค่าใช้จ่ายด้วยนะ
+03-1091	talk	Heh. Sounds like just what the doctor ordered.	ฮึ ฟังดูเหมือนคำสั่งของหมอเป๊ะเลย
+03-1092	talk	Indeed. Well then. I'll see you around.	ใช่แล้ว เอาล่ะ แล้วเจอกันนะ
+03-1093	talk	You need anything, Yagami-san?	ต้องการอะไรไหม ยากามิซัง?
+03-1094	talk	Could I bother you for a check-up?	ขอรบกวนตรวจร่างกายหน่อยได้ไหมครับ?
+03-1095	talk	Treatment's gonna cost you 20,000 yen. I am running a business, after all.	ค่ารักษาคิด 20,000 เยนนะ ยังไงผมก็ทำธุรกิจอยู่
+03-1096	talk	I see. Don't push yourself too hard, all right?	เข้าใจแล้ว อย่าฝืนตัวเองมากเกินไปนะ
+03-1097	talk	Your treatment's all finished. Drop by again whenever you feel the need.	รักษาเสร็จเรียบร้อยแล้ว แวะมาได้อีกเมื่อรู้สึกจำเป็น
+03-1098	talk	Hm? Looks like you don't have enough money.	หืม? ดูเหมือนเงินไม่พอนะ
+03-1099	talk	I'll see you any time, so come back later.	เจอกันได้ทุกเมื่อ กลับมาใหม่ทีหลังนะ
+03-1100	talk	Hold on, you're completely healthy. Enough with the jokes.	เดี๋ยวนะ คุณสุขภาพดีมากเลยนะเนี่ย พอทีกับมุกนี้
+03-1101	talk	Drop by again if there's anything else you need.	แวะมาใหม่ถ้ามีอะไรต้องการอีก
+03-1102	talk	My schedule's always flexible, so come back anytime.	ตารางผมว่างตลอดอยู่แล้ว กลับมาได้ทุกเมื่อ
+03-1103	talk	Hm? Looks like you can't hold anything else.	หืม? ดูเหมือนจะถืออะไรเพิ่มไม่ได้แล้วนะ
+03-1104	talk	My schedule's always flexible, so come back once you lighten your load.	ตารางผมว่างตลอดอยู่แล้ว กลับมาใหม่ตอนของเบาลงนะ
+03-1105	talk	Aghhh...	อ๊าก...
+03-1106	talk	Hey, that was delicious.	เฮ่ อร่อยมากเลย
+03-1107	talk	Thanks. I noticed you've been here a couple times.	ขอบคุณนะ สังเกตว่าคุณแวะมาหลายครั้งแล้ว
+03-1108	talk	Yeah, I try to swing by every so often.	ใช่ ผมพยายามแวะมาเรื่อยๆ
+03-1109	talk	Cool. I'm Haoyu Xiu, by the way.	เจ๋งเลย อ้อ ฉันชื่อเฮ่าอวี่ ซิวนะ
+03-1110	talk	...You got yourself a name, partner?	...แล้วคุณล่ะ มีชื่อไหม เพื่อน?
+03-1111	talk	You can call me Yagami.	เรียกผมว่ายากามิก็ได้
+03-1112	talk	Yagami-san, huh? Okay. So, I'm new here in Japan.	ยากามิซังเหรอ โอเค เอาล่ะ ฉันเพิ่งมาญี่ปุ่นได้ไม่นาน
+03-1113	talk	Ah. Did you just arrive or something?	อ้อ เพิ่งมาถึงเหรอ?
+03-1114	talk	Actually, I've been here for a while now, but it's still all new to me!	จริงๆ ก็อยู่มาสักพักแล้วนะ แต่ก็ยังรู้สึกใหม่อยู่ตลอดเลย!
+03-1115	talk	That makes sense. It does take time to adjust, especially when you're right in the heart of downtown.	ก็จริงอยู่ มันต้องใช้เวลาปรับตัวโดย เฉพาะตอนที่อยู่ใจกลางเมือง แบบนี้
+03-1116	talk	You got that right! Never thought I'd end up in Kamurocho of all places...	พูดถูกเผงเลย! ไม่คิดเลยว่าจะมาลงเอยที่คามุโรโจนี่...
+03-1117	talk	I started off listening to Japanese music. I'd look up words I didn't know and study them as much as I could.	ตอนแรกเริ่มจากฟังเพลงญี่ปุ่น พอเจอคำไหนไม่รู้ก็ค้นหาแล้ว ศึกษาให้มากที่สุดเท่าที่จะ ทำได้
+03-1118	talk	Next thing I knew, I ended up here... mastering the language that moved my heart.	แล้วอยู่ๆ ก็มาอยู่ที่นี่... เก่งภาษาที่สะกดใจฉันได้
+03-1119	talk	But I still have a long road ahead of me...	แต่ก็ยังมีหนทางอีกยาวไกลนะ...
+03-1120	talk	Well I think you're doing just fine. Take it one step at a time, and I'm sure you'll be all right. Good luck, Xiu.	ผมว่าคุณทำได้ดีอยู่แล้วนะ ค่อยๆ ไปทีละก้าว ผมมั่นใจว่าต้องไหว โชคดีนะ ซิว
+03-1121	talk	Thank you very much! Please come again!	ขอบคุณมากๆ เลย เชิญมาอุดหนุนใหม่นะ
+03-1122	talk	Mmm. That was good.	อืม อร่อยดี
+03-1123	talk	Thanks! Glad you came by.	ขอบคุณนะ! ดีใจที่แวะมา
+03-1124	talk	You're Xiu, right? We met the other day. Getting used to Japan yet?	คุณคือซิวใช่ไหม เราเคยเจอกันเมื่อวันก่อน เริ่มคุ้นกับญี่ปุ่นหรือยัง?
+03-1125	talk	Mmm, yes and no. To be honest, I'm finding that Kamurocho's kind of dangerous...	อืม ใช่และก็ไม่ใช่ พูดตามตรงนะ ฉันว่าคามุโรโจนี่อันตรายอยู่ เหมือนกัน...
+03-1126	talk	Hate to say it, but around these parts, it is. Welcome to the jungle.	ไม่อยากพูดแบบนี้เลย แต่แถวนี้ก็จริงอย่างที่ว่า ยินดีต้อนรับสู่ป่าคอนกรีต
+03-1127	talk	You know, a woman got shot in the city just the other day...	รู้ไหม เมื่อวันก่อนมีผู้หญิงโดนยิงใน เมืองด้วยนะ...
+03-1128	talk	Oh, that sort of stuff only happens once in a blue moon. You'll be okay.	อ๋อ เรื่องแบบนั้นนานๆ จะเกิดสักครั้งเอง คุณไม่เป็นไรหรอก
+03-1129	talk	I know. Danger won't stop me from liking Japan any less!	รู้นะ แต่อันตรายก็ไม่ทำให้ฉันรัก ญี่ปุ่นน้อยลงหรอก!
+03-1130	talk	Though I probably should mention... People do tend to get a bit punchy around here. It happens on the regular.	แต่ผมคงต้องเตือนไว้หน่อย... คนแถวนี้มักจะพาลชกต่อยกันได้ง่ายๆ เป็นเรื่องปกติเลย
+03-1131	talk	What do you mean by... punchy?	หมายความว่ายังไงเหรอ... พาลชกต่อย?
+03-1132	talk	Oh, that just means people get into fights all the time.	อ๋อ ก็แค่หมายความว่าคนที่นี่ชอบ มีเรื่องชกต่อยกันบ่อยๆ น่ะ
+03-1133	talk	People fight here all the time!? That's... not good!	คนที่นี่ชกต่อยกันตลอดเวลาเลยเหรอ!? นั่น... ไม่ดีเลย!
+03-1134	talk	My advice? If you're about to get dragged into something shady, just book it. Oh, and thank you for the meal!	คำแนะนำของผมคือ ถ้าเริ่มโดนลากเข้าไปในเรื่อง ที่ดูไม่ชอบมาพากล ให้รีบวิ่งหนีเลย อ้อ แล้วก็ขอบคุณสำหรับมื้ออาหารนะ!
+03-1135	talk	Okay then... I'll do that. Hope to see you again soon.	โอเค... งั้นฉันจะทำแบบนั้น หวังว่าจะได้เจอกันอีกเร็วๆ นี้นะ
+03-1136	talk	Hm? Did something happen just now?	หืม? เพิ่งเกิดอะไรขึ้นเหรอ?
+03-1137	talk	Yagami-san...! *gasp* A regular... *pant* g-got punchy...	ยากามิซัง...! *หอบ* ลูกค้าประจำ... *หายใจหอบ* พ-พาลชกต่อย...
+03-1138	talk	Are you okay? Calm down and tell me what happened.	คุณไม่เป็นไรใช่ไหม ใจเย็นๆ แล้วเล่าให้ผมฟังว่าเกิดอะไรขึ้น
+03-1139	talk	...Had no money. *sigh* Just... booked it!	...ไม่มีเงิน *ถอนหายใจ* ก็เลย... วิ่งหนี!
+03-1140	talk	I don't exactly... Uh, what do you mean?	ผมไม่ค่อยเข้าใจ... เอ่อ หมายความว่ายังไงเหรอ?
+03-1141	talk	(All I understood was "regular," "punchy," "had no money," and "booked it." What's Xiu trying to say here?)	(ที่ผมฟังออกมีแค่ "ลูกค้าประจำ" "พาลชกต่อย" "ไม่มีเงิน" กับ "วิ่งหนี" ซิวพยายามจะบอกอะไรกันแน่นะ?)
+03-1142	talk	After doing your regular boxing regimen, you tried to buy a book to improve your punching, but you didn't have the cash.	หลังจากซ้อมมวยตามปกติแล้ว คุณพยายามจะซื้อหนังสือมา พัฒนาการชกของตัวเอง แต่ดันไม่มีเงินจ่ายใช่ไหม
+03-1143	talk	What are you saying, Yagami-san? That's not even close!	พูดอะไรของคุณเนี่ย ยากามิซัง? ไม่ใกล้เคียงเลยสักนิด!
+03-1144	talk	(So that wasn't it... What the heck is Xiu trying to tell me?)	(งั้นก็ไม่ใช่... แล้วซิวพยายามจะบอกอะไรผมกันแน่?)
+03-1145	talk	It almost sounded like you hang out with the bad crowd. The kind who would punch bookworms and take their money.	ฟังดูเหมือนคุณไปคบกับพวกนักเลง ประเภทที่ชอบชกหนอนหนังสือแล้ว ปล้นเงินเขาน่ะ
+03-1146	talk	You served some punch to one of your regulars, and since he was a starving author, he decided to write a book about it?	คุณเสิร์ฟพันช์ให้ลูกค้าประจำคนหนึ่ง แล้วเขาซึ่งเป็นนักเขียนที่ กำลังอดอยากก็เลยตัดสินใจ เขียนหนังสือเกี่ยวกับเรื่องนี้เหรอ?
+03-1147	talk	Wait a minute. A regular... who had no money... got punchy... and decided to book it...?	เดี๋ยวก่อนนะ ลูกค้าประจำ... ที่ไม่มีเงิน... พาลชกต่อย... แล้วก็วิ่งหนี...?
+03-1148	talk	Are you saying that a regular customer got violent with you because he refused to pay the bill, then took off!?	หมายความว่าลูกค้าประจำคนหนึ่ง ใช้ความรุนแรงกับคุณ เพราะไม่ยอมจ่ายบิล แล้วก็หนีไปใช่ไหม!?
+03-1149	talk	Yes! That guy who just ran outside, he's the one! Hurry, please catch him before he gets away!	ใช่เลย! คนที่เพิ่งวิ่งออกไปข้างนอกนั่นแหละ! รีบไปตามจับเขาก่อนจะหนีไปได้เลยนะ!
+03-1150	talk	Gotcha! I'll be back before you know it!	รับทราบ! เดี๋ยวผมกลับมาไวๆ นี้!
+03-1151	talk	That's as far as you go, buddy! Just settle down and we won't have to do this the hard way.	หยุดอยู่แค่นั้นแหละเพื่อน! ใจเย็นๆ ไว้ จะได้ไม่ต้องทำเรื่องนี้ให้ยากขึ้น
+03-1152	talk	Hello? Officer? Yeah, we got an issue here...	ฮัลโหล ตำรวจใช่ไหมครับ? ใช่ครับ มีเรื่องเกิดขึ้นที่นี่...
+03-1153	talk	Excellent work, Yagami-san. You really helped me out of a bind.	เก่งมากเลย ยากามิซัง คุณช่วยฉันพ้นเรื่องยุ่งยากไปได้จริงๆ
+03-1154	talk	Hey, no problem.	ไม่เป็นไรเลย
+03-1155	talk	Sometimes I have trouble speaking when I panic. I'm glad you bothered to understand me when no one else would.	บางทีพอตกใจฉันก็พูดไม่ค่อยรู้เรื่อง ดีใจที่คุณอุตส่าห์พยายามเข้าใจฉัน ทั้งที่คนอื่นไม่มีใครทำแบบนั้นเลย
+03-1156	talk	It wasn't a bother at all. Even if your words didn't reach me initially, your feelings sure did.	ไม่ลำบากเลยครับ ต่อให้คำพูดของคุณจะสื่อไม่ถึง ผมตอนแรก แต่ความรู้สึกของคุณสื่อถึงแน่นอน
+03-1157	talk	Heh heh. Yagami-san, you rock!	เฮ่อๆ ยากามิซัง คุณเจ๋งมากเลย!
+03-1158	talk	Oh, that's right! I had something to give you. It might not seem that useful at first glance, but take a look anyway.	อ้อ จริงด้วย! มีของอยากให้คุณด้วย มองแวบแรกอาจดูไม่ค่อย มีประโยชน์เท่าไหร่ แต่ลองดูก่อนนะ
+03-1159	talk	I found it at a used bookstore. I thought it was pretty interesting!	เจอมันที่ร้านหนังสือมือสอง คิดว่ามันน่าสนใจดีนะ!
+03-1160	talk	"The Art of Gluttony"? What is this?	"ศิลปะแห่งความตะกละ"? นี่มันอะไรกัน?
+03-1161	talk	I bought this because I thought it would help me study. Wasn't too helpful in the end, but at least I got a kick out of it.	ซื้อมาเพราะคิดว่าจะช่วยเรื่อง เรียนได้ สุดท้ายก็ไม่ค่อยช่วยเท่าไหร่ แต่อย่างน้อยก็สนุกดี
+03-1162	talk	I see. Then I appreciate the gesture.	เข้าใจแล้ว งั้นผมขอบคุณสำหรับน้ำใจนะ
+03-1163	talk	Thanks again! Oh, and don't forget to come back for our delicious beef bowls! Akaushimaru's still the best in town!	ขอบคุณอีกครั้งนะ! อ้อ แล้วอย่าลืมกลับมากินข้าวหน้า เนื้ออร่อยๆ ของเราด้วยล่ะ! อากาอุชิมารุยังคงเป็นที่หนึ่ง ในเมืองนี้เสมอ!
+03-1164	talk	I'll be back for sure.	ผมจะกลับมาแน่นอน
+03-1165	talk	Welcome! Would you like to learn about our music fair today?	ยินดีต้อนรับค่ะ! วันนี้สนใจฟังเรื่องงานมิวสิก แฟร์ของเราไหมคะ?
+03-1166	talk	Sure, why not. What's this all about?	ได้สิ ทำไมจะไม่ได้ล่ะ มันเกี่ยวกับอะไรเหรอ?
+03-1167	talk	So! With every 700 yen purchase you make, you will earn 1 point.	ก็คือ! ทุกๆ การซื้อครบ 700 เยน จะได้รับ 1 แต้มค่ะ
+03-1168	talk	Once you get 10 points total, we'll present you with a shiny new record!	พอสะสมครบ 10 แต้ม เราจะมอบแผ่นเสียงใหม่เอี่ยมให้เลยค่ะ!
+03-1169	talk	(Hmm... We do have a record player back at the office...)	(อืม... ที่ออฟฟิศก็มีเครื่องเล่น แผ่นเสียงอยู่นะ...)
+03-1170	talk	On top of that, each branch carries a different record, so be sure to check us out all over Kamurocho!	นอกจากนี้แต่ละสาขายังมี แผ่นเสียงไม่เหมือนกันด้วยนะคะ อย่าลืมแวะเวียนไปทุกสาขาทั่ว คามุโรโจเลยค่ะ!
+03-1171	talk	Now let's get this music fair poppin'!	เอาล่ะ มาสนุกกับงานมิวสิกแฟร์กันเลยค่ะ!
+03-1172	talk	(So everything I buy at Poppo counts toward a prize? That's not a bad deal.)	(ทุกอย่างที่ซื้อที่ป๊อปโปนับ สะสมแต้มได้หมดเลยเหรอ? ก็ไม่เลวนะ)
+03-1173	talk	Thanks for stopping by. With the purchase you've made today, your point total has gone up by <t:get_poppo_point>. 	ขอบคุณที่แวะมานะคะ จากการซื้อวันนี้ แต้มของคุณเพิ่มขึ้น <t:get_poppo_point> แต้มค่ะ 
+03-1174	talk	Currently, you have a <t:now_poppo_point=friend_032_kizuna_point>-point total.	ตอนนี้คุณมีแต้มสะสมทั้งหมด <t:now_poppo_point=friend_032_kizuna_point> แต้มค่ะ
+03-1175	talk	Gather 10 points and we'll present you with a shiny new record!	สะสมให้ครบ 10 แต้ม แล้วเราจะมอบแผ่นเสียง ใหม่เอี่ยมให้เลยค่ะ!
+03-1176	talk	Thanks for shopping with Poppo! Come again soon!	ขอบคุณที่ใช้บริการป๊อปโปนะคะ! แวะมาใหม่เร็วๆ นี้นะคะ!
+03-1177	talk	Oh, looks like you've reached 10 points! Congratulations!	โอ้ ดูเหมือนคุณจะสะสมครบ 10 แต้มแล้ว! ยินดีด้วยค่ะ!
+03-1178	talk	About time, too.	ในที่สุดก็ครบสักที
+03-1179	talk	Here's your limited-edition record, sir!	นี่คือแผ่นเสียงรุ่นลิมิเต็ดเอ ดิชันของคุณค่ะ!
+03-1180	talk	Thanks for shopping with Poppo! Please come again soon!	ขอบคุณที่ใช้บริการป๊อปโปนะคะ! เชิญแวะมาใหม่เร็วๆ นี้ค่ะ!
+03-1181	talk	Today's the day, old man. Time to pay them dues!	วันนี้แหละวันจ่าย ตาเฒ่า จ่ายค่าคุ้มครองซะ!
+03-1182	talk	Better do what aniki tells you while he's still in a good mood!	รีบทำตามที่อานิกิสั่งซะ ตอนที่เขายังอารมณ์ดีอยู่!
+03-1183	talk	I-I understand what you want, but... Why don't I let you try our new dessert instead?	ผ-ผมเข้าใจว่าคุณต้องการอะไร แต่... ให้ผมให้คุณลองขนมใหม่ของร้าน แทนดีไหมครับ?
+03-1184	talk	We don't need your mashed-up old bean shit!	กูไม่เอาถั่วบดเก่าเก็บของมึงหรอกโว้ย!
+03-1185	talk	Oh yes we do! I love me some traditional desserts!	ไม่ว่ะ กูเอา! กูชอบขนมโบราณแบบนี้จะตาย!
+03-1186	talk	Huh? Aniki?	หา? อานิกิ?
+03-1187	talk	Excellent. Our special bean paste is the pride of our store, so I'd definitely recommend it to anyone who likes sweets.	ยอดเยี่ยมครับ ถั่วกวนสูตรพิเศษของร้านเราคือ ความภาคภูมิใจ ผมขอแนะนำให้ทุกคนที่ชอบของหวาน ได้ลองเลยครับ
+03-1188	talk	Ah, then I know just what I want...	อ้า งั้นกูรู้แล้วว่าอยากได้อะไร...
+03-1189	talk	Keep it together, Aniki!	ตั้งสติหน่อยสิ อานิกิ!
+03-1190	talk	(Don't tell me... These fools are harassing Takemitsu <font_kind=yakuza_italic>again</font_kind>?)	(อย่าบอกนะว่า... พวกโง่นี่มากวนใจทาเคมิตสึ<font_kind=yakuza_italic>อีกแล้ว</font_kind>?)
+03-1191	talk	(...Well, sucks to be him.)	(...เอาเถอะ น่าสงสารเขาจริงๆ)
+03-1192	talk	Looks like you guys still haven't learned your lesson.	ดูเหมือนพวกนายจะยังไม่เข็ดกันนะ
+03-1193	talk	Lesson? Wait, aren't you...	เข็ดเหรอ? เดี๋ยวนะ มึงมันไม่ใช่...
+03-1194	talk	The guy who kicked your ass? Yep.	คนที่เคยอัดนายจนน่วมน่ะเหรอ? ใช่แล้ว
+03-1195	talk	Aha! I thought something like this might happen, so I brought five of my toughest boys along with me!	ฮ่ะ! กูก็คิดไว้แล้วว่าอาจจะเจอ เรื่องแบบนี้ เลยพาลูกน้องตัวแกร่งที่สุดห้า คนมาด้วย!
+03-1196	talk	Now it's time for some sweet, sweet revenge! ...And after that, some actual sweets. Mmm.	ได้เวลาแก้แค้นแสนหวานแล้ว! ...แล้วหลังจากนั้นค่อยกินของหวานจริงๆ อืม
+03-1197	talk	Wh-Whaaaaaaaat!? How is this possible...	อะ-อะไรกันเนี่ย!? เป็นไปได้ยังไง...
+03-1198	talk	Quality over quantity, buddy. No matter how many goons you throw at me, they're still gonna end up lying on the ground.	ปริมาณสู้คุณภาพไม่ได้หรอกเพื่อน จะส่งลูกน้องมากี่คนก็จบลงด้วย การนอนแผ่บนพื้นเหมือนเดิม
+03-1199	talk	If I were you, I'd take your sweets and get lost.	ถ้าเป็นนาย ผมคงหอบขนมแล้วรีบไสหัวไปนะ
+03-1200	talk	Well... Okay! Maybe I will!	เอ่อ... ก็ได้! กูไปก็ได้!
+03-1201	talk	Whew... You really did a number on those fellas. Again.	โฮะ... คุณจัดการพวกนั้นซะเรียบเลยนะครับ อีกครั้งด้วย
+03-1202	talk	Just doing my thing.	แค่ทำในสิ่งที่ผมถนัด
+03-1203	talk	Might I have your name so I can thank you properly?	ขอทราบชื่อคุณได้ไหมครับ จะได้ขอบคุณให้สมควร
+03-1204	talk	Sure. I'm Takayuki Yagami.	ได้ครับ ผมทาคายูกิ ยากามิ
+03-1205	talk	I appreciate your intervention, Yagami-san.	ขอบคุณที่เข้ามาช่วยนะครับ ยากามิซัง
+03-1206	talk	I'm sorry it's not much, but please take this. It's one of our newest confections.	ขอโทษที่มันไม่มากนัก แต่โปรดรับไว้เถอะครับ เป็นขนมรุ่นใหม่ล่าสุดของร้าน
+03-1207	talk	Hey, looks good! Thanks.	โอ้ ดูน่ากินเลย! ขอบคุณครับ
+03-1208	talk	No, thank you. Let's just hope this doesn't happen again.	เปล่าเลย ผมต่างหากที่ต้องขอบคุณ หวังว่าเรื่องแบบนี้จะไม่เกิดขึ้นอีก
+03-1209	talk	Seriously. Well, I'll see you around.	จริงๆ นะครับ เอาล่ะ แล้วเจอกันใหม่
+03-1210	talk	Alright, today's the day for sure! I'm gettin' that money outta you no matter what!	เอาล่ะ วันนี้แหละวันจริง! ยังไงกูก็จะเอาเงินจากมึงให้ได้!
+03-1211	talk	Yeah! We've been lenient on your mochi-makin' ass for far too long!	ใช่! เราปล่อยให้มึงทำโมจิขายมานาน เกินไปแล้ว!
+03-1212	talk	That reminds me... I want some more of that mochi from last time. It was so good, it practically melted in my mouth!	เอ้อ นึกขึ้นได้... กูอยากได้โมจิแบบครั้งก่อนอีก อร่อยจนแทบละลายในปากเลย!
+03-1213	talk	Oh, those! I'm glad you enjoyed them. They really are a treat...	อ๋อ อันนั้นเหรอครับ ดีใจที่คุณชอบนะครับ มันอร่อยจริงๆ...
+03-1214	talk	We do have plenty more available this time around. You can buy as much as you like.	รอบนี้เรามีเตรียมไว้เยอะเลยครับ จะซื้อเท่าไหร่ก็ได้
+03-1215	talk	Good, good... I'll be taking one of each. Or you know what, I'll just take the whole batch!	ดีๆ... กูเอาอย่างละชิ้นนะ เอ๊ะ หรือเอางี้ กูเอาทั้งชุดเลยแล้วกัน!
+03-1216	talk	Aniki, not again!	อานิกิ อย่าอีกแล้วนะ!
+03-1217	talk	(These guys...)	(ไอ้พวกนี้อีกแล้ว...)
+03-1218	talk	You people really don't give up, huh?	พวกนายนี่ไม่ยอมเข็ดกันเลยนะ?
+03-1219	talk	Damn straight! You're goin' down today!	แน่นอนอยู่แล้ว! วันนี้มึงซวยแน่!
+03-1220	talk	And would you look at that? I've got ten of my boys with me, so I'll be practically unstoppable!	แล้วดูนี่สิ! กูพาลูกน้องมาสิบคนเลยนะ คราวนี้ไม่มีใครหยุดกูได้แน่!
+03-1221	talk	*sigh* ...Well, at least you put more effort into it this time.	*ถอนหายใจ* ...เอาเถอะ อย่างน้อยรอบนี้ก็พยายามมากขึ้นหน่อย
+03-1222	talk	Gaaaah...	อ๊าาาก...
+03-1223	talk	For the last time, stop bothering this guy. Do you understand?	บอกครั้งสุดท้าย เลิกกวนใจเขาซะที เข้าใจไหม?
+03-1224	talk	You know... if you really like my sweets that much, you can just have some. Here, it's on me today.	รู้ไหมครับ... ถ้าคุณชอบขนมของผมขนาดนั้น เอาไปกินได้เลย วันนี้ผมเลี้ยงเอง
+03-1225	talk	Heh, awright! Nothing beats the taste... of your special sweet bean paste!	เฮ่อ ได้เลย! ไม่มีอะไรเทียบรสชาติ... ถั่วกวนสูตรพิเศษของมึงได้เลยว่ะ!
+03-1226	talk	A-Aniki... Have you completely forgotten our mission?	อ-อานิกิ... ลืมภารกิจของเราไปแล้วเหรอ?
+03-1227	talk	Don't give a damn no more! I decided from here on out, I'm dedicating my life to supporting this shop!	ไม่สนแล้วโว้ย! กูตัดสินใจแล้วว่าต่อจากนี้จะ อุทิศชีวิตให้ร้านนี้!
+03-1228	talk	Then here you go. Don't eat it all in one bite now.	งั้นนี่ไงครับ อย่ากินรวดเดียวหมดล่ะ
+03-1229	talk	Snatchies! I'll take that, thank you very much. Now let's head back to the office!	ฉกเลย! กูขอนะ ขอบใจมากๆ เอาล่ะ กลับที่สำนักงานกันเถอะ!
+03-1230	talk	Yes, sir... Right away, sir...	ครับผม... ได้เลยครับ...
+03-1231	talk	Oh yeah! And make sure to line up here tomorrow and buy me some more of them sweets!	เออใช่! แล้วพรุ่งนี้มาต่อแถวซื้อขนมพวก นี้ให้กูเพิ่มด้วยล่ะ!
+03-1232	talk	Aniki... What are you saying...?	อานิกิ... พูดอะไรของท่านเนี่ย...?
+03-1233	talk	Did I stutter!?	กูพูดตะกุกตะกักรึไง!?
+03-1234	talk	No, sir... Not at all, sir...	ไม่ครับ... ไม่เลยครับ...
+03-1235	talk	(Didn't see that coming. Well, at least he's a fan of this shop now.)	(ไม่คิดว่าจะเป็นแบบนี้ เอาเถอะ อย่างน้อยตอนนี้เขาก็กลายเป็น แฟนคลับร้านนี้ไปแล้ว)
+03-1236	talk	Thanks again, Yagami-san. Third time's the charm, as they say.	ขอบคุณอีกครั้งนะครับ ยากามิซัง สามครั้งถึงจะสำเร็จอย่างที่เขา ว่ากันจริงๆ
+03-1237	talk	Oddly enough, yeah.	แปลกดีนะ แต่ก็ใช่
+03-1238	talk	Oh... And if you'd like, you can have this as well.	อ้อ... ถ้าคุณต้องการ เอาอันนี้ไปด้วยก็ได้ครับ
+03-1239	talk	I can? Thanks!	ได้เหรอครับ? ขอบคุณครับ!
+03-1240	talk	If it's tasty enough to make a yakuza forget about his protection racket, then it must be something special.	ถ้ามันอร่อยจนยากูซ่าลืมเรื่อง รีดค่าคุ้มครองได้ ก็ต้องพิเศษจริงๆ
+03-1241	talk	Well, there's nothing like dessert to make a quarrel disappear.	ก็ไม่มีอะไรเหมือนของหวานที่ ทำให้เรื่องทะเลาะวิวาทหาย ไปได้หรอกครับ
+03-1242	talk	Guess that's the magic of a traditional Japanese sweets shop.	นี่แหละมนตร์ขลังของร้านขนม ญี่ปุ่นแบบดั้งเดิม
+03-1243	talk	Don't I know it? Ahaha. I really do appreciate your kindness.	จะไม่รู้ได้ยังไงล่ะครับ ฮ่าฮ่า ผมซาบซึ้งในน้ำใจคุณจริงๆ
+03-1244	talk	No worries. I'm just glad those goofballs finally cleaned up their act. Now you can make your mochi in peace.	ไม่เป็นไรครับ ผมดีใจที่ไอ้พวกนั้นเลิกป่วนไป ได้สักที ตอนนี้คุณทำโมจิได้อย่างสบายใจแล้วล่ะ
+03-1245	talk	Thanks to you, at any rate.	ยังไงก็ต้องขอบคุณคุณนะครับ
+03-1246	talk	Well, I must start preparations for tomorrow, so I hope to see you again. Please take care.	เอาล่ะ ผมต้องเตรียมของสำหรับพรุ่งนี้แล้ว หวังว่าจะได้เจอกันอีกนะครับ รักษาตัวด้วยครับ
+03-1247	talk	(Oh hey, it's Tsukumo.)	(อ้าว นี่มันสึคุโมะนี่)
+03-1248	talk	Sorry to bug, but I kinda need to ask a small favor.	ขอโทษที่มากวนนะ แต่ฉันอยากขอความช่วยเหลือเล็กน้อยน่ะ
+03-1249	talk	(Ebisu... He must mean the pawn shop. That's not too far.)	(เอบิสุ... เขาคงหมายถึงโรงจำนำสินะ ไม่ไกลเท่าไหร่หรอก)
+03-1250	talk	(Tsukumo's always helping me out, so I do owe him one. Poor guy has never felt comfortable outdoors.)	(สึคุโมะช่วยผมอยู่บ่อยๆ ก็เลยติดค้างเขาอยู่เหมือนกัน น่าสงสารที่ไม่เคยรู้สึกสบายใจ ตอนออกนอกบ้านเลยสักที)
+03-1251	talk	(I think this is what Tsukumo wanted. But how'd he even know a pawn shop would have it!?)	(นี่คงเป็นของที่สึคุโมะต้องการแหละ แต่เขารู้ได้ยังไงว่าโรงจำนำจะ มีของแบบนี้!?)
+03-1252	talk	(Well, guess I'll go make the hand-off.)	(เอาล่ะ ไปส่งของกันเถอะ)
+03-1253	talk	I brought you the goods. It is this one, right?	ผมเอาของมาให้แล้ว อันนี้ใช่ไหม
+03-1254	talk	Yup, that's the one! Many thanks. How much was it?	ใช่เลย! ขอบใจมากนะ เท่าไหร่เหรอ
+03-1255	talk	No worries. Though, wouldn't it have been quicker to go yourself?	ไม่เป็นไรหรอก แต่ไปเองไม่เร็วกว่าเหรอ
+03-1256	talk	What can I say, I'm a busy guy.	จะให้พูดว่าไงดีล่ะ ฉันเป็นคนยุ่งน่ะ
+03-1257	talk	Plus there's this preorder about to open up, so it's time to man the battle stations.	อีกอย่างมีของพรีออเดอร์กำลังจะ เปิดขาย ต้องเตรียมรบกันแล้ว
+03-1258	talk	Ha, you've always got a reason to stay cooped up, huh? You never change.	ฮ่า นายมีข้ออ้างขังตัวเองอยู่ใน บ้านตลอดเลยนะ ไม่เปลี่ยนไปเลยจริงๆ
+03-1259	talk	Nah, I shouldn't say that. You've improved a lot, actually.	เปล่า ผมไม่ควรพูดแบบนั้นหรอก จริงๆ แล้วนายพัฒนาขึ้นเยอะเลยนะ
+03-1260	talk	It's all thanks to you, Yagami-shi.	ก็ต้องขอบคุณนายนั่นแหละ ยากามิ
+03-1261	talk	I might never have made human contact again if it weren't for you reaching out to me.	ถ้าไม่ใช่เพราะนายยื่นมือเข้ามา ฉันอาจไม่มีวันได้ติดต่อกับใคร อีกเลยก็ได้
+03-1262	talk	True. You always have been a big help, that's for sure.	จริงด้วย นายก็ช่วยผมมาตลอดเหมือนกันนะ
+03-1263	talk	Either way, I'm lucky to have you.	ยังไงก็ตาม ผมโชคดีที่มีนายอยู่
+03-1264	talk	Hehe, right back at you!	เฮ่ๆ เหมือนกันเลย!
+03-1265	talk	Nah, it's on me. I'm paying you back for last time, remember?	ไม่ต้องหรอก ผมเลี้ยงเอง ถือว่าใช้หนี้ครั้งก่อนไง จำได้ไหม
+03-1266	talk	Really? Hey, that's pretty generous of you.	จริงเหรอ โห ใจดีจังนะเนี่ย
+03-1267	talk	Yeah, speaking of which...	เออ พูดถึงเรื่องนี้แล้ว...
+03-1268	talk	You finally set foot out of your house, only to end up hiding away in a net café?	ในที่สุดนายก็ยอมออกจากบ้าน แต่ดันไปหลบอยู่ในร้าน อินเทอร์เน็ตคาเฟ่แทนเนี่ยนะ?
+03-1269	talk	Heh, well, the rent's cheap and the internet's fast. What more could you want in life?	เฮ่อ ค่าเช่าถูก เน็ตก็แรง จะเอาอะไรในชีวิตอีกล่ะ
+03-1270	talk	Besides... this is the perfect place for an informant to set up his base of operations.	อีกอย่าง... ที่นี่แหละคือฐานบัญชาการที่ เหมาะกับสายข่าวอย่างฉันที่สุด
+03-1271	talk	Mmm, compliments to the chef!	อืม ขอชมเชยฝีมือพ่อครัวหน่อยเลย!
+03-1272	talk	Seriously, your chashu was incredible.	พูดจริงๆ นะ ชาชูของร้านนี้เด็ดมาก
+03-1273	talk	Oh yeah? Glad to hear it!	อย่างนั้นเหรอครับ ดีใจที่ได้ยินแบบนี้!
+03-1274	talk	A lot of people compliment our ramen, but to be honest, not too many people mention our chashu.	มีคนชมราเมงร้านผมเยอะอยู่ครับ แต่พูดตรงๆ ไม่ค่อยมีใครพูดถึงชาชูเท่าไหร่
+03-1275	talk	Huh. Wonder why.	เอ๊ะ สงสัยจังว่าทำไม
+03-1276	talk	It's the strangest thing. We put just as much effort into our chashu as we do our ramen.	แปลกดีนะครับ ทั้งที่ผมลงแรงทำชาชูพอๆ กับราเมงเลย
+03-1277	talk	That's probably why it tastes so good.	นั่นแหละสินะ ถึงได้อร่อยขนาดนี้
+03-1278	talk	Hah, then I'll let you in on a secret. We do add a special little ingredient that you probably wouldn't expect.	ฮ่า งั้นผมขอกระซิบความลับให้หน่อย ละกันครับ ร้านผมใส่ส่วนผสมพิเศษที่คุณคง คาดไม่ถึงลงไปด้วย
+03-1279	talk	Oh? And what would that be?	อ๋อเหรอ แล้วมันคืออะไรล่ะ
+03-1280	talk	Take a wild guess.	ลองเดาดูสิครับ
+03-1281	talk	Hmm... Can I get a hint?	อืม... ขอคำใบ้หน่อยได้ไหม
+03-1282	talk	Haha, alright then. Let's see...	ฮ่าฮ่า ได้เลยครับ เอาล่ะ...
+03-1283	talk	Normally you'd add sugar to sweeten up chashu, but here we use something else. What do you think that could be?	ปกติจะใส่น้ำตาลเพื่อเพิ่ม ความหวานให้ชาชู แต่ร้านผมใช้อย่างอื่นแทนครับ คิดว่าคืออะไร
+03-1284	talk	A substitute for sugar, huh...	ของทดแทนน้ำตาลเหรอ...
+03-1285	talk	Mayonnaise?	มายองเนสหรือเปล่า?
+03-1286	talk	High fructose corn syrup?	น้ำเชื่อมข้าวโพดฟรุกโตสสูงหรือเปล่า?
+03-1287	talk	MSG?	ผงชูรสหรือเปล่า?
+03-1288	talk	Nope! Not even close.	ไม่ใช่เลยครับ! ยังห่างไกลมาก
+03-1289	talk	The correct answer... is honey.	คำตอบที่ถูกต้องคือ... น้ำผึ้งครับ
+03-1290	talk	Honey?	น้ำผึ้งเหรอ?
+03-1291	talk	Aha! You must have quite the refined palate to figure that one out.	อ้อ! ต้องมีลิ้นละเอียดอ่อนทีเดียว ถึงจับได้แบบนั้นครับ
+03-1292	talk	With the right amount of honey, you can make nearly any cut of meat drip with sweet, tender goodness.	ถ้าใส่น้ำผึ้งในปริมาณที่พอดี เนื้อแทบทุกส่วนจะฉ่ำไปด้วย ความหวานนุ่มละมุนเลยล่ะครับ
+03-1293	talk	I see. Now that you mention it, that chashu <font_kind=yakuza_italic>was</font_kind> dripping with sweet, tender goodness.	เข้าใจแล้ว พอพูดถึงแบบนี้ ชาชูตัวนั้น<font_kind=yakuza_italic>ฉ่ำ</font_kind> ไปด้วยความหวานนุ่มละมุนจริงๆ
+03-1294	talk	Hahaha, indeed! Say... what's your name?	ฮ่าฮ่าฮ่า ใช่เลยครับ! ว่าแต่... คุณชื่ออะไรเหรอ
+03-1295	talk	I'm Yagami. It's nice to meet you.	ผมยากามิครับ ยินดีที่ได้รู้จัก
+03-1296	talk	Yagami-san, huh? The pleasure's all mine. Hope to see you around more often!	ยากามิซังเหรอครับ ยินดีที่ได้รู้จักเหมือนกัน หวังว่าจะได้เจอกันบ่อยๆ นะครับ!
+03-1297	talk	You bet! See you next time.	แน่นอนครับ! แล้วเจอกันใหม่
+03-1298	talk	Meh, this place was whatever. The food wasn't bad, but the presentation? Lame.	เอ่อ ร้านนี้ก็เฉยๆ นะ อาหารไม่แย่หรอก แต่การจัดจาน? กากมาก
+03-1299	talk	Yeah... It's like they <font_kind=yakuza_italic>tried</font_kind> to make it look boring. Totally not Chatter-worthy at all. Wouldn't even make a decent meme.	ใช่... เหมือนพวกเขา<font_kind=yakuza_italic>ตั้งใจ</font_kind> จัดให้มันดูน่าเบื่อ ไม่มีทางลง Chatter ได้เลยสักนิด จะเอาไปทำมีมยังไม่ได้เลยด้วยซ้ำ
+03-1300	talk	Why don't we get outta here and grab some dessert?	ไปจากที่นี่แล้วไปหาของหวาน กินกันดีกว่าไหม?
+03-1301	talk	For sure. Let's go hit up Mijore.	เอาสิ ไปที่มิโจเระกันเถอะ
+03-1302	talk	(...What was all that about?)	(...นั่นมันเรื่องอะไรกัน?)
+03-1303	talk	Oh, Yagami-san... C'mon in.	อ้าว ยากามิซัง... เชิญเข้ามาเลยครับ
+03-1304	talk	Everything okay? You don't seem like your usual self.	ไม่เป็นไรใช่ไหม ดูไม่เหมือนตัวเองเลยนะ
+03-1305	talk	Huh? Ah, it's nothing, really...	หืม? อ๋อ ไม่มีอะไรหรอกครับ จริงๆ นะ...
+03-1306	talk	Well, in all honesty... I realized our ramen hasn't caught on with the younger crowd. And I can't put my finger on why.	เอาจริงๆ นะครับ... ผมเพิ่งรู้ตัวว่าราเมงร้านนี้ ไม่ค่อยได้ใจวัยรุ่นเลย แล้วก็คิดไม่ออกว่าทำไม
+03-1307	talk	That is a head-scratcher for sure. Personally I think your ramen tastes amazing.	เรื่องนี้ชวนงงจริงๆ ส่วนตัวผมคิดว่าราเมงร้านนี้อร่อยสุดๆ นะ
+03-1308	talk	You're too kind, Yagami-san. I wish it were as simple as taste, but that's not all young people are after these days.	คุณใจดีเกินไปแล้วครับ ยากามิซัง ผมก็อยากให้มันง่ายแค่เรื่อง รสชาติจริงๆ นะ แต่สมัยนี้วัยรุ่นไม่ได้มอง แค่นั้นอย่างเดียว
+03-1309	talk	It's this whole social media thing.	เป็นเพราะเรื่องโซเชียลมีเดีย ทั้งหมดนี่แหละครับ
+03-1310	talk	Kids nowadays are hooked on it! Everything they see and do, they'll snap a picture and share with the entire world.	เด็กสมัยนี้ติดกันงอมแงมเลยครับ! เห็นอะไร ทำอะไร ก็ถ่ายรูปแชร์ให้คนทั้งโลกดูหมด
+03-1311	talk	Yeah, sounds about right.	เออ ก็คงงั้นแหละ
+03-1312	talk	Unfortunately, our ramen isn't quite suited for this online environment because we make it simple and traditional.	แต่น่าเสียดายที่ราเมงร้านผม ไม่ค่อยเข้ากับโลกออนไลน์ แบบนี้ครับ เพราะทำแบบเรียบง่ายสไตล์ดั้งเดิม
+03-1313	talk	I see... Guess it's a sign of the times.	เข้าใจแล้ว... คงเป็นสัญญาณของยุคสมัยสินะ
+03-1314	talk	And it kills me when customers crowd around a spot just because they make a smiley face out of the fish eggs or something.	แล้วก็เจ็บใจทุกทีที่เห็นลูกค้า แห่กันไปที่ร้านอื่น แค่เพราะเขาเอาไข่ปลามาทำเป็น หน้ายิ้มหรืออะไรแบบนั้นครับ
+03-1315	talk	But taste always wins in the end, right?	แต่สุดท้ายรสชาติต้องชนะเสมอ ไม่ใช่เหรอ
+03-1316	talk	Of course I know that. But... it's just...	ก็รู้อยู่แก่ใจแหละครับ แต่... มันก็แค่...
+03-1317	talk	Then why don't you try concocting something fancy of your own?	งั้นทำไมไม่ลองคิดค้นอะไร หวือหวาขึ้นมาเองล่ะ
+03-1318	talk	Why don't you cook up a hot new ramen designed to catch people's attention?	ทำไมไม่ลองปรุงราเมงสูตรใหม่ที่ ออกแบบมาให้ดึงดูดสายตาคนดูล่ะ
+03-1319	talk	Hmm. You make a decent argument, but I feel it's almost a sin to attract customers based on visual appeal alone...	อืมครับ ก็มีเหตุผลอยู่นะ แต่ผมรู้สึกว่ามันเกือบจะเป็น บาปเลยที่จะดึงลูกค้าด้วย หน้าตาอย่างเดียว...
+03-1320	talk	Yes, so why not create a ramen that both looks <font_kind=yakuza_italic>and</font_kind> tastes appealing?	ใช่ ก็เลยลองทำราเมงที่ทั้งหน้าตาดี<font_kind=yakuza_italic>และ</font_kind> รสชาติดีไปพร้อมกันเลยล่ะ
+03-1321	talk	For example, how about a ramen topped with your honey-marinated chashu?	ตัวอย่างเช่น ลองทำราเมงหน้าชาชูหมักน้ำผึ้ง ของร้านนี้ดูสิ
+03-1322	talk	That way, you'll be using your tried-and-true ingredients in a more innovative way.	แบบนั้นก็เท่ากับเอาวัตถุดิบ เด็ดที่มีอยู่แล้วมาใช้ใน แบบที่สร้างสรรค์ขึ้น
+03-1323	talk	A specially crafted ramen... that accentuates both form and flavor...	ราเมงที่ปรุงขึ้นมาเป็นพิเศษ... ที่เน้นทั้งรูปลักษณ์และรสชาติ...
+03-1324	talk	...Yeah. Yeah! You know what, I can do that!	...เออ เออนะ! รู้อะไรไหมครับ ผมทำได้แน่นอน!
+03-1325	talk	That's the spirit! I know you've got what it takes to make the trendiest ramen in town.	นั่นแหละที่ต้องมี! ผมรู้ว่าคุณมีฝีมือพอจะทำราเมง ที่ฮอตที่สุดในเมืองได้แน่นอน
+03-1326	talk	Roger that! I'll get right to work!	รับทราบครับ! จะลงมือทำเดี๋ยวนี้เลย!
+03-1327	talk	Mm, can't wait!	อืม รอไม่ไหวแล้ว!
+03-1328	talk	Whoa, that chashu ramen practically melted in my mouth!	โห ราเมงหน้าชาชูนี่แทบละลายในปากเลย!
+03-1329	talk	For real... I dunno what they put in there, but it totally blew my mind!	จริงเลย... ไม่รู้ใส่อะไรลงไป แต่มันเด็ดสุดๆ ไปเลย!
+03-1330	talk	I know right!?	ใช่เลยใช่ไหมล่ะ!?
+03-1331	talk	Better post this up before someone beats me to it.	รีบโพสต์ก่อนคนอื่นแย่งลงดีกว่า
+03-1332	talk	Yeah! That pic's gonna blow up for sure!	เอาสิ! รูปนี้ต้องปังแน่นอน!
+03-1333	talk	(Are those the kids from before?)	(นั่นพวกเด็กเมื่อกี้นี่นา?)
+03-1334	talk	(Geez, they just made a complete 180. And, by the way, it's honey that the chef put in there.)	(โห กลับลำแบบหน้ามือเป็นหลังมือเลย แล้วก็นะ ที่พ่อครัวใส่ลงไปคือน้ำผึ้งต่างหาก)
+03-1335	talk	(But, judging from their reaction, that means...)	(แต่ดูจากปฏิกิริยาของพวกเขาแล้ว นั่นแปลว่า...)
+03-1336	talk	Welcome! Why, if it isn't good ol' Yagami-san!	ยินดีต้อนรับครับ! อ้าว นี่ไม่ใช่ยากามิซังที่คุ้นเคย หรอกเหรอเนี่ย!
+03-1337	talk	Hey. So I see you've added something to the menu.	ไง เห็นว่าเพิ่มเมนูใหม่เข้าไปด้วยนี่
+03-1338	talk	Yep, I call it the Crushin' Chashu Challenge! It's a super-sized ramen with no leftovers allowed!	ใช่แล้วครับ ผมตั้งชื่อว่าท้าประลองชาชูสุดพลัง! เป็นราเมงจานยักษ์ที่ห้ามเหลือ เศษเลยแม้แต่นิดเดียว!
+03-1339	talk	Ohh, nice!	โอ้ เจ๋งเลย!
+03-1340	talk	Thanks to that, we have a lot of youngsters stopping by.	เพราะแบบนั้นแหละครับ ตอนนี้มีวัยรุ่นมาอุดหนุนเยอะเลย
+03-1341	talk	Though they do keep taking photos instead of eating right away...\nI suppose that's good for business! Hahaha!	แม้จะชอบถ่ายรูปกันก่อนกินทุกที เลยก็เถอะ...\nแต่ก็ถือว่าดีต่อธุรกิจแหละนะครับ! ฮ่าฮ่าฮ่า!
+03-1342	talk	That's really good to hear.	ดีใจที่ได้ยินแบบนี้จริงๆ
+03-1343	talk	And I owe it all to you, Yagami-san! Thanks a bunch!	ทั้งหมดนี้ต้องขอบคุณยากามิซังเลยครับ! ขอบคุณมากๆ นะครับ!
+03-1344	talk	Hey now, don't forget your ramen has always tasted great. You should be getting a lot of customers.	เดี๋ยวก่อนนะ อย่าลืมว่าราเมงร้านนี้อร่อยมา ตลอดอยู่แล้ว ควรจะมีลูกค้าเยอะๆ อยู่แล้วต่างหาก
+03-1345	talk	Heh, you always seem to have something positive to say. Hope my new ramen will have you singing its praises as well.	เฮ่อ คุณนี่มีอะไรดีๆ ให้พูดเสมอเลยนะครับ หวังว่าราเมงสูตรใหม่จะทำให้คุณ ชมได้เหมือนเดิม
+03-1346	talk	Well, there's only one way to find out!	งั้นก็มีทางเดียวที่จะรู้ได้!
+03-1347	talk	(I'm glad he's back to his old self, now that everyone appreciates his cuisine. Can't wait to try it myself.)	(ดีใจที่เขากลับมาเป็นตัวเองอีกครั้ง ตอนนี้ทุกคนเห็นคุณค่าฝีมือ ทำอาหารของเขาแล้ว รอไม่ไหวที่จะได้ลองชิมเองบ้าง)
+03-1348	talk	Damn... I can't frickin' believe this! What kind of two-bit dump has the balls to refuse its customers, anyway!?	แม่งเอ๊ย... กูไม่อยากจะเชื่อเลยว่ะ! ร้านกระจอกๆ ที่ไหนกล้าปฏิเสธลูกค้าแบบนี้วะ!?
+03-1349	talk	(...What was up with that guy?)	(...หมอนั่นมันเป็นอะไรของเขา?)
+03-1350	talk	Greetings, sir. I'm Matsuzaki, the manager here. Would you care to learn about our yakiniku challenge?	สวัสดีครับท่านลูกค้า ผมมัตสึซากิ ผู้จัดการร้านนี้ครับ สนใจฟังเรื่องเกมท้าประลองยากิ นิกุของเราไหมครับ
+03-1351	talk	Sure, what's it all about?	ได้เลย มีอะไรบ้าง
+03-1352	talk	It's got three trivia questions related to yakiniku. Answer them right and we'll serve you the finest kalbi Kamurocho has to offer!	เป็นคำถามความรู้รอบตัว เกี่ยวกับยากินิกุสามข้อครับ ตอบถูกทั้งหมดแล้วเราจะเสิร์ฟ กัลบี้ที่ดีที่สุด ในคามุโรโจให้เลย!
+03-1353	talk	Hmm. Sounds interesting.	อืม ฟังดูน่าสนใจนะ
+03-1354	talk	A worthy morsel for a worthy customer... Will your knowledge make the grade? Or will you end up getting grilled?	อาหารชั้นเลิศสำหรับลูกค้าชั้นเลิศ... ความรู้ของคุณจะผ่านเกณฑ์ไหม หรือจะโดนย่างซะเอง
+03-1355	talk	Find out for only 1,000 yen!	มาพิสูจน์ในราคาเพียง 1,000 เยนเท่านั้นครับ!
+03-1356	talk	(Should I take the yakiniku challenge?)	(จะลองท้าประลองยากินิกุดูไหมนะ?)
+03-1357	talk	No, I'm fine. I'm here for the regular stuff today.	ไม่ล่ะ ไม่เป็นไร วันนี้มาสั่งของปกติแค่นั้น
+03-1358	talk	Very well, then. May I take your order?	ได้เลยครับ รับอะไรดีครับ
+03-1359	talk	Oh? I'm afraid you don't have enough money, sir.	อ้าว ท่านลูกค้ามีเงินไม่พอนะครับ
+03-1360	talk	Oh, whoops...	อ้าว เผลอไปหน่อย...
+03-1361	talk	(I'll come back some other time.)	(เอาไว้ค่อยมาใหม่วันหลังก็แล้วกัน)
+03-1362	talk	I'll give this thing a shot.	งั้นลองดูสักตั้งก็ได้
+03-1363	talk	Wonderful! Then let's begin right away.	ยอดเยี่ยมครับ! งั้นเริ่มกันเลย
+03-1364	talk	First question:	คำถามข้อแรก:
+03-1365	talk	Which of the following innards is located toward the rearmost part of the cow?	เครื่องในต่อไปนี้ชิ้นไหนอยู่ ใกล้ส่วนท้ายของวัวที่สุด?
+03-1366	talk	The large intestine, right?	ลำไส้ใหญ่ใช่ไหม?
+03-1367	talk	The kidneys, right?	ไตใช่ไหม?
+03-1368	talk	The liver, right?	ตับใช่ไหม?
+03-1369	talk	The small intestine, right?	ลำไส้เล็กใช่ไหม?
+03-1370	talk	Bravo! You nailed it!	เยี่ยมมากครับ! ตอบถูกเป๊ะ!
+03-1371	talk	Awesome!	เจ๋งมาก!
+03-1372	talk	Now then, onto the second question:	เอาล่ะครับ ต่อด้วยคำถามข้อที่สอง:
+03-1373	talk	Which of the following innards is considered to be the "guts"?	เครื่องในต่อไปนี้ชิ้นไหนที่ เรียกกันว่า "ไส้ใน"?
+03-1374	talk	The large intestine?	ลำไส้ใหญ่?
+03-1375	talk	The heart?	หัวใจ?
+03-1376	talk	The liver?	ตับ?
+03-1377	talk	The stomach?	กระเพาะ?
+03-1378	talk	Amazing! You're absolutely right!	สุดยอดครับ! ถูกต้องเผงเลย!
+03-1379	talk	Next is the third and final question:	ต่อไปคำถามข้อที่สามซึ่งเป็นข้อ สุดท้าย:
+03-1380	talk	Which of the following cuts is used to prepare kalbi?	เนื้อส่วนไหนต่อไปนี้ที่ใช้ทำกัลบี้?
+03-1381	talk	Is it the tail?	หางใช่ไหม?
+03-1382	talk	Is it the tenderloin?	เนื้อสันในใช่ไหม?
+03-1383	talk	Is it the hip?	สะโพกใช่ไหม?
+03-1384	talk	Is it the flank?	เนื้อสีข้างใช่ไหม?
+03-1385	talk	Huh? Was I wrong?	หา? ผมตอบผิดเหรอ?
+03-1386	talk	...The opposite! You passed with flying colors!	...ตรงกันข้ามเลยครับ! คุณผ่านฉลุยเลยต่างหาก!
+03-1387	talk	Whew, you almost had me for a second. Don't pause like that!	โฮ่ เกือบหลอกผมได้แล้วนะ อย่าเงียบแบบนั้นสิ!
+03-1388	talk	Ah, I apologize. I thought it would fit the mood.	อ้อ ขอโทษด้วยครับ คิดว่ามันน่าจะเข้ากับบรรยากาศดี
+03-1389	talk	Back to the subject at hand, since you've answered everything correctly...	กลับมาที่เรื่องหลักกันดีกว่า ในเมื่อคุณตอบถูกหมดทุกข้อแล้ว...
+03-1390	talk	We will serve you the legendary kalbi!	เราจะเสิร์ฟกัลบี้ในตำนานให้คุณ!
+03-1391	talk	Aww yeah!	เย่ส!
+03-1392	talk	Not many customers are grounded enough in beef culture to get through all those questions, you know. Well done!	ลูกค้าที่มีความรู้เรื่อง เนื้อวัวลึกซึ้งพอจะตอบผ่าน ทุกข้อแบบนี้มีไม่เยอะเลยนะครับ เก่งมาก!
+03-1393	talk	Now please follow me...	เชิญทางนี้เลยครับ...
+03-1394	talk	Thank you for your patronage! We eagerly await your return.	ขอบคุณที่อุดหนุนครับ! หวังว่าจะได้กลับมาอุดหนุนอีกนะครับ
+03-1395	talk	(Amazing... That kalbi was really something else...)	(สุดยอดจริงๆ... กัลบี้นั่นมันเหนือชั้นไปเลย...)
+03-1396	talk	Ohhh, I'm sorry but that is incorrect! Such a shame.	โอ๊ะ ขอโทษด้วยครับ แต่คำตอบนั้นผิด น่าเสียดายจริงๆ
+03-1397	talk	...Crap!	...ซวยแล้ว!
+03-1398	talk	Please feel free to try again anytime!	เชิญกลับมาลองใหม่ได้ทุกเมื่อ เลยนะครับ!
+03-1399	talk	Welcome! Before I take your order, may I remind you of our special promotion?	ยินดีต้อนรับครับ! ก่อนจะรับออร์เดอร์ ขอแนะนำโปรโมชั่นพิเศษของเรา หน่อยได้ไหมครับ
+03-1400	talk	You're welcome to try it out today, too!	วันนี้ก็ลองได้เหมือนกันนะครับ!
+03-1401	talk	Bro! Just let me eat the goddamn frickin' kalbi meat! I'll pay good money, see? I'm stacked, <font_kind=yakuza_italic>and</font_kind> I got stacks!	เว้ย! ขอกูกินเนื้อกัลบี้เวรนั่นเถอะน่า! กูจ่ายเงินหนักๆ ให้เลยนะ เห็นไหม กูตัวใหญ่<font_kind=yakuza_italic>แถม</font_kind>เงินก็หนา!
+03-1402	talk	Sir, please understand, our legendary kalbi only goes to the customers who successfully pass our quiz! That's why it's a promotion!	ท่านลูกค้าครับ ขอความเข้าใจด้วย กัลบี้ในตำนานของเราจะเสิร์ฟให้ เฉพาะลูกค้าที่ผ่าน คำถามเท่านั้น! ก็เพราะแบบนั้นถึงเป็นโปรโมชั่นไงครับ!
+03-1403	talk	Are you shittin' me... I cannot fuckin' believe... What kinda bullshit customer service is this!?	มึงล้อกูเล่นรึไงวะ... กูไม่อยากจะเชื่อเลยว่ะ... บริการห่วยแตกแบบนี้มันคืออะไรวะ!?
+03-1404	talk	Such language! Sir, would you please stop making a scene?	พูดจาแบบนั้นได้ยังไงครับ! ท่านลูกค้า ช่วยหยุดสร้างความวุ่นวายได้ไหมครับ?
+03-1405	talk	(That meathead sure looks heated... Maybe it's time to squash the beef.)	(ไอ้หัวกล้ามนั่นดูโมโหจัดเลยนะ... ท่าจะต้องเข้าไปสยบเรื่องหมู เรื่องเนื้อหน่อยแล้ว)
+03-1406	talk	Hey, is everything all right?	เฮ้ ทุกอย่างเรียบร้อยดีไหม?
+03-1407	talk	Oh, aren't you... the customer from before...?	อ้าว คุณคือ... ลูกค้าเมื่อกี้นี่...?
+03-1408	talk	Hah! Who's this <font_kind=yakuza_italic>lean meat</font_kind> lookin' mofo?	ฮะ! ไอ้<font_kind=yakuza_italic>ผอมแห้งแรงน้อย</font_kind>นี่มันใครวะ?
+03-1409	talk	I'm having trouble with a... guest. He's demanding to eat our special kalbi.	ผมกำลังมีปัญหากับ... ลูกค้าท่านนี้ครับ เขาเรียกร้องจะกินกัลบี้พิเศษของเรา
+03-1410	talk	Well? You get all the questions right?	แล้วไง ตอบถูกทุกข้อหรือเปล่าล่ะ?
+03-1411	talk	Bro, who even cares about that shit!? All I know is that I'm starvin' to death over here for no reason!	เว้ย ใครสนวะเรื่องบ้านั่น!? กูรู้แค่ว่ากูหิวจะตายอยู่ ตรงนี้โดยไม่มีเหตุผลว่ะ!

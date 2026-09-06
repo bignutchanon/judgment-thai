@@ -1,0 +1,1459 @@
+id	bin	EN	TH
+26-0001	item	A traditional sushi with tuna, squid, and salmon scattered lavishly over rice.	ซูชิสูตรดั้งเดิมที่โปะทูน่า ปลาหมึก และแซลมอนกระจายอย่างเต็มที่บนข้าว
+26-0002	item	Tuna Rice Bowl	ข้าวหน้าทูน่า
+26-0003	item	A rice bowl neatly topped with fresh bluefin tuna.	ข้าวหน้าทูน่าครีบน้ำเงินสด จัดเรียงอย่างประณีต
+26-0004	item	Kiwami Seafood Rice Bowl	ข้าวหน้าทะเลคิวามิ
+26-0005	item	A rice bowl neatly topped with luxurious seafood.	ข้าวหน้าซีฟู้ดสุดหรูจัดเรียง อย่างประณีต
+26-0006	item	Osuimono	โอะสุอิโมะโนะ
+26-0007	item	Clear broth with condensed seafood stock.	น้ำซุปใสเข้มข้นจากสต๊อกอาหารทะเล
+26-0008	item	Lobster Miso Soup	ซุปมิโซะกุ้งมังกร
+26-0009	item	Miso soup with the whole head of a Japanese spiny lobster in it.	ซุปมิโซะที่ใส่หัวกุ้งมังกร ญี่ปุ่นทั้งหัว
+26-0010	item	Chef's Selection Pudding	พุดดิ้งเมนูเด็ดของเชฟ
+26-0011	item	Sushi Gin's ultimate pudding, made by the founder with a recipe perfected over many years.	พุดดิ้งสุดยอดของซูชิกิน สูตรที่ผู้ก่อตั้งร้านคิดค้นจน สมบูรณ์แบบมาหลายปี
+26-0012	item	Edamame	เอดามาเมะ
+26-0013	item	The perfect side for draft beer.	เครื่องเคียงที่เข้ากันได้ลงตัว กับดราฟท์เบียร์
+26-0014	item	Pickles	ผักดอง
+26-0015	item	Mama says you can always count on pickles to bring flavor to the party.	มาม่าบอกว่าผักดองช่วยเพิ่ม รสชาติให้ทุกมื้อได้เสมอ
+26-0016	item	Chicken Karaage	ไก่คาราเกะ
+26-0017	item	Mama doesn't give the recipe for her fried chicken to just anyone.	มาม่าไม่ยอมบอกสูตรไก่ทอด ของตัวเองให้ใครง่ายๆ
+26-0018	item	Mama doesn't make the noodles, but she makes the sauce, and that's plenty.	เส้นมาม่าไม่ได้ทำเอง แต่ซอสนี่ฝีมือมาม่าล้วนๆ ก็เพียงพอแล้ว
+26-0019	item	Kimchi Fried Rice	ข้าวผัดกิมจิ
+26-0020	item	When Mama makes this, you just might catch her sampling some for herself.	เวลามาม่าทำเมนูนี้ อาจจะเห็นแอบชิมเองด้วยนะ
+26-0021	item	Omurice	ข้าวห่อไข่
+26-0022	item	A staple of Mama's kitchen.	เมนูประจำครัวของมาม่า
+26-0023	item	Curry & Rice	แกงกะหรี่กับข้าว
+26-0024	item	Mama makes it a little spicy, but she'll tone it down if you ask.	มาม่าทำแบบเผ็ดนิดๆ แต่ถ้าขอก็ลดความเผ็ดให้ได้
+26-0025	item	Chirashi Sushi	ชิราชิซูชิ
+26-0026	item	You never know what Mama will put in her chirashi, but you know it'll be good.	ไม่มีใครรู้ว่ามาม่าจะใส่อะไรลง ในชิราชิ แต่รู้แน่ว่าอร่อยชัวร์
+26-0027	item	Shochu	โชจู
+26-0028	item	Trendy Japanese liquor with a mellow taste.	เหล้าญี่ปุ่นสุดฮิต รสชาติกลมกล่อม
+26-0029	item	Refined rice wine with a refreshing taste.	สาเกกลั่นประณีต รสชาติสดชื่น
+26-0030	item	Red Wine	ไวน์แดง
+26-0031	item	A standard red, just bitter enough to cleanse the palate.	ไวน์แดงมาตรฐาน ขมกำลังดีช่วยล้างปาก
+26-0032	item	White Wine	ไวน์ขาว
+26-0033	item	A semi-dry white with fruit-forward highlights.	ไวน์ขาวรสกึ่งหวานกึ่งเปรี้ยว กลิ่นผลไม้โดดเด่น
+26-0034	item	Water	น้ำเปล่า
+26-0035	item	Ice-cold H2O.	น้ำเปล่าเย็นเจี๊ยบ
+26-0036	item	Fruit Platter	จานผลไม้รวม
+26-0037	item	A fancy fresh fruit platter arrangement.	จานผลไม้สดจัดเรียงอย่างหรูหรา
+26-0038	item	Carbonara	คาร์โบนาร่า
+26-0039	item	Italian pasta that'll stick to your ribs.	พาสต้าอิตาเลียนที่กินแล้วอิ่ม ท้องจนลืมหิว
+26-0040	item	Ice Cream	ไอศกรีม
+26-0041	item	The perfect dessert for cooling down.	ของหวานที่ช่วยคลายร้อนได้ลงตัว
+26-0042	item	Coleslaw Salad	สลัดโคลสลอว์
+26-0043	item	A light and crisp salad with a crunch.	สลัดเบาๆ กรอบสดชื่นทุกคำ
+26-0044	item	Potato Wedges	มันฝรั่งเวดจ์
+26-0045	item	Thick-cut, lightly salted, and fried until golden.	หั่นชิ้นหนา โรยเกลือนิดหน่อย ทอดจนเหลืองกรอบ
+26-0046	item	Nothing beats juicy fried chicken.	ไม่มีอะไรเทียบได้กับไก่ทอดฉ่ำๆ
+26-0047	item	The perfect bar snack.	ของแกล้มที่ลงตัวที่สุดสำหรับบาร์
+26-0048	item	Complimentary Vegetables	ผักเรียกน้ำย่อยฟรี
+26-0049	item	Fresh veggies chopped into fun, bite-sized sticks.	ผักสดหั่นเป็นแท่งพอดีคำ กินสนุกทุกชิ้น
+26-0050	item	Gold Champagne	แชมเปญทอง
+26-0051	item	Champagne of the finest quality.	แชมเปญคุณภาพเยี่ยมที่สุด
+26-0052	item	Rosé Champagne	แชมเปญโรเซ่
+26-0053	item	A champagne nobody would scoff at.	แชมเปญที่ไม่มีใครกล้าดูแคลน
+26-0054	item	Black Champagne	แชมเปญดำ
+26-0055	item	A champagne you can find everywhere.	แชมเปญที่หาได้ทั่วไป
+26-0056	item	Draft Beer	เบียร์สด
+26-0057	item	A glass of beer with a refined taste.	เบียร์แก้วหนึ่งที่มีรสชาติกลมกล่อม
+26-0058	item	Cassis Orange	คาสซิสออเรนจ์
+26-0059	item	A cocktail that's popular with the kids these days.	ค็อกเทลที่กำลังฮิตในหมู่ วัยรุ่นยุคนี้
+26-0060	item	Beef Bowl (Standard)	ข้าวหน้าเนื้อ (ธรรมดา)
+26-0061	item	The famous beef bowl that put Akaushimaru on the map!	ข้าวหน้าเนื้อชื่อดังที่ทำให้ อากาอุชิมารุเป็นที่รู้จัก!
+26-0062	item	Beef Bowl (Large)	ข้าวหน้าเนื้อ (ไซซ์ใหญ่)
+26-0063	item	This mound of meat is sure to satisfy even the most intense beef bowl cravings.	เนื้อกองโตนี้เอาอยู่แน่นอนไม่ ว่าจะอยากกินข้าวหน้า เนื้อขนาดไหน
+26-0064	item	Beef Bowl (Extra Large)	ข้าวหน้าเนื้อ (ไซซ์จัมโบ้)
+26-0065	item	There's so much beef in this bowl, you'll need to be rolled out of the restaurant!	เนื้อในชามนี้เยอะจนต้องกลิ้ง ตัวเองออกจากร้าน!
+26-0066	item	Beef Plate	จานเนื้อ
+26-0067	item	All of the beef, none of the rice. Served with a side of pickled ginger.	เนื้อล้วนๆ ไม่มีข้าว เสิร์ฟพร้อมขิงดองเคียงข้าง
+26-0068	item	The perfect complement to a beef plate after a hard day's work.	เครื่องเคียงที่ลงตัวที่สุดกับ จานเนื้อ หลังวันทำงานอันหนักหน่วง
+26-0069	item	Miso Soup	ซุปมิโซะ
+26-0070	item	Chopped green onions and seaweed float gently atop this steaming bowl.	ต้นหอมซอยและสาหร่ายลอยอยู่ เหนือชามที่ร้อนกรุ่นนี้
+26-0071	item	A simple salad made with thinly-cut cabbage.	สลัดเรียบง่ายจากกะหล่ำปลีหั่นฝอย
+26-0072	item	Specialty Green Salad	สลัดผักพิเศษ
+26-0073	item	The owner hand-picked the ingredients of this healthy assortment of vegetables.	เจ้าของร้านคัดสรรวัตถุดิบผัก รวมสุขภาพจานนี้ด้วยมือ
+26-0074	item	Ratatouille	ราตาตุย
+26-0075	item	A stewed vegetable dish that condenses a variety of delicious flavors.	เมนูผักตุ๋นที่รวมรสชาติ หลากหลายไว้อย่างเข้มข้น
+26-0076	item	Tournedos Rossini	ตูร์เนโดส์ รอสซินี
+26-0077	item	A dish made of quality filet mignon and sautéed foie gras. It's garnished with truffle sauce.	จานเนื้อฟิเลมิยองชั้นดีคู่กับ ฟัวกราส์ผัด ราดด้วยซอสทรัฟเฟิล
+26-0078	item	Grilled Lobster	ล็อบสเตอร์ย่าง
+26-0079	item	A whole lobster grilled and served with fresh basil sauce.	กุ้งมังกรทั้งตัวย่าง เสิร์ฟพร้อมซอสโหระพาสด
+26-0080	item	Bouillabaisse	บุยยาแบส
+26-0081	item	A stew combining fresh seafood and whole vegetables in one steaming pot.	สตูว์ที่รวมอาหารทะเลสดและผัก ทั้งชิ้นไว้ในหม้อร้อนกรุ่น เดียว
+26-0082	item	Oven-baked Chicken Thigh	น่องไก่อบเตาอบ
+26-0083	item	Chicken thighs cooked at a high temperature for a crispy golden skin.	น่องไก่ปรุงด้วยความร้อนสูงจน หนังกรอบเหลืองทอง
+26-0084	item	Roasted Duck	เป็ดย่าง
+26-0085	item	Slow-roasted fowl sliced delicately thin.	เป็ดย่างไฟอ่อนจนสุกทั่ว หั่นเป็นชิ้นบางละเอียด
+26-0086	item	Homemade Baguette	บาแก็ตต์โฮมเมด
+26-0087	item	A bread loaf baked fresh each morning by the owner himself.	ขนมปังก้อนที่เจ้าของร้านอบสด ใหม่เองทุกเช้า
+26-0088	item	Special Strawberry Shortcake	สตรอว์เบอร์รีชอร์ตเค้กพิเศษ
+26-0089	item	Its delicate sweetness makes for a wonderful treat, any time of day.	ความหวานละมุนที่กินได้อร่อย ทุกเวลาของวัน
+26-0090	item	Made with bittersweet chocolate for a more refined flavor profile.	ทำจากช็อกโกแลตรสขมหวานเพื่อ รสชาติที่ประณีตยิ่งขึ้น
+26-0091	item	Absolutely Tasty Takoyaki	ทาโกะยากิสุดอร่อย
+26-0092	item	Crispy on the outside, but nestled inside is a juicy nugget of octopus. A Gindaco favorite.	กรอบนอกนุ่มใน ข้างในซ่อนชิ้นปลาหมึกยักษ์ฉ่ำ เมนูโปรดของกินดาโกะ
+26-0093	item	Cheese and Spicy Fish Roe	ชีสกับไข่ปลาเผ็ด
+26-0094	item	Takoyaki topped with melted cheese, mayo, and spicy fish roe. It's a big hit with the ladies.	ทาโกะยากิโปะด้วยชีสละลาย มายองเนส และไข่ปลาเผ็ด ถูกใจสาวๆ เป็นพิเศษ
+26-0095	item	Welsh Onion Takoyaki	ทาโกะยากิต้นหอมญี่ปุ่น
+26-0096	item	Takoyaki straight off the grill, served with crisp Welsh onion and tempura dipping sauce. It's been popular for quite a while.	ทาโกะยากิร้อนๆ จากเตา เสิร์ฟกับต้นหอมญี่ปุ่นกรอบและ ซอสจิ้มเทมปุระ ได้รับความนิยมมานาน
+26-0097	item	Teriyaki and Egg	เทริยากิกับไข่
+26-0098	item	Topped with teriyaki sauce and fresh egg salad, its bold flavor can satisfy any hunger.	โปะด้วยซอสเทริยากิและสลัดไข่สด รสจัดจ้านอิ่มท้องสมใจ
+26-0099	item	Delicious Cheese Pepper	เดลิเชียสชีสเปปเปอร์
+26-0100	item	An extravagant takoyaki topped with bacon and cheese, giving it a premium, delicious taste.	ทาโกะยากิสุดหรูโปะเบคอนและชีส ให้รสชาติพรีเมียมสุดอร่อย
+26-0101	item	Octopus and Avocado with Yuzu Pepper	ปลาหมึกและอะโวคาโดพริกยูซุ
+26-0102	item	Combines the spicy goodness of yuzu pepper with a hint of wasabi.	ผสานความเผ็ดร้อนของพริกยูซุ เข้ากับวาซาบิแตะปลายลิ้น
+26-0103	item	Sauce Yakisoba	ยากิโซบะซอส
+26-0104	item	Extra-thick noodles, thick cut pork, and lots of bean sprouts tossed with a decadent sauce.	เส้นหนาพิเศษ หมูหั่นชิ้นหนา และถั่วงอกเยอะๆ คลุกกับซอสรสเข้มข้น
+26-0105	item	Spicy Deep-fried Octopus	ปลาหมึกทอดรสเผ็ด
+26-0106	item	Plump, deep-fried octopus covered with super spicy cayenne and Japanese peppers.	ปลาหมึกทอดชิ้นอวบ คลุกพริกคาเยนน์และพริกญี่ปุ่น รสเผ็ดจัด
+26-0107	item	Sour Cream Fries	เฟรนช์ฟรายส์ซาวครีม
+26-0108	item	Take french fries to the next level with a dollop of fresh and cool sour cream.	ยกระดับเฟรนช์ฟรายส์ด้วยซาวครีมสดเย็น ชื่นใจสักช้อน
+26-0109	item	Cucumber Pot	หม้อแตงกวา
+26-0110	item	Gindaco Highball's No. 1 side dish goes down great with a couple of drinks.	เมนูเคียงอันดับ 1 ของกินดาโกะไฮบอล เข้ากันดีกับเครื่องดื่มสักสองสามแก้ว
+26-0111	item	Soba in Hot Broth	โซบะน้ำร้อน
+26-0112	item	This freshly boiled soba with piping-hot soup is the restaurant's daily special.	โซบะต้มสดกับซุปร้อนจัด เมนูพิเศษประจำวันของร้าน
+26-0113	item	Chilled Soba	โซบะเย็น
+26-0114	item	Soba chilled with water after being boiled. You can taste the care put into this soup.	โซบะต้มสุกแล้วแช่เย็นด้วยน้ำ รับรู้ได้ถึงความใส่ใจในน้ำซุป
+26-0115	item	Chilled Tanuki Soba	โซบะทานุกิเย็น
+26-0116	item	Cold soup poured over freshly boiled noodles and topped with crunchy bits of fried flour.	น้ำซุปเย็นราดบนเส้นโซบะต้มสด โปะด้วยเศษแป้งทอดกรอบ
+26-0117	item	Chilled Kitsune Soba	โซบะคิตสึเนะเย็น
+26-0118	item	Cold soup poured over freshly boiled soba and topped with large pieces of fried tofu.	น้ำซุปเย็นราดบนเส้นโซบะต้มสด โปะด้วยเต้าหู้ทอดชิ้นโต
+26-0119	item	Egg & Tempura Soba	โซบะไข่กับเทมปุระ
+26-0120	item	Hot soba topped with onsen eggs and vegetable tempura. It's a long-time fan favorite.	โซบะร้อนโปะด้วยไข่ออนเซ็นและเท มปุระผัก เมนูโปรดของแฟนๆ มานาน
+26-0121	item	Special Fuji Soba	ฟูจิโซบะพิเศษ
+26-0122	item	Hot soba topped with agedama, deep-fried tofu, onsen eggs, and kamaboko.	โซบะร้อนโปะอาเงดามะ เต้าหู้ทอด ไข่ออนเซ็น และคามาโบโกะ
+26-0123	item	Yuzu Chicken & Spinach Soba	โซบะยูสุไก่และผักโขม
+26-0124	item	Enjoy the faintly aromatic yuzu that garnishes the hot soba, spinach, and steamed chicken.	ลิ้มรสกลิ่นยูซุหอมอ่อนๆ ที่โรยบนโซบะร้อน ผักโขม และไก่นึ่ง
+26-0125	item	Katsudon	คัตสึด้ง
+26-0126	item	A signature dish featuring a meaty pork cutlet. Cooked to order, so it's always hot and crispy.	เมนูซิกเนเจอร์กับหมูชุบแป้งทอดชิ้นโต ปรุงตามสั่งทุกครั้งจึงร้อนกรอบเสมอ
+26-0127	item	Curry rice with mild spice. Fuji Soba's original curry roux is mixed with their famous soup.	ข้าวแกงกะหรี่รสอ่อนๆ ผสมรูซอสสูตรต้นตำรับของ ฟูจิโซบะเข้ากับซุปเลื่องชื่อ
+26-0128	item	Small Sashimi Platter (3 pcs)	จานซาชิมิเล็ก (3 ชิ้น)
+26-0129	item	A platter of sashimi with three carefully selected types of fresh seafood. Enjoy!	จานซาชิมิรวมอาหารทะเลสดคัดพิเศษ 3 ชนิด เชิญลิ้มลอง
+26-0130	item	Hand-selected Vinegar Mackerel	ปลาซาบะดองน้ำส้มคัดพิเศษ
+26-0131	item	Cured fish with lots of fat. One of the restaurant's most recommended items.	ปลาดองไขมันเยอะ หนึ่งในเมนูแนะนำที่สุดของร้าน
+26-0132	item	Kotchori Salad	สลัดค็อทโจริ
+26-0133	item	The peppery dressing and abundant onions pair well with any drink.	น้ำสลัดรสเผ็ดร้อนและหอมใหญ่เพียบ เข้ากันดีกับเครื่องดื่มทุกชนิด
+26-0134	item	These soybeans in the pod are pretty much the default bar snack.	ถั่วแช่ในฝักนี้คือของแกล้ม มาตรฐานประจำบาร์
+26-0135	item	Skewer Platter	จานเสียบไม้รวม
+26-0136	item	A plate of five different skewers. The secret to their success is the special spicy miso.	จานไม้เสียบห้าแบบหลากรส เคล็ดลับความอร่อยคือมิโซะรส เผ็ดสูตรพิเศษ
+26-0137	item	Smelt Fish with Roe	ปลาสเมลท์ไข่เต็มท้อง
+26-0138	item	Many who try this grilled fish delicacy are instantly won over by its burst of salty flavor.	หลายคนที่ได้ลองปลาย่างเมนูนี้ ต้องยอมแพ้ให้กับรสเค็มกลมกล่อม ที่ระเบิดในปาก
+26-0139	item	Salted Yakisoba	ยากิโซบะรสเค็ม
+26-0140	item	This addictive yakisoba mixes a rich, salty sauce with scallions. Goes great with drinks.	ยากิโซบะติดใจสูตรนี้ผัดซอสรสเค็ม เข้มข้นกับต้นหอม กินคู่เครื่องดื่มเข้ากันสุดๆ
+26-0141	item	Stir-fried Bean Sprouts	ถั่วงอกผัด
+26-0142	item	A simple stir fry that packs a peppery punch. Once you start eating, it's hard to stop.	ผัดเรียบง่ายที่จัดจ้านด้วยพริกไทย พอเริ่มกินแล้วหยุดไม่ได้
+26-0143	item	A cold pint from the tap with a creamy head and crisp taste.	เบียร์เย็นจากก๊อกหัวฟองครีมมี่ รสชาติสดชื่น
+26-0144	item	The quintessential non-alcoholic drink, known for its exquisite fragrance and flavor.	เครื่องดื่มไม่มีแอลกอฮอล์สุดคลาสสิก ขึ้นชื่อเรื่องกลิ่นและรสชาติชั้นเลิศ
+26-0145	item	Lemon Sour	เลมอนซาวร์
+26-0146	item	A mixed drink with a refreshing citrus twist that cleanses the palate nicely between snacks.	เครื่องดื่มผสมรสซิตรัสสดชื่น ที่ล้างปาก ได้ดีระหว่างกินของแกล้ม
+26-0147	item	Kyoho Grape Sour	ซาวร์องุ่นเคียวโฮ
+26-0148	item	A drink with an exquisite balance between tangy undertones and refreshing grape sweetness.	เครื่องดื่มที่สมดุลระหว่าง รสเปรี้ยวนุ่มๆ กับความหวานสดชื่นขององุ่นเคียวโฮ
+26-0149	item	Fresh Grapefruit Sour	ซาวร์เกรปฟรุตสด
+26-0150	item	Fresh juice gives this mixed drink a fruity flavor with a touch of citrusy sourness.	น้ำผลไม้สดให้รสชาติผลไม้กับ ความเปรี้ยว ซิตรัสนิดๆ ในเครื่องดื่มผสมแก้วนี้
+26-0151	item	Bakuhai (Whisky & Beer)	บาคุไฮ (วิสกี้ผสมเบียร์)
+26-0152	item	The Bakuhai is a popular Yoronotaki original cocktail that blends whisky and beer.	บาคุไฮคือค็อกเทลต้นตำรับสุดฮิต ของโยโรโนทากิ ที่ผสมวิสกี้กับเบียร์
+26-0153	item	Gyokuro Green Tea Shochu	โชจูชาเขียวเกียวคุโระ
+26-0154	item	A cocktail made with refined tea and liquor. Its smooth taste pairs well with any food.	ค็อกเทลจากชาชั้นดีผสมเหล้า รสชาตินุ่มนวลกินคู่กับอาหารได้ ทุกอย่าง
+26-0155	item	Cassis Oolong	คาสสิสอูหลง
+26-0156	item	This old standby is a mix of cassis liqueur and oolong tea.	เมนูคลาสสิกที่ผสมเหล้าคาสสิส กับชาอูหลง
+26-0157	item	Nagasaki Champon	จัมปงนางาซากิ
+26-0158	item	The taste of Nagasaki. An abundance of domestic vegetables gives these noodles their multifaceted flavor.	รสชาติแห่งนางาซากิ ผักในประเทศปริมาณมากให้รสชาติ หลากมิติ แก่เส้นบะหมี่นี้
+26-0159	item	Vegetable Champon	จัมปงผัก
+26-0160	item	Overflowing with seven types of vegetables, twice as many as the Nagasaki Champon!	อัดแน่นด้วยผัก 7 ชนิด มากกว่าจัมปงนางาซากิถึงสองเท่า!
+26-0161	item	Spicy Champon	จัมปงรสเผ็ด
+26-0162	item	A stimulating noodle dish using homemade spicy miso.	บะหมี่รสเร้าใจจากมิโซะรสเผ็ด สูตรทำเอง
+26-0163	item	Low Sodium Champon	จัมปงโซเดียมต่ำ
+26-0164	item	The same delicious taste as the Nagasaki Champon, with 30% less sodium!	รสชาติอร่อยเหมือนจัมปงนางาซากิ แต่ลดโซเดียมลง 30%!
+26-0165	item	Nagasaki Saraudon	ซาราอุด้งนางาซากิ
+26-0166	item	Thin noodles fried until crunchy and flavorful, then covered in hot vegetable toppings.	เส้นบางทอดจนกรอบหอม ราดด้วยผักร้อนๆ เต็มหน้า
+26-0167	item	Vegetable Saraudon	ซาราอุด้งผัก
+26-0168	item	The sister product of the popular Nagasaki Saraudon. Enjoy with your favorite dressing.	เมนูพี่น้องของซาราอุด้ง นางาซากิสุดฮิต เพิ่มรสชาติด้วยน้ำสลัดที่ชอบได้ตามใจ
+26-0169	item	Thick Saraudon	ซาราอุด้งเส้นหนา
+26-0170	item	Flavorful, soft, thick noodles. Satisfying on an empty stomach.	เส้นหนานุ่มรสชาติเข้มข้น อิ่มท้องเวลาหิวจัด
+26-0171	item	Light Saraudon	ซาราอุด้งไซส์เบา
+26-0172	item	A small saraudon. Perfect for when you want a light, noodly snack.	ซาราอุด้งไซส์เล็ก เหมาะกับตอนอยากกินเส้นแบบเบาๆ
+26-0173	item	Veggie-filled Soup	ซุปผักอัดแน่น
+26-0174	item	Soup full of wholesome vegetables and ginger. Topped with ginger or yuzu pepper dressing.	ซุปอัดแน่นด้วยผักและขิงเพื่อสุขภาพ โปะด้วยขิงหรือน้ำสลัดพริกยูซุ
+26-0175	item	Ringer Hut knows their veggies, and they take pride in their homemade fried rice.	ริงเกอร์ฮัทรู้ดีเรื่องผัก และภูมิใจในข้าวผัดสูตรทำเองของร้าน
+26-0176	item	Gyoza (5 pcs)	เกี๊ยวซ่า (5 ชิ้น)
+26-0177	item	At Ringer Hut, we make sure every rice flour wrapper comes out crisp and crunchy.	ที่ริงเกอร์ฮัท เราใส่ใจให้แป้งห่อจากข้าวกรอบ เนื้อทุกชิ้น
+26-0178	item	Seafood Chirashi Bowl	ชิราชิหน้าทะเล
+26-0179	item	A lavish combo using ample amounts of the best fish in the store. Served with miso soup.	คอมโบสุดหรูใช้ปลาชั้นดีที่สุด ของร้านในปริมาณจุใจ เสิร์ฟพร้อมซุปมิโซะ
+26-0180	item	Special Tuna Bowl	ข้าวหน้าทูน่าพิเศษ
+26-0181	item	An absolute must for lovers of fatty tuna. Comes with a large bowl of miso soup.	เมนูที่คนรักทูน่าไขมันสูงต้องลอง เสิร์ฟพร้อมซุปมิโซะถ้วยใหญ่
+26-0182	item	Special Sushi Zanmai	ซูชิซันไมพิเศษ
+26-0183	item	A 13-piece selection of nigiri sushi. Each bite is unparalleled in flavor. Served with miso soup.	ซูชิหน้าปั้นคละ 13 ชิ้น แต่ละคำอร่อยไม่เป็นสองรองใคร เสิร์ฟพร้อมซุปมิโซะ
+26-0184	item	Tuna Zanmai	ทูน่าซันไม
+26-0185	item	A tuna extravaganza! Includes ootoro, chuutoro, akami, minced tuna, tuna rolls, and seared tuna. Served with miso soup.	งานฉลองทูน่าเต็มรูปแบบ! รวมโอโทโระ ชูโทโระ อากามิ ทูน่าสับ มากิทูน่า และทูน่าย่าง เสิร์ฟพร้อมซุปมิโซะ
+26-0186	item	Tenderloin Steak 200g	สเต๊กเทนเดอร์ลอยน์ 200 กรัม
+26-0187	item	A tender fillet that's light on the fat and oil. The delicious red meat incites your inner hunger.	เนื้อฟิเลนุ่มไขมันน้อย เนื้อแดงรสเด็ดที่กระตุ้น ความหิวในตัวคุณ
+26-0188	item	Rib-eye Steak 300g	สเต๊กริบอาย 300 กรัม
+26-0189	item	A fine rib-eye steak with a good ratio of fat to red meat. Juicy, tender, and very satisfying.	สเต๊กริบอายชั้นดี ไขมันแทรกเนื้อแดงในสัดส่วนลงตัว ฉ่ำ นุ่ม อิ่มอร่อยสุดๆ
+26-0190	item	CAB Angus Beef Sirloin Steak 200g	สเต๊กเนื้อสันนอก CAB Angus 200 กรัม
+26-0191	item	The king of steaks! This hefty sirloin boasts the perfect balance of tough and tender.	ราชาแห่งสเต๊ก! เนื้อสันนอกชิ้นโตนี้มีสัดส่วน ความเหนียวนุ่มที่ลงตัวที่สุด
+26-0192	item	Wild Steak 300g	สเต๊กไวลด์ 300 กรัม
+26-0193	item	A steak served with rice, salad, and soup. Charge up your energy with a full stomach.	สเต๊กเสิร์ฟพร้อมข้าว สลัด และซุป เติมพลังด้วยท้องที่อิ่มแปล้
+26-0194	item	Wild Hamburg Steak 300g	แฮมเบิร์กสเต๊กไวลด์ 300 กรัม
+26-0195	item	A beef patty served with rice, salad, and soup. Kids love the house secret onion sauce.	แฮมเบิร์กสเต๊กเสิร์ฟพร้อมข้าว สลัด และซุป เด็กๆ ชอบซอสหอมใหญ่สูตรลับของร้าน
+26-0196	item	Salad	สลัด
+26-0197	item	A side of crunchy, leafy greens to perfectly complement a meaty entree.	เครื่องเคียงผักใบกรอบที่ เข้ากันได้ลงตัวกับเมนูเนื้อจาน หลัก
+26-0198	item	Soup	ซุป
+26-0199	item	An invigorating consomme-based soup.	ซุปคอนซอมเม่สดชื่นกระตุ้นพลัง
+26-0200	item	Dorayaki (Assorted Set)	โดรายากิ (เซตคละ)
+26-0201	item	An assorted set of dorayaki. It's popular on the internet and perfect for a small gift.	เซตโดรายากิคละไส้ กำลังฮิตในโลกออนไลน์ เหมาะเป็นของขวัญชิ้นเล็กๆ
+26-0202	item	A deliciously acidic double espresso balanced by steamed milk foam.	ดับเบิลเอสเพรสโซรสเปรี้ยวละมุน ผสานกับฟองนมร้อนได้อย่างพอดี
+26-0203	item	An espresso that leaves a distinctly acidic taste on the tip of your tongue.	เอสเพรสโซที่ทิ้งรสเปรี้ยว ชัดเจนไว้ที่ปลายลิ้น
+26-0204	item	Honey Toast	โทสต์น้ำผึ้ง
+26-0205	item	A rustic piece of bread, toasted to perfection and soaked in honey.	ขนมปังสไตล์ชนบทที่ปิ้งจนได้ที่ ราดด้วยน้ำผึ้งหอมหวาน
+26-0206	item	Baked Cheesecake	ชีสเค้กอบ
+26-0207	item	A creamy, semi-sweet cheesecake. The lemon flavor adds a citrus accent.	ชีสเค้กครีมมี่หวานน้อย กลิ่นมะนาวช่วยเพิ่มความสดชื่น
+26-0208	item	Work Clothes	ชุดทำงาน
+26-0209	item	A worker's outfit balancing safety and mobility, all at a reasonable price.	ชุดทำงานที่สมดุลระหว่าง ความปลอดภัยกับความคล่องตัว ในราคาที่จับต้องได้
+26-0210	item	Street Style	สไตล์สตรีท
+26-0211	item	Yagami's signature style, with a leather jacket, washed-out jeans, and white sneakers.	สไตล์ซิกเนเจอร์ของยากามิ กับแจ็คเก็ตหนัง กางเกงยีนส์ซีดสี และรองเท้าผ้าใบสีขาว
+26-0212	item	Golden Bat	ไม้ตีทองคำ
+26-0213	item	A metal bat from Hatano that sparkles gold. Batter up, slugger!	ไม้ตีโลหะจากฮาตาโนะที่แวววาวสีทอง เตรียมตัวขึ้นตี นักตีตัวจริง!
+26-0214	item	A plush of AiAi from Super Monkey Ball.	ตุ๊กตา AiAi จาก Super Monkey Ball
+26-0215	item	A plush of GonGon from Super Monkey Ball.	ตุ๊กตา GonGon จาก Super Monkey Ball
+26-0216	item	A plush of MeeMee from Super Monkey Ball.	ตุ๊กตา MeeMee จาก Super Monkey Ball
+26-0217	item	A plush of Baby from Super Monkey Ball.	ตุ๊กตา Baby จาก Super Monkey Ball
+26-0218	item	Bun-chan the Java Sparrow (White)	บุน-จัง นกกระจาบชวา (ขาว)
+26-0219	item	A white plush of Bun-chan the Java Sparrow.	ตุ๊กตาบุน-จัง นกกระจาบชวา สีขาว
+26-0220	item	Bun-chan the Java Sparrow (Pink)	บุน-จัง นกกระจาบชวา (ชมพู)
+26-0221	item	A pink plush of Bun-chan the Java Sparrow.	ตุ๊กตาบุน-จัง นกกระจาบชวา สีชมพู
+26-0222	item	Jumbo Bun-chan	บุน-จัง ไซส์จัมโบ้
+26-0223	item	An XL plush of Jumbo Bun-chan.	ตุ๊กตาบุน-จัง ไซส์จัมโบ้ ตัวใหญ่พิเศษ
+26-0224	item	Kitty Kat (Red)	Kitty Kat (แดง)
+26-0225	item	A red doll from the Kitty Kat toy line.	ตุ๊กตาจากไลน์ของเล่น Kitty Kat สีแดง
+26-0226	item	Kitty Kat (Tiger)	Kitty Kat (ลายเสือ)
+26-0227	item	A tiger doll from the Kitty Kat toy line.	ตุ๊กตาจากไลน์ของเล่น Kitty Kat ลายเสือ
+26-0228	item	Kitty Kat (Blue)	Kitty Kat (น้ำเงิน)
+26-0229	item	A blue doll from the Kitty Kat toy line.	ตุ๊กตาจากไลน์ของเล่น Kitty Kat สีน้ำเงิน
+26-0230	item	Kitty Kat (American Short Hair)	Kitty Kat (อเมริกันชอร์ตแฮร์)
+26-0231	item	An American short hair doll from the Kitty Kat toy line.	ตุ๊กตาจากไลน์ของเล่น Kitty Kat สายพันธุ์อเมริกันชอร์ตแฮร์
+26-0232	item	Kitty Kat (Calico)	Kitty Kat (ลายสามสี)
+26-0233	item	A calico doll from the Kitty Kat toy line.	ตุ๊กตาจากไลน์ของเล่น Kitty Kat ลายสามสี
+26-0234	item	Robo Chief	โรโบชีฟ
+26-0235	item	A stuffed doll of everyone's favorite Robo Chief.	ตุ๊กตาโรโบชีฟตัวโปรดของทุกคน
+26-0236	item	Robo Manager	โรโบเมเนเจอร์
+26-0237	item	A stuffed doll of everyone's favorite Robo Manager.	ตุ๊กตาโรโบเมเนเจอร์ตัวโปรดของทุกคน
+26-0238	item	Staminan Light	สตามินัน ไลต์
+26-0239	item	This energy drink restores health and charges the EX Gauge slightly.	เครื่องดื่มชูกำลังนี้ฟื้นฟู พลังชีวิตและเติมเกจ EX เล็กน้อย
+26-0240	item	Toughness Light	ทัฟเนส ไลต์
+26-0241	item	Useful when you need a little health boost.	มีประโยชน์เมื่อต้องการเพิ่ม พลังชีวิตเล็กน้อย
+26-0242	item	Limited Warabimochi	วาราบิโมจิ รุ่นลิมิเต็ด
+26-0243	item	A sweet treat that's well worth the wait at Takemitsu, Kyoto's oldest confectionery.	ขนมหวานที่คุ้มค่ากับการรอคอย ที่ทาเคมิตสึ ร้านขนมเก่าแก่ที่สุดของเกียวโต
+26-0244	item	Pillow Pups (Golden Retriever)	ตุ๊กตาหมอนหมา (โกลเดน รีทรีฟเวอร์)
+26-0245	item	An adorable stuffed animal. This pup is a golden retriever.	ตุ๊กตาสัตว์น่ารัก ลูกหมาพันธุ์โกลเดน รีทรีฟเวอร์
+26-0246	item	Pillow Pups (French Bulldog)	ตุ๊กตาหมอนหมา (เฟรนช์บูลด็อก)
+26-0247	item	An adorable stuffed animal. This pup is a French bulldog.	ตุ๊กตาสัตว์น่ารัก ลูกหมาพันธุ์เฟรนช์บูลด็อก
+26-0248	item	Batting Gloves	ถุงมือตีเบสบอล
+26-0249	item	A pair of gloves from Hatano that increase grip strength. Home run!	ถุงมือคู่นี้จากฮาตาโนะช่วย เพิ่มแรงจับ โฮมรัน!
+26-0250	item	Thin Wire	ลวดบาง
+26-0251	item	A long, thin wire. It'll do the trick for a thumbturn bypass.	ลวดเส้นยาวบาง ใช้เลี่ยงผ่านลูกบิดล็อกประตูได้สบาย
+26-0252	item	Yagami's Key	กุญแจของยากามิ
+26-0253	item	The key to the Yagami Detective Agency. It's a dump, but home is where you make it.	กุญแจสำนักงานนักสืบยากามิ ที่นี่จะรกแค่ไหนก็เป็นบ้านของเราเอง
+26-0254	item	Dragon's Palace Key	กุญแจวังมังกร
+26-0255	item	The key to the Dragon's Palace. Only a select few people have one of these.	กุญแจวังมังกร มีคนเพียงหยิบมือที่ครอบครอง กุญแจดอกนี้
+26-0256	item	KJ Art Key	กุญแจ KJ Art
+26-0257	item	The key to KJ Art. Getting this out of the safe was no small feat.	กุญแจ KJ Art กว่าจะเอาออกมาจากตู้เซฟได้ ไม่ใช่เรื่องง่ายเลย
+26-0258	item	L'Amant Key	กุญแจลามองต์
+26-0259	item	The key to L'Amant, an underground casino beneath the Koi Bride fishing pond.	กุญแจลามองต์ คาสิโนใต้ดินที่อยู่ใต้บ่อตกปลา โคอิไบรด์
+26-0260	item	Honmaruen Key	กุญแจฮนมารุเอ็น
+26-0261	item	The key to Cabaret Honmaruen. This should work on most of the doors there.	กุญแจคาบาเรต์ฮนมารุเอ็น ใช้เปิดประตูส่วนใหญ่ในนั้นได้
+26-0262	item	Genda Law Office Key	กุญแจสำนักงานกฎหมายเก็นดะ
+26-0263	item	The key to Genda Law Office. Just three years ago, I was responsible for this key.	กุญแจสำนักงานกฎหมายเก็นดะ เมื่อสามปีก่อนกุญแจดอกนี้ ยังเป็นความรับผิดชอบของผม อยู่เลย
+26-0264	item	Mysterious Key	กุญแจปริศนา
+26-0265	item	A mysterious key for an unknown lock. It has to work somewhere... but where?	กุญแจปริศนาสำหรับล็อกที่ไม่รู้จัก ต้องมีที่ใช้ได้แน่ๆ... แต่ที่ไหนล่ะ?
+26-0266	item	An elegant brew with a mellow, nutty flavor and hints of chocolate.	เครื่องดื่มรสละมุนหอมกลิ่นนัต แทรกด้วยกลิ่นช็อกโกแลตบางๆ
+26-0267	item	A tea blend that adds oil of bergamot for a deep flavor and crisp scent.	ชาเบลนด์ที่เติมน้ำมันเบอร์กา ม็อตเพื่อรสชาติเข้มข้น และกลิ่นหอมสดชื่น
+26-0268	item	A cool refreshment using astringent tea leaves and domestic lemons.	เครื่องดื่มเย็นสดชื่นจากใบชา รสฝาดผสมมะนาวในประเทศ
+26-0269	item	100% pure OJ squeezed from ripe, organic oranges.	น้ำส้มคั้นสด 100% จากส้มออร์แกนิกสุกพอดี
+26-0270	item	A filling Italian pasta with a rich, creamy taste.	พาสต้าอิตาเลียนอิ่มท้อง รสครีมมี่เข้มข้น
+26-0271	item	This omelette rice is paired with a savory demi-glace sauce.	ข้าวห่อไข่จานนี้เสิร์ฟคู่กับ ซอสเดมิกลาสรสเข้มข้น
+26-0272	item	Healthy Salad	สลัดเพื่อสุขภาพ
+26-0273	item	A nutrious green salad, and a popular low-calorie option.	สลัดผักใบเขียวมีประโยชน์ ตัวเลือกแคลอรีต่ำยอดนิยม
+26-0274	item	Specialty Baguette	บาแกตต์พิเศษ
+26-0275	item	An entincing baguette with a savory scent. Crispy on the outside, fluffy within.	บาแกตต์หอมเย้ายวนใจ กรอบนอกนุ่มใน
+26-0276	item	A rich, delicious cake bursting with the delightful flavors of seasonal fruit.	เค้กเข้มข้นอร่อยล้ำ อัดแน่นด้วยรสชาติผลไม้ตามฤดูกาล
+26-0277	item	Golden Mont Blanc	มงบลังก์สีทอง
+26-0278	item	This creamy mont blanc shines like a mountain of smooth, mellow gold.	มงบลังก์ครีมมี่นี้เปล่งประกาย ดั่งภูเขาทองคำเนียนนุ่ม
+26-0279	item	Vanilla Ice Cream	ไอศกรีมวานิลลา
+26-0280	item	The classic vanilla ice cream with a smooth texture.	ไอศกรีมวานิลลาแบบคลาสสิก เนื้อเนียนนุ่ม
+26-0281	item	Meat and Potatoes	เนื้อตุ๋นมันฝรั่ง
+26-0282	item	Hearty meat and potatoes made by the landlord.	เนื้อตุ๋นมันฝรั่งจานใหญ่ ฝีมือเจ้าของบ้าน
+26-0283	item	Omelette rice with ketchup made by the landlord.	ข้าวห่อไข่ราดซอสมะเขือเทศ ฝีมือเจ้าของบ้าน
+26-0284	item	Beef Stew	สตูว์เนื้อ
+26-0285	item	Old-fashioned beef stew made by the landlord.	สตูว์เนื้อสูตรดั้งเดิม ฝีมือเจ้าของบ้าน
+26-0286	item	Fried Prawn	กุ้งทอด
+26-0287	item	Deep-fried breaded prawns made by the landlord.	กุ้งชุบเกล็ดขนมปังทอดกรอบ ฝีมือเจ้าของบ้าน
+26-0288	item	Hamburg Steak	แฮมเบิร์กสเต๊ก
+26-0289	item	Ground beef patty with gravy made by the landlord.	แพตตี้เนื้อบดราดเกรวี่ ฝีมือเจ้าของบ้าน
+26-0290	item	Bitter Melon Curry	แกงกะหรี่มะระ
+26-0291	item	Curry with bitter melon made by the landlord.	แกงกะหรี่ใส่มะระ ฝีมือเจ้าของบ้าน
+26-0292	item	Wasabi Chicken Karaage	ไก่คาราอาเกะวาซาบิ
+26-0293	item	Fried chicken bites with wasabi made by the landlord.	ไก่คาราอาเกะรสวาซาบิ ฝีมือเจ้าของบ้าน
+26-0294	item	Okonomiyaki	โอโคโนมิยากิ
+26-0295	item	Savory pancake "grilled just how you like it" by the landlord.	แพนเค้กรสเค็มมัน "ย่างได้ดั่งใจคุณ" ฝีมือเจ้าของบ้าน
+26-0296	item	Security Footage: Outside Club Amour, 9 PM	ภาพกล้องวงจรปิด: หน้าคลับอามูร์ เวลา 21:00 น.
+26-0297	item	The night of the incident, 9:00 PM. We see the victim, Kume, being forced into Amour by Hamura and four Matsugane Family associates. Kume's superior, Murase, can also be seen running from the scene.	คืนเกิดเหตุ เวลา 21:00 น. เราเห็นเหยื่อคือคุเมะถูกฮามุระกับ สมาชิกตระกูลมัตสึกาเนะอีกสี่คน ลากตัวเข้าไปในอามูร์ ส่วนมุราเสะ อานิกิของคุเมะ ก็ปรากฏในภาพว่าวิ่งหนีออกจาก ที่เกิดเหตุด้วยเช่นกัน
+26-0298	item	Broken Camera	กล้องวงจรปิดชำรุด
+26-0299	item	The security camera facing Amour's rear entrance. It's broken, so there isn't any usable footage recorded on it.	กล้องวงจรปิดที่หันไปทางทางเข้า ด้านหลังของอามูร์ กล้องตัวนี้เสีย จึงไม่มีภาพที่ใช้งานได้บันทึกไว้เลย
+26-0300	item	Cause of death: Puncture wound from eye to brain. Time of death: 2:00 - 3:00 AM. The murder weapon is thought to be an ice pick. There are signs of an assault and struggle while alive. The victim's blood is inconsistent with the size of the stab wound, so the body was likely moved from the real scene of the crime.	สาเหตุการเสียชีวิต: บาดแผลแทงทะลุจากดวงตาถึงสมอง เวลาเสียชีวิต: 02:00 - 03:00 น. คาดว่าอาวุธสังหารคือเหล็กเจาะน้ำแข็ง มีร่องรอยการถูกทำร้ายและ การดิ้นรนขณะยังมีชีวิต ปริมาณเลือดของเหยื่อไม่ สอดคล้องกับขนาดบาดแผลที่ถูกแทง จึงสันนิษฐานว่าศพถูก เคลื่อนย้ายมาจาก สถานที่เกิดเหตุจริง
+26-0301	item	The night of the incident, near 12 AM. Hamura strikes a Stardust host named Seiya before leaving the premises. Seiya soon witnessed Hamura enter Sauna Goten. None of Goten's guests left the building until the first train arrived the following morning. Thus, Hamura is presumed to have stayed indoors through the night.	คืนเกิดเหตุ ราวเที่ยงคืน ฮามุระทำร้ายโฮสต์จาก คลับสตาร์ดัสต์ชื่อเซยะก่อน ออกจาก สถานที่ไป ไม่นานเซยะก็เห็นฮามุระเดิน เข้าไปในซาวน่าโกเท็น ไม่มีแขกคนใดของโกเท็นออกจากตึก จนกระทั่งรถไฟเที่ยวแรก มาถึงในเช้าวันรุ่งขึ้น จึงสันนิษฐานว่าฮามุระอยู่ ข้างในตลอดทั้งคืน
+26-0302	item	Cause of Death: Puncture wound from eye to brain (see: Kume's report). The murder weapon is still believed to be an ice pick. The volume of blood is once more too low, so the assault must have occurred elsewhere. The victim had neither wallet or phone, so the actual crime scene is yet unknown.	สาเหตุการเสียชีวิต: บาดแผลแทงทะลุจากดวงตาถึงสมอง (ดู: รายงานของคุเมะ) อาวุธสังหารยังคงเชื่อว่าเป็น เหล็กเจาะน้ำแข็ง ปริมาณเลือดยังน้อยเกินไปอีกครั้ง การทำร้ายจึงต้องเกิดขึ้นที่อื่น เหยื่อไม่มีทั้งกระเป๋าเงินและ โทรศัพท์ จึงยังไม่ทราบสถานที่เกิดเหตุจริง
+26-0303	item	Cause of Death: Puncture wound from eye to brain (see: Kume's report). All signs still point to an ice pick. The discrepancies between blood loss and wound size suggest another relocation of the body from the crime scene. Unfortunately, the victim had neither phone nor wallet to narrow the search.	สาเหตุการเสียชีวิต: บาดแผลแทงทะลุจากดวงตาถึงสมอง (ดู: รายงานของคุเมะ) ทุกร่องรอยยังคงชี้ไปที่ เหล็กเจาะน้ำแข็ง ความคลาดเคลื่อนระหว่างปริมาณ เลือดกับขนาดบาดแผลบ่งชี้ ว่ามีการเคลื่อนย้ายศพจาก สถานที่เกิดเหตุอีกครั้ง แต่น่าเสียดายที่เหยื่อไม่ มีทั้งโทรศัพท์และกระเป๋า เงินให้สืบต่อได้
+26-0304	item	Shintani's Phone Log	บันทึกการโทรของชินทานิ
+26-0305	item	The numbers Shintani contacted on the day of his murder, conveniently left in his call history. Only the last call is unregistered in his address book, so that number's owner is unknown.	หมายเลขที่ชินทานิติดต่อใน วันที่เขาถูกฆาตกรรม ซึ่งบังเอิญยังหลงเหลืออยู่ใน ประวัติการโทรของเขา มีเพียงสายสุดท้ายเท่านั้น ที่ไม่มีชื่ออยู่ในสมุดรายชื่อ ของเขา เจ้าของหมายเลขนั้นจึงยังไม่ทราบตัวตน
+26-0306	item	A scientific study on an anti-Alzheimer's drug (AD-9) said to cure the incurable, presented in 2017 by the Advanced Drug Discovery Center. The paper was authored by the organization's leader, Prof. Ryusuke Kido. Reportedly, AD-9 passed animal testing and fully cured a lab rat of its Alzheimer's disease.	งานวิจัยทางวิทยาศาสตร์ เกี่ยวกับยาต้านโรคอัลไซเมอร์ (AD-9) ที่อ้างว่ารักษาโรคที่รักษาไม่หายได้ นำเสนอในปี 2017 โดยศูนย์พัฒนายาขั้นสูง งานวิจัยนี้เขียนโดยศาสตราจารย์ ริวสึเกะ คิโดะ หัวหน้าองค์กร รายงานระบุว่า AD-9 ผ่านการทดลองในสัตว์และรักษา หนูทดลองให้หายจาก โรคอัลไซเมอร์ได้อย่างสมบูรณ์
+26-0307	item	Bullet Rifling	ร่องรอยเกลียวลูกกระสุน
+26-0308	item	Rifling mark of the bullet extracted from Shintani's corpse. It matches the pistol issued to Ayabe, an active police officer. The logical conclusion is that Shintani was shot by Ayabe's handgun.	ร่องรอยเกลียวลูกกระสุนที่สกัด ออกจากศพของชินทานิ ตรงกับปืนที่ออกให้อายาเบะ เจ้าหน้าที่ตำรวจที่ยัง ปฏิบัติหน้าที่อยู่ ข้อสรุปที่สมเหตุสมผลคือชินทานิ ถูกยิงด้วยปืนของอายาเบะ
+26-0309	item	The audio phone data between Vice-Minister Kaoru Ichinose and Captain Hamura of the Matsugane Family.	ข้อมูลเสียงบันทึกการโทรศัพท์ ระหว่างท่านรองปลัดคาโอรุ อิจิโนเสะ กับกัปตันฮามุระแห่งตระกูลมัตสึกาเนะ
+26-0310	item	Waku's Hospital Room: Panorama	ห้องผู้ป่วยของวาคุ: มุมกว้าง
+26-0311	item	The hospital room where Waku, an elderly man, stayed for two years until he was murdered. The incident details his sudden disappearance and discovery two months later, buried in the Okutama mountains.	ห้องผู้ป่วยที่วาคุ ชายชรา พักรักษาตัวอยู่นานสองปีก่อนถูก ฆาตกรรม เหตุการณ์นี้มีรายละเอียดเรื่อง การหายตัวไปอย่างกะทันหันของเขา และการพบศพในอีกสองเดือนต่อมา ที่ถูกฝังไว้บนภูเขาโอคุทามะ
+26-0312	item	Cause of Death: Unknown, but suffocation seems likely. The victim, Waku, had been hospitalized for two years due to a neurcognitive disorder caused by Alzheimer's disease. When his body was found in the Okutama mountains, it was already decomposing. He most likely died soon after going missing.	สาเหตุการเสียชีวิต: ไม่ทราบแน่ชัด แต่คาดว่าเกิดจากการขาดอากาศหายใจ เหยื่อคือวาคุ เข้ารักษาตัวในโรงพยาบาลมานาน สองปีจากภาวะสมองเสื่อม ที่เกิดจากโรคอัลไซเมอร์ เมื่อพบศพของเขาบนภูเขาโอคุทามะ ศพเน่าเปื่อยไปแล้ว คาดว่าเขาเสียชีวิตไม่นาน หลังจากหายตัวไป
+26-0313	item	A wheeled linen hamper for patients' bed sheets at the ADDC's hospital ward. Large enough to hide a body. Multiple witnesses place a custodian named Okubo on laundry duty the day the victim escaped from his room. They distinctly remember seeing him push a laundry cart down the hall.	ตะกร้าผ้าล้อเข็นสำหรับผ้าปู เตียงของผู้ป่วยในหอผู้ป่วยของ ADDC มีขนาดใหญ่พอจะซ่อนศพได้ พยานหลายคนยืนยันว่าเห็นภารโรง ชื่อโอคุโบะทำหน้าที่ ซักผ้าในวันที่เหยื่อหายตัวไปจากห้อง พวกเขาจำได้ชัดเจนว่าเห็นเขา เข็นรถเข็นผ้าไปตามทางเดิน
+26-0314	item	Victim's Body Fluids	ของเหลวในร่างกายของเหยื่อ
+26-0315	item	Bodily fluid found in the bed of the Okubo's commercial truck by the police during the investigation after the incident. DNA tests have confirmed that the fluids belong to the victim. It turns out Okubo placed Waku in the truck bed, making it highly incriminating evidence against Okubo.	ของเหลวในร่างกายที่พบในกระบะ รถบรรทุกของโอคุโบะ โดยตำรวจระหว่างการสืบสวนหลังเกิดเหตุ ผลตรวจดีเอ็นเอยืนยันว่าของเหลว นั้นเป็นของเหยื่อ กลายเป็นหลักฐานมัดตัวโอคุโบะ อย่างหนักว่าเขาเป็นคนเอา ศพวาคุใส่ไว้ในกระบะรถ
+26-0316	item	Cause of Death: Cerebral contusion caused by over ten blows. The blood alcohol content suggests the victim was inebriated during the incident. The suspect is thought to have worn gloves while attacking, as no fingerprints were found from the victim's body. Nothing else on the crime scene has assisted police in identifying suspects.	สาเหตุการเสียชีวิต: สมองฟกช้ำจากการถูกตีมากกว่าสิบครั้ง ปริมาณแอลกอฮอล์ในเลือดบ่งชี้ ว่าเหยื่อมึนเมาขณะเกิดเหตุ คาดว่าผู้ต้องสงสัยสวมถุงมือขณะลงมือ เพราะไม่พบลายนิ้วมือบนร่างของเหยื่อ ไม่มีสิ่งอื่นใดใน สถานที่เกิดเหตุที่ช่วยตำรวจ ระบุตัว ผู้ต้องสงสัยได้อีก
+26-0317	item	The blood in the scene suggests that after the victim was stabbed in the bedroom, she tried to run to the room next door while being stabbed in more than ten places. Then the gasoline was spread over the body, making the fire strongest in this area. When firefighters arrived to rescue him, Okubo was surrounded by smoke as he dashed out the entrance.	คราบเลือดในที่เกิดเหตุบ่งชี้ ว่าหลังเหยื่อถูกแทงในห้องนอน เธอพยายามวิ่งไปยังห้อง ข้างเคียงขณะถูกแทงซ้ำมากกว่า สิบแผล จากนั้นน้ำมันเบนซินถูกราดทั่วร่าง ทำให้ไฟลุกแรงที่สุดในบริเวณนี้ เมื่อนักดับเพลิงมาถึงเพื่อ ช่วยเหลือเขา โอคุโบะถูกพบท่ามกลางกลุ่มควัน ขณะวิ่งออกมาทางประตูทางเข้า
+26-0318	item	The kitchen knife with Okubo's fingerprints on it. The victim's wounds match the shape and size of the blade.	มีดทำครัวที่มีลายนิ้วมือของ โอคุโบะติดอยู่ บาดแผลของเหยื่อตรงกับรูปทรงและ ขนาดของใบมีดนี้
+26-0319	item	Security Footage: Outside Club Amour, 10 PM	ภาพกล้องวงจรปิด: หน้าคลับอามูร์ เวลา 22:00 น.
+26-0320	item	The night of the incident, 10:00 PM. Several Matsugane Family associates exit Amour, accompanied by the club's owner. Hamura is left alone in the venue with Kume, the victim. Hamura claims to have left through the back door at around midnight, but there is no evidence to support this.	คืนเกิดเหตุ เวลา 22:00 น. สมาชิกตระกูลมัตสึกาเนะหลายคน ออกจากอามูร์ พร้อมกับเจ้าของคลับ เหลือฮามุระอยู่ตามลำพังกับคุเมะ เหยื่อ ในสถานที่ ฮามุระอ้างว่าออกไปทางประตูหลัง ราวเที่ยงคืน แต่ไม่มีหลักฐานใดสนับสนุน คำกล่าวอ้างนี้
+26-0321	item	Shintani's Bullet Wounds	บาดแผลกระสุนของชินทานิ
+26-0322	item	Shintani was found dead inside the Yagami Detective Agency, covered in bullet wounds and hidden in a closet for an indeterminate time span. Judging by the trace amounts of blood on the floor, it is assumed that the body was moved there from the true scene of the crime.	ชินทานิถูกพบเป็นศพภายใน สำนักงานนักสืบยากามิ เต็มไปด้วยบาดแผลกระสุนและถูก ซ่อนไว้ในตู้เสื้อผ้า เป็นเวลาไม่แน่ชัด จากปริมาณเลือดเล็กน้อยที่พบบนพื้น สันนิษฐานว่าศพถูกเคลื่อนย้าย มาจากสถานที่เกิดเหตุจริง
+26-0323	item	Medical Kit (S)	ชุดปฐมพยาบาล (S)
+26-0324	item	Medical supplies to treat mortal wounds. Small health recovery.	เวชภัณฑ์รักษาบาดแผลสาหัส ฟื้นฟูพลังชีวิตเล็กน้อย
+26-0325	item	Medical Kit (M)	ชุดปฐมพยาบาล (M)
+26-0326	item	Medical supplies to treat mortal wounds. Medium health recovery.	เวชภัณฑ์รักษาบาดแผลสาหัส ฟื้นฟูพลังชีวิตปานกลาง
+26-0327	item	Medical Kit (L)	ชุดปฐมพยาบาล (L)
+26-0328	item	Medical supplies to treat mortal wounds. Large health recovery.	เวชภัณฑ์รักษาบาดแผลสาหัส ฟื้นฟูพลังชีวิตมาก
+26-0329	item	Triple Yokan	โยกังทริปเปิล
+26-0330	item	A thick jelly dessert. Causes triples to start appearing in oicho-kabu.	ขนมเยลลี่เนื้อแน่น ทำให้ไพ่ตองในโออิโช-คาบุออกบ่อยขึ้น
+26-0331	item	10-10-1 Charm	เครื่องรางสิบสิบหนึ่ง
+26-0332	item	Draw 10-10-1 in oicho-kabu.	จั่วไพ่ 10-10-1 ในโออิโช-คาบุ
+26-0333	item	Lucky Hanafuda Card	ไพ่ฮานาฟุดะนำโชค
+26-0334	item	When flipping in koi-koi, you're more likely to acquire a card to complete a combination.	เมื่อเปิดไพ่ในโคอิ-โคอิ มีโอกาสได้ไพ่ที่ทำให้คอมโบ สมบูรณ์มากขึ้น
+26-0335	item	Blackjack Amulet	เครื่องรางแบล็กแจ็ก
+26-0336	item	For a limited time, you'll get nothing but blackjacks.	ในช่วงเวลาจำกัด ได้แต่แบล็กแจ็กล้วนๆ
+26-0337	item	Bust Amulet	เครื่องรางบัสต์
+26-0338	item	For a limited time, the blackjack dealer becomes more likely to bust.	ในช่วงเวลาจำกัด เจ้ามือแบล็กแจ็กมีโอกาสบัสต์มากขึ้น
+26-0339	item	Royal Joker Card	ไพ่โจ๊กเกอร์หลวง
+26-0340	item	Become more likely to assemble a poker hand.	มีโอกาสจับไพ่ครบมือโป๊กเกอร์มากขึ้น
+26-0341	item	The Basics of Shogi	หลักพื้นฐานของโชกิ
+26-0342	item	A book outlining the basic rules of shogi. (Understanding of shogi not guaranteed.)	หนังสือสรุปกฎพื้นฐานของโชกิ (ไม่รับประกันว่าจะเข้าใจโชกิ)
+26-0343	item	Nine Gates Tile	ไพ่เก้าประตู
+26-0344	item	This lets you get a Nine Gates in mahjong... assuming it works at all.	ไพ่นี้ช่วยให้ได้เก้าประตูในมาจอง... ถ้ามันได้ผลจริงนะ
+26-0345	item	Tashiro-kun Style	สไตล์ทาชิโระคุง
+26-0346	item	An avant-garde ensemble from Tashiro, the Matsugane Family fashionista.	ชุดแฟชั่นแนวล้ำสมัยจากทาชิโระ นักแฟชั่นแห่งตระกูลมัตสึกาเนะ
+26-0347	item	Play Pass	เพลย์พาส
+26-0348	item	A Play Pass for Paradise VR. Each course requires a different amount of tickets.	เพลย์พาสสำหรับ Paradise VR แต่ละคอร์สต้องใช้จำนวนตั๋วต่างกัน
+26-0349	item	A play pass for Dice & Cube. Win a prize and give it to the homeless person.	เพลย์พาสสำหรับ Dice & Cube ชนะรางวัลแล้วมอบให้คนไร้บ้าน
+26-0350	item	Free Pass	เพลย์พาสฟรี
+26-0351	item	A play-all-you-want pass for Dice & Cube. All VR games are free with this.	เพลย์พาสไม่อั้นสำหรับ Dice & Cube เล่นเกม VR ทั้งหมดได้ฟรีด้วยตั๋วนี้
+26-0352	item	Prepaid Card (1.5K JPY)	บัตรเติมเงิน (1.5K เยน)
+26-0353	item	A prepaid card with ${value} charged on it.	บัตรเติมเงินที่มีมูลค่า ${value} อยู่ในบัตร
+26-0354	item	Prepaid Card (3K JPY)	บัตรเติมเงิน (3K เยน)
+26-0355	item	Prepaid Card (5K JPY)	บัตรเติมเงิน (5K เยน)
+26-0356	item	Prepaid Card (10K JPY)	บัตรเติมเงิน (10K เยน)
+26-0357	item	You never know when these might come in handy.\n\nThis can be sold for ${value}.	ไม่มีใครรู้ว่าเมื่อไหร่ของพวก นี้จะเป็นประโยชน์ขึ้นมา\n\nขายได้ ${value}
+26-0358	item	A reasonable plate made from paper.\n\nThis can be sold for ${value}.	จานกระดาษราคาสมเหตุสมผล\n\nขายได้ ${value}
+26-0359	item	It's not too special, but it could go for a decent price at a pawn shop.\n\nThis can be sold for ${value}.	ไม่ได้พิเศษอะไรมาก แต่ก็อาจขายได้ราคาดีที่ร้านรับจำนำ\n\nขายได้ ${value}
+26-0360	item	It's not particularly valuable, but it could go for a relatively nice price at a pawn shop.\n\nThis can be sold for ${value}.	ไม่ได้มีค่ามากนัก แต่ก็อาจขายได้ราคาค่อนข้างดี ที่ร้านรับจำนำ\n\nขายได้ ${value}
+26-0361	item	This well-crafted plate could net you a hefty sum over at a pawn shop.\n\nThis can be sold for ${value}.	จานที่ประณีตชิ้นนี้อาจทำ เงินก้อนโตให้คุณได้ที่ร้านรับ จำนำ\n\nขายได้ ${value}
+26-0362	item	The gold standard in plates. Could go for quite a lot at a pawn shop.\n\nThis can be sold for ${value}.	มาตรฐานขั้นสูงสุดของจาน อาจขายได้ราคาสูงมากที่ร้านรับจำนำ\n\nขายได้ ${value}
+26-0363	item	Made from some of the rarest metal in the world. Could fetch you a small fortune at a pawn shop.\n\nThis can be sold for ${value}.	ทำจากโลหะหายากที่สุดชนิดหนึ่งในโลก อาจทำเงินก้อนโตให้คุณได้ที่ ร้านรับจำนำ\n\nขายได้ ${value}
+26-0364	item	Ultimate Onigiri	โอนิกิริสุดยอด
+26-0365	item	A rice ball stuffed with ultra-tasty ingredients.\n\nThis can be sold for ${value}.	ข้าวปั้นสอดไส้วัตถุดิบสุดอร่อย\n\nขายได้ ${value}
+26-0366	item	Deluxe Sandwich	แซนด์วิชเดอลุกซ์
+26-0367	item	A deluxe sandwich featuring three popular ingredients.\n\nThis can be sold for ${value}.	แซนด์วิชเดอลุกซ์ที่รวมวัตถุดิบ ยอดนิยมสามอย่าง\n\nขายได้ ${value}
+26-0368	item	Rainbow Bun	ซาลาเปาสีรุ้ง
+26-0369	item	A legendary confection that sparkles with rainbow colors.\n\nThis can be sold for ${value}.	ขนมหวานระดับตำนานที่ประกายสีรุ้ง\n\nขายได้ ${value}
+26-0370	item	A luxurious boxed lunch that lavishly lays on the grilled meat.\n\nThis can be sold for ${value}.	เบนโตะสุดหรูที่อัดแน่นด้วย เนื้อย่างอย่างไม่อั้น\n\nขายได้ ${value}
+26-0371	item	A sushi combo filled with a popular selection of nigiri.\n\nThis can be sold for ${value}.	ชุดซูชิรวมนิกิริยอดนิยม\n\nขายได้ ${value}
+26-0372	item	Premium Cat Food	อาหารแมวพรีเมียม
+26-0373	item	Fine feline dining made from the freshest tuna. \nKoro-nyan's favorite.\n\nThis can be sold for ${value}.	อาหารมื้อเลิศสำหรับแมวที่ทำจาก ทูน่าสดใหม่ที่สุด \nอาหารโปรดของโคโระเนียง\n\nขายได้ ${value}
+26-0374	item	Broken Seashell	เปลือกหอยแตก
+26-0375	item	A shell that's been slightly chipped.\n\nThis can be sold for ${value}.	เปลือกหอยที่บิ่นไปเล็กน้อย\n\nขายได้ ${value}
+26-0376	item	Small Seashell	เปลือกหอยชิ้นเล็ก
+26-0377	item	A little shell. Sometimes sold by the seashore.\n\nThis can be sold for ${value}.	เปลือกหอยชิ้นเล็ก บางครั้งมีขายอยู่ริมชายหาด\n\nขายได้ ${value}
+26-0378	item	Beautiful Seashell	เปลือกหอยสวยงาม
+26-0379	item	A beautiful shell with a rainbow shine.\n\nThis can be sold for ${value}.	เปลือกหอยสวยงามที่มีประกายสีรุ้ง\n\nขายได้ ${value}
+26-0380	item	An extra heaping helping of the domestic beef bowl special.\n\nThis can be sold for ${value}.	ข้าวหน้าเนื้อพิเศษสูตรในประเทศ จัดมาให้แบบจุใจ\n\nขายได้ ${value}
+26-0381	item	Sink your teeth into a soft, scrumptious beef tongue that will melt in your mouth.\n\nThis can be sold for ${value}.	ลิ้มรสลิ้นวัวนุ่มละมุนแสนอร่อย ที่ละลายในปาก\n\nขายได้ ${value}
+26-0382	item	These top-grade short ribs are selected from only the rarest, choicest cuts of beef.\n\nThis can be sold for ${value}.	ซี่โครงระดับพรีเมียมที่คัดสรร จากเนื้อส่วนที่หายากและ ดีที่สุดเท่านั้น\n\nขายได้ ${value}
+26-0383	item	A marbled sirloin steak. It's succulent, juicy, and bursting with umami flavor.\n\nThis can be sold for ${value}.	สเต๊กเนื้อสันนอกลายหินอ่อน เนื้อฉ่ำ นุ่มลิ้น เปี่ยมรสอูมามิ\n\nขายได้ ${value}
+26-0384	item	A skirt steak made from wagyu beef. It's a treat for your taste buds.\n\nThis can be sold for ${value}.	สเต๊กสันในจากเนื้อวากิว ของอร่อยที่เอาใจต่อมรับรส\n\nขายได้ ${value}
+26-0385	item	Rich Cake	เค้กเข้มข้น
+26-0386	item	A moist confection bursting with the delightful flavors of seasonal fruit.\n\nThis can be sold for ${value}.	ขนมเนื้อชุ่มฉ่ำที่อัดแน่นด้วย รสชาติผลไม้ตามฤดูกาล\n\nขายได้ ${value}
+26-0387	item	A thick, heavy hamburger topped with an egg fried sunny-side up.\n\nThis can be sold for ${value}.	แฮมเบอร์เกอร์ชิ้นหนาเนื้อแน่น หน้าไข่ดาว\n\nขายได้ ${value}
+26-0388	item	Deep-fried chicken breast slathered with Wild Jackson's original mayo.\n\nThis can be sold for ${value}.	อกไก่ทอดกรอบราดมายองเนสสูตร ต้นตำรับของไวลด์แจ็คสัน\n\nขายได้ ${value}
+26-0389	item	A hamburger fit for a king, made with double the meat.\n\nThis can be sold for ${value}.	แฮมเบอร์เกอร์สมศักดิ์ราชา ใส่เนื้อเบิ้ลสองเท่า\n\nขายได้ ${value}
+26-0390	item	Special Chashu Tonkotsu Ramen	ราเมงทงคตสึชาชูพิเศษ
+26-0391	item	Tasty ramen topped with succulent, thin slices of roast pork.\n\nThis can be sold for ${value}.	ราเมงรสเด็ดหน้าเนื้อหมูย่างฉ่ำ หั่นบาง\n\nขายได้ ${value}
+26-0392	item	Original Premium Beef Curry	แกงกะหรี่เนื้อพรีเมียมสูตรต้นตำรับ
+26-0393	item	Savory beef curry with roux, simmered for an entire week. The pride of Café Alps and of all Japan.\n\nThis can be sold for ${value}.	แกงกะหรี่เนื้อรสเข้มข้นกับรู ซอสที่เคี่ยวนานถึงหนึ่ง สัปดาห์เต็ม ความภูมิใจของคาเฟ่อัลป์สและของ ทั้งญี่ปุ่น\n\nขายได้ ${value}
+26-0394	item	An extreme 8-piece assortment of luxurious nigiri-style sushi and cucumber rolls.\n\nThis can be sold for ${value}.	ชุดซูชินิกิริสุดหรู 8 ชิ้น พร้อมแตงกวาม้วนสุดพิเศษ\n\nขายได้ ${value}
+26-0395	item	A traditional type of sushi with tuna, squid, and salmon scattered lavishly over sushi rice.\n\nThis can be sold for ${value}.	ซูชิแบบดั้งเดิมที่มีทูน่า ปลาหมึก และแซลมอนโรยอย่างจุใจบนข้าวซูชิ\n\nขายได้ ${value}
+26-0396	item	A rice bowl neatly topped with luxurious seafood.\n\nThis can be sold for ${value}.	ข้าวหน้าซีฟู้ดสุดหรูจัดเรียง อย่างประณีต\n\nขายได้ ${value}
+26-0397	item	Pearl Earrings	ต่างหูไข่มุก
+26-0398	item	Fine earrings fitted with large pearls.\n\nThis can be sold for ${value}.	ต่างหูชั้นดีประดับไข่มุกเม็ดใหญ่\n\nขายได้ ${value}
+26-0399	item	Emerald Earrings	ต่างหูมรกต
+26-0400	item	Fine earrings with beautiful, square cut emeralds.\n\nThis can be sold for ${value}.	ต่างหูชั้นดีประดับมรกตเจียระไน ทรงสี่เหลี่ยมงดงาม\n\nขายได้ ${value}
+26-0401	item	Ruby Earrings	ต่างหูทับทิม
+26-0402	item	Fine earrings with quality rubies that sparkle crimson.\n\nThis can be sold for ${value}.	ต่างหูชั้นดีประดับทับทิมคุณภาพ สูงที่ประกายแดงเข้ม\n\nขายได้ ${value}
+26-0403	item	Sapphire Earrings	ต่างหูไพลิน
+26-0404	item	Fine earrings with a deep, serene blue that exudes elegance.\n\nThis can be sold for ${value}.	ต่างหูสีน้ำเงินเข้มสงบนิ่งที่ แผ่ความสง่างาม\n\nขายได้ ${value}
+26-0405	item	Diamond Earrings	ต่างหูเพชร
+26-0406	item	Fine earrings with high-quality diamonds that emit a royal\nradiance.\n\nThis can be sold for ${value}.	ต่างหูชั้นดีประดับเพชรคุณภาพ สูงที่เปล่งประกาย\nงามสง่าดุจราชา\n\nขายได้ ${value}
+26-0407	item	Bronze Ring	แหวนทองแดง
+26-0408	item	A simple bronze ring.\n\nThis can be sold for ${value}.	แหวนทองแดงเรียบง่าย\n\nขายได้ ${value}
+26-0409	item	Silver Ring	แหวนเงิน
+26-0410	item	A ring made of fine silver.\n\nThis can be sold for ${value}.	แหวนที่ทำจากเงินแท้ชั้นดี\n\nขายได้ ${value}
+26-0411	item	Gold Ring	แหวนทอง
+26-0412	item	A luxurious, pure gold ring.\n\nThis can be sold for ${value} yen.	แหวนทองคำแท้สุดหรู\n\nขายได้ ${value} เยน
+26-0413	item	Bronze Koro-nyan	โคโระเนียงทองแดง
+26-0414	item	A VR item with a high cash-in rate, limited to Koro-nyan Mode.\n\nThis can be sold for ${value}.	ไอเทม VR ที่มีอัตราแลกเงินสูง ใช้ได้เฉพาะในโหมดโคโระเนียง\n\nขายได้ ${value}
+26-0415	item	Silver Koro-nyan	โคโระเนียงเงิน
+26-0416	item	A VR item with a very high cash-in rate, limited to Koro-nyan Mode.\n\nThis can be sold for ${value}.	ไอเทม VR ที่มีอัตราแลกเงินสูงมาก ใช้ได้เฉพาะในโหมดโคโระเนียง\n\nขายได้ ${value}
+26-0417	item	Gold Koro-nyan	โคโระเนียงทอง
+26-0418	item	A rare VR item with the highest cash-in rate of all, limited to Koro-nyan Mode.\n\nThis can be sold for ${value}.	ไอเทม VR หายากที่มีอัตราแลกเงินสูงที่สุด ใช้ได้เฉพาะในโหมดโคโระเนียง\n\nขายได้ ${value}
+26-0419	item	Vampire Costume	ชุดแวมไพร์
+26-0420	item	The cloak of Bram Sylvania III, hemmed by humans who wished to pay tribute.	เสื้อคลุมของแบรม ซิลเวเนียที่ 3 เย็บขอบด้วยฝีมือมนุษย์ผู้ ปรารถนาจะแสดงความเคารพ
+26-0421	item	Luxury Meal Ticket	บัตรอาหารหรู
+26-0422	item	I'll sell this to the homeless guy for info on Red Nose; there's no such thing as a free lunch.	ผมจะเอาไปขายให้คนไร้บ้านแลก ข้อมูลเรื่องจมูกแดง ของฟรีไม่มีในโลกหรอกนะ
+26-0423	item	Kopi Luwak	โกปี ลูวัก
+26-0424	item	The legendary coffee poured from beans harvested from the feces of an Asian palm civet.	กาแฟระดับตำนานที่ชงจากเมล็ด กาแฟที่เก็บมาจากมูลของชะมด เอเชีย
+26-0425	item	Mega Fruit Tart	ทาร์ตผลไม้ไซซ์เมกะ
+26-0426	item	A pastry covered lavishly in fresh fruits. The cream and acidity create a perfect balance.	ขนมอบที่ปกคลุมด้วยผลไม้สดอย่างจุใจ ครีมและความเปรี้ยวผสานกันอย่างลงตัว
+26-0427	item	Molten Cheese Tart	ทาร์ตชีสลาวา
+26-0428	item	A cheesy dessert with a creamy richness and fluffy texture that can't be found anywhere else.	ขนมชีสที่มีความเข้มข้นครีมมี่ และเนื้อสัมผัสฟูนุ่มที่ หาไม่ได้จากที่ไหน
+26-0429	item	Legendary Smile Set	เซ็ตสไมล์ระดับตำนาน
+26-0430	item	A full combo ready to destroy your stomach with a double patty burger, french fries, nuggets, and a drink.	คอมโบเต็มพิกัดที่พร้อมถล่มกระเพาะคุณ ด้วยเบอร์เกอร์เนื้อสองชั้น เฟรนช์ฟรายส์ นักเก็ต และเครื่องดื่ม
+26-0431	item	Wild Special Burger 	เบอร์เกอร์พิเศษไวลด์
+26-0432	item	A special hamburger made with great care. Wild Jackson outdid himself with this one.	แฮมเบอร์เกอร์พิเศษที่ตั้งใจทำอย่างดี ไวลด์แจ็คสันทำได้เกินตัวกับเมนูนี้
+26-0433	item	Wette Special Burger	เว็ตเทเบอร์เกอร์พิเศษ
+26-0434	item	A special hamburger made with great care. It's the new standard of Wette Kitchen.	แฮมเบอร์เกอร์พิเศษที่ตั้งใจทำอย่างดี มาตรฐานใหม่ของ Wette Kitchen
+26-0435	item	Crushin' Chashu Challenge	ท้าพิชิตชาชูจัดหนัก
+26-0436	item	A ramen with big impact thanks to its overabundant chashu topping. No leftovers allowed.	ราเมงที่สร้างความประทับใจด้วย หน้าชาชูอัดแน่นเกินขนาด ห้ามเหลือทิ้งเด็ดขาด
+26-0437	item	Superior Single-Cut Kalbi	คัลบี้ตัดเดี่ยวชั้นเลิศ
+26-0438	item	Top-grade short ribs, lightly broiled and overflowing with juice. A rare dish for a select few.	ซี่โครงเกรดพรีเมียมย่างพอสุก ฉ่ำน้ำเต็มคำ เมนูหายากสำหรับคนกลุ่มน้อยเท่านั้น
+26-0439	item	Maguro Trio Platter	จานมากุโระสามอย่าง
+26-0440	item	Three types of domestic maguro sushi obtained through the owner of Sushi Gin's connections.	ซูชิมากุโระในประเทศสามชนิดที่ ได้มาจากคอนเนกชันของ เจ้าของร้านซูชิกิน
+26-0441	item	Beef and Pork Combo Bowl	ข้าวหน้าเนื้อผสมหมู
+26-0442	item	Can't decide between beef and pork? Just get both in one bowl!	เลือกไม่ถูกระหว่างเนื้อกับหมูใช่ไหม? เอาทั้งคู่ไปเลยในชามเดียว!
+26-0443	item	Ultimate Dewdrop	หยาดน้ำค้างสูงสุด
+26-0444	item	A special cocktail made with ingredients hand-picked by the bartender.	ค็อกเทลพิเศษที่บาร์เทนเดอร์ คัดสรรวัตถุดิบด้วยมือ
+26-0445	item	Special Hayashi Rice	ข้าวราดฮายาชิพิเศษ
+26-0446	item	Café Mijore's hashed beef rice. The secret ingredient is a mystery.	ข้าวราดเนื้อสไตล์แฮชของคาเฟ่มิโจเระ ส่วนผสมลับยังเป็นปริศนา
+26-0447	item	Akaushimaru's New Recipe	สูตรใหม่ของอากาอุชิมารุ
+26-0448	item	The recipe for Akaushimaru's newest menu item. Deliver it to Nasugawa.	สูตรเมนูใหม่ล่าสุดของอากาอุชิมารุ นำไปส่งให้นาสึกาวะ
+26-0449	item	Tailored Suit	สูทสั่งตัด
+26-0450	item	Custom men's wear from Le Marche. Overflowing with uncommon elegance.	เสื้อผ้าผู้ชายสั่งตัดจากเลอมาร์เช่ เปี่ยมด้วยความสง่างามที่หา ไม่ได้ทั่วไป
+26-0451	item	Love Star Figure	ฟิกเกอร์เลิฟสตาร์
+26-0452	item	The model figure Tsukumo craves. It's apparently a valuable collector's item.	ฟิกเกอร์โมเดลที่สึคุโมะอยากได้มาก ว่ากันว่าเป็นของสะสมที่มีมูลค่าสูง
+26-0453	item	Takemitsu's Yokan	โยกังของทาเคมิตสึ
+26-0454	item	A summer dessert from an iconic Kyoto confectionery. Not even the yakuza can resist its jellied texture.	ขนมหน้าร้อนจากร้านขนมชื่อดัง แห่งเกียวโต แม้แต่ยากูซ่าก็ต้านทานเนื้อ สัมผัสเยลลี่นุ่มเนียนของมัน ไม่ได้
+26-0455	item	Takemitsu's Sakuramochi	ซากุระโมจิของทาเคมิตสึ
+26-0456	item	A spring sweet from an iconic Kyoto confectionery. Not even the yakuza can resist its cherry blossom flavor.	ขนมฤดูใบไม้ผลิจากร้านขนม ชื่อดังแห่งเกียวโต แม้แต่ยากูซ่าก็ต้านทานรสชาติ ดอกซากุระของมันไม่ได้
+26-0457	item	"Botan"	"โบตัน"
+26-0458	item	Art by Fuka Shiranui. A peony drawn with daring, delicate strokes... apparently.	ผลงานของฟุกะ ชิรานุย ดอกโบตั๋นที่วาดด้วยลายเส้น กล้าหาญแต่ละเอียดอ่อน... เขาว่างั้นนะ
+26-0459	item	"Sakura"	"ซากุระ"
+26-0460	item	Art by Fuka Shiranui. Depicts the cherry blossoms blooming near his studio... or whatever.	ผลงานของฟุกะ ชิรานุย ภาพดอกซากุระที่บานอยู่ใกล้ สตูดิโอของเขา... หรืออะไรสักอย่าง
+26-0461	item	"Tsubaki"	"สึบากิ"
+26-0462	item	Art by Fuka Shiranui. Painted in his signature <color=red>Shiranui Red</color>... or something.	ผลงานของฟุกะ ชิรานุย วาดด้วยสีเอกลักษณ์ประจำตัวของ เขาอย่าง <color=red>สีแดงชิรานุย</color>... หรืออะไรทำนองนั้น
+26-0463	item	"Ume"	"อุเมะ"
+26-0464	item	Art by Fuka Shiranui. He made umeboshi with those plum blossoms... not that I care.	ผลงานของฟุกะ ชิรานุย เขาเอาดอกบ๊วยพวกนั้นไปทำอุเมะโบชิ... ไม่ใช่ว่าผมสนใจนะ
+26-0465	item	"Suzuran"	"ซูซุรัน"
+26-0466	item	Art by Fuka Shiranui. It's rare for him not to paint with the color red... uh, never mind.	ผลงานของฟุกะ ชิรานุย เขาไม่ค่อยวาดโดยไม่ใช้สีแดงเลย สักเท่าไหร่... เอ่อ ไม่มีอะไรหรอก
+26-0467	item	Ono Michio Costume	ชุดโอโนะ มิชิโอะ
+26-0468	item	A mascot disguise the robber wore and discarded. The outfit's white pants are missing.	ชุดมาสคอตปลอมตัวที่โจรสวมแล้วทิ้งไว้ กางเกงสีขาวของชุดหายไป
+26-0469	item	Dirty Sneakers	รองเท้าผ้าใบเปื้อน
+26-0470	item	Shoes dirtied with pink paint. Most likely discarded by the robber dressed as Ono Michio.	รองเท้าที่เปื้อนสีชมพู คาดว่าถูกทิ้งไว้โดยโจรที่ แต่งตัวเป็นโอโนะ มิชิโอะ
+26-0471	item	Nanami's Whereabouts	ที่อยู่ของนานามิ
+26-0472	item	A note summarizing the info on Nanami's location, sent from her smartwatch.\n- Black van.\n- Taken on N. Senryo Ave. Car went south and made 5 turns.\n- Passed through a noisy area. Now it's quiet.\n- Smells like ramen nearby.	บันทึกสรุปข้อมูลตำแหน่งของนานามิ ส่งมาจากสมาร์ทวอทช์ของเธอ\n- รถตู้สีดำ\n- ถูกจับตัวไปที่ถนนเซ็นเรียวเหนือ รถวิ่งไปทางใต้แล้วเลี้ยว 5 ครั้ง\n- ผ่านย่านที่มีเสียงดัง ตอนนี้เงียบแล้ว\n- ได้กลิ่นราเมงอยู่ใกล้ๆ
+26-0473	item	Janitorial Uniform	ชุดภารโรง
+26-0474	item	Work wear balancing comfort and safety. Assigned to Isetani Trading Company staff.	ชุดทำงานที่สมดุลระหว่างความ สบายและความปลอดภัย มอบให้พนักงานบริษัทการค้าอิเซทานิ
+26-0475	item	Cheat Sheet	ชีตโกง
+26-0476	item	A note from Tatsuro about his wife, written hastily on a receipt. It reads: "Tatsuro Tanaka: 34 years old. Naoko Tanaka: 33 years old. Met in a yakiniku store—right here! Mom's a nurse, sister's in England, dad's in heaven. Naoko's a bad drunk, no sake for her. Has a smelly fart."	บันทึกจากทัตสึโรเกี่ยวกับภรรยา เขียนรีบ ๆ บนใบเสร็จ เขียนว่า "ทัตสึโร ทานากะ: อายุ 34 ปี นาโอโกะ ทานากะ: อายุ 33 ปี เจอกันที่ร้านยากินิกุ—ที่นี่เลย! แม่เป็นพยาบาล น้องสาวอยู่อังกฤษ พ่อไปสวรรค์แล้ว นาโอโกะดื่มแล้วเมาไม่ได้เรื่อง ห้ามให้เหล้าเด็ดขาด มีอาการตดเหม็น"
+26-0477	item	Mineral Water	น้ำแร่
+26-0478	item	Complimentary mineral water. Helps you sober up.	น้ำแร่บริการฟรี ช่วยให้สร่างเมา
+26-0479	item	Complimentary cup of orange juice. Fresh OJ is an excellent source of vitamin C. Helps you sober up.	น้ำส้มคั้นสดบริการฟรี น้ำส้มสดเป็นแหล่งวิตามินซีชั้นเยี่ยม ช่วยให้สร่างเมา
+26-0480	item	Complimentary glass of beer. Nothing beats a cold one at the end of a long day.	เบียร์แก้วบริการฟรี ไม่มีอะไรดีไปกว่าเบียร์เย็น ๆ หลังวันอันยาวนาน
+26-0481	item	Complimentary white wine. The kind bored housewives drink at kitchenware parties.	ไวน์ขาวบริการฟรี แบบที่แม่บ้านเบื่อ ๆ ดื่มกันในงานปาร์ตี้เครื่องครัว
+26-0482	item	Complimentary cassis orange. A cocktail known for its light, refreshing sweetness.	คาสิสออเรนจ์บริการฟรี ค็อกเทลที่ขึ้นชื่อเรื่อง ความหวานสดชื่นแบบเบา ๆ
+26-0483	item	Complimentary shochu. A refreshing liquor that does a tired body good.	โชจูบริการฟรี สุราสดชื่นที่ช่วยฟื้นฟูร่างกาย ที่เหนื่อยล้า
+26-0484	item	L'Amant Blend	ลามองต์เบลนด์
+26-0485	item	Complimentary blend coffee. A strong cup truly is the best part of waking up. Helps you sober up.	กาแฟเบลนด์บริการฟรี กาแฟแก้วเข้ม ๆ คือส่วนที่ดีที่สุดของการตื่นนอนจริง ๆ ช่วยให้สร่างเมา
+26-0486	item	Adachi's Business Card	นามบัตรของอาดาจิ
+26-0487	item	Adachi's contact info. Address: Tenkaichi Alley, Yoshikawa Building, 3F. Phone: 03-5555-4567.	ข้อมูลติดต่ออาดาจิ ที่อยู่: ซอยเทนไคจิ ตึกโยชิคาวะ ชั้น 3 โทรศัพท์: 03-5555-4567
+26-0488	item	Stakeout Style	สไตล์เฝ้าสังเกตการณ์
+26-0489	item	Sunglasses and a beanie, the classic disguise for keeping a low profile.	แว่นกันแดดกับหมวกไหมพรม ชุดปลอมตัวคลาสสิกสำหรับการหลบซ่อนตัว
+26-0490	item	DVD Purchase Order	ใบสั่งซื้อดีวีดี
+26-0491	item	A purchase order of a package containing a DVD to accept on behalf of Tsukumo.	ใบสั่งซื้อพัสดุที่มีดีวีดีอยู่ข้างใน รับแทนสึคุโมะ
+26-0492	item	Love Star DVD	ดีวีดีเลิฟสตาร์
+26-0493	item	The anime I picked up for Tsukumo. There's a cartoon girl on the box.	อนิเมะที่ผมไปรับแทนสึคุโมะ มีรูปการ์ตูนผู้หญิงอยู่บนกล่อง
+26-0494	item	Empty Trash Can	ถังขยะเปล่า
+26-0495	item	A waste bin with no garbage in it at all. It's clean... maybe even too clean.	ถังขยะที่ไม่มีขยะอยู่เลยสักชิ้น สะอาดมาก... สะอาดจนน่าสงสัยด้วยซ้ำ
+26-0496	item	Saori's Milk Carton	กล่องนมของซาโอริ
+26-0497	item	Found in the kitchen. It's been cleanly washed and neatly folded.	พบในครัว ถูกล้างสะอาดและพับเรียบร้อย
+26-0498	item	Notice of Power Outage	ประกาศไฟฟ้าดับ
+26-0499	item	A planned outage occurred late last night, before the incident at Genda Law Office.	มีการดับไฟตามแผนช่วงดึกเมื่อคืน ก่อนเกิดเหตุที่สำนักงานกฎหมายเก็นดะ
+26-0500	item	Carp Sashimi	ซาชิมิปลาคาร์ฟ
+26-0501	item	A photo of the fish that were made into sashimi at Koi Bride, the fishing pond. Some survived, but these carps got the short end of the shish kebab.	ภาพถ่ายปลาที่ถูกทำเป็นซาชิมิ ที่โคอิไบรด์ บ่อตกปลา ปลาบางตัวรอดชีวิต แต่ปลาคาร์ฟพวกนี้โชคร้าย กลายเป็นไม้เสียบปิ้ง
+26-0502	item	Composite Sketch	ภาพสเก็ตช์ใบหน้า
+26-0503	item	A drawing based on reports of the man who stole Nakahara's purse. What a unique art style.	ภาพวาดจากคำบอกเล่าของชายที่ ขโมยกระเป๋าของนากาฮาระ ลายเส้นแปลกดีแฮะ
+26-0504	item	Amour's Owner	เจ้าของคลับอามูร์
+26-0505	item	Kenkichi Mashiba (1st Victim)	เค็นคิจิ มาชิบะ (เหยื่อรายที่ 1)
+26-0506	item	Yasuo Kunimura (2nd Victim)	ยาสึโอะ คุนิมูระ (เหยื่อรายที่ 2)
+26-0507	item	Toshiro Kume (3rd Victim)	โทชิโร คุเมะ (เหยื่อรายที่ 3)
+26-0508	item	Torn Envelope and Ticket	ซองจดหมายฉีกขาดกับตั๋ว
+26-0509	item	Karin wanted her father Jin to have this, but she tore it up and threw it out instead. Seems important. Maybe I should get a new envelope for it and give it back to her.	คารินอยากให้จินพ่อของเธอได้สิ่งนี้ไป แต่กลับฉีกทิ้งไปแทน ดูเหมือนจะสำคัญ บางทีผมน่าจะหาซองใหม่แล้วเอาไปคืนเธอ
+26-0510	item	Koro-nyan (White)	โคโระเนียง (สีขาว)
+26-0511	item	The VR mascot of Dice & Cube. A white version you can write on.	มาสคอต VR ของ Dice & Cube เวอร์ชันสีขาวที่เขียนลงไปได้
+26-0512	item	Koro-nyan (Blue)	โคโระเนียง (สีน้ำเงิน)
+26-0513	item	The VR mascot of Dice & Cube. An iconic blue version.	มาสคอต VR ของ Dice & Cube เวอร์ชันสีน้ำเงินสัญลักษณ์ประจำตัว
+26-0514	item	Koro-nyan (Pink)	โคโระเนียง (สีชมพู)
+26-0515	item	The VR mascot of Dice & Cube. A poppy pink version.	มาสคอต VR ของ Dice & Cube เวอร์ชันสีชมพูสดใส
+26-0516	item	Koro-nyan (Cream)	โคโระเนียง (สีครีม)
+26-0517	item	The VR mascot of Dice & Cube. A nostalgic cream version.	มาสคอต VR ของ Dice & Cube เวอร์ชันสีครีมสุดคลาสสิก
+26-0518	item	Photo of Azusa and Karin	ภาพถ่ายอาซึสะกับคาริน
+26-0519	item	A photo of a mother and her daughter, the people I'll be protecting today.	ภาพถ่ายแม่ลูก คนที่ผมต้องคุ้มกันในวันนี้
+26-0520	item	Photo of Jin Otaki	ภาพถ่ายจิน โอทากิ
+26-0521	item	A photo of an ex-yakuza. Keep a close eye on this guy when he's around Karin.	ภาพถ่ายอดีตยากูซ่า ต้องจับตาดูให้ดีเวลาเขาอยู่ใกล้คาริน
+26-0522	item	Photo Evidence A	ภาพหลักฐาน A
+26-0523	item	A photo of Azusa happily conversing with a young man, presented by Oikawa as evidence.	ภาพถ่ายอาซึสะกำลังคุยอย่าง มีความสุขกับชายหนุ่ม ที่โออิคาวะนำมาเป็นหลักฐาน
+26-0524	item	Photo Evidence B	ภาพหลักฐาน B
+26-0525	item	A photo of Azusa drinking at a bar and cheating on her husband, according to Oikawa.	ภาพถ่ายอาซึสะกำลังดื่มอยู่ที่ บาร์และนอกใจสามี ตามคำกล่าวอ้างของโออิคาวะ
+26-0526	item	Photo Evidence C	ภาพหลักฐาน C
+26-0527	item	A photo of Azusa entering a love motel with a young man. Oikawa's nail in the coffin.	ภาพถ่ายอาซึสะกำลังเดินเข้า โมเต็ลกับชายหนุ่ม หมัดเด็ดของโออิคาวะ
+26-0528	item	Small Screw	สกรูตัวเล็ก
+26-0529	item	A small screw that can be used for drone part materials.	สกรูตัวเล็กที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0530	item	Exquisite Screw	สกรูประณีต
+26-0531	item	An exquisite screw that can be used for drone part materials.	สกรูประณีตที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0532	item	Top Shelf Screw	สกรูเกรดพรีเมียม
+26-0533	item	A top shelf quality screw that can be used for drone part materials.	สกรูคุณภาพเกรดพรีเมียมที่ ใช้เป็นวัตถุดิบชิ้นส่วนโดรนได้
+26-0534	item	Cheap Plastic	พลาสติกราคาถูก
+26-0535	item	Cheap plastic that can be used for drone part materials.	พลาสติกราคาถูกที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0536	item	Sturdy Plastic	พลาสติกแข็งแรง
+26-0537	item	Sturdy plastic that can be used for drone part materials.	พลาสติกแข็งแรงที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0538	item	High-grade Plastic	พลาสติกเกรดสูง
+26-0539	item	High-grade plastic that can be used for drone part materials.	พลาสติกเกรดสูงที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0540	item	Shabby Wire	ลวดเก่าโทรม
+26-0541	item	Shabby wire that can be used for drone part materials.	ลวดเก่าโทรมที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0542	item	Quality Wire	ลวดคุณภาพดี
+26-0543	item	Quality wire that can be used for drone part materials.	ลวดคุณภาพดีที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0544	item	High-end Wire	ลวดเกรดไฮเอนด์
+26-0545	item	High-end wire that can be used for drone part materials.	ลวดเกรดไฮเอนด์ที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0546	item	Dull Aluminum	อลูมิเนียมหมองคล้ำ
+26-0547	item	A dull piece of aluminum that can be used for drone part materials.	อลูมิเนียมหมองคล้ำชิ้นหนึ่งที่ ใช้เป็นวัตถุดิบชิ้นส่วนโดรนได้
+26-0548	item	Sparkling Aluminum	อลูมิเนียมแวววาว
+26-0549	item	A sparkling piece of aluminum that can be used for drone part materials.	อลูมิเนียมแวววาวชิ้นหนึ่งที่ ใช้เป็นวัตถุดิบชิ้นส่วนโดรนได้
+26-0550	item	Dented Carbon	คาร์บอนบุบ
+26-0551	item	A dented piece of carbon that can be used for drone part materials.	คาร์บอนบุบชิ้นหนึ่งที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0552	item	Flexible Carbon	คาร์บอนยืดหยุ่น
+26-0553	item	A flexible piece of carbon that can be used for drone part materials.	คาร์บอนยืดหยุ่นชิ้นหนึ่งที่ ใช้เป็นวัตถุดิบชิ้นส่วนโดรนได้
+26-0554	item	Rusted Electrical Wire	สายไฟขึ้นสนิม
+26-0555	item	A rusted electrical wire that can be used for drone part materials.	สายไฟขึ้นสนิมที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0556	item	Clean Electrical Wire	สายไฟสภาพดี
+26-0557	item	A clean electrical wire that can be used for drone part materials.	สายไฟสภาพดีที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0558	item	Dirty Iron	เหล็กสกปรก
+26-0559	item	A dirty iron that can be used for drone part materials.	เหล็กสกปรกที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0560	item	Sturdy Iron	เหล็กแข็งแรง
+26-0561	item	A sturdy iron that can be used for drone part materials.	เหล็กแข็งแรงที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0562	item	Old Circuit	แผงวงจรเก่า
+26-0563	item	An old circuit board that can be used for drone part materials.	แผงวงจรเก่าที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0564	item	Precise Circuit	แผงวงจรความแม่นยำสูง
+26-0565	item	A precise circuit board that can be used for drone part materials.	แผงวงจรความแม่นยำสูงที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0566	item	Worn Magnet	แม่เหล็กสึกกร่อน
+26-0567	item	A worn magnet that can be used for drone part materials.	แม่เหล็กสึกกร่อนที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0568	item	Strong Magnet	แม่เหล็กแรงสูง
+26-0569	item	A strong magnet that can be used for drone part materials.	แม่เหล็กแรงสูงที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0570	item	Stretched Coil	ขดลวดยืดจนเสีย
+26-0571	item	A stretched coil that can be used for drone part materials.	ขดลวดยืดจนเสียที่ใช้เป็น วัตถุดิบชิ้นส่วนโดรนได้
+26-0572	item	Sturdy Coil	ขดลวดแข็งแรง
+26-0573	item	A sturdy coil that can be used for drone part materials.	ขดลวดแข็งแรงที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0574	item	Clear Resin	เรซินใส
+26-0575	item	A clear resin that can be used for drone part materials.	เรซินใสที่ใช้เป็นวัตถุดิบ ชิ้นส่วนโดรนได้
+26-0576	item	Striped Paint	สีลายทาง
+26-0577	item	A striped paint pattern for drone frames.	ลวดลายสีลายทางสำหรับโครงโดรน
+26-0578	item	Cute Paint	สีลายน่ารัก
+26-0579	item	A cute paint pattern for drone frames.	ลวดลายสีน่ารักสำหรับโครงโดรน
+26-0580	item	Elegant Paint	สีลายหรูหรา
+26-0581	item	An elegant paint pattern for drone frames.	ลวดลายสีหรูหราสำหรับโครงโดรน
+26-0582	item	Dragon Paint	สีลายมังกร
+26-0583	item	A dragon paint pattern for drone frames.	ลวดลายสีมังกรสำหรับโครงโดรน
+26-0584	item	Master Frame Blueprints	พิมพ์เขียวโครงระดับปรมาจารย์
+26-0585	item	A blueprint sent by the ultimate drone racer. It has instructions for a master-class frame.	พิมพ์เขียวที่นักแข่งโดรนระดับ สุดยอดส่งมาให้ มีคำแนะนำการสร้างโครงระดับปรมาจารย์
+26-0586	item	Master Propeller Blueprints	พิมพ์เขียวใบพัดระดับปรมาจารย์
+26-0587	item	A blueprint sent by the ultimate drone racer. It has instructions for a master-class propeller.	พิมพ์เขียวที่นักแข่งโดรนระดับ สุดยอดส่งมาให้ มีคำแนะนำการสร้างใบพัดระดับปรมาจารย์
+26-0588	item	Master Motor Blueprints	พิมพ์เขียวมอเตอร์ระดับปรมาจารย์
+26-0589	item	A blueprint sent by the ultimate drone racer. It has instructions for a master-class motor.	พิมพ์เขียวที่นักแข่งโดรนระดับ สุดยอดส่งมาให้ มีคำแนะนำการสร้างมอเตอร์ระดับ ปรมาจารย์
+26-0590	item	Master Turbo Blueprints	พิมพ์เขียวเทอร์โบระดับปรมาจารย์
+26-0591	item	A blueprint sent by the ultimate drone racer. It has instructions for master-class turbo.	พิมพ์เขียวที่นักแข่งโดรนระดับ สุดยอดส่งมาให้ มีคำแนะนำการสร้างเทอร์โบระดับ ปรมาจารย์
+26-0592	item	Master ESC Blueprints	พิมพ์เขียว ESC ระดับปรมาจารย์
+26-0593	item	A blueprint sent by the ultimate drone racer. It has instructions for a master-class ESC.	พิมพ์เขียวที่นักแข่งโดรนระดับ สุดยอดส่งมาให้ มีคำแนะนำการสร้าง ESC ระดับปรมาจารย์
+26-0594	item	Shooting Suspect (Suspect)	ผู้ต้องสงสัยคดียิงปืน (ผู้ต้องสงสัย)
+26-0595	item	Genda Ryuzo	เก็นดะ ริวโซ
+26-0596	item	Youji Shono	โยจิ โชโนะ
+26-0597	item	Kouichi Waku (Victim)	โคอิจิ วาคุ (เหยื่อ)
+26-0598	item	The Black Raincoat (Suspect)	เสื้อกันฝนสีดำ (ผู้ต้องสงสัย)
+26-0599	item	Gold Keycard	คีย์การ์ดสีทอง
+26-0600	item	A keycard needed to pass through the security gate into the R&D wing.	คีย์การ์ดที่ต้องใช้ผ่านประตู รักษาความปลอดภัยเข้าตึก วิจัยและพัฒนา
+26-0601	item	Koro-nyan (Black)	โคโระเนียง (สีดำ)
+26-0602	item	The VR mascot of Dice & Cube. A chic black version.	มาสคอต VR ของ Dice & Cube เวอร์ชันสีดำสุดเก๋
+26-0603	item	Case File: Kyorei Clan Abduction	แฟ้มคดี: การลักพาตัวของตระกูลเคียวเรอิ
+26-0604	item	Case File: Kyorei Clan Serial Killing	แฟ้มคดี: คดีฆาตกรรมต่อเนื่องตระกูลเคียวเรอิ
+26-0605	item	Case File: Matsugane Family Robbery	แฟ้มคดี: การปล้นตระกูลมัตสึกาเนะ
+26-0606	item	Case File: Matsugane Family Shooting	แฟ้มคดี: เหตุยิงตระกูลมัตสึกาเนะ
+26-0607	item	Case File: Kamurocho Lawyer Shooting	แฟ้มคดี: เหตุยิงทนายความคามุโรโจ
+26-0608	item	Case File: ADDC Patient Death	แฟ้มคดี: การเสียชีวิตของผู้ป่วย ADDC
+26-0609	item	Case File: ADDC Vice Director Lethal Injury	แฟ้มคดี: การบาดเจ็บสาหัสถึงชีวิตของ รองผู้อำนวยการ ADDC
+26-0610	item	Case File: Nurse Murder and Arson 	แฟ้มคดี: คดีฆาตกรรมพยาบาลและวางเพลิง
+26-0611	item	The phone numbers Shintani contacted on the day of his murder, conveniently left in his call history. The last call he ever made turned out to be to the Advanced Drug Development Center.	หมายเลขโทรศัพท์ที่ชินทานิ ติดต่อในวันที่เขาถูกฆาตกรรม ยังคงอยู่ในประวัติการโทรอย่าง เหมาะเจาะ สายสุดท้ายที่เขาโทรออกกลับ กลายเป็นสายไปยัง ศูนย์พัฒนายาขั้นสูง
+26-0612	item	AD-9 was released by the Advanced Drug Development Center in 2017 after showing miraculous results on the previously-incurable Alzheimer's disease. Kido may be credited as lead author, but Prof. Youji Shono did all the actual research; they just slapped a big-shot pharma bro's name on the cover as a publicity stunt.	AD-9 ถูกเปิดตัวโดยศูนย์พัฒนายาขั้นสูงในปี 2017 หลังให้ผลลัพธ์น่าอัศจรรย์กับ โรคอัลไซเมอร์ที่เคยรักษาไม่ได้ คิโดะอาจได้เครดิตเป็นผู้เขียนหลัก แต่ที่จริงศาสตราจารย์โยจิ โชโนะเป็นคนทำวิจัยทั้งหมด พวกเขาแค่เอาชื่อเจ้าพ่อวงการยา ไปแปะหน้าปกเพื่อสร้างกระแส
+26-0613	item	A freelance journalist. While other "reporters" are reposting clickbait, he's still hitting the pavement in search of the next big story.	นักข่าวอิสระ ในขณะที่ "นักข่าว" คนอื่นกำลังรีโพสต์คลิกเบต เขายังคงเดินสายลงพื้นที่ตามหา ข่าวใหญ่ชิ้นต่อไป
+26-0614	item	Gengoro Miki	เก็นโกโร มิกิ
+26-0615	item	A pro wrestler turned public servant. He used to play the villain, but had a heel-face turn and became a politician of justice by showing his true face in public; polls say voters preferred the mask.	อดีตนักมวยปล้ำอาชีพผันตัวมา เป็นข้าราชการ เมื่อก่อนเคยเล่นบทตัวร้าย แต่กลับใจกลายเป็นฝ่ายธรรมะ ผันตัวเป็นนักการเมืองแห่ง ความยุติธรรมด้วยการเปิดหน้า จริงต่อสาธารณะ ผลสำรวจบอกว่าผู้มีสิทธิ เลือกตั้งชอบตอนใส่หน้ากาก มากกว่า
+26-0616	item	Wiretap	เครื่องดักฟัง
+26-0617	item	A wiretap from Tsukumo. It's made to be plugged discreetly into an electrical outlet.	เครื่องดักฟังจากสึคุโมะ ออกแบบมาให้เสียบเข้าปลั๊กไฟได้ อย่างแนบเนียน
+26-0618	item	Ruan Wang	หหหรวน หวัง
+26-0619	item	The client. An executive member of what he calls "the organization." It seems the boss of the organization took care of him and to return that kindness, he wants to take in Zhuang Shi.	ลูกความ สมาชิกระดับบริหารของสิ่งที่เขา เรียกว่า "องค์กร" ดูเหมือนหัวหน้าองค์กรเคยดูแล เขามาก่อน เพื่อตอบแทนบุญคุณนั้น เขาจึงอยากรับจวง ซือไปเลี้ยง
+26-0620	item	A man from the organization that's been targeting Zhuang Shi. When Wang said "executive member," he probably meant this guy. If I try to take the cat, it's safe to say he'll interfere.	ชายจากองค์กรที่จ้องเล่นงานจวง ซือ ตอนที่หวังพูดว่า "สมาชิกระดับบริหาร" เขาก็คงหมายถึงคนนี้แหละ ถ้าผมจะพยายามพาแมวไป พูดได้เลยว่าเขาต้องขัดขวางแน่
+26-0621	item	Zhuang Shi	จวง ซือ
+26-0622	item	This Diamond Eye cat is a rare breed worth a grand fortune; it's also being targeted by a shadowy organization. Now that's what I call an aristocat.	แมวตาเพชรตัวนี้เป็นสายพันธุ์หา ยากมูลค่ามหาศาล แถมยังถูกองค์กรลึกลับจับตาอีกด้วย นี่สิถึงจะเรียกว่าแมวชนชั้นสูง ตัวจริง
+26-0623	item	Photo of Zhuang Shi	ภาพถ่ายจวง ซือ
+26-0624	item	A photo of the client's missing cat. His white fur and grand collar stick out like a sore paw.	ภาพถ่ายแมวหายของลูกความ ขนสีขาวกับปลอกคอสุดหรูของมัน สะดุดตาสุด ๆ
+26-0625	item	Cat Food	อาหารแมว
+26-0626	item	A can of cat food, compliments of the cat café's owner.	อาหารแมวกระป๋องหนึ่ง ของแถมจากเจ้าของคาเฟ่แมว
+26-0627	item	Shizue Kuwayama	ชิซึเอะ คุวายามะ
+26-0628	item	The client. She got it in her head that Kiriko might one day murder her son.	ลูกความ เธอปักใจเชื่อว่าคิริโกะอาจฆ่า ลูกชายของเธอสักวันหนึ่ง
+26-0629	item	Kojiro's wife. Shizue doesn't seem to think too highly of her.	ภรรยาของโคจิโร ชิซึเอะดูเหมือนจะไม่ค่อยชอบ หน้าเธอเท่าไหร่
+26-0630	item	Kojiro Kuwayama	โคจิโร คุวายามะ
+26-0631	item	Shizue's son. He's apparently "head over heels" for Kiriko; haven't heard that cliche in a while.	ลูกชายของชิซึเอะ ดูเหมือนเขาจะ "หลงหัวปักหัวปำ" ให้กับคิริโกะ ไม่ได้ยินสำนวนซ้ำซากนี้มานานแล้ว
+26-0632	item	Photo of Kojiro and Kiriko	ภาพถ่ายโคจิโรกับคิริโกะ
+26-0633	item	A photo of Kiriko and her husband, Kojiro.	ภาพถ่ายคิริโกะกับสามีของเธอ โคจิโร
+26-0634	item	Suspicious Powder	ผงต้องสงสัย
+26-0635	item	A garlicky substance left on the rim of Kojiro's coffee cup. Possibly poison.	สารกลิ่นกระเทียมที่ติดอยู่ขอบ แก้วกาแฟของโคจิโร อาจเป็นยาพิษ
+26-0636	item	Takeshi Akagawa	ทาเคชิ อาคางาวะ
+26-0637	item	A young man whose jacket was stolen. Apparently the jacket's worth more than his life... so why'd he leave it in a bathroom? I can solve the case, but I can't fix stupid.	ชายหนุ่มที่แจ็กเก็ตถูกขโมยไป ดูเหมือนแจ็กเก็ตจะมีค่ามากกว่า ชีวิตเขาซะอีก... แล้วทำไมถึงทิ้งมันไว้ในห้องน้ำล่ะ ผมไขคดีได้ แต่แก้โง่ไม่ได้
+26-0638	item	Akagawa's Missing Property	ทรัพย์สินหายของอาคางาวะ
+26-0639	item	A list of Akagawa's lost belongings. Inside the yellow duffle was a blue-and-white jacket with an embroidered tiger, a blue cloth wallet, and a yellow wristwatch.	รายการทรัพย์สินที่อาคางาวะทำหาย ในกระเป๋าดัฟเฟิลสีเหลืองมี แจ็กเก็ตลายเสือปักสีน้ำเงินขาว กระเป๋าสตางค์ผ้าสีน้ำเงิน และนาฬิกาข้อมือสีเหลือง
+26-0640	item	Warm Clothes	เสื้อผ้ากันหนาว
+26-0641	item	Clothes that are warm enough to survive a night under the cold night sky.	เสื้อผ้าที่อุ่นพอจะรอดคืนอัน หนาวเหน็บใต้ท้องฟ้ายามค่ำคืน
+26-0642	item	Used Accessory	เครื่องประดับมือสอง
+26-0643	item	One of the burglars is getting particular about their fashion. They've been dressing head to toe in name brand items, clearly sending the message that they're not lacking in money.	โจรคนหนึ่งเริ่มจู้จี้เรื่อง แฟชั่นมากขึ้น แต่งตัวด้วยแบรนด์เนมตั้งแต่หัว จรดเท้า ส่งสัญญาณชัดเจนว่าไม่ได้ขาดเงิน
+26-0644	item	Oathbreaker Crow	โครว์ผู้ผิดคำสาบาน
+26-0645	item	Crow broke the burglary ring's rule to steal only from the corrupt in order to stuff his own pockets. Jester drew a line in the sand and left the ring rather than work with Crow.	โครว์ฝ่าฝืนกฎของแก๊งโจรที่ให้ ขโมยเฉพาะจากคนโกงเท่านั้น เพื่อยัดกระเป๋าตัวเอง ตัวตลกจึงขีดเส้นแบ่งและออกจาก แก๊งดีกว่าทำงานร่วมกับโครว์
+26-0646	item	Panties	กางเกงใน
+26-0647	item	Undergarments with the same design as the ones Tsukino usually wears. I'll be in deep shit if the police check my belongings right now. I better hurry up, keep my head low, and hang it on the roof to lure out the pervert.	ชุดชั้นในลายเดียวกับที่สึกิโนะ ใส่เป็นประจำ ถ้าตำรวจมาตรวจของในตัวผมตอนนี้ คงซวยหนักแน่ ผมควรรีบทำให้เสร็จ หลบให้มิดชิด แล้วเอาไปแขวนไว้บนหลังคาล่อให้ โรคจิตโผล่มา
+26-0648	item	Photo of Takefumi Hashimoto	ภาพถ่ายทาเคฟุมิ ฮาชิโมโตะ
+26-0649	item	A photo of Takefumi Hashimoto. Right now, it's my only lead on finding the target.	ภาพถ่ายทาเคฟุมิ ฮาชิโมโตะ ตอนนี้เป็นเบาะแสเดียวที่ผมมีใน การตามหาเป้าหมาย
+26-0650	item	Photo of Taro Iseya	ภาพถ่ายทาโร อิเซยะ
+26-0651	item	A photo of Taro Iseya, the sexually harassing boss. Better keep an eye on this dirtbag.	ภาพถ่ายทาโร อิเซยะ เจ้านายที่คุกคามทางเพศ ต้องจับตาดูไอ้สารเลวคนนี้ให้ดี
+26-0652	item	Some old work clothes. Used to inflitrate the scene.	ชุดทำงานเก่า ๆ ใช้แฝงตัวเข้าไปในที่เกิดเหตุ
+26-0653	item	Sana's CD	ซีดีของซานะ
+26-0654	item	A CD with Sana-chan's songs on it. Maybe it'll be a collector's item one day?	ซีดีที่มีเพลงของซานะจังอยู่ในนั้น สักวันอาจกลายเป็นของสะสมก็ได้นะ
+26-0655	item	Saito's Business Card	นามบัตรของไซโตะ
+26-0656	item	Business card from Saito. It says "Super Cinderella Productions Co., Ltd. Producer Haruaki Saito. Taihei Boulevard East, Ishiyama Building, 4th Floor. Tel: 03-5555-4649".	นามบัตรจากไซโตะ เขียนว่า "บริษัท ซูเปอร์ซินเดอเรลล่า โปรดักชันส์ จำกัด โปรดิวเซอร์ ฮารุอากิ ไซโตะ ถนนไทเฮฝั่งตะวันออก ตึกอิชิยามะ ชั้น 4 โทร: 03-5555-4649"
+26-0657	item	Photo of Hideaki Deguchi	ภาพถ่ายฮิเดอากิ เดกุจิ
+26-0658	item	A photo of Hideaki Deguchi, Taniyama-san's nephew.	ภาพถ่ายฮิเดอากิ เดกุจิ หลานชายของทานิยามะซัง
+26-0659	item	Photo of Yukako	ภาพถ่ายยูกาโกะ
+26-0660	item	A photo of Shimazu-san's pride and joy: his girlfriend.	ภาพถ่ายสิ่งที่ชิมาซึซังภูมิใจที่สุด: แฟนสาวของเขา
+26-0661	item	Bram Sylvania's nocturnal vestments. I am so not looking forward to wearing this.	ชุดราตรีของแบรม ซิลเวเนีย ผมไม่ค่อยอยากใส่ชุดนี้เลยสักนิด
+26-0662	item	Tabloid Magazine	นิตยสารซุบซิบ
+26-0663	item	Includes a gossip article exposing Hinata's scandalous night of passion with a minor.	มีบทความซุบซิบแฉเรื่องอื้อฉาว ของฮินาตะที่มีค่ำคืน แห่งราคะกับผู้เยาว์
+26-0664	item	Photo of Hachitani	ภาพถ่ายฮาจิทานิ
+26-0665	item	A photo of the blonde woman with a mole who allegedly honey-trapped Hinata.	ภาพถ่ายผู้หญิงผมบลอนด์มีไฝ ที่ถูกกล่าวหาว่าล่อลวงฮินาตะ ด้วยกลยุทธ์สาวสวย
+26-0666	item	Chatter Screen	หน้าจอ Chatter
+26-0667	item	The Chatter screen displaying Hachitani's recent posts. 20 min ago: Shopped at Don Quijote. 10 min ago: Saw a movie trailer by a ramen shop. 8 min ago: Walked close to a sex store. 5 min ago: Stood near a beef bowl shop. 1 min ago: Ate an onion ring.	หน้าจอ Chatter แสดงโพสต์ล่าสุดของฮาจิทานิ 20 นาทีก่อน: ช้อปปิ้งที่ Don Quijote · 10 นาทีก่อน: ดูตัวอย่างหนังที่หน้าร้านราเมง · 8 นาทีก่อน: เดินผ่านใกล้ร้านขายของสำหรับผู้ใหญ่ · 5 นาทีก่อน: ยืนอยู่ใกล้ร้านข้าวหน้าเนื้อ · 1 นาทีก่อน: กินหัวหอมทอด
+26-0668	item	Tsukino's twin brother. He may look just like his beloved "younger" sister, but he's got a mischievous streak to him.	พี่ชายฝาแฝดของสึกิโนะ แม้หน้าตาจะเหมือน "น้องสาว" สุดที่รักเป๊ะ แต่เขามีนิสัยกวนประสาทอยู่ในตัว
+26-0669	item	Yosuke's twin sister. She looks just like her "older" brother. Panty Professor stole her favorite undergarments (black lace lingerie with a ribbon).	น้องสาวฝาแฝดของโยสึเกะ หน้าตาเหมือน "พี่ชาย" เป๊ะ ศาสตราจารย์กางเกงในขโมย ชุดชั้นในตัวโปรดของเธอไป (ชุดลูกไม้สีดำมีโบว์)
+26-0670	item	A sex criminal who only steals female lingerie. This underwear thief from the Twisted Trio used a drone to snatch Tsukino's panties.	อาชญากรทางเพศที่ขโมยแต่ ชุดชั้นในผู้หญิง โจรขโมยชุดชั้นในจากสามโรคจิตคน นี้ใช้โดรนฉกกางเกงใน ของสึกิโนะไป
+26-0671	item	Yosuke's twin sister. She looks just like her "older" brother. She was victimized by the Twisted Trio.	น้องสาวฝาแฝดของโยสึเกะ หน้าตาเหมือน "พี่ชาย" เป๊ะ เธอตกเป็นเหยื่อของสามโรคจิต
+26-0672	item	A sex criminal who gropes his victims' rear ends. This handsy hooligan from the Twisted Trio managed to cop a feel of Tsukino's butt.	อาชญากรทางเพศที่ชอบลวนลามก้นเหยื่อ นักเลงมือถึงจากสามโรคจิตคนนี้ ลวนลามก้นของสึกิโนะไปแล้ว
+26-0673	item	Yosuke's twin sister. She looks just like her "older" brother. Hasn't left the house since Judge Creep 'n Peep photographed her naked with her boyfriend.	น้องสาวฝาแฝดของโยสึเกะ หน้าตาเหมือน "พี่ชาย" เป๊ะ ไม่ได้ออกจากบ้านเลยตั้งแต่ ผู้พิพากษาจอมถ้ำมองถ่ายภาพ เธอเปลือยกับแฟนหนุ่ม
+26-0674	item	A sex criminal who posts photos of "guilty" people having sex. This peeping pervert from the Twisted Trio spied on Tsukino during intercourse.	อาชญากรทางเพศที่โพสต์ภาพคนที่ "มีความผิด" กำลังมีเซ็กส์ โรคจิตแอบถ้ำมองจากสามโรคจิตคน นี้แอบดูสึกิโนะตอนกำลัง มีเพศสัมพันธ์
+26-0675	item	Yosuke's twin sister. She looks just like her "older" brother. She saw Giant Impact's rocket ship... Hope she knows that's not normal.	น้องสาวฝาแฝดของโยสึเกะ หน้าตาเหมือน "พี่ชาย" เป๊ะ เธอเห็นจรวดของไจแอนต์อิมแพ็กต์มาแล้ว... หวังว่าเธอจะรู้ว่านั่นมันไม่ปกติ
+26-0676	item	Giant Impact	ไจแอนต์อิมแพ็กต์
+26-0677	item	The Pervert King, named after a theory about the formation of the moon. I wonder if his rocket ship lives up to the astronomical title, but I'm afraid to find out.	ราชาลามก ตั้งชื่อตามทฤษฎีกำเนิดดวงจันทร์ ผมสงสัยว่าจรวดของเขาจะสมกับ ฉายาทางดาราศาสตร์นี้ไหม แต่ก็กลัวจะได้รู้คำตอบเหมือนกัน
+26-0678	item	An unidentified terrorist who set up explosives in Kamurocho. Their motives are unknown.	ผู้ก่อการร้ายนิรนามที่ วางระเบิดในคามุโรโจ ไม่ทราบแรงจูงใจ
+26-0679	item	Tomokazu Kawada	โทโมคาซึ คาวาดะ
+26-0680	item	An editor at Cloudy Skies Publishing. He requested that I solve some kind of riddle. The reward is publishing rights to a new novel by award-winning mystery writer Takumi Katagiri.	บรรณาธิการของสำนักพิมพ์คลาวดีสกายส์ เขาขอให้ผมไขปริศนาบางอย่าง รางวัลคือลิขสิทธิ์ตีพิมพ์นิยาย เล่มใหม่ของทาคุมิ คาตากิริ นักเขียนแนวสืบสวนที่คว้ารางวัลมาแล้ว
+26-0681	item	Japan's greatest mystery novelist, famous for his "Edison" series. He's posing some sort of puzzle, and will reward the first one to solve it with the rights to publish his newest book.	นักเขียนนิยายสืบสวนที่ยิ่ง ใหญ่ที่สุดของญี่ปุ่น มีชื่อเสียงจากซีรีส์ "Edison" เขาตั้งปริศนาบางอย่างไว้ และจะมอบลิขสิทธิ์ตี พิมพ์หนังสือเล่มใหม่ให้คนแรก ที่ไขได้
+26-0682	item	Noriko Taguchi	โนริโกะ ทากูจิ
+26-0683	item	A woman who runs Heavy Coffee, the café on Taihei Blvd. She suspects her husband's recent uptick in going out is a sign of infidelity.	หญิงสาวที่ดูแลร้านเฮฟวี่คอฟฟี่ คาเฟ่บนถนนไทเฮ เธอสงสัยว่าที่สามีออกไปข้างนอก บ่อยขึ้นช่วงนี้เป็น สัญญาณของการนอกใจ
+26-0684	item	Masayoshi Taguchi	มาซาโยชิ ทากูจิ
+26-0685	item	A man who helps his wife run Heavy Coffee, the café on Taihei Blvd. He's been leaving the house more for the last six months; Noriko thinks he's cheating on her.	ชายที่ช่วยภรรยาดูแลร้านเฮฟวี่คอฟฟี่ คาเฟ่บนถนนไทเฮ เขาออกจากบ้านบ่อยขึ้นมาตลอดหก เดือนที่ผ่านมา โนริโกะคิดว่าเขากำลังนอกใจเธอ
+26-0686	item	Megumi Hashimoto	เมกุมิ ฮาชิโมโตะ
+26-0687	item	A client who suspects her husband of infidelity. Seems like a caring housewife.	ลูกความที่สงสัยว่าสามีนอกใจ ดูเหมือนจะเป็นแม่บ้านที่ใส่ใจ ครอบครัวดี
+26-0688	item	Takefumi Hashimoto	ทาเคฟุมิ ฮาชิโมโตะ
+26-0689	item	Megumi's husband. The CEO of a real estate agency should have plenty of cash to blow on an illicit affair...	สามีของเมกุมิ ซีอีโอบริษัทอสังหาริมทรัพย์ น่าจะมีเงินเหลือเฟือไว้ ผลาญกับชู้ได้สบาย...
+26-0690	item	A young professional being sexually harassed by her boss. It's clear from the office's toxic culture that any reports she files will either be ignored or result in retaliation.	สาวออฟฟิศที่ถูกเจ้านายคุกคามทางเพศ เห็นได้ชัดจากวัฒนธรรมองค์กรที่ เป็นพิษว่าถ้าเธอ ร้องเรียนก็คงถูกเมิน หรือไม่ก็โดนแก้แค้นเอา
+26-0691	item	Taro Iseya	ทาโร อิเซยะ
+26-0692	item	A sorry excuse for a corporate drone; flexes his CEO daddy's influence to sexually harass Rei with impunity.	พนักงานออฟฟิศไร้น้ำยา อาศัยอิทธิพลของพ่อที่เป็น ซีอีโอคุกคามทางเพศเรย์ได้ อย่างลอยนวล
+26-0693	item	A girl who dreams of being a singer-songwriter. The streets have been her only stage, but she already has a loyal fanbase. Maybe I should ask for her autograph now.	เด็กสาวที่ฝันอยากเป็นนักร้อง นักแต่งเพลง ถนนคือเวทีเดียวที่เธอมี แต่ก็มีแฟนคลับเหนียวแน่นอยู่แล้ว บางทีผมน่าจะขอลายเซ็นเธอไว้ ตั้งแต่ตอนนี้
+26-0694	item	Fumie Taniyama	ฟุมิเอะ ทานิยามะ
+26-0695	item	A kindhearted aunt who loaned ¥500,000 to her nephew, Deguchi. Her daughter is getting married soon, so she needs a large sum of cash, fast.	ป้าใจดีที่ให้หลานชาย เดกุจิ ยืมเงินไป 500,000 เยน ลูกสาวของเธอกำลังจะแต่งงานเร็ว ๆ นี้ เธอเลยต้องการเงินก้อนใหญ่อย่าง เร่งด่วน
+26-0696	item	Taniyama-san's nephew who came to Tokyo to become a host. Both his parents passed away. His aunt hasn't heard from him in a while and is worried that he's lost sight of his dreams.	หลานชายของทานิยามะซัง ที่มาโตเกียวเพื่อเป็นโฮสต์ พ่อแม่เสียชีวิตไปทั้งคู่ ป้าของเขาไม่ได้ข่าวคราวมานานแล้ว และเป็นห่วงว่าเขาจะหลงลืม ความฝันของตัวเองไป
+26-0697	item	A man whose female employee went missing. He went to Yagami for help because Mami had a stalker.	ชายที่พนักงานหญิงของเขาหายตัวไป เขามาขอความช่วยเหลือจากยากามิ เพราะมามิถูกสตอล์กเกอร์ตาม
+26-0698	item	A woman who was being by harassed a stalker for an extended period of time went missing.	หญิงสาวที่ถูกสตอล์กเกอร์ตาม คุกคามมาเป็นเวลานาน หายตัวไป
+26-0699	item	A misfortune teller who predicts nothing but doom. Her ill omens always come true, but those who expect trouble are never surprised.	หมอดูโชคร้ายที่ทำนายได้แต่ เรื่องหายนะ ลางร้ายของเธอเป็นจริงเสมอ แต่คนที่เตรียมใจรับปัญหาไว้ ก่อนก็ไม่เคยแปลกใจ
+26-0700	item	A man terrified of a "black" calamity. He has horrible luck, which only seems to get worse each time he visits Amane.	ชายที่หวาดกลัวลางร้าย "สีดำ" โชคของเขาแย่มาก และดูเหมือนจะแย่ลงทุกครั้งที่ ไปหาอามาเนะ
+26-0701	item	A misfortune teller who sees imminent disaster as shadows. Her predictions are never wrong, but with preparation the worst can be evaded.	หมอดูที่มองเห็นภัยพิบัติที่ ใกล้เข้ามาเป็นเงามืด คำทำนายของเธอไม่เคยผิดพลาด แต่ถ้าเตรียมตัวดีก็สามารถ หลีกเลี่ยงสิ่งเลวร้ายที่สุดได้
+26-0702	item	A man who lives in fear of a "black and white" calamity. Some folks just have all the bad luck.	ชายที่ใช้ชีวิตด้วยความหวาดกลัว ลางร้าย "ขาวดำ" บางคนก็โชคร้ายสุด ๆ แบบนี้แหละ
+26-0703	item	Another man Amane-san saw a calamity associated with. When she warned him of a fiery disaster in his future, he struck her and immediately stormed off.	ชายอีกคนที่อามาเนะซังมองเห็น ลางร้ายเกี่ยวข้องด้วย เมื่อเธอเตือนเขาเรื่อง ภัยพิบัติจากไฟในอนาคต เขากลับตบเธอแล้วเดินจากไปทันที
+26-0704	item	Mamoru Shimazu	มาโมรุ ชิมาซึ
+26-0705	item	The client. He has plans to move in with his long-distance girlfriend.	ลูกความ เขามีแผนจะย้ายไปอยู่กับแฟนสาว ที่คบกันแบบทางไกล
+26-0706	item	Yukako Oki	ยูกาโกะ โอกิ
+26-0707	item	The client. Her boyfriend Shimazu is missing, so she's come to me for help finding him.	ลูกความ แฟนหนุ่มของเธอ ชิมาซึ หายตัวไป เธอเลยมาหาผมให้ช่วยตามหาเขา
+26-0708	item	Yukako Oki's boyfriend. According to my client, he's gone missing.	แฟนหนุ่มของยูกาโกะ โอกิ ตามคำบอกเล่าของลูกความ เขาหายตัวไปแล้ว
+26-0709	item	Toya Tokunaga	โทยะ โทคุนางะ
+26-0710	item	A hot young idol on the fast track to fame. Most celebrities have their quirks, but this one's personality changes whenever he puts on a wig.	ไอดอลหนุ่มสุดฮอตที่กำลัง โด่งดังอย่างรวดเร็ว คนดังส่วนใหญ่มีนิสัยแปลก ๆ กันทั้งนั้น แต่คนนี้บุคลิกเปลี่ยนไป ทุกครั้งที่ใส่วิกผม
+26-0711	item	The leader of a burglary ring targeting Kamurocho. His name and age are unknown. Like his pseudonym suggests, he wears a black bird mask.	หัวหน้าแก๊งโจรที่จ้องเล่นงานคามุโรโจ ไม่ทราบชื่อจริงและอายุ ตามชื่อรหัสของเขา เขาสวมหน้ากากนกสีดำ
+26-0712	item	Jester	เจสเตอร์
+26-0713	item	The wild card of the burglary ring targeting Kamurocho. His name and age are unknown. He first used Yagami to escape the police, but then saved him from the Matsugane Family. His actions are shrouded in mystery. Cannot be contacted.	ไพ่ใบสุดท้ายที่คาดเดาไม่ได้ของ แก๊งโจรที่จ้องเล่นงานคามุโรโจ ไม่ทราบชื่อจริงและอายุ ตอนแรกเขาใช้ยากามิเป็น เครื่องมือหนีตำรวจ แต่กลับช่วยยากามิให้รอดจาก ตระกูลมัตสึกาเนะในภายหลัง การกระทำของเขาเต็มไปด้วยปริศนา ไม่สามารถติดต่อได้
+26-0714	item	A regular at Tender. Her name, age, and occupation are unknown, yet everyone tells her everything, as if they've known her a long time. She's a mysterious woman like that.	ขาประจำที่เทนเดอร์ ไม่ทราบชื่อ อายุ และอาชีพ แต่ทุกคนกลับเล่าทุกเรื่องให้เธอฟัง ราวกับรู้จักกันมานาน เธอเป็นผู้หญิงลึกลับแบบนั้นแหละ
+26-0715	item	Yusuke	ยูซึเกะ
+26-0716	item	A young boy who Kaito saved from danger. He sees Kaito as a hero of justice and looks up to him with passionate admiration in his pure, innocent eyes. Yusuke has finally met his hero.	เด็กชายที่ไคโตะช่วยไว้จากอันตราย เขามองไคโตะเป็นฮีโร่แห่งความยุติธรรม และเชิดชูเขาด้วยสายตาใสซื่อ ไร้เดียงสาเต็มไปด้วยความชื่นชม ในที่สุดยูซึเกะก็ได้พบฮีโร่ ของตัวเองแล้ว
+26-0717	item	Apparently saved Yusuke from thugs. He's rough around the edges but can't ignore a helpless person in need, so it's no surprise that some see him as a hero of justice.	ดูเหมือนจะเป็นคนที่ช่วยยูซึเกะ ไว้จากพวกอันธพาล เขาดูหยาบกระด้างไปหน่อย แต่ก็ไม่เคยเมินคนที่ไม่มีทาง สู้เวลาเดือดร้อน จึงไม่แปลกที่บางคนมองเขาเป็น ฮีโร่แห่งความยุติธรรม
+26-0718	item	Shunei Oikawa	ชุนเอย์ โออิคาวะ
+26-0719	item	A student of Genda. He was once a skilled lawyer who would do anything to win a trial. One day he went too far and was fired from the law firm.	ศิษย์ของเก็นดะ เคยเป็นทนายฝีมือดีที่ทำ ทุกอย่างเพื่อชนะคดี วันหนึ่งเขาทำเกินขอบเขตจนถูก ไล่ออกจากสำนักงานกฎหมาย
+26-0720	item	Azusa Otaki	อาซึสะ โอทากิ
+26-0721	item	Genda's client. She's battling her husband for custody over their daughter, Karin.	ลูกความของเก็นดะ เธอกำลังต่อสู้แย่ง สิทธิ์ปกครองบุตรกับสามี เพื่อลูกสาวของเธอ คาริน
+26-0722	item	Karin Otaki	คาริน โอทากิ
+26-0723	item	Azusa's daughter. She's caught up in a custody battle between her divorcing parents.	ลูกสาวของอาซึสะ เธอถูกดึงเข้าไปพัวพันในศึกแย่ง สิทธิ์ปกครองบุตร ระหว่างพ่อแม่ที่กำลังหย่าร้างกัน
+26-0724	item	Jin Otaki	จิน โอทากิ
+26-0725	item	Azusa's husband, former yakuza. He quit his life of crime and now works as a civilian.	สามีของอาซึสะ อดีตยากูซ่า เขาเลิกใช้ชีวิตอาชญากรและ ตอนนี้ทำงานเป็นพลเรือนธรรมดา
+26-0726	item	Makihara	มาคิฮาระ
+26-0727	item	A man who loves drones. He lost control of a prototype's test flight and hit me. As an apology, he tuned up my drone to be raceable.	ชายผู้หลงใหลโดรน เขาคุมโดรนต้นแบบไม่อยู่ตอน ทดสอบบินจนมาชนผม เพื่อขอโทษ เขาช่วยปรับแต่งโดรนของผมให้ พร้อมแข่งขัน
+26-0728	item	Disabled Veteran	ทหารผ่านศึกพิการ
+26-0729	item	The homeless man with a limp who gave me a VR play pass. He said he'll lead me to Red Nose in exchange for the grand prize from Dice & Cube.	คนไร้บ้านขาเป๋ที่ให้บัตรเล่น VR กับผม เขาบอกว่าจะพาผมไปหาจมูกแดง แลกกับรางวัลใหญ่จาก Dice & Cube
+26-0730	item	Hajime Obayashi	ฮาจิเมะ โอบายาชิ
+26-0731	item	A bounty hunter after the price on my head. No way am I getting caught by the likes of him!	นักล่าค่าหัวที่ตามล่าเงิน รางวัลติดหัวผม ไม่มีทางที่ผมจะถูกคนแบบเขาจับได้หรอก!
+26-0732	item	Tatsuro	ทัตสึโร
+26-0733	item	A pilot who got called in on his wife's birthday. He was on standby, but if he wore his uniform to a restaurant, he had to have expected this? I may never know the answer.	นักบินที่ถูกเรียกตัวไปทำงานใน วันเกิดภรรยา เขาอยู่ในสถานะสแตนด์บาย แต่ถ้าใส่ชุดยูนิฟอร์มไปร้านอาหารด้วย เขาก็คงคาดไว้แล้วไม่ใช่เหรอ? คำตอบนี้ผมอาจไม่มีวันได้รู้
+26-0734	item	Naoko	นาโอโกะ
+26-0735	item	Tatsuro's wife. She's plastered, so I guess I'm her husband now. You don't need to be a private eye to deduce that she's thirsty for more than just booze.	ภรรยาของทัตสึโร เธอเมาจนไม่ได้สติ งั้นตอนนี้ผมก็เป็นสามีเธอไปแล้วสิ ไม่ต้องเป็นนักสืบเอกชนก็เดาออ กว่าเธอกระหายอะไรมากกว่าเหล้า
+26-0736	item	Hayato Adachi	ฮายาโตะ อาดาจิ
+26-0737	item	Kaito-san's best friend since childhood. He was an honor-roll kid, but he'd still sneak out and raise hell with Kaito.	เพื่อนสนิทที่สุดของไคโตะซัง ตั้งแต่เด็ก เขาเป็นเด็กเรียนดีติดอันดับ แต่ก็ยังแอบหนีออกไปป่วนกับ ไคโตะอยู่เสมอ
+26-0738	item	Kaito-san is jazzed over the arrival of Adachi-san, his best friend and former partner. He's known Adachi-san since middle school. I can't even imagine a preteen Kaito.	ไคโตะซังตื่นเต้นสุด ๆ ที่อาดาจิซัง เพื่อนซี้และอดีตหุ้นส่วนคนเก่ามาถึง เขารู้จักอาดาจิซังมาตั้งแต่ สมัยมัธยมต้น ผมนึกภาพไคโตะตอนเด็ก ๆ ไม่ออกเลยจริง ๆ
+26-0739	item	Bram Sylvania III	แบรม ซิลเวเนียที่ 3
+26-0740	item	An entertainer and self-proclaimed vampire lord. His real name is Otoya Shijima. He says sunlight doesn't hurt because he's a "progenitor." The more I think about that, the less sense it makes.	นักแสดงที่ประกาศตัวเองว่าเป็น เจ้าแวมไพร์ ชื่อจริงคือโอโตยะ ชิจิมะ เขาบอกว่าแสงแดดทำอะไรตัวเอง ไม่ได้เพราะเป็น "ปฐมบรรพบุรุษ" ยิ่งผมคิดตามยิ่งไม่เข้าใจว่า มันหมายความว่ายังไง
+26-0741	item	Misaki Hayama	มิซากิ ฮายามะ
+26-0742	item	Bram Sylvania III's manager. If you ask me, he's more like his nanny. At least he's got Bram on a tight leash to keep him in character and out of trouble.	ผู้จัดการของแบรม ซิลเวเนียที่ 3 ถ้าให้ผมพูดตรง ๆ เขาดูเหมือนพี่เลี้ยงมากกว่า อย่างน้อยก็คุมแบรมไว้ในกรอบไม่ ให้หลุดคาแรกเตอร์หรือ ก่อเรื่องได้
+26-0743	item	Maki	มากิ
+26-0744	item	An employee of the bar that charged me ¥100,000. Guess she's one of those Kamurocho scam artists you hear about. Let's face it; I got duped.	พนักงานบาร์ที่เรียกเก็บผมไป 100,000 เยน คงเป็นหนึ่งในนักต้มตุ๋นแห่ง คามุโรโจที่เขาลือกันนั่นแหละ ยอมรับตามตรงเลยว่าผมโดนหลอก
+26-0745	item	Tatsuo Tanaka	ทัตสึโอะ ทานากะ
+26-0746	item	Maki's husband. He was fighting with her, but was that just another act to bring down my guard? If so, he's quite an actor.	สามีของมากิ เขาทะเลาะกับเธอ แต่นั่นอาจเป็นแค่ฉากลวงให้ผม ตายใจก็ได้ ถ้าใช่ เขาก็นักแสดงตัวยงเหมือนกัน
+26-0747	item	The suspect and client of this case. He's been a nervous wreck since Saori accused him. I'd better get to the bottom of this cake crime.	ผู้ต้องสงสัยและลูกความของคดีนี้ เขาเครียดจนแทบพังตั้งแต่ซาโอริ กล่าวหา ผมต้องรีบไขคดีเค้กนี้ให้กระจ่างซะที
+26-0748	item	She was fuming over the cake theft and planned to uncover the truth through a mock trial. If only she'd put that passion into her job.	เธอโมโหเรื่องเค้กหายจนวางแผน ไต่สวนความจริงด้วย การจำลองการพิจารณาคดีจอมปลอม ถ้าเอาพลังนั้นไปทุ่มกับงานจริง บ้างก็คงดี
+26-0749	item	A witness who happened to be at the scene. Hoshino was trying to pin the crime on her. She was pulled into the mock trial too, but was surprisingly down to go along with Saori's nonsense.	พยานที่บังเอิญอยู่ในที่เกิดเหตุ โฮชิโนะพยายามป้ายความผิดให้เธอ เธอถูกลากเข้าไปในการพิจารณาคดี จอมปลอมด้วย แต่น่าแปลกที่เธอเออออไปกับ เรื่องไร้สาระของซาโอริได้ หน้าตาเฉย
+26-0750	item	Shoji Ohata	โชจิ โอฮาตะ
+26-0751	item	A single father living with his son, Ayumu. He came to ask me to find his kid.	พ่อเลี้ยงเดี่ยวที่อยู่กับลูกชาย อายุมุ เขามาขอให้ผมช่วยตามหาลูก
+26-0752	item	Ayumu Ohata	อายุมุ โอฮาตะ
+26-0753	item	A six-year-old boy who loves playing hide-and-seek. One time his dad took days to find him.	เด็กชายวัยหกขวบที่ชอบเล่นซ่อนหา ครั้งหนึ่งพ่อของเขาใช้เวลาหา ตัวอยู่หลายวัน
+26-0754	item	Kotaro Hyuga	โคทาโระ ฮิวกะ
+26-0755	item	An up-and-coming comedian known as "Horny Hinata." Recently tanked his own career by sleeping with a minor.	นักแสดงตลกดาวรุ่งที่รู้จักกันในชื่อ "ฮินาตะจอมกำหนัด" เพิ่งทำลายอาชีพตัวเองด้วยการ นอนกับผู้เยาว์
+26-0756	item	A woman who purportedly lured Horny Hinata in a honey trap. I'll need to investigate, gather evidence, and see what I can shake loose.	หญิงสาวที่ถูกกล่าวหาว่าล่อ ฮินาตะจอมกำหนัดด้วยกับดัก น้ำผึ้ง ผมต้องสืบสวน รวบรวมหลักฐาน แล้วดูว่าจะสาวเรื่องออกมาได้แค่ไหน
+26-0757	item	The Fisherman	นักตกปลา
+26-0758	item	Publicly, he's the owner of a local pond called Koi Bride. But that's just a front for L'Amant, his underground casino. Even so, he seems fond of his fish, and is acting genuinely enraged by the slicing of his carps.	ต่อหน้าสาธารณะ เขาคือเจ้าของบ่อปลาท้องถิ่น ชื่อโคอิไบรด์ แต่นั่นเป็นแค่หน้าฉากบังหน้า คาสิโนใต้ดินของเขา ลามองต์ ถึงอย่างนั้นดูเหมือนเขาจะรัก ปลาของตัวเองจริง ๆ และแสดงความโกรธจัดออกมาอย่าง จริงใจตอนที่ปลาคาร์ปของ เขาถูกเชือด
+26-0759	item	Taeko Nakahara	ทาเอโกะ นากาฮาระ
+26-0760	item	A woman who contacted me on Genda's recommendation. She's energetic and talks a lot. Drawing is her hobby, so she's been taking art classes.	ผู้หญิงที่ติดต่อผมมาตามคำแนะนำ ของเก็นดะ เธอร่าเริงและพูดเยอะ งานอดิเรกของเธอคือการวาดรูป เลยไปเรียนคลาสศิลปะอยู่
+26-0761	item	A former chef at Sushi Gin who was fired for having a bad attitude. He matches descriptions of the man who stole Nakahara's ring.	อดีตพ่อครัวที่ซูชิกินซึ่งถูก ไล่ออกเพราะทัศนคติแย่ เขาตรงกับคำบรรยายของชายที่ขโมย แหวนของนากาฮาระ
+26-0762	item	A mysterious yet undeniably skilled martial artist who challenged me to a duel.	นักศิลปะการต่อสู้ลึกลับที่ ฝีมือปฏิเสธไม่ได้เลยว่าเก่ง จริง เขาท้าผมดวลกัน
+26-0763	item	The victim of the kidnapping. A fashionable and attractive woman who works in an office.	เหยื่อของการลักพาตัว หญิงสาวสวยแต่งตัวทันสมัย ที่ทำงานออฟฟิศ
+26-0764	item	The stalker who kidnapped Nanami after targeting her for a long time.	สตอล์กเกอร์ที่ลักพาตัวนานามิ หลังจากจับตาเธอมานาน
+26-0765	item	Hironaka	ฮิโรนากะ
+26-0766	item	Ono Michio's producer. He puts his heart and soul into his production work, and thinks highly of the man who donned the previous mantle of Ono Michio.	โปรดิวเซอร์ของโอโนะ มิชิโอะ เขาทุ่มเทหัวใจให้กับงานโปรดัก ชันเต็มที่ และยกย่องชายที่เคยสวมบทบาทโอโนะ มิชิโอะคนก่อนหน้าเป็นอย่างมาก
+26-0767	item	Ono Michio	โอโนะ มิชิโอะ
+26-0768	item	This orange-headed fisherman is the mascot of Onomichi, Hiroshima. He may look cute, but beneath that dopey smile is a heart of iron and a mind like a steel trap. Smells nice, too.	ชาวประมงหัวสีส้มตัวนี้คือ มาสคอตประจำเมืองโอโนะมิจิ จังหวัดฮิโรชิมะ ดูน่ารักก็จริง แต่ใต้รอยยิ้มทื่อ ๆ นั่นคือหัวใจเหล็กและสมอง เฉียบคมราวกับกับดักเหล็ก แถมยังมีกลิ่นหอมอีกด้วย
+26-0769	item	Kenji Sunada	เค็นจิ ซุนาดะ
+26-0770	item	A police officer and my client. He keeps going on about how his life depends on the result of this case. I guess I don't want a cop's blood on my hands...	ตำรวจและลูกความของผม เขาพูดย้ำตลอดว่าชีวิตทั้งชีวิต ขึ้นอยู่กับผลของคดีนี้ ผมก็คงไม่อยากให้เลือดตำรวจมา เปื้อนมือตัวเองหรอกนะ...
+26-0771	item	Aoi	อาโออิ
+26-0772	item	Sunada's girlfriend, who is suspected of infidelity. The only "evidence," however, is that she smelled like another man's hair product. Pretty weak.	แฟนสาวของซูนาดะที่ถูกสงสัยว่านอกใจ แต่ "หลักฐาน" ที่มีมีแค่กลิ่นผลิตภัณฑ์แต่งผม ของผู้ชายคนอื่นติดตัวเธอ ค่อนข้างอ่อนอยู่นะ
+26-0773	item	An inmate at Hokkaido's Abashiri Prison serving time for a murder linked to organized crime that took place three years ago.	นักโทษที่เรือนจำอาบาชิริ จังหวัดฮอกไกโด กำลังรับโทษจากคดีฆาตกรรมที่ เกี่ยวข้องกับองค์กร อาชญากรรมเมื่อสามปีก่อน
+26-0774	item	Portrait of Asami Morimiya	ภาพเหมือนของอาซามิ โมริมิยะ
+26-0775	item	A portrait of the missing Asami Morimiya.	ภาพเหมือนของอาซามิ โมริมิยะที่หายตัวไป
+26-0776	item	Tatsuro's Bag	กระเป๋าของทัตสึโร
+26-0777	item	A bag that Tatsuro forced on me. There's a lot of junk in this thing. Does he not need it for work?	กระเป๋าที่ทัตสึโรยัดเยียดให้ผม ข้างในมีของเกะกะเต็มไปหมด เขาไม่ต้องใช้มันทำงานเหรอ
+26-0778	item	Stylish Paper Bag	ถุงกระดาษสไตล์เก๋
+26-0779	item	The paper bag that was in Tatsuro's bag. The stylish design and logo both stand out.	ถุงกระดาษที่อยู่ในกระเป๋าของทัตสึโร ดีไซน์และโลโก้เก๋ ๆ โดดเด่นทั้งคู่
+26-0780	item	Hoshino's Testimony	คำให้การของโฮชิโนะ
+26-0781	item	Hoshino was alone in the office until 10pm last night. Genda arrived first thing in the morning and left the office after Hoshino came to work. Mafuyu entered after that, and lastly Saori. That's when Saori discovered that her cake was missing from the fridge.	โฮชิโนะอยู่ในสำนักงานคนเดียว จนถึงสี่ทุ่มเมื่อคืนนี้ เก็นดะมาถึงตั้งแต่เช้าตรู่แล้ว ออกจากสำนักงานหลังจาก โฮชิโนะมาทำงาน มาฟุยุเข้ามาหลังจากนั้น และคนสุดท้ายคือซาโอริ นั่นคือตอนที่ซาโอริพบว่าเค้ก ของเธอหายไปจากตู้เย็น
+26-0782	item	Mafuyu's Stomach Sounds	เสียงท้องร้องของมาฟุยุ
+26-0783	item	When Mafuyu got to the office that morning, she was so hungry her stomach growled loudly. After that, Hoshino went to the bathroom and was not looking at the fridge for 15 minutes.	ตอนที่มาฟุยุมาถึงสำนักงานเช้าวันนั้น เธอหิวจนท้องร้องดังลั่น หลังจากนั้นโฮชิโนะเข้าห้องน้ำ และไม่ได้จับตาดูตู้เย็นอยู่ 15 นาที
+26-0784	item	Melted Ice	น้ำแข็งละลาย
+26-0785	item	All the ice cubes in Genda Law Office's freezer ended up melting for some reason.	น้ำแข็งก้อนทั้งหมดในช่องแช่แข็งของ สำนักงานกฎหมายเก็นดะละลายหมด ไม่รู้เพราะอะไร
+26-0786	item	Ice in a Bowl	น้ำแข็งในชาม
+26-0787	item	Ice that was left at Koi Bride. It's in a bowl. Maybe to keep the sashimi cool?	น้ำแข็งที่ถูกทิ้งไว้ที่โคอิไบรด์ อยู่ในชาม บางทีอาจเอาไว้แช่ซาชิมิให้เย็น?
+26-0788	item	Koi Bride Carp	ปลาคาร์ปโคอิไบรด์
+26-0789	item	Some carps in the fishing pond got turned into sashimi, while other fish survived.	ปลาคาร์ปบางตัวในบ่อตกปลาถูก เชือดกลายเป็นซาชิมิ ในขณะที่ปลาตัวอื่นรอดชีวิต
+26-0790	item	Charles Sandals	รองเท้าแตะชาร์ลส์
+26-0791	item	The sandals Kaneda wears. For some reason, "Charles" is written on the heels.	รองเท้าแตะที่คาเนดะสวม ไม่รู้ทำไมที่ส้นมีคำว่า "ชาร์ลส์" เขียนเอาไว้
+26-0792	item	Kumakura's Bag	กระเป๋าของคุมะคุระ
+26-0793	item	Kumakura's bag. He refuses to let us see what's inside.	กระเป๋าของคุมะคุระ เขาไม่ยอมให้ใครเห็นว่าข้างในมีอะไร
+26-0794	item	Nishimura's Bag	กระเป๋าของนิชิมุระ
+26-0795	item	Nishimura the mascot's bag. It only has a wallet and a plush he won from the arcade.	กระเป๋าของนิชิมุระมาสคอต ข้างในมีแค่กระเป๋าสตางค์กับ ตุ๊กตาที่เขาได้จากร้านเกม
+26-0796	item	Poppo Showa MFLP	ป๊อปโป โชวะ MFLP
+26-0797	item	Poppo's music fair prize, a record from Alice at the Showa branch.	รางวัลงานมิวสิกแฟร์ของป๊อปโป แผ่นเสียงจากอลิซที่สาขาโชวะ
+26-0798	item	Poppo E. Shichifuku MFLP	ป๊อปโป อี. ชิจิฟุกุ MFLP
+26-0799	item	Poppo's music fair prize, a record from Nonomura at the E. Shichifuku branch.	รางวัลงานมิวสิกแฟร์ของป๊อปโป แผ่นเสียงจากโนโนมุระที่สาขาอี. ชิจิฟุกุ
+26-0800	item	Poppo W. Shichifuku MFLP	ป๊อปโป ดับเบิลยู. ชิจิฟุกุ MFLP
+26-0801	item	Poppo's music fair prize, a record from Asamura at the W. Shichifuku branch.	รางวัลงานมิวสิกแฟร์ของป๊อปโป แผ่นเสียงจากอาซามุระที่สาขาดับเบิลยู. ชิจิฟุกุ
+26-0802	item	Poppo Tenkaichi MFLP	ป๊อปโป เทนไคจิ MFLP
+26-0803	item	Poppo's music fair prize, a record from Dwayne at the Tenkaichi branch.	รางวัลงานมิวสิกแฟร์ของป๊อปโป แผ่นเสียงจากดเวย์นที่สาขาเทนไคจิ
+26-0804	item	Amidst a Dream LP	แผ่นเสียง ท่ามกลางความฝัน
+26-0805	item	A present from Sana. It's an album featuring her latest hit single.	ของขวัญจากซานะ เป็นอัลบั้มที่มีเพลงฮิตล่าสุด ของเธอรวมอยู่ด้วย
+26-0806	item	100 Chips	ชิป 100 เหรียญ
+26-0807	item	Show them you mean business at the casino with a cool 100 chips.	โชว์ให้เห็นว่าคุณเอาจริงที่ คาสิโนด้วยชิป 100 เหรียญสุดเท่
+26-0808	item	Dirty Clothes	เสื้อผ้าสกปรก
+26-0809	item	Dress like a bum, and most people on the street won't even look at you.	แต่งตัวเหมือนคนจรจัด แล้วคนบนถนนส่วนใหญ่จะไม่มองคุณ ด้วยซ้ำ
+26-0810	item	10 Chips	ชิป 10 เหรียญ
+26-0811	item	Have a little bit of fun at the casino tonight with a humble 10 chips.	สนุกเล็ก ๆ น้อย ๆ ที่คาสิโนคืนนี้ด้วยชิป 10 เหรียญเรียบง่าย
+26-0812	item	1,000 Chips	ชิป 1,000 เหรียญ
+26-0813	item	Let the good times roll at the casino with a whopping 1,000 chips.	ปล่อยให้ความสนุกพุ่งทะยานที่ คาสิโนด้วยชิป 1,000 เหรียญก้อนโต
+26-0814	item	10 Wooden Tags	แท็กไม้ 10 ชิ้น
+26-0815	item	Give the games at the gambling hall a try with just 10 wooden tags.	ลองเล่นเกมในบ่อนพนันดูด้วยแท็กไม้แค่ 10 ชิ้น
+26-0816	item	100 Wooden Tags	แท็กไม้ 100 ชิ้น
+26-0817	item	Have a grand old time at the gambling hall with 100 wooden tags.	สนุกสุดเหวี่ยงที่บ่อนพนันด้วยแท็กไม้ 100 ชิ้น
+26-0818	item	1,000 Wooden Tags	แท็กไม้ 1,000 ชิ้น
+26-0819	item	Play the night away at the gambling hall with 1,000 wooden tags.	เล่นพนันข้ามคืนที่บ่อนพนันด้วย แท็กไม้ 1,000 ชิ้น
+26-0820	item	Boneless Short Rib	ซี่โครงไร้กระดูก
+26-0821	item	Gyu-Kaku's signature: A whopping 2.4kg of 100% premium beef with unrivaled umami flavor!	เมนูซิกเนเจอร์ของกิวคาคุ: เนื้อพรีเมียม 100% หนักถึง 2.4 กก. กับรสอูมามิที่ไม่มีใครเทียบได้!
+26-0822	item	Salted Tongue	ลิ้นย่างเกลือ
+26-0823	item	Yakiniku always begins with the tongue! A rich and tasty salted tongue, that is.	ยากินิกุต้องเริ่มด้วยลิ้นเสมอ! ลิ้นย่างเกลือรสเข้มข้นแสนอร่อย นี่แหละ
+26-0824	item	Harami King	ฮารามิคิง
+26-0825	item	Gyu-Kaku's famously thick, tender, and juicy harami. It truly is the king of grilled meat!	ฮารามิเนื้อหนา นุ่ม และฉ่ำที่ขึ้นชื่อของกิวคาคุ สมกับเป็นราชาของเนื้อย่างจริง ๆ!
+26-0826	item	Honey Pepper Dwaeji Galbi	ทเวจิกัลบีซอสน้ำผึ้งพริกไทย
+26-0827	item	Grilled pork rib cut from highly selective breeding of pigs marinated in luscious honey pepper sauce.	ซี่โครงหมูย่างจากหมูพันธุ์ คัดสรรพิเศษ หมักในซอสน้ำผึ้งพริกไทยรสเข้มข้น
+26-0828	item	Japanese Beef Ribs	ซี่โครงวัวญี่ปุ่น
+26-0829	item	Every bite contains a rich and fathomless flavor, a hallmark of this special black wagyu kalbi.	ทุกคำอัดแน่นด้วยรสชาติเข้มข้นลึกล้ำ เอกลักษณ์ของคัลบี้วากิวดำพิเศษจานนี้
+26-0830	item	Luxury Marbled Salted Tongue	ลิ้นย่างเกลือลายหินอ่อนสุดหรู
+26-0831	item	A luxurious selection of meat using only the soft parts. Only eight pieces can be taken from a single cow.	เนื้อคัดพิเศษสุดหรูที่ใช้เฉพาะ ส่วนเนื้อนุ่ม ได้เพียงแปดชิ้นต่อวัวหนึ่งตัว เท่านั้น
+26-0832	item	Handpicked Beef Course	คอร์สเนื้อคัดพิเศษ
+26-0833	item	An array of Japanese beef ribs, marbled salted tongue, rib finger meat, and chuck steak.	รวมซี่โครงวัวญี่ปุ่น ลิ้นย่างเกลือลายหินอ่อน เนื้อริบฟิงเกอร์ และเนื้อชัค
+26-0834	item	Matured Roast Steak	สเต๊กย่างบ่มพิเศษ
+26-0835	item	An aged roast steak comprising only of the softest part of the shoulder.	สเต๊กย่างบ่มพิเศษที่ใช้เฉพาะ ส่วนที่นุ่มที่สุดของสะบัก
+26-0836	item	Cheese Fondue de Chicken Basil	ฟองดูชีสไก่โหระพา
+26-0837	item	This chicken's scintillating essence of basil and creamy cheese will awaken the appetite.	เนื้อไก่เคล้ากลิ่นหอมโหระพาและ ชีสครีมเข้มข้นตัวนี้จะ ปลุกความอยากอาหารของคุณ
+26-0838	item	Plum Shiso Chilled Noodles	เส้นเย็นบ๊วยใบชิโสะ
+26-0839	item	Finish any meal with the sourness of plum, the fragrance of shiso, and the texture of noodles.	ปิดท้ายมื้ออาหารด้วยความ เปรี้ยวของบ๊วย กลิ่นหอมของใบชิโสะ และสัมผัสเส้นบะหมี่เย็น
+26-0840	item	White Rice with Kalbi	ข้าวสวยคู่คัลบี้
+26-0841	item	A side of steamed white rice. It goes well with kalbi.	ข้าวสวยเสิร์ฟเป็นเครื่องเคียง กินคู่กับคัลบี้ได้อร่อย
+26-0842	item	An exquisite marriage of black honey and kinako. Gyu-Kaku's most popular dessert.	การผสานอันวิเศษระหว่างน้ำผึ้ง ดำและคินาโกะ ของหวานขายดีที่สุดของกิวคาคุ
+26-0843	item	Pilot Uniform	ชุดนักบิน
+26-0844	item	A flight uniform assigned to airline pilots. You'd look awesome in it.	ชุดเครื่องแบบสำหรับนักบินสายการบิน ใส่แล้วดูเท่สุด ๆ
+26-0845	item	A tuna figurine from Decor-oceans. Collect all 6 fishy friends from Series 1!	ฟิกเกอร์ปลาทูน่าจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 1!
+26-0846	item	A fugu figurine from Decor-oceans. Collect all 6 fishy friends from Series 1!	ฟิกเกอร์ปลาฟุกุจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 1!
+26-0847	item	A red snapper figurine from Decor-oceans. Collect all 6 fishy friends from Series 1!	ฟิกเกอร์ปลากะพงแดงจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 1!
+26-0848	item	A salmon figurine from Decor-oceans. Collect all 6 fishy friends from Series 1!	ฟิกเกอร์ปลาแซลมอนจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 1!
+26-0849	item	A blowfish figurine from Decor-oceans. Collect all 6 fishy friends from Series 1!	ฟิกเกอร์ปลาปักเป้าจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 1!
+26-0850	item	A rare megalodon from Decor-oceans. You've found Series 1's secret figurine!	เมกาโลดอนหายากจากเดคอร์-โอเชียนส์ คุณเจอฟิกเกอร์ลับของซีรีส์ 1 แล้ว!
+26-0851	item	A flounder figurine from Decor-oceans. Collect all 6 fishy friends from Series 2!	ฟิกเกอร์ปลาลิ้นหมาจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 2!
+26-0852	item	A marlin figurine from Decor-oceans. Collect all 6 fishy friends from Series 2!	ฟิกเกอร์ปลามาร์ลินจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 2!
+26-0853	item	A crab figurine from Decor-oceans. Collect all 6 fishy friends from Series 2!	ฟิกเกอร์ปูจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 2!
+26-0854	item	A goby figurine from Decor-oceans. Collect all 6 fishy friends from Series 2!	ฟิกเกอร์ปลาบู่จากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 2!
+26-0855	item	A squid figurine from Decor-oceans. Collect all 6 fishy friends from Series 2!	ฟิกเกอร์ปลาหมึกจากเดคอร์-โอเชียนส์ สะสมเพื่อนปลาให้ครบทั้ง 6 ตัวจากซีรีส์ 2!
+26-0856	item	A rare coelacanth from Decor-oceans. You've found Series 2's secret figurine!	ซีลาแคนท์หายากจากเดคอร์-โอเชียนส์ คุณเจอฟิกเกอร์ลับของซีรีส์ 2 แล้ว!
+26-0857	item	Pawn	เบี้ย
+26-0858	item	A pawn from the Shogi Interior Series. Don't look back in life; just keep moving forward.	เบี้ยจากซีรีส์ตกแต่งโชกิ อย่ามองย้อนกลับไปในชีวิต แค่มุ่งหน้าต่อไป
+26-0859	item	Lance	แลนซ์
+26-0860	item	A lance from the Shogi Interior Series. The shortest path a man can take is a straight line.	แลนซ์จากซีรีส์ตกแต่งโชกิ เส้นทางที่สั้นที่สุดของ ลูกผู้ชายคือเส้นตรง
+26-0861	item	Knight	ไนต์
+26-0862	item	A knight from the Shogi Interior Series. Fear not the weapon but the hand that wields it.	ไนต์จากซีรีส์ตกแต่งโชกิ อย่ากลัวอาวุธ แต่จงกลัวมือที่ถืออาวุธนั้น
+26-0863	item	Silver General	นายพลเงิน
+26-0864	item	A silver general from the Shogi Interior Series. The jack of all trades, master of none.	นายพลเงินจากซีรีส์ตกแต่งโชกิ รู้รอบด้านแต่ไม่เชี่ยวชาญสักอย่าง
+26-0865	item	Gold General	นายพลทอง
+26-0866	item	A gold general from the Shogi Interior Series. The best offense is a good defense.	นายพลทองจากซีรีส์ตกแต่งโชกิ การรุกที่ดีที่สุดคือการรับที่มั่นคง
+26-0867	item	Bishop	บิชอป
+26-0868	item	A bishop from the Shogi Interior Series. Genius is 1% inspiration and 99% perspiration.	บิชอปจากซีรีส์ตกแต่งโชกิ อัจฉริยะคือแรงบันดาลใจ 1% และหยาดเหงื่อ 99%
+26-0869	item	Rook	รุค
+26-0870	item	A rook from the Shogi Interior Series. In the end, the winner is the last man standing.	รุคจากซีรีส์ตกแต่งโชกิ ท้ายที่สุดแล้วผู้ชนะคือคนที่ ยืนหยัดอยู่ได้ถึงตอนจบ
+26-0871	item	Champion King	ราชาแชมป์
+26-0872	item	A champion's king from the Shogi Interior Series. The game can't start without its champ!	ราชาแชมป์จากซีรีส์ตกแต่งโชกิ เกมจะเริ่มไม่ได้เลยถ้าไม่มีแชมป์!
+26-0873	item	Challenger King	ราชาผู้ท้าชิง
+26-0874	item	A challenger king from the Shogi Interior Series. Always lurking in the champion's shadow...	ราชาผู้ท้าชิงจากซีรีส์ตกแต่งโชกิ หลบซ่อนอยู่ในเงาของแชมป์เสมอมา...
+26-0875	item	Horse Figurine	ฟิกเกอร์ม้า
+26-0876	item	An equestrian decoration. I wonder if the Horseplayer Detective has one...? Nah.	ของตกแต่งธีมขี่ม้า สงสัยว่านักสืบนักพนันม้าจะมี อันนี้ไหมนะ...? เอาน่า ไม่หรอก
+26-0877	item	Ebisu Figurine	ฟิกเกอร์เอบิสึ
+26-0878	item	One of the Seven Gods of Fortune. That kindly old smile always puts me at ease.	หนึ่งในเจ็ดเทพเจ้าแห่งโชคลาภ รอยยิ้มใจดีแบบคนแก่แบบนั้น ทำให้ผมรู้สึกสบายใจเสมอ
+26-0879	item	Desktop Houseplant	ต้นไม้ประดับตั้งโต๊ะ
+26-0880	item	A plant can contribute to a tranquil office space. It's small enough to put anywhere.	ต้นไม้ช่วยเติมความสงบให้พื้น ที่ทำงานได้ ตัวเล็กพอจะวางตรงไหนก็ได้
+26-0881	item	Artificial Flower	ดอกไม้ประดิษฐ์
+26-0882	item	A fake blossom. Made to add a splash of color to one's interior decorations.	ดอกไม้ปลอมที่ทำมาเพื่อแต่งแต้ม สีสันให้กับการตกแต่งภายใน
+26-0883	item	Pine Tree Bonsai	บอนไซต้นสน
+26-0884	item	How much TLC did it take to grow a bonsai tree into a grand pine?	ต้องทุ่มเทดูแลมากแค่ไหนกว่าจะ ปลูกบอนไซให้กลายเป็น ต้นสนใหญ่ได้ขนาดนี้
+26-0885	item	Chinese Vase	แจกันจีน
+26-0886	item	This antique has an imperial presence, which sets a nice mood for the room.	ของโบราณชิ้นนี้มีความสง่างาม แบบราชวงศ์ ช่วยสร้างบรรยากาศดี ๆ ให้ห้อง
+26-0887	item	Decorative Plate	จานประดับ
+26-0888	item	This regal interior decoration is adorned with autumn leaves.	ของตกแต่งภายในสไตล์หรูหราชิ้น นี้ประดับด้วยใบไม้ฤดูใบไม้ร่วง
+26-0889	item	Painting: Autumn Avenue	ภาพวาด: ถนนสายใบไม้ร่วง
+26-0890	item	This impressionistic work of art makes me feel nostalgic for some reason.	งานศิลปะแนวอิมเพรสชันนิสม์ชิ้น นี้ทำให้ผมรู้สึกคิดถึง อดีตไม่รู้ทำไม
+26-0891	item	Painting: Mountain Reflection	ภาพวาด: เงาสะท้อนขุนเขา
+26-0892	item	This photorealistic work of art depicts a scene of natural beauty at a lake.	งานศิลปะสมจริงชิ้นนี้ถ่ายทอด ฉากความงามทางธรรมชาติของ ทะเลสาบ
+26-0893	item	Daruma (Red)	ดารุมะ (สีแดง)
+26-0894	item	A red daruma doll. Put it on display, and it's bound to catch people's eyes.	ตุ๊กตาดารุมะสีแดง ตั้งโชว์ไว้รับรองสะดุดตาแน่นอน
+26-0895	item	Daruma (White)	ดารุมะ (สีขาว)
+26-0896	item	A white daruma doll. I didn't realize there were so many different kinds.	ตุ๊กตาดารุมะสีขาว ไม่นึกเลยว่าจะมีหลายแบบขนาดนี้
+26-0897	item	Daruma (Blue)	ดารุมะ (สีน้ำเงิน)
+26-0898	item	A blue daruma doll. I didn't realize there were so many different kinds.	ตุ๊กตาดารุมะสีน้ำเงิน ไม่นึกเลยว่าจะมีหลายแบบขนาดนี้
+26-0899	item	Rubber Baseball	ลูกเบสบอลยาง
+26-0900	item	A ball with a rubber center. I haven't swung a baseball bat in ages...	ลูกบอลที่มีแกนกลางเป็นยาง ผมไม่ได้จับไม้เบสบอลมานานมากแล้ว...
+26-0901	item	Every kid has one. Also known as a football, depending on who you ask.	เด็กทุกคนต้องมีลูกนี้ หรือจะเรียกว่าลูกฟุตบอลก็ได้ แล้วแต่ใครจะเรียก
+26-0902	item	Fishing Float	ทุ่นตกปลา
+26-0903	item	I'm no fisherman, but I guess I could use this bobber as decoration.	ผมไม่ใช่นักตกปลาหรอกนะ แต่คงเอาทุ่นลูกนี้ไปตั้งโชว์ได้
+26-0904	item	Artisanal Shogi Set	เซ็ตโชกิงานฝีมือ
+26-0905	item	First-class shogi board and pieces, handcrafted from mahagony and other fine materials.	กระดานและตัวหมากโชกิเกรดเฟิร์สคลาส ทำมือจากไม้มะฮอกกานีและวัสดุ เกรดดีอื่น ๆ
+26-0906	item	America's favorite Tennessee Whiskey. Its sweet, oaky flavor sets it apart from everyday bourbon.	เทนเนสซีวิสกี้สุดโปรดของชาวอเมริกัน รสหวานกลิ่นไม้โอ๊กทำให้แตก ต่างจากเบอร์เบินทั่วไป
+26-0907	item	This one-of-a-kind drink sports the richness and defining smoothness of single barrel whiskies.	เครื่องดื่มหนึ่งเดียวไม่เหมือน ใครนี้มาพร้อมความ เข้มข้นและความนุ่มละมุนอันเป็น เอกลักษณ์ของวิสกี้ ซิงเกิลบาร์เรล
+26-0908	item	This double mellowed, double barreled Tennessee Whiskey is luxurious and extra smooth.	เทนเนสซีวิสกี้ที่ผ่าน การกลั่นกรองสองรอบ บ่มสองถังนี้หรูหราและนุ่มละมุน เป็นพิเศษ
+26-0909	item	This traditional Irish whiskey blends single malt and grain whiskies for a fresh fruitiness.	วิสกี้ไอริชแบบดั้งเดิมที่ ผสมผสานซิงเกิลมอลต์กับเกรน วิสกี้ ให้กลิ่นผลไม้สดชื่น
+26-0910	item	This Irish whiskey is 80% matured malt liquor and is defined by its ripe, fruity flavors.	วิสกี้ไอริชตัวนี้มีมอลต์ที่บ่มแล้ว 80% โดดเด่นด้วยรสชาติผลไม้สุก
+26-0911	item	Matured in bourbon barrels for a decade, this Irish whiskey delivers a complex sweetness.	บ่มในถังเบอร์เบินนานสิบปี วิสกี้ไอริชตัวนี้มอบความหวาน ที่ซับซ้อนละเมียดละไม
+26-0912	item	This single malt Scotch whisky is distilled without peat for a nutty taste and a coastal vibe.	สก็อตช์วิสกี้ซิงเกิลมอลต์ตัว นี้กลั่นโดยไม่ใช้พีต ให้รสถั่วและกลิ่นอายทะเล
+26-0913	item	America's favorite Tennessee Whiskey. Its sweet, oaky flavor sets it apart from bourbon.	เทนเนสซีวิสกี้สุดโปรดของชาวอเมริกัน รสหวานกลิ่นไม้โอ๊กทำให้แตก ต่างจากเบอร์เบิน
+26-0914	item	The globally beloved bourbon whisky. It has a sharp, simple taste with sweet undertones.	เบอร์เบินวิสกี้ที่คนทั่วโลกชื่นชอบ รสชาติคมชัดเรียบง่ายแฝงด้วย ความหวานอ่อน ๆ
+26-0915	item	A tea blended from sixteen eastern medicinal ingredients for a low-calorie, caffeine-free thirst-quencher.	ชาที่ผสมจากสมุนไพรตะวันออก 16 ชนิด แคลอรีต่ำ ปราศจากคาเฟอีน ดับกระหายได้ดี
+26-0916	item	Using six-row barley to its full extent, this authentic tea extracts the natural sweetness and aroma.	ใช้ข้าวบาร์เลย์หกแถวเต็มรูปแบบ ชาแท้ตัวนี้สกัดความหวานและ กลิ่นหอมตามธรรมชาติออกมาได้ เต็มที่
+26-0917	item	Easy to drink and eye-openingly bitter. A canned morning coffee perfect to start off the day.	ดื่มง่ายและขมกำลังดีจนตาสว่าง กาแฟกระป๋องยามเช้าที่เหมาะจะ เริ่มต้นวันใหม่
+26-0918	item	A low-sugar premium canned coffee packed with caffeine for an afternoon pick-me-up.	กาแฟกระป๋องพรีเมียมน้ำตาลน้อย อัดแน่นด้วยคาเฟอีนช่วยกระตุ้น ให้สดชื่นยามบ่าย
+26-0919	item	A carbonated apple drink born in Japan and beloved by its people for over 130 years.	น้ำอัดลมรสแอปเปิลที่ถือกำเนิด ในญี่ปุ่น เป็นที่รักของคนญี่ปุ่นมานานกว่า 130 ปี
+26-0920	item	A tireless classic perfected for over 60 years. Its fresh-squeezed juice combines a groveside scent with the taste of ripe fruit.	คลาสสิกที่ไม่เคยตกยุคและถูก พัฒนามานานกว่า 60 ปี น้ำผลไม้คั้นสดผสานกลิ่นอาย สวนผลไม้เข้ากับรสชาติผลไม้สุก
+26-0921	item	A carbonated soft drink that tastes sharp and clear. It offers a refreshing flavor with an edge.	น้ำอัดลมรสคมชัดสะอาดปาก ให้ความสดชื่นที่มีมิติแหลมคม
+26-0922	item	An energy drink that blows your fatigue away with twelve types of energizing ingredients and fizzy stimulation.	เครื่องดื่มชูกำลังที่ขับไล่ ความเหนื่อยล้าด้วยส่วนผสม กระตุ้นพลัง 12 ชนิดและความซ่าที่กระตุ้นความสดชื่น
+26-0923	item	This creamy shochu's Kagoshima-grown sweet potatoes give it a clear, rich aftertaste.	โชจูเนื้อครีมมี่ตัวนี้ใช้ มันเทศจากคาโกชิมะ ให้รสติดปากที่สะอาดและเข้มข้น
+26-0924	item	A dry beer with a sharp crispness that goes down smooth thanks to its refined flavor.	เบียร์ดรายที่ให้ความซ่าคมชัด ดื่มลื่นคอด้วยรสชาติที่ กลั่นกรองมาอย่างดี
+26-0925	item	A refreshing Okinawan draft beer that's easy to drink yet still has substance.	เบียร์สดจากโอกินาวะที่สดชื่น ดื่มง่ายแต่ยังคงรสชาติเข้มข้น
+26-0926	item	A cognac using brandy that was matured in oak barrels. It boasts a fruity mellowness.	คอนญักที่ใช้บรั่นดีบ่มในถังไม้โอ๊ก โดดเด่นด้วยความนุ่มนวลกลิ่นผลไม้
+26-0927	item	Packaged in a classy bottle, this cognac blends floral and vanilla undertones with rich flavors.	บรรจุในขวดสุดคลาสสิก คอนญักตัวนี้ผสานกลิ่นดอกไม้และ วานิลลาเข้ากับรสชาติเข้มข้น
+26-0928	item	A single-cru cognac from the Borderies region, known for rare and richly aromatic cognacs.	คอนญักซิงเกิลครูจากแคว้นบอร์เดอรีส์ ขึ้นชื่อเรื่องคอนญักหายากที่มี กลิ่นหอมเข้มข้น
+26-0929	item	The finest tequila from the world's leading brand. Enjoy the refreshing taste of agave and lime.	เตกีลาเกรดดีที่สุดจากแบรนด์ ชั้นนำของโลก ลิ้มรสความสดชื่นของอกาเวและมะนาว
+26-0930	item	A refreshing, easy-to-drink whisky with a silky-smooth aroma and mellow taste.	วิสกี้ที่สดชื่น ดื่มง่าย กลิ่นหอมนุ่มนวลราวกับผ้าไหม รสชาตินุ่มละมุน
+26-0931	item	Scotland's crowning Scotch whisky has won many awards for its aromatic, mellow taste.	สก็อตช์วิสกี้มงกุฎแห่งสกอตแลนด์ คว้ารางวัลมากมายจากกลิ่นหอมและ รสชาตินุ่มนวล
+26-0932	item	This whisky is balanced and smooth. Made in honor of Masataka Taketsuru's late wife, Rita.	วิสกี้ตัวนี้กลมกล่อมและนุ่มนวล ผลิตขึ้นเพื่อระลึกถึงริตา ภรรยาผู้ล่วงลับของมาซาตากะ ทาเคสึรุ
+26-0933	item	Named after the father of Japanese whisky, Masataka Taketsuru. It is gentle and mellow.	ตั้งชื่อตามบิดาแห่งวิสกี้ญี่ปุ่น มาซาตากะ ทาเคสึรุ รสชาตินุ่มนวลอ่อนโยน
+26-0934	item	This single malt whisky from idyllic Yoichi, Hokkaido offers an array of complex tastes.	วิสกี้ซิงเกิลมอลต์จากโยอิจิ เมืองสวยงามในฮอกไกโด มอบรสชาติที่ซับซ้อนหลากหลายมิติ
+26-0935	item	This bottle was blended from whiskies aged over 12 years into a true malt experience.	ขวดนี้ผสมจากวิสกี้ที่บ่มนานกว่า 12 ปี มอบประสบการณ์มอลต์แท้ ๆ
+26-0936	item	This unique whisky is 51% alcohol. It exhibits a strong flavor with a rich, deep aroma.	วิสกี้เอกลักษณ์เฉพาะตัวนี้มี แอลกอฮอล์ 51% ให้รสชาติเข้มข้นพร้อมกลิ่นหอมลึกล้ำ
+26-0937	item	Distilled in Sendai, the City of Trees. This single malt sports an elegantly fruity taste.	กลั่นที่เซนได นครแห่งต้นไม้ ซิงเกิลมอลต์ตัวนี้มีรสผลไม้ที่ สง่างาม
+26-0938	item	Created in Nikka's traditional still; vanilla and chocolate harmonize with the oaken taste.	สร้างสรรค์จากหม้อกลั่นดั้งเดิม ของนิกกะ วานิลลาและช็อกโกแลตผสานลงตัว กับรสไม้โอ๊ก
+26-0939	item	Gin made in Nikka's traditional still. It has citrus notes and a whiff of Japanese pepper.	จินที่กลั่นจากหม้อกลั่น ดั้งเดิมของนิกกะ มีกลิ่นซิตรัสและพริกไทยญี่ปุ่น แผ่วเบา
+26-0940	item	This vodka uses the classic Nikka process to conjure floral notes and caramel undertones.	วอดก้าตัวนี้ใช้กระบวนการ คลาสสิกของนิกกะ รังสรรค์กลิ่นดอกไม้และคาราเมล แฝงอยู่เบื้องหลัง
+26-0941	item	Abundant Oil	น้ำมันปริมาณมาก
+26-0942	item	An abundant amount of oil that can be used for drone part materials.	น้ำมันปริมาณมากที่ใช้เป็น วัตถุดิบทำชิ้นส่วนโดรนได้
+26-0943	item	Spirit of Steel	จิตวิญญาณเหล็กกล้า
+26-0944	item	A book with instructions on how to effectively withstand attacks and land counterattacks.	หนังสือที่สอนวิธีรับมือการ โจมตีอย่างมีประสิทธิภาพและ โต้กลับให้เข้าเป้า
+26-0945	item	This secret technique has unlocked Resolute Counter. Learn how to use it from the Skill App.	เคล็ดวิชานี้ปลดล็อกท่า เคาน์เตอร์หนักแน่นแล้ว เรียนรู้วิธีใช้ได้จากแอปทักษะ
+26-0946	item	Secret Technique: Running Palm Strike	เคล็ดวิชา: ฝ่ามือพุ่งทะยาน
+26-0947	item	A guide to quickly closing in on an enemy and striking their chin with the heel of one's palm.	คู่มือการเข้าประชิดศัตรูอย่าง รวดเร็วแล้วฟาดคางด้วยสันมือ
+26-0948	item	This secret technique has unlocked EX Running Palm Strike. Learn how to use it on the Skill App.	เคล็ดวิชานี้ปลดล็อก EX ฝ่ามือพุ่งทะยานแล้ว เรียนรู้วิธีใช้ได้จากแอปทักษะ
+26-0949	item	Secret Technique: Running Assault	เคล็ดวิชา: จู่โจมพุ่งทะยาน
+26-0950	item	A guide to maneuvering through enemies before knocking them back with a powerful blow.	คู่มือการเคลื่อนที่ฝ่าวงล้อม ศัตรูก่อนจะฟาดกระเด็น ด้วยหมัดทรงพลัง
+26-0951	item	This secret technique has unlocked EX Running Assault. Learn how to use it on the Skill App.	เคล็ดวิชานี้ปลดล็อก EX จู่โจมพุ่งทะยานแล้ว เรียนรู้วิธีใช้ได้จากแอปทักษะ
+26-0952	item	Spiritual Awakening	การตื่นรู้ทางจิตวิญญาณ
+26-0953	item	A guide to raising inner potential by drawing out one's hidden strength for a longer time span.	คู่มือปลุกศักยภาพภายในด้วยการ ดึงพลังที่ซ่อนอยู่ออกมา ให้อยู่ได้นานขึ้น
+26-0954	item	This guide has unlocked Enhance EX Boost Lv. 1. Learn how to use it on the Skill App.	คู่มือเล่มนี้ปลดล็อก เสริม EX Boost Lv. 1 แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0955	item	Rush Training	การฝึกเร่งรัด
+26-0956	item	A guide with lessons focused on developing faster footwork and evasive techniques.	คู่มือรวมบทเรียนเน้นพัฒนาการ เคลื่อนเท้าให้ไวขึ้นและ เทคนิคการหลบหลีก
+26-0957	item	This secret technique has unlocked Double Quickstep. Learn how to use it on the Skill App.	เคล็ดวิชานี้ปลดล็อก Double Quickstep แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0958	item	Mind over Matter	จิตเป็นใหญ่กว่ากาย
+26-0959	item	Instructions on honing your mental acuity through meditation and concentration exercises.	คำแนะนำการฝึกความเฉียบคม ทางจิตใจผ่านการทำสมาธิและแบบ ฝึกสมาธิจดจ่อ
+26-0960	item	Reading this guide has unlocked Boost EX Gauge 1. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก Boost EX Gauge 1 แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0961	item	Brains over Brawn	สมองเหนือพลัง
+26-0962	item	Instructions on absorbing the strength of your enemies' attacks and firing it back at them.	คำแนะนำการดูดซับแรงโจมตีของ ศัตรูแล้วสะท้อนกลับใส่พวกมัน
+26-0963	item	Reading this guide has unlocked Heart of a Champion. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก หัวใจแชมป์ แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0964	item	Unofficial D&C Strategy Guide	คู่มือกลยุทธ์ D&C ฉบับไม่เป็นทางการ
+26-0965	item	A walkthrough written for fellow "Dice & Cubers" by Akatsuki, a self-proclaimed VR Ethlete.	วอล์กทรูที่อาคัตสึกิ นักกีฬา VR ผู้ประกาศตนเอง เขียนให้เพื่อน "ชาว Dice & Cube" ด้วยกัน
+26-0966	item	Reading this guide has unlocked High Roller. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก นักเสี่ยงตัวยง แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0967	item	Unabridged D&C Strategy Guide	คู่มือกลยุทธ์ D&C ฉบับไม่มีตัด
+26-0968	item	Vol. 2 of this Dice & Cube walkthrough is packed with even more tips and tricks.	วอล์กทรู Dice & Cube เล่ม 2 นี้อัดแน่นด้วยเคล็ดลับและ เทคนิคเพิ่มเติมอีกมากมาย
+26-0969	item	Reading this guide has unlocked Elevated Roller. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก นักเสี่ยงระดับสูง แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0970	item	Ultimate D&C Strategy Guide	คู่มือกลยุทธ์ D&C ฉบับสุดยอด
+26-0971	item	The definitive Dice & Cube walkthrough, bursting with handy pro tips. #SugorokuHacks	วอล์กทรู Dice & Cube ฉบับสมบูรณ์แบบ อัดแน่นเคล็ดลับมือโปรที่ใช้ได้จริง #SugorokuHacks
+26-0972	item	Reading this guide has unlocked Exalted Roller. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก นักเสี่ยงระดับเซียน แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0973	item	The QR Code Compendium	สารานุกรม QR โค้ด
+26-0974	item	This map app guidebook makes it easy to find QR codes. Too bad its "ancient tome" font is illegible.	คู่มือแอปแผนที่เล่มนี้ช่วยให้หา QR โค้ดได้ง่ายขึ้น น่าเสียดายที่ฟอนต์สไตล์ "ตำราโบราณ" ของมันอ่านแทบไม่ออก
+26-0975	item	Reading this guide has unlocked Code Hunter. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก นักล่ารหัส แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0976	item	Ironclad Self Defense	การป้องกันตัวแกร่งดั่งเหล็ก
+26-0977	item	A self-defense manual teaching Chinese martial arts to recover quickly from a broken guard.	ตำราป้องกันตัวที่สอนศิลปะ การต่อสู้จีนสำหรับตั้งการ์ด กลับให้เร็วหลังการ์ดแตก
+26-0978	item	Reading this guide has unlocked Re-guard. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก ตั้งการ์ดใหม่ แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0979	item	Crisis Preparedness	เตรียมพร้อมรับวิกฤต
+26-0980	item	A handbook detailing a step-by-step program to heighten situational awareness and response time.	หนังสือคู่มือที่อธิบายโปรแกรม ฝึกทีละขั้นตอนเพื่อ เพิ่มการรับรู้สถานการณ์และ ความเร็วในการตอบสนอง
+26-0981	item	Reading this guide has unlocked Danger Display. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก แสดงจุดอันตราย แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0982	item	Art of the Thunder Fist	ศิลปะหมัดสายฟ้า
+26-0983	item	A manual on the martial arts style called Thunder Fist. Its skills combine strength and speed.	ตำราศิลปะการต่อสู้ที่ชื่อว่า หมัดสายฟ้า ท่วงท่าผสานพลังและความเร็ว เข้าด้วยกัน
+26-0984	item	Reading this guide has unlocked EX Running Wall Smash. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก EX กระแทกกำแพงวิ่ง แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0985	item	The Art of Gluttony	ศิลปะแห่งความตะกละ
+26-0986	item	A biography of a world-class competitive eater. Learn his secrets to eating endlessly...	ชีวประวัตินักกินแข่งระดับโลก เรียนรู้เคล็ดลับการกินไม่หยุดของเขา...
+26-0987	item	Reading this guide has unlocked Bottomless Stomach. Learn how to use it on the Skill App.	การอ่านคู่มือเล่มนี้ปลดล็อก ท้องไม่มีก้นบึ้ง แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-0988	item	Photo of Shintani's Eyes	ภาพถ่ายดวงตาของชินทานิ
+26-0989	item	A photograph of Shintani's corpse, taken by Yagami himself. Both eyes were removed from their sockets, which matches the Mole's MO.	ภาพถ่ายศพของชินทานิ ที่ยากามิถ่ายเอง ดวงตาทั้งสองข้างถูกควักออกจากเบ้าตา ตรงกับวิธีก่อเหตุของไส้ศึก
+26-0990	item	The one window in the hospital room where the elderly Waku stayed was shut, and stuck too tightly to open; we can deduce that the hallway door was the only entrance or exit.	หน้าต่างบานเดียวในห้องผู้ป่วย ที่วาคุผู้สูงวัยเคยอยู่ นั้นถูกปิดสนิทและติดแน่นจนเปิดไม่ออก จึงสรุปได้ว่าประตูทางเดินคือ ทางเข้าออกทางเดียว
+26-0991	item	Waku's Hospital Room: Hallway	ห้องผู้ป่วยของวาคุ: ทางเดิน
+26-0992	item	Barrel aged and made with handpicked fermented apples, this apple brandy is truly something special.	บ่มในถังไม้และทำจากแอปเปิ้ล หมักคัดสรรมือ บรั่นดีแอปเปิ้ลขวดนี้พิเศษจริง ๆ
+26-0993	item	This smooth-tasting, limited edition bourbon hails from the oldest distillery in Kentucky.	เบอร์เบินรุ่นลิมิเต็ดรสชาติ นุ่มลิ้นนี้มาจากโรงกลั่น เก่าแก่ที่สุดในรัฐเคนทักกี
+26-0994	item	Teardrop Earrings	ต่างหูทรงหยดน้ำ
+26-0995	item	Look luxurious on a student's budget. A popular choice among young ladies.	หรูหราได้แม้งบเป็นนักเรียน เป็นตัวเลือกยอดนิยมในหมู่สาว ๆ
+26-0996	item	Trinity Circle Earrings	ต่างหูวงกลมทรินิตี้
+26-0997	item	Handcrafted gold with an air of mystique. Recommended for mature women.	ทองคำทำมือที่มีเสน่ห์ลึกลับ แนะนำสำหรับผู้หญิงที่เป็นผู้ใหญ่
+26-0998	item	Heart Earrings	ต่างหูรูปหัวใจ
+26-0999	item	Classic hearts that can make any cute outfit pop. Designed by a famous idol.	หัวใจคลาสสิกที่ทำให้ชุดน่ารัก โดดเด่นขึ้นมาทันที ออกแบบโดยไอดอลชื่อดัง
+26-1000	item	Gold Cross Earrings	ต่างหูกางเขนทอง
+26-1001	item	Gold crosses gilded over brass. Their weight is well worth their gorgeous looks.	กางเขนทองชุบทับทองเหลือง น้ำหนักคุ้มค่ากับความงามที่เห็น
+26-1002	item	White Pearl Earrings	ต่างหูมุกขาว
+26-1003	item	These understated white pearls show that simplicity is the key to sophistication.	ไข่มุกขาวเรียบง่ายชิ้นนี้ พิสูจน์ว่าความเรียบง่ายคือ หัวใจของความประณีต
+26-1004	item	Prima Heart Earrings	ต่างหูหัวใจพรีมา
+26-1005	item	Elegant hearts make the wearer look mature, but with a touch of whimsy.	หัวใจสง่างามที่ทำให้ผู้สวมดู เป็นผู้ใหญ่ขึ้น แต่ยังแฝงความขี้เล่นเล็กน้อย
+26-1006	item	Star Crossed Earrings	ต่างหูสตาร์ครอส
+26-1007	item	Pure gold earring set. Shining like a star takes an out-of-this-world price tag.	เซตต่างหูทองคำแท้ ความเปล่งประกายดุจดวงดาวมา พร้อมราคาที่แพงเกินโลก
+26-1008	item	Twinkle Heart Ring	แหวนหัวใจทวิงเคิล
+26-1009	item	A ring decorated with adorable hearts. Its charm lies in the poppy pink color.	แหวนประดับหัวใจน่ารัก เสน่ห์อยู่ที่สีชมพูสดใส
+26-1010	item	Midnight Ring	แหวนมิดไนต์
+26-1011	item	A shining, sophisticated ring. Showcases a refined jewel with a price to match.	แหวนเปล่งประกายสไตล์หรูหรา โชว์อัญมณีชั้นเลิศพร้อมราคาที่ สมน้ำสมเนื้อ
+26-1012	item	Shiny Flower Ring	แหวนดอกไม้เปล่งประกาย
+26-1013	item	A pretty ring with a design inspired by the falling petals of colorful blossoms.	แหวนสวยงามที่ออกแบบจาก แรงบันดาลใจกลีบดอกไม้หลากสี ร่วงหล่น
+26-1014	item	Luxury Timepiece	นาฬิกาสุดหรู
+26-1015	item	A gorgeous watch made with gold. For those with high style and deep pockets.	นาฬิกาหรูทำจากทองคำ สำหรับคนที่มีทั้งสไตล์และ กระเป๋าเงินหนา
+26-1016	item	High-end Timepiece	นาฬิกาไฮเอนด์
+26-1017	item	A watch from a high-end Swiss brand. Its smart, elegant design sets it apart.	นาฬิกาจากแบรนด์สวิสระดับไฮเอนด์ ดีไซน์เรียบหรูที่โดดเด่นไม่เหมือนใคร
+26-1018	item	Standard Timepiece	นาฬิกาธรรมดา
+26-1019	item	A cute yet unadorned watch. It makes a great accent to any number of outfits.	นาฬิกาน่ารักแบบเรียบง่าย เพิ่มลูกเล่นให้ชุดไหนก็เข้ากันได้ดี
+26-1020	item	Potted Plant	ไม้กระถาง
+26-1021	item	Hug Bomb	ระเบิดกอด
+26-1022	item	Experience a hug in liquid form. Made with all-natural spring water!	สัมผัสอ้อมกอดในรูปของเหลว ทำจากน้ำแร่ธรรมชาติแท้ ๆ!
+26-1023	item	Hug Bomb Spark Alpha	ระเบิดกอด สปาร์คอัลฟา
+26-1024	item	Experience a hug in liquid form. A fresh twist to the classic recipe!	สัมผัสอ้อมกอดในรูปของเหลว มาในสูตรใหม่จากตำรับคลาสสิก!
+26-1025	item	Hug Bomb Spark Beta	ระเบิดกอด สปาร์คเบตา
+26-1026	item	Hug Bomb Explosion Omega	ระเบิดกอด เอ็กซ์โพลชันโอเมกา
+26-1027	item	Experience a hug in liquid form. The ultimate drink to end all drinks!	สัมผัสอ้อมกอดในรูปของเหลว เครื่องดื่มสุดยอดที่จบทุกเครื่องดื่ม!
+26-1028	item	A domestic malt with a rich scent and deep flavor. Its creamy head adds a hint of vanilla.	เบียร์มอลต์ในประเทศกลิ่นหอมเข้มข้น รสชาติลึกล้ำ หัวฟองครีมมี่แอบมีกลิ่นวานิลลา
+26-1029	item	Highball	ไฮบอล
+26-1030	item	This ice-cold mixed drink pairs perfectly with takoyaki.	เครื่องดื่มผสมเย็นเจี๊ยบนี้ เข้ากันสุดๆ กับทาโกะยากิ
+26-1031	item	Mega Highball	ไฮบอลไซซ์เมกะ
+26-1032	item	The supersized stein for drinkers with parched tongues and empty bladders.	เหยือกไซซ์ใหญ่พิเศษสำหรับคนคอแห้ง กระเพาะปัสสาวะว่าง
+26-1033	item	Ginger Highball	ไฮบอลขิง
+26-1034	item	A highball packed with flavor thanks to its spicy ginger taste.	ไฮบอลรสจัดจ้านด้วยความเผ็ดร้อนของขิง
+26-1035	item	Lemon Highball	ไฮบอลเลมอน
+26-1036	item	A highball garnished with lemon. It has a fresh taste and is easy to drink.	ไฮบอลแต่งด้วยเลมอน รสสดชื่น ดื่มง่าย
+26-1037	item	A refreshing oolong tea guaranteed to cleanse the palate.	ชาอู่หลงสดชื่นที่ล้างปากได้ อย่างมั่นใจ
+26-1038	item	A refreshing cocktail full of fresh fruit.	ค็อกเทลสดชื่นเต็มไปด้วยผลไม้สด
+26-1039	item	Growth Extract	สารสกัดเติบโต
+26-1040	item	An extract to raise the amount of SP obtained. Duration: 180 seconds.	สารสกัดที่เพิ่มปริมาณ SP ที่ได้รับ ระยะเวลา: 180 วินาที
+26-1041	item	Luck Extract	สารสกัดโชคดี
+26-1042	item	An extract to raise enemy item drop rates. Duration: 180 seconds.	สารสกัดที่เพิ่มอัตราดรอปไอเทม จากศัตรู ระยะเวลา: 180 วินาที
+26-1043	item	Stealth Extract	สารสกัดพรางตัว
+26-1044	item	An extract to lower enemy encounter rates. Duration: 240 seconds.	สารสกัดที่ลดอัตราการเจอศัตรู ระยะเวลา: 240 วินาที
+26-1045	item	Flash Dancer Extract	สารสกัดนักเต้นสายฟ้าแลบ
+26-1046	item	An extract to raise Crane Style combo speed. Duration: 30 seconds.	สารสกัดที่เพิ่มความเร็วคอมโบ ท่ากระเรียน ระยะเวลา: 30 วินาที
+26-1047	item	Fast Fighter Extract	สารสกัดนักสู้จอมเร็ว
+26-1048	item	An extract to raise Tiger Style combo speed. Duration: 30 seconds.	สารสกัดที่เพิ่มความเร็วคอมโบท่าเสือ ระยะเวลา: 30 วินาที
+26-1049	item	Dance Fighter Extract	สารสกัดนักสู้นักเต้น
+26-1050	item	An extract to raise Crane and Tiger Style combo speeds. Duration: 60 seconds.	สารสกัดที่เพิ่มความเร็วคอมโบ ทั้งท่ากระเรียนและท่าเสือ ระยะเวลา: 60 วินาที
+26-1051	item	Rejuvenation Extract	สารสกัดฟื้นฟู
+26-1052	item	An extract to gradually recover your health. Duration: 60 seconds.	สารสกัดที่ค่อย ๆ ฟื้นฟูพลังชีวิต ระยะเวลา: 60 วินาที
+26-1053	item	Die Hard Extract	สารสกัดดายฮาร์ด
+26-1054	item	An extract to fully recover your health from 0. Duration: 180 seconds.	สารสกัดที่ฟื้นฟูพลังชีวิตเต็ม จากศูนย์ ระยะเวลา: 180 วินาที
+26-1055	item	Punch-Out Extract	สารสกัดพันช์เอาต์
+26-1056	item	An extract to be able to Quickstep consecutively. Duration: 30 seconds.	สารสกัดที่ทำให้ควิกสเต็ปติดต่อกันได้ ระยะเวลา: 30 วินาที
+26-1057	item	Flowing Willow Extract	สารสกัดหลิวไหว
+26-1058	item	An extract to automatically parry most attacks. Duration: 30 seconds.	สารสกัดที่ปัดป้องการโจมตี ส่วนใหญ่ได้อัตโนมัติ ระยะเวลา: 30 วินาที
+26-1059	item	Thunder Strike Extract	สารสกัดสายฟ้าฟาด
+26-1060	item	An extract to gain stun immunity and the power to break through enemies' guards and attacks. Duration: 30 seconds.	สารสกัดที่ให้ภูมิคุ้มกันอาการ มึนงงและพลังทะลวงการ์ด กับการโจมตีของศัตรู ระยะเวลา: 30 วินาที
+26-1061	item	Guard Breaker Extract	สารสกัดทลายการ์ด
+26-1062	item	An extract to make all attacks break through enemies' guards. Duration: 20 seconds.	สารสกัดที่ทำให้การโจมตี ทุกครั้งทะลวงการ์ดศัตรูได้ ระยะเวลา: 20 วินาที
+26-1063	item	Throw Extract	สารสกัดขว้างปา
+26-1064	item	An extract to power throw an enemy with <symbol=button_maru>. Duration: 20 seconds.	สารสกัดที่ทำให้ขว้างศัตรู ได้แรงขึ้นด้วย <symbol=button_maru> ระยะเวลา: 20 วินาที
+26-1065	item	Swing Extract	สารสกัดเหวี่ยง
+26-1066	item	An extract to swing enemies around with <symbol=button_maru>. Duration: 20 seconds.	สารสกัดที่ทำให้เหวี่ยงศัตรูได้ด้วย <symbol=button_maru> ระยะเวลา: 20 วินาที
+26-1067	item	Power Attack Extract	สารสกัดโจมตีพลัง
+26-1068	item	An extract to use a guard-breaking attack with <symbol=button_maru>. Duration: 20 seconds.	สารสกัดที่ใช้โจมตีทะลวงการ์ดได้ด้วย <symbol=button_maru> ระยะเวลา: 20 วินาที
+26-1069	item	Deadly Crane Extract	สารสกัดกระเรียนมรณะ
+26-1070	item	An extract to bust through Deadly Attacks with <symbol=button_maru>. Duration: 20 seconds.	สารสกัดที่ทะลวงการโจมตีร้ายแรง ได้ด้วย <symbol=button_maru> ระยะเวลา: 20 วินาที
+26-1071	item	Deadly Tiger Extract	สารสกัดเสือมรณะ
+26-1072	item	Beatdown Extract	สารสกัดทุบซ้ำ
+26-1073	item	An extract recipe to do a takedown with <symbol=button_maru> followed by a beatdown with <symbol=button_maru>. Duration: 20 seconds.	สูตรสารสกัดที่ใช้ทุ่มด้วย <symbol=button_maru> ตามด้วยทุบซ้ำด้วย <symbol=button_maru> ระยะเวลา: 20 วินาที
+26-1074	item	One-Two Knockout Extract	สารสกัดน็อกเอาต์วันทูพันช์
+26-1075	item	An extract to knock an enemy out in two hits with <symbol=button_maru><symbol=button_maru>. Duration: 20 seconds.	สารสกัดที่น็อกศัตรูได้ในสองหมัดด้วย <symbol=button_maru><symbol=button_maru> ระยะเวลา: 20 วินาที
+26-1076	item	Blazing Barrage Extract	สารสกัดกระหน่ำเพลิง
+26-1077	item	An extract to use a guard-breaking flurry of blows with <symbol=button_maru><symbol=button_maru><symbol=button_maru><symbol=button_maru>. Duration: 20 seconds.	สารสกัดที่ใช้กระหน่ำหมัดทะลวง การ์ดด้วย <symbol=button_maru><symbol=button_maru><symbol=button_maru><symbol=button_maru> ระยะเวลา: 20 วินาที
+26-1078	item	Extract Recipe: Growth	สูตรสารสกัด: เติบโต
+26-1079	item	An extract recipe to raise the amount of SP obtained.	สูตรสารสกัดที่เพิ่มปริมาณ SP ที่ได้รับ
+26-1080	item	Extract Recipe: Luck	สูตรสารสกัด: โชคดี
+26-1081	item	An extract recipe to raise enemy item drop rates.	สูตรสารสกัดที่เพิ่มอัตราดรอป ไอเทมจากศัตรู
+26-1082	item	Extract Recipe: Stealth	สูตรสารสกัด: พรางตัว
+26-1083	item	An extract recipe to lower enemy encounter rates.	สูตรสารสกัดที่ลดอัตราการเจอศัตรู
+26-1084	item	Extract Recipe: Flash Dancer	สูตรสารสกัด: นักเต้นสายฟ้าแลบ
+26-1085	item	An extract recipe to raise Crane Style combo speed.	สูตรสารสกัดที่เพิ่มความเร็วคอม โบท่ากระเรียน
+26-1086	item	Extract Recipe: Fast Fighter	สูตรสารสกัด: นักสู้จอมเร็ว
+26-1087	item	An extract recipe to raise Tiger Style combo speed.	สูตรสารสกัดที่เพิ่มความเร็วคอม โบท่าเสือ
+26-1088	item	Extract Recipe: Dance Fighter	สูตรสารสกัด: นักสู้นักเต้น
+26-1089	item	An extract recipe to raise Crane Style and Tiger Style combo speeds.	สูตรสารสกัดที่เพิ่มความเร็วคอม โบทั้งท่ากระเรียนและท่าเสือ
+26-1090	item	Extract Recipe: Rejuvenation	สูตรสารสกัด: ฟื้นฟู
+26-1091	item	An extract recipe to gradually recover your health.	สูตรสารสกัดที่ค่อย ๆ ฟื้นฟูพลังชีวิต
+26-1092	item	Extract Recipe: Die Hard	สูตรสารสกัด: ดายฮาร์ด
+26-1093	item	An extract recipe to fully recover your health from 0.	สูตรสารสกัดที่ฟื้นฟูพลังชีวิต เต็มจากศูนย์
+26-1094	item	Extract Recipe: Punch-Out	สูตรสารสกัด: พันช์เอาต์
+26-1095	item	An extract recipe to be able to quickstep consecutively.	สูตรสารสกัดที่ทำให้ควิกสเต็ป ติดต่อกันได้
+26-1096	item	Extract Recipe: Flowing Willow	สูตรสารสกัด: หลิวไหว
+26-1097	item	An extract recipe to automatically parry most attacks.	สูตรสารสกัดที่ปัดป้องการโจมตี ส่วนใหญ่ได้อัตโนมัติ
+26-1098	item	Extract Recipe: Thunder Strike	สูตรสารสกัด: สายฟ้าฟาด
+26-1099	item	An extract recipe to gain stun immunity and the power to break through enemies' guards and attacks.	สูตรสารสกัดที่ให้ภูมิคุ้มกัน อาการมึนงงและพลังทะลวง การ์ดกับการโจมตีของศัตรู
+26-1100	item	Extract Recipe: Guard Breaker	สูตรสารสกัด: ทลายการ์ด
+26-1101	item	An extract recipe to make all attacks break through enemies' guards.	สูตรสารสกัดที่ทำให้การโจมตี ทุกครั้งทะลวงการ์ดศัตรูได้
+26-1102	item	Extract Recipe: Throw	สูตรสารสกัด: ขว้างปา
+26-1103	item	An extract recipe to power throw an enemy with <symbol=button_maru>.	สูตรสารสกัดที่ทำให้ขว้างศัตรู ได้แรงขึ้นด้วย <symbol=button_maru>
+26-1104	item	Extract Recipe: Swing	สูตรสารสกัด: เหวี่ยง
+26-1105	item	An extract recipe to swing enemies around with <symbol=button_maru>.	สูตรสารสกัดที่ทำให้เหวี่ยง ศัตรูได้ด้วย <symbol=button_maru>
+26-1106	item	Extract Recipe: Power Attack	สูตรสารสกัด: โจมตีพลัง
+26-1107	item	An extract recipe to use a guard-breaking attack with <symbol=button_maru>.	สูตรสารสกัดที่ใช้โจมตีทะลวง การ์ดได้ด้วย <symbol=button_maru>
+26-1108	item	Extract Recipe: Deadly Crane	สูตรสารสกัด: กระเรียนมรณะ
+26-1109	item	An extract recipe to bust through Deadly Attacks with <symbol=button_maru>.	สูตรสารสกัดที่ทะลวง การโจมตีร้ายแรงได้ด้วย <symbol=button_maru>
+26-1110	item	Extract Recipe: Deadly Tiger 	สูตรสารสกัด: เสือมรณะ
+26-1111	item	Extract Recipe: Beatdown	สูตรสารสกัด: ทุบซ้ำ
+26-1112	item	An extract recipe to do a takedown with <symbol=button_maru> followed by a beatdown with <symbol=button_maru>.	สูตรสารสกัดที่ใช้ทุ่มด้วย <symbol=button_maru> ตามด้วยทุบซ้ำด้วย <symbol=button_maru>
+26-1113	item	Extract Recipe: One-Two Knockout	สูตรสารสกัด: น็อกเอาต์วันทูพันช์
+26-1114	item	An extract recipe to knock an enemy out in two hits with <symbol=button_maru><symbol=button_maru>.	สูตรสารสกัดที่น็อกศัตรูได้ใน สองหมัดด้วย <symbol=button_maru><symbol=button_maru>
+26-1115	item	Extract Recipe: Blazing Barrage	สูตรสารสกัด: กระหน่ำเพลิง
+26-1116	item	An extract recipe to use a guard-breaking flurry of blows with <symbol=button_maru><symbol=button_maru><symbol=button_maru><symbol=button_maru>.	สูตรสารสกัดที่ใช้กระหน่ำหมัด ทะลวงการ์ดด้วย <symbol=button_maru><symbol=button_maru><symbol=button_maru><symbol=button_maru>
+26-1117	item	Mysterious Gourd	น้ำเต้าปริศนา
+26-1118	item	A gourd that Iyama has hollowed out and filled with his special sauce.	น้ำเต้าที่อิยามะคว้านไส้แล้ว เติมซอสสูตรพิเศษของเขาลงไป
+26-1119	item	Mugwort	โกฐจุฬาลัมพา
+26-1120	item	A perennial plant strong enough to grow roadside. It's usable as a material.	พืชยืนต้นที่แข็งแรงพอจะขึ้น ข้างถนนได้ ใช้เป็นวัตถุดิบได้
+26-1121	item	Earthworm	ไส้เดือนดิน
+26-1122	item	A live worm used in traditional Chinese medicines. It's usable as a material.	หนอนตัวเป็น ๆ ที่ใช้ในตำรับยาจีนโบราณ ใช้เป็นวัตถุดิบได้
+26-1123	item	Pebble	ก้อนกรวด
+26-1124	item	An ordinary pebble that can be found anywhere. It's usable as a material.	ก้อนกรวดธรรมดาที่พบได้ทั่วไป ใช้เป็นวัตถุดิบได้
+26-1125	item	Four Leaf Clover	โคลเวอร์สี่แฉก
+26-1126	item	A rare plant that is seen as a lucky charm. It's usable as a material.	พืชหายากที่ถือเป็นเครื่องรางนำโชค ใช้เป็นวัตถุดิบได้
+26-1127	item	Mysterious Stone	หินปริศนา
+26-1128	item	A stone that emits a mysterious energy. It's usable as a material.	หินที่แผ่พลังงานลึกลับออกมา ใช้เป็นวัตถุดิบได้
+26-1129	item	Red Pyroxene	ไพรอกซีนแดง
+26-1130	item	A well-polished red pyroxene. It's usable as a material.	ไพรอกซีนแดงขัดเงาอย่างดี ใช้เป็นวัตถุดิบได้
+26-1131	item	Blue Pyroxene	ไพรอกซีนน้ำเงิน
+26-1132	item	A well-polished blue pyroxene. It's usable as a material.	ไพรอกซีนน้ำเงินขัดเงาอย่างดี ใช้เป็นวัตถุดิบได้
+26-1133	item	Yellow Pyroxene	ไพรอกซีนเหลือง
+26-1134	item	A well-polished yellow pyroxene. It's usable as a material.	ไพรอกซีนเหลืองขัดเงาอย่างดี ใช้เป็นวัตถุดิบได้
+26-1135	item	Rainbow Pyroxene	ไพรอกซีนสายรุ้ง
+26-1136	item	A well-polished rainbow pyroxene. It's usable as a material.	ไพรอกซีนสายรุ้งขัดเงาอย่างดี ใช้เป็นวัตถุดิบได้
+26-1137	item	Prize Medal	เหรียญรางวัล
+26-1138	item	From an amusement center. It's usable as a material.	มาจากศูนย์รวมเครื่องเล่น ใช้เป็นวัตถุดิบได้
+26-1139	item	Pachinko Ball	ลูกปาจิงโกะ
+26-1140	item	Small Metal Plate	แผ่นโลหะเล็ก
+26-1141	item	Probably for delicate machinery. It's usable as a material.	น่าจะใช้กับเครื่องจักรที่ ต้องการความละเอียดอ่อน ใช้เป็นวัตถุดิบได้
+26-1142	item	Empty Bottle	ขวดเปล่า
+26-1143	item	An energy drink's discarded container. It's usable as a material.	ภาชนะเครื่องดื่มชูกำลังที่ถูกทิ้ง ใช้เป็นวัตถุดิบได้
+26-1144	item	Stretchy Rubber	ยางยืด
+26-1145	item	Thin yet durable, and quite elastic. It's usable as a material.	บางแต่ทนทาน แถมยืดหยุ่นดี ใช้เป็นวัตถุดิบได้
+26-1146	item	Scratched Mirror	กระจกเป็นรอย
+26-1147	item	A looking glass that reflects its former owner. It's usable as a material.	กระจกส่องที่สะท้อนเงาเจ้าของเดิม ใช้เป็นวัตถุดิบได้
+26-1148	item	Bullet	กระสุนปืน
+26-1149	item	A metal bullet. Is it real? Either way, it's usable as a material.	กระสุนปืนโลหะ ของจริงหรือเปล่านะ? ยังไงก็ใช้เป็นวัตถุดิบได้
+26-1150	item	Dirty Cloth	ผ้าสกปรก
+26-1151	item	A rag so well-used, it's changed color. It's usable as a material.	ผ้าขี้ริ้วที่ใช้จนสีเปลี่ยนไปแล้ว ใช้เป็นวัตถุดิบได้
+26-1152	item	Cigarette Butt	ก้นบุหรี่
+26-1153	item	A smoke filter from an expensive brand. It's usable as a material.	ก้นกรองบุหรี่จากแบรนด์ราคาแพง ใช้เป็นวัตถุดิบได้
+26-1154	item	Eye of the Dragon	ตามังกร
+26-1155	item	A stone with an inscrutable shine. It's usable as a material.	หินที่มีประกายลึกลับจนคาดเดาไม่ได้ ใช้เป็นวัตถุดิบได้
+26-1156	item	Sacred Rot	ไม้ผุศักดิ์สิทธิ์
+26-1157	item	Rotting wood that still emits a divine aura. It's usable as a material.	ไม้ผุที่ยังคงแผ่รัศมีศักดิ์สิทธิ์ ใช้เป็นวัตถุดิบได้
+26-1158	item	An unchipped shell from the sea. It's usable as a material.	เปลือกหอยจากทะเลที่ไม่มีรอยบิ่น ใช้เป็นวัตถุดิบได้
+26-1159	item	Secret Technique: Reverse Beatdown	เคล็ดวิชา: ทุบซ้ำกลับหลัง
+26-1160	item	Instructions on how to kick and throw an immobilized enemy.	คำแนะนำวิธีเตะและทุ่มศัตรูที่ ถูกตรึงอยู่กับที่
+26-1161	item	This secret technique has unlocked EX Reverse Beatdown. Learn how to use it on the Skill App.	เคล็ดวิชานี้ปลดล็อก EX ถล่มกลับหลัง แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-1162	item	Secret Technique: Frontal Beatdown	เคล็ดวิชา: ทุบซ้ำด้านหน้า
+26-1163	item	Instructions on how to restrain and throw an enemy after grabbing them from the front.	คำแนะนำวิธีตรึงและทุ่มศัตรู หลังจากจับตัวจากด้านหน้า
+26-1164	item	This secret technique has unlocked EX Frontal Beatdown. Learn how to use it on the Skill App.	เคล็ดวิชานี้ปลดล็อก EX ถล่มด้านหน้า แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-1165	item	Secret Technique: Bat Appropriation	เคล็ดวิชา: ยึดไม้เบสบอล
+26-1166	item	Instructions on how to disarm an enemy and use their weapon as your own.	คำแนะนำวิธีปลดอาวุธศัตรูแล้ว ใช้อาวุธนั้นเป็นของตัวเอง
+26-1167	item	This secret technique has unlocked EX Bat Appropriation. Learn how to use it on the Skill App.	เคล็ดวิชานี้ปลดล็อก EX ริบไม้เบสบอล แล้ว เรียนรู้วิธีใช้ได้ที่แอปทักษะ
+26-1168	item	Twig	กิ่งไม้เล็ก
+26-1169	item	A twig that's been on the ground for some time. It's usable as a material.	กิ่งไม้ที่ตกอยู่บนพื้นมาสักพักแล้ว ใช้เป็นวัตถุดิบได้
+26-1170	item	Well-used Rubber	ยางใช้แล้ว
+26-1171	item	Rubber that's been used for a long time. It's usable as a material.	ยางที่ถูกใช้งานมานาน ใช้เป็นวัตถุดิบได้
+26-1172	item	Sacred Wood	ไม้ศักดิ์สิทธิ์
+26-1173	item	A piece of wood that emits a divine aura. It's usable as a material.	ท่อนไม้ที่แผ่รัศมีศักดิ์สิทธิ์ ใช้เป็นวัตถุดิบได้
+26-1174	item	Sacred Tree	ต้นไม้ศักดิ์สิทธิ์
+26-1175	item	High-quality wood that emits a divine aura. It's usable as a material.	ไม้คุณภาพสูงที่แผ่รัศมีศักดิ์สิทธิ์ ใช้เป็นวัตถุดิบได้
+26-1176	item	Solid Paint (White)	สีพื้น (ขาว)
+26-1177	item	A solid coat of white paint for drone frames.	สีพื้นสีขาวเคลือบเฟรมโดรน
+26-1178	item	Solid Paint (Black)	สีพื้น (ดำ)
+26-1179	item	A solid coat of black paint for drone frames.	สีพื้นสีดำเคลือบเฟรมโดรน
+26-1180	item	Solid Paint (Blue)	สีพื้น (น้ำเงิน)
+26-1181	item	A solid coat of blue paint for drone frames.	สีพื้นสีน้ำเงินเคลือบเฟรมโดรน
+26-1182	item	Solid Paint (Red)	สีพื้น (แดง)
+26-1183	item	A solid coat of red paint for drone frames.	สีพื้นสีแดงเคลือบเฟรมโดรน
+26-1184	item	Checkered Paint	ลายตาราง
+26-1185	item	A checkered paint pattern for drone frames.	ลวดลายตารางหมากรุกสำหรับเฟรมโดรน
+26-1186	item	Floral Paint	ลายดอกไม้
+26-1187	item	A floral paint pattern for drone frames.	ลวดลายดอกไม้สำหรับเฟรมโดรน
+26-1188	item	Colorful Paint	ลายหลากสี
+26-1189	item	A colorful paint pattern for drone frames.	ลวดลายหลากสีสันสำหรับเฟรมโดรน
+26-1190	item	Camo Paint (Green)	ลายพราง (เขียว)
+26-1191	item	A coat of green camouflage for drone frames.	สีลายพรางเขียวเคลือบเฟรมโดรน
+26-1192	item	Camo Paint (Brown)	ลายพราง (น้ำตาล)
+26-1193	item	A coat of brown camouflage for drone frames.	สีลายพรางน้ำตาลเคลือบเฟรมโดรน
+26-1194	item	Camo Paint (Blue)	ลายพราง (น้ำเงิน)
+26-1195	item	A coat of blue camouflage for drone frames.	สีลายพรางน้ำเงินเคลือบเฟรมโดรน
+26-1196	item	Anime Paint	ลายอนิเมะ
+26-1197	item	An anime paint pattern for drone frames.	ลวดลายสไตล์อนิเมะสำหรับเฟรมโดรน
+26-1198	item	Free Pass Voucher 1	บัตรผ่านฟรี 1
+26-1199	item	Exchange all 6 types of these Dice & Cube vouchers for a free pass to play all you want.	แลกบัตรกำนัล Dice & Cube ให้ครบทั้ง 6 แบบ เพื่อรับฟรีพาสเล่นได้ไม่อั้น
+26-1200	item	Free Pass Voucher 2	บัตรผ่านฟรี 2
+26-1201	item	Free Pass Voucher 3	บัตรผ่านฟรี 3
+26-1202	item	Free Pass Voucher 4	บัตรผ่านฟรี 4
+26-1203	item	Free Pass Voucher 5	บัตรผ่านฟรี 5
+26-1204	item	Free Pass Voucher 6	บัตรผ่านฟรี 6
+26-1205	item	Super Cup 1.5x Pork Kimchi Ramen	ซูเปอร์คัพราเมนหมูกิมจิ 1.5 เท่า
+26-1206	item	The original pork kimchi ramen with a rich soy sauce broth that packs a unique punch.	ราเมนหมูกิมจิต้นตำรับ น้ำซุปโชยุเข้มข้นมีเอกลักษณ์เฉพาะตัว
+26-1207	item	Yakisoba Mochichi	ยากิโซบะโมจิจิ
+26-1208	item	A stir-fry dish with delicious noodles and veggies. Served in a stylish, portable cup.	เมนูผัดเส้นและผักอร่อย เสิร์ฟในถ้วยพกพาสไตล์เก๋
+26-1209	item	Drink to the Last Drop Dandan Noodles	บะหมี่แดนแดนดื่มจนหยดสุดท้าย
+26-1210	item	An instant cup of soup so delicious, you can't help but to drink to the last drop.	ซุปกึ่งสำเร็จรูปแบบถ้วยที่ อร่อยจนต้องดื่มจนหยดสุดท้าย
+26-1211	item	Kokoroiki	โคโคโรอิกิ
+26-1212	item	A good deal for a 12-piece nigiri and a tuna roll. Comes with a large bowl of miso soup.	คุ้มสุด ๆ กับนิกิริ 12 ชิ้นและม้วนทูน่า พร้อมซุปมิโซะถ้วยใหญ่
+26-1213	item	A packet of tissues from Yakumaru Loans. Yusuke's would-be kidnappers might have dropped it at the scene of Kaito's fight.	ห่อกระดาษทิชชูจากยาคุมารุโลนส์ อาจเป็นของที่คนร้ายที่พยายาม ลักพาตัวยูซึเกะทำตกไว้ ที่จุดเกิดเหตุปะทะของไคโตะ
+26-1214	item	Sashimi Platter (5 pcs)	จานซาชิมิ (5 ชิ้น)
+26-1215	item	A platter of sashimi with five carefully selected types of fresh seafood. Enjoy!	จานซาชิมิรวมอาหารทะเลสดคัดสรรพิเศษ 5 ชนิด อร่อยเต็มคำ!
+26-1216	item	Japanese Black Mince Cutlet	คัตสึเนื้อบดวากิวญี่ปุ่น
+26-1217	item	A juicy mince cutlet with meat from the beef cattle known as the Japanese black wagyu.	คัตสึเนื้อบดฉ่ำจากเนื้อวัววา กิวญี่ปุ่นแท้
+26-1218	item	Ice Brulee	ไอซ์บรูเล่
+26-1219	item	A low-sugar vanilla dessert topped with crispy, burnt caramel for a warm, roasted flavor.	ของหวานวานิลลาหวานน้อย ราดด้วยคาราเมลไหม้กรอบ ให้รสชาติกลิ่นอายคั่วอุ่น ๆ
+26-1220	item	Seven Stars	เซเว่นสตาร์ส
+26-1221	item	Yagami's favorite brand of cigarettes.	ยี่ห้อบุหรี่โปรดของยากามิ
+26-1222	item	Panties with the same design as the ones Tsukino usually wears.	กางเกงในลายเดียวกับที่สึกิโนะ ใส่เป็นประจำ
+26-1223	item	Beef tongue cut thicker than the average specimen. This meaty dish will stick to your ribs.	ลิ้นวัวหั่นหนากว่าปกติ เมนูเนื้อแน่น ๆ ที่อิ่มท้องจนต้องขอบคุณ
+26-1224	item	Our signature menu item, drizzled with the secret sauce. It has a rich yet gentle taste.	เมนูซิกเนเจอร์ของร้าน ราดด้วยซอสสูตรลับ รสชาติเข้มข้นแต่นุ่มนวล
+26-1225	item	Our most popular menu item, beloved for its juicy fat. Goes good with the secret sauce.	เมนูขายดีที่สุดของร้าน โดดเด่นด้วยความฉ่ำมัน เข้ากันดีกับซอสสูตรลับ
+26-1226	item	XL Horumon BBQ	โฮรุมงย่าง XL
+26-1227	item	Freshly barbecued offal prepared with great care. Its miso sauce stimulates the appetite.	เครื่องในย่างสดใหม่ปรุงอย่าง พิถีพิถัน ซอสมิโซะช่วยกระตุ้นความอยากอาหาร
+26-1228	item	The owner's hand-made kimchi. Enjoy the authentic taste of a home-cooked meal.	กิมจิทำมือของเจ้าของร้าน ลิ้มรสความอร่อยแบบอาหารโฮมเมดแท้ ๆ
+26-1229	item	Put on the menu by popular demand. This dish is low on spiciness but bursting with flavor.	เมนูที่เพิ่มเข้ามาตามเสียงเรียกร้อง เผ็ดน้อยแต่รสชาติจัดจ้าน
+26-1230	item	Kim's specialty salad. Boldly flavored with a pungent dressing.	สลัดสูตรพิเศษของคิม รสจัดจ้านด้วยน้ำสลัดกลิ่นแรง
+26-1231	item	The standard draft beer. Pairs great with meat... and more beer.	เบียร์สดมาตรฐาน เข้ากันดีกับเนื้อ... และเบียร์อีกแก้ว
+26-1232	item	Cleanse your palate with this light, refreshing, non-alcoholic beverage.	ล้างปากด้วยเครื่องดื่มไม่มี แอลกอฮอล์รส เบาสดชื่นแก้วนี้
+26-1233	item	Natural Paint	สีธรรมชาติ
+26-1234	item	A natural paint pattern for drone frames.	ลายสีธรรมชาติสำหรับตัวถังโดรน
+26-1235	item	The Twisted Professor	ศาสตราจารย์โรคจิต
+26-1236	item	The Twisted Groper	หนุ่มลวนลามโรคจิต
+26-1237	item	The Twisted Judge	ผู้พิพากษาโรคจิต
+26-1238	item	The Mad Bomber Strikes	มือระเบิดบ้าคลั่งลงมือ
+26-1239	item	Master and Pupil	อาจารย์กับศิษย์
+26-1240	item	Drone Race Interlude	ช่วงพักแข่งโดรน
+26-1241	item	VR Salon: Paradise Open Now	VR Salon: Paradise เปิดแล้ววันนี้
+26-1242	item	Justice Is Sweet	ความยุติธรรมหอมหวาน
+26-1243	item	The Missing Diamond	เพชรที่หายไป
+26-1244	item	Yagami's Phone	โทรศัพท์ของยากามิ
+26-1245	item	QR Code: Gotcha!	คิวอาร์โค้ด: จับได้แล้ว!
+26-1246	item	A QR code found on a poster. Somehow, it gives me the stamina to escape from trouble.	คิวอาร์โค้ดที่เจอบนโปสเตอร์ ไม่รู้ทำไมมันให้พลังหนีปัญหาได้
+26-1247	item	Scanning this QR code unlocked Blessing of the Wind God. Learn how to use it on the Skill App.	สแกนคิวอาร์โค้ดนี้ปลดล็อก "พรแห่งเทพลม" ดูวิธีใช้ได้ที่แอปทักษะ
+26-1248	item	QR Code: Hang in There!	คิวอาร์โค้ด: อดทนไว้!
+26-1249	item	A QR code found on a poster. After those motivational words, I can keep on trucking.	คิวอาร์โค้ดที่เจอบนโปสเตอร์ หลังได้ยินคำให้กำลังใจนี้ก็ลุยต่อไหว
+26-1250	item	Scanning this QR code unlocked Dire Determination. Learn how to use it on the Skill App.	สแกนคิวอาร์โค้ดนี้ปลดล็อก "ความมุ่งมั่นสุดขีด" ดูวิธีใช้ได้ที่แอปทักษะ
+26-1251	item	QR Code: Toraotoshi	คิวอาร์โค้ด: โทระโอโทชิ
+26-1252	item	A QR code found on a poster. Legends tell of a man strong enough to defeat tigers with his bare hands.	คิวอาร์โค้ดที่เจอบนโปสเตอร์ ตำนานเล่าถึงชายผู้แข็งแกร่งพอ จะปราบเสือด้วยมือเปล่า
+26-1253	item	Scanning this QR code unlocked Tiger Drop. Learn how to use it on the Skill App.	สแกนคิวอาร์โค้ดนี้ปลดล็อก "ไทเกอร์ดรอป" ดูวิธีใช้ได้ที่แอปทักษะ
+26-1254	item	QR Code: Learn Remotely!	คิวอาร์โค้ด: เรียนทางไกล!
+26-1255	item	A QR code found on a poster. It offers online courses for mastering VR Shingen-style qigong.	คิวอาร์โค้ดที่เจอบนโปสเตอร์ เปิดคอร์สออนไลน์สอนชี่กงสไตล์ ชินเง็นผ่าน VR
+26-1256	item	Scanning this QR code unlocked EX Light Bullet. Learn how to use it on the Skill App.	สแกนคิวอาร์โค้ดนี้ปลดล็อก "EX กระสุนแสง" ดูวิธีใช้ได้ที่แอปทักษะ
+26-1257	item	QR Code: Ultimate King Tournament!	คิวอาร์โค้ด: ทัวร์นาเมนต์ราชาสูงสุด!
+26-1258	item	A QR code found on a poster. I love a good tourney, but they already had me at "Ultimate."	คิวอาร์โค้ดที่เจอบนโปสเตอร์ ผมชอบทัวร์นาเมนต์เจ๋ง ๆ อยู่แล้ว แต่แค่คำว่า "สูงสุด" ก็โดนใจแล้ว
+26-1259	item	Scanning this QR code unlocked EX Tiger Dances With Crane. Learn how to use it on the Skill App.	สแกนคิวอาร์โค้ดนี้ปลดล็อก "EX เสือรำกับกระเรียน" ดูวิธีใช้ได้ที่แอปทักษะ
+26-1260	item	[Launch Edition] Staminan X	[รุ่นวางจำหน่าย] สตามินัน X
+26-1261	item	A special bottle of Staminan X only distributed to certain people. This energy drink restores health and charges the EX Gauge a little.	ขวด สตามินัน X พิเศษที่แจกเฉพาะบางคนเท่านั้น เครื่องดื่มชูกำลังนี้ฟื้นฟู พลังชีวิตและเติมเกจ EX เล็กน้อย
+26-1262	item	[Launch Edition] Hug Bomb Spark Alpha	[รุ่นวางจำหน่าย] ระเบิดกอด สปาร์คอัลฟา
+26-1263	item	A special bottle of Hug Bomb Spark Alpha only distributed to certain people. Experience a hug in liquid form. A fresh twist to the classic recipe!	ขวด ระเบิดกอด สปาร์คอัลฟา พิเศษที่แจกเฉพาะบางคนเท่านั้น สัมผัสอ้อมกอดในรูปแบบของเหลว มาพร้อมสูตรใหม่จากสูตรคลาสสิก!
+26-1264	item	[Launch Edition] Medical Kit (S)	[รุ่นวางจำหน่าย] ชุดปฐมพยาบาล (S)
+26-1265	item	A special medical kit distributed to certain people to treat mortal wounds. Small health recovery.	ชุดปฐมพยาบาลพิเศษที่แจกเฉพาะ บางคนเพื่อรักษาบาดแผลสาหัส ฟื้นฟูพลังชีวิตเล็กน้อย
+26-1266	item	[Bonus Code] Toughness Z	[โค้ดโบนัส] Toughness Z
+26-1267	item	A special bottle of Toughness Z only distributed to certain people. The perfect drink for healing a little bit of health.	ขวด Toughness Z พิเศษที่แจกเฉพาะบางคนเท่านั้น เครื่องดื่มที่ลงตัวสำหรับ ฟื้นฟูพลังชีวิตเล็กน้อย
+26-1268	item	[Bonus Code] Tauriner	[โค้ดโบนัส] Tauriner
+26-1269	item	A special bottle of Tauriner only distributed to certain people. This energy drink charges the EX Gauge a little.	ขวด Tauriner พิเศษที่แจกเฉพาะบางคนเท่านั้น เครื่องดื่มชูกำลังนี้เติมเกจ EX เล็กน้อย
+26-1270	item	[Bonus Code] Staminan X	[โค้ดโบนัส] สตามินัน X
+26-1271	item	A special bottle of Staminan X only distributed to certain people. This drink restores health and charges the EX Gauge a little.	ขวด สตามินัน X พิเศษที่แจกเฉพาะบางคนเท่านั้น เครื่องดื่มนี้ฟื้นฟูพลังชีวิต และเติมเกจ EX เล็กน้อย
+26-1272	item	[Bonus Code] Hug Bomb	[โค้ดโบนัส] ระเบิดกอด
+26-1273	item	A special bottle of Hug Bomb only distributed to certain people. Experience a hug in liquid form.	ขวด ระเบิดกอด พิเศษที่แจกเฉพาะบางคนเท่านั้น สัมผัสอ้อมกอดในรูปแบบของเหลว
+26-1274	item	[Bonus Code] Hug Bomb Spark Alpha	[โค้ดโบนัส] ระเบิดกอด สปาร์คอัลฟา
+26-1275	item	[Bonus Code] Hug Bomb Spark Beta	[โค้ดโบนัส] ระเบิดกอด สปาร์คเบตา
+26-1276	item	[Bonus Code] Hug Bomb Explosion Omega	[โค้ดโบนัส] ระเบิดกอด เอ็กซ์โพลชันโอเมกา
+26-1277	item	[Bonus Code] Medical Kit (S)	[โค้ดโบนัส] ชุดปฐมพยาบาล (S)
+26-1278	item	[Bonus Code] Medical Kit (M)	[โค้ดโบนัส] ชุดปฐมพยาบาล (M)
+26-1279	item	A special medical kit distributed to certain people to treat mortal wounds. Medium health recovery.	ชุดปฐมพยาบาลพิเศษที่แจกเฉพาะ บางคนเพื่อรักษาบาดแผลสาหัส ฟื้นฟูพลังชีวิตปานกลาง
+26-1280	item	[Bonus Code] Medical Kit (L)	[โค้ดโบนัส] ชุดปฐมพยาบาล (L)
+26-1281	item	A special medical kit distributed to certain people to treat mortal wounds. Large health recovery.	ชุดปฐมพยาบาลพิเศษที่แจกเฉพาะ บางคนเพื่อรักษาบาดแผลสาหัส ฟื้นฟูพลังชีวิตมาก
+26-1282	item	[Bonus Code] Seaweed Onigiri	[โค้ดโบนัส] โอนิกิริสาหร่าย
+26-1283	item	A special onigiri only distributed to certain people. A rice ball with boiled seaweed at its center.	โอนิกิริพิเศษที่แจกเฉพาะบางคน เท่านั้น ข้าวปั้นสอดไส้สาหร่ายต้ม
+26-1284	item	[Bonus Code] Tuna Onigiri	[โค้ดโบนัส] โอนิกิริทูน่า
+26-1285	item	A special onigiri only distributed to certain people. This rice ball has tuna tossed with mayonnaise at its center.	โอนิกิริพิเศษที่แจกเฉพาะบางคน เท่านั้น ข้าวปั้นสอดไส้ทูน่าคลุกมายองเนส
+26-1286	item	[Bonus Code] Salmon Onigiri	[โค้ดโบนัส] โอนิกิริแซลมอน
+26-1287	item	A special onigiri only distributed to certain people. This classic rice ball has a moist salmon flake filling.	โอนิกิริพิเศษที่แจกเฉพาะบางคน เท่านั้น ข้าวปั้นสูตรคลาสสิกสอดไส้ แซลมอนแฟลกฉ่ำ ๆ
+26-1288	item	[Bonus Code] Fresh Lettuce Sandwich	[โค้ดโบนัส] แซนด์วิชผักกาดสด
+26-1289	item	A special sandwich only distributed to certain people. It's about as filling as you might expect.	แซนด์วิชพิเศษที่แจกเฉพาะบางคน เท่านั้น อิ่มท้องสมชื่อตามที่คาดไว้
+26-1290	item	[Bonus Code] Tuna & Egg Sandwich	[โค้ดโบนัส] แซนด์วิชทูน่าไข่
+26-1291	item	A special sandwich only distributed to certain people. This sandwich features an egg-mayo mix with tuna on white bread.	แซนด์วิชพิเศษที่แจกเฉพาะบางคน เท่านั้น ใส่ไข่คลุกมายองเนสผสมทูน่าบน ขนมปังขาว
+26-1292	item	[Bonus Code] Oden	[โค้ดโบนัส] โอเด้ง
+26-1293	item	Special oden only distributed to certain people. A hearty stew packed with more than enough assorted goodies to satisfy your hunger.	โอเด้งพิเศษที่แจกเฉพาะบางคนเท่านั้น สตูว์เข้มข้นอัดแน่นด้วยของกินรวมมิตร อิ่มท้องหายหิวแน่นอน
+26-1294	item	[Bonus Code] Bento Lunch Set	[โค้ดโบนัส] ชุดเบนโตะมื้อกลางวัน
+26-1295	item	A special bento box only distributed to certain people. It's enough to fill you up for a while.	กล่องเบนโตะพิเศษที่แจกเฉพาะ บางคนเท่านั้น อิ่มท้องได้อยู่นาน
+26-1296	item	[Bonus Code] Special Yakisoba	[โค้ดโบนัส] ยากิโซบะพิเศษ
+26-1297	item	Special yakisoba only distributed to certain people. The smell of the sauce is simply irresistible.	ยากิโซบะพิเศษที่แจกเฉพาะบางคน เท่านั้น กลิ่นซอสหอมจนต้านทานไม่ไหว
+26-1298	item	[Bonus Code] Pork Tonkatsu Bento	[โค้ดโบนัส] เบนโตะทงคัตสึหมู
+26-1299	item	A special bento only distributed to certain people. This tonkatsu lunch set is made with rich Satsuma pork.	เบนโตะพิเศษที่แจกเฉพาะบางคนเท่านั้น ชุดทงคัตสึทำจากเนื้อหมูซัตสึมะ เข้มข้น
+26-1300	item	[Bonus Code] Healthy Balanced Bento	[โค้ดโบนัส] เบนโตะสมดุลเพื่อสุขภาพ
+26-1301	item	A special bento only distributed to certain people. This nutritious lunch set features ten traditional Japanese foods. Enjoyed by all.	เบนโตะพิเศษที่แจกเฉพาะบางคนเท่านั้น ชุดอาหารกลางวันบำรุงร่างกาย ด้วยอาหารญี่ปุ่นดั้งเดิม 10 อย่าง ถูกใจทุกคน
+26-1302	item	[Bonus Code] Luxury Yakiniku Bento	[โค้ดโบนัส] เบนโตะยากินิกุสุดหรู
+26-1303	item	A special bento only distributed to certain people. A luxurious boxed lunch that lavishly lays on the grilled meat.	เบนโตะพิเศษที่แจกเฉพาะบางคนเท่านั้น กล่องข้าวสุดหรูที่จัดเต็มเนื้อ ย่างไม่อั้น
+26-1304	item	[Bonus Code] Sushi Set	[โค้ดโบนัส] ชุดซูชิ
+26-1305	item	A special sushi set only distributed to certain people. A sushi combo filled with a selection of nigiri. Popular with all ages and genders.	ชุดซูชิพิเศษที่แจกเฉพาะบางคนเท่านั้น คอมโบซูชิรวมนิกิริหลากชนิด ถูกใจทุกเพศทุกวัย
+26-1306	item	[Bonus Code] Sake	[โค้ดโบนัส] สาเก
+26-1307	item	A special bottle of sake only distributed to certain people. This large bottle of rice wine can be enjoyed heated or chilled.	ขวดสาเกพิเศษที่แจกเฉพาะบางคนเท่านั้น เหล้าข้าวขวดใหญ่ที่ดื่มได้ทั้ง แบบอุ่นและแบบเย็น
+26-1308	item	[Launch Edition] Detective Support Pack	[รุ่นวางจำหน่าย] แพ็กสนับสนุนนักสืบ
+26-1309	item	Detective Support Pack 2	แพ็กสนับสนุนนักสืบ 2
+26-1310	item	Landlady's Gift Basket	ตะกร้าของขวัญจากเจ้าของบ้านเช่า
+26-1311	item	Newbie Detective Pack	แพ็กนักสืบมือใหม่
+26-1312	item	Truthseeker Pack	แพ็กผู้แสวงหาความจริง
+26-1313	item	Drone Racer Pack	แพ็กนักแข่งโดรน
+26-1314	item	Extract Crafter Pack	แพ็กช่างปรุงสารสกัด
+26-1315	item	Ace Detective Pack	แพ็กนักสืบมือฉมัง
+26-1316	item	DLC Side Case 1	DLC คดีเสริม 1
+26-1317	item	DLC Side Case 2	DLC คดีเสริม 2
+26-1318	item	DLC Side Case 3	DLC คดีเสริม 3
+26-1319	item	DLC Side Case 4	DLC คดีเสริม 4
+26-1320	item	DLC Side Case 5	DLC คดีเสริม 5
+26-1321	item	[Bonus] Play Pass	[โบนัส] เพลย์พาส
+26-1322	item	Energy Ball Extract	สารสกัดลูกบอลพลังงาน
+26-1323	item	A mysterious extract that allows you to fire energy balls from your hands with <symbol=button_maru>. Duration: 15 seconds.	สารสกัดปริศนาที่ทำให้ยิงลูกบอล พลังงานจากมือได้ด้วย <symbol=button_maru> ระยะเวลา: 15 วินาที
+26-1324	item	Energy Explosion Extract	สารสกัดระเบิดพลังงาน
+26-1325	item	A mysterious extract that lets you trigger an explosion with <symbol=button_maru>. Duration: 15 seconds.	สารสกัดปริศนาที่ทำให้จุดระเบิด ได้ด้วย <symbol=button_maru> ระยะเวลา: 15 วินาที
+26-1326	item	Instant Kill Extract	สารสกัดสังหารทันที
+26-1327	item	A mysterious extract that lets you deal a massive amount of damage in an instant with <symbol=button_maru>. Duration: 5 seconds.	สารสกัดปริศนาที่ทำให้สร้าง ความเสียหายมหาศาลทันทีด้วย <symbol=button_maru> ระยะเวลา: 5 วินาที
+26-1328	item	Fire Element Extract	สารสกัดธาตุไฟ
+26-1329	item	A mysterious extract that engulfs all your attacks in flames. Duration: 30 seconds.	สารสกัดปริศนาที่ห่อหุ้มการ โจมตีทุกครั้งด้วยเปลวไฟ ระยะเวลา: 30 วินาที
+26-1330	item	Lightning Element Extract	สารสกัดธาตุสายฟ้า
+26-1331	item	A mysterious extract that charges all your attacks with electricity. Duration: 30 seconds.	สารสกัดปริศนาที่อัดกระแสไฟฟ้า ใส่การโจมตีทุกครั้ง ระยะเวลา: 30 วินาที
+26-1332	item	Heavenstrike Extract	สารสกัดสายฟ้าสวรรค์
+26-1333	item	A mysterious extract that lets you exact divine punishment on your foes with <symbol=button_maru>. Duration: 10 seconds.	สารสกัดปริศนาที่ทำให้ลงทัณฑ์ จากสวรรค์ใส่ศัตรูได้ด้วย <symbol=button_maru> ระยะเวลา: 10 วินาที
+26-1334	item	Fighting Spirit Dance Extract	สารสกัดระบำจิตวิญญาณนักสู้
+26-1335	item	A mysterious extract that causes your EX Gauge to gradually fill. Press <symbol=button_maru> to replenish HP. Duration: 90 seconds.	สารสกัดปริศนาที่ทำให้เกจ EX ค่อย ๆ เติมเต็ม กด <symbol=button_maru> เพื่อฟื้นฟู HP ระยะเวลา: 90 วินาที
+26-1336	item	Dance of Life Extract	สารสกัดระบำแห่งชีวิต
+26-1337	item	A mysterious extract that causes your HP to gradually replenish. Press <symbol=button_maru> to fill your EX Gauge. Duration: 90 seconds.	สารสกัดปริศนาที่ทำให้ HP ค่อย ๆ ฟื้นฟู กด <symbol=button_maru> เพื่อเติมเกจ EX ระยะเวลา: 90 วินาที
+26-1338	item	Mystical Dance Extract	สารสกัดระบำเวทมนตร์
+26-1339	item	A mysterious extract that prevents you from dying for a limited time. Press <symbol=button_maru> to fill your EX Gauge and HP. Duration: 90 seconds.	สารสกัดปริศนาที่ป้องกันไม่ให้ ตายในช่วงเวลาจำกัด กด <symbol=button_maru> เพื่อเติมทั้งเกจ EX และ HP ระยะเวลา: 90 วินาที
+26-1340	item	Tama	ทามะ
+26-1341	item	Musashi	มุซาชิ
+26-1342	item	Hana	ฮานะ
+26-1343	item	Lucy	ลูซี่
+26-1344	item	Selene	เซเลเน่
+26-1345	item	Matthew	แมทธิว
+26-1346	item	Tora	โทระ
+26-1347	item	Chacha	ชะชะ
+26-1348	item	Kuro	คุโระ
+26-1349	item	Oliver	โอลิเวอร์
+26-1350	item	Noel	โนเอล
+26-1351	item	Forte	ฟอร์เต
+26-1352	item	Jasmine	จัสมิน
+26-1353	item	Mochi	โมจิ
+26-1354	item	Haruka Sawamura So Much More! Figurine	ฟิกเกอร์ฮารุกะ ซาวามุระ So Much More!
+26-1355	item	A figurine of Haruka Sawamura, the idol who made shockwaves with her meteoric rise and abrupt retirement.	ฟิกเกอร์ของฮารุกะ ซาวามุระ ไอดอลที่สร้างแรงสั่นสะเทือน ด้วยการโด่งดังอย่าง รวดเร็วและการรีไทร์อย่างกะทันหัน
+26-1356	item	Haruka Sawamura DREAMLINE Figurine	ฟิกเกอร์ฮารุกะ ซาวามุระ DREAMLINE
+26-1357	item	Haruka's outfit from her once-in-a-lifetime performance with the idol duo T-SET at the Japan Dome.	ชุดของฮารุกะจากการแสดง ครั้งหนึ่งในชีวิตร่วมกับดูโอ ไอดอล T-SET ที่ Japan Dome
+26-1358	item	Ono Michio Figurine	ฟิกเกอร์โอโนะ มิชิโอะ
+26-1359	item	A figurine of Ono Michio, symbol of Onomichi, complete with cool boots, vital for any fisherman.	ฟิกเกอร์ของโอโนะ มิชิโอะ สัญลักษณ์แห่งโอโนะมิจิ พร้อมรองเท้าบูตสุดเท่ ของจำเป็นสำหรับชาวประมงทุกคน
+26-1360	item	Bram Sylvania III Figurine	ฟิกเกอร์แบรม ซิลเวเนียที่ 3
+26-1361	item	A vampire who hails from the deepest pits of hell, sculpted as a figure for his adoring human sacrifices.	แวมไพร์ผู้มาจากขุมนรกลึกที่สุด ถูกปั้นเป็นฟิกเกอร์เพื่อเหล่า มนุษย์ที่ยอมสละชีพให้ เขาด้วยความหลงใหล
+26-1362	item	King Koro-nyan	ราชาโคโระเนียง
+26-1363	item	A character from Dice & Cube. This limited edition figure is extra large.	ตัวละครจาก Dice & Cube ฟิกเกอร์รุ่นลิมิเต็ดตัวนี้มี ขนาดใหญ่พิเศษ
+26-1364	item	Racing Jacket	แจ็กเก็ตแข่งรถ
+26-1365	item	A white sweater and black jacket give this outfit a mix of cute and cool. (Sana Mihama only.)	เสื้อสเวตเตอร์สีขาวคู่แจ็กเก็ตสีดำ ผสมผสานความน่ารักกับความเท่ (เฉพาะซานะ มิฮามะเท่านั้น)
+26-1366	item	Refined Lady	สาวหรูหรา
+26-1367	item	A slender dress that gives off an elegant air. (Tsukino Saotome only.)	ชุดเดรสทรงเพรียวที่ให้ ความรู้สึกสง่างาม (เฉพาะสึกิโนะ ซาโอโตเมะเท่านั้น)
+26-1368	item	Kimono	กิโมโน
+26-1369	item	With its vivid accents on a dark base color, this kimono is sure to leave an impression. (Amane only.)	กิโมโนโทนสีเข้มแต่งแต้มด้วย ลวดลายสดใส สร้างความประทับใจได้แน่นอน (เฉพาะอามาเนะเท่านั้น)
+26-1370	item	Jacket	แจ็กเก็ต
+26-1371	item	A chic design for a stylish woman. (Nanami Matsuoka only.)	ดีไซน์เก๋สำหรับสาวมีสไตล์ (เฉพาะนานามิ มัตสึโอกะเท่านั้น)
+26-1372	item	Rental Cats: First Litter	แมวให้เช่า: ครอกแรก
+26-1373	item	Rental Cats: Second Litter	แมวให้เช่า: ครอกที่สอง
+26-1374	item	Rental Cats: Third Litter	แมวให้เช่า: ครอกที่สาม
+26-1375	item	Rental Cats: Fourth Litter	แมวให้เช่า: ครอกที่สี่
+26-1376	item	Rental Cats: Fifth Litter	แมวให้เช่า: ครอกที่ห้า
+26-1377	item	10 Play Passes	เพลย์พาส 10 ใบ
+26-1378	item	Extract Pack	แพ็กสารสกัด
+26-1379	item	Drone Frame: Decked-out Drone	ตัวถังโดรน: โดรนแต่งเต็ม
+26-1380	item	Drone Frame: Drone-nyan	ตัวถังโดรน: โดรนเนียง
+26-1381	item	Drone Frame: Kaito's Lifelike Pigeon	ตัวถังโดรน: นกพิราบเหมือนจริงของไคโตะ
+26-1382	item	Drone Frame: UFO	ตัวถังโดรน: UFO
+26-1383	item	Hit the Town with Saori	ออกเที่ยวเมืองกับซาโอริ
+26-1384	item	Extra Camera Filters	ฟิลเตอร์กล้องเพิ่มเติม
+26-1385	item	Sana Mihama - Racing Jacket	ซานะ มิฮามะ - แจ็กเก็ตแข่งรถ
+26-1386	item	Tsukino Saotome - Refined Lady	สึกิโนะ ซาโอโตเมะ - สาวหรูหรา
+26-1387	item	Amane - Kimono	อามาเนะ - กิโมโน
+26-1388	item	Nanami Matsuoka - Jacket	นานามิ มัตสึโอกะ - แจ็กเก็ต
+26-1389	pause_message	Inbox	กล่องข้อความ
+26-1390	pause_message	Outbox	กล่องข้อความส่ง
+26-1391	pause_message	Yagami-kun, thanks to you I have more confidence in my cooking! Now I'll have no problem opening up my izakaya.	ยากามิคุง ต้องขอบคุณเลยนะคะที่ทำให้ฉัน มั่นใจในฝีมือทำอาหารมากขึ้น! ตอนนี้ไม่มีปัญหาเรื่องเปิดร้าน อิซากายะของฉันแล้วล่ะ
+26-1392	pause_message	(Oh, it's a message from Tomioka-san.)	(อ้อ ข้อความจากโทมิโอกะซังนี่เอง)
+26-1393	pause_message	...That's what I'd like to say, but I have all sorts of preparations to do, so it might take a while.	...อยากจะพูดแบบนั้นนะคะ แต่ยังมีเรื่องต้องเตรียมอีกสารพัด คงต้องใช้เวลาอีกสักหน่อย
+26-1394	pause_message	It'll happen sometime in the not-too-distant future.	คงเกิดขึ้นในอีกไม่ช้าไม่นาน นี้แหละค่ะ
+26-1395	pause_message	But for now, I'll continue to enjoy cooking with your advice in mind. I'll be sure to make you more goodies on occasion.	แต่ตอนนี้ฉันจะสนุกกับการทำอาหารต่อไป โดยจำคำแนะนำของคุณไว้เสมอ แล้วจะทำของอร่อย ๆ มาให้อีกเรื่อย ๆ นะคะ
+26-1396	pause_message	Well then. Looks like I'll be seeing you around!	งั้นก็แล้วกันนะคะ เดี๋ยวคงได้เจอกันอีก!
+26-1397	pause_message	Glad I could be of service!	ดีใจที่ได้ช่วยนะครับ
+26-1398	pause_message	Thank you for the meal!	ขอบคุณสำหรับอาหารครับ
+26-1399	pause_message	I'll get you that rent as soon as humanly possible.	เดี๋ยวผมจะรีบเอาค่าเช่ามาให้ เร็วที่สุดเท่าที่จะทำได้เลย ครับ
+26-1400	pause_message	Oh no, it was my pleasure!	ไม่หรอกครับ ผมเต็มใจอยู่แล้ว!
+26-1401	pause_message	Thank you! I look forward to seeing you complete your big, important case. Then you can pay me all the rent you owe! <symbol=message_heart1>	ขอบคุณค่ะ! รอดูวันที่คุณจะไขคดีสำคัญ ใหญ่โตให้สำเร็จอยู่นะ แล้วค่อยเอาค่าเช่าที่ค้างมา คืนให้หมดเลยก็ได้! <symbol=message_heart1>
+26-1402	pause_message	Thanks again for cooking! Can't wait to see that izakaya of yours.	ขอบคุณสำหรับอาหารอีกครั้งนะครับ! รอดูร้านอิซากายะของคุณอยู่เลย
+26-1403	pause_message	Don't mention it! Oh, but it'll be a little longer till I can pay my rent...	ไม่เป็นไรครับ! อ้อ แต่คงต้องรออีกนิดกว่าจะจ่าย ค่าเช่าของผมได้...
+26-1404	pause_message	Alright alright, enough with that already. But don't take too long, okay?	เอาน่า เอาน่า พอเถอะค่ะเรื่องนั้น แต่อย่าปล่อยไว้นานเกินไปล่ะ
+26-1405	pause_message	(Guess that about wraps it up. I'm glad I was able to pay my dues, even if all I did was eat.)	(คงจบแค่นี้แหละ ดีใจที่ได้ตอบแทนบุญคุณบ้าง ถึงจะแค่กินอาหารก็เถอะ)
+26-1406	pause_message	(Though what I really should be paying is my rent...)	(แต่ที่ควรจ่ายจริง ๆ คือค่าเช่าของผมต่างหาก...)
+26-1407	pause_message	Sorry to bug, Yagami-shi, but I kinda need to ask\na small favor.	ขอโทษที่มารบกวนนะครับ ยากามิ แต่ผมมีเรื่องอยากขอความช่วยเหลือ\nนิดหน่อยน่ะ
+26-1408	pause_message	Just think of it as paying me back for last time.	คิดซะว่าตอบแทนที่ช่วยไว้ คราวก่อนก็แล้วกันนะครับ
+26-1409	pause_message	Fair enough. What do you need me to do?	ก็ได้ อยากให้ผมทำอะไร
+26-1410	pause_message	Buy me a model figure. There's a specific one I've been looking for, and apparently they have it at Ebisu...	ช่วยซื้อฟิกเกอร์ให้ผมทีครับ มีตัวที่ผมตามหาอยู่ตัวหนึ่ง ได้ยินว่ามีขายที่เอบิสึ...
+26-1411	pause_message	Which makes sense, since they're limited-edition and sold out everywhere else. This may be my only chance to get it!	ก็สมเหตุสมผลอยู่นะครับ เพราะมันเป็นรุ่นลิมิเต็ดที่ขาย หมดทุกที่แล้ว นี่อาจเป็นโอกาสสุดท้ายที่จะได้ มันมาเลย!
+26-1412	pause_message	All right. I'll see what I can do.	ได้ ผมจะลองดูให้
+26-1413	pause_message	They're having technical difficulties with the plane, so I'm off the hook! Heading back now.	เครื่องบินมีปัญหาทางเทคนิค เลยรอดตัวไปเลย! กำลังกลับไปแล้วนะ
+26-1414	pause_message	Sorry about earlier, Mafuyu. I was... undercover and I said some things I shouldn't have.	ขอโทษเรื่องเมื่อกี้นะ มาฟุยุ ผม... ปลอมตัวอยู่ แล้วก็พูดอะไรไปหลายอย่างที่ไม่ควรพูด
+26-1415	pause_message	Oh, I'm sorry. I should have known better. I hope I didn't mess anything up for you.	อ้อ ขอโทษเหมือนกันนะ ฉันน่าจะรู้ตัวดีกว่านี้ หวังว่าจะไม่ทำให้อะไรของยากามิ พังไปนะ
+26-1416	pause_message	Help! I've been kidnapped by a stalker	ช่วยด้วย! ฉันถูกสตอล์กเกอร์ลักพาตัวไป
+26-1417	pause_message	Do you know where you are?	รู้ไหมว่าตอนนี้อยู่ที่ไหน
+26-1418	pause_message	Car, tied up in trunk	อยู่ในรถ ถูกมัดอยู่ในท้ายรถ
+26-1419	pause_message	(Hm. Tied up in a trunk? Not good.)	(อืม มัดอยู่ในท้ายรถเหรอ ไม่ดีเลย)
+26-1420	pause_message	How are you contacting me? Your cell?	ติดต่อผมได้ยังไง ใช้มือถือเหรอ
+26-1421	pause_message	Threw cell away. Watch.	โยนมือถือทิ้งไปแล้ว ใช้นาฬิกาอยู่
+26-1422	pause_message	(Her smart watch! That means she can move her fingers, at least.)	(นาฬิกาสมาร์ทวอทช์ของเธอ! แปลว่าอย่างน้อยเธอยังขยับนิ้วได้)
+26-1423	pause_message	Can you call the police?	โทรแจ้งตำรวจได้ไหม
+26-1424	pause_message	He'll know. Don't know where I am. Emailed friend to call cops	เดี๋ยวเขารู้แน่ ไม่รู้ว่าตัวเองอยู่ไหน ส่งอีเมลให้เพื่อนโทรแจ้งตำรวจแล้ว
+26-1425	pause_message	So the police are on it... But if they're not fast enough...	งั้นตำรวจก็รู้เรื่องแล้ว... แต่ถ้าพวกเขามาไม่ทันล่ะก็...
+26-1426	pause_message	Is there anything that would give you a location?	มีอะไรที่พอจะบอกตำแหน่งได้บ้างไหม
+26-1427	pause_message	Can you tell me the model, shape, or color of the car?	บอกรุ่น รูปทรง หรือสีของรถได้ไหม
+26-1428	pause_message	Black, square, big	สีดำ ทรงเหลี่ยม คันใหญ่
+26-1429	pause_message	A van?	รถตู้เหรอ
+26-1430	pause_message	Where were you kidnapped?	ถูกลักพาตัวไปจากที่ไหน
+26-1431	pause_message	Battery dying!	แบตใกล้หมดแล้ว!
+26-1432	pause_message	Damn! What other details should I get from her?	(บ้าเอ๊ย! ต้องถามรายละเอียดอะไรจากเธออีกดีนะ)
+26-1433	pause_message	Do you know which direction the car came when you were kidnapped or which way it went after?	รู้ไหมว่าตอนถูกลักพาตัว รถมาจากทิศไหน แล้วหลังจากนั้นไปทางไหน
+26-1434	pause_message	Came from Senryo, went south	มาจากเซ็นเรียว แล้วไปทางใต้
+26-1435	pause_message	Do you know how many turns the car took after you were kidnapped?	รู้ไหมว่าหลังจากถูกลักพาตัว รถเลี้ยวไปกี่ครั้ง
+26-1436	pause_message	I think 5	คิดว่า 5 ครั้ง
+26-1437	pause_message	Car hasn't moved	รถไม่ขยับเลย
+26-1438	pause_message	Then... It might have not left Kamurocho yet.	งั้น... รถอาจยังไม่ออกจากคามุโรโจก็ได้
+26-1439	pause_message	Have you heard any distinct sounds around you?	ได้ยินเสียงอะไรที่เป็น เอกลักษณ์รอบตัวบ้างไหม
+26-1440	pause_message	Loud place, now quiet	เมื่อกี้เสียงดัง ตอนนี้เงียบแล้ว
+26-1441	pause_message	Ramen	ราเมน
+26-1442	pause_message	Ramen?	ราเมน?
+26-1443	pause_message	Smell ramen after car stopped	ได้กลิ่นราเมนหลังรถจอด
+26-1444	pause_message	A ramen store on a quiet street... I think that's enough to go on.	ร้านราเมนบนถนนเงียบ ๆ... คิดว่าแค่นี้ก็พอจะสืบต่อได้แล้ว
+26-1445	pause_message	Battery dying	แบตใกล้หมด
+26-1446	pause_message	Crap.	แย่แล้ว
+26-1447	pause_message	Model or car color?	รุ่นหรือสีรถ?
+26-1448	pause_message	Direction the car went?	รถไปทางไหน?
+26-1449	pause_message	How many times the car turned?	รถเลี้ยวกี่ครั้ง?
+26-1450	pause_message	Do you know where you were kidnapped?	รู้ไหมว่าถูกลักพาตัวไปจากที่ไหน
+26-1451	pause_message	Nearby sounds?	เสียงรอบข้าง?
+26-1452	pause_message	Ohata	โอฮาตะ
+26-1453	pause_message	Yagami-san, thanks for this. I'll forward you the picture I got from Ayumu.	ยากามิซัง ขอบคุณมากเลยนะครับ เดี๋ยวผมจะส่งรูปที่ได้จาก อายุมุให้ดูนะ
+26-1454	pause_message	(Where is this?)	(นี่ที่ไหนกันนะ?)
+26-1455	pause_message	(I should check out anywhere that looks similar, I guess. Couldn't hurt to ask people who might've seen him, too.)	(คงต้องลองไปดูที่ที่คล้าย ๆ กันนี้ดู จะถามคนที่อาจเคยเห็นเขาด้วยก็ ไม่เสียหาย)
+26-1456	pause_message	Yagami-san, this is the picture Ayumu sent me. Thank you again!	ยากามิซัง นี่คือรูปที่อายุมุส่งมาให้ผมครับ ขอบคุณอีกครั้งนะครับ!
+26-1457	pause_message	Image from Ayumu: Location Not Available	ภาพจากอายุมุ: ไม่พบตำแหน่งที่ตั้ง
+26-1458	pause_message	(It's high up again, but what's that in the middle?)	(สูงอีกแล้วสินะ แต่ตรงกลางนั่นคืออะไรนะ?)

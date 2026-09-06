@@ -1,0 +1,1348 @@
+id	bin	EN	TH
+05-0001	talk	This fine, upstanding gentlemen over here said he'd be happy to foot the bill.	คุณสุภาพบุรุษหน้าตาดีคนนี้บอ กว่ายินดีจะออกบิลให้เองนะ
+05-0002	talk	Really? Wow, thank you so much!	จริงเหรอ? โห ขอบคุณมาก ๆ เลยนะ!
+05-0003	talk	You're such a sweetheart, Tak. Really, you're <font_kind=yakuza_italic>too</font_kind> kind!	นายนี่ใจดีจริง ๆ นะ ทาคุ พูดจริง ๆ นะ นายใจดี<font_kind=yakuza_italic>เกินไป</font_kind>แล้ว!
+05-0004	talk	No! No way! Augh...	ไม่นะ! ไม่เอาน่า! อ้าก...
+05-0005	talk	(That... was horrible. At least we're all settled up now.)	(นั่น...มันแย่มาก อย่างน้อยตอนนี้ก็จ่ายกันครบหมดแล้ว)
+05-0006	talk	(But damn. Mari is not one to be messed with.)	(แต่บ้าเอ๊ย มาริไม่ใช่คนที่จะแหยมด้วยง่าย ๆ เลยจริง ๆ)
+05-0007	talk	Sorry to keep you waiting, Yagami-shi.	ขอโทษที่ให้รอนะ ยากามิ
+05-0008	talk	Geez, took you long en... Wait, who the heck are <font_kind=yakuza_italic>you</font_kind>!?	โธ่เอ๊ย มัวทำอะไรอยู่ตั้งนาน... เดี๋ยวนะ <font_kind=yakuza_italic>นาย</font_kind>เป็นใครเนี่ย!?
+05-0009	talk	I'm Tsukumo. Yagami-shi's friend.	ฉันชื่อสึคุโมะ เพื่อนของยากามิ
+05-0010	talk	Th-That's not who I...	น-นั่นไม่ใช่คนที่ฉัน...
+05-0011	talk	Perfect timing, Tsukumo! Make yourself at home.	จังหวะเป๊ะเลย สึคุโมะ! ตามสบายนะ
+05-0012	talk	This kind, pretty lady is footing the bill on drinks for you and I tonight!	คืนนี้คุณผู้หญิงใจดีคนสวยคนนี้ เลี้ยงเหล้าให้เราสองคนเลยนะ!
+05-0013	talk	Hey, you mind telling me what's going on here!?	เฮ้ย จะบอกฉันหน่อยได้ไหมว่ามันเกิด อะไรขึ้น!?
+05-0014	talk	Sure. I thought it was suspicious how you left your seat all of a sudden and blatantly gave me an opening.	ได้สิ ผมว่ามันน่าสงสัยตรงที่จู่ๆ คุณก็ลุกจากที่นั่ง แล้วเปิดช่องให้ผมโต้งๆ แบบนั้น
+05-0015	talk	Factoring that in, I figured you'd made a deal with some of our mutual acquaintances, like Kaito-san and Genda-sensei.	พอเอามารวมกัน ผมก็เดาว่าคุณคงไปทำข้อตกลงกับ คนรู้จักร่วมกันของเรา อย่างไคโตะซังกับอาจารย์เก็นดะ
+05-0016	talk	So I had to dig into my deeper circles. You know I've got connections all over town, don't you?	เลยต้องไปสืบจากสายลึกกว่านั้น คุณก็รู้นี่ว่าผมมีคอนเนคชั่น ทั่วเมือง
+05-0017	talk	...Not bad, Tak. Not bad at all.	...ไม่เลวนี่ ทาคุ ไม่เลวเลยจริงๆ
+05-0018	talk	Oh that note, where is that friend of mine...	อ้อ พูดถึงเรื่องนั้น เพื่อนฉันไปไหนแล้วนะ...
+05-0019	talk	We can all drink together once she arrives. Your treat.	พอเธอมาถึง เราจะได้ดื่มด้วยกันทั้งหมด คุณเลี้ยงนะ
+05-0020	talk	Ahhh...! It wasn't supposed to go down like this...	อ้าาา...! มันไม่ควรจะเป็นแบบนี้...
+05-0021	talk	(Can't believe I actually pulled it off...)	(ไม่อยากเชื่อว่าทำสำเร็จจริงๆ...)
+05-0022	talk	(But damn, Mari is no joke either.)	(แต่ให้ตายเถอะ มาริก็ไม่ใช่มือสมัครเล่นเหมือนกัน)
+05-0023	talk	(It doesn't seem like reading his body language will get me very far.)	(ท่าทางอ่านภาษากายเขาคงไม่ช่วยอะไรมาก)
+05-0024	talk	(Maybe it's less about him and more about his choice of drink.)	(บางทีมันอาจไม่ได้อยู่ที่ตัวเขา แต่อยู่ที่เครื่องดื่มที่เขา เลือกมากกว่า)
+05-0025	talk	(Maybe he's got a high tolerance for alcohol. But there's no way to tell just from looking at his face...)	(บางทีเขาอาจจะทนเหล้าเก่ง แต่ดูจากสีหน้าอย่างเดียวก็บอก ไม่ได้หรอก...)
+05-0026	talk	(All right, I think I gathered enough info to make a guess.)	(เอาล่ะ ผมว่าผมเก็บข้อมูลได้พอจะเดาแล้ว)
+05-0027	talk	Then let the betting begin! So, how many drinks before he bursts?	งั้นเริ่มเดิมพันกันเลย! เขาจะดื่มกี่แก้วก่อนจะทนไม่ไหว?
+05-0028	talk	<color=yellow>Blue Mountain</color>, esteemed as "The King of Coffee Beans," is one of our most popular coffees, and a standard of our menu.	<color=yellow>บลูเมาน์เทน</color> ที่ได้รับการยกย่องว่าเป็น "ราชาแห่งเมล็ดกาแฟ" เป็นหนึ่งในกาแฟยอดนิยมของเรา และเป็นเมนูมาตรฐานของร้าน
+05-0029	talk	<color=yellow>Jamaican</color> coffee is known worldwide for its deep, bitter flavor that also boasts a wonderful splash of sweetness...	กาแฟ <color=yellow>จาเมกา</color> เลื่องชื่อไปทั่วโลกด้วยรสขมเข้มข้น ที่แฝงความหวานอันน่าประทับใจไว้ด้วย...
+05-0030	talk	<color=yellow>Mocha</color> is distinct for its rich, bitter flavor that lingers on the tongue. It also bears a bold, fruity sort of acidity.	<color=yellow>โมคา</color> โดดเด่นด้วยรสขมเข้มข้นที่ติด อยู่บนปลายลิ้น อีกทั้งยังมีรสเปรี้ยวแบบผลไม้ ที่ชัดเจนอีกด้วย
+05-0031	talk	<color=yellow>Blended Coffee</color> is what we're famous for at Café Alps. We generally serve this fine roast as part of our breakfast set...	<color=yellow>กาแฟเบลนด์</color> คือเมนูที่ทำให้คาเฟ่อัลป์สของ เราเลื่องชื่อ เรามักเสิร์ฟกาแฟคั่วละเมียด ถ้วยนี้เป็นส่วนหนึ่งของ เซ็ตอาหารเช้า...
+05-0032	talk	<color=yellow>Kona</color> is a famous type of coffee that hails from Hawaii. It's known for its strong acidity and refreshing taste...	<color=yellow>โคนา</color> เป็นกาแฟชื่อดังจากฮาวาย ขึ้นชื่อเรื่องความเปรี้ยว จัดจ้านและรสชาติที่สดชื่น...
+05-0033	talk	<color=yellow>Toraja</color> coffee boasts a powerful bitter flavor and an unparalleled, full-bodied taste.	กาแฟ <color=yellow>โตราจา</color> มีรสขมเข้มข้นทรงพลัง และรสชาติเต็มปากเต็มคำที่หาตัวจับยาก
+05-0034	talk	<color=yellow>Guatemalan</color> coffee features a fruity, acidic flavor which is balanced well by its bitterness...	กาแฟ <color=yellow>กัวเตมาลา</color> มีรสเปรี้ยวแบบผลไม้ ที่ถูกปรับสมดุลไว้อย่างลงตัว ด้วยความขม...
+05-0035	talk	<color=yellow>Java Robusta</color> is low on acidity and is recognized for its rich scent, similar to burnt wheat.	<color=yellow>ชวาโรบัสต้า</color> มีความเปรี้ยวต่ำ และเป็นที่รู้จักในกลิ่นหอมเข้มข้น คล้ายข้าวสาลีคั่วไหม้
+05-0036	talk	(Mm, that's smooth. It's both sour and bitter, and has a nice scent. If I was feeling blue, this would pick me right up.)	(อืม นุ่มดี ทั้งเปรี้ยวทั้งขม แถมกลิ่นหอมด้วย ถ้าตอนไหนรู้สึกหม่นหมอง แก้วนี้คงช่วยให้สดชื่นขึ้นได้)
+05-0037	talk	(Hmm. This one's quite bitter, yet also somewhat sweet. Oh, and it's got quite an aftertaste... almost earthy.)	(อืม แก้วนี้ขมพอสมควร แต่ก็มีความหวานแฝงอยู่ด้วย แถมยังมีรสตกค้าง... เกือบจะกลิ่นดินเลย)
+05-0038	talk	(It's very acidic, that's for sure. Also bitter, but rich and velvety as well. The flavor really lingers on the tongue...)	(เปรี้ยวจัดแน่นอน แถมยังขมด้วย แต่เข้มข้นนุ่มนวลไปพร้อมกัน รสชาติติดลิ้นอยู่นาน...)
+05-0039	talk	(Ah! What a sharp, bitter taste... Wow, that woke me up. That was actually very refreshing.)	(ว้าว! รสขมคมชัดจริงๆ... โอ้โห ปลุกให้ตื่นเลย สดชื่นสุดๆ)
+05-0040	talk	(It's strikingly acidic... sour, even. Not bitter. Heck, it's almost sugary. Now <font_kind=yakuza_italic>that's</font_kind> a sweet aloha!)	(เปรี้ยวจนแทบช็อก... เปรี้ยวจริงๆ ไม่ขมเลยสักนิด แถมเกือบจะหวานด้วยซ้ำ <font_kind=yakuza_italic>นี่แหละ</font_kind>ของหวานสไตล์อโลฮาตัวจริง!)
+05-0041	talk	(Now this is what I call bitter. Full-bodied, too. I think it had some kind of exotic name... Makatora, or something?)	(นี่แหละที่เรียกว่าขมของจริง เข้มข้นเต็มปากด้วย เห็นชื่อแปลกๆ เหมือนจะเรียกว่า... มาคาโทระ หรืออะไรสักอย่าง?)
+05-0042	talk	(Ooh, this coffee's got 'em all in here! It's bitter, acidic, and even kind of fruity. Yet they all harmonize together.)	(โอ้โห กาแฟแก้วนี้มีครบเลย! ทั้งขม ทั้งเปรี้ยว แถมยังมีกลิ่นผลไม้นิดๆ แต่กลับกลมกลืนกันได้อย่างลงตัว)
+05-0043	talk	(Such a robust cup of java... I can almost smell the warm fragrance of burnt wheat with each sip.)	(กาแฟแก้วนี้เข้มข้นจริงๆ... แทบได้กลิ่นหอมอุ่นๆ ของข้าวสาลีคั่วไหม้ในทุกอึก)
+05-0044	talk	The one you drank was <color=yellow>Blue Mountain</color>.	แก้วที่คุณดื่มไปคือ <color=yellow>บลูเมาน์เทน</color>
+05-0045	talk	The one you drank was <color=yellow>Jamaican</color>.	แก้วที่คุณดื่มไปคือ <color=yellow>จาเมกา</color>
+05-0046	talk	The one you drank was <color=yellow>Mocha</color>.	แก้วที่คุณดื่มไปคือ <color=yellow>โมคา</color>
+05-0047	talk	The one you drank was <color=yellow>Blended Coffee</color>.	แก้วที่คุณดื่มไปคือ <color=yellow>กาแฟเบลนด์</color>
+05-0048	talk	The one you drank was <color=yellow>Kona</color>.	แก้วที่คุณดื่มไปคือ <color=yellow>โคนา</color>
+05-0049	talk	The one you drank was <color=yellow>Toraja</color>.	แก้วที่คุณดื่มไปคือ <color=yellow>โตราจา</color>
+05-0050	talk	The one you drank was <color=yellow>Guatemalan</color>.	แก้วที่คุณดื่มไปคือ <color=yellow>กัวเตมาลา</color>
+05-0051	talk	The one you drank was <color=yellow>Java Robusta</color>.	แก้วที่คุณดื่มไปคือ <color=yellow>ชวาโรบัสต้า</color>
+05-0052	talk	It boasts a refined scent, smooth texture, and a nice balance of sour and bitter.	กลิ่นหอมกลมกล่อม เนื้อสัมผัสนุ่มนวล และมีความเปรี้ยวขมที่ลงตัว
+05-0053	talk	However, its definitive characteristic is its sharp, powerful aroma. It also possesses an earthy, refreshing aftertaste.	แต่จุดเด่นที่ชัดเจนที่สุดคือ กลิ่นหอมคมชัดและทรงพลัง อีกทั้งยังทิ้งรสตกค้างกลิ่นดิน ที่สดชื่นไว้ด้วย
+05-0054	talk	Thanks to its elegant, mellow aroma, we sometimes call it "Our Lady of Coffee."	ด้วยกลิ่นหอมอ่อนละมุนสง่างาม บางทีเราก็เรียกมันว่า "เลดี้แห่งกาแฟ"
+05-0055	talk	Its strong aroma and sharp, bitter flavor will give you a nice little wake-up call. That's why we serve it in the morning.	กลิ่นหอมเข้มข้นและรสขมคมชัดจะ ช่วยปลุกให้คุณตื่นตัว นั่นเป็นเหตุผลที่เราเสิร์ฟมัน ในตอนเช้า
+05-0056	talk	And thanks to its relative lack of bitterness, it's quite easy to drink. It even gives off a light, sweet scent.	และด้วยความขมที่ค่อนข้างน้อย จึงดื่มง่าย แถมยังส่งกลิ่นหอมหวานอ่อนๆ ออกมาอีกด้วย
+05-0057	talk	In addition, it barely contains any acidity.	นอกจากนี้ยังแทบไม่มีความเปรี้ยวเลย
+05-0058	talk	Furthermore, it's accented by a sweet aroma, and contains the perfect amount of richness that makes it simply irresistible.	ยิ่งไปกว่านั้น ยังมีกลิ่นหอมหวานแต่งแต้ม และความเข้มข้นในปริมาณที่ พอดิบพอดีจนต้านทานไม่ไหว
+05-0059	talk	Its central bitter flavor and profound sweetness give way to a mellow taste that isn't too rich or overbearing.	รสขมเป็นแกนหลัก ผสานกับความหวานลึกซึ้ง กลายเป็นรสชาตินุ่มนวลที่ไม่ เข้มข้นหรือกลบรสจนเกินไป
+05-0060	talk	I believe its smooth texture and complex flavors result in a coffee truly fit for a king!	ผมว่าเนื้อสัมผัสนุ่มนวลและ รสชาติที่ซับซ้อนของมัน ทำให้เป็นกาแฟที่สมกับเป็น เครื่องดื่มของราชาจริงๆ!
+05-0061	talk	I believe its bittersweet flavor and earthy aftertaste make it stand out among the rest.	ผมว่ารสขมอมหวานและรสตกค้าง กลิ่นดินของมันโดดเด่นกว่าใคร เพื่อน
+05-0062	talk	I believe that people are drawn to its rich, bitter taste that goes well with chocolate or even a latte.	ผมว่าคนมักหลงใหลรสขมเข้มข้นของมัน ที่เข้ากันดีกับช็อกโกแลตหรือ แม้แต่ลาเต้
+05-0063	talk	I believe its complex blend of flavors and sharp bite are perfect for starting your day!	ผมว่ารสชาติที่ผสมผสานซับซ้อน และความคมชัดของมัน เหมาะกับการเริ่มต้นวันใหม่สุดๆ!
+05-0064	talk	I believe its sparkling burst of acidity and pleasant floral aroma give way to a hint of sweet goodness.	ผมว่าความเปรี้ยวที่ระเบิดกรุ่น และกลิ่นดอกไม้หอมกรุ่นของมัน แฝงความหวานละมุนไว้เล็กน้อย
+05-0065	talk	I believe its bitter, full-bodied flavor stands out sharply due to its lack of acidity.	ผมว่ารสขมเข้มข้นของมันโดดเด่นชัดเจน เพราะแทบไม่มีความเปรี้ยวมาปนเลย
+05-0066	talk	I believe its fruity, acidic flavor belies a subtle hint of bitterness that balances its overall taste.	ผมว่ารสเปรี้ยวแบบผลไม้ของมัน ซ่อนความขมบางๆ ที่ช่วยปรับสมดุลรสชาติโดยรวม
+05-0067	talk	I believe its irresistible bitter flavor is complemented by a sensation of crackled wheat beneath a sweet, sugary core.	ผมว่ารสขมที่ต้านทานไม่ไหวของมัน เสริมด้วยสัมผัสคล้ายข้าวสาลีแตกกรอบ แฝงแกนความหวานฉ่ำอยู่ข้างใน
+05-0068	talk	Thanks for coming out today, Yosuke-san. You've got a new job for me, right?	ขอบคุณที่ออกมาวันนี้นะ โยสึเกะซัง มีงานใหม่ให้ผมทำใช่ไหม?
+05-0069	talk	You don't have to be so formal with me, Yagami-san. I'm younger than you anyway...	ไม่ต้องพูดจาเป็นทางการกับผม ขนาดนั้นก็ได้นะ ยากามิซัง ยังไงผมก็อายุน้อยกว่าอยู่ดี...
+05-0070	talk	Yeah? You got it. So tell me about this new pervert.	งั้นเหรอ ได้เลย เอาล่ะ เล่าเรื่องไอ้โรคจิตคนใหม่นี่ ให้ฟังหน่อย
+05-0071	talk	He's one of the Twisted Trio. This one's name is... Ass Catchem.	เขาเป็นหนึ่งในสามโรคจิต คนนี้ชื่อ... จอมจับตูด
+05-0072	talk	Ass... Catchem... Really.	จอม...จับตูด... จริงดิ
+05-0073	talk	If only it were a laughing matter. This guy has ass on the mind, and he'll grope whatever he can grab.	ถ้ามันเป็นเรื่องขำได้ก็ดีสิ ไอ้นี่มันคิดแต่เรื่องก้นทั้งวัน แล้วก็จะลวนลามทุกอย่างที่คว้าได้
+05-0074	talk	I guess he knows what he's about... And Tsukino-san was one of his victims?	ก็ดูจะรู้ตัวเองดีอยู่นะ... แล้วสึกิโนะซังก็เป็นหนึ่งใน เหยื่อของมันด้วยเหรอ?
+05-0075	talk	Yes. It was in broad daylight, just the other day.	ค่ะ เกิดขึ้นตอนกลางวันแสกๆ เมื่อไม่กี่วันก่อนนี้เอง
+05-0076	talk	And you're sure it's the Twisted Trio again? What gave him away?	แล้วแน่ใจนะว่าเป็นสามโรคจิตอีก มีอะไรที่ทำให้รู้ตัวมัน?
+05-0077	talk	It's what he said when I turned around in horror...	คือสิ่งที่มันพูดตอนที่ฉันหัน ไปดูด้วยความตกใจ...
+05-0078	talk	"That supple ass of yours would be perfect in a long distance race, baby."	"ก้นยวบๆ แบบเธอนี่เหมาะกับวิ่งทางไกลสุดๆ เลยที่รัก"
+05-0079	talk	Ass Catchem's calling card is apparently telling his victims what sport they should play... based on their butts.	ลายเซ็นของจอมจับตูดคือการบอก เหยื่อว่าควรเล่นกีฬาอะไร... โดยดูจากก้นของพวกเธอ
+05-0080	talk	That's... disturbing. Did he say anything else?	นั่นมัน... น่าขนลุกนะ แล้วมันพูดอะไรอีกไหม?
+05-0081	talk	Yeah. He told me I should cut my hair to lower my wind resistance.	อือ มันบอกว่าฉันควรตัดผมสั้นเพื่อ ลดแรงต้านลม
+05-0082	talk	He really knows his sports, huh...	ไอ้นี่รู้เรื่องกีฬาจริงๆ นะเนี่ย...
+05-0083	talk	The good news is that you saw his face this time. Can you describe him?	ข่าวดีคือครั้งนี้คุณเห็นหน้ามัน อธิบายรูปพรรณให้ฟังได้ไหม?
+05-0084	talk	Well, he had dark-rimmed glasses and weird stubble patches around his mouth. Oh, and his head was shaved clean.	อือ มันใส่แว่นกรอบดำ แล้วก็มีหนวดเป็นหย่อมๆ แปลกๆ รอบปาก อ้อ แล้วก็โกนหัวเถิกเลย
+05-0085	talk	I've run into him twice at this point, so I have a pretty clear picture of the guy.	ตอนนี้ฉันเจอมันมาแล้วสองครั้ง เลยจำหน้ามันได้ค่อนข้างชัด
+05-0086	talk	Really? Twice!?	จริงเหรอ สองครั้งเลย!?
+05-0087	talk	Yup. Tsukino has the worst luck with perverts, apparently.	ใช่ ดูเหมือนสึกิโนะจะซวยเรื่อง โรคจิตที่สุดเลย
+05-0088	talk	And the cops have this description, right? Haven't they locked this guy down yet?	แล้วตำรวจมีรูปพรรณนี้แล้วใช่ไหม? ยังจับมันไม่ได้อีกเหรอ?
+05-0089	talk	I'm afraid not... Ass Catchem is fast. Really fast.	ยังไม่ได้เลยล่ะ... จอมจับตูดวิ่งเร็วมาก เร็วสุดๆ
+05-0090	talk	Apparently he's a former track star himself, so he can outrun just about any pursuer.	ได้ยินว่าเขาเคยเป็นนักวิ่ง ดาวเด่นมาก่อน เลยวิ่งหนีคนไล่ตามได้แทบทุกคน
+05-0091	talk	That certainly makes this complicated.	นั่นทำให้เรื่องนี้ยุ่งยากขึ้นแน่ๆ
+05-0092	talk	(But if he's groped her twice, it couldn't just be a coincidence...)	(แต่ถ้ามันลวนลามเธอถึงสองครั้ง คงไม่ใช่เรื่องบังเอิญแน่...)
+05-0093	talk	 Yes, but you got the first guy, right!? And now my sweet, innocent sister's honor is at stake! He's the first guy to...	ใช่ แต่ยากามิซังจับคนแรกได้แล้ว ไม่ใช่เหรอ!? แล้วตอนนี้ศักดิ์ศรีของน้องสาว แสนบริสุทธิ์ของผมกำลัง ตกอยู่ในอันตราย! เขาเป็นคนแรกที่...
+05-0094	talk	Hey, is that really relevant!?	เฮ้ย มันเกี่ยวอะไรด้วยเนี่ย!?
+05-0095	talk	Can we count on you again, Yagami-san?	ขอพึ่งคุณอีกครั้งได้ไหมครับ ยากามิซัง?
+05-0096	talk	Sure, but my fee isn't exactly student friendly. You managed it once, but...	ได้สิ แต่ค่าจ้างผมไม่ได้ถูกขนาดที่ นักเรียนจะจ่ายไหวหรอกนะ ครั้งก่อนจ่ายได้ แต่...
+05-0097	talk	It's okay! I've been putting in some OT lately!	ไม่เป็นไรครับ! ช่วงนี้ผมทำโอทีเยอะเลย!
+05-0098	talk	So, what's the plan to catch the guy this time?	แล้วครั้งนี้จะมีแผนจับมันยังไง?
+05-0099	talk	Well, once again, it's probably best to catch the guy in the act.	ก็เหมือนเดิม คงต้องจับให้ได้คาหนังคาเขา
+05-0100	talk	(I can't exactly use Tsukino as bait though...)	(แต่จะเอาสึกิโนะไปเป็นเหยื่อล่อตรงๆ ก็คงไม่ได้...)
+05-0101	talk	If only we had someone who could pretend to be your sister...	ถ้ามีใครสักคนที่ปลอมตัวเป็น น้องสาวคุณได้ก็คงดี...
+05-0102	talk	Hm? Why are you looking at me like that, Yagami-san?	หืม? ทำไมมองผมแบบนั้นล่ะ ยากามิซัง?
+05-0103	talk	(The two of them <font_kind=yakuza_italic>are</font_kind> twins...)	(สองคนนี้<font_kind=yakuza_italic>เป็น</font_kind>ฝาแฝดกัน...)
+05-0104	talk	You know you have an uncanny resemblance to your sister, right, Yosuke?	รู้ไหมว่านายหน้าคล้ายน้องสาว ตัวเองอย่างกับแกะ โยสึเกะ?
+05-0105	talk	Well, yeah. We're twins and all.	ก็... ใช่นะ ก็ฝาแฝดกันนี่ครับ
+05-0106	talk	In that case, how would you feel about posing as Tsukino? It would be the perfect bait.	ถ้างั้น นายจะรู้สึกยังไงถ้าต้องปลอมตัว เป็นสึกิโนะ? มันน่าจะเป็นเหยื่อล่อที่ สมบูรณ์แบบเลยนะ
+05-0107	talk	What!? Pretend to be her!?	อะไรนะ!? ปลอมตัวเป็นเธอเนี่ยนะ!?
+05-0108	talk	No way, man. He'd figure it out right away!	ไม่มีทางครับ มันต้องจับได้ทันทีแน่ๆ!
+05-0109	talk	You sure? I think we stand a pretty good chance.	แน่ใจเหรอ ฉันว่าเรามีโอกาสสำเร็จอยู่นะ
+05-0110	talk	Don't you agree with him! No, no, and no!	อย่ามาเออออกับมันสิ! ไม่ ไม่ และไม่!
+05-0111	talk	Well, that's a shame. I think that was probably our best bet at catching him.	น่าเสียดายจัง ผมว่านั่นน่าจะเป็นโอกาสที่ดี ที่สุดที่จะจับมันได้แล้ว
+05-0112	talk	...Fine then.	...งั้นก็ตามนั้น
+05-0113	talk	If Yosuke's too chicken to do it... I will.	ถ้าโยสึเกะขี้ขลาดเกินกว่าจะทำ... ฉันทำเอง
+05-0114	talk	It's our best shot, right?	มันเป็นโอกาสที่ดีที่สุดของเรา ไม่ใช่เหรอ?
+05-0115	talk	Yes, but... Are you certain you'd want to put yourself at risk?	ใช่ แต่... แน่ใจนะว่าอยากเสี่ยงด้วยตัวเอง?
+05-0116	talk	I can do it. After all, you and Yosuke would be there to protect me, right?	ฉันทำได้ค่ะ ยังไงคุณกับโยสึเกะก็อยู่ปกป้อง ฉันอยู่แล้วไม่ใช่เหรอ?
+05-0117	talk	Just take him down before he gets his gross hands on me, okay?	แค่จับมันลงก่อนที่มือสกปรกของ มันจะมาถึงตัวฉันก็พอ โอเคนะ?
+05-0118	talk	All right. If you're sure, I think we have a plan.	ได้ ถ้าคุณแน่ใจแบบนั้น ผมว่าเรามีแผนแล้วล่ะ
+05-0119	talk	Yeah! Don't worry, Tsukino! Ass Catchem is grass and we're the lawnmower!	ใช่เลย! ไม่ต้องห่วงนะ สึกิโนะ! จอมจับตูดคือหญ้า แล้วเราคือเครื่องตัดหญ้า!
+05-0120	talk	(I can't say I'm not worried about the risk here... But it's our best shot...)	(จะบอกว่าไม่กังวลเรื่อง ความเสี่ยงเลยก็คงไม่ใช่... แต่นี่คือโอกาสที่ดีที่สุดของเราแล้ว...)
+05-0121	talk	Hello? Yagami-san? Did you find the perv?	ฮัลโหล? ยากามิซัง? เจอไอ้โรคจิตหรือยัง?
+05-0122	talk	And who dresses like that...	แล้วใครกันจะแต่งตัวแบบนั้น...
+05-0123	talk	Agh!	อั๊ก!
+05-0124	talk	You cut your hair short, just like I told you. Excellent. <font_kind=yakuza_italic>Excellent</font_kind>.	ตัดผมสั้นตามที่ฉันสั่งไว้เป๊ะเลย เยี่ยม <font_kind=yakuza_italic>เยี่ยมมาก</font_kind>
+05-0125	talk	W-Wait, I'm not—	เ-เดี๋ยวก่อน ผมไม่ใช่—
+05-0126	talk	Hmm? What's this? You've been toning up your ass, haven't you.... Hehehe.	หืม? อะไรเนี่ย แกฟิตก้นมาเพิ่มนี่นา... เฮ่อ เฮ่อ เฮ่อ
+05-0127	talk	Are you working your gluts?	ฝึกกล้ามก้นมาเหรอ?
+05-0128	talk	Eep! H-Help me, Yagami-san!	อี๊ด! ช-ช่วยผมด้วย ยากามิซัง!
+05-0129	talk	(Not even Ass Catchem can tell those two apart...)	(ต่อให้เป็นจอมจับตูดก็ยังแยกสอง คนนี้ไม่ออก...)
+05-0130	talk	Ready, set...	พร้อม... ไป...
+05-0131	talk	Hey, get the hell back here!	เฮ้ย กลับมานี่เดี๋ยวนี้เลยนะ!
+05-0132	talk	*pant* *pant* Shit, this guy is fast.	*หอบ* *หอบ* เชี่ย ไอ้นี่วิ่งเร็วชะมัด
+05-0133	talk	Huff... Huff... Nobody's ever caught up to me before... Just who <font_kind=yakuza_italic>are</font_kind> you!?	หอบ... หอบ... ไม่เคยมีใครไล่ทันฉันมาก่อนเลย... แก<font_kind=yakuza_italic>เป็น</font_kind>ใครกันวะ!?
+05-0134	talk	...The detective who's gonna bring you in. You're Ass Catchem, right?	...นักสืบที่จะเอาตัวนายไปส่งไง นายคือจอมจับตูดใช่ไหม?
+05-0135	talk	*pant* D-Detective? Does that mean... you're the one who took down the first of the trio?	*หอบ* น-นักสืบ? หมายความว่า... แกคือคนที่จับคนแรกในสามโรคจิตได้เหรอ?
+05-0136	talk	You mean the Panty Professor? ...It hardly matters. You're coming with me downtown.	หมายถึงศาสตราจารย์กางเกงในเหรอ? ...ช่างมันเถอะ นายต้องไปโรงพักกับผม
+05-0137	talk	Hehehe. Oh, I wouldn't make any assumptions about bringing me down as easily as him...	เฮ่อ เฮ่อ อย่าเพิ่งคิดว่าจะจับฉันได้ง่าย เหมือนไอ้นั่นนะ...
+05-0138	talk	He was nothing. A nobody. He should've thanked his lucky stars we even let him <font_kind=yakuza_italic>in</font_kind> the Twisted Trio.	ไอ้นั่นมันไม่มีอะไรเลย ตัวเล็กๆ คนหนึ่ง ควรจะขอบคุณดวงที่พวกเรายอมรับมัน<font_kind=yakuza_italic>เข้า</font_kind> สามโรคจิตด้วยซ้ำ
+05-0139	talk	You're saying a guy who used a remote-controlled drone to steal panties off balconies was "nothing"?	หมายความว่าไอ้คนที่ใช้โดรน บังคับวิทยุขโมยกางเกงในจาก ระเบียงบ้านคนอื่นน่ะ "ไม่มีอะไร" เนี่ยนะ?
+05-0140	talk	Never mind him! Right now my blood's really pumping after grabbin' that cute girl's ass and a nice jog!	ช่างไอ้นั่นเถอะ! ตอนนี้เลือดฉันสูบฉีดสุดๆ หลังจากได้จับก้นสาวน่ารักคน นั้นแล้วก็วิ่งมันส์ๆ!
+05-0141	talk	My whole body feels rock hard!	ทั้งตัวฉันแข็งไปหมดเลย!
+05-0142	talk	Great, but does that mean you had to strip?	เยี่ยมไปเลย แต่นั่นแปลว่านายต้อง ถอดเสื้อผ้าด้วยเหรอ?
+05-0143	talk	Now you'll feel the power that's inside Ass Catchem!	เดี๋ยวนี้แกจะได้สัมผัสพลัง ที่ซ่อนอยู่ในตัวจอมจับตูดแล้ว!
+05-0144	talk	Hehehe... Don't get cocky now. You haven't seen anything yet!	เฮ่อ เฮ่อ... อย่าเพิ่งหยิ่งไป แกยังไม่เห็นอะไรเลยนะ!
+05-0145	talk	When I get my hands on a hot girl's ass, nothing can stop me! Hahaha!	แค่มือฉันได้แตะก้นสาวสวยเมื่อไหร่ ไม่มีอะไรหยุดฉันได้! ฮ่าฮ่าฮ่า!
+05-0146	talk	Yeah, about that...	อืม เรื่องนั้นน่ะ...
+05-0147	talk	Did you know the ass you grabbed back there actually belonged to that girl's twin brother?	รู้ไหมว่าก้นที่นายจับไป เมื่อกี้ที่จริงเป็นของพี่ชาย ฝาแฝดของผู้หญิงคนนั้น?
+05-0148	talk	Wh-What!? That means...	อ-อะไรนะ!? นั่นหมายความว่า...
+05-0149	talk	I got hard... off a guy?	ฉันแข็ง... เพราะผู้ชายเนี่ยนะ?
+05-0150	talk	Better learn to like it. The only ass you'll catch in the slammer will be muscular and manly.	รีบทำใจชอบมันซะเถอะ เพราะก้นเดียวที่นายจะได้จับใน คุกคือก้นล่ำๆ แบบลูกผู้ชาย
+05-0151	talk	M-Man butts!?	ก-ก้นผู้ชายเหรอ!?
+05-0152	talk	Noooooo!	ไม่นะะะะะ!
+05-0153	talk	Hey, stop struggling!	เฮ้ย หยุดดิ้นซะที!
+05-0154	talk	Please, no! Man butts do nothing for meeeee!	ขอร้องล่ะ อย่านะ! ก้นผู้ชายไม่ทำให้ฉันรู้สึกอะไร เลยนะเว้ยยยย!
+05-0155	talk	So, Ass Catchem's been brought to justice. I'd say this case is firmly in the rear view. Heh.	เอาล่ะ จอมจับตูดถูกจับกุมแล้ว คดีนี้ถือว่าปิดฉากลงเรียบร้อย เฮอะ
+05-0156	talk	You're incredible, Yagami-san! Not even the police could rope him in!	คุณเก่งมากเลยค่ะ ยากามิซัง! ขนาดตำรวจยังจับมันไม่ได้เลย!
+05-0157	talk	I'd save your thanks for your brother, Tsukino.	เก็บคำขอบคุณไว้ให้พี่ชายคุณดีกว่า สึกิโนะ
+05-0158	talk	No, really! You're the real hero, Yagami-san!	ไม่หรอกค่ะ จริงๆ นะ! คุณต่างหากที่เป็นฮีโร่ตัวจริง ยากามิซัง!
+05-0159	talk	Nah. Work just goes in strange directions sometimes.	เปล่าหรอก งานมันก็แค่พาไปในทิศทางแปลกๆ บ้างเป็นบางครั้ง
+05-0160	talk	I... I've been groped...	ผม... ผมโดนลวนลามซะแล้ว...
+05-0161	talk	You got what you deserved, I'd say.	ก็สมควรแล้วล่ะ ฉันว่านะ
+05-0162	talk	Ughhh...	อ้าาา...
+05-0163	talk	Here's your payment, Yagami-san.	นี่ค่าจ้างของคุณค่ะ ยากามิซัง
+05-0164	talk	Oh, thanks.	โอ้ ขอบใจนะ
+05-0165	talk	Well, goodbye!	งั้นก็ลาก่อนนะ!
+05-0166	talk	(There's only one of the Twisted Trio left standing...)	(เหลือคนเดียวในสามโรคจิตที่ยัง ลอยนวลอยู่...)
+05-0167	talk	(I hope Tsukino is free of them, though. No way she draws the ire of the next one... Right?)	(หวังว่าสึกิโนะจะพ้นเงื้อมมือ พวกมันได้แล้วนะ คงไม่โชคร้ายจนโดนคนต่อไป เล่นงานอีกใช่ไหม...?)
+05-0168	talk	How's it looking, Yagami-san? Any sketchy perverts catch your eye?	เป็นไงบ้างครับ ยากามิซัง? เจอไอ้โรคจิตน่าสงสัยบ้างไหม?
+05-0169	talk	No, nothing yet. But don't let your guard down all the same.	ยังไม่เจอเลย แต่ก็อย่าเพิ่งการ์ดตกล่ะ
+05-0170	talk	Hm. That guy... He matches the description...	อืม ไอ้คนนั้น... ตรงกับรูปพรรณเลย...
+05-0171	talk	Yosuke! Look out! Behind you!	โยสึเกะ! ระวัง! ข้างหลังนาย!
+05-0172	talk	I'm getting nothing but bad vibes here. I better get in touch with Yosuke.	รู้สึกไม่ค่อยดีเลย ผมควรติดต่อโยสึเกะดีกว่า
+05-0173	talk	(Tsukino-san must be worried... I should probably hurry up and capture this pervert.)	(สึกิโนะซังคงเป็นห่วงแย่... ผมควรรีบจับไอ้โรคจิตคนนี้ให้ได้เร็วๆ)
+05-0174	talk	(He really does look like Tsukino. It would have been easier if he agreed to be the bait...)	(หน้าเขาคล้ายสึกิโนะจริงๆ นะ ถ้าเขายอมเป็นเหยื่อล่อคงง่าย กว่านี้เยอะ...)
+05-0175	talk	Hey... Aren't you the guy who was being chased by the cops not too long ago?	เฮ้... นายคือคนที่โดนตำรวจไล่ล่า เมื่อไม่นานมานี้ใช่ไหม?
+05-0176	talk	...What? Oh, trust me, I wasn't doing anything bad.	...อะไรนะ? เชื่อผมเถอะ ผมไม่ได้ทำอะไรผิด
+05-0177	talk	It was self-defense, see. I was getting harassed by some thugs, and...	มันคือการป้องกันตัวน่ะ ผมโดนพวกอันธพาลรังแก แล้วก็...
+05-0178	talk	Who cares about that!? All I noticed was that your running was incredible!	ใครสนเรื่องนั้นล่ะ!? สิ่งเดียวที่ฉันสังเกตคือการ วิ่งของนายมันสุดยอดมาก!
+05-0179	talk	That's what you're focused on...? Just who are you, anyway?	นั่นคือสิ่งที่นายสนใจเหรอ...? แล้วนายเป็นใครกันแน่?
+05-0180	talk	I'm Shun Isaka, a sprinter in track and field!	ผมชุน อิซากะ นักวิ่งระยะสั้นสายกรีฑาครับ!
+05-0181	talk	All right, Yagami-san. There's a favor I need to ask a speed demon like you...	เอาล่ะ ยากามิซัง มีเรื่องขอร้องที่ผมอยากให้ ปีศาจความเร็วอย่างคุณช่วย...
+05-0182	talk	Chase me, Yagami-san! I want you to run after me!	ไล่ตามผมสิ ยากามิซัง! ผมอยากให้คุณวิ่งไล่ตามผม!
+05-0183	talk	Excuse me? What do you mean?	อะไรนะ? หมายความว่าไง?
+05-0184	talk	Yes, I want to feel your footsteps right behind my heels! I can't unlock my full potential unless I'm being chased...	ใช่ครับ ผมอยากรู้สึกถึงเสียงฝีเท้าคุณ ที่ตามหลังส้นเท้าผมมาติดๆ! ผมจะปลดล็อกศักยภาพเต็มที่ ไม่ได้เลยถ้าไม่มีใครไล่ตาม...
+05-0185	talk	Doesn't that mean you only have limited potential in the first place?	นั่นแปลว่าตั้งแต่แรกนายก็มี ศักยภาพจำกัดอยู่แล้วไม่ใช่เหรอ?
+05-0186	talk	Not at all! Ever since I was little, I'd always run like the wind whenever someone chased me!	ไม่เลยครับ! ตั้งแต่เด็กๆ ผมวิ่งเร็วเป็นสายลมทุกครั้งที่ มีคนไล่ตามผม!
+05-0187	talk	Okay... Even if that is the case, why not ask one of your fellow athletes?	โอเค... ต่อให้เป็นแบบนั้นจริง ทำไมไม่ขอเพื่อนนักกีฬาด้วยกันล่ะ?
+05-0188	talk	Those guys just don't understand the concept... That rush you feel when you know you're almost caught...	พวกนั้นไม่เข้าใจแนวคิดนี้หรอกครับ... ความตื่นเต้นที่รู้สึกได้ตอนที่ รู้ว่ากำลังจะโดนจับได้...
+05-0189	talk	Your running has a peculiar intensity, Yagami-san. Seeing those legs pound the pavement... It's what I've always yearned for!	การวิ่งของคุณมีความเข้มข้น แปลกประหลาดนะ ยากามิซัง เห็นขาคู่นั้นกระแทกพื้นถนน... มันคือสิ่งที่ผมโหยหามาตลอด!
+05-0190	talk	I bet if someone like you is barreling down behind me, I'll unlock a hidden potential within me!	ผมมั่นใจว่าถ้ามีคนแบบคุณพุ่ง ตามหลังผมมา ผมจะปลดล็อกศักยภาพที่ซ่อนอยู่ ในตัวได้แน่!
+05-0191	talk	Please haul ass for me, Yagami-san! I'll give you something special if you do.	ช่วยรีบวิ่งให้เต็มที่ให้ผมทีเถอะ ยากามิซัง! ถ้าคุณทำ ผมจะให้ของพิเศษเป็นการตอบแทน
+05-0192	talk	Your choice of words is... horrible. But fine, I guess I'll chase you down.	การเลือกคำพูดของนาย... แย่มากเลยนะ แต่ก็ได้ ผมไล่ตามนายให้ก็ได้
+05-0193	talk	Yes! You're wonderful!	เยี่ยม! คุณนี่สุดยอดจริงๆ!
+05-0194	talk	So, how do we start this thing?	แล้วจะเริ่มเรื่องนี้ยังไง?
+05-0195	talk	Just chase after me! Let your predatory instinct run wild!	แค่ไล่ตามผมมา! ปล่อยสัญชาตญาณนักล่าในตัวคุณ ให้พลุ่งพล่านเลย!
+05-0196	talk	I don't even... Let's just get this over with.	ผมไม่รู้จะพูดยังไง... รีบทำให้จบๆ ไปเถอะ
+05-0197	talk	Woo yeah! Then, on your mark, get set, gooooooooo!!!	โว้ว เย่! งั้น เข้าที่... ระวัง... ไปปปปป!!!
+05-0198	talk	Yagami-san, you were... nothing short of amazing!	ยากามิซัง คุณ... สุดยอดจริงๆ ครับ!
+05-0199	talk	*pant* Well? *gasp* Did you unlock any hidden potential?	*หอบ* แล้วไง? *เฮือก* ปลดล็อกศักยภาพที่ซ่อนอยู่ได้หรือยัง?
+05-0200	talk	Yes! I feel like I grasped something important during our little jog. Here's your reward, as promised.	ครับ! ผมรู้สึกเหมือนจับอะไรบางอย่าง ที่สำคัญได้ระหว่างที่ เราวิ่งด้วยกัน นี่คือรางวัลตามที่สัญญาไว้
+05-0201	talk	Good. Then I'll be going now.	ดี งั้นผมไปล่ะนะ
+05-0202	talk	Wait, wait! Um... I actually still have some more grasping to do.	เดี๋ยว เดี๋ยวก่อน! เอ่อ... จริงๆ แล้วผมยังจับอะไรได้ไม่หมดเลยครับ
+05-0203	talk	Yeah! I grasped something important during our run, but it wasn't a full grasp. So please help me again sometime!	ใช่ครับ! ผมจับอะไรสำคัญได้ตอนที่เราวิ่ง ด้วยกัน แต่ยังไม่ครบถ้วนสมบูรณ์ เลยอยากขอให้คุณช่วยผมอีก สักครั้งนะครับ!
+05-0204	talk	I guess I could... if I feel like it.	ก็คงได้แหละ... ถ้าผมอยากทำน่ะนะ
+05-0205	talk	Sounds like a plan!	ฟังดูเข้าท่า!
+05-0206	talk	I'll be warming up right here, so please come talk to me whenever you're free, Yagami-san!	ผมจะวอร์มร่างกายอยู่แถวนี้แหละ ว่างเมื่อไหร่แวะมาคุยกับผมได้ เลยนะครับ ยากามิซัง!
+05-0207	talk	Hey, Yagami-san, are you feeling... up to the chase?	เฮ้ ยากามิซัง วันนี้พร้อม... จะให้ไล่ตามไหมครับ?
+05-0208	talk	Sorry, but now's not a good time for a jog. Maybe later.	ขอโทษที ตอนนี้ไม่ใช่เวลาที่เหมาะจะ วิ่งเล่นน่ะ ไว้ทีหลังนะ
+05-0209	talk	No problem! I'll still be here warming up.	ไม่เป็นไรครับ! ผมจะวอร์มร่างกายอยู่ตรงนี้ต่อไป
+05-0210	talk	Sure. I might even run you over if you're not careful.	ได้ ผมอาจจะวิ่งชนนายเลยด้วยซ้ำถ้า ไม่ระวังตัวนะ
+05-0211	talk	That's the spirit! Then... on your mark, get set, goooooo!!!	นั่นแหละ! งั้น... เข้าที่... ระวัง... ไปปปปป!!!
+05-0212	talk	*pant* Well? *gasp* Did you get something out of it?	*หอบ* แล้วไง? *เฮือก* ได้อะไรจากมันบ้างไหม?
+05-0213	talk	This... sensation! The rush of adrenaline... A billion sneakers thundering down a million streets, echoing across the cosmos...!	ความรู้สึกนี้...! อะดรีนาลีนพลุ่งพล่าน... รองเท้าผ้าใบนับพันล้านคู่ กระหึ่มไปทั่วถนนนับล้านสาย ก้องกังวานไปทั่วจักรวาล...!
+05-0214	talk	...I'm assuming you grasped your inner potential?	...ผมขอเดาว่านายปลดล็อกศักยภาพ ภายในได้แล้วสินะ?
+05-0215	talk	You better believe I did! Basically, my problem is that I was trying to run too fast!	เชื่อเถอะว่าได้แน่นอน! พูดง่ายๆ ปัญหาของผมคือผมพยายามวิ่งเร็วเกินไป!
+05-0216	talk	Yeah. I realized I was putting way too much stress on speed and not enough on form, which resulted in an instability.	ใช่ครับ ผมพบว่าตัวเองเน้นความเร็วมากเกินไป แต่ไม่ค่อยเน้นฟอร์มการวิ่ง เลยทำให้ไม่มั่นคง
+05-0217	talk	But when you were chasing me, I was only focused on the thrill of almost being caught.	แต่ตอนที่คุณไล่ตามผมมา ผมจดจ่ออยู่กับความตื่นเต้นที่ เกือบจะโดนจับได้เท่านั้น
+05-0218	talk	This helped me block out any unnecessary thoughts... stabilize my form... and helped me maintain my top speed!	มันช่วยให้ผมตัดความคิดที่ไม่ จำเป็นออกไป... ทำให้ฟอร์มมั่นคงขึ้น... แล้วก็ช่วยให้รักษาความเร็ว สูงสุดไว้ได้!
+05-0219	talk	That is kind of incredible. I don't really get it, but I'm glad you grasped your inner potential.	นั่นก็ค่อนข้างน่าทึ่งเลยนะ ผมไม่ค่อยเข้าใจเท่าไหร่หรอก แต่ก็ดีใจที่นายปลดล็อกศักยภาพ ภายในได้
+05-0220	talk	Yes! It's all thanks to you, Yagami-san!	ใช่ครับ! ทั้งหมดนี้ต้องขอบคุณคุณเลย ยากามิซัง!
+05-0221	talk	To show my proper gratitude, I put in a little more than last time.	เพื่อแสดงความขอบคุณอย่างสมเกียรติ ผมใส่มาให้มากกว่าครั้งก่อนหน่อยครับ
+05-0222	talk	Sweet.	เจ๋งไปเลย
+05-0223	talk	Oh, and please take this, too.	อ้อ แล้วก็ช่วยรับสิ่งนี้ไปด้วยนะครับ
+05-0224	talk	It wasn't of much use to me, so I thought you'd get a kick out of it... Or I could just throw it away.	มันไม่ค่อยมีประโยชน์กับผมเท่าไหร่ เลยคิดว่าคุณอาจจะชอบมันก็ได้... ไม่งั้นผมก็แค่โยนทิ้งไปเฉยๆ
+05-0225	talk	You know what, I'll take it. Why not.	เอาก็ได้นะ รับไว้ก็แล้วกัน
+05-0226	talk	(A book on combat techniques? That actually might come in handy.)	(หนังสือเทคนิคการต่อสู้เหรอ? อันนี้อาจมีประโยชน์จริงๆ นะ)
+05-0227	talk	Alrighty! Well, I better get ready for my next competition!	เอาล่ะ! ผมต้องเตรียมตัวสำหรับการแข่ง ครั้งต่อไปแล้วล่ะ!
+05-0228	talk	Chase your dreams, Isaka-kun.	ไล่ตามความฝันของนายไปเถอะ อิซากะคุง
+05-0229	talk	Yep, and I'll be starting with Japan's national record! Catch you later, man!	ครับ แล้วผมจะเริ่มจากสถิติแห่งชาติ ของญี่ปุ่นเลย! แล้วเจอกันใหม่นะครับ!
+05-0230	talk	Um, Yagami-san. Have you seen Tsukino, by any chance?	เอ่อ ยากามิซัง เผอิญเห็นสึกิโนะบ้างไหมครับ?
+05-0231	talk	No, I haven't. Something wrong?	ไม่เห็นเลย มีอะไรหรือเปล่า?
+05-0232	talk	I came out shopping with her, but we got seperated.	ผมออกมาช็อปปิ้งกับเธอ แต่พลัดหลงกัน
+05-0233	talk	Huh. That's concerning.	หืม นั่นน่าเป็นห่วงนะ
+05-0234	talk	Was that a scream!?	นั่นเสียงกรีดร้องหรือเปล่า!?
+05-0235	talk	That was Tsukino! I think it came from the back alley!	นั่นเสียงสึกิโนะ! ผมว่ามันมาจากตรอกข้างหลัง!
+05-0236	talk	Ewww...!	แหวะ...!
+05-0237	talk	Oh no. Another pervert!?	โอ้ไม่นะ โรคจิตอีกคนแล้วเหรอ!?
+05-0238	talk	What the hell did you do to Tsukino!?	แกทำบ้าอะไรกับสึกิโนะ!?
+05-0239	talk	Peace, friends. I assure you, I'm just a perfectly innocuous gentleman.	ใจเย็นๆ เพื่อนๆ ผมขอยืนยันว่าผมเป็นสุภาพบุรุษ ที่ไร้พิษภัยโดยแท้
+05-0240	talk	I simply wanted to introduce the young lady to my sweet, innocent son.	ผมแค่อยากแนะนำสาวน้อยคนนี้ให้ รู้จักกับลูกชายแสน บริสุทธิ์ของผมเท่านั้นเอง
+05-0241	talk	What kind of gentlemen looks like you!?	สุภาพบุรุษที่ไหนหน้าตาแบบแกวะ!?
+05-0242	talk	P-P-P-Put it away!	เ-เ-เก็บมันเข้าไปสิ!
+05-0243	talk	Who are you!? A Twisted Trio copy cat!?	นายเป็นใคร!? พวกเลียนแบบสามโรคจิตหรือไง!?
+05-0244	talk	How dare you put me in the same league as those debauchers, sir. 	กล้าดียังไงมาจัดผมอยู่ระดับ เดียวกับพวกโรคจิตพวกนั้น ท่าน
+05-0245	talk	I am the Prince of Perverts, the Emperor of Exhibitionism...	ผมคือเจ้าชายแห่งความหื่นกาม จักรพรรดิจอมโชว์...
+05-0246	talk	GIANT IMPACT!	ไจแอนต์อิมแพ็กต์!
+05-0247	talk	Giant... Impact!?	ไจแอนต์...อิมแพ็กต์!?
+05-0248	talk	I've heard of him, Yagami-san! He's the newest pervert to stain the streets of Kamurocho!	ผมเคยได้ยินชื่อเขานะ ยากามิซัง! เขาคือโรคจิตหน้าใหม่ที่ แปดเปื้อนถนนคามุโรโจ!
+05-0249	talk	Hoho, it seems my reputation precedes me.	โฮโฮ ดูเหมือนชื่อเสียงของผมจะไปถึง ก่อนตัวจริงซะแล้ว
+05-0250	talk	H-Hey! Wait!	เ-เฮ้! เดี๋ยวก่อน!
+05-0251	talk	Tsukino!	สึกิโนะ!
+05-0252	talk	I-I'm okay. He just showed me his... genitals...	ฉ-ฉันไม่เป็นไร เขาแค่โชว์ของลับให้ฉันดู...
+05-0253	talk	That piece of shit! How dare he show my innocent sister his junk!?	ไอ้เวรนั่น! กล้าดียังไงมาโชว์ของให้น้องสาว แสนบริสุทธิ์ของผมดู!?
+05-0254	talk	We should file a police report, you two.	พวกคุณสองคนควรไปแจ้งความกับตำรวจนะ
+05-0255	talk	Any clue how that pervert found you, Tsukino-san?	พอจะรู้ไหมว่าไอ้โรคจิตนั่นหา ตัวคุณเจอได้ยังไง สึกิโนะซัง?
+05-0256	talk	No idea. He came out of nowhere, and threw back his coat. He was naked underneath...	ไม่รู้เลยค่ะ เขาโผล่มาจากไหนไม่รู้ แล้วก็สลัดเสื้อโค้ตออก ข้างในเขาเปลือยล่อนจ้อน...
+05-0257	talk	So you saw it? The whole thing!?	แปลว่าเห็นหมดเลยเหรอ!? ทุกอย่างเลยเหรอ!?
+05-0258	talk	Y-Yeah. I tried not to look...	อ-อือ ฉันพยายามไม่มองแล้วนะ...
+05-0259	talk	That motherfucker! What kind of monster goes around showing poor girls his pecker!	ไอ้เวรนี่! มันเป็นปีศาจบ้าอะไรกันถึงได้ โชว์นกเขาให้เด็กสาวผู้ น่าสงสารดูแบบนี้!
+05-0260	talk	Reminds me of that time me and Tsukino accidentally saw our father's, and he was—	ทำให้ผมนึกถึงตอนที่ผมกับ สึกิโนะเห็นของพ่อเข้า โดยบังเอิญ แล้วพ่อก็—
+05-0261	talk	H-Hey, let's not, Yosuke!	อ-เฮ้ย อย่าพูดเลยนะ โยสึเกะ!
+05-0262	talk	I take it he's earned the name, "Giant Impact," right?	งั้นเขาถึงได้ฉายาว่า "ไจแอนต์อิมแพ็กต์" สินะ?
+05-0263	talk	Yeah, he's a fresh face on the pervert scene. Somehow it figures that he'd find Tsukino of all people...	ใช่ครับ เขาเป็นหน้าใหม่ในวงการโรคจิต แล้วก็ไม่รู้ทำไมถึงต้องมาเจอ สึกิโนะเข้าจนได้...
+05-0264	talk	I guess an exhibitionist was bound to be next on the list...	งั้นสิ นักโชว์ของลับก็คงต้องมาอยู่ใน ลิสต์บ้างแหละ...
+05-0265	talk	Yeah, lots of rumors about this guy lately. People are too embarrassed to say his name though, so they call him "G.I."	ใช่ครับ ช่วงนี้มีข่าวลือเรื่องเจ้านี่เยอะเลย แต่คนอายเกินกว่าจะพูดชื่อเต็มเขา เลยเรียกกันว่า "G.I."
+05-0266	talk	But I'm curious... Was he really that big, Tsukino?	แต่ผมอยากรู้จัง... มันใหญ่ขนาดนั้นจริงเหรอ สึกิโนะ?
+05-0267	talk	Would you say he was bigger or smaller than Dad?	คิดว่าใหญ่กว่าหรือเล็กกว่าของพ่อล่ะ?
+05-0268	talk	Wait, I don't want to think about it! Don't be gross, Yosuke!	เดี๋ยวก่อน ฉันไม่อยากคิดเรื่องนี้เลยนะ! อย่าพูดน่าขยะแขยงแบบนี้สิ โยสึเกะ!
+05-0269	talk	How notorious is this guy at this point? Is he on par with the Twisted Trio?	ตอนนี้เจ้านี่ดังขนาดไหนแล้ว เทียบชั้นกับสามโรคจิตได้เลยไหม?
+05-0270	talk	Sort of. People seem to think he was their leader. That's why he called himself the Exhibitionist Emperor.	ก็ประมาณนั้นครับ คนส่วนใหญ่คิดว่าเขาเคยเป็น หัวหน้าของสามคนนั้น เลยตั้งฉายาตัวเองว่าจักรพรรดิจอมโชว์
+05-0271	talk	Exhibitionist Emperor? Come on...	จักรพรรดิจอมโชว์เนี่ยนะ... เอาจริงดิ...
+05-0272	talk	Word on the street is that he's really massive down there, so he's developed kind of a fanbase of would-be pervs...	ข่าวลือแถวนี้บอกว่าของเขาใหญ่มากจริง ๆ เลยมีกลุ่มแฟนคลับที่อยากเป็น โรคจิตตามอยู่เหมือนกัน...
+05-0273	talk	I guess you'd have to be pretty big to call yourself an emperor...	ก็คงต้องใหญ่จริงถึงจะกล้าเรียก ตัวเองว่าจักรพรรดิได้มั้ง...
+05-0274	talk	Yagami-san... You're not going to let this monster keep whipping his thing out in public, are you?	ยากามิซัง... คุณจะไม่ปล่อยให้ปีศาจตนนี้โชว์ ของกลางที่สาธารณะ แบบนี้ต่อไปใช่ไหมครับ?
+05-0275	talk	I guess not, but...	ก็คงไม่ปล่อยหรอก แต่ว่า...
+05-0276	talk	Then it's settled! I'll even fund you on this! The usual 50,000 yen!	งั้นก็ตกลงตามนี้! ผมจะออกค่าจ้างให้เองด้วย! 50,000 เยนตามเคย!
+05-0277	talk	You have to avenge Tsukino's innocence!	คุณต้องกู้ศักดิ์ศรีให้สึกิโนะ ให้ได้นะครับ!
+05-0278	talk	All right. I'm on the case.	ได้ ผมรับงานนี้
+05-0279	talk	Great! But... Any ideas how you'll catch this one?	เยี่ยมเลย! แต่... คุณพอจะมีไอเดียจับตัวมันยังไง บ้างไหมครับ?
+05-0280	talk	Let's see...	อืม ขอคิดดูก่อน...
+05-0281	talk	We'll need to try to predict where he's going to show himself next.	เราต้องลองคาดเดาว่าเขาจะไปโชว์ ตัวที่ไหนต่อ
+05-0282	talk	You seem to have this guy's number, Yosuke. Any idea where he's been?	ดูนายจะรู้ข้อมูลเจ้านี่ดีนะ โยสึเกะ พอจะรู้ไหมว่าเขาเคยไปโผล่ ที่ไหนมาบ้าง?
+05-0283	talk	Naturally.	แน่นอนอยู่แล้ว
+05-0284	talk	My poor sister is a pervert magnet, so I have to stay up to date on this nonsense!	น้องสาวผมน่าสงสารนี่เป็น แม่เหล็กดึงดูดโรคจิตชัด ๆ ผมเลยต้องคอยอัปเดต เรื่องไร้สาระพวกนี้อยู่ตลอด!
+05-0285	talk	What is it about me that draws every pervert in the city in my direction...	ฉันมีอะไรกันแน่ ทำไมโรคจิตทั้งเมืองถึงต้องมาหา ฉันตลอดเลย...
+05-0286	talk	Anyway, I'd say the largest concentration of sightings were on Shichifuku Street and Nakamichi Street.	ยังไงก็เถอะ ผมว่าจุดที่มีคนเจอเขาเยอะสุด คือถนนชิจิฟุกุกับถนนนากามิจิ ครับ
+05-0287	talk	That's where the Panty Professor and Ass Catchem were active too.	ตรงนั้นก็เป็นที่ที่ ศาสตราจารย์กางเกงในกับ จอมจับตูด เคยออกอาละวาดเหมือนกัน
+05-0288	talk	In fact, I think those turfs opening up is what gave G.I. his in.	อันที่จริง ผมว่าพอดินแดนพวกนั้นว่างลง มันก็เลยเปิดทางให้ G.I. เข้ามาแทนที่ครับ
+05-0289	talk	They have turfs?	พวกนี้มีแบ่งเขตด้วยเหรอ?
+05-0290	talk	Yeah. Apparently the Twisted Trio hated when other perverts would try to muscle in on their territories.	ใช่ครับ ได้ยินว่าสามโรคจิตไม่ชอบให้ โรคจิตคนอื่นมาแย่งพื้นที่ พวกเขาเลย
+05-0291	talk	Why do perverts have a social ecology...?	ทำไมพวกโรคจิตถึงมีระบบนิเวศ ทางสังคมกันด้วยเนี่ย...?
+05-0292	talk	But if his "exhibitions" can be traced, why hasn't he been caught yet?	แต่ถ้า "การแสดง" ของเขาสืบได้ ทำไมถึงยังจับตัวไม่ได้ล่ะ?
+05-0293	talk	That's the thing. It seems he moves on once he's caused enough of a commotion in one area.	นั่นแหละครับปัญหา ดูเหมือนเขาจะย้ายที่ทันทีที่ สร้างความปั่นป่วนพอใน ย่านหนึ่งแล้ว
+05-0294	talk	I see. I guess he's pretty cautious, despite his appearance.	เข้าใจแล้ว ดูท่าจะระมัดระวังตัวอยู่เหมือนกัน ทั้งที่หน้าตาแบบนั้น
+05-0295	talk	Hmm. If we can analyze his pattern, we might be able to figure out where he'll go next...	อืม ถ้าเราวิเคราะห์แพทเทิร์นของเขาได้ อาจจะเดาได้ว่าเขาจะไปที่ไหนต่อ...
+05-0296	talk	Great idea. Let's put our thinking caps on.	ไอเดียเยี่ยมเลยครับ มาช่วยกันคิดกันเถอะ
+05-0297	talk	How about here?	ตรงนี้ล่ะ?
+05-0298	talk	This was the area the Panty Professor worked in.	ตรงนี้เป็นพื้นที่ที่ ศาสตราจารย์กางเกงในเคยทำงาน อยู่ครับ
+05-0299	talk	There are already reports of him appearing there, so that's probably out.	มีรายงานว่าเขาเคยโผล่ตรงนั้นแล้วด้วย งั้นก็คงตัดออกได้
+05-0300	talk	(So G.I. has already exhausted his time on the Panty Professor's turf...)	(งั้น G.I. ก็ใช้เวลาบนถิ่นของ ศาสตราจารย์กางเกงในจนหมดไปแล้ว สินะ...)
+05-0301	talk	(Then the next likely place would be...)	(ถ้างั้นที่ต่อไปที่น่าจะเป็นไปได้คือ...)
+05-0302	talk	Ugh. Oh no...	อุ๊ย ไม่นะ...
+05-0303	talk	My butt! There are phantom hands on my ass!	ก้นผม! มีมือผีมาลูบก้นผม!
+05-0304	talk	Yosuke?	โยสึเกะ?
+05-0305	talk	Yagami-san... That's the place my brother was groped.	ยากามิซัง... ตรงนั้นแหละค่ะที่พี่ชายฉันโดนลวนลาม
+05-0306	talk	Even now, when I think about it, I can still feel his hand clenched around my tender cheeks...	จนตอนนี้พอนึกถึงทีไร ผมยังรู้สึกได้ถึงมือของมันที่ กำแก้มก้นนุ่ม ๆ ของผมอยู่เลย...
+05-0307	talk	It sends a shiver up my spine... Or down my butt... It's bad either way.	มันทำให้ขนลุกซู่ไปทั้งตัว... หรือจะบอกว่าซู่ลงก้นก็ได้... ยังไงก็แย่พอกัน
+05-0308	talk	I'm sorry. It sounds like you're pretty traumatized.	ขอโทษด้วยนะ ฟังดูเหมือนนายจะติดใจเรื่องนี้ ไม่น้อยเลย
+05-0309	talk	Anyway, G.I. has been spotted in that area, so he probably won't pop up again there.	ยังไงก็เถอะ มีคนเจอ G.I. แถวนั้นแล้ว เขาคงไม่โผล่มาที่เดิมอีกครับ
+05-0310	talk	(So G.I. has already exhausted his time on Ass Catchem's turf...)	(งั้น G.I. ก็ใช้เวลาบนถิ่นของจอมจับตูดจน หมดไปแล้วเหมือนกัน...)
+05-0311	talk	The Hotel District?	ย่านโรงแรมเหรอครับ?
+05-0312	talk	Yes, G.I. is taking advantage of the Twisted Trio's empty turf, which means...	ใช่ G.I. กำลังฉวยโอกาสจากถิ่นว่างของสามโรคจิต ซึ่งหมายความว่า...
+05-0313	talk	Judge Creep 'n Peep's old stomping ground is ripe for the taking right now.	ถิ่นเก่าของผู้พิพากษาจอมถ้ำมอง กำลังพร้อมให้ยึดครองอยู่ตอนนี้
+05-0314	talk	You're really smart, Yagami-san!	คุณเก่งมากจริง ๆ เลยค่ะ ยากามิซัง!
+05-0315	talk	I guess I'll stake out the Hotel District for a few, and see what I find.	งั้นผมคงต้องไปเฝ้าดูย่านโรงแรมสักพัก ดูว่าจะเจออะไรบ้าง
+05-0316	talk	Thank you! I'll look forward to the report!	ขอบคุณครับ! ผมรอฟังรายงานเลยนะ!
+05-0317	talk	(If G.I. is as cautious as I suspect he is, he'll be on high alert, even though this area is primed for him.)	(ถ้า G.I. ระวังตัวอย่างที่ผมคิด เขาคงเฝ้าระวังเต็มที่ ถึงย่านนี้จะพร้อมสำหรับเขาก็ตาม)
+05-0318	talk	(He'd probably try to hide his features... So I need to look carefully for features he can't conceal.)	(เขาคงพยายามซ่อนลักษณะเด่นของตัวเอง... ผมเลยต้องมองหาจุดที่ซ่อนไม่ได้ให้ดี)
+05-0319	talk	(Hm, that guy's bald, but...)	(อืม คนนั้นหัวล้าน แต่...)
+05-0320	talk	(Sunglasses and a mask... Talk about suspicious. Not to mention how he's ogling these women.) 	(แว่นกันแดดกับหน้ากาก... น่าสงสัยสุด ๆ ยังไม่นับที่จ้องมองผู้หญิงพวก นั้นแบบนั้นอีก)
+05-0321	talk	(I'll follow him for a few.)	(ตามเขาไปสักพักดีกว่า)
+05-0322	talk	(No. He doesn't match the profile. This isn't the guy...)	(ไม่ใช่ เขาไม่ตรงกับลักษณะที่หาไว้ ไม่ใช่คนนี้...)
+05-0323	talk	Eeeeeek!	กรี๊ดดดด!
+05-0324	talk	It's you. Have you come to bask in the shadow of my scrotum totem?	คุณนี่เอง คุณมาอาบร่มเงาแห่งเสา ศักดิ์สิทธิ์ลูกอัณฑะของผมหรือ?
+05-0325	talk	Your what!?	อะไรของนายนะ!?
+05-0326	talk	Ahh!	อ๊าก!
+05-0327	talk	Is that a... leaf?	นั่นมัน... ใบไม้เหรอ?
+05-0328	talk	Hahaha. You are not welcome around my son. The Exhibitionism Emperor's gates do not open for men.	ฮ่าฮ่าฮ่า คุณไม่ได้รับการต้อนรับให้ เข้าใกล้บุตรชายของผมหรอก ประตูของจักรพรรดิจอมโชว์ไม่ เปิดรับบุรุษ
+05-0329	talk	...Farewell.	...ลาก่อน
+05-0330	talk	Tch!	เชอะ!
+05-0331	talk	I have you cornered. Time to give up.	ผมต้อนนายจนมุมแล้ว ยอมแพ้ได้แล้ว
+05-0332	talk	Why so shocked? Surprised to discover that Giant Impact is such an old man?	ทำไมถึงตกใจขนาดนั้น แปลกใจที่รู้ว่า ไจแอนต์อิมแพ็กต์เป็นชายชราขนาด นี้หรือ?
+05-0333	talk	Imagine having a body like this at 78! And a son so magnificent! Are you not in awe!?	ลองคิดดูสิว่าจะมีร่างกายแบบนี้ ได้ตอนอายุ 78 ปี! แถมมีบุตรชายที่งดงามถึงเพียงนี้! คุณไม่ทึ่งบ้างหรือ!?
+05-0334	talk	78? No way...	78 เหรอ ไม่จริงน่า...
+05-0335	talk	You are all but hairless, swaddled babes before me and my man root! Now, face the power of 78 years of perversion!	คุณเป็นเพียงทารกไร้ขนต่อหน้าผม กับรากบุรุษของผม! บัดนี้จงประจันหน้ากับพลังแห่ง 78 ปีของความโรคจิต!
+05-0336	talk	Perpetual perversion! Ceaseless creeping! I, Shinzaburo Ishikawa, am your opponent!	โรคจิตนิรันดร์! การคืบคลานไม่สิ้นสุด! ผม ชินซาบุโระ อิชิกาวะ คือคู่ต่อสู้ของคุณ!
+05-0337	talk	...Ggh! So it's true that you're the one who defeated the Twisted Trio!? And now I too, have fallen!	...อึก! งั้นก็จริงสินะที่คุณเป็นคนปราบ สามโรคจิตนั่น!? แล้วบัดนี้ผมก็ต้องล้มลงเช่นกัน!
+05-0338	talk	Just tell me why. Why would you go around exposing yourself like that?	แค่บอกผมมาว่าทำไม ทำไมนายถึงต้องไปโชว์ของแบบนั้นด้วย?
+05-0339	talk	...Very well. You defeated me. You've earned an explanation.	...ก็ได้ คุณเอาชนะผมได้แล้ว คุณสมควรได้รับคำอธิบาย
+05-0340	talk	To tell the truth...	จะบอกความจริงให้ก็ได้...
+05-0341	talk	What! Seriously?	อะไรนะ! จริงเหรอ?
+05-0342	talk	Yes. Even at this age, I am as celibate as a child. My massive phallus has never known another's pleasure.	ใช่ แม้จะอายุขนาดนี้ ผมก็บริสุทธิ์ราวกับเด็ก อวัยวะเพศมหึมาของผมไม่เคยได้ รู้จักความสุขของผู้ใดเลย
+05-0343	talk	I tried everything to win the favor of the ladies. I sculpted the body you see before you.	ผมลองทำทุกอย่างเพื่อชนะใจสตรี ผมปั้นร่างกายที่คุณเห็นอยู่ ตรงหน้านี้ขึ้นมา
+05-0344	talk	But it was no use. I began to despair...	แต่ก็ไร้ผล ผมเริ่มสิ้นหวัง...
+05-0345	talk	It was tragic irony. How could I die before utilizing such massive meat? It was too much to bear.	มันคือโศกนาฏกรรมอันน่าขัน จะให้ผมตายไปทั้งที่ยังไม่ได้ ใช้เนื้อชิ้นมหึมานี้ได้อย่างไร มันช่างทนไม่ไหว
+05-0346	talk	So... I loosed my son upon the world.	ดังนั้น... ผมจึงปล่อยบุตรชายของผมออกสู่โลกกว้าง
+05-0347	talk	I-I see... Except not really. I can't even begin to understand that logic.	อ-อ๋อ เข้าใจแล้ว... เอาจริง ๆ ก็ไม่เข้าใจหรอก ผมนึกตามตรรกะนั้นไม่ออกเลยสักนิด
+05-0348	talk	...Hmph. The shrieking of those women... That was the only way my son felt alive.	...ฮึ่ม เสียงกรีดร้องของสตรีเหล่านั้น... เป็นหนทางเดียวที่บุตรชายผม รู้สึกว่ามีชีวิตอยู่
+05-0349	talk	But... all things must end. My regrets are many, and yet they hardly matter now...	แต่... ทุกสิ่งย่อมมีจุดจบ ผมมีเรื่องเสียใจมากมาย ทว่าตอนนี้มันแทบไม่มีความหมายแล้ว...
+05-0350	talk	Whoa! H-Hey!	โว้ย! น-นี่!
+05-0351	talk	Zzzzzzzz...	กรอกกกก...
+05-0352	talk	Oh. I guess the fight took a lot out of him...	อ้อ คงเพราะการต่อสู้ทำเอาแรงหมดไป เยอะสินะ...
+05-0353	talk	So G.I. was actually 78 years old...	งั้น G.I. อายุตั้ง 78 ปีจริง ๆ ด้วยเหรอเนี่ย...
+05-0354	talk	I guess all that pent-up testosterone finally cracked him at that age...	คงเป็นเพราะฮอร์โมนที่อัดอั้นมา นานทำให้เขาแตกหักตอน อายุขนาดนั้นแหละ...
+05-0355	talk	I almost feel bad for him. 78 years of isolation... Who wouldn't become a monster?	ผมแทบจะสงสารเขาเลยนะ อยู่อย่างโดดเดี่ยวมา 78 ปี... ใครจะไม่กลายเป็นปีศาจกันบ้าง
+05-0356	talk	If he'd found love, maybe things would have been different for him.	ถ้าเขาเจอความรักสักครั้ง ทุกอย่างอาจจะต่างไปจากนี้ก็ได้
+05-0357	talk	Hey, let's not turn this into a pity party for a pervert.	เฮ้ อย่าเพิ่งมาสงสารโรคจิตกัน ตรงนี้เลยน่า
+05-0358	talk	Well, you know where to find me if any more perverts come out of the woodwork.	เอาเถอะ ถ้ามีโรคจิตโผล่มาอีก ก็รู้แล้วนี่ว่าจะหาผมได้ที่ไหน
+05-0359	talk	Although I'd say we've done our fair share in that department...	ถึงจะบอกได้ว่าเราทำหน้าที่ใน เรื่องนั้นไปพอสมควรแล้วก็เถอะ...
+05-0360	talk	Yes. Thank you so much, Yagami-san!	ค่ะ ขอบคุณมากจริง ๆ เลยค่ะ ยากามิซัง!
+05-0361	talk	(We're moving away from Tsukino-san's scream!)	(นี่มันไกลจากเสียงกรีดร้องของ สึกิโนะซังไปเรื่อย ๆ!)
+05-0362	talk	Are you all right!? Did he hurt you!?	ไม่เป็นไรใช่ไหม!? มันทำร้ายคุณหรือเปล่า!?
+05-0363	talk	(Where could Giant Impact appear next?)	(ไจแอนต์อิมแพ็กต์จะโผล่มาที่ไหนต่อ?)
+05-0364	talk	I'm actually... a virgin.	อันที่จริงผม... ยังบริสุทธิ์อยู่
+05-0365	talk	(All right. I have a good view of the Hotel District here.)	(เอาล่ะ ตรงนี้มองเห็นย่านโรงแรมได้ชัดดี)
+05-0366	talk	(Okay. Now to wait for our guy.)	(โอเค ทีนี้ก็รอเจ้าคนนั้นแหละ)
+05-0367	talk	(This is where the client told me to meet him...)	(ตรงนี้แหละที่ลูกความบอกให้มาเจอกัน...)
+05-0368	talk	Detective Yagami?	นักสืบยากามิ?
+05-0369	talk	Are you my client?	คุณคือลูกความผมใช่ไหม?
+05-0370	talk	Yeah. You can call me "Crow."	ใช่ เรียกผมว่า "โครว์" ก็แล้วกัน
+05-0371	talk	That mask... Are you in that group of thieves everyone's been whispering about lately?	หน้ากากนั่น... คุณเป็นคนในกลุ่มโจรที่ใคร ๆ เขาลือกันช่วงนี้ใช่ไหม?
+05-0372	talk	Why, you wouldn't snitch if I was, would you?	ทำไมล่ะ ถ้าใช่ คุณจะไปแจ้งตำรวจหรือไง?
+05-0373	talk	We may be thieves, but we don't steal from the righteous. Just the bad guys. You know, like Robin Hood.	พวกเราอาจเป็นโจร แต่เราไม่ขโมยของจากคนดี ขโมยแต่คนเลว ประมาณโรบินฮู้ดน่ะ
+05-0374	talk	And because they're bad, it's not a crime? That's for a judge to decide, not me.	แล้วแค่เพราะเขาเลว มันเลยไม่ใช่อาชญากรรมงั้นเหรอ นั่นเป็นเรื่องที่ผู้พิพากษา ต้องตัดสิน ไม่ใช่ผม
+05-0375	talk	Really? You're more of a goody-two-shoes than I thought.	จริงเหรอ คุณนี่มันคนดีเป๊ะยิ่งกว่าที่ผม คิดไว้อีก
+05-0376	talk	(The barkeep at Tender told me this was a request from one of his regulars...)	(บาร์เทนเดอร์ที่เทนเดอร์บอกผม ว่านี่เป็นคำขอจากขาประจำของ ร้าน...)
+05-0377	talk	(But he knew I'd turn down a request from a thief, so he lied to me... Damn, that's cold.)	(แต่เขารู้ว่าผมจะปฏิเสธงานจากโจรแน่ ๆ เลยโกหกผม... เฮ้อ เย็นชาจริง ๆ)
+05-0378	talk	Here's the thing. I protect my clients' privacy, so you can rest easy about that.	เอาเป็นว่างี้ ผมปกป้องความเป็นส่วนตัวของลูก ความเสมอ คุณวางใจได้ในเรื่องนั้น
+05-0379	talk	But if you're trying to get me to help you steal something... I'm not accepting your case.	แต่ถ้าคุณจะให้ผมช่วยขโมยอะไรสักอย่าง... ผมไม่รับงานนี้แน่
+05-0380	talk	Okay, that suits me fine, because all I want you to do is find someone.	ได้เลย นั่นแหละที่ผมต้องการพอดี เพราะสิ่งเดียวที่ผมอยากให้คุณ ทำคือตามหาคนคนหนึ่ง
+05-0381	talk	Find someone?	ตามหาคนเหรอ?
+05-0382	talk	He goes by "Jester." I don't know his real name.	เขาใช้ชื่อว่า "เจสเตอร์" ผมไม่รู้ชื่อจริงของเขาหรอก
+05-0383	talk	So he's...	งั้นเขาก็...
+05-0384	talk	Yes, he's one of ours. But I haven't been able to reach him for a while.	ใช่ เขาเป็นพวกเดียวกับผม แต่ผมติดต่อเขาไม่ได้มาพักหนึ่งแล้ว
+05-0385	talk	I think it's safe to say he's missing in action.	พูดได้เต็มปากเลยว่าตอนนี้เขา สูญหายไปแล้ว
+05-0386	talk	You know what he looks like?	รู้ไหมว่าหน้าตาเขาเป็นยังไง?
+05-0387	talk	As his name suggests, he wears a jester's mask.	ตามชื่อเลย เขาใส่หน้ากากตัวตลก
+05-0388	talk	Oh really?	อ้อ จริงเหรอ
+05-0389	talk	(I know exactly who that is...)	(ผมรู้เป๊ะเลยว่านั่นคือใคร...)
+05-0390	talk	One of our guys screwed the pooch, and we ended up needing to run from the cops.	คนของเรารายหนึ่งพลาดงานเข้า พวกเราเลยต้องหนีตำรวจกันจ้าละหวั่น
+05-0391	talk	We only managed to get away because Jester distracted them.	ที่พวกเรารอดมาได้ก็เพราะ เจสเตอร์ล่อให้พวกมันเสียสมาธิ ไว้
+05-0392	talk	Hm. Sounds like a helluva friend.	อืม ฟังดูเป็นเพื่อนที่ยอดเยี่ยมเลยนะ
+05-0393	talk	That's when we lost touch with him, though.	แต่ก็ตั้งแต่ตอนนั้นแหละที่ พวกเราขาดการติดต่อกับเขาไป
+05-0394	talk	But he's way too good to get captured. And that's what makes his silence all the more perplexing.	แต่เขาเก่งเกินกว่าจะโดนจับได้ นั่นแหละที่ทำให้ความเงียบของ เขายิ่งน่างุนงงเข้าไปอีก
+05-0395	talk	Sounds like you have a lot of faith in him.	ฟังดูคุณเชื่อใจเขามากเลยนะ
+05-0396	talk	He's our ace in the hole. He's smart, professional, and really good.	เขาคือไพ่ตายของเรา ทั้งฉลาด มืออาชีพ และเก่งจริง
+05-0397	talk	So if he's in trouble, we need to be there for him this time.	ดังนั้นถ้าเขากำลังเดือดร้อน คราวนี้พวกเราต้องอยู่เคียงข้าง เขาให้ได้
+05-0398	talk	I'll pay you 50,000 yen! And don't worry, it's clean money!	ผมจะจ่ายให้ 50,000 เยน! ไม่ต้องห่วง เงินสะอาดแน่นอน!
+05-0399	talk	(I was curious about that guy myself... If I take this job, maybe we'll cross paths again.)	(ผมเองก็อยากรู้เรื่องเจ้าคนนั้น อยู่เหมือนกัน... ถ้ารับงานนี้ อาจจะได้เจอกันอีกครั้งก็ได้)
+05-0400	talk	All right. I'll accept the case.	ได้ ผมรับงานนี้
+05-0401	talk	Then it's a done deal! We'll be expecting results.	งั้นก็ตกลงตามนี้! พวกเราจะรอผลงานนะ
+05-0402	talk	Wait. How should I get in touch with you if I find anything?	เดี๋ยวก่อน ถ้าผมเจออะไร จะติดต่อคุณยังไง?
+05-0403	talk	Come back here when you find something out. We always have someone watching this spot.	แค่กลับมาที่นี่เมื่อเจออะไรแล้ว พวกเรามีคนเฝ้าจุดนี้อยู่ตลอด
+05-0404	talk	We'll know when you come, Yagami-san.	พอคุณมา พวกเราจะรู้เองครับ ยากามิซัง
+05-0405	talk	So long, then.	งั้นแล้วเจอกันนะ
+05-0406	talk	(I'm helping a group of notorious thieves find their buddy... What is life, if not an adventure...)	(ผมกำลังช่วยแก๊งโจรชื่อดังตามหา เพื่อนของพวกเขา... ชีวิตมันคือการผจญภัยจริง ๆ...)
+05-0407	talk	(Where do I even begin?)	(จะเริ่มจากตรงไหนดีนะ?)
+05-0408	talk	(I guess it wouldn't hurt to check out the spot where I saw him last.)	(ลองไปดูจุดที่ผมเห็นเขา ครั้งสุดท้ายก่อนก็คงไม่เสียหาย)
+05-0409	talk	(If I recall, that was the building behind Tenkaichi Street. Let's move.)	(ถ้าจำไม่ผิด ตึกนั้นอยู่หลังถนนเทนไคจิ ไปกันเลย)
+05-0410	talk	(This is where the thief helped me out...)	(ตรงนี้แหละที่โจรคนนั้นช่วยผมไว้...)
+05-0411	talk	(Nothing seems out of the ordinary, though.)	(แต่ก็ดูไม่มีอะไรผิดปกตินี่)
+05-0412	talk	(Wait... Isn't that him!?)	(เดี๋ยวนะ... นั่นไม่ใช่เขาเหรอ!?)
+05-0413	talk	Are you here on the trail of certain... thieves? I'm a huge fan!	คุณมาตามล่ากลุ่มโจร... นั่นใช่ไหม ฉันเป็นแฟนตัวยงเลยนะ!
+05-0414	talk	Huh? You're a <font_kind=yakuza_italic>fan</font_kind>?	หา? คุณเป็น<font_kind=yakuza_italic>แฟน</font_kind>เขาเหรอ?
+05-0415	talk	Yeah! I'm a major thief aficionado! 	ใช่! ฉันคลั่งไคล้เรื่องโจรมากเลยล่ะ! 
+05-0416	talk	When I heard they'd been spotted here, I totally had to come down and check it out!	พอได้ยินว่ามีคนเจอพวกเขาแถวนี้ ฉันต้องรีบมาดูให้เห็นกับตาเลย!
+05-0417	talk	Wait, so... You're not a member yourself?	เดี๋ยวนะ... งั้นคุณไม่ใช่สมาชิกเองเหรอ?
+05-0418	talk	Haha, nah. But I look the part, right? You wouldn't believe what I went through to get this stuff.	ฮ่าฮ่า เปล่าหรอก แต่ดูเข้าท่าใช่ไหมล่ะ คุณไม่มีทางเชื่อหรอกว่าฉันต้อง ผ่านอะไรมาบ้างกว่าจะ ได้ของพวกนี้มา
+05-0419	talk	Yeah, but why?	อือ แต่ทำไมล่ะ?
+05-0420	talk	Because! Just check out these silver accessories, man. 500,000 yen, when all was said and done!	ก็เพราะ! ดูเครื่องประดับเงินพวกนี้สิ รวมแล้วปาไป 500,000 เยนเลยนะ!
+05-0421	talk	You're kidding me, right!? What's even the point of wearing that much bling?	ล้อเล่นใช่ไหมเนี่ย!? จะใส่เครื่องประดับเยอะขนาดนั้น ไปเพื่ออะไรกัน?
+05-0422	talk	Well, the ones that the thieves wear cost like, a few more 0's...	ก็... ของจริงที่โจรพวกนั้นใส่แพงกว่า นี้อีกหลายเท่าเลยนะ...
+05-0423	talk	But you can't fault a guy for wanting to dress like his heroes, can you?	แต่ก็จะไปโทษคนที่อยากแต่งตัว ให้เหมือนฮีโร่ของตัวเอง ไม่ได้หรอก จริงไหม?
+05-0424	talk	Oh, so these thieves have a style? I guess even thieves need to make a fashion statement...	อ้อ งั้นโจรพวกนี้ก็มีสไตล์ด้วยสินะ ดูเหมือนต่อให้เป็นโจรก็ต้องมี แฟชั่นเป็นของตัวเองเหมือนกันนะ...
+05-0425	talk	It's more of a recent thing. They used to be pretty generic.	เพิ่งจะเป็นแบบนี้ไม่นานมานี้เอง แต่ก่อนพวกเขาก็ธรรมดา ๆ นะ
+05-0426	talk	But now they wear really high end brands. When you get as good as them, I guess you can afford it!	แต่ตอนนี้ใส่แบรนด์เนมหรูมาก คงเพราะเก่งขนาดนั้นเลยมีปัญญา ซื้อได้มั้ง!
+05-0427	talk	So I see...	อ๋อ เข้าใจแล้ว...
+05-0428	talk	(The fee they offered was pretty generous, so I could already tell they weren't broke...)	(ค่าจ้างที่พวกเขาเสนอมาก็ ค่อนข้างงามอยู่แล้ว ผมพอเดาได้อยู่แล้วว่าไม่ได้ขัดสน...)
+05-0429	talk	Sorry man, can I ask you to snap a pic of me? I gotta post it to my Chatter!	ขอโทษนะ ช่วยถ่ายรูปให้หน่อยได้ไหม ต้องเอาไปโพสต์ Chatter ด่วนเลย!
+05-0430	talk	Uh, I'm a little busy for that. Sorry.	เอ่อ ตอนนี้ผมยุ่งอยู่หน่อยนะ ขอโทษด้วย
+05-0431	talk	(Well, this was a dead end. Maybe I should try Senryo Avenue.)	(เอาล่ะ ทางนี้ตันซะแล้ว ลองไปถนนเซ็นเรียวดูดีกว่า)
+05-0432	talk	Hey! Stop right there!	เฮ้! หยุดตรงนั้นนะ!
+05-0433	talk	(What's going on...?)	(เกิดอะไรขึ้นเนี่ย...?)
+05-0434	talk	Okay, meet up at the Kamuro Theater garden rooftop!	โอเค ไปเจอกันที่ดาดฟ้าสวนโรงละครคามุโรนะ!
+05-0435	talk	*huff* *huff* H-Hold it...!	*หอบ* *หอบ* ห-หยุดก่อน...!
+05-0436	talk	(Weren't those two in the same group of thieves?)	(สองคนนั้นไม่ใช่คนในแก๊งโจร กลุ่มเดียวกันเหรอ?)
+05-0437	talk	Did those guys just steal something, officer?	พวกนั้นเพิ่งขโมยอะไรไปหรือครับ คุณตำรวจ?
+05-0438	talk	Yeah! Some poor woman's handbag!	ใช่! กระเป๋าของผู้หญิงน่าสงสารคน หนึ่งเลยล่ะ!
+05-0439	talk	Really? Weren't they those thieves everyone's talking about lately? I thought they only stole from the unjust.	จริงเหรอครับ ไม่ใช่โจรที่ใคร ๆ พูดถึงกันช่วงนี้เหรอ ผมนึกว่าพวกนั้นขโมยแต่จากคน อยุติธรรมซะอีก
+05-0440	talk	That's a bald-faced lie! Nothing but propaganda!	นั่นมันโกหกหน้าด้าน ๆ! เป็นแค่โฆษณาชวนเชื่อล้วน ๆ!
+05-0441	talk	As you can tell, they're out here stealing whatever they can get their grubby mitts on, "just" or not!	อย่างที่เห็นเลย พวกมันขโมยทุกอย่างที่มือสกปรก ๆ คว้าถึง ไม่ว่าจะ "ยุติธรรม" หรือไม่ก็ตาม!
+05-0442	talk	(This doesn't add up...)	(มันไม่สมเหตุสมผลเลยนี่...)
+05-0443	talk	(Those guys said something about meeting at Kamuro Theater... Maybe I can catch up to them.)	(สองคนนั้นพูดถึงเรื่องนัดเจอ กันที่โรงละครคามุโร... ผมอาจตามไปทันก็ได้)
+05-0444	talk	(This is where those two purse snatchers were going to meet up...)	(ตรงนี้แหละที่สองคนชิงกระเป๋า นั้นนัดเจอกัน...)
+05-0445	talk	(Those clothes... Is that them?)	(ชุดนั้น... ใช่พวกเขาไหมนะ?)
+05-0446	talk	Whew, close one.	ฮู่ย เฉียดฉิวจริง ๆ
+05-0447	talk	I told you this was a bad move, man. We're just robbers now.	บอกแล้วไงว่าท่านี้มันแย่ ตอนนี้เราแค่พวกปล้นชาวบ้านเฉย ๆ
+05-0448	talk	I thought we were only gonna steal from the wicked? Isn't that Crow's whole philosophy?	นึกว่าเราจะขโมยแต่จากคนชั่วซะอีก นั่นไม่ใช่หลักการทั้งหมดของโครว์เหรอ?
+05-0449	talk	Maybe it was... But that hypocrite doesn't practice what he preaches, so why should we?	อาจจะเคยใช่... แต่ไอ้จอมหลอกลวงนั่นเองก็ไม่ทำ ตามที่ตัวเองพูดสักหน่อย แล้วทำไมเราต้องทำตามด้วยล่ะ?
+05-0450	talk	(What...?)	(อะไรนะ...?)
+05-0451	talk	That's what I read on the net too... But it's really true?	นั่นก็เป็นสิ่งที่ฉันอ่านเจอใน เน็ตเหมือนกัน... แต่มันจริงเหรอเนี่ย?
+05-0452	talk	Well, here's what I heard, man.	เอาล่ะ นี่คือสิ่งที่ฉันได้ยินมานะ
+05-0453	talk	Basically, he got offered a job by some big corporation to steal secrets from their competition.	พูดง่าย ๆ คือเขาได้รับงานจากบริษัทใหญ่ แห่งหนึ่งให้ไปขโมย ความลับจากคู่แข่ง
+05-0454	talk	The money they offered was so good, the senior members knew they couldn't turn it down.	เงินที่พวกนั้นเสนอมาดีมาก รุ่นพี่ ๆ เลยรู้ว่าปฏิเสธไม่ได้
+05-0455	talk	So they took it and then split the profits. And none of it even made it down to grunts like us.	พวกเขาเลยรับงาน แล้วก็แบ่งผลกำไรกันเอง ไม่มีเศษเงินไหนตกถึงพวกเรา ที่เป็นแค่ลูกมือเลยสักบาท
+05-0456	talk	What about Jester? He would never do that... Would he?	แล้วเจสเตอร์ล่ะ เขาไม่มีทางทำแบบนั้นแน่ ๆ... ใช่ไหม?
+05-0457	talk	No way. Jester's not like that.	ไม่มีทางหรอก เจสเตอร์ไม่ใช่คนแบบนั้น
+05-0458	talk	So what they told us about how he quit over the profit splitting... Think that's true?	งั้นเรื่องที่เขาบอกว่าเจสเตอร์ เลิกเพราะเรื่องแบ่งผลกำไรนี่... คิดว่าจริงไหม?
+05-0459	talk	No way, man. He didn't like how Crow was running the show, so he split.	ไม่จริงหรอก เขาไม่ชอบวิธีที่โครว์คุมงานต่างหาก เลยแยกตัวไป
+05-0460	talk	Damn, dude...	แม่งเอ๊ย...
+05-0461	talk	But I still say Jester's an idiot, too.	แต่ฉันก็ยังว่าเจสเตอร์มันโง่ เหมือนกันแหละ
+05-0462	talk	Just because you claim you're a righteous thief doesn't mean you're not gonna do time if the cops catch you.	แค่อ้างว่าตัวเองเป็นโจรผู้ทรงธรรม ก็ไม่ได้แปลว่าจะไม่ติดคุกถ้า ตำรวจจับได้นะ
+05-0463	talk	So what's the point? May as well try to come out ahead.	งั้นจะมีประโยชน์อะไร สู้พยายามเอาตัวรอดให้ได้เปรียบดีกว่า
+05-0464	talk	I guess, but... You think the rest of the crew knows all this?	ก็ว่างั้นแหละ แต่... คิดว่าคนอื่นในกลุ่มรู้เรื่อง พวกนี้หมดไหม?
+05-0465	talk	I doubt the newbies do.	หน้าใหม่คงไม่รู้หรอก
+05-0466	talk	They all bought into Crow's lies and they probably think Jester's actually "missing."	พวกเขาเชื่อคำโกหกของโครว์กันหมด คงคิดว่าเจสเตอร์ "หายตัวไป" จริง ๆ ด้วยซ้ำ
+05-0467	talk	So I say we keep getting better, and hope Crow cuts us in on the next big job.	ฉันว่าเรามาพัฒนาฝีมือกันต่อไป แล้วหวังว่าโครว์จะแบ่งเราเข้า งานใหญ่ครั้งหน้าดีกว่า
+05-0468	talk	Good a plan as any, right?	ก็เป็นแผนที่ดีเท่าที่จะหาได้แล้วนี่ จริงไหม?
+05-0469	talk	Wait a sec...!	เดี๋ยวก่อนนะ...!
+05-0470	talk	...Fuck it. I can't do this anymore. I'm gonna quit. Maybe I should just turn myself in...	...ช่างแม่ง ฉันทนทำแบบนี้ต่อไม่ไหวแล้ว ฉันจะเลิก บางทีฉันน่าจะไปมอบตัวซะเลยดีกว่า...
+05-0471	talk	(Well, shit. Sounds like this client's been trying to play me.)	(บ้าเอ๊ย ฟังดูเหมือนลูกความคนนี้พยายาม หลอกใช้ผมมาตลอด)
+05-0472	talk	(Jester isn't "missing," he just quit because his group got hijacked by this Crow guy.)	(เจสเตอร์ไม่ได้ "หายตัวไป" หรอก เขาแค่เลิกเพราะกลุ่มของเขาถูก ไอ้โครว์นี่ยึดครองไป)
+05-0473	talk	(And if I had to guess Crow's motivation for looking for Jester... Well, it couldn't be good.)	(แล้วถ้าให้ผมเดาแรงจูงใจที่ โครว์ตามหาเจสเตอร์... ก็คงไม่ใช่เรื่องดีแน่)
+05-0474	talk	(I think me and my client need to have a discussion.)	(ผมว่าผมกับลูกความคนนี้คงต้อง คุยกันสักหน่อยแล้ว)
+05-0475	talk	Who the hell are you? You trying to impersonate Jester with that mask?	มึงเป็นใครวะ พยายามปลอมเป็นเจสเตอร์ด้วย หน้ากากนั่นเหรอ?
+05-0476	talk	You aren't him! You tryin' to pull a fast one on us, dumbass!?	มึงไม่ใช่มันซะหน่อย จะมาหลอกกูรึไง ไอ้โง่!?
+05-0477	talk	E-Eek! I'm sorry!	อ๊ะ! ขอโทษ ๆ!
+05-0478	talk	Besides, Jester never wore all this loud, tacky shit.	อีกอย่าง เจสเตอร์ไม่เคยใส่เศษของฉูดฉาด ไร้รสนิยมแบบนี้หรอกโว้ย
+05-0479	talk	So here's a good plan... Why don't we take it off your hands? Then you'll really look the part! Hahaha!	งั้นแผนดี ๆ ก็มีอยู่... ปล่อยให้กูช่วยรับของพวกนี้ไปเองดีไหม แล้วมึงจะได้ดูสมบทบาทจริง ๆ! ฮ่าฮ่าฮ่า!
+05-0480	talk	(Those guys... What are they doing!?)	(สองคนนั้น... ทำอะไรกันอยู่วะ!?)
+05-0481	talk	Hey, stop!	เฮ้ หยุดนะ!
+05-0482	talk	Aren't you... that weird thieves fan?	คุณคือ... แฟนพันธุ์แท้แก๊งโจรตัวประหลาด คนนั้นไม่ใช่เหรอ?
+05-0483	talk	Y-Yes...?	ใ-ใช่...?
+05-0484	talk	I saw the thieves, and I wanted to shake their hands, but then they kinda...	ฉันเห็นพวกโจร แล้วอยากจะไปจับมือทักทาย แต่แล้วพวกเขาก็...
+05-0485	talk	Yagami-san... You came at a bad time.	ยากามิซัง... คุณมาผิดจังหวะจริง ๆ
+05-0486	talk	Crow... What's going on here?	โครว์... เกิดอะไรขึ้นที่นี่?
+05-0487	talk	A little slip up. More importantly, did you find Jester?	แค่พลาดนิดหน่อยน่ะ ที่สำคัญกว่านั้น คุณเจอเจสเตอร์หรือยัง?
+05-0488	talk	I'm disappointed. For a detective with a reputation for proving a murder suspect innocent, you're not that impressive.	ผมผิดหวังนะ นักสืบที่มีชื่อเสียงเรื่อง พิสูจน์ความบริสุทธิ์ให้ ผู้ต้องสงสัยคดีฆาตกรรม แต่กลับไม่น่าประทับใจขนาดนั้นเลย
+05-0489	talk	I could say the same of you. Righteous thieves? What a joke.	ผมก็พูดแบบเดียวกันกับคุณได้เหมือนกัน โจรผู้ทรงธรรมเหรอ ตลกสิ้นดี
+05-0490	talk	And your "missing" friend? That's all a lie too, right?	แล้วเพื่อนที่ "หายตัวไป" ของคุณล่ะ นั่นก็โกหกทั้งเรื่องเหมือนกันใช่ไหม?
+05-0491	talk	You're coming on pretty strong there, Yagami. Why would you ever think that?	คุณพูดจาแรงจังนะ ยากามิ ทำไมถึงคิดแบบนั้นล่ะ?
+05-0492	talk	I think there's plenty of evidence.	ผมว่ามีหลักฐานเยอะแยะเลยนะ
+05-0493	talk	The way I hear it, you broke the rule about only stealing from the corrupt.	เท่าที่ผมได้ยินมา คุณทำผิดกฎที่ว่าจะขโมยแต่จากคน ทุจริตเท่านั้น
+05-0494	talk	Huh? What are you talking about?	หา? พูดเรื่องอะไรกัน?
+05-0495	talk	The job was too good to pass up, wasn't it? You couldn't resist.	งานนั้นมันดีเกินกว่าจะปล่อย ผ่านใช่ไหมล่ะ คุณอดใจไม่ไหว
+05-0496	talk	You're talking out your ass. I don't keep any of the money I steal.	คุณพูดจาไร้สาระ ผมไม่เคยเก็บเงินที่ขโมยมาไว้ เองสักบาท
+05-0497	talk	It seems stupid to even have to point this out, but...	ดูจะโง่ที่ต้องมาชี้ให้เห็นเรื่องนี้ แต่...
+05-0498	talk	That crap you're wearing? I heard it's expensive. And how many do you even have? More than I could afford.	เศษของที่คุณใส่อยู่นั่นน่ะเหรอ ผมได้ยินว่าแพงมากเลยนะ แล้วคุณมีอยู่กี่ชิ้นกันแน่ เยอะกว่าที่ผมจะซื้อไหวเสียอีก
+05-0499	talk	Haha, now we're seeing the detective come out. You have a good eye.	ฮ่าฮ่า ตอนนี้เห็นความเป็นนักสืบออก มาแล้วสินะ สายตาคุณดีจริง ๆ
+05-0500	talk	So tell me, why are you really looking for Jester?	งั้นบอกผมมาสิ ทำไมคุณถึงตามหาเจสเตอร์จริง ๆ กันแน่?
+05-0501	talk	No reason, really. Just had a pretty tempting job to offer him.	ไม่มีเหตุผลอะไรหรอก แค่มีงานที่น่าดึงดูดจะเสนอให้เขาน่ะ
+05-0502	talk	We're going to rob the security van of a credit union. And the best part? The client is the credit union's manager.	พวกเราจะปล้นรถขนเงินของสหกรณ์ ออมทรัพย์แห่งหนึ่ง แล้วส่วนที่ดีที่สุดคือ ลูกความของงานนี้ก็คือผู้จัดการ ของสหกรณ์นั้นเอง
+05-0503	talk	They need a robbery to happen to cover up their financial failure. A classic insurance fraud.	พวกเขาต้องการให้เกิดการปล้นขึ้นจริง ๆ เพื่อกลบเกลื่อนความล้มเหลวทางการเงิน คลาสสิกเลยล่ะ การฉ้อโกงประกันภัย
+05-0504	talk	They get reimbursed by their insurance, and they expect us to give back what we steal, doubling their profits.	พวกเขาจะได้รับเงินชดเชยจากประกัน แล้วยังหวังให้พวกเราคืนของที่ ขโมยมาด้วย จะได้กำไรเป็นสองเท่า
+05-0505	talk	But I have no intention of giving it back. People are such idiots when they're backed into a corner!	แต่ผมไม่มีทางจะคืนให้หรอก คนเรานี่โง่จริง ๆ เวลาถูกต้อนจนมุม!
+05-0506	talk	So you're staging a robbery and then breaching your contract... What happened to honor among thieves?	งั้นคุณก็จัดฉากปล้นแล้วก็ทำ ผิดสัญญาซะเอง... แล้วเกียรติในหมู่โจรหายไปไหนหมด?
+05-0507	talk	That's how it was... at first.	มันเคยเป็นแบบนั้นแหละ... ตอนแรก
+05-0508	talk	We used to talk big on back channel net chats, but we'd always chicken out when it came to pulling the heist.	พวกเราเคยคุยโวกันใหญ่โตในแชทลับ แต่พอถึงเวลาจะลงมือปล้นจริง ๆ ก็ขี้ขลาดถอยหนีทุกที
+05-0509	talk	We were all talk. Just a bunch of losers on the web. Until he showed up.	พวกเราเอาแต่พูด เป็นแค่พวกไร้น้ำยาบนโลกออนไลน์ จนกระทั่งเขาโผล่มา
+05-0510	talk	You mean Jester.	หมายถึงเจสเตอร์เหรอ
+05-0511	talk	Yeah. He was a genius. He knew how to execute a plan.	ใช่ เขาเป็นอัจฉริยะ รู้วิธีดำเนินแผนให้สำเร็จ
+05-0512	talk	We owe it all to him that we got big enough to gain a following.	เราโตมาได้ขนาดนี้จนมีคนตามก็ เพราะเขาคนเดียว
+05-0513	talk	Yeah, and then he left you high and dry when you got too greedy.	ใช่ แล้วพอพวกนายโลภมากไป เขาก็ทิ้งไปดื้อๆ
+05-0514	talk	Yep. He was all about punishing social injustice. Always acting so high and mighty.	ใช่ เขาหมกมุ่นกับการลงโทษ ความอยุติธรรมในสังคม ชอบทำตัวสูงส่งอยู่เสมอ
+05-0515	talk	Then what makes you think he'll help you on this fraud heist?	แล้วอะไรทำให้นายคิดว่าเขาจะ ช่วยพวกนายในงานปล้นฉ้อโกง ครั้งนี้ล่ะ
+05-0516	talk	Who knows? If he saw what a payday it's gonna be, even he might have a change of heart.	ใครจะรู้ ถ้าเขาเห็นว่างานนี้ได้เงินมากแค่ไหน ต่อให้เป็นเขาก็อาจใจอ่อนได้
+05-0517	talk	And if he didn't?	แล้วถ้าเขาไม่ใจอ่อนล่ะ
+05-0518	talk	Then... I guess we'd be parting ways. Permanently.	งั้น... ฉันว่าคงต้องแยกทางกัน ตลอดกาล
+05-0519	talk	Sounds like that was your plan from the beginning. I take it you planned on getting rid of me too?	ฟังดูเหมือนนั่นคือแผนของนายมา ตั้งแต่แรก งั้นนายก็วางแผนจะกำจัดผมด้วยสินะ
+05-0520	talk	Of course. Especially now that you know what I've told you. I'm afraid your time has come!	แน่นอนอยู่แล้ว ยิ่งตอนนี้นายรู้เรื่องที่ฉัน บอกไปหมดแล้วด้วย เกรงว่าถึงเวลาของนายแล้วล่ะ!
+05-0521	talk	Yeah right. I took your job, and I expect to get paid!	พูดเป็นเล่นน่า ผมรับงานนายมา ก็ต้องได้เงินสิ!
+05-0522	talk	You need to disband your little group before you do anything really stupid.	นายควรยุบแก๊งเล็กๆ ของนายซะ ก่อนจะทำเรื่องโง่ๆ ไปมากกว่านี้
+05-0523	talk	And I think you owe an apology to everyone who joined you thinking you were some righteous bandit.	แล้วผมว่านายควรขอโทษทุกคนที่มา เข้าร่วมเพราะคิดว่านาย เป็นโจรผู้ทรงธรรมด้วยนะ
+05-0524	talk	Ergh... I'll end it, man...	อืม... ฉันจะยุติมันเอง เพื่อน...
+05-0525	talk	If you ever see Jester... And he's still out there playing the hero...	ถ้านายเจอเจสเตอร์เข้าสักวัน... แล้วเขายังออกไปเล่นบทฮีโร่อยู่...
+05-0526	talk	Can you tell him to take it down a notch?	ช่วยบอกเขาให้ผ่อนมือลงหน่อยได้ไหม
+05-0527	talk	He's over-extending himself. I don't really know what fuels his rage against injustice...	เขากำลังฝืนตัวเองเกินไป ฉันเองก็ไม่รู้ว่าอะไรที่จุดไฟ ความโกรธต่อ ความอยุติธรรมในตัวเขา...
+05-0528	talk	Probably some tragic shit in his past... But he's gotta stop. He'll get caught.	คงมีเรื่องเศร้าบัดซบอะไรสัก อย่างในอดีตของเขาแหละ... แต่เขาต้องหยุดได้แล้ว ไม่งั้นโดนจับแน่
+05-0529	talk	...All right. I'll talk to him.	...ได้ ผมจะไปคุยกับเขาให้
+05-0530	talk	I'll put the money directly into your bank account. Later.	ฉันจะโอนเงินเข้าบัญชีธนาคารนายโดยตรง ไว้เจอกัน
+05-0531	talk	(Well, this didn't get me any closer to Jester...)	(เอาล่ะ เรื่องนี้ไม่ได้ทำให้ผมเข้าใกล้ เจสเตอร์ขึ้นเลย...)
+05-0532	talk	(But I think I learned a few things about him all the same...)	(แต่ผมว่าอย่างน้อยก็ได้รู้อะไร เกี่ยวกับเขาเพิ่มขึ้น บ้างเหมือนกัน...)
+05-0533	talk	Tch, looks like we got company. Bring him down too!	เชอะ ท่าทางจะมีคนแปลกหน้ามาด้วย จัดการมันด้วยเลย!
+05-0534	talk	You call <font_kind=yakuza_italic>that</font_kind> evidence?	นายเรียก<font_kind=yakuza_italic>นั่น</font_kind>ว่าหลักฐานเหรอ?
+05-0535	talk	(What? Oh shit, that's not right.)	(อะไรนะ? บ้าจริง นั่นมันผิดนี่)
+05-0536	talk	No, sorry. But I do have something better.	เปล่า ขอโทษที แต่ผมมีอะไรที่ดีกว่านั้น
+05-0537	talk	Your claim that you thieves are so righteous is a lie, and here's the proof.	คำอ้างที่ว่าพวกโจรอย่างนาย ทรงธรรมนั้นเป็นเรื่องโกหก แล้วนี่คือหลักฐาน
+05-0538	talk	Hm? What the heck is that?	หืม? นั่นมันอะไรกันวะ?
+05-0539	talk	I have something better.	ผมมีอะไรที่ดีกว่านั้น
+05-0540	talk	You're lying when you say you don't keep the money. And this is the proof.	นายโกหกตอนบอกว่าไม่เก็บเงินไว้เอง แล้วนี่คือหลักฐาน
+05-0541	talk	(I've gotta get to him before he bails!)	(ผมต้องไปให้ถึงตัวเขาก่อนที่เขา จะหนีไป!)
+05-0542	talk	Welcome. Oh my... Pardon me, sir, but that piece of art you're carrying! It's absolutely astonishing!	ยินดีต้อนรับ โอ้โฮ... ขออภัยด้วย คุณลูกค้า งานศิลปะที่ถืออยู่นั่น! สุดยอดไปเลย!
+05-0543	talk	...Ah, how impolite of me. My name is Fukutsu, and I'm the manager here.	...อ้า เสียมารยาทจริงๆ ขอแนะนำตัว ฟุคุตสึ ผู้จัดการร้านนี้เอง
+05-0544	talk	Oh. Nice to meet you.	อ้อ ยินดีที่ได้รู้จักครับ
+05-0545	talk	May I ask your name, sir?	ขอทราบชื่อคุณลูกค้าได้ไหมนะ?
+05-0546	talk	A question, Yagami-sama. Would you please sell us that painting you have with you?	ขอถามหน่อยนะ คุณยากามิ จะรบกวนขายภาพวาดที่ถืออยู่นั่น ให้ทางร้านได้ไหม?
+05-0547	talk	You mean... this?	หมายถึง...อันนี้เหรอ?
+05-0548	talk	Yes, that's an original by Fuka Shiranui.	ใช่แล้ว นั่นคือภาพต้นฉบับของฟุกะ ชิรานุย
+05-0549	talk	...An original by <font_kind=yakuza_italic>who</font_kind>-ka?	...ต้นฉบับของ<font_kind=yakuza_italic>ใคร</font_kind>-นุยนะ?
+05-0550	talk	I figured you hadn't heard of him. Although he is Japan's top painter, he rarely shows his face in public.	คิดไว้แล้วว่าคุณลูกค้าคงไม่เคย ได้ยินชื่อเขา ทั้งที่จริงเขาคือจิตรกรอันดับ หนึ่งของญี่ปุ่น แต่แทบไม่เคยเปิดเผยตัวต่อสาธารณะเลย
+05-0551	talk	His abstract paintings possess a unique force that draws people in, no matter their expertise on the subject.	ภาพวาดนามธรรมของเขามีพลัง ดึงดูดที่เป็นเอกลักษณ์ ไม่ว่าใครจะมีความรู้เรื่อง ศิลปะแค่ไหนก็ตาม
+05-0552	talk	We aim to emphasize more of Fuka Shiranui's pieces here.	ทางร้านตั้งใจจะเน้นจัดแสดง ผลงานของฟุกะ ชิรานุยให้มากขึ้น
+05-0553	talk	So please consider selling us his painting. We can pay quite a hefty sum for it, you know.	ฉะนั้นรบกวนพิจารณาขายภาพนี้ให้ ทางร้านด้วย ให้ราคาสูงทีเดียวนะ
+05-0554	talk	(Well, it's not like it's any use to me...)	(ก็ไม่เหมือนว่ามันจะมีประโยชน์ อะไรกับผมนี่...)
+05-0555	talk	Welcome. Oh my... That painting you have there!	ยินดีต้อนรับ โอ้โฮ... ภาพวาดที่ถืออยู่นั่น!
+05-0556	talk	It's by Fuka Shiranui, is it not? Would you mind letting us take it off your hands?	เป็นผลงานของฟุกะ ชิรานุยใช่ไหม? รบกวนให้ทางร้านรับซื้อไปได้ไหม?
+05-0557	talk	(I doubt I'll hang it up in the office any time soon. Should I sell this to Ebisu Pawn then?)	(คงไม่ได้เอาไปแขวนที่ออฟฟิศเร็วๆ นี้หรอก งั้นขายให้โรงจำนำเอบิสุดีไหมนะ?)
+05-0558	talk	Yagami-san, would you please consider selling us that Fuka Shiranui painting?	ยากามิซัง รบกวนพิจารณาขายภาพวาดฟุกะ ชิรานุยชิ้นนั้นให้ทางร้านหน่อยได้ไหม?
+05-0559	talk	We'll pay quite the hefty sum for it.	ทางร้านจะให้ราคาสูงทีเดียว
+05-0560	talk	Thank you for letting us have that painting!	ขอบคุณมากที่ยกภาพวาดนั้นให้ทางร้าน!
+05-0561	talk	Not a problem. It's better off in your hands than mine.	ไม่เป็นไรครับ อยู่กับทางร้านคงดีกว่าอยู่กับผม
+05-0562	talk	If you ever get your hands on another one, please don't hesitate to stop by.	ถ้าได้ภาพแบบนี้มาอีก อย่าลังเลที่จะแวะมาเลยนะ
+05-0563	talk	Thank you. I await your return with bated breath!	ขอบคุณมาก จะรอคอยการกลับมาเยือนด้วยใจจดจ่อ!
+05-0564	talk	Yagami-san, I'm astounded. I never imagined you'd be able to procure this many Fuka Shiranui originals for us.	ยากามิซัง อึ้งไปเลยจริงๆ ไม่เคยคาดคิดว่าคุณลูกค้าจะหา ภาพต้นฉบับของฟุกะ ชิรานุยมาให้ทางร้านได้มากขนาดนี้
+05-0565	talk	Well, I didn't do much. I kind of just stumbled across them.	ก็ไม่ได้ทำอะไรมากหรอกครับ แค่บังเอิญเจอเข้าเอง
+05-0566	talk	Either way, I want to show you my full gratitude.	ยังไงก็ตาม อยากแสดงความขอบคุณอย่างเต็มที่
+05-0567	talk	How about every time you bring in an item for appraisal, I'll increase its value by ten percent?	แบบนี้เป็นไง ทุกครั้งที่คุณลูกค้านำของมาให้ ประเมินราคา จะเพิ่มมูลค่าให้อีกสิบเปอร์เซ็นต์
+05-0568	talk	What? You sure you can just do that?	หา? ทำแบบนั้นได้จริงเหรอ?
+05-0569	talk	Of course, it's the least I can do.	แน่นอน แค่นี้ถือว่าเล็กน้อยมาก
+05-0570	talk	Wow, thanks so much!	โห ขอบคุณมากเลยครับ!
+05-0571	talk	My pleasure. I shall eagerly await your return.	ยินดีเสมอ จะรอคอยการกลับมาเยือนด้วยใจจดจ่อ
+05-0572	talk	What's wrong, Amane-san? You okay?	เป็นอะไรไป อามาเนะซัง? โอเคไหม?
+05-0573	talk	I am not the one who requires your aid. You must go after the great calamity.	ไม่ใช่ดิฉันหรอกที่ต้องการ ความช่วยเหลือจากคุณ คุณต้องตามไปจัดการลางร้ายครั้ง ใหญ่นั่นต่างหาก
+05-0574	talk	Woah, woah. You sure you're okay...?	เดี๋ยวๆ แน่ใจนะว่าโอเค...?
+05-0575	talk	Can you try to walk me through what happened?	ช่วยเล่าให้ฟังหน่อยได้ไหมว่า เกิดอะไรขึ้น?
+05-0576	talk	I witnessed a great calamity on a passerby, but when I warned him, he lashed out at me...	ดิฉันเห็นลางร้ายครั้งใหญ่เกิด กับคนเดินผ่านไปมาคนหนึ่ง แต่พอเตือนเขา เขากลับพาลใส่ดิฉัน...
+05-0577	talk	He told me I was annoyingly persistent.	เขาบอกว่าดิฉันดื้อรั้นน่ารำคาญ
+05-0578	talk	Persistent? Why would he say that?	ดื้อรั้นเหรอ? ทำไมเขาถึงพูดแบบนั้น?
+05-0579	talk	Because I foresaw his future about a month ago as well. A calamity of fire.	เพราะดิฉันเคยทำนายอนาคตของเขา มาก่อนแล้วเมื่อประมาณเดือนก่อน ลางร้ายรูปไฟ
+05-0580	talk	And when I saw him again earlier...	แล้วพอดิฉันเห็นเขาอีกครั้งเมื่อครู่...
+05-0581	talk	I couldn't help but notice how alarmingly large the aura of his calamity had become.	อดสังเกตไม่ได้เลยว่าออร่าแห่ง ลางร้ายของเขาใหญ่โตขึ้น อย่างน่าตกใจ
+05-0582	talk	A calamity's aura can change size?	ออร่าของลางร้ายเปลี่ยนขนาด ได้ด้วยเหรอ?
+05-0583	talk	I've never seen anything like it, to be frank. So I warned him again...	บอกตรงๆ ว่าไม่เคยเห็นแบบนี้มาก่อนเลย ดิฉันเลยเตือนเขาอีกครั้ง...
+05-0584	talk	And that's when he attacked you, huh? From his perspective, you probably seemed like a scammer or something.	แล้วตอนนั้นแหละที่เขาทำร้ายคุณสินะ? จากมุมมองของเขา คุณคงดูเหมือนพวกมิจฉาชีพหรือ อะไรสักอย่าง
+05-0585	talk	Regardless... A calamity of that magnitude, I cannot even imagine the havoc it may reap.	ยังไงก็ตาม... ลางร้ายขนาดนั้น ดิฉันคาดไม่ถึงเลยว่าจะสร้าง ความหายนะได้มากแค่ไหน
+05-0586	talk	And as a calamity of fire... It could have horrifying consequences.	แล้วในเมื่อเป็นลางร้ายรูปไฟ... ผลลัพธ์อาจน่าสยดสยองมาก
+05-0587	talk	Let me guess, you want me to tail him and prevent the calamity.	ให้ผมเดานะ คุณอยากให้ผมสะกดรอยตามเขาแล้ว ป้องกันลางร้ายนี้ใช่ไหม
+05-0588	talk	Yes. I require your services now more than ever. Will your usual 15,000 yen suffice?	ใช่ค่ะ ดิฉันต้องการความช่วยเหลือจาก คุณมากกว่าครั้งไหนๆ ค่าจ้างปกติ 15,000 เยนพอไหม?
+05-0589	talk	Yeah, that's fine. Anything you can tell me to help identify the guy?	ครับ ได้เลย มีอะไรที่บอกผมได้บ้างเพื่อช่วย ระบุตัวเขาไหม?
+05-0590	talk	He was a plump man with short, black hair who was wearing an embroidered stadium jacket and a large backpack.	เขาเป็นผู้ชายรูปร่างอ้วนกลม ผมสั้นสีดำ สวมแจ็คเก็ตปักลายและสะพายเป้ใบใหญ่
+05-0591	talk	I know that his name is Hiyama-san. After he hit me, he headed toward Showa Street.	ดิฉันรู้แค่ว่าเขาชื่อฮิยามะซัง หลังจากทำร้ายดิฉัน เขาก็มุ่งหน้าไปทางถนนโชวะ
+05-0592	talk	All right. I'll go look for him.	ได้ครับ ผมจะไปตามหาเขา
+05-0593	talk	(That's him... A calamity of fire this time, huh?)	(นั่นเขาสินะ... ลางร้ายรูปไฟครั้งนี้เหรอ?)
+05-0594	talk	(I don't really know what to expect here...)	(ผมไม่รู้จริงๆ ว่าควรคาดหวังอะไรตรงนี้...)
+05-0595	talk	(Little Asia...? It's under construction. What business would he have going there?)	(ลิตเติลเอเชียเหรอ...? ที่นั่นกำลังก่อสร้างอยู่นี่ เขาจะไปทำอะไรที่นั่น?)
+05-0596	talk	Heh heh... This area burns so well...	เฮ่อ เฮ่อ... แถวนี้ไหม้ดีจริงๆ...
+05-0597	talk	(Is that... gasoline I smell?)	(นั่นมัน...กลิ่นน้ำมันเบนซินหรือเปล่า?)
+05-0598	talk	Hey! What are you doing!?	เฮ้ย! ทำอะไรน่ะ!?
+05-0599	talk	What do you want!? I'm trying to start something here, so stay out of my way, would you!?	มึงต้องการอะไร!? กูกำลังจะจุดอะไรสักอย่างอยู่ตรงนี้ ก็อย่ามาขวางทางกูสิวะ!?
+05-0600	talk	Arson, eh? You're not the victim of the fire calamity, you're the catalyst...	วางเพลิงสินะ? นายไม่ใช่เหยื่อของลางร้ายรูปไฟหรอก นายคือต้นเหตุต่างหาก...
+05-0601	talk	Did that fortune-teller send you here? She freaked me out. I thought she was onto me...	หมอดูคนนั้นส่งมึงมาเหรอ? นังนั่นทำกูขนลุกฉิบหาย นึกว่ามันจับพิรุธกูได้...
+05-0602	talk	Yeah, and it's thanks to her that I can prevent you from doing this.	ใช่ แล้วก็ต้องขอบคุณเธอนั่นแหละที่ ทำให้ผมมาห้ามนายทำแบบนี้ได้ทัน
+05-0603	talk	You aren't preventing shit! I'll be the next one to turn Kamurocho into a sea of flames!	มึงห้ามอะไรไม่ได้หรอกโว้ย! กูจะเป็นคนต่อไปที่เปลี่ยน คามุโรโจให้กลายเป็นทะเลเพลิง!
+05-0604	talk	And Little Asia will be the beacon that signals the coming storm!	แล้วลิตเติลเอเชียจะเป็น สัญญาณไฟที่บอกให้รู้ว่าพายุ กำลังมาถึง!
+05-0605	talk	Dude, you're nuts. So how about you shut up and let me kick your ass?	พวก นายนี่มันบ้าไปแล้ว หุบปากแล้วให้ผมซัดนายสักหน่อยดีไหม?
+05-0606	talk	Who knows, maybe it'll knock some sense into you.	ใครจะรู้ บางทีอาจช่วยให้นายมีสติขึ้นมา บ้างก็ได้
+05-0607	talk	...Oh? Fine! Then your body can be the kindling! I've always wanted to watch someone go up in flames!	...อ้อเหรอ? ได้! งั้นร่างมึงนี่แหละจะเป็นเชื้อไฟ! กูอยากดูใครสักคนลุกเป็นไฟมานานแล้ว!
+05-0608	talk	(She was right on the money yet again... I'm starting to wonder if maybe I shouldn't be doubting her.)	(เธอเดาถูกอีกแล้ว... ผมเริ่มคิดว่าบางทีไม่ควรสงสัย เธออีกต่อไปแล้วมั้ง)
+05-0609	talk	Thank you for calling us.	ขอบคุณที่แจ้งเรื่องเข้ามา
+05-0610	talk	That guy's a wanted arsonist.	ผู้ชายคนนั้นเป็นนักวางเพลิงที่ ตำรวจต้องการตัว
+05-0611	talk	We can't let Little Asia go up in flames ever again. It would be a huge disaster.	ปล่อยให้ลิตเติลเอเชียถูกไฟไหม้ อีกไม่ได้เด็ดขาด จะเป็นหายนะครั้งใหญ่
+05-0612	talk	Yeah. I'm just glad it didn't come to that.	ครับ ดีใจที่มันไม่ได้เกิดขึ้นจริง
+05-0613	talk	That said, I'm surprised you found him here. This area's pretty shut off.	ว่าแต่ แปลกใจที่หาตัวเขาเจอที่นี่ พื้นที่แถวนี้ค่อนข้างปิดตายเลยนะ
+05-0614	talk	Well... He seemed pretty suspicious, so I followed him here.	ก็... เขาดูน่าสงสัยมาก ผมเลยตามเขามาที่นี่
+05-0615	talk	Yagami-san. Thank you. You managed to prevent a major disaster in this city.	ยากามิซัง ขอบคุณค่ะ คุณช่วยป้องกันหายนะครั้งใหญ่ ของเมืองนี้ได้สำเร็จ
+05-0616	talk	I guess. Didn't expect the guy to be the perpetrator, though.	ก็คงงั้น แต่ไม่คิดว่าเขาจะเป็นตัวการเอง ซะอย่างนั้น
+05-0617	talk	He was babbling about turning Kamurocho into a sea of flames.	เขาพร่ำบ่นเรื่องจะเปลี่ยน คามุโรโจให้เป็นทะเลเพลิงตลอด เลย
+05-0618	talk	If my power was able to save lives today, then there is little more I can ask for. Except...	ถ้าพลังของดิฉันช่วยชีวิตคนได้ ในวันนี้ ก็แทบไม่มีอะไรให้ต้องขออีกแล้ว นอกจาก...
+05-0619	talk	Yagami-san... How would you feel about forming a partnership?	ยากามิซัง... คุณจะรู้สึกยังไงถ้าเราจับมือ เป็นหุ้นส่วนกัน?
+05-0620	talk	What? A partnership?	หา? หุ้นส่วนเหรอ?
+05-0621	talk	I predict the calamities, and you minimize the damage. I think we've proven that we're an effective team.	ดิฉันทำนายลางร้าย ส่วนคุณช่วยลดความเสียหาย ดิฉันว่าเราพิสูจน์แล้วว่าเป็น ทีมที่เข้าขากันดี
+05-0622	talk	Haha, tempting, but I think the current arrangement is working out just fine.	ฮ่าๆ น่าสนใจอยู่นะ แต่ผมว่าแบบที่เป็นอยู่ตอนนี้ ก็ดีอยู่แล้วล่ะ
+05-0623	talk	Besides, you know how stressed I'd be hanging out with a prophet all the time?	อีกอย่าง รู้ไหมว่าผมจะเครียดแค่ไหนถ้า ต้องคลุกคลีกับผู้ทำนายตลอดเวลา?
+05-0624	talk	Very well... I can't say I'm not disappointed, but I do understand.	ก็ได้... จะบอกว่าไม่ผิดหวังเลยก็คงโกหก แต่ดิฉันเข้าใจค่ะ
+05-0625	talk	Here, your payment. Perhaps something longer term may be in our future yet.	นี่ค่ะ ค่าจ้าง บางทีในอนาคตเราอาจได้ร่วมงาน กันแบบระยะยาวก็ได้
+05-0626	talk	Sorry, but I've got too much going on right now.	ขอโทษนะ แต่ตอนนี้ผมมีเรื่องต้องจัดการ เยอะเกินไป
+05-0627	talk	I see. I do hope you'll reconsider.	เข้าใจแล้วค่ะ หวังว่าคุณจะเปลี่ยนใจนะ
+05-0628	talk	If you do, come see me immediately.	ถ้าเปลี่ยนใจเมื่อไหร่ มาหาดิฉันได้ทันทีเลย
+05-0629	talk	(All right. Gotta find this guy...)	(เอาล่ะ ต้องตามหาผู้ชายคนนี้ให้เจอ...)
+05-0630	talk	(In other words, she needs me to look into this guy. Should I accept?)	(พูดง่ายๆ คือเธออยากให้ผมไปสืบเรื่อง ผู้ชายคนนี้ ควรรับงานดีไหม?)
+05-0631	talk	(I should've leave yet. I haven't found Hiyama.)	(ยังไปจากตรงนี้ไม่ได้หรอก ผมยังหาฮิยามะไม่เจอเลย)
+05-0632	talk	Huh? Aren't you... Katagiri-san?	หา? คุณไม่ใช่...คาตากิริซังเหรอ?
+05-0633	talk	Ah, if it isn't Yagami-san. What a pleasant surprise.	อ้า นี่ไม่ใช่ยากามิซังหรอกเหรอ เซอร์ไพรส์ดีแท้
+05-0634	talk	Care for a drink? It's on me.	ดื่มด้วยกันไหมครับ ผมเลี้ยงเอง
+05-0635	talk	Yeah? Then, don't mind if I do.	จริงเหรอ? งั้นไม่ปฏิเสธหรอกครับ
+05-0636	talk	By the way. Kawada-san from Cloudy Skies Publishing tells me you're a detective.	ว่าแต่ คาวาดะซังจาก สำนักพิมพ์คลาวดีสกายส์บอกผมว่า คุณเป็นนักสืบ
+05-0637	talk	He's not wrong.	เขาพูดไม่ผิดครับ
+05-0638	talk	Mind sharing some of your experiences with me, then? I bet you'd be the perfect reference for my new detective novel.	งั้นรบกวนเล่าประสบการณ์ให้ผม ฟังหน่อยได้ไหมครับ ผมว่าคุณต้องเป็นข้อมูลอ้างอิง ชั้นเยี่ยมสำหรับนิยาย สืบสวนเล่มใหม่ของผมแน่ๆ
+05-0639	talk	You're the one buying drinks, I don't see why not.	คุณเป็นคนเลี้ยงเหล้าอยู่แล้ว ผมก็ไม่เห็นจะปฏิเสธทำไม
+05-0640	talk	Splendid. Why don't we start with a case that's left a deep impression on you? Something... <font_kind=yakuza_italic>unforgettable</font_kind>.	เยี่ยมเลย ลองเริ่มจากคดีที่ประทับใจคุณ ที่สุดดีไหมครับ อะไรสักอย่างที่...<font_kind=yakuza_italic>ลืมไม่ลง</font_kind>
+05-0641	talk	Hmm... Let's see.	อืม... ไหนดูซิ
+05-0642	talk	(What case would be good inspiration for a detective novel?)	(คดีไหนดีจะเป็นแรงบันดาลใจให้ นิยายสืบสวนได้นะ?)
+05-0643	talk	There was this time I had to stop a serial bomber. The situation nearly blew up in my face.	มีอยู่ครั้งหนึ่งผมต้องหยุดมือ ระเบิดต่อเนื่อง เกือบไปไม่รอดเหมือนกัน
+05-0644	talk	You mean you were the one who solved that?	หมายความว่าคุณเป็นคนไขคดีนั้นเองเหรอ?
+05-0645	talk	...And once he got fired, he decided to plant bombs all over town as his way of sticking it to his former employer.	...แล้วพอเขาถูกไล่ออก ก็ตัดสินใจวางระเบิดไปทั่วเมือง เพื่อแก้แค้นอดีตนายจ้าง
+05-0646	talk	That's terrible. No wonder they withheld the details from the public. Sometimes truth really is stranger than fiction.	โหดร้ายจริงๆ ไม่แปลกใจเลยที่ทางการปิด รายละเอียดจากสาธารณะ บางทีเรื่องจริงก็แปลกกว่านิยายจริงๆ
+05-0647	talk	Ever heard of Kamurocho's infamous Twisted Trio?	เคยได้ยินเรื่องสามโรคจิตแห่ง คามุโรโจไหมครับ?
+05-0648	talk	No, but do go on!	ไม่เคยครับ แต่เล่าต่อเลย!
+05-0649	talk	Well, they were basically a bunch of perverts, and...	ก็คือพวกโรคจิตกลุ่มหนึ่ง แล้ว...
+05-0650	talk	...Each of them acted independently, but society lumped them together as one. That's why they're called the Twisted Trio.	...แต่ละคนก่อเหตุแยกกันเอง แต่สังคมเหมารวมพวกเขาเป็นกลุ่ม เดียวกัน เลยถูกเรียกว่าสามโรคจิต
+05-0651	talk	That's... fascinating! I might have to change a few details here and there, but yes. Brilliant.	นั่นมัน...น่าทึ่งมาก! ผมอาจต้องปรับรายละเอียดนิดหน่อย แต่ใช่เลย เยี่ยมยอด
+05-0652	talk	There was this amazing fortune teller I ran into a couple times.	มีหมอดูสุดยอดคนหนึ่งที่ผมเจอมา สองสามครั้ง
+05-0653	talk	It was like she actually had the power to sense bad luck on a person.	เหมือนเธอมีพลังจริงๆ ที่รับรู้เคราะห์ร้ายของคนได้
+05-0654	talk	That does sound amazing.	ฟังดูน่าทึ่งจริงๆ
+05-0655	talk	However...	อย่างไรก็ตาม...
+05-0656	talk	...Kamurocho was about to be swallowed in a sea of flames.	...คามุโรโจเกือบถูกกลืนหายไปในทะเลเพลิง
+05-0657	talk	How frightening. Yet, I'm rather curious as to what my fortune would be...	น่ากลัวจริง แต่ผมก็อดสงสัยไม่ได้ว่าดวง ของตัวเองจะเป็นยังไง...
+05-0658	talk	I was once asked to catch a ghost that supposedly appeared in someone's new apartment...	ครั้งหนึ่งผมเคยถูกขอให้จับผี ที่ว่ากันว่าโผล่มาใน อพาร์ตเมนต์ใหม่ของคนคนหนึ่ง...
+05-0659	talk	How is that even possible?	มันเป็นไปได้ยังไงกัน?
+05-0660	talk	...It turns out this so-called ghost was actually the client's girlfriend.	...สุดท้ายผีที่ว่านั่นกลายเป็น แฟนสาวของลูกความเอง
+05-0661	talk	Haha, oh wow. Sounds like one hell of a couple.	ฮ่าๆ โห ฟังดูเป็นคู่รักที่เอาเรื่อง เหมือนกันนะ
+05-0662	talk	One time, there was this fish pond called Koi Bride where many of the fish mysteriously turned into sashimi.	ครั้งหนึ่งมีบ่อปลาชื่อโคอิไบรด์ ที่ปลาหลายตัวกลายเป็นซาชิมิ อย่างลึกลับ
+05-0663	talk	...So many of the fish ended up being cut and cleaned just because one of them ate a diamond ring.	...ปลาหลายตัวเลยถูกสับแล่ ก็เพราะมีตัวหนึ่งไปกลืนแหวนเพชรเข้า
+05-0664	talk	Wow. It is pretty impressive that so many of the pond's fish ended up sliced and diced like delicacies.	โห น่าทึ่งจริงๆ ที่ปลาในบ่อหลายตัวจบลงด้วยการ ถูกสับเป็นชิ้นๆ เหมือนของอร่อยชั้นดี
+05-0665	talk	I once had to look for a cat named Zhuang Shi...	ครั้งหนึ่งผมเคยต้องตามหาแมวชื่อจวง ซือ...
+05-0666	talk	You were looking for a lost cat. As an actual case.	คุณตามหาแมวหาย ในฐานะคดีจริงๆ จังๆ เลยเหรอ
+05-0667	talk	Well, yes, but...	ก็... ใช่ แต่...
+05-0668	talk	...The cat was actually a clue about the boss's hidden fortune.	...แมวตัวนั้นที่จริงคือเบาะแสของ สมบัติที่หัวหน้าองค์กรซ่อนไว้
+05-0669	talk	Then perhaps Wang-san is a very wealthy man by now!	งั้นตอนนี้หวังซังคงรวยเอาเรื่องเลยสิ!
+05-0670	talk	Do you know about Ono Michio?	รู้จักโอโนะ มิชิโอะไหมครับ?
+05-0671	talk	Ono Michio? You mean that mascot from Hiroshima?	โอโนะ มิชิโอะเหรอ? หมายถึงมาสคอตจากฮิโรชิม่าใช่ไหม?
+05-0672	talk	That's the one. Someone wore his costume during a robbery...	ใช่เลย มีคนสวมชุดมาสคอตนั้นไปก่อเหตุปล้น...
+05-0673	talk	...So I managed to hunt down the culprit.	...ผมเลยตามล่าตัวการจนเจอ
+05-0674	talk	Pulling off a robbery dressed as a mascot... I don't know if that's daring or just plain dumb.	ปล้นทั้งที่แต่งตัวเป็นมาสคอต... ไม่รู้ว่าจะเรียกว่ากล้าหรือโง่กันแน่
+05-0675	talk	Did you hear what happened to Gamo, the guy who escaped from prison?	ได้ยินเรื่องกาโมะ นักโทษที่หนีออกจากคุกไหมครับ?
+05-0676	talk	Yes, I heard he recently got arrested.	ครับ ได้ยินว่าเพิ่งถูกจับได้ไม่นานนี้
+05-0677	talk	I'm the one that caught him.	ผมเองแหละที่จับเขาได้
+05-0678	talk	Get outta town! You did?	ล้อเล่นน่า! คุณเป็นคนจับเองเหรอ?
+05-0679	talk	...Turns out he just wanted a decent hamburger. I didn't get a bad vibe from him.	...สุดท้ายเขาแค่อยากกิน แฮมเบอร์เกอร์อร่อยๆ สักมื้อ ผมไม่ได้รู้สึกว่าเขาเป็นคน เลวร้ายอะไรเลย
+05-0680	talk	So he wasn't the dangerous criminal they were portraying all over the news... Must've been a damn good burger.	งั้นเขาก็ไม่ใช่อาชญากรอันตราย อย่างที่ข่าวเสนอกันซะทั่ว... เบอร์เกอร์นั่นต้องอร่อยเป็นบ้าแน่เลย
+05-0681	talk	If you have another interesting case to share, please tell me all about it! I'm here whenever I get writer's block.	ถ้ามีคดีน่าสนใจอื่นๆ อีก เล่าให้ผมฟังได้เลยนะ! เวลาตันหาไอเดียเขียนไม่ออกผมมา ที่นี่ตลอด
+05-0682	talk	Sure thing! Then I'll see you next time.	ได้เลยครับ! แล้วเจอกันใหม่
+05-0683	talk	Ah, nice to see you, Yagami-san.	อ้า ดีใจที่ได้เจอกัน ยากามิซัง
+05-0684	talk	Hey there, Katagiri-san. Mind if I join?	หวัดดีครับ คาตากิริซัง ขอนั่งด้วยได้ไหม?
+05-0685	talk	The more the merrier. Come on over.	ยิ่งเยอะยิ่งสนุก มานั่งเลยครับ
+05-0686	talk	Yagami-san, would you be willing to share any interesting cases with me today?	ยากามิซัง วันนี้มีคดีน่าสนใจจะเล่าให้ผม ฟังบ้างไหมครับ?
+05-0687	talk	Sure thing. Let's see...	ได้เลยครับ เอ่อ...
+05-0688	talk	If you have another interesting case to share, please let me know! I'll probably be here, washing away my writer's block.	ถ้ามีคดีน่าสนใจอีก บอกผมได้เลยนะ! คงมานั่งที่นี่ล้างสมองหาไอเดีย ต่ออยู่แล้วล่ะ
+05-0689	talk	Thank you for sharing all these valuable experiences with me. They're excellent story material, to say the least.	ขอบคุณที่แบ่งปันประสบการณ์ ล้ำค่าแบบนี้ให้ผมฟัง เป็นวัตถุดิบเรื่องราว ชั้นเยี่ยมเลยล่ะ
+05-0690	talk	I hope you don't think I'm downplaying all your hard work, but you may have just inspired the next best-seller.	หวังว่าคุณจะไม่คิดว่าผมมองข้าม ความพยายามของคุณนะ แต่คุณอาจเพิ่งจุดประกายหนังสือ ขายดีเล่มต่อไปก็ได้
+05-0691	talk	I'm sure Kawada-san will be happy to hear that.	ผมว่าคาวาดะซังต้องดีใจแน่ถ้า ได้ยินแบบนี้
+05-0692	talk	I should hope so. He's always the first to read my work, so as long as it makes it past him, my book is in the clear.	หวังว่าจะเป็นแบบนั้น เขาเป็นคนแรกที่ได้อ่านงานผมเสมอ ถ้าผ่านตาเขาได้ หนังสือของผมก็รอดแน่นอน
+05-0693	talk	Heh, sounds like he's one tough customer.	ฮึ ฟังดูเป็นลูกค้าที่เอาใจยากจริงๆ
+05-0694	talk	But I'm sure your novel won't disappoint. I'm looking forward to reading it too.	แต่ผมมั่นใจว่านิยายของคุณต้อง ไม่ทำให้ผิดหวังแน่ ผมเองก็รอจะได้อ่านเหมือนกัน
+05-0695	talk	Haha, then I'll get right to work. Talk to you later.	ฮ่าๆ งั้นไปลงมือเขียนต่อดีกว่า แล้วคุยกันใหม่
+05-0696	talk	Take care, Katagiri-san.	ดูแลตัวเองด้วยนะครับ คาตากิริซัง
+05-0697	talk	Welcome to Poppo. Would you be interested in learning about the music fair we're holding?	ยินดีต้อนรับสู่ป๊อปโปครับ สนใจฟังเรื่องงานเทศกาลเพลง ที่ทางร้านจัดอยู่ไหมครับ?
+05-0698	talk	Well, with every 700 yen purchase you make, you'll earn a single point. Collect 10 of them to earn a fantastic prize.	คือทุกการซื้อครบ 700 เยน จะได้รับ 1 แต้ม สะสมให้ครบ 10 แต้มเพื่อรับของรางวัลสุดพิเศษ
+05-0699	talk	A limited-edition record that's sure to brighten your day.	แผ่นเสียงรุ่นลิมิเต็ดที่ต้อง ทำให้วันของคุณสดใสขึ้นแน่นอน ครับ
+05-0700	talk	On top of that, each of our branches carries a different record, so please visit us at any store you like.	ยิ่งไปกว่านั้น แต่ละสาขาจะมีแผ่นเสียงต่างกัน เชิญแวะไปที่สาขาไหนก็ได้ตาม สะดวกเลยครับ
+05-0701	talk	You're welcome to try it out anytime.	ลองมาร่วมสนุกได้ทุกเมื่อเลยครับ
+05-0702	talk	Thank you for stopping by. With today's purchase, your points have gone up by <t:get_poppo_point>. 	ขอบคุณที่แวะมาครับ จากการซื้อวันนี้ คุณได้แต้มเพิ่มขึ้น <t:get_poppo_point> แต้ม 
+05-0703	talk	You currently have a <t:now_poppo_point=friend_034_kizuna_point>-point total.	ตอนนี้คุณมีแต้มสะสมทั้งหมด <t:now_poppo_point=friend_034_kizuna_point> แต้ม
+05-0704	talk	If you gather 10 points, we'll present you with a record.	ถ้าสะสมครบ 10 แต้ม จะได้รับแผ่นเสียงเป็นของรางวัลครับ
+05-0705	talk	It seems you've gathered 10 points. Allow me to present your prize.	ดูเหมือนคุณสะสมครบ 10 แต้มแล้ว ขอมอบของรางวัลให้เลยครับ
+05-0706	talk	Oh, awesome!	โอ้ เจ๋งเลย!
+05-0707	talk	Here you go. Please enjoy our limited-edition record.	นี่ครับ ขอให้สนุกกับแผ่นเสียงรุ่น ลิมิเต็ดนี้นะครับ
+05-0708	talk	Welcome! Would you like to try our music fair today?	ยินดีต้อนรับครับ! วันนี้สนใจร่วมงานเทศกาลเพลงของ เราไหมครับ?
+05-0709	talk	A music fair?	งานเทศกาลเพลงเหรอ?
+05-0710	talk	That's right! Get one point for every 700 yen you spend! Once you get 10 points, we'll give you a nice new record!	ใช่เลยครับ! จ่ายครบ 700 เยนได้ 1 แต้ม! สะสมครบ 10 แต้มรับแผ่นเสียงใหม่เอี่ยมไปเลย!
+05-0711	talk	A record? Like an LP?	แผ่นเสียงเหรอ? แบบแผ่นแอลพีน่ะเหรอ?
+05-0712	talk	Remember to do lots of shopping at Poppo!	อย่าลืมมาช้อปที่ป๊อปโปเยอะๆ นะครับ!
+05-0713	talk	Thanks! With today's purchase, your points have gone up by <t:get_poppo_point>.	ขอบคุณครับ! จากการซื้อวันนี้ คุณได้แต้มเพิ่มขึ้น <t:get_poppo_point> แต้ม
+05-0714	talk	You now have a <t:now_poppo_point=friend_035_kizuna_point>-point total!	ตอนนี้คุณมีแต้มสะสมทั้งหมด <t:now_poppo_point=friend_035_kizuna_point> แต้ม!
+05-0715	talk	Remember to always do your shopping at Poppo!	อย่าลืมช้อปที่ป๊อปโปเสมอนะครับ!
+05-0716	talk	Congratulations! You managed to reach 10 points!	ยินดีด้วยครับ! คุณสะสมครบ 10 แต้มแล้ว!
+05-0717	talk	Heck yeah!	ใช่เลย!
+05-0718	talk	Here's our limited-edition record!	นี่คือแผ่นเสียงรุ่นลิมิเต็ดของ เราครับ!
+05-0719	talk	Thanks again! And remember, always shop Poppo!	ขอบคุณอีกครั้งครับ! แล้วอย่าลืมนะครับ ช้อปที่ป๊อปโปเสมอ!
+05-0720	talk	Yes. Furthermore, each Poppo in Kamurocho has a different record to give away.	ครับ แล้วก็ป๊อปโปแต่ละสาขา ในคามุโรโจจะมีแผ่นเสียงแจก ต่างกันด้วยนะครับ
+05-0721	talk	If you gather 10 points, we'll give you a nice new record!	ถ้าสะสมครบ 10 แต้ม จะได้รับแผ่นเสียงใหม่เอี่ยมไปเลยครับ!
+05-0722	talk	So, what can I do for you?	แล้วให้ผมช่วยอะไรครับ?
+05-0723	talk	Well... It's about my daughter-in-law. That is, my son's wife.	คือ... เรื่องมันเกี่ยวกับลูกสะใภ้ดิฉัน คือภรรยาของลูกชายน่ะค่ะ
+05-0724	talk	Her name is Kiriko, and... How should I put this? She scares the daylight out of me.	เธอชื่อคิริโกะ แล้วก็... จะพูดยังไงดี เธอทำให้ดิฉันกลัวจนขนหัวลุกเลยค่ะ
+05-0725	talk	She scares you? Why?	เธอทำให้คุณกลัวเหรอ? ทำไมล่ะ?
+05-0726	talk	Ever since their marriage, my son seems to have become rather... unlucky.	ตั้งแต่แต่งงานกันมา ลูกชายดิฉันดูเหมือนจะ... โชคร้ายผิดปกติไปเลยค่ะ
+05-0727	talk	To give you a few examples, he was almost run over, he nearly died of carbon monoxide poisoning from a stove...	ยกตัวอย่างเช่น เกือบถูกรถชน เกือบตายเพราะพิษแก๊ส คาร์บอนมอนอกไซด์จากเตา...
+05-0728	talk	While he was asleep, the apartment caught fire, and the brakes on his car suddenly gave out.	ตอนนอนหลับ อพาร์ตเมนต์ก็เกิดไฟไหม้ แล้วเบรกรถของเขาก็ดันเสียกะทันหัน
+05-0729	talk	He survived all of that!?	เขารอดมาได้ทั้งหมดนี้เลยเหรอ!?
+05-0730	talk	I'm thankful that he has, but as you can see, something's not right!	ดิฉันขอบคุณที่เขายังรอดอยู่ แต่อย่างที่เห็น มันมีอะไรผิดปกติแน่ๆ ค่ะ!
+05-0731	talk	Yeah, I'd say those are some unusual circumstances.	ครับ ผมว่านี่มันสถานการณ์ที่ผิดปกติจริงๆ
+05-0732	talk	And I can't help but think that his wife is behind it all.	แล้วดิฉันก็อดคิดไม่ได้ว่าภรรยา ของเขาอยู่เบื้องหลัง เรื่องทั้งหมดนี้
+05-0733	talk	Do you have any reason to suspect her?	มีเหตุผลอะไรที่ทำให้คุณสงสัย เธอบ้างไหมครับ?
+05-0734	talk	Well, as I said, all of this started happening after they married.	ก็อย่างที่บอก เรื่องทั้งหมดนี้เริ่มเกิดขึ้น หลังจากพวกเขาแต่งงานกัน
+05-0735	talk	And he's also taken out a rather large life insurance policy at her suggestion...	แล้วเขายังทำประกันชีวิตวงเงิน สูงตามคำแนะนำของเธอด้วย...
+05-0736	talk	(These are certainly telltale signs, but it doesn't sound like she has anything concrete...)	(นี่มันสัญญาณที่น่าสงสัยจริงๆ แต่ดูเหมือนยังไม่มีอะไรเป็น หลักฐานชัดเจนเลย...)
+05-0737	talk	On top of it all, my son has become ill lately. He's constantly complaining of stomach pains and nausea.	ยิ่งไปกว่านั้น ช่วงนี้ลูกชายดิฉันก็ป่วยด้วย บ่นปวดท้องกับคลื่นไส้อยู่ตลอด
+05-0738	talk	I can't help but think that his wife may be mixing something into his food...	ดิฉันอดคิดไม่ได้ว่าภรรยาของเขา อาจแอบผสมอะไรลงในอาหาร...
+05-0739	talk	I know I could be overthinking all of this... But once the thought entered my head, I couldn't escape it.	รู้ว่าอาจคิดมากไปเองก็ได้... แต่พอความคิดนี้เข้ามาในหัวแล้ว ก็สลัดมันทิ้งไม่ได้เลยค่ะ
+05-0740	talk	No, they're all valid concerns.	ไม่หรอกครับ นี่เป็นเรื่องที่น่ากังวลจริงๆ ทั้งหมด
+05-0741	talk	I take it your son doesn't suspect his wife at all?	ผมเดาว่าลูกชายคุณไม่ได้สงสัย ภรรยาตัวเองเลยใช่ไหม?
+05-0742	talk	Oh, quite right. He's head over heels for her.	ค่ะ ถูกต้องเลย เขาหลงเธอหัวปักหัวปำ
+05-0743	talk	That's why I came to you to investigate her, Yagami-san.	เพราะแบบนั้นดิฉันถึงมาให้คุณ ช่วยสืบเรื่องเธอ ยากามิซัง
+05-0744	talk	I'd like you to confirm if she's really capable of this, or if I'm imagining things.	อยากให้คุณช่วยยืนยันว่าเธอทำ แบบนี้ได้จริงหรือเปล่า หรือดิฉันแค่คิดไปเองกันแน่
+05-0745	talk	That's clear enough. But out of curiosity, does your son know about this request?	เข้าใจชัดเจนครับ แต่อยากรู้เฉยๆ ว่าลูกชายคุณรู้เรื่องที่คุณมา ขอความช่วยเหลือนี้ไหม?
+05-0746	talk	Actually, I did tell him.	จริงๆ แล้วดิฉันบอกเขาไปแล้วค่ะ
+05-0747	talk	He objected of course, but he eventually allowed it if this is what it would take for me to trust Kiriko-san.	แน่นอนว่าเขาคัดค้าน แต่สุดท้ายก็ยอมให้ทำ ถ้านี่คือสิ่งที่จะทำให้ดิฉัน ไว้ใจคิริโกะซังได้
+05-0748	talk	Great. Then it won't be a problem if I discuss things with him.	ดีครับ งั้นคงไม่มีปัญหาถ้าผมจะไปคุย กับเขาด้วย
+05-0749	talk	Also, could I trouble you for a photo of your son and his wife?	แล้วรบกวนขอรูปถ่ายของลูกชายกับ ภรรยาเขาได้ไหมครับ?
+05-0750	talk	Kiriko-san works at the M Side Cafe in Kamurocho. You're bound to run into her there.	คิริโกะซังทำงานที่เอ็ม ไซด์ คาเฟ่ในคามุโรโจ ยังไงก็ต้องเจอเธอที่นั่นแน่ค่ะ
+05-0751	talk	My fee for this type of case is 80,000 yen. Is that acceptable, Ma'am?	ค่าจ้างสำหรับคดีแบบนี้อยู่ที่ 80,000 เยนครับ พอรับได้ไหม?
+05-0752	talk	Of course. I'll leave you to it, then.	ได้แน่นอนค่ะ งั้นดิฉันขอฝากเรื่องนี้ไว้กับคุณนะคะ
+05-0753	talk	(All right, time to get started. I should find Kiriko Kuwayama at M Side Cafe.)	(เอาล่ะ ได้เวลาเริ่มงานแล้ว ผมควรไปหาคิริโกะ คุวายามะที่เอ็ม ไซด์ คาเฟ่)
+05-0754	talk	(That's probably Kiriko Kuwayama.)	(นั่นคงเป็นคิริโกะ คุวายามะแหละ)
+05-0755	talk	Sir? I noticed you staring... Another one of Kiriko's admirers?	คุณลูกค้าครับ? เห็นจ้องมองอยู่นะ... เป็นแฟนคลับอีกคนของคิริโกะเหรอ?
+05-0756	talk	She gets more popular every day.	เธอดังขึ้นทุกวันเลยล่ะ
+05-0757	talk	She's that popular, huh?	ดังขนาดนั้นเลยเหรอ?
+05-0758	talk	Oh yes, she's a real enchantress. Talk to her once, and you'll be head over heels.	ใช่แล้วล่ะ เธอมีเสน่ห์เหลือร้ายจริงๆ แค่คุยด้วยครั้งเดียวก็หลง หัวปักหัวปำเลยล่ะ
+05-0759	talk	What a shame that she's married! Get too close, and it'll only end in pain.	น่าเสียดายที่เธอแต่งงานแล้ว! เข้าใกล้เกินไปมีแต่จะเจ็บตัวเปล่าๆ นะ
+05-0760	talk	(This guy seems to know quite a bit about Kiriko... I should dig a little deeper.)	(หมอนี่ดูจะรู้เรื่องคิริโกะเยอะ ทีเดียว... ผมน่าจะขุดคุ้ยต่ออีกหน่อย)
+05-0761	talk	So people really like Kiriko-san, huh?	งั้นคนก็ชอบคิริโกะซังกันจริง ๆ สินะ?
+05-0762	talk	Oh yeah. You should see how many customers hit on her. But if they knew about her past...	ครับ คุณต้องเห็นแน่ ๆ ว่ามีลูกค้าจีบเธอเยอะแค่ไหน แต่ถ้าพวกเขารู้เรื่องอดีตของเธอ...
+05-0763	talk	Why? What about it?	ทำไมเหรอ? อดีตเป็นยังไง?
+05-0764	talk	Well, apparently Kiriko-chan is already on her fourth husband. She's been divorced three times.	ก็คือคิริโกะจังแต่งงานมาแล้ว สี่ครั้งครับ หย่ามาแล้วสามหน
+05-0765	talk	Three divorces? At her age!?	หย่าสามครั้ง? อายุปูนนี้เนี่ยนะ!?
+05-0766	talk	(Her husband must know about it, but would he have told his mother?)	(สามีเธอต้องรู้เรื่องนี้อยู่แล้ว แต่จะบอกแม่ตัวเองไหมนะ?)
+05-0767	talk	Apparently, all three of the previous husbands ran away from her.	ได้ยินว่าสามีเก่าทั้งสามคนพา กันหนีไปหมดครับ
+05-0768	talk	Because they were all almost murdered. In fact, her second husband actually died.	เพราะเกือบโดนฆ่ากันทุกคนน่ะสิครับ สามีคนที่สองถึงกับเสียชีวิตไปเลย
+05-0769	talk	You're sure all of this is true? It's a little hard to believe.	แน่ใจนะว่าเรื่องนี้เป็นเรื่องจริง? มันฟังดูเชื่อยากไปหน่อย
+05-0770	talk	Oh, I'm sure. That's the story that put this café on the map. Apparently there was poison found in his food.	แน่นอนครับ เรื่องนี้แหละที่ทำให้ร้านนี้ดัง ได้ยินว่าเจอยาพิษปนอยู่ในอาหาร ของเขาด้วย
+05-0771	talk	And she wasn't charged?	แล้วเธอไม่โดนตั้งข้อหาเหรอ?
+05-0772	talk	As I recall, the incident happened at his workplace, so there wasn't enough proof to arrest her.	เท่าที่จำได้ เหตุเกิดที่ที่ทำงานของเขา เลยไม่มีหลักฐานพอจะจับเธอได้ครับ
+05-0773	talk	Oh, but I assure you, it wasn't here at this café.	แต่ผมยืนยันได้เลยว่าไม่ได้เกิด ที่ร้านนี้แน่นอนครับ
+05-0774	talk	And have you ever met her current husband?	แล้วคุณเคยเจอสามีคนปัจจุบันของเธอไหม?
+05-0775	talk	I've spoken with him. I believe his name is Kojiro.	เคยคุยกับเขาครับ ถ้าจำไม่ผิดชื่อโคจิโร
+05-0776	talk	He's just your run-of-the-mill salaryman, really. But he's madly in love with Kiriko-chan.	เขาก็แค่มนุษย์เงินเดือนธรรมดา ๆ คนหนึ่งแหละครับ แต่หลงรักคิริโกะจังหัวปักหัวปำเลย
+05-0777	talk	He swings by after work every day, and she makes him coffee.	เขาแวะมาทุกวันหลังเลิกงาน แล้วเธอก็ชงกาแฟให้
+05-0778	talk	He comes by for coffee every day? So he'll show up today too?	แวะมาดื่มกาแฟทุกวันเลยเหรอ? งั้นวันนี้ก็ต้องมาด้วยสิ?
+05-0779	talk	Oh, I'm sure he will.	แน่นอนครับ มาแน่ ๆ
+05-0780	talk	(Hm. Maybe the mother's suspicions weren't completely off the mark...)	(อืม บางทีความสงสัยของแม่เขาอาจ ไม่ได้ผิดไปซะทีเดียว...)
+05-0781	talk	Anyway... Kiriko-chan is clearly the kind of woman who's out of reach for most guys.	ยังไงก็เถอะ... คิริโกะจังเป็นผู้หญิงที่ผู้ชาย ส่วนใหญ่เอื้อมไม่ถึงจริง ๆ ครับ
+05-0782	talk	Haha, but that wouldn't stop me from trying! I think I could tame the devil in her... Heh.	ฮ่าฮ่า แต่นั่นไม่ได้หยุดผมจากการลองดูหรอกนะ! ผมว่าผมเอาอยู่กับด้านปีศาจใน ตัวเธอแหละ... เฮอะ
+05-0783	talk	I gather you've got your own little crush on her?	งั้นคุณก็แอบชอบเธออยู่เหมือนกันสินะ?
+05-0784	talk	What? Oh no, she's married! I'm just saying... I think we'd have been a good match.	อะไรนะ? เปล่านะครับ เธอแต่งงานแล้ว! ผมแค่จะบอกว่า... ถ้าได้คู่กันคงเข้ากันดีน่ะ
+05-0785	talk	Better than that dull-ass husband she's got, anyway.	ยังไงก็ดีกว่าสามีน่าเบื่อคน นั้นของเธอเยอะแหละ
+05-0786	talk	(In other words, this guy's crushing on Kiriko-chan hard.)	(พูดง่าย ๆ คือหมอนี่แอบชอบคิริโกะจังหนักมาก)
+05-0787	talk	(He wasn't wrong when he called her an enchantress.)	(เขาพูดไม่ผิดที่เรียกเธอว่า ปีศาจสาวมนตร์ขลัง)
+05-0788	talk	Oh, speak of the devil. There's her husband now.	อ้าว พูดถึงก็มาพอดี สามีเธอมาแล้ว
+05-0789	talk	Well, I better get back to work. Don't want my manager to see me slacking off.	เอาล่ะ ผมต้องกลับไปทำงานแล้ว ไม่อยากให้ผู้จัดการเห็นว่าผม มัวแต่คุยเล่น
+05-0790	talk	(Maybe if I get closer, I'll be able to hear Kojiro-san's conversation...)	(ถ้าเข้าไปใกล้อีกหน่อย น่าจะได้ยินบทสนทนาของโคจิโรซัง...)
+05-0791	talk	Hey, you're looking pretty rough, man. You under the weather?	เฮ้ ดูสภาพแย่มากเลยนะเพื่อน ไม่สบายเหรอ?
+05-0792	talk	Yeah, I guess. But maybe I'm just tired. It's just been a lot of stomachaches and nausea lately.	อือ คงงั้น แต่บางทีก็แค่เหนื่อยมั้ง ช่วงนี้ปวดท้องกับคลื่นไส้บ่อยไปหน่อย
+05-0793	talk	Doesn't seem like coffee would be the best cure, then. You must really love your wife.	งั้นกาแฟก็คงไม่ใช่ยาที่ดี ที่สุดหรอกนะ นายต้องรักเมียมากจริง ๆ สินะ
+05-0794	talk	I beg to differ, Hirasawa. Coffee made with love is the best medicine I could ask for.	ผมว่าไม่ใช่แบบนั้นนะ ฮิราซาวะ กาแฟที่ชงด้วยความรักคือยาที่ดี ที่สุดที่ผมขอได้แล้ว
+05-0795	talk	(Stomach pains and nausea line up with what Shizue-san told me...)	(อาการปวดท้องกับคลื่นไส้ ตรงกับที่ชิซึเอะซังบอกผมไว้ เป๊ะ...)
+05-0796	talk	Here you go. One hot cup of coffee, black, like you like it.	นี่ค่ะ กาแฟดำร้อน ๆ แบบที่คุณชอบ
+05-0797	talk	Thanks, Kiriko-chan!	ขอบใจนะ คิริโกะจัง!
+05-0798	talk	Oh, I see you have a guest?	อ้าว มีแขกมาด้วยเหรอคะ?
+05-0799	talk	Nice to meet you. I'm Hirasawa.	ยินดีที่ได้รู้จักครับ ผมฮิราซาวะ
+05-0800	talk	This guy's incredible, Kiriko. He's from our ad agency, and he's done all kinds of commercials you'd know.	หมอนี่เก่งมากเลยนะ คิริโกะ เขามาจากบริษัทโฆษณาที่ผมทำงานด้วย ทำโฆษณาดัง ๆ ที่เธอรู้จักมาหลายเรื่องเลย
+05-0801	talk	Incredible! It sounds like you really know your stuff. You have to be so clever to work on ads these days.	สุดยอดเลยค่ะ! ฟังดูเหมือนคุณเก่งเรื่องนี้จริง ๆ สมัยนี้ต้องฉลาดมากเลยนะคะถึงจะ ทำงานโฆษณาได้
+05-0802	talk	I can see it in your eyes. They're quite clever and very lovely.	ดิฉันเห็นได้จากแววตาคุณเลยค่ะ ฉลาดและงดงามมากทีเดียว
+05-0803	talk	Lovely, you say? Oh, ha ha... You think so?	สวยงามเหรอคะ? โอ้ ฮ่าฮ่า... คิดงั้นจริง ๆ เหรอ?
+05-0804	talk	Ah, Ko-chan! Why don't we invite Hirasawa-san over to our house for dinner?	อ๊ะ โคจัง! ทำไมเราไม่ชวนฮิราซาวะซังมากิน ข้าวเย็นที่บ้านเราล่ะคะ?
+05-0805	talk	Ah, that's a great idea! Kiriko is a lovely cook!	อ้อ ไอเดียดีมากเลย! คิริโกะทำอาหารเก่งสุด ๆ นะ!
+05-0806	talk	I'll let you work out the details, then. I'll be looking forward to seeing you, Hirasawa-san.	งั้นดิฉันให้คุณสองคนคุย รายละเอียดกันเองนะคะ รอพบคุณอีกครั้งเลยค่ะ ฮิราซาวะซัง
+05-0807	talk	...Of course, I'd be happy to come.	...ครับ ยินดีที่จะไปครับ
+05-0808	talk	(An enchantress indeed... She was flirting with that guy with her husband sitting right there...)	(สมกับเป็นปีศาจสาวมนตร์ขลังจริง ๆ... กล้าจีบผู้ชายคนอื่นทั้งที่สามี นั่งอยู่ตรงนั้น...)
+05-0809	talk	(Is he that confident, or just dense? He doesn't seem the slightest bit concerned.)	(เขามั่นใจขนาดนั้นเลยเหรอ หรือแค่ทื่อกันแน่? ดูไม่กังวลเลยสักนิด)
+05-0810	talk	(Shizue-san suspects Kiriko of poisoning his food... And considering he drinks coffee here daily...)	(ชิซึเอะซังสงสัยว่าคิริโกะ วางยาพิษในอาหารของเขา... แล้วเขาก็ดื่มกาแฟที่นี่ทุกวันด้วย...)
+05-0811	talk	(It'd be pretty tough to poison coffee, but I should check it out, just in case.)	(จะวางยาพิษในกาแฟก็ไม่ง่าย เท่าไหร่หรอกนะ แต่ผมควรตรวจดูไว้กันเหนียว)
+05-0812	talk	(This is bad. That guy could be in serious danger soon.)	(แย่แล้ว หมอนั่นอาจตกอยู่ในอันตราย ร้ายแรงในไม่ช้า)
+05-0813	talk	(I think I need to talk to the guy. Hopefully he hasn't gotten far.)	(ผมว่าต้องไปคุยกับเขาหน่อยแล้ว หวังว่าจะยังไปไม่ไกล)
+05-0814	talk	Hey, you're Kojiro Kuwayama-san, right? Can I talk to you for a sec?	นี่ครับ คุณคือโคจิโร คุวายามะซังใช่ไหมครับ? ขอเวลาคุยด้วยแป๊บนึงได้ไหมครับ?
+05-0815	talk	Hm? Who are you?	หือ? นายเป็นใครเหรอ?
+05-0816	talk	I'm Yagami, the detective your mother hired.	ผมยากามิครับ นักสืบที่แม่คุณจ้างมา
+05-0817	talk	Oh, right, Mom did mention something about that. She can be so dramatic.	อ๋อ ใช่สิ แม่เคยพูดถึงเรื่องนี้เหมือนกัน แม่นี่ดราม่าจังเลยจริง ๆ
+05-0818	talk	Well, her worries may not be as unfounded as you think.	ความกังวลของแม่คุณอาจไม่ได้ ไร้เหตุผลอย่างที่คุณคิดนะครับ
+05-0819	talk	(This is going to have to be convincing... How should I lead into this...)	(เรื่องนี้ต้องพูดให้น่าเชื่อถือหน่อย... จะเกริ่นยังไงดี...)
+05-0820	talk	That cup of coffee you just drank. Did you add sugar, by any chance?	กาแฟที่คุณเพิ่งดื่มไปนั่น คุณใส่น้ำตาลด้วยหรือเปล่าครับ?
+05-0821	talk	No, I take my coffee black.	เปล่า ผมดื่มกาแฟดำเปล่า ๆ
+05-0822	talk	Well, that's a bit strange, because there was a white substance on the edge of your cup.	แปลกนะครับ เพราะมีคราบผงสีขาวติดอยู่ที่ ขอบแก้วของคุณ
+05-0823	talk	And to make matters worse, it smelled of garlic, which is not far off from... a poison called arsenic.	ที่แย่กว่านั้นคือมันมีกลิ่น คล้ายกระเทียม ซึ่งใกล้เคียงกับ... ยาพิษชนิดหนึ่งที่ชื่อว่าสารหนู
+05-0824	talk	A-Arsenic?	ส-สารหนูเหรอ?
+05-0825	talk	I haven't run any tests or anything, but I understand you've been feeling ill for some time, am I right?	ผมยังไม่ได้ตรวจอะไร เป็นเรื่องเป็นราวหรอกนะครับ แต่เข้าใจว่าคุณรู้สึกไม่สบายมา สักพักแล้ว ใช่ไหมครับ?
+05-0826	talk	You should know, nausea and stomach pains are symptoms consistent with the ingestion of arsenic.	คุณควรรู้ไว้นะครับว่าอาการ คลื่นไส้กับปวดท้องนั้น ตรงกับอาการของการได้รับสารหนูเข้าไป
+05-0827	talk	No way... It could be a coincidence, right?	ไม่จริงมั้ง... มันอาจจะแค่บังเอิญก็ได้นี่?
+05-0828	talk	Sir, you're aware your wife has been divorced three times, aren't you?	คุณรู้ใช่ไหมครับว่าภรรยาของคุณ เคยหย่ามาแล้วสามครั้ง?
+05-0829	talk	Yes, I'm aware. I didn't tell my mother that, though.	รู้สิครับ แต่ผมไม่ได้บอกแม่เรื่องนี้ไว้
+05-0830	talk	Were you also aware her second husband died of poisoning?	แล้วคุณรู้ไหมครับว่าสามีคน ที่สองของเธอเสียชีวิตด้วยยาพิษ?
+05-0831	talk	I'm guessing that's new to you, then.	งั้นผมเดาว่านี่คงเป็นเรื่อง ใหม่สำหรับคุณสินะครับ
+05-0832	talk	Well... I'm sure it wasn't something she wanted to talk about.	ก็... ผมว่าคงเป็นเรื่องที่เธอไม่อยาก พูดถึงน่ะครับ
+05-0833	talk	Listen, detective. I know what you're getting at, but I trust my wife, and I'm not going to stop.	ฟังนะครับนักสืบ ผมรู้ว่าคุณจะสื่ออะไร แต่ผมเชื่อใจภรรยาของผม และผมจะไม่หยุดเชื่อ
+05-0834	talk	(Hm. Doesn't sound like I'm going to get through to him...)	(อืม ท่าทางจะพูดให้เขาเข้าใจไม่ได้ง่าย ๆ ซะแล้ว...)
+05-0835	talk	Is it true that you've been in a series of unfortunate accidents lately, sir?	จริงไหมครับที่คุณเจออุบัติ เหตุร้ายซ้ำ ๆ ในช่วงนี้?
+05-0836	talk	Have you considered the possibility... that someone could be causing them?	คุณเคยคิดถึงความเป็นไปได้ไหมครับ... ว่ามีใครบางคนอาจอยู่เบื้องหลัง เรื่องพวกนี้?
+05-0837	talk	You're a persistent one, aren't you!?	คุณนี่ตื๊อไม่เลิกจริง ๆ เลยนะ!?
+05-0838	talk	That said, uh...	ถึงจะพูดอย่างนั้นนะ เอ่อ...
+05-0839	talk	Have you noticed anything unusual?	คุณสังเกตเห็นอะไรผิดปกติบ้างไหมครับ?
+05-0840	talk	Well, sometimes, on my commute home from work... I feel like I'm being followed by a man...	ก็... บางทีตอนเดินทางกลับบ้านหลังเลิกงาน... ผมรู้สึกเหมือนมีผู้ชายคนหนึ่ง ตามผมอยู่...
+05-0841	talk	That's interesting. When was the most recent time you've felt that?	น่าสนใจนะครับ ครั้งล่าสุดที่รู้สึกแบบนั้นคือ เมื่อไหร่ครับ?
+05-0842	talk	Hmm, let's see...	หืม ขอคิดดูก่อน...
+05-0843	talk	Oh, I remember now. It was the one day I headed straight home without visiting Kiriko-chan at the café.	อ้อ นึกออกแล้ว มันคือวันที่ผมกลับบ้านตรง ๆ โดยไม่ได้แวะไปหาคิริโกะจังที่ร้าน
+05-0844	talk	(In other words, on days Kiriko-san is off duty.)	(พูดอีกอย่างคือวันที่คิริโกะซัง หยุดงาน)
+05-0845	talk	And do you ever feel endangered when you're being followed?	แล้วตอนถูกตามคุณเคยรู้สึกว่า ตัวเองตกอยู่ในอันตรายไหมครับ?
+05-0846	talk	Well, I wrote it all off, but I did notice that a brick fell from a window once, and I got pushed into the street...	ก็... ผมคิดว่าคงแค่บังเอิญ แต่มีครั้งหนึ่งที่อิฐตกลงมาจาก หน้าต่าง แล้วก็มีคนผลักผมลงไปกลางถนน...
+05-0847	talk	You wrote all that off as coincidence? You don't think the stalker might have anything to do with it?	คุณคิดว่าเรื่องพวกนั้นแค่ บังเอิญเหรอครับ? ไม่คิดบ้างเลยเหรอว่าคนที่ตาม คุณอาจเกี่ยวข้องด้วย?
+05-0848	talk	But who would be out to get me?	แต่ใครกันที่อยากจะทำร้ายผมล่ะ?
+05-0849	talk	I don't know, but I think maybe it's time we find out.	ผมก็ไม่รู้เหมือนกัน แต่ผมว่าถึงเวลาที่เราจะต้องหา คำตอบแล้วล่ะครับ
+05-0850	talk	Well, the ideal way would be to lure him into a place where he thinks you're alone...	วิธีที่ดีที่สุดคงเป็นการล่อให้ เขาเข้ามาในที่ที่คิด ว่าคุณอยู่คนเดียว...
+05-0851	talk	Maybe I could bait him into an alley?	ผมล่อเขาเข้าไปในตรอกดีไหมครับ?
+05-0852	talk	Huh? Are you sure you want to take that risk?	หา? คุณแน่ใจนะครับว่าอยากเสี่ยงขนาดนั้น?
+05-0853	talk	If it'll prove my wife is innocent in all this, I'll do anything.	ถ้ามันช่วยพิสูจน์ได้ว่าภรรยาผม บริสุทธิ์ ผมยอมทำทุกอย่างครับ
+05-0854	talk	Fair enough. Then I'll follow the stalker from behind.	ก็ได้ครับ งั้นผมจะตามคนที่สะกดรอยคุณอยู่ห่าง ๆ เอง
+05-0855	talk	But can you give me any more details on the guy you think is following you?	แต่ช่วยเล่ารายละเอียดเพิ่มเติม เกี่ยวกับคนที่คุณคิด ว่ากำลังตามคุณได้ไหมครับ?
+05-0856	talk	Well, he was smallish, about 5'2". But he wore a hoodie and sunglasses to hide his face.	ก็... เขาตัวเล็ก ๆ สูงประมาณ 5 ฟุต 2 นิ้ว ใส่เสื้อฮู้ดกับแว่นกันแดด บังหน้าอยู่ครับ
+05-0857	talk	That's pretty suspicious. And where is the company you work for located, Kojiro-san?	น่าสงสัยทีเดียวครับ แล้วบริษัทที่คุณทำงานอยู่ตรงไหนครับ โคจิโรซัง?
+05-0858	talk	It's called Kita Electric, right here in Kamurocho. So I should just find the nearest alley, right?	ชื่อคิตะอิเล็กทริก อยู่ที่คามุโรโจนี่แหละครับ งั้นผมแค่หาตรอกที่ใกล้ที่สุด ใช่ไหมครับ?
+05-0859	talk	Yeah, that'd be great. Don't try to drag him too far.	ครับ แบบนั้นดีเลย อย่าล่อเขาให้ไปไกลเกินไปนะครับ
+05-0860	talk	(Nice, Kojiro-san is off from work.)	(เยี่ยม โคจิโรซังเลิกงานแล้ว)
+05-0861	talk	Kojiro-san, you just need to act natural. Start walking when I give the signal.	โคจิโรซัง ทำตัวตามปกติไว้นะครับ แล้วเริ่มเดินตอนที่ผมให้สัญญาณ
+05-0862	talk	Kojiro-san, I've got the guy in my sights. Start walking, and don't look back.	โคจิโรซัง ผมเห็นตัวเขาแล้ว เริ่มเดินได้เลย แล้วอย่าหันกลับไปมองนะครับ
+05-0863	talk	O-Okay, but you'll save me if something goes wrong, right...?	โ-โอเคครับ แต่ถ้ามีอะไรผิดพลาดคุณจะช่วยผม ใช่ไหมครับ...?
+05-0864	talk	Hey, what do you think you're doing!?	เฮ้ย จะทำอะไรน่ะ!?
+05-0865	talk	Wait... Aren't you the other waiter at the café?	เดี๋ยวนะ... นายคือพนักงานเสิร์ฟอีกคนที่ ร้านนั้นไม่ใช่เหรอ?
+05-0866	talk	Tch...	เชอะ...
+05-0867	talk	That explains how easy it was to get poison into your coffee, Kojiro-san.	นั่นแหละที่อธิบายได้ว่าทำไมมัน ถึงใส่ยาพิษลงในกาแฟของ คุณได้ง่ายขนาดนั้น โคจิโรซัง
+05-0868	talk	Shit! You're dead!	แม่งเอ๊ย! มึงตายแน่!
+05-0869	talk	Y-Yagami-san!	ย-ยากามิซัง!
+05-0870	talk	Stay back! And go call the cops!	ถอยไปก่อน! แล้วโทรแจ้งตำรวจด้วย!
+05-0871	talk	Haaaaaaaah!	ฮาาาาาาาาา!
+05-0872	talk	Why? Why were you trying to kill Kojiro-san!?	ทำไม? ทำไมนายถึงพยายามฆ่าโคจิโรซัง!?
+05-0873	talk	Because he was in the way between me and Kiriko-chan!	เพราะมันขวางทางระหว่างกูกับ คิริโกะจัง!
+05-0874	talk	In the way? What's your relationship with her, anyway?	ขวางทางเหรอ? แล้วนายมีความสัมพันธ์อะไรกับ เธอกันแน่?
+05-0875	talk	My relationship!? It's destiny! Destiny that we would be together!	ความสัมพันธ์อะไร!? มันคือโชคชะตา! โชคชะตาที่กูกับคิริโกะต้องอยู่ ด้วยกัน!
+05-0876	talk	I just need him gone, and then Kiriko-chan will be mine!	กูแค่ต้องกำจัดมันไป แล้วคิริโกะจังจะเป็นของกู!
+05-0877	talk	Stop your squirming!	หยุดดิ้นซะที!
+05-0878	talk	Let go of me! Damn you!	ปล่อยกูนะ! ไอ้พวกมึง!
+05-0879	talk	What in the world just happened?	เกิดอะไรขึ้นกันแน่เนี่ย?
+05-0880	talk	I'm not completely sure myself... But I'm sure the cops are going to take their time finding out.	ผมเองก็ยังไม่แน่ใจทั้งหมดหรอกครับ... แต่เชื่อว่าตำรวจคงต้องใช้เวลา สอบสวนหาความจริงกันสักพัก
+05-0881	talk	Well... Apparently, Kiriko-chan rejected that waiter three years back.	ก็... ได้ยินว่าคิริโกะจังเคยปฏิเสธ พนักงานเสิร์ฟคนนั้นเมื่อ สามปีก่อนครับ
+05-0882	talk	He's been stalking her ever since... Even getting jobs at the same place she does.	ตั้งแต่นั้นมาเขาก็แอบตามเธอตลอด... ถึงขั้นไปสมัครงานที่เดียวกับที่เธอทำ
+05-0883	talk	Didn't that bother Kiriko-chan?	แล้วมันไม่รบกวนคิริโกะจังบ้าง เหรอครับ?
+05-0884	talk	Well... People confess their love to her all the time. She didn't think much of it, I guess.	ก็... มีคนมาสารภาพรักกับเธอบ่อย อยู่แล้วครับ ผมว่าเธอคงไม่ได้คิดอะไรมากมั้ง
+05-0885	talk	Th-That's... a unique problem to have.	นั่น-นั่นสินะครับ... ปัญหาที่ไม่ค่อยเจอกันบ่อยเลย
+05-0886	talk	I guess he finally snapped though, and convinced himself I was the problem...	ผมว่าสุดท้ายเขาคงเสียสติไปเลย แล้วก็โน้มน้าวตัวเองว่าผมคือตัวปัญหา...
+05-0887	talk	And that certainly explains why I've had so many near-fatal encounters.	และนั่นก็อธิบายได้ว่าทำไมผมถึง เจอเหตุการณ์เฉียดตาย บ่อยขนาดนี้
+05-0888	talk	And you kept surviving them, so he finally resorted to poison.	แล้วพอคุณรอดมาได้ตลอด เขาก็เลยหันมาใช้ยาพิษในที่สุด
+05-0889	talk	Do you think he killed her second husband as well?	คุณคิดว่าเขาฆ่าสามีคนที่สองของ เธอด้วยหรือเปล่าครับ?
+05-0890	talk	I'd be willing to bet on it, but I suppose we'll find out after they interrogate him...	ผมพร้อมพนันเลยว่าใช่ครับ แต่คงต้องรอผลสอบสวนจากตำรวจก่อน...
+05-0891	talk	He's probably tried to kill every guy who got between him and Kiriko-chan.	เขาคงพยายามฆ่าผู้ชายทุกคนที่ ขวางระหว่างเขากับคิริโกะ จังมาตลอด
+05-0892	talk	And here I was suspecting Kiriko-san... I'm such a horrible mother.	แล้วดิฉันก็ดันไปสงสัยคิริโกะ ซังซะอย่างนั้น... ดิฉันนี่มันแม่ที่แย่มากจริง ๆ
+05-0893	talk	That's not true, Mom. You just didn't get a chance to get to know her yet.	ไม่จริงหรอกครับแม่ แค่แม่ยังไม่มีโอกาสได้รู้จักเธอจริง ๆ เท่านั้นเอง
+05-0894	talk	I think she's easily misunderstood.	ผมว่าเธอเป็นคนที่คนอื่น เข้าใจผิดได้ง่ายน่ะครับ
+05-0895	talk	I can see why.	ดิฉันพอเข้าใจนะ
+05-0896	talk	But I'm impressed, Kojiro-san. Your trust in Kiriko-san didn't waiver for a moment.	แต่ผมประทับใจนะครับ โคจิโรซัง ความเชื่อใจที่คุณมีต่อคิริโกะ ซังไม่เคยสั่นคลอนแม้แต่ นิดเดียว
+05-0897	talk	Of course not. I'm her husband.	แน่นอนครับ ก็ผมเป็นสามีเธอนี่นา
+05-0898	talk	Yagami-san, thank you for getting to the bottom of this.	ยากามิซัง ขอบคุณมากนะคะที่ช่วยสืบจนถึง ต้นตอของเรื่องนี้
+05-0899	talk	No problem. I hope you two have a wonderful future together. Free of accidents.	ไม่เป็นไรครับ หวังว่าคุณสองคนจะมีอนาคตที่ดี ร่วมกันนะครับ ไม่มีอุบัติเหตุใด ๆ อีกแล้ว
+05-0900	talk	Excuse me, Are you Shizue Kuwayama-san?	ขอโทษครับ คุณคือชิซึเอะ คุวายามะซังใช่ไหมครับ?
+05-0901	talk	Yes, I am. And you are?	ใช่ค่ะ แล้วคุณล่ะคะ?
+05-0902	talk	I'm Yagami, from Yagami Detective Agency. I came to discuss your case?	ผมยากามิครับ จากสำนักงานนักสืบยากามิ ผมมาคุยเรื่องคดีของคุณ
+05-0903	talk	Oh yes, thank you for your time.	อ๋อ ใช่ค่ะ ขอบคุณที่สละเวลานะคะ
+05-0904	talk	Welcome, sir. Please, take any seat you like.	ยินดีต้อนรับค่ะ เชิญนั่งที่ไหนก็ได้ตามสบายเลยค่ะ
+05-0905	talk	Oh, I didn't mean to stare. Please forgive my rudeness.	อ๊ะ ดิฉันไม่ได้ตั้งใจจะจ้องมองนะคะ ต้องขออภัยในความหยาบคายด้วยค่ะ
+05-0906	talk	Welcome, sir. It's good to see you back again.	ยินดีต้อนรับค่ะ ดีใจที่ได้เจอคุณอีกครั้งนะคะ
+05-0907	talk	I apologize for staring at you last time... You just seem like you have such a big heart.	ขอโทษที่จ้องมองคุณตอนครั้งก่อนนะคะ... แค่รู้สึกว่าคุณดูเป็นคนใจดีมากเลยค่ะ
+05-0908	talk	Hehe... Sorry, don't mind me...	เฮอะ ๆ... ขอโทษนะคะ อย่าไปสนใจดิฉันเลยค่ะ...
+05-0909	talk	So many people with big hearts seem to come here.	มีคนใจดีแวะมาที่นี่เยอะจังเลยนะคะ
+05-0910	talk	You look pretty well-off, too.	ดูท่าทางคุณก็ฐานะดีเหมือนกันนะคะ
+05-0911	talk	...Oh! Sir, sorry, can I help you with anything?	...อ๊ะ! ขอโทษค่ะ มีอะไรให้ดิฉันช่วยไหมคะ?
+05-0912	talk	Oh, sir! You're back again.	อ้าว! คุณมาอีกแล้วนะคะ
+05-0913	talk	Please take your time, and just let me know if I can get you anything.	เชิญตามสบายนะคะ ถ้าต้องการอะไรก็บอกได้เลยค่ะ
+05-0914	talk	(Here's what's left of the coffee Kojiro-san was drinking.)	(นี่คือกาแฟที่เหลืออยู่ที่ โคจิโรซังดื่มไป)
+05-0915	talk	(She makes this for him personally, every time he comes in...)	(เธอชงกาแฟนี้ให้เขาเอง ทุกครั้งที่เขามาที่นี่...)
+05-0916	talk	(Let's get a closer look.)	(ขอดูใกล้ ๆ หน่อย)
+05-0917	talk	Hm? What's this white powder?	หือ? ผงสีขาวนี่คืออะไรกันนะ?
+05-0918	talk	Sugar?	น้ำตาลเหรอ?
+05-0919	talk	Yeah, it must be sugar.	ใช่สิ คงเป็นน้ำตาลนี่แหละ
+05-0920	talk	I guess Kojiro-san takes sugar in his coffee.	คงเป็นเพราะโคจิโรซังใส่น้ำตาล ในกาแฟด้วยมั้ง
+05-0921	talk	(No wait, something's not right about that...)	(เดี๋ยวนะ มันมีอะไรแปลก ๆ...)
+05-0922	talk	(I hear real coffee lovers put salt in their coffee to increase the flavor.)	(เคยได้ยินว่าคนที่รักกาแฟจริง ๆ จะใส่เกลือลงไปเพื่อเพิ่มรสชาติ)
+05-0923	talk	(From what I can gather, Kojiro-san must be a real coffee aficionado.)	(เท่าที่ผมพอจะรู้ โคจิโรซังต้องเป็นคอกาแฟตัวยงแน่ ๆ)
+05-0924	talk	(Wait, is that even relevant?)	(เดี๋ยวนะ นี่มันเกี่ยวกันจริงเหรอ?)
+05-0925	talk	(Something's off about this.)	(มีบางอย่างผิดปกติกับเรื่องนี้)
+05-0926	talk	(Kiriko-san made a point of saying it was black coffee when she brought it out.)	(คิริโกะซังพูดย้ำเป็นพิเศษว่า มันคือกาแฟดำตอนที่ยกออกมา)
+05-0927	talk	In that case, what's this powder? It could be anything...)	ถ้าอย่างนั้น ผงนี้คืออะไรกันแน่? อาจเป็นอะไรก็ได้...)
+05-0928	talk	(Something has a strong scent here...)	(มีกลิ่นแรง ๆ อยู่แถวนี้...)
+05-0929	talk	(I didn't see anyone smoking, and there's nothing in the ash tray.)	(ผมไม่เห็นใครสูบบุหรี่เลย แล้วในที่เขี่ยบุหรี่ก็ไม่มีอะไรเลย)
+05-0930	talk	(That pretty much rules out a poison cigarette.)	(นั่นแทบจะตัดความเป็นไป ได้เรื่องบุหรี่อาบยาพิษออกไป ได้เลย)
+05-0931	talk	(This is the water that Kojiro-san's friend was drinking.)	(นี่คือน้ำที่เพื่อนของโคจิโรซัง ดื่มอยู่)
+05-0932	talk	(Wait, he came to a café and only ordered water? What a cheap ass.)	(เดี๋ยวนะ มาคาเฟ่แล้วสั่งแค่น้ำเปล่าเนี่ยนะ? ขี้เหนียวชะมัด)
+05-0933	talk	(If he's making such big waves at an ad agency, he probably makes big money too. How stingy can he be?)	(ถ้าเขาเก่งขนาดเป็นที่จับตาใน บริษัทโฆษณาแบบนี้ ก็คงหาเงินได้เยอะเหมือนกัน แล้วจะขี้เหนียวไปได้ขนาดไหนกัน?)
+05-0934	talk	...I could never be friends with a guy like that.	...ผมคงเป็นเพื่อนกับคนแบบนั้นไม่ได้แน่
+05-0935	talk	(Okay. Now to find our guy.)	(เอาล่ะ ทีนี้ต้องไปหาตัวคนร้ายกันแล้ว)
+05-0936	talk	(Smells almost like garlic, but... could it be poison?)	(กลิ่นเหมือนกระเทียมเกือบเป๊ะเลย แต่... จะเป็นยาพิษได้ไหมนะ?)
+05-0937	talk	(Let's see... If she knows he'd come here to drink coffee every day...)	(ลองคิดดู... ถ้าเธอรู้ว่าเขาจะมาดื่มกาแฟ ที่นี่ทุกวัน...)
+05-0938	talk	(Isn't it possible she could be mixing tiny doses of poison into each cup, and that would explain why he feels so ill?)	(เป็นไปได้ไหมที่เธอจะค่อย ๆ ผสมยาพิษปริมาณน้อย ๆ ลงในกาแฟทุกแก้ว นั่นก็อธิบายได้ว่าทำไมเขาถึง ป่วยขนาดนี้)
+05-0939	talk	Minami-kun? You work with Kiriko-chan, right?	มินามิคุงเหรอ? นายทำงานร่วมกับคิริโกะจังใช่ไหม?
+05-0940	talk	(And if it's not sugar, it could have been introduced by someone else.)	(แล้วถ้ามันไม่ใช่น้ำตาล ก็อาจมีคนอื่นเป็นคนใส่ลงไป)
+05-0941	talk	(I had eyes on her husband's friend the whole time, so it couldn't have been him.)	(ผมจับตาดูเพื่อนของสามีเธอตลอดเวลา เพราะงั้นคงไม่ใช่เขาแน่)
+05-0942	talk	(...That would mean it was added prior to being served.)	(...นั่นแปลว่ามันถูกใส่ลงไป ก่อนที่จะยกออกมาเสิร์ฟ)
+05-0943	talk	Well, look who it is!	อุ๊ย ใครมาเนี่ย!
+05-0944	talk	Hey, good to see you. Hitting the poker tables again, are we?	เฮ้ ดีใจที่เจอกันนะ มาเล่นโป๊กเกอร์อีกแล้วเหรอเนี่ย?
+05-0945	talk	Yup. I'm all out of martinis, too, so I wouldn't mind playing with you for a bit.	ใช่แล้ว มาร์ตินี่ฉันก็หมดพอดี เลยไม่ว่าอะไรถ้าจะเล่นกับคุณ สักตาสองตา
+05-0946	talk	Ready to get started?	พร้อมเริ่มหรือยัง?
+05-0947	talk	Sure, I'll take you on.	ได้เลย ผมรับคำท้า
+05-0948	talk	How about next time?	ไว้คราวหน้าดีกว่าไหม?
+05-0949	talk	Oh, all right. Swing by again sometime.	โอเค แวะมาใหม่นะ
+05-0950	talk	Oh? I won't go down easy, you know!	หา? ฉันไม่ยอมแพ้ง่าย ๆ หรอกนะ!
+05-0951	talk	Hope you don't mind losing! ...Wait, you don't have enough chips.	หวังว่าจะไม่ว่ากันนะถ้าคุณแพ้! ...เดี๋ยวนะ คุณมีชิปไม่พอนี่
+05-0952	talk	Head over to the exchange counter and buy some first.	ไปที่เคาน์เตอร์แลกชิปแล้วซื้อ เพิ่มก่อนสิ
+05-0953	talk	Oh, were you leaving already?	อ้าว จะไปแล้วเหรอ?
+05-0954	talk	Today's just not my day... I'm out.	วันนี้ดวงไม่ดีจริง ๆ... ผมพอแค่นี้แล้วล่ะ
+05-0955	talk	If you say so. Well, see you later then.	ถ้าคุณว่างั้นก็ตามนั้น ไว้เจอกันใหม่นะ
+05-0956	talk	Aww... I can't believe I lost!	แหงเลย... ไม่อยากเชื่อเลยว่าฉันแพ้!
+05-0957	talk	Don't worry. We all have those days.	ไม่ต้องห่วงหรอก ใคร ๆ ก็มีวันแบบนี้ได้
+05-0958	talk	Hehe, you're sweet. Either way, I did have fun.	ฮิฮิ คุณนี่ใจดีจัง ยังไงก็เถอะ วันนี้สนุกดีนะ
+05-0959	talk	Hope to see you again!	หวังว่าจะได้เจอกันอีกนะ!
+05-0960	talk	Ah, you again. Feelin' like some poker today?	อ้าว คุณอีกแล้ว วันนี้อยากเล่นโป๊กเกอร์อีกไหม?
+05-0961	talk	Yeah, I'll take you on.	เอาสิ ผมรับมือให้
+05-0962	talk	Thanks for the invite, but I'm gonna pass for now.	ขอบคุณที่ชวนนะ แต่ตอนนี้ผมขอผ่านก่อนแล้วกัน
+05-0963	talk	Hehe, I've got some new tricks up my sleeve... Better watch out!	ฮิฮิ ฉันมีมุกใหม่ซ่อนไว้เหมือนกันนะ... ระวังตัวไว้ให้ดี!
+05-0964	talk	Hehe, don't think it'll be as easy as last time! ...Wait, you don't have enough chips.	ฮิฮิ อย่าคิดว่าจะง่ายเหมือนครั้งก่อนนะ! ...เดี๋ยวนะ คุณมีชิปไม่พอนี่
+05-0965	talk	...Today's just not my lucky day.	...วันนี้ผมดวงไม่ดีจริง ๆ
+05-0966	talk	We all have days like that. Hope to see you again next time.	ใคร ๆ ก็มีวันแบบนั้นได้ทั้งนั้น หวังว่าจะได้เจอกันใหม่นะ
+05-0967	talk	Aww, not again! I gotta say, you're one tough guy... I like that. ❤	โธ่ อีกแล้วเหรอเนี่ย! ต้องบอกเลยว่าคุณนี่แกร่งจริง ๆ นะ... ฉันชอบแบบนั้นแหละ
+05-0968	talk	(She's not... actually hitting on me, is she? Okay... calm down. You're cool. You're the man. You got this!)	(เธอไม่ได้... กำลังจีบผมอยู่ใช่ไหมเนี่ย? โอเค... ใจเย็น ๆ ผมเท่อยู่แล้ว ผมคือผู้ชายตัวจริง ผมทำได้!)
+05-0969	talk	Heh, what can I say? I guess Lady Luck likes her guys tough. Rugged, even. With the faintest hint of danger about them.	เฮอะ จะให้พูดยังไงดีล่ะ? คงเป็นเพราะเทพีแห่งโชคชอบผู้ชายแกร่ง ๆ บึกบึนหน่อย แถมมีกลิ่นอายอันตรายนิด ๆ มั้ง
+05-0970	talk	Hee-hee... With an attitude like that, I feel like the two of us were meant to be... poker buddies.	ฮิฮิ... ด้วยท่าทีแบบนั้น ฉันรู้สึกว่าเราสองคนเกิดมาเพื่อเป็น... เพื่อนโป๊กเกอร์กันจริง ๆ
+05-0971	talk	...Huh? <font_kind=yakuza_italic>Poker buddies</font_kind>?	...หา? <font_kind=yakuza_italic>เพื่อนโป๊กเกอร์</font_kind>เหรอ?
+05-0972	talk	Totally! Come play with me again whenever you have the chance, yeah? Oh, and you can have this if you want.	จริงสิ! แวะมาเล่นกับฉันอีกเมื่อไหร่ก็ได้นะ โอ้ แล้วก็เอาอันนี้ไปด้วยถ้าอยากได้
+05-0973	talk	Oh shoot, I'm gonna be late! I promised to meet up with my boyfriend... Well, see you later!	อ๊ะ แย่แล้ว จะสายซะแล้ว! ฉันสัญญาไว้ว่าจะไปเจอแฟนหนุ่ม... เอาล่ะ ไว้เจอกันใหม่นะ!
+05-0974	talk	Wait... What just happened...	เดี๋ยวนะ... เกิดอะไรขึ้นเนี่ย...
+05-0975	talk	(Looks like I didn't get lucky after all...)	(ท่าทางผมจะไม่ได้โชคดีอย่างที่ คิดซะแล้ว...)
+05-0976	talk	So this job... I understand your nephew has gone missing?	งานนี้... ผมเข้าใจว่าหลานชายของคุณหายตัว ไปใช่ไหมครับ?
+05-0977	talk	Yes, I'm afraid so. His name is Hideaki Deguchi.	ใช่ค่ะ น่าเสียดายที่เป็นแบบนั้น เขาชื่อฮิเดอากิ เดกุจิค่ะ
+05-0978	talk	Three years ago, he left home in hopes of becoming the number one host in Kamurocho, and I haven't heard from him since.	เมื่อสามปีก่อนเขาออกจากบ้านไป ด้วยความหวังว่าจะได้ เป็นโฮสต์อันดับหนึ่งของคามุโรโจ แล้วดิฉันก็ไม่ได้ข่าวคราวจาก เขาอีกเลยค่ะ
+05-0979	talk	(He sure set his sights high, didn't he?)	(ตั้งเป้าไว้สูงจริง ๆ นะเนี่ย)
+05-0980	talk	And his parents... I'm sorry to ask, but they're both gone?	แล้วพ่อแม่ของเขา... ต้องขอโทษที่ต้องถามนะครับ แต่ทั้งสองท่านเสียไปแล้วใช่ไหมครับ?
+05-0981	talk	Yes. They were in a tragic accident while Hideaki was in high school... I'm the only family he's got left.	ใช่ค่ะ ทั้งสองคนประสบอุบัติเหตุ ร้ายแรงตอนที่ฮิเดอากิยัง เรียนอยู่มัธยมปลาย... ตอนนี้ดิฉันเป็นญาติคนเดียวที่ เขาเหลืออยู่ค่ะ
+05-0982	talk	You must be worried sick, then.	งั้นคุณคงเป็นห่วงเขามากเลยสินะครับ
+05-0983	talk	Yes, to say the least. Do you think you can find him, Yagami-san?	ค่ะ พูดได้ว่าเป็นห่วงมากทีเดียว คุณคิดว่าจะช่วยตามหาเขาได้ไหมคะ ยากามิซัง?
+05-0984	talk	I can try. I'm usually pretty good at tracking people down.	ผมลองดูได้ครับ ปกติผมค่อนข้างถนัดเรื่องตามหาคน
+05-0985	talk	Um, there <font_kind=yakuza_italic>is</font_kind> one more thing I think you should know... It's embarrassing, but...	อืม <font_kind=yakuza_italic>มี</font_kind>อีกเรื่องหนึ่งที่ดิฉันคิดว่า คุณควรรู้ไว้จริง ๆ ค่ะ... เป็นเรื่องน่าอายหน่อยแต่...
+05-0986	talk	I lent Hideaki some money at one point. To the tune of 500,000 yen.	ดิฉันเคยให้ฮิเดอากิยืมเงินไป ครั้งหนึ่งค่ะ จำนวน 500,000 เยน
+05-0987	talk	500,000? That's not exactly pocket change.	500,000 เยนเลยเหรอ? นั่นไม่ใช่เงินเล็ก ๆ น้อย ๆ เลยนะครับ
+05-0988	talk	Yes. He told me he'd need a nest egg to kick off living here in Tokyo, and that he'd pay it back in a year...	ค่ะ เขาบอกว่าต้องการเงินก้อนไว้ เริ่มต้นชีวิตที่โตเกียว แล้วจะคืนให้ภายในหนึ่งปี...
+05-0989	talk	But I couldn't bring myself to bug him about it, and now three years have flown by.	แต่ดิฉันก็ทำใจไม่ได้ที่จะไปทวงเขา แล้วเวลาสามปีก็ผ่านไปเร็วมากค่ะ
+05-0990	talk	Understandable. Money can be a tough subject between family.	เข้าใจได้ครับ เรื่องเงินเป็นเรื่องอ่อนไหว ระหว่างญาติพี่น้องเสมอ
+05-0991	talk	Right, so I stayed quiet, but now I'm in a situation where I could really use that money...	ใช่ค่ะ ดิฉันเลยเงียบไว้ แต่ตอนนี้ดิฉันอยู่ในสถานการณ์ ที่ต้องการเงินก้อนนั้นจริง ๆ...
+05-0992	talk	Oh yes, but my daughter is getting married soon. And I'd like to be able to help her out...	อ๋อ ค่ะ ลูกสาวของดิฉันกำลังจะแต่งงานเร็ว ๆ นี้ แล้วดิฉันก็อยากช่วยเหลือเธอด้วยค่ะ...
+05-0993	talk	Ah, I see.	อ๋อ เข้าใจแล้วครับ
+05-0994	talk	Yes. I'd actually always planned that the 500,000 would go toward her. That's why I saved it.	ค่ะ จริง ๆ แล้วดิฉันวางแผนไว้เสมอว่าจะเอาเงิน 500,000 นั้นให้เธอ นั่นแหละคือเหตุผลที่เก็บมันไว้
+05-0995	talk	So, correct me if I'm wrong, but you're hoping I can find your nephew and get your money back in the process?	งั้นถ้าผมเข้าใจผิดก็ขอแก้ไข ด้วยนะครับ คุณหวังให้ผมตามหาหลานชายของคุณ แล้วเอาเงินคืนมาด้วยพร้อมกัน ใช่ไหมครับ?
+05-0996	talk	...Yes. It's a tough thing to ask, but...	...ใช่ค่ะ มันเป็นเรื่องที่ลำบากใจที่จะขอ เหมือนกัน แต่...
+05-0997	talk	I assure you, it's not about the money. It's more important to me that he's safe.	ดิฉันยืนยันได้เลยค่ะว่าไม่ใช่ เรื่องเงินเลย สิ่งที่สำคัญกว่าสำหรับดิฉันคือ ความปลอดภัยของเขา
+05-0998	talk	You'll be discreet about the money issue, I hope?	ดิฉันหวังว่าคุณจะเก็บเรื่อง เงินไว้เป็นความลับนะคะ?
+05-0999	talk	Of course. He's your family, so I'll make sure things stay... amicable.	แน่นอนครับ เขาเป็นญาติของคุณ ผมจะดูแลให้ทุกอย่างจบลงด้วยดี... แบบไม่มีเรื่องบาดหมางกัน
+05-1000	talk	But, if he's not paying you back, there's clearly an issue. If he has it, I'll get it back somehow.	แต่ถ้าเขาไม่ยอมคืนเงินคุณ นั่นก็ชัดเจนว่ามีปัญหาแล้วล่ะครับ ถ้าเขามีเงินอยู่ ผมจะเอามันคืนมาให้ได้ ไม่ทางใดก็ทางหนึ่ง
+05-1001	talk	I believe you've made an offer of 120,000 yen, correct?	ผมเข้าใจว่าคุณเสนอค่าจ้างไว้ที่ 120,000 เยน ใช่ไหมครับ?
+05-1002	talk	Yes. I did some research and thought that would be an appropriate amount.	ค่ะ ดิฉันหาข้อมูลมาบ้างแล้วคิดว่า จำนวนนี้น่าจะเหมาะสมค่ะ
+05-1003	talk	(So, Hideaki set out to become the number one host in Kamurocho, huh?)	(ฮิเดอากิตั้งใจจะเป็นโฮสต์ อันดับหนึ่งของคามุโรโจสินะ...)
+05-1004	talk	(I guess the best place to start asking around would be Stardust.)	(ผมว่าที่ที่ควรเริ่มสอบถาม น่าจะเป็นสตาร์ดัสต์)
+05-1005	talk	Hey, Seiya. I've got a request for you.	เฮ้ เซยะ ผมมีเรื่องอยากขอให้ช่วยหน่อย
+05-1006	talk	Yagami-san, what's up?	ยากามิซัง มีอะไรเหรอครับ?
+05-1007	talk	I'm looking for a guy. Goes by Hideaki Deguchi. Word on the streets is that he's a host. Heard of him?	ผมกำลังตามหาคนคนหนึ่ง ชื่อฮิเดอากิ เดกุจิ ได้ข่าวมาว่าเขาเป็นโฮสต์ นายรู้จักเขาไหม?
+05-1008	talk	Deguchi? That's not the kinda name a host would use. You know what his stage name is?	เดกุจิเหรอครับ? ไม่ใช่ชื่อที่โฮสต์เขาใช้กันหรอกนะ รู้ไหมครับว่าชื่อในวงการของเขา คืออะไร?
+05-1009	talk	No, not really. But I've got a picture. I'll text you.	ไม่รู้เหมือนกัน แต่ผมมีรูปอยู่ จะส่งให้ทางข้อความนะ
+05-1010	talk	Before you do... Is it just a normal photo, or one of his head shots?	ก่อนจะดูรูปนี้... นี่เป็นรูปถ่ายธรรมดา หรือรูปโปรไฟล์โฮสต์ของเขา?
+05-1011	talk	Nah, just a normal photo. I take it that won't work?	เปล่า แค่รูปถ่ายธรรมดาน่ะ คงใช้ไม่ได้สินะ?
+05-1012	talk	Yeah man, we get so done up on the job, you wouldn't even recognize us in street clothes.	ใช่เลย พวกเราแต่งตัวจัดเต็มตอนทำงานซะ จนนายอาจจำไม่ได้ ด้วยซ้ำตอนใส่ชุดธรรมดา
+05-1013	talk	Ah, that's a tough break. This is the only photo I've got to go on.	อืม แย่หน่อยนะ นี่เป็นรูปเดียวที่ผมมีให้ใช้เทียบ
+05-1014	talk	...Well, maybe someone's seen him off shift. I'll ask around.	...เอาเถอะ บางทีอาจมีใครเคยเห็นเขาตอนเลิกงาน เดี๋ยวลองถามดูให้
+05-1015	talk	Thanks. Let me know if you hear anything.	ขอบใจนะ ถ้าได้ข่าวอะไรก็บอกผมด้วย
+05-1016	talk	(Better not get my hopes up, but Seiya is still my best bet. Let's see if he can pull anything up first.)	(ไม่ควรตั้งความหวังมากนัก แต่เซยะก็ยังเป็นตัวเลือกที่ดี ที่สุดตอนนี้ ลองดูก่อนว่าเขาจะหาอะไรมาได้บ้าง)
+05-1017	talk	Hey, Yagami-san. You're in luck, I think I've got a lead on your Deguchi guy.	เฮ้ ยากามิซัง โชคดีแล้วละ ผมว่าผมมีเบาะแสเรื่องไอ้เดกุจิ ที่นายตามหาแล้ว
+05-1018	talk	Oh, yeah?	อ๋อ เหรอ?
+05-1019	talk	Sounds like he turned up at a club where a friend of mine works.	ได้ยินว่าเขาไปโผล่ที่คลับที่ เพื่อนผมทำงานอยู่
+05-1020	talk	Said he showed up claiming that one day he'd be the "emperor of the night" and ended up quitting, like, the next week.	ว่ากันว่าเขาเข้ามาคุยโวว่า สักวันจะได้เป็น "จักรพรรดิแห่งราตรี" แต่ลาออกไปอาทิตย์ถัดมาเลย
+05-1021	talk	What do you know, he wasn't getting along with his coworkers. But that was two years back now.	จะว่าไป เขาก็เข้ากับเพื่อนร่วมงานไม่ได้ด้วย แต่นั่นก็สองปีมาแล้วละ
+05-1022	talk	Any idea where he might have gone after that?	พอจะรู้ไหมว่าหลังจากนั้นเขาไปไหนต่อ?
+05-1023	talk	I couldn't tell you if he's still a host, but they're saying they've seen him on Pink Street.	บอกไม่ได้หรอกว่าเขายังเป็น โฮสต์อยู่รึเปล่า แต่มีคนเห็นเขาแถวถนนพิงก์สตรีท
+05-1024	talk	Pink Street, eh? Well, thanks for the info. That helped a ton.	ถนนพิงก์สตรีทเหรอ ขอบใจสำหรับข้อมูลนะ ช่วยได้เยอะเลย
+05-1025	talk	(Did he jump to a different club on Pink Street? Or maybe he found a new line of work...)	(เขาย้ายไปคลับอื่นแถว ถนนพิงก์สตรีทหรือเปล่านะ หรือไม่ก็อาจหางานใหม่ทำแล้ว...)
+05-1026	talk	(People claim to have seen Deguchi around here. Maybe I can spot him.)	(มีคนบอกว่าเคยเห็นเดกุจิแถวนี้ บางทีผมอาจเจอตัวเขาก็ได้)
+05-1027	talk	(There. I think I've found my target.)	(นั่นไง คิดว่าเจอเป้าหมายแล้ว)
+05-1028	talk	(But wait, looks like he's in trouble with a rough crowd. What'd he do?)	(แต่เดี๋ยวนะ ดูเหมือนเขาจะมีเรื่องกับพวกนักเลง ทำอะไรลงไปวะเนี่ย?)
+05-1029	talk	I told you, I'll have your money this weekend! Please, take my word for it!	ผมบอกแล้วไงว่าสุดสัปดาห์นี้จะ เอาเงินมาให้แน่! เชื่อผมเถอะนะ!
+05-1030	talk	How many times you think that's gonna fly, dumbass!?	มึงคิดว่าจะพูดแบบนี้ผ่านไปได้ กี่ครั้งวะ ไอ้โง่!?
+05-1031	talk	I mean it, though! This time I've got a source! I really will pay you back this weekend!	ผมพูดจริงนะ! รอบนี้ผมมีลู่ทางแล้ว! ผมจะเอาเงินมาคืนสุดสัปดาห์นี้แน่นอน!
+05-1032	talk	Consider this your last chance. We'll have eyes on your apartment, and if you don't pay...	ถือซะว่านี่เป็นโอกาสสุดท้ายของมึง กูจะให้คนจับตาดูห้องมึงไว้ ถ้ามึงไม่จ่าย...
+05-1033	talk	You'll be "employed" on the next tuna boat out of the harbor.	มึงจะได้ "ทำงาน" บนเรือจับปลาทูน่าลำถัดไปที่ออกจากท่า
+05-1034	talk	Oh god, a tuna boat?	โอ้พระเจ้า เรือจับปลาทูน่าเหรอ?
+05-1035	talk	This is bad... No way in hell I'm going on a tuna boat...	แย่แล้ว... ไม่มีทางที่ผมจะขึ้นเรือจับปลา ทูน่าเด็ดขาด...
+05-1036	talk	I can't even swim... I'd die in a heartbeat on a tuna boat...	ผมว่ายน้ำไม่เป็นด้วยซ้ำ... ถ้าขึ้นเรือทูน่าคงตายแน่ๆ...
+05-1037	talk	Hey, earth to Deguchi-san! That is your name, right?	เฮ้ นี่เดกุจิซัง ได้ยินไหม!? นั่นชื่อคุณใช่ไหม?
+05-1038	talk	Wha!? Yeah, that's me, man. Who are you?	หา!? ใช่ ผมเองแหละ คุณเป็นใครวะ?
+05-1039	talk	I'm Yagami, a PI. Your Aunt Taniyama hired me to find you.	ผมยากามิ นักสืบเอกชน ป้าทานิยามะของคุณจ้างผมให้ตามหาคุณ
+05-1040	talk	Aunt Fumie...?	ป้าฟุมิเอะ...?
+05-1041	talk	Who were those thugs just now?	เมื่อกี้พวกนักเลงนั่นใครกัน?
+05-1042	talk	Debt collectors. I'm 200 grand in the hole, and it's past due.	คนทวงหนี้น่ะ ผมติดหนี้อยู่สองแสนเยน แล้วก็เลยกำหนดมาแล้ว
+05-1043	talk	(...Great. He's borrowing from loan sharks, too?)	(...เยี่ยมเลย เขาไปกู้เงินนอกระบบมาอีกเหรอเนี่ย?)
+05-1044	talk	You know your aunt hasn't heard from you in three years, right? She's been worried sick.	รู้ไหมว่าป้าคุณไม่ได้ข่าวคุณมา สามปีแล้ว เธอเป็นห่วงจนแทบทนไม่ไหว
+05-1045	talk	Oh... Yeah. I guess I shouldn't be surprised.	อ้อ... ใช่สิ ก็ไม่แปลกใจหรอก
+05-1046	talk	Are you still working? I heard you left the house to become the number one host in Kamurocho.	ยังทำงานอยู่ไหม? ได้ยินมาว่าคุณออกจากบ้านเพื่อ จะเป็นโฮสต์อันดับหนึ่ง ของคามุโรโจ
+05-1047	talk	Oh, nah, I got fired from that gig.	อ๋อ เปล่า ผมโดนไล่ออกจากงานนั้นไปแล้ว
+05-1048	talk	I punched one of the senior guys. I guess you could say I wasn't getting along with the staff.	ผมชกรุ่นพี่คนหนึ่งเข้าไป พูดง่ายๆ ก็คือเข้ากับพนักงานคนอื่นไม่ได้
+05-1049	talk	So, answer the question. What are you doing now?	งั้นตอบคำถามมาสิ ตอนนี้คุณทำอะไรอยู่?
+05-1050	talk	Well, I've gotten fired from a whole bunch of places since then. I'm not exactly... working right now.	ก็... หลังจากนั้นผมโดนไล่ออกมาอีก หลายที่เลย ตอนนี้ก็เลย... ไม่ได้ทำงานอะไรอยู่
+05-1051	talk	Turns out I'm number one at getting fired! Hahaha.	กลายเป็นว่าผมเก่งเรื่องโดน ไล่ออกอันดับหนึ่งซะงั้น! ฮ่าๆ
+05-1052	talk	(It's not exactly a laughing matter...)	(มันไม่ใช่เรื่องน่าขำเลยสักนิด...)
+05-1053	talk	So Aunt Fumie paid you to find me?	งั้นป้าฟุมิเอะจ้างนายให้ตามหาผมเหรอ?
+05-1054	talk	You know it's more than that, Deguchi-san. Don't you owe that poor woman half a million yen?	มันมากกว่านั้นนะ เดกุจิซัง คุณไม่ได้ติดหนี้ผู้หญิงคนนั้น อยู่ห้าแสนเยนหรือไง?
+05-1055	talk	You promised her you'd pay her back in a year, but far as I can tell, it's been three.	คุณสัญญากับเธอว่าจะคืนเงิน ภายในหนึ่งปี แต่เท่าที่ผมรู้ ผ่านมาสามปีแล้ว
+05-1056	talk	...I-I've been meaning to pay it back! And I still do plan on it!	...ผ-ผมตั้งใจจะคืนมาตลอดนะ! แล้วก็ยังตั้งใจอยู่ด้วย!
+05-1057	talk	Do you even have that kind of money?	คุณมีเงินขนาดนั้นด้วยเหรอ?
+05-1058	talk	...Ergh!	...อึก!
+05-1059	talk	Did you know your aunt had that money put aside for her daughter's wedding?	รู้ไหมว่าเงินก้อนนั้นป้าคุณ เก็บไว้เป็นค่าแต่งงานของลูกสาว เธอ?
+05-1060	talk	Sh-She did? And then she lent it to me?	จ-จริงเหรอ? แล้วเธอยังเอามาให้ผมยืมอีก?
+05-1061	talk	Yeah, it was for a good cause. And she's at a point where she needs it.	ใช่ เธอเอาเงินไปใช้เพื่อเรื่องดีๆ แล้วตอนนี้ก็ถึงเวลาที่เธอต้อง ใช้มันแล้ว
+05-1062	talk	Her daughter's ready to walk down the aisle.	ลูกสาวเธอพร้อมจะเดินเข้าประตู วิวาห์แล้ว
+05-1063	talk	Really!? So Shiori-chan is getting married...	จริงเหรอ!? ชิโอริจังจะแต่งงานแล้วสินะ...
+05-1064	talk	I heard you tell those guys you have a source. Was that true?	ได้ยินคุณบอกพวกนั้นว่ามีลู่ทางแล้ว จริงไหม?
+05-1065	talk	Y-Yes! It is!	จ-จริงครับ! จริงแน่นอน!
+05-1066	talk	By my count, you owe 700,000 yen, when you add that to your aunt's sum. You gonna be able to come up with it?	เท่าที่ผมนับ คุณเป็นหนี้รวมเจ็ดแสนเยน ถ้ารวมของป้าคุณเข้าไปด้วย คุณจะหามาได้ไหมล่ะ?
+05-1067	talk	Guh. T-That's...	อึก ม-มันก็...
+05-1068	talk	I'll take that as a no? Maybe you really should consider getting on a tuna boat.	ผมขอถือว่าเป็นคำว่าไม่นะ? งั้นคุณควรพิจารณาขึ้นเรือจับ ปลาทูน่าจริงๆ ซะที
+05-1069	talk	No, no, no! Anything but that! Do you know anything about that job!?	ไม่ ไม่ ไม่นะ! อะไรก็ได้แต่ไม่ใช่นั่น! คุณรู้อะไรเกี่ยวกับงานนั้นบ้างไหม!?
+05-1070	talk	They don't let you sleep, the hours are long and intense, the hierarchy is rigid, and if you can't swim, you die!	เขาไม่ให้นอนเลย ชั่วโมงงานก็ยาวแล้วก็โหด ลำดับอาวุโสก็เข้มงวด แล้วถ้าว่ายน้ำไม่เป็นก็ตายสถานเดียว!
+05-1071	talk	Okay, I'm still waiting to hear your plan, then.	โอเค งั้นผมยังรอฟังแผนของคุณอยู่นะ
+05-1072	talk	...I'll figure it out today. Give me a little time.	...ผมจะหาทางวันนี้แหละ ขอเวลาผมหน่อย
+05-1073	talk	(What's his plan? He better not be thinking about running...)	(แผนของเขาคืออะไรนะ? อย่าให้รู้เลยว่าคิดจะหนี...)
+05-1074	talk	(...This is too sketchy. I should keep an eye on this guy.)	(...มันน่าสงสัยเกินไป ผมควรจับตาดูเขาไว้)
+05-1075	talk	(That's not him. He doesn't look like the guy I'm after.)	(นั่นไม่ใช่เขา หน้าตาไม่เหมือนคนที่ผมตามหาเลย)
+05-1076	talk	(...Hm? Wait a sec...)	(...อืม? เดี๋ยวนะ...)
+05-1077	talk	(A ski mask?)	(หมวกไหมพรมคลุมหน้า?)
+05-1078	talk	What do you plan on doing with that ski mask, man?	คุณจะเอาหมวกไหมพรมคลุมหน้านั่น ไปทำอะไร?
+05-1079	talk	I-I... Um...	ผ-ผม... เอ่อ...
+05-1080	talk	I-I'm thinking I'd make my debut as a professional wrestler!	ผ-ผมกำลังคิดจะเดบิวต์เป็นนัก มวยปล้ำอาชีพน่ะ!
+05-1081	talk	There's a tournament tomorrow, and the grand prize is 800,000 yen!	พรุ่งนี้มีทัวร์นาเมนต์ แล้วรางวัลใหญ่ตั้งแปดแสนเยนเลยนะ!
+05-1082	talk	And that's your big plan to get out of debt? You're just gonna waltz into a wrestling tournament and win it?	นั่นแผนใหญ่ของคุณในการหลุดพ้น หนี้เหรอ? แค่เดินเข้าไปแข่งมวยปล้ำแล้วก็ คว้าแชมป์เลยงั้นสิ?
+05-1083	talk	O-Of course! I took some judo classes, you know! Now stop following me around!	ก-ก็แน่นอนสิ! ผมเคยเรียนยูโดมาด้วยนะ! เลิกตามผมไปทั่วซะที!
+05-1084	talk	(He's either an idiot or a liar... Scratch that, he's both. I need to keep an eye on him.)	(เขาต้องเป็นคนโง่หรือไม่ก็ขี้โกหกแน่ๆ... ไม่สิ เป็นทั้งคู่เลย ผมต้องจับตาดูเขาไว้)
+05-1085	talk	(Hm? Is he trying to sell his stuff to make up the difference now?)	(อืม? เขาพยายามขายของเพื่อหาเงินส่วน ต่างอยู่เหรอเนี่ย?)
+05-1086	talk	(Wait, a knife?)	(เดี๋ยวนะ มีดเหรอ?)
+05-1087	talk	...Eh?	...เอ๋?
+05-1088	talk	First a ski mask, now a knife. You know how sketchy this looks?	เมื่อกี้หมวกคลุมหน้า ตอนนี้มีดอีก คุณรู้ไหมว่ามันดูน่าสงสัยแค่ไหน?
+05-1089	talk	Um, no!? Why would anyone think this was sketchy!?	เอ่อ เปล่านะ!? ทำไมใครถึงจะคิดว่ามันน่าสงสัยได้ล่ะ!?
+05-1090	talk	I-I was... thinking I'd go hunting!	ผ-ผมแค่... คิดจะไปล่าสัตว์น่ะ!
+05-1091	talk	Hunting, huh? Care to explain that one?	ล่าสัตว์เหรอ? ช่วยอธิบายหน่อยได้ไหม?
+05-1092	talk	Because... wrestling, uh... takes good stamina and a high-protein diet!	เพราะ... มวยปล้ำน่ะ เอ่อ... ต้องมีความอึดที่ดีแล้วก็ต้อง กินโปรตีนสูงๆ!
+05-1093	talk	But I can't spend money on steak right now, so I figured I'd go kill my own prey!	แต่ตอนนี้ผมไม่มีเงินซื้อสเต๊กกิน เลยคิดว่าจะออกไปล่าเหยื่อกินเองซะเลย!
+05-1094	talk	And you were gonna do that... with a knife.	แล้วคุณจะทำแบบนั้น... ด้วยมีดเนี่ยนะ
+05-1095	talk	I-I am! I'm good with knives!	ใ-ใช่! ผมถนัดใช้มีดด้วยนะ!
+05-1096	talk	B-Besides, didn't I tell you to stop stalking me!? If I see you again, I'll sue!	อ-อีกอย่าง ผมบอกให้เลิกสะกดรอยตามผมไม่ใช่เหรอ!? ถ้าเจอคุณอีกทีผมจะฟ้องนะ!
+05-1097	talk	(He's really that stupid, isn't he?)	(เขาโง่ขนาดนั้นเลยจริงๆ สินะ?)
+05-1098	talk	Huh? He's...!	หา? เขา...!
+05-1099	talk	Deguchi-san! Don't do this!	เดกุจิซัง! อย่าทำแบบนี้!
+05-1100	talk	Let me go! This is the only way!	ปล่อยผมนะ! นี่เป็นทางเดียวแล้ว!
+05-1101	talk	Your aunt would never be able to live with herself if you did this to pay her back!	ป้าคุณคงทำใจไม่ได้แน่ ถ้าคุณทำแบบนี้เพื่อเอาเงินไปคืนเธอ!
+05-1102	talk	But she'll be in trouble if I don't! Not to mention, the debt collectors are gonna put me on a tuna boat!	แต่ถ้าผมไม่ทำ เธอก็จะเดือดร้อน! ไม่ต้องพูดถึงว่าพวกทวงหนี้จะ จับผมขึ้นเรือทูน่าด้วย!
+05-1103	talk	And you think robbery is the answer!?	แล้วคุณคิดว่าการปล้นคือทางออก งั้นเหรอ!?
+05-1104	talk	Yagami-san... If you're going to stand in my way, I won't hesitate to go through you!	ยากามิซัง... ถ้านายจะขวางทางผม ผมจะไม่ลังเลที่จะฝ่าไปแน่!
+05-1105	talk	(For crying out loud. I'm going to need to calm him down.)	(ให้ตายเถอะ ผมต้องทำให้เขาใจเย็นลงซะแล้ว)
+05-1106	talk	Ugh! I won't give up, no matter how many times you stop me!	อึก! ต่อให้นายห้ามผมกี่ครั้งผมก็ไม่ยอมแพ้!
+05-1107	talk	Let me commit this robbery!	ปล่อยให้ผมปล้นซะทีเถอะ!
+05-1108	talk	...I wasn't expecting a tantrum. What the hell should I do?	...ไม่คิดว่าเขาจะอาละวาดขนาดนี้ ผมควรทำยังไงดี?
+05-1109	talk	Guess I better call in his aunt.	คงต้องโทรตามป้าเขามาซะแล้ว
+05-1110	talk	...Hi. It's Yagami. The good news is that I found your nephew, but...	...สวัสดีครับ ผมยากามิเอง ข่าวดีคือผมเจอหลานของคุณแล้ว แต่ว่า...
+05-1111	talk	What am I going to do with you?	จะเอายังไงกับเธอดีเนี่ย?
+05-1112	talk	I'll pay back the money! I can work!	ผมจะคืนเงินให้ครับ! ผมทำงานได้นะ!
+05-1113	talk	A guy with your skills is going to have to work an awfully long time to pay back that kind of money...	คนที่มีฝีมือแบบคุณคงต้องทำงาน นานมากถึงจะคืนเงินก้อน นั้นได้หมด...
+05-1114	talk	Ugh... You're right. Guess it's back to armed robbery...	อึก... นายพูดถูก... งั้นกลับไปปล้นแบบมีอาวุธ เหมือนเดิมดีกว่า...
+05-1115	talk	*sigh* Hideaki...	*ถอนหายใจ* ฮิเดอากิ...
+05-1116	talk	If that's the case, how would you like to work for my husband?	ถ้าอย่างนั้น เธอจะลองไปทำงานให้สามีป้าไหมล่ะ?
+05-1117	talk	Huh? Uncle Taniyama would give me a job?	หา? ลุงทานิยามะจะให้งานผมเหรอ?
+05-1118	talk	You have an idea, Taniyama-san?	คุณมีไอเดียอะไรเหรอ ทานิยามะซัง?
+05-1119	talk	Yes, my husband's been trying to hire a few more people lately.	ใช่ค่ะ สามีดิฉันกำลังหาคนเพิ่มอยู่พอดี
+05-1120	talk	If you stay with us and work, you can get your degree, and pay us back out of your wages, little by little.	ถ้าเธอมาอยู่กับเราแล้วทำงาน เธอจะได้ประกาศนียบัตร แล้วก็ค่อยๆ ผ่อนใช้หนี้จากค่าจ้างได้ทีละนิด
+05-1121	talk	You're a very generous lady, Taniyama-san.	คุณใจดีมากเลยนะ ทานิยามะซัง
+05-1122	talk	I wouldn't say that. I'm just too soft on my nephew.	ไม่ถึงขนาดนั้นหรอกค่ะ ดิฉันแค่ใจอ่อนกับหลานตัวเอง เกินไปต่างหาก
+05-1123	talk	Wait! No... Aunt Fumie! You mean...	เดี๋ยวก่อน! ไม่นะ... ป้าฟุมิเอะ! หมายความว่า...
+05-1124	talk	If you agree to this, I'll ask my husband to pay off your debts up front, Deguchi.	ถ้าเธอตกลง ป้าจะให้ลุงจ่ายหนี้ให้ล่วงหน้าเลยนะ เดกุจิ
+05-1125	talk	Sounds like you made it out okay, Deguchi-san! An offer like that's too good to pass up, isn't it?	ฟังดูเหมือนคุณรอดตัวไปได้เลยนะ เดกุจิซัง! ข้อเสนอแบบนี้ดีเกินกว่าจะ ปฏิเสธไม่ใช่เหรอ?
+05-1126	talk	N-No, you don't understand! My uncle, he's...	ไ-ไม่ นายไม่เข้าใจ! ลุงผมน่ะ เขา...
+05-1127	talk	Hm? What?	หืม? อะไร?
+05-1128	talk	My uncle... He's...!	ลุงผม... เขา...!
+05-1129	talk	He's a tuna fisher!	เขาเป็นชาวประมงจับปลาทูน่า!
+05-1130	talk	Oh... So you ended up on a tuna boat after all.	อ้อ... สุดท้ายก็ต้องขึ้นเรือทูน่าอยู่ดีสินะ
+05-1131	talk	I can't swim! I'm gonna fall in the ocean and die!	ผมว่ายน้ำไม่เป็น! ตกทะเลตายแน่ๆ!
+05-1132	talk	...Deguchi-san.	...เดกุจิซัง
+05-1133	talk	Everyone wants to make an easy fortune. But sometimes you've gotta settle... for tuna.	ทุกคนอยากรวยง่ายๆ กันทั้งนั้น แต่บางทีก็ต้องยอม... จับปลาทูน่าไปเลย
+05-1134	talk	Ugghhhhh... Was that a pun? This sucks...	อ๊าาา... นี่เล่นมุกใช่ไหมเนี่ย? แย่ชะมัด...
+05-1135	talk	Thank you very much, Yagami-san. You better thank him too, Hideaki.	ขอบคุณมากนะคะ ยากามิซัง เธอก็ต้องขอบคุณเขาด้วยนะ ฮิเดอากิ
+05-1136	talk	Yeah... thanks...	ครับ... ขอบคุณนะ...
+05-1137	talk	Good luck on the boat, Deguchi-san. Don't slip.	โชคดีกับเรือนะ เดกุจิซัง ระวังลื่นด้วยล่ะ
+05-1138	talk	Yeah... I'm gonna be the number one tuna fisher... Woo...	ครับ... ผมจะเป็นชาวประมงทูน่าอันดับหนึ่ง... วู้...
+05-1139	talk	Excuse me? I'm Yagami, from Yagami Detective Agency.	ขอโทษนะครับ ผมยากามิ จากสำนักงานนักสืบยากามิ
+05-1140	talk	Oh, a pleasure to meet you, Yagami-san. I'm Fumie Taniyama, the one who requested you.	อ้อ ยินดีที่ได้รู้จักค่ะ ยากามิซัง ดิฉันฟุมิเอะ ทานิยามะ คนที่ติดต่อว่าจ้างคุณเอง
+05-1141	talk	Yeah, that's why I'm here. Mind if I sit?	ครับ เพราะงั้นผมถึงมาที่นี่ นั่งด้วยได้ไหมครับ?
+05-1142	talk	Sure, go right ahead.	ได้ค่ะ เชิญเลย
+05-1143	talk	A friend of mine took this recently.	เพื่อนดิฉันเพิ่งถ่ายรูปนี้มา ไม่นานนี้เอง
+05-1144	talk	I get the impression he's okay, but I still can't seem to reach him...	ดิฉันรู้สึกว่าเขาคงสบายดี แต่ก็ยังติดต่อเขาไม่ได้เลย...
+05-1145	talk	Great. Then it's settled.	ดีครับ งั้นก็ตกลงตามนี้
+05-1146	talk	With my charming hassaku face!	พร้อมใบหน้าส้มฮัสซากุสุดมีเสน่ห์!
+05-1147	talk	Steamy Onomichi ramen hat!	หมวกราเมนโอโนะมิจิสุดร้อนแรง!
+05-1148	talk	Cute fish pouch!	กระเป๋าปลาน่ารัก!
+05-1149	talk	Cool boots, vital for any fisherman!	รองเท้าบูตสุดเท่ สิ่งจำเป็นของชาวประมงทุกคน!
+05-1150	talk	And my bold and trendy Ono shirt! That's right, I'm the pride of Onomichi...	แล้วก็เสื้อโอโนะสุดเท่และทันสมัย! ใช่แล้ว ฉันคือความภาคภูมิใจแห่งโอโนะมิจิ...
+05-1151	talk	Ono...	โอโนะ...
+05-1152	talk	Michio!	มิจิโอะ!
+05-1153	talk	What the heck?	อะไรกันวะ?
+05-1154	talk	...Weird.	...แปลกจัง...
+05-1155	talk	Hello, everyone! I'm Ono Michio's producer, Hironaka!	สวัสดีทุกท่าน! ฉันฮิโรนากะ โปรดิวเซอร์ของโอโนะ มิชิโอะเอง!
+05-1156	talk	How about it, sir? Would you like a destination tour with Onomichi's very own Ono Michio!?	เป็นไงท่าน สนใจทัวร์แนะนำ สถานที่ท่องเที่ยวกับโอโนะ มิชิโอะ มาสคอตประจำเมืองโอโนะมิจิไหม!?
+05-1157	talk	I take it he's some kind of local mascot?	ผมเดาว่าเขาเป็นมาสคอตประจำ ท้องถิ่นสินะ?
+05-1158	talk	Exactly! Have you heard of him?	ใช่เลย! เคยได้ยินชื่อเขาไหม?
+05-1159	talk	He's from Onomichi, Hiroshima, a debonair fisherman with a great love of the sea!	เขามาจากโอโนะมิจิ จังหวัดฮิโรชิมะ เป็นชาวประมงหล่อเหลาที่รักทะเล สุดหัวใจ!
+05-1160	talk	Sorry, first I'm hearing it.	ขอโทษที เพิ่งเคยได้ยินเป็นครั้งแรกเลย
+05-1161	talk	*sigh* Guess we've still got our work cut out for us.	*ถอนหายใจ* คงต้องพยายามกันอีกเยอะเลยสินะ
+05-1162	talk	Maybe he's not quite refined enough... If only we could do it like <font_kind=yakuza_italic>him</font_kind>.	บางทีเขาอาจจะยังดูไม่ประณีตพอ... ถ้าเราทำได้แบบ<font_kind=yakuza_italic>เขาคนนั้น</font_kind>ก็คงดี
+05-1163	talk	(Sounds like the mascot business is pretty harsh.)	(ฟังดูวงการมาสคอตนี่โหดร้าย เหมือนกันนะ)
+05-1164	talk	Hey there, mister! Nice to meet you!	เฮ้ คุณลุง! ยินดีที่ได้เจอกันนะ!
+05-1165	talk	Hey, Michio-kun. That's not right, remember? You're supposed to say, "Nice to michi" when you greet someone!	เฮ้ มิจิโอะคุง ไม่ใช่แบบนั้นนะ จำได้ไหม? นายต้องพูดว่า "Nice to michi" ตอนทักทายคนสิ!
+05-1166	talk	Whatever, dude.	ก็ได้น่า เพื่อน
+05-1167	talk	Wh-What kind of attitude is that!? You're ruining our mascot!	ท-ท่าทีอะไรกันเนี่ย!? นายกำลังทำลายภาพมาสคอตของเรานะ!
+05-1168	talk	Ah, my apologies. You shouldn't have had to see that.	อ้า ขอโทษด้วยนะ ไม่น่าให้คุณเห็นภาพแบบนั้นเลย
+05-1169	talk	Right. I'll be on my way, then.	ครับ งั้นผมไปก่อนนะ
+05-1170	talk	(Hey, isn't that... the weird mascot I saw earlier?)	(เฮ้ นั่นมัน... มาสคอตประหลาดที่ผมเห็นเมื่อกี้ ไม่ใช่เหรอ?)
+05-1171	talk	Waaaaait!	เดี๋ยวก่อนนะ!
+05-1172	talk	Thief! Someone stop him!	ขโมย! ใครก็ได้ช่วยจับมันที!
+05-1173	talk	Thief!?	ขโมยเหรอ!?
+05-1174	talk	Huwahh... Ugh...	ฮวาห์... อึก...
+05-1175	talk	How could you let this happen!? Aren't you in charge of that costumed maniac!?	ปล่อยให้เรื่องแบบนี้เกิดขึ้นได้ยังไง!? คุณไม่ได้ดูแลไอ้บ้าในชุดมาสคอต นั่นเหรอ!?
+05-1176	talk	W-Well, yes, I am, for all the good it's doing...	ก-ก็... ใช่ ฉันดูแลอยู่ แต่ก็ดูจะไม่ช่วยอะไรเลยตอนนี้...
+05-1177	talk	Hey, have we met before?	เอ๊ะ เราเคยเจอกันมาก่อนหรือเปล่านะ?
+05-1178	talk	Well, I thought you said something about a thief...	เอ่อ ผมนึกว่าคุณพูดอะไรบางอย่าง เกี่ยวกับขโมยนะ...
+05-1179	talk	I did! That Ono Michio thug just robbed my convenience store!	ใช่แล้ว! ไอ้เจ้าโอโนะ มิชิโอะนั่นเพิ่งปล้น ร้านสะดวกซื้อของฉันไป!
+05-1180	talk	That mascot is on some kind of crime spree?	มาสคอตตัวนั้นออกอาละวาดก่อคดี อยู่งั้นเหรอ?
+05-1181	talk	No, no, this is all a huge misunderstanding!	ไม่ ไม่ใช่ นี่มันเข้าใจผิดกันไปใหญ่แล้ว!
+05-1182	talk	I know what I saw!	ฉันเห็นกับตาตัวเองนะ!
+05-1183	talk	Well, yes, but what I'm trying to say is, the guy inside the costume isn't the <font_kind=yakuza_italic>true</font_kind> Ono Michio!	ก็... ใช่ แต่ที่ฉันพยายามจะบอกคือ คนที่อยู่ในชุดตอนนี้ไม่ใช่โอโนะ มิชิโอะ<font_kind=yakuza_italic>ตัวจริง</font_kind>!
+05-1184	talk	The kid I hired to play Ono Michio was a boy named Nishimura-kun...	เด็กที่ฉันจ้างให้สวมบทโอโนะ มิชิโอะ เป็นเด็กหนุ่มชื่อนิชิมุระคุง...
+05-1185	talk	But he was unhappy with the part, so he texted me that he would be quitting.	แต่เขาไม่พอใจกับบทบาทนี้ เลยส่งข้อความมาบอกว่าจะลาออก
+05-1186	talk	And rather rudely, might I add! He said "I quit. I left your dumb costume on the side of the street."	แถมยังพูดจาไม่สุภาพด้วยนะ! เขาบอกว่า "ผมลาออก ผมทิ้งชุดโง่ๆ ของคุณไว้ข้างถนนแล้ว"
+05-1187	talk	He dumped your mascot outfit on the sidewalk and left?	เขาทิ้งชุดมาสคอตของคุณไว้บน ทางเท้าแล้วก็หนีไปเลยเหรอ?
+05-1188	talk	Yes, and he didn't even write where! So I've been searching all over for it...	ใช่ แถมยังไม่บอกด้วยว่าทิ้งไว้ตรงไหน! ฉันก็เลยต้องตามหาไปทั่วเลย...
+05-1189	talk	But that's when I caught wind of Ono Michio committing a robbery... And now we're all caught up.	แล้วฉันก็ได้ข่าวว่าโอโนะ มิชิโอะไปก่อเหตุปล้น... แล้วตอนนี้ก็เลยมาเจอกันหมดแบบนี้
+05-1190	talk	So some opportunistic bastard saw a mascot costume on the street and decided to rob a store?	งั้นก็มีไอ้ฉวยโอกาสบางคนเห็น ชุดมาสคอตอยู่บนถนนแล้ว ตัดสินใจไปปล้นร้านงั้นเหรอ?
+05-1191	talk	That seems to be the way of it...	ก็ดูจะเป็นแบบนั้นแหละ...
+05-1192	talk	I'm sorry, but why did your worker quit like that? What would cause him to be so careless?	ขอโทษนะ แต่ทำไมพนักงานของคุณถึงลาออกแบบนั้น? อะไรทำให้เขาสะเพร่าขนาดนี้?
+05-1193	talk	It's probably... because he couldn't handle the pressure that comes with being Ono Michio.	คงเป็นเพราะ... เขารับความกดดันจากการเป็นโอโนะ มิชิโอะไม่ไหวมั้ง
+05-1194	talk	How much pressure could it be?	มันจะกดดันได้ขนาดไหนกัน?
+05-1195	talk	Well, the guy we had doing Ono Michio before was incredible at it, and I guess Nishimura-kun felt inferior...	ก็... คนที่เล่นเป็นโอโนะ มิชิโอะคนก่อนเก่งมากเลย ฉันว่านิชิมุระคุงคงรู้สึกด้อยกว่า...
+05-1196	talk	He just couldn't express the refinement! The maturity! All the things his predecessor had and more.	เขาไม่สามารถถ่ายทอดความประณีต ออกมาได้เลย! ความเป็นผู้ใหญ่ก็ด้วย! ทุกอย่างที่คนก่อนหน้ามีแล้ว ยังมีมากกว่านั้นอีก
+05-1197	talk	So it probably got to his head, and rather than try harder, he just up and quit.	เรื่องนี้คงกดดันจิตใจเขา แทนที่จะพยายามให้มากขึ้น เขาก็แค่ลาออกไปดื้อๆ เลย
+05-1198	talk	I see. So you have no idea who could be in that costume right now?	เข้าใจแล้ว งั้นคุณไม่รู้เลยสินะว่าตอนนี้ ใครอยู่ในชุดนั้น?
+05-1199	talk	(Well, we have to consider that Nishimura could have lied about throwing the costume away...)	(ก็ต้องพิจารณาไว้ด้วยว่า นิชิมุระอาจโกหกเรื่องทิ้งชุดไป ก็ได้...)
+05-1200	talk	(It would be a perfect alibi to say he threw it away and then go rob a store with it.)	(มันคงเป็นพยานที่อยู่ที่สมบูรณ์แบบเลย ถ้าเขาบอกว่าทิ้งชุดไปแล้วแอบ เอามาปล้นร้านเอง)
+05-1201	talk	That rascal caught me completely off-guard, I'll have you know!	ไอ้เด็กนั่นทำเอาฉันตั้งตัวไม่ ทันเลยนะ บอกให้รู้ไว้!
+05-1202	talk	And this is all your fault! I lost 500,000 yen in cold hard cash!	แล้วนี่ก็เป็นความผิดของคุณทั้งหมด! ฉันเสียเงินสดไปตั้งห้าแสนเยนแน่ะ!
+05-1203	talk	Don't you think we should prioritize finding Ono Michio before anything worse happens!?	คุณไม่คิดเหรอว่าเราควรรีบตามหาโอโนะ มิชิโอะก่อนที่เรื่องจะแย่ไปกว่านี้!?
+05-1204	talk	Hey, guys... About Ono Michio...	เดี๋ยวนะทุกคน... เรื่องโอโนะ มิชิโอะน่ะ...
+05-1205	talk	I saw him go inside that arcade, Charles.	ผมเห็นเขาเดินเข้าไปในร้านเกม ชาร์ลส์นั่น
+05-1206	talk	Then there's no time for talk! Let's go catch him!	งั้นก็ไม่มีเวลามาคุยกันแล้ว! ไปจับตัวมันกันเถอะ!
+05-1207	talk	Y-Yeah, I'm going too!	ใ-ใช่! ฉันไปด้วย!
+05-1208	talk	(...This won't end well. I should probably go see what's going on.)	(...นี่คงไม่จบสวยแน่ ผมน่าจะไปดูสถานการณ์ด้วยดีกว่า)
+05-1209	talk	Oh no... The costume has been abandoned...	ไม่นะ... ชุดถูกทิ้งไว้แล้ว...
+05-1210	talk	So the suspect came through here.	งั้นผู้ต้องสงสัยก็ผ่านมาทางนี้
+05-1211	talk	Sure seems that way. Let's take a look inside.	ดูจะเป็นแบบนั้นจริงๆ ลองเข้าไปดูข้างในกันเถอะ
+05-1212	talk	Now, fess up! Who just robbed me!?	เอาละ สารภาพมาซะดีๆ! ใครปล้นฉันไป!?
+05-1213	talk	Huh? Nishimura-kun?	หา? นิชิมุระคุงเหรอ?
+05-1214	talk	Hironaka-san!?	ฮิโรนากะซัง!?
+05-1215	talk	What are you doing here!? Why would you quit your job and then go loaf around in an arcade!?	นายมาทำอะไรที่นี่!? ทำไมถึงลาออกจากงานแล้วมา นั่งเล่นในร้านเกมแบบนี้!?
+05-1216	talk	His job? Are you saying this is the guy who was in the Ono Michio costume?	งานเขาเหรอ? หมายความว่าคนนี้แหละที่ใส่ชุดโอโนะ มิชิโอะงั้นเหรอ?
+05-1217	talk	Yes, this is him.	ใช่ครับ คนนี้แหละ
+05-1218	talk	Then that means he's the thief!	งั้นก็แปลว่าเขานี่แหละขโมย!
+05-1219	talk	Wait, a thief!? This has gotta be some kinda awful coincidence!	เดี๋ยวนะ ขโมยเหรอ!? นี่มันต้องเป็นเรื่องบังเอิญที่ แย่สุดๆ แน่ๆ!
+05-1220	talk	Oh, sure, a coincidence! Don't lie to us!	อ๋อ เรื่องบังเอิญสิ! อย่ามาโกหกกันเลย!
+05-1221	talk	It's true, though! I was pretty pissed about the umpteenth lecture, so I came in here to blow off steam!	มันจริงนะ! ผมหัวเสียกับการโดนบ่นซ้ำๆ ก็เลยเข้ามาระบายอารมณ์ในนี้!
+05-1222	talk	You were pissed at <font_kind=yakuza_italic>me</font_kind>!?	นายหัวเสียกับ<font_kind=yakuza_italic>ฉัน</font_kind>งั้นเหรอ!?
+05-1223	talk	I've been in here all day, I swear! Besides, the guys who came in after me were way shadier!	ผมอยู่ในนี้ทั้งวันเลยนะ สาบานได้! แล้วพวกที่เข้ามาทีหลังผมก็ดู น่าสงสัยกว่าผมตั้งเยอะ!
+05-1224	talk	Hey! Don't drag us into this mess!	เฮ้ย! อย่าลากพวกเรามาเกี่ยวด้วยสิ!
+05-1225	talk	Yeah! I just wanted to play some games in peace, man.	ใช่เลย! ฉันแค่อยากเล่นเกมเงียบๆ เฉยๆ นะ
+05-1226	talk	Are these the only four guys who've entered the arcade?	มีแค่สี่คนนี้เหรอที่เข้ามาในร้านเกม?
+05-1227	talk	If that's the case...	ถ้าอย่างนั้น...
+05-1228	talk	It means one of you is the culprit...	แปลว่าหนึ่งในพวกนายนี่แหละคือตัวการ...
+05-1229	talk	N-Not it?	ไ-ไม่ใช่ผมนะ?
+05-1230	talk	I could never even pull off a robbery...	ฉันไม่มีทางทำเรื่องปล้นแบบนั้น ได้หรอก...
+05-1231	talk	You guys all suspect me, then!? That's not right!	งั้นทุกคนก็สงสัยผมเหรอ!? มันไม่ถูกต้องเลยนะ!
+05-1232	talk	Did anyone see someone taking off the Ono Michio costume by any chance?	มีใครเห็นบ้างไหมว่ามีคนถอดชุดโอโนะ มิชิโอะตรงไหน?
+05-1233	talk	I asked that same question before you came in, but no one saw anything.	ฉันก็ถามคำถามเดียวกันนี้ก่อน คุณมาแล้ว แต่ไม่มีใครเห็นอะไรเลย
+05-1234	talk	Listen, you bunch! I'm going to call the cops, so everybody stay put, got it!?	ฟังนะพวกนาย! ฉันจะโทรแจ้งตำรวจ ทุกคนอยู่ตรงนี้ห้ามไปไหนทั้งนั้น เข้าใจไหม!?
+05-1235	talk	Huh!? What was that for!?	หา!? ทำแบบนั้นทำไม!?
+05-1236	talk	Calm the fuck down, man. We don't want the cops sniffing around here.	ใจเย็นๆ หน่อยเว้ย กูไม่อยากให้ตำรวจมาดมกลิ่น แถวนี้หรอกนะ
+05-1237	talk	Oh you don't, do you? Well, that sounds pretty suspicious to me. Why's that?	อ๋อ ไม่อยากเหรอ? ฟังดูน่าสงสัยมากเลยนะ ทำไมล่ะ?
+05-1238	talk	And what's in that bag of yours, while I'm at it?	แล้วในกระเป๋าของนายมีอะไรอยู่ ในเมื่อพูดถึงกันแล้ว?
+05-1239	talk	It's got nothing to do with you, and I don't have to show you shit.	ไม่เกี่ยวอะไรกับมึงเลย แล้วกูก็ไม่ต้องโชว์อะไรให้มึง ดูทั้งนั้น
+05-1240	talk	Is that because you'd look guilty if you did?	หรือเพราะถ้าโชว์แล้วมันจะดูผิดชัดๆ กันแน่?
+05-1241	talk	Shut up! I'm leaving!	หุบปาก! กูจะไปแล้ว!
+05-1242	talk	I'm afraid not.	เกรงว่าจะไม่ได้นะ
+05-1243	talk	Move, or I'll make you move!	หลบไป ไม่งั้นกูจะทำให้มึงหลบเอง!
+05-1244	talk	If you want me to move so bad, show me what's in the bag.	ถ้าอยากให้ฉันหลบขนาดนั้น ก็โชว์ให้ดูสิว่าในกระเป๋ามีอะไร
+05-1245	talk	H-Hey, why don't we all just calm down?	เ-เฮ้ย ทุกคนใจเย็นๆ กันหน่อยไม่ได้เหรอ?
+05-1246	talk	Can't we talk this out?	คุยกันดีๆ ไม่ได้เหรอไง?
+05-1247	talk	Y-Yes, someone's gonna get hurt if we're not careful...	ใ-ใช่ เดี๋ยวจะมีคนเจ็บถ้าเราไม่ระวังกัน...
+05-1248	talk	If only a great detective would burst onto the scene like in those crime dramas on TV...	ถ้ามีนักสืบเก่งๆ บุกเข้ามาแบบในละครสืบสวนทาง ทีวีตอนนี้ก็คงดี...
+05-1249	talk	(Well, I'm a detective, but busting onto the scene isn't exactly my style. What should I do?)	(ก็ผมเป็นนักสืบนะ แต่การบุกเข้าฉากแบบนั้นไม่ใช่ สไตล์ผมเลย จะทำยังไงดี?)
+05-1250	talk	(I can already tell this case is going to be a cluster...)	(รู้สึกได้เลยว่าคดีนี้จะยุ่งเหยิงแน่ๆ...)
+05-1251	talk	(But I can't just look the other way, either...)	(แต่ผมก็ทำเป็นมองไม่เห็นไปเฉยๆ ไม่ได้เหมือนกัน...)
+05-1252	talk	(Should I introduce myself?)	(ควรแนะนำตัวเองดีไหมนะ?)
+05-1253	talk	Uh, hey, guys... I'm actually a detective.	เอ่อ นี่ทุกคน... จริงๆ แล้วผมเป็นนักสืบนะ
+05-1254	talk	You are!?	จริงเหรอ!?
+05-1255	talk	Yeah, my name's Yagami. I run a detective agency in Kamurocho.	ใช่ ผมชื่อยากามิ เปิดสำนักงานนักสืบอยู่ในคามุโรโจ
+05-1256	talk	How convenient! Then do something about this, would you?	สะดวกซะจริง! งั้นช่วยจัดการเรื่องนี้หน่อยได้ไหม?
+05-1257	talk	Please, Yagami-san. Ono Michio's honor is at stake here.	ได้โปรดเถอะ ยากามิซัง เกียรติของโอโนะ มิชิโอะกำลังตกอยู่ในความเสี่ยง
+05-1258	talk	And I honestly don't think Nishimura-kun is capable of robbery.	แล้วฉันก็ไม่คิดจริงๆ ว่านิชิมุระคุงจะทำเรื่องปล้น แบบนี้ได้
+05-1259	talk	Huh? You believe me?	หา? เชื่อผมเหรอ?
+05-1260	talk	I don't want to believe I could hire a robber. It would bring down the whole city's reputation if I did that.	ฉันไม่อยากเชื่อเลยว่าตัวเอง จ้างโจรเข้ามาทำงาน ถ้าเป็นแบบนั้นจริง ชื่อเสียงของทั้งเมืองคงพังไปด้วย
+05-1261	talk	You may not be the hardest working kid... But I don't think you're a robber.	เธออาจจะไม่ใช่เด็กที่ขยันที่สุด... แต่ฉันไม่คิดว่าเธอเป็นโจรหรอกนะ
+05-1262	talk	H-Hironaka-san...	ฮ-ฮิโรนากะซัง...
+05-1263	talk	There's a lot at stake, huh? I'll see what I can do.	มีอะไรเดิมพันเยอะเลยสินะ เดี๋ยวผมจะดูว่าช่วยอะไรได้บ้าง
+05-1264	talk	Let's get one thing straight, though! I don't care if you're a detective, you can't see my stuff!	แต่บอกไว้ก่อนเลยนะ! ต่อให้มึงเป็นนักสืบ กูก็ไม่ให้แตะของกูเด็ดขาด!
+05-1265	talk	(That just means I'm going to have to resort to logical deductions, I guess.)	(งั้นก็คงต้องใช้การอนุมานเชิง ตรรกะแทนแล้วล่ะ)
+05-1266	talk	So they threw the costume away here.	งั้นเขาก็ทิ้งชุดไว้ตรงนี้เอง
+05-1267	talk	The costume and even the robber's belongings are strewn about... Let me get a closer look.	ทั้งชุดและข้าวของของโจร กระจัดกระจายอยู่เต็มไปหมด... ขอดูใกล้ๆ หน่อย
+05-1268	talk	You're right. I don't see them anywhere.	จริงด้วย ฉันไม่เห็นมันเลยสักที่
+05-1269	talk	Huh? That's odd... Something's missing.	เอ๊ะ? แปลกจัง... มีอะไรหายไป
+05-1270	talk	(What's missing that a robber dressed as Ono Michio would have in his possession?) 	(อะไรที่หายไป ทั้งที่โจรที่แต่งตัวเป็นโอโนะ มิชิโอะควรจะมีติดตัว?)
+05-1271	talk	Ono Michio should have been wearing white gloves...	โอโนะ มิชิโอะควรจะสวมถุงมือสีขาว...
+05-1272	talk	I'd guess they got rid of them out of fear that they could trace his fingerprints from them.	เดาว่าเขาคงกำจัดมันทิ้ง เพราะกลัวจะโดนตรวจเจอลายนิ้วมือ
+05-1273	talk	Any careful thief wouldn't leave such incriminating evidence lying around.	โจรที่รอบคอบคงไม่ทิ้งหลักฐาน มัดตัวแบบนี้ไว้ให้เกะกะแน่
+05-1274	talk	And there's something else missing, too.	แล้วก็ยังมีอีกอย่างที่หายไปด้วย
+05-1275	talk	Ono Michio should be wearing white pants, but they're not here either.	โอโนะ มิชิโอะควรจะสวมกางเกงสีขาว แต่ก็ไม่มีอยู่ตรงนี้เหมือนกัน
+05-1276	talk	Ah, I get it.	อ้อ เข้าใจแล้ว
+05-1277	talk	Y-Yeah, you figured it out...	ใ-ใช่ครับ คุณคิดออกแล้วสินะ...
+05-1278	talk	That means the culprit is most likely still dressed in white pants.	นั่นแปลว่าคนร้ายน่าจะยังใส่ กางเกงสีขาวอยู่
+05-1279	talk	But there's something else missing too.	แต่ก็ยังมีอีกอย่างที่หายไปเหมือนกัน
+05-1280	talk	Well, I changed into these when I went to the bathroom, but I forgot to switch back... Um, does that mean I'm a suspect?	ก็... ผมเปลี่ยนมาใส่ตัวนี้ตอนเข้าห้องน้ำ แต่ลืมเปลี่ยนกลับ... เอ่อ นั่นแปลว่าผมเป็นผู้ต้องสงสัยเหรอครับ?
+05-1281	talk	Ono Michio should be wearing a sash, right?	โอโนะ มิชิโอะต้องคาดผ้าคาดเอวด้วยใช่ไหม?
+05-1282	talk	O-Oh, is that right?	อ๋-อ๋อ อย่างนั้นเหรอ?
+05-1283	talk	...Uh, sorry.	...เอ่อ ขอโทษที
+05-1284	talk	I guess you could always burn the gloves pretty easily, too...	เอาจริงๆ จะเผาถุงมือทิ้งง่ายๆ ก็ได้เหมือนกันนะ...
+05-1285	talk	Now that you mention it, you're right. The robber was wearing white pants too.	พอพูดแบบนั้นก็จริงนะ โจรใส่กางเกงสีขาวด้วย
+05-1286	talk	That means he's probably missing something else...	นั่นแปลว่าเขาน่าจะขาดอะไรไปอีก อย่างนึง...
+05-1287	talk	Ono Michio should have been wearing jeans.	โอโนะ มิชิโอะควรจะใส่กางเกงยีนส์
+05-1288	talk	Hey, what are you staring at?	เฮ้ย มึงจ้องอะไรอยู่วะ?
+05-1289	talk	Really? I could've sworn...	จริงเหรอ? นึกว่าจะ...
+05-1290	talk	Heh, you really wanna see it? Fine.	ฮึ อยากดูจริงๆ เหรอ? ก็ได้วะ
+05-1291	talk	I don't see his boots.	ไม่เห็นรองเท้าบูทของเขาเลย
+05-1292	talk	When a robber gets caught in the act, an employee can throw a paint ball at him to stain his shoes...	เวลาจับโจรได้คาหนังคาเขา พนักงานจะปาลูกบอลสีใส่เพื่อ ทำให้รองเท้าเปื้อนสี...
+05-1293	talk	Which means we should get a good look at each suspect's shoes.	นั่นแปลว่าเราควรตรวจดูรองเท้า ของผู้ต้องสงสัยแต่ละคนให้ดี
+05-1294	talk	Yeah, I've got pockets for that.	อือ มีกระเป๋าไว้ใส่พอดี
+05-1295	talk	The bag in the hallway? What do you mean?	กระเป๋าในทางเดินเหรอ? หมายความว่าไง?
+05-1296	talk	This Ono Michio doesn't have that "refined, mature look."	โอโนะ มิชิโอะคนนี้ไม่มีลุค "หรูหราสมวัยผู้ใหญ่" อย่างที่ว่าเลยนี่นา
+05-1297	talk	Huh? W-Well, yeah. I have to wear them to play Ono Michio.	เอ๊ะ? ก-ก็ใช่ครับ ผมต้องใส่มันตอนสวมบทโอโนะ มิชิโอะ
+05-1298	talk	So you texted your boss that you quit, and then threw away the costume?	งั้นนายก็ส่งข้อความบอกเจ้านาย ว่าลาออก แล้วก็ทิ้งชุดนั้นไปเลยสิ?
+05-1299	talk	Likely story. You probably kept the costume so you could rob me.	เรื่องน่าฟังนะ นายคงเก็บชุดนั้นไว้เพื่อจะปล้น ร้านฉันต่างหาก
+05-1300	talk	Th-that's not true!	ม-ไม่จริงครับ!
+05-1301	talk	Nah, not really. Just thought I'd point that out.	เปล่าหรอก แค่คิดว่าน่าจะพูดถึงไว้เฉยๆ
+05-1302	talk	He must be a pretty tough act to follow, huh?	รุ่นก่อนหน้าคงเป็นไม้ตายยาก ที่จะตามให้ทันสินะ
+05-1303	talk	Uh, sure... But there's no money in there.	เอ่อ ได้ครับ... แต่ในนั้นไม่มีเงินหรอกนะครับ
+05-1304	talk	Where'd you hide my money, punk!?	ไอ้เด็กนี่ เอาเงินฉันไปซ่อนไว้ที่ไหน!?
+05-1305	talk	Everything that's missing are the white gloves, white pants, and... cool boots.	ของที่หายไปทั้งหมดคือถุงมือสีขาว กางเกงสีขาว แล้วก็... รองเท้าบูทสุดเท่
+05-1306	talk	Yagami-san! Don't keep us waiting!	ยากามิซัง! อย่าทำให้พวกเรารอสิครับ!
+05-1307	talk	Yes. I got what I needed.	ครับ ผมได้สิ่งที่ต้องการแล้ว
+05-1308	talk	There's enough evidence and deductions that can make a pretty compelling case here.	มีทั้งหลักฐานและการอนุมานมาก พอที่จะสร้างสำนวนคดีที่ น่าเชื่อถือได้แล้วล่ะ
+05-1309	talk	The body tells us more about a person than you might think.	ร่างกายบอกอะไรเกี่ยวกับคนคนนึง ได้มากกว่าที่คิดนะ
+05-1310	talk	(...Oh great, I'm starting to sound like a TV detective.)	(...เยี่ยมเลย ผมเริ่มพูดเหมือนนักสืบในทีวีแล้ว)
+05-1311	talk	Wow! I feel like I heard a detective on TV say that!	ว้าว! รู้สึกเหมือนเคยได้ยินนักสืบใน ทีวีพูดแบบนี้เลย!
+05-1312	talk	So, you gonna tell us!? Who's the robber, and where's my money!?	แล้วไง จะบอกพวกเราหรือเปล่า!? ใครคือโจร แล้วเงินฉันอยู่ไหน!?
+05-1313	talk	(Okay. I'll accuse the person by talking to them.)	(เอาล่ะ ผมจะกล่าวหาคนนั้นด้วยการคุยกับเขาเลย)
+05-1314	talk	Huh? You're saying you suspect me?	เอ๊ะ? หมายความว่าคุณสงสัยผมเหรอครับ?
+05-1315	talk	(Is this the guy who did it?)	(คนนี้คือคนที่ก่อเหตุหรือเปล่านะ?)
+05-1316	talk	(No, I'm not sure about it. Let me give it a little more thought.)	(ไม่สิ ผมยังไม่แน่ใจ ขอคิดดูอีกนิดก่อน)
+05-1317	talk	Nah, just wanted to scare you.	เปล่าหรอก แค่อยากขู่เล่นๆ
+05-1318	talk	Yes. You're the Ono Michio Bandit!	ใช่แล้ว คุณคือโจรโอโนะ มิชิโอะ!
+05-1319	talk	Me!? Where's your proof!?	ผมเหรอ!? หลักฐานอยู่ไหนล่ะครับ!?
+05-1320	talk	You left some evidence at the scene that clearly points to your efforts to cover it up.	คุณทิ้งหลักฐานไว้ในที่เกิดเหตุ ซึ่งชี้ชัดว่าพยายามปกปิดร่องรอย
+05-1321	talk	These sneakers were thrown away in the trash can.	รองเท้าผ้าใบคู่นี้ถูกทิ้งไว้ในถังขยะ
+05-1322	talk	They're stained with the anti-theft paint ball, too.	แถมยังเปื้อนสีจากลูกบอลกันขโมยด้วย
+05-1323	talk	Yeah, I'm glad I thought to throw it at the thief.	ใช่ ดีใจจริงๆ ที่คิดจะปาใส่โจรตอนนั้น
+05-1324	talk	Anyone would know you'd committed a crime with this amount of paint on your shoes.	ใครเห็นรองเท้าเปื้อนสีขนาดนี้ ก็รู้ว่าคุณก่อเหตุแน่ๆ
+05-1325	talk	So of course you had to ditch them.	เพราะงั้นคุณเลยต้องทิ้งมันไปน่ะสิ
+05-1326	talk	H-Hold on a second! What proof do you have that I'm the one who threw them away!?	เ-เดี๋ยวก่อนสิครับ! คุณมีหลักฐานอะไรว่าผมเป็นคนทิ้งมัน!?
+05-1327	talk	Stop playing dumb. There's proof on you right now.	อย่าแกล้งโง่ไปหน่อยเลย หลักฐานอยู่ที่ตัวคุณตอนนี้แหละ
+05-1328	talk	There is?	มีด้วยเหรอ?
+05-1329	talk	That's right. You're wearing undeniable evidence.	ใช่แล้ว คุณกำลังสวมหลักฐานที่ปฏิเสธ ไม่ได้อยู่
+05-1330	talk	I-I told you, I went to the bathroom, and...	ผ-ผมบอกแล้วไงครับว่าผมไปเข้าห้องน้ำ แล้วก็...
+05-1331	talk	That excuse isn't going to fly.	ข้ออ้างแบบนั้นใช้ไม่ได้หรอก
+05-1332	talk	You borrowed the Charles sandals because you threw away your stained sneakers, right?	คุณยืมรองเท้าแตะของชาร์ลส์มาใส่ เพราะทิ้งรองเท้าผ้าใบที่เปื้อน สีไปแล้วใช่ไหม?
+05-1333	talk	After all, the stain proves who the robber is.	ยังไงซะ รอยเปื้อนก็พิสูจน์ได้ว่าใครคือโจร
+05-1334	talk	Admit it already. You're the robber.	ยอมรับซะเถอะ คุณคือโจรตัวจริง
+05-1335	talk	I don't know what you're talking about!	ผมไม่รู้ว่าคุณพูดเรื่องอะไรครับ!
+05-1336	talk	Well, if you want to prove you're innocent...	เอาล่ะ ถ้าอยากพิสูจน์ว่าตัวเองบริสุทธิ์...
+05-1337	talk	Why don't you lower the pant leg you rolled up?	ลองปล่อยขากางเกงที่พับขึ้นอยู่ ลงมาดูสิ?
+05-1338	talk	Ah! Ahhh! B-But that's...!	อ๊ะ! อ๊าาา! แ-แต่นั่นมัน...!
+05-1339	talk	I'm going to assume the hem of your pants has paint on it. If they don't, you can prove it right now.	ผมขอสันนิษฐานว่าชายกางเกงของ คุณเปื้อนสีอยู่ ถ้าไม่เปื้อน คุณก็พิสูจน์ได้เลยตอนนี้
+05-1340	talk	Gah... Grrr...	อั้ก... กรื้อ...
+05-1341	talk	Shiiiiiiiiiiiiiiiiiiiiiiiiiiiiit!	แย่ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยแล้ว!
+05-1342	talk	Huh? You're suspecting me?	หา? สงสัยอยู่งั้นเหรอเนี่ย?
+05-1343	talk	Wh-What!? Do you have any proof!?	อ-อะไรนะ!? มีหลักฐานหรือเปล่า!?
+05-1344	talk	Of course. Why don't you take a look at this?	มีสิ ลองดูอันนี้สิ
+05-1345	talk	And how exactly is that proof?	แล้วมันเป็นหลักฐานได้ยังไงกัน?
+05-1346	talk	Who knows? I just figured if you were the suspect, you'd say something stupid to give yourself away.	ใครจะรู้ล่ะ แค่คิดว่าถ้าเป็นผู้ต้องสงสัยจริง ก็คงพูดอะไรโง่ๆ จนหลุดออกมาเอง
+05-1347	talk	What a dick! You can't just accuse me of something like that without putting any thought into it!	นิสัยแย่ชะมัด! จะมากล่าวหาแบบไม่ คิดหน้าคิดหลังแบบนี้ไม่ได้นะ!

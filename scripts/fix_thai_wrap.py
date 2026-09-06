@@ -81,14 +81,67 @@ def split_run(run, max_run):
     return " ".join(out)
 
 
+# รอบ 21 (6 ก.ย. 2026): tag อย่าง <color=…>/<font_kind=…> ที่คั่นกลางช่วงไทย **ไม่ใช่จุดตัดบรรทัด**
+# ของเอนจิ้น (หลักฐาน: ป้าย "รับงานจากสำนักงาน…" ใน talk_system_msg ล้นกรอบทั้งที่มี <color> คั่น)
+# → ต้องวัดความยาวช่วงโดย "มองข้าม tag" แล้วแทรกช่องว่างให้ โดยคง tag ไว้ตำแหน่งเดิม
+TAG_RE = re.compile(r"<[^<>]*>")
+SPAN_RE = re.compile(r"(?:[฀-๿]+|<[^<>]*>)+")
+PIECE_RE = re.compile(r"<[^<>]*>|[฀-๿]+")
+
+
+def split_span(span, max_run):
+    """span = ช่วงไทย+tag ติดกัน → คืน span ที่แทรกช่องว่างที่ขอบคำ (นับความยาวเฉพาะตัวไทย)
+    tag ปิดจะเกาะคำข้างหน้า tag เปิดจะเกาะคำข้างหลัง เพื่อไม่ให้ช่องว่างไปอยู่ในกรอบ tag"""
+    tags, plain = [], ""
+    for m in PIECE_RE.finditer(span):
+        if m.group(0).startswith("<"):
+            tags.append((len(plain), m.group(0)))
+        else:
+            plain += m.group(0)
+    if not tags:
+        return split_run(plain, max_run)
+    if len(plain) <= max_run:
+        return span
+    # ตัดที่ขอบ tag ก่อน (ขอบวลีธรรมชาติ เช่น ก่อน/หลังคำเน้น) — ถ้าทุกชิ้นสั้นพอก็ไม่ต้องผ่าคำในกรอบ tag
+    cuts = sorted({o for o, _ in tags if 0 < o < len(plain)})
+    pieces, prev = [], 0
+    for c in cuts:
+        pieces.append(plain[prev:c]); prev = c
+    pieces.append(plain[prev:])
+    chunks, cur = [], ""
+    for pc in pieces:
+        if cur and len(cur) + len(pc) > max_run:
+            chunks.append(cur); cur = pc
+        else:
+            cur += pc
+    if cur:
+        chunks.append(cur)
+    spaced = " ".join(split_run(c, max_run) for c in chunks)
+    out, pi, ti = [], 0, 0
+    for ch in spaced:
+        # tag ปิดที่ค้างอยู่ ณ ตำแหน่งนี้ → ปล่อยก่อนช่องว่าง/ตัวถัดไป
+        while ti < len(tags) and tags[ti][0] == pi and tags[ti][1].startswith("</"):
+            out.append(tags[ti][1]); ti += 1
+        if ch == " ":
+            out.append(ch)
+            continue
+        while ti < len(tags) and tags[ti][0] == pi:
+            out.append(tags[ti][1]); ti += 1
+        out.append(ch)
+        pi += 1
+    out.extend(t for _, t in tags[ti:])
+    return "".join(out)
+
+
 def fix(th, max_run):
     if not th or not THAI_RUN.search(th):
         return th
-    return THAI_RUN.sub(lambda m: split_run(m.group(0), max_run), th)
+    return SPAN_RE.sub(lambda m: split_span(m.group(0), max_run), th)
 
 
 def worst(th):
-    return max((len(x) for x in THAI_RUN.findall(th)), default=0)
+    """ช่วงไทยยาวสุด **หลังตัด tag ทิ้ง** (tag ไม่ใช่จุดตัดบรรทัด)"""
+    return max((len(x) for x in THAI_RUN.findall(TAG_RE.sub("", th))), default=0)
 
 
 # ---- ประมาณความกว้างกล่องต่อบิน (เพื่อไม่แทรกช่องว่างเกินจำเป็น) ----
