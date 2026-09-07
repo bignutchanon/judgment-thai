@@ -1,6 +1,7 @@
 # HANDOFF — Judgment ม็อดแปลไทย (JETH)
 
-> **รอบ 22 ปิด (7 ก.ย. 2026 11:06) — apply ผล register + blind แล้ว · บิลด์+deploy แล้ว · commit แล้ว · ยังไม่แพ็ก release (รอเจ้าของทดสอบ)**
+> **รอบ 22 ปิด (7 ก.ย. 2026) — apply ผล register + blind แล้ว · บิลด์+deploy 11:06 · commit `36f9e65` · release v1.1.3 แล้ว 11:10** (เจ้าของสั่ง "blind test ผ่านแล้ว release เลย ที่เหลือให้ user แจ้งมาเอง")
+> · `release/JudgmentThai-th-v1.1.3.zip` (8.3 MB · md5 `fed8bbb838748fe0787303216d63e221` · 159 bin + ui 4) · notes `release/notes-v1.1.3.md` · GitHub release v1.1.3 asset ขึ้นแล้ว (ยืนยันด้วย `gh release view`) · `patch.md` อัปเป็น v1.1.3 พร้อมข่าวสำหรับ yakuza-wiki
 > · register ชิ้น 01 ยิงใหม่ (sonnet ~300k token) = 11 finding (L 9 · V 2) → รวม 6 ชิ้น 81 finding (high 69) · ผู้พูด ? ระบุได้ high 1,705 · med 1,482 · low 389 · เหลือไม่รู้ 78
 > · `register_report.py --write` → `translations/speech_speakers/*.json` (พากย์ 3 ตาราง) + `build/gender/cinema_low_R.json` → `merge_cinema_low.py --write` (ตัดสินแล้ว 283 · ข้าม low 24)
 > · **คำตัดสิน lead register**: `apply_sweep_findings.py --dir register --mid --reject-ids R02-0171,R02-0172,R04-0946-0949,R04-0378 --write` → **รับ 45** (L 39 · V 3 · G 1 · H 1 · N 1) / 16 batch
@@ -14,7 +15,7 @@
 > · ตาราง "ขัดกัน" ที่เหลือหลังแก้ = ผลลวง: "คาดคะเน" (มี คะ) + pause_message/talk `mixed` ที่ยากามิเป็นผู้พูดจริง (ผม ถูกแล้ว)
 > · QC: `remerge_stale` ค้าง 0 · `merge_qc` ผ่าน 50,315 ตก 0 · `fix_thai_wrap --check` 0 · `fix_dialogue_gender` 0 · `test_qc_tools` 14/14 · `test_slot_alloc` 12/12
 > · บิลด์ `--clean` 157 bin ล้มเหลว 0 · `gen_font_bin` 26,064 B · strip_ui (donor 3/36) · patch_drone · **deploy 11:06** (db 159 ไฟล์ · ui · MLO)
-> · **ถัดไป**: (1) เจ้าของทดสอบในเกม (จุดเช็ค: ชินทานิ "ต้องการอะไรหรือครับ?" บท 1 · ยากามิกับฮามุระ "นาย" ใน a02_020 · ฮัตโตริ a01_120 มึงทั้งฉาก · โคโรเนียง Dice & Cube) → ถ้าผ่านแพ็ก release v1.1.3
+> · **ถัดไป**: (1) รอรายงานผู้เล่นบน v1.1.3 (ชีต `bug_logs`) — จุดที่ควรถูกยืนยัน: ชินทานิ "ต้องการอะไรหรือครับ?" บท 1 · ยากามิกับฮามุระ "นาย" ใน a02_020 · ฮัตโตริ a01_120 มึงทั้งฉาก · โคโรเนียง Dice & Cube
 > (2) ค้างเดิม: (8) บท 2 ซับหาย "ยินดีที่รู้จักครับ" ไม่มีภาพ · run ไทยคั่นด้วย "..."/"!" ยังไม่วัดรวม (รอหลักฐานจอ)
 > (3) ถ้าทำ register/blind บท 4-13: ชิ้น ~600 บรรทัด · ไม่ให้ agent เขียน speakers ทุกบรรทัด · เพิ่ม "คะ กลางประโยค" ให้ `fix_dialogue_gender`
 
