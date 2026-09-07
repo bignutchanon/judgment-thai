@@ -1,0 +1,2231 @@
+{
+ "table": "speech_list_judge_main_c02",
+ "rows": {
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "8": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "9": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "11": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "12": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "13": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "14": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "17": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "18": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "20": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "21": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "22": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "23": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "24": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "25": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "26": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "27": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "28": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "29": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "30": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "31": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "32": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "33": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "34": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "35": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "36": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "37": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "38": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "39": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "40": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "41": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "42": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "43": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "44": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "45": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "46": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "47": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "48": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "49": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "52": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "53": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "54": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "56": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "57": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "58": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "59": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "60": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "61": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "62": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "63": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "64": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "65": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "66": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "67": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "68": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "69": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "70": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "73": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "74": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "77": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของเก็นดะ และ/หรือใช้คำเรียก \"ยากามิคุง\" ซึ่งเป็นคำเรียกเฉพาะของเก็นดะเท่านั้น",
+   "source": "register/speakers_04.part1.json"
+  },
+  "80": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากที่โฮชิโนะแนะนำตัวก่อนหน้า ใช้ \"ผม+ครับ\" และคำเรียก \"ยากามิซัง\" สอดคล้องทะเบียนที่ล็อกไว้",
+   "source": "register/speakers_04.part1.json"
+  },
+  "81": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากที่โฮชิโนะแนะนำตัวก่อนหน้า ใช้ \"ผม+ครับ\" และคำเรียก \"ยากามิซัง\" สอดคล้องทะเบียนที่ล็อกไว้",
+   "source": "register/speakers_04.part1.json"
+  },
+  "82": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากที่โฮชิโนะแนะนำตัวก่อนหน้า ใช้ \"ผม+ครับ\" และคำเรียก \"ยากามิซัง\" สอดคล้องทะเบียนที่ล็อกไว้",
+   "source": "register/speakers_04.part1.json"
+  },
+  "83": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากที่โฮชิโนะแนะนำตัวก่อนหน้า ใช้ \"ผม+ครับ\" และคำเรียก \"ยากามิซัง\" สอดคล้องทะเบียนที่ล็อกไว้",
+   "source": "register/speakers_04.part1.json"
+  },
+  "84": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากที่โฮชิโนะแนะนำตัวก่อนหน้า ใช้ \"ผม+ครับ\" และคำเรียก \"ยากามิซัง\" สอดคล้องทะเบียนที่ล็อกไว้",
+   "source": "register/speakers_04.part1.json"
+  },
+  "85": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากที่โฮชิโนะแนะนำตัวก่อนหน้า ใช้ \"ผม+ครับ\" และคำเรียก \"ยากามิซัง\" สอดคล้องทะเบียนที่ล็อกไว้",
+   "source": "register/speakers_04.part1.json"
+  },
+  "87": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "88": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของซาโอริ เป็นผู้หญิงคนเดียวที่ปรากฏในฉากนี้ และ/หรือใช้ \"ดิฉัน\" ยืนยันตัว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "90": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทของซาโอริ เป็นผู้หญิงคนเดียวที่ปรากฏในฉากนี้ และ/หรือใช้ \"ดิฉัน\" ยืนยันตัว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "91": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของซาโอริ เป็นผู้หญิงคนเดียวที่ปรากฏในฉากนี้ และ/หรือใช้ \"ดิฉัน\" ยืนยันตัว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "92": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "93": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของซาโอริ เป็นผู้หญิงคนเดียวที่ปรากฏในฉากนี้ และ/หรือใช้ \"ดิฉัน\" ยืนยันตัว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "94": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของซาโอริ เป็นผู้หญิงคนเดียวที่ปรากฏในฉากนี้ และ/หรือใช้ \"ดิฉัน\" ยืนยันตัว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "95": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "98": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "99": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของเก็นดะ และ/หรือใช้คำเรียก \"ยากามิคุง\" ซึ่งเป็นคำเรียกเฉพาะของเก็นดะเท่านั้น",
+   "source": "register/speakers_04.part1.json"
+  },
+  "100": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "101": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของเก็นดะ และ/หรือใช้คำเรียก \"ยากามิคุง\" ซึ่งเป็นคำเรียกเฉพาะของเก็นดะเท่านั้น",
+   "source": "register/speakers_04.part1.json"
+  },
+  "102": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของเก็นดะ และ/หรือใช้คำเรียก \"ยากามิคุง\" ซึ่งเป็นคำเรียกเฉพาะของเก็นดะเท่านั้น",
+   "source": "register/speakers_04.part1.json"
+  },
+  "103": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "104": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "105": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของเก็นดะ และ/หรือใช้คำเรียก \"ยากามิคุง\" ซึ่งเป็นคำเรียกเฉพาะของเก็นดะเท่านั้น",
+   "source": "register/speakers_04.part1.json"
+  },
+  "106": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "109": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "ฮัตโตริ นักข่าวที่มาขอสัมภาษณ์/ถ่ายรูปชินทานิ เรียกชื่อ \"ยากามิซัง\"/\"ชินทานิเซนเซ\" ตรงบทบาทนักข่าว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "112": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชินทานิ (ยังไม่เสียชีวิตในฉากย้อนอดีตนี้) พูดถึงยากามิในบุคคลที่สาม ปกป้องเครดิตจากฮัตโตริ",
+   "source": "register/speakers_04.part1.json"
+  },
+  "113": {
+   "speaker": "Shintani",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชินทานิ (ยังไม่เสียชีวิตในฉากย้อนอดีตนี้) พูดถึงยากามิในบุคคลที่สาม ปกป้องเครดิตจากฮัตโตริ",
+   "source": "register/speakers_04.part1.json"
+  },
+  "114": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "high",
+   "why": "ฮัตโตริ นักข่าวที่มาขอสัมภาษณ์/ถ่ายรูปชินทานิ เรียกชื่อ \"ยากามิซัง\"/\"ชินทานิเซนเซ\" ตรงบทบาทนักข่าว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "115": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "116": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "high",
+   "why": "ฮัตโตริ นักข่าวที่มาขอสัมภาษณ์/ถ่ายรูปชินทานิ เรียกชื่อ \"ยากามิซัง\"/\"ชินทานิเซนเซ\" ตรงบทบาทนักข่าว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "117": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "high",
+   "why": "ฮัตโตริ นักข่าวที่มาขอสัมภาษณ์/ถ่ายรูปชินทานิ เรียกชื่อ \"ยากามิซัง\"/\"ชินทานิเซนเซ\" ตรงบทบาทนักข่าว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "119": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "ฮัตโตริ นักข่าวที่มาขอสัมภาษณ์/ถ่ายรูปชินทานิ เรียกชื่อ \"ยากามิซัง\"/\"ชินทานิเซนเซ\" ตรงบทบาทนักข่าว",
+   "source": "register/speakers_04.part1.json"
+  },
+  "121": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "124": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "125": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "126": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "129": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "130": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "131": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "132": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "133": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "134": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "139": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "141": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "143": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "145": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "146": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "147": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "148": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "149": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "150": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "154": {
+   "speaker": "unnamed Matsugane/Hamura henchman",
+   "gender": "male",
+   "conf": "low",
+   "why": "บทพูดของลูกน้อง/มือปืนไม่ระบุชื่อในฉากบุกจับ/ปะทะ — ทะเบียนตระกูลยืนยันว่ากลุ่มยากูซ่าข้างถนนเป็นชายทั้งหมด",
+   "source": "register/speakers_04.part1.json"
+  },
+  "155": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "156": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "157": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "158": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "159": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "160": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "161": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "162": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "163": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "164": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "165": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "166": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "167": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "168": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "169": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "170": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "171": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "176": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "177": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "178": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "179": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "180": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "181": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "182": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "183": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "184": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "185": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "186": {
+   "speaker": "Sakanazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซากานาซึกิ (ลูกน้องทดสอบของอายาเบะที่บ่อตกปลา) ต่อเนื่องจากบทที่ระบุชื่อไว้ ใช้ทะเบียน T3 กู/มึงข่มขู่",
+   "source": "register/speakers_04.part1.json"
+  },
+  "187": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "190": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "191": {
+   "speaker": "koinyoubou_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "เจ้าของ/พนักงานบ่อตกปลา Koi Bride (koinyoubou_master) ต่อเนื่องจากบทที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part1.json"
+  },
+  "192": {
+   "speaker": "koinyoubou_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "เจ้าของ/พนักงานบ่อตกปลา Koi Bride (koinyoubou_master) ต่อเนื่องจากบทที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part1.json"
+  },
+  "194": {
+   "speaker": "koinyoubou_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "เจ้าของ/พนักงานบ่อตกปลา Koi Bride (koinyoubou_master) ต่อเนื่องจากบทที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part1.json"
+  },
+  "195": {
+   "speaker": "koinyoubou_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "เจ้าของ/พนักงานบ่อตกปลา Koi Bride (koinyoubou_master) ต่อเนื่องจากบทที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part1.json"
+  },
+  "198": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part1.json"
+  },
+  "199": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "202": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "203": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "205": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "206": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "207": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "208": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "210": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "211": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "212": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "213": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "214": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "215": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "216": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "217": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "218": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "219": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "220": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "221": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "222": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "223": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "224": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "225": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "226": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "227": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "228": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "229": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "230": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "231": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "232": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "233": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "234": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "235": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "236": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "237": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "238": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "239": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "240": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "241": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "242": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "243": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "244": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "245": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "246": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "247": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "248": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "249": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "250": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "251": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "252": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "253": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทแนะนำตัวของอายาเบะที่ Koi Bride/L'Amant ใช้ \"ผม\" สม่ำเสมอตลอดฉาก",
+   "source": "register/speakers_04.part2.json"
+  },
+  "255": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "258": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "259": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "260": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "261": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "262": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "264": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "265": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "266": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "267": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "268": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "269": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "270": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "271": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "272": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "273": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "274": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "275": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "276": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "277": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "278": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "279": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "280": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "281": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "282": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนากับยากามิในฉากเดียวกัน และ/หรือใช้ \"ฉัน\" ยืนยันตัว (ไคโตะ = T2 กับยากามิ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "283": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "285": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "288": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "289": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "290": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "291": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "292": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "293": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "294": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "295": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "296": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "297": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "298": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "299": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "300": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "301": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "302": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "303": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "304": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "306": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "307": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "308": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "309": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "310": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "311": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "312": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "313": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "314": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "315": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "316": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "317": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "318": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "319": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "321": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "322": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "323": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "324": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "325": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "326": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "327": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "328": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "329": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "330": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "331": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "332": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "333": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "334": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "335": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "336": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "337": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "338": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "339": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "341": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "342": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "343": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "344": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "345": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "347": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "348": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "349": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "350": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "351": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "352": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "353": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "355": {
+   "speaker": "wife_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทของ wife_boy (พนักงานต้อนรับร้าน Konban Wife) ที่ระบุชื่อไว้ก่อนบรรทัดนี้ อธิบายบริการ/ราคาต่อเนื่อง",
+   "source": "register/speakers_04.part2.json"
+  },
+  "356": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "360": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "361": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "362": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "363": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "364": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "365": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "366": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "367": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "368": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "369": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "370": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "med",
+   "why": "เค็นโกะมาส่งข้อความจากฮามุระถึงยากามิ ต่อเนื่องจากที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part2.json"
+  },
+  "371": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "372": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "373": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสารภาพของมัตสึกาเนะ ใช้ \"ผม\" ยืนยันตัว (โอยาบุนที่ยากามิ/ไคโตะนับถือ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "376": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "high",
+   "why": "เค็นโกะมาส่งข้อความจากฮามุระถึงยากามิ ต่อเนื่องจากที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part2.json"
+  },
+  "377": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "high",
+   "why": "เค็นโกะมาส่งข้อความจากฮามุระถึงยากามิ ต่อเนื่องจากที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part2.json"
+  },
+  "378": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "379": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "high",
+   "why": "เค็นโกะมาส่งข้อความจากฮามุระถึงยากามิ ต่อเนื่องจากที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part2.json"
+  },
+  "380": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "high",
+   "why": "เค็นโกะมาส่งข้อความจากฮามุระถึงยากามิ ต่อเนื่องจากที่ระบุชื่อไว้ก่อนหน้า",
+   "source": "register/speakers_04.part2.json"
+  },
+  "382": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจากบทสนทนาในฉากเดียวกัน และ/หรือใช้สรรพนาม \"ผม\" ยืนยันตัว (ยากามิ = T1 ผมเสมอ)",
+   "source": "register/speakers_04.part2.json"
+  },
+  "383": {
+   "speaker": "alpes_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตรงกับตัวอย่าง cat S ในบรีฟเป๊ะ: ป้าย alpes_boy (ญ) แต่ EN \"Welcome, sir.\" + ชื่อแท็กมีคำว่า \"boy\" + คำแปลที่มีอยู่แล้วใช้ \"ครับ\" (ชาย) ตลอดสองบรรทัด — เด็กเสิร์ฟชายที่คาเฟ่อัลป์ส ไม่ใช่หญิง",
+   "source": "register/speakers_04.part2.json"
+  }
+ }
+}

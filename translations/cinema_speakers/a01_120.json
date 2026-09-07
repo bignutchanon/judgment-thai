@@ -208,14 +208,16 @@
   "35": {
    "speaker": "Ko Hattori",
    "gender": "male",
-   "conf": "low",
-   "why": "Skeptical reply to Yagami's reassurance; hint conflict (mixed cue) likely generic short-phrase reuse"
+   "conf": "high",
+   "why": "ทะเบียนยืนยัน Ko Hattori=ชาย ต่อเนื่องบทสนทนากับยากามิทั้งฉาก",
+   "source": "cinema_low_C1.json"
   },
   "36": {
    "speaker": "Ko Hattori",
    "gender": "male",
-   "conf": "low",
-   "why": "Farewell line as he leaves, continuing row 35; talk=Young Barker hint looks like unrelated generic reuse"
+   "conf": "high",
+   "why": "เช่นเดียวกับ r35 ต่อเนื่องบทเดิม",
+   "source": "cinema_low_C1.json"
   }
  }
 }

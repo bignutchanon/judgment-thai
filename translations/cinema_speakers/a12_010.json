@@ -1,15 +1,75 @@
 {
  "scene": "a12_010",
  "rows": {
-  "1": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Uncredited recap voice-over about a funeral (Matsugane Family succession, Hamura, Genda-sensei, Kaito, Higashi described in third person) — no cue/talk hints exist for this scene at all. Attributed to Yagami as the game's usual recap narrator; not directly confirmed."},
-  "2": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of same uncredited narration as row 1"},
-  "3": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of same uncredited narration as row 1"},
-  "4": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of same uncredited narration as row 1"},
-  "5": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of same uncredited narration as row 1"},
-  "6": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of same uncredited narration as row 1"},
-  "7": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of same uncredited narration as row 1"},
-  "8": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of same uncredited narration as row 1"},
-  "9": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "First-person-plural 'All of us knew exactly who was responsible' implies the narrator is part of the group (Kaito/Higashi/Genda's circle) — consistent with Yagami, but not confirmed by any cue"},
-  "10": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of same uncredited narration as row 1"}
+  "1": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "เสียงบรรยาย/มุมมองยากามิต่อเนื่องทั้งฉาก (งานศพ Matsugane)",
+   "source": "cinema_low_C1.json"
+  },
+  "2": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "3": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "4": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "5": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "6": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "7": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "8": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "9": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "10": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  }
  }
 }

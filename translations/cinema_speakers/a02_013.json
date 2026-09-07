@@ -4,20 +4,23 @@
   "1": {
    "speaker": "Yosuke Saotome",
    "gender": "male",
-   "conf": "low",
-   "why": "The masked thief mocking Yagami; identity inferred from the same character's later appearance/explanation in a02_040 (talk=Yosuke there)"
+   "conf": "high",
+   "why": "monologue คุยโวของ Saotome ก่อน r4 (Saotome เดิม) พูดต่อเรื่องแผน — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "2": {
    "speaker": "Yosuke Saotome",
    "gender": "male",
-   "conf": "low",
-   "why": "Continues row 1, handing something back to Yagami"
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue เดียวกับ r1,3,5 — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "3": {
    "speaker": "Yosuke Saotome",
    "gender": "male",
-   "conf": "low",
-   "why": "Boastful claim of ownership, continuing rows 1-2"
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue เดียวกัน ('I own it!') — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "4": {
    "speaker": "Yosuke Saotome",
@@ -28,8 +31,9 @@
   "5": {
    "speaker": "Yosuke Saotome",
    "gender": "male",
-   "conf": "low",
-   "why": "Thanks Yagami, continuing row 4; talk=Ohata hint looks like unrelated generic reuse"
+   "conf": "high",
+   "why": "ปิดท้าย monologue 'So thanks!' ก่อน r6 Yagami ตอบโต้ — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "6": {
    "speaker": "Yagami",
@@ -46,8 +50,9 @@
   "8": {
    "speaker": "Yosuke Saotome",
    "gender": "male",
-   "conf": "low",
-   "why": "Casual farewell as he leaves; talk=Mari hint looks like unrelated generic reuse"
+   "conf": "high",
+   "why": "ตอบ Yagami ที่ r7 ('don't want your thanks') แล้วจากไป — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "9": {
    "speaker": "Yagami",

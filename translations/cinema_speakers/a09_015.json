@@ -1,29 +1,151 @@
 {
  "scene": "a09_015",
  "rows": {
-  "1": {"speaker": "Dopey Cop", "gender": "male", "conf": "high", "why": "talk=Dopey Cop hint; registered male in characters_gender.md"},
-  "2": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "recounts finding Waku's body in his truck, matches his own case backstory"},
-  "3": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues row 2's recollection"},
-  "4": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues, TH marked M"},
-  "5": {"speaker": "Okubo", "gender": "male", "conf": "med", "why": "reads as Okubo's own rhetorical self-answer continuing row 4, not an interruption"},
-  "6": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues own monologue about his criminal record, TH marked M"},
-  "7": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues self-deprecating monologue, TH marked M"},
-  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "sympathetic name-call reacting to Okubo's story"},
-  "9": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "reflective question confirming Okubo's innocence"},
-  "10": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "rhetorical answer confirming his innocence, TH marked M"},
-  "11": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "cue=male(yagami,kaito); conceding reply to Okubo's rhetorical question in row 9-10 thread"},
-  "12": {"speaker": "Okubo", "gender": "male", "conf": "low", "why": "generic 'Thank you'; cue/talk hints conflicting/noisy (Noriko Taguchi vs Yagami), reads as Okubo thanking Yagami for believing him"},
-  "13": {"speaker": "Homeless Hamanaka", "gender": "male", "conf": "high", "why": "talk=Homeless Hamanaka hint (appears twice), cue pool all-male"},
-  "14": {"speaker": "Okubo", "gender": "male", "conf": "low", "why": "uses 'Yagami-sensei' address pattern established for Okubo in a09_010, but could also be Hamanaka continuing; no direct hint"},
-  "15": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "asks about Emi, TH marked M, matches Okubo's ongoing case discussion"},
-  "16": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues denying killing Emi, TH marked M"},
-  "17": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "'I want to believe you' fits Yagami as the skeptic being convinced, TH marked M"},
-  "18": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues, describing his own investigative effort, TH marked M"},
-  "19": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "EN-B describes his own review of evidence, continues row 18"},
-  "20": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues expressing his own doubt after three years, TH marked M"},
-  "21": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami hint confirms"},
-  "22": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "EN-B 'waiting for me to die' -- Okubo speaking of his own impending execution, TH marked M"},
-  "23": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "continues, facing execution alongside Yagami over Emi's death, TH marked M"},
-  "24": {"speaker": "Okubo", "gender": "male", "conf": "high", "why": "desperate plea continues from row 23, TH marked M"}
+  "1": {
+   "speaker": "Dopey Cop",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Dopey Cop hint; registered male in characters_gender.md"
+  },
+  "2": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "recounts finding Waku's body in his truck, matches his own case backstory"
+  },
+  "3": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues row 2's recollection"
+  },
+  "4": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, TH marked M"
+  },
+  "5": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads as Okubo's own rhetorical self-answer continuing row 4, not an interruption"
+  },
+  "6": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues own monologue about his criminal record, TH marked M"
+  },
+  "7": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues self-deprecating monologue, TH marked M"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "sympathetic name-call reacting to Okubo's story"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reflective question confirming Okubo's innocence"
+  },
+  "10": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "rhetorical answer confirming his innocence, TH marked M"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue=male(yagami,kaito); conceding reply to Okubo's rhetorical question in row 9-10 thread"
+  },
+  "12": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ทะเบียนยืนยัน Shinpei Okubo=ชาย",
+   "source": "cinema_low_C1.json"
+  },
+  "13": {
+   "speaker": "Homeless Hamanaka",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Homeless Hamanaka hint (appears twice), cue pool all-male"
+  },
+  "14": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r12",
+   "source": "cinema_low_C1.json"
+  },
+  "15": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks about Emi, TH marked M, matches Okubo's ongoing case discussion"
+  },
+  "16": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues denying killing Emi, TH marked M"
+  },
+  "17": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "'I want to believe you' fits Yagami as the skeptic being convinced, TH marked M"
+  },
+  "18": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, describing his own investigative effort, TH marked M"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "EN-B describes his own review of evidence, continues row 18"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues expressing his own doubt after three years, TH marked M"
+  },
+  "21": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint confirms"
+  },
+  "22": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "EN-B 'waiting for me to die' -- Okubo speaking of his own impending execution, TH marked M"
+  },
+  "23": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, facing execution alongside Yagami over Emi's death, TH marked M"
+  },
+  "24": {
+   "speaker": "Okubo",
+   "gender": "male",
+   "conf": "high",
+   "why": "desperate plea continues from row 23, TH marked M"
+  }
  }
 }

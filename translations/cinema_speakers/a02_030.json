@@ -100,20 +100,23 @@
   "17": {
    "speaker": "Ozaki",
    "gender": "male",
-   "conf": "low",
-   "why": "Threatens Yagami about his 'last sight' (eye-gouging), following Hamura's order to Ozaki in row 16"
+   "conf": "high",
+   "why": "ทะเบียนยืนยัน ozaki=ชาย ต่อเนื่องบทข่มขู่ก่อนหน้า",
+   "source": "cinema_low_C1.json"
   },
   "18": {
    "speaker": "Unidentified captive",
    "gender": "female",
-   "conf": "low",
-   "why": "cue=female(mafuyu,emi) on this struggle line; unclear who this is, possibly a generic reused struggle bark in this otherwise all-male confrontation"
+   "conf": "med",
+   "why": "ตัวประกันที่ Ozaki ขู่ควักตา คงป้าย female เดิม ไม่มีหลักฐานขัดแย้ง",
+   "source": "cinema_low_C1.json"
   },
   "19": {
    "speaker": "Ozaki",
    "gender": "male",
-   "conf": "low",
-   "why": "'Just kidding', continuing the taunt from row 17"
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r17",
+   "source": "cinema_low_C1.json"
   },
   "20": {
    "speaker": "Yosuke Saotome",
@@ -124,20 +127,23 @@
   "21": {
    "speaker": "Kyohei Hamura",
    "gender": "male",
-   "conf": "low",
-   "why": "Defiant response to the interruption"
+   "conf": "high",
+   "why": "ทะเบียนยืนยัน Kyohei Hamura=ชาย ต่อเนื่องบทข่มขู่ Yosuke",
+   "source": "cinema_low_C1.json"
   },
   "22": {
    "speaker": "Kyohei Hamura",
    "gender": "male",
-   "conf": "low",
-   "why": "Orders the kill, continuing row 21"
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r21",
+   "source": "cinema_low_C1.json"
   },
   "23": {
    "speaker": "Matsugane thug",
    "gender": "male",
-   "conf": "low",
-   "why": "Comic-relief complaint about turn order during the ensuing fight"
+   "conf": "high",
+   "why": "ลูกน้องตระกูลมัตสึกาเนะ แท็กนักเลงทั้งหมดในเกมเป็นชาย",
+   "source": "cinema_low_C1.json"
   },
   "24": {
    "speaker": "Yagami",
@@ -148,8 +154,9 @@
   "25": {
    "speaker": "Matsugane thug",
    "gender": "male",
-   "conf": "low",
-   "why": "Continues the comic-relief argument from row 23"
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r23",
+   "source": "cinema_low_C1.json"
   }
  }
 }

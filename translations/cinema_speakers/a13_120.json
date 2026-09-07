@@ -1,30 +1,159 @@
 {
  "scene": "a13_120",
  "rows": {
-  "1": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "reacts to the massacre scene in casual tone typical of Kaito; no direct cue"},
-  "2": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "continues casual deduction about Kuroiwa begun in row 1"},
-  "3": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "analytical response to row 2, fits detective role"},
-  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues same thought, demanding to know where Kuroiwa fled"},
-  "5": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) talk=Yagami on both EN-A and EN-B"},
-  "6": {"speaker": "Police officer", "gender": "unknown", "conf": "low", "why": "generic officer blocking the scene, no pronoun/cue evidence for this specific NPC (game has both male and female generic police tags)"},
-  "7": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "placating tone toward the officer fits Kaito's role diffusing tension"},
-  "8": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "direct demand for information, detective role"},
-  "9": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "supplies the deduction that Kuroiwa is headed to the ADDC, paired with Yagami's question in row 8"},
-  "10": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "cue talk=Yagami appears on one form of this reaction line"},
-  "11": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the deduction chain with Kaito about Shono being the target"},
-  "12": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "part of the same reasoning chain as rows 11/13/14; exact speaker between Yagami/Kaito uncertain but both are male"},
-  "13": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "same reasoning chain; exact speaker uncertain but both candidates (Yagami/Kaito) are male"},
-  "14": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "same reasoning chain; exact speaker uncertain but both candidates are male"},
-  "15": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "casual 'Heh... not bad' phrasing matches Kaito's speech pattern"},
-  "16": {"speaker": "Mafuyu", "gender": "female", "conf": "med", "why": "cue=female(mafuyu) on the EN-A form; Mafuyu is confirmed present since she is addressed by name in row 21"},
-  "17": {"speaker": "Mafuyu", "gender": "female", "conf": "med", "why": "continues the objection ('No.') begun in row 16, arguing the case will go cold"},
-  "18": {"speaker": "Mafuyu", "gender": "female", "conf": "med", "why": "continues same argument about clearing Okubo's name"},
-  "19": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "cue talk=Yagami on the reaction line"},
-  "20": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "decisive call to move, matches his leader role in the group"},
-  "21": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "addresses Mafuyu by name directly, asking her to send officers"},
-  "22": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues the same instruction to Mafuyu about protecting Shono"},
-  "23": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "casual complaint fits Kaito's speech pattern"},
-  "24": {"speaker": "Mafuyu", "gender": "female", "conf": "med", "why": "responds to Yagami's request, issuing a follow-up order about Kuroiwa to her officers"},
-  "25": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "closing remark; exact speaker between Yagami/Kaito uncertain but both are male"}
+  "1": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacts to the massacre scene in casual tone typical of Kaito; no direct cue"
+  },
+  "2": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues casual deduction about Kuroiwa begun in row 1"
+  },
+  "3": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "analytical response to row 2, fits detective role"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues same thought, demanding to know where Kuroiwa fled"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami) talk=Yagami on both EN-A and EN-B"
+  },
+  "6": {
+   "speaker": "Police officer",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "generic officer blocking the scene, no pronoun/cue evidence for this specific NPC (game has both male and female generic police tags)"
+  },
+  "7": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "placating tone toward the officer fits Kaito's role diffusing tension"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "direct demand for information, detective role"
+  },
+  "9": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "supplies the deduction that Kuroiwa is headed to the ADDC, paired with Yagami's question in row 8"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue talk=Yagami appears on one form of this reaction line"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues the deduction chain with Kaito about Shono being the target"
+  },
+  "12": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "สลับบทสนทนา Yagami/Kaito คาดเดาเป้าหมาย Kuroiwa (r9 Kaito, r10-11 Yagami, r12 Kaito, r13 Yagami, r14 Kaito) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "13": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "สลับตอบ Kaito ในลำดับเดียวกับ r12 — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "14": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ปิดท้ายสลับบทกับ Yagami ก่อน r15 (Kaito เดิม) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "15": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "casual 'Heh... not bad' phrasing matches Kaito's speech pattern"
+  },
+  "16": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "cue=female(mafuyu) on the EN-A form; Mafuyu is confirmed present since she is addressed by name in row 21"
+  },
+  "17": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "continues the objection ('No.') begun in row 16, arguing the case will go cold"
+  },
+  "18": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "continues same argument about clearing Okubo's name"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue talk=Yagami on the reaction line"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "decisive call to move, matches his leader role in the group"
+  },
+  "21": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "addresses Mafuyu by name directly, asking her to send officers"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues the same instruction to Mafuyu about protecting Shono"
+  },
+  "23": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "casual complaint fits Kaito's speech pattern"
+  },
+  "24": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "responds to Yagami's request, issuing a follow-up order about Kuroiwa to her officers"
+  },
+  "25": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง r24 Mafuyu ('keep an eye out for Kuroiwa') Kaito แสดงความเห็นปิดฉาก — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  }
  }
 }

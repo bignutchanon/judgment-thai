@@ -1,5 +1,64 @@
 # HANDOFF — Judgment ม็อดแปลไทย (JETH)
 
+> **รอบ 22 ปิด (7 ก.ย. 2026 11:06) — apply ผล register + blind แล้ว · บิลด์+deploy แล้ว · commit แล้ว · ยังไม่แพ็ก release (รอเจ้าของทดสอบ)**
+> · register ชิ้น 01 ยิงใหม่ (sonnet ~300k token) = 11 finding (L 9 · V 2) → รวม 6 ชิ้น 81 finding (high 69) · ผู้พูด ? ระบุได้ high 1,705 · med 1,482 · low 389 · เหลือไม่รู้ 78
+> · `register_report.py --write` → `translations/speech_speakers/*.json` (พากย์ 3 ตาราง) + `build/gender/cinema_low_R.json` → `merge_cinema_low.py --write` (ตัดสินแล้ว 283 · ข้าม low 24)
+> · **คำตัดสิน lead register**: `apply_sweep_findings.py --dir register --mid --reject-ids R02-0171,R02-0172,R04-0946-0949,R04-0378 --write` → **รับ 45** (L 39 · V 3 · G 1 · H 1 · N 1) / 16 batch
+> ปฏิเสธ 7: ตัด "คุง" ของเก็นดะ (2) · มัตสึกาเนะดุไคโตะ กู/มึง (4 · §3 รุ่นพี่→รุ่นน้อง) · R04-0378 "Um... Yagami-san?" ใช้ของ blind (กลางเพศ "เอ่อ...ยากามิซัง?" เพราะคีย์ใช้ร่วม) · S 28 จุดไม่มีคำแก้ (ข้อมูลผู้พูดเข้า speakers แล้ว)
+> · lead แก้ th_new เอง 1 จุด: R04-0039 ยากามิ→ฮามุระ "ว่ะ" → "มากกว่ามั้ง" ให้เข้ากับ ผม/นาย
+> · **blind**: แทน th_new 4 จุดตามที่ตัดสิน (B02-0106 "ฮิฮิ!" · B03-0990 "เอ่อ...ยากามิซัง?" · B04-1142 "นี่ รับไปเลย" · B01-0904 "เรื่องของกู!") + เขียน `review/blind/findings_06.json` (lead 6 จุดจากตรวจเชิงกล:
+> B01-0717 ยากามิ ผม · B01-1217/1218 "รับ|ว่าความ" ย้ายช่องว่าง · B01-1224 "ของ|คุณ" · **B01-0706/0709 ฮัตโตริ คุณ→มึง ให้ T3 ทั้งฉาก a01_120** (เดิม "ดูบริบท" — lead ตัดสินเอง) · B01-1221 ฮามุระ "หัวหน้ากู" คงไว้ (แทร็กคู่ 1220 ก็ กู)
+> → `--dir blind --mid --reject-ids B02-1345,B03-1041,B03-1449 --write` = **รับ 26** / 15 batch
+> · `make_dialogue_gender.py --write` (รู้เพศ 41,342 · +speech +mahjong) → `fix_dialogue_gender.py --write` **9 บรรทัด** (ชินทานิ/ยากามิ/rouge_boy/ฮิราซาวะ คะ→ครับ 6 · Club Sega Employee ครับ→ค่ะ 3 — RE_KHA ใหม่จับคำถาม "คะ" ได้แล้ว)
+> · แก้มือเพิ่ม 3 บรรทัด (batch_051/062): ซุกิอุระ "เขาอยู่นั่นไงคะ" 2 แทร็ก → ครับ (**fixer ไม่จับ คะ กลางประโยค** — ตาราง "ขัดกัน" เห็นแต่สคริปต์ไม่เสนอ) · rouge_boy "คุณซาโอริซัง" → "ซาโอริซัง"
+> · ตาราง "ขัดกัน" ที่เหลือหลังแก้ = ผลลวง: "คาดคะเน" (มี คะ) + pause_message/talk `mixed` ที่ยากามิเป็นผู้พูดจริง (ผม ถูกแล้ว)
+> · QC: `remerge_stale` ค้าง 0 · `merge_qc` ผ่าน 50,315 ตก 0 · `fix_thai_wrap --check` 0 · `fix_dialogue_gender` 0 · `test_qc_tools` 14/14 · `test_slot_alloc` 12/12
+> · บิลด์ `--clean` 157 bin ล้มเหลว 0 · `gen_font_bin` 26,064 B · strip_ui (donor 3/36) · patch_drone · **deploy 11:06** (db 159 ไฟล์ · ui · MLO)
+> · **ถัดไป**: (1) เจ้าของทดสอบในเกม (จุดเช็ค: ชินทานิ "ต้องการอะไรหรือครับ?" บท 1 · ยากามิกับฮามุระ "นาย" ใน a02_020 · ฮัตโตริ a01_120 มึงทั้งฉาก · โคโรเนียง Dice & Cube) → ถ้าผ่านแพ็ก release v1.1.3
+> (2) ค้างเดิม: (8) บท 2 ซับหาย "ยินดีที่รู้จักครับ" ไม่มีภาพ · run ไทยคั่นด้วย "..."/"!" ยังไม่วัดรวม (รอหลักฐานจอ)
+> (3) ถ้าทำ register/blind บท 4-13: ชิ้น ~600 บรรทัด · ไม่ให้ agent เขียน speakers ทุกบรรทัด · เพิ่ม "คะ กลางประโยค" ให้ `fix_dialogue_gender`
+
+> **รอบ 22 ต่อ (7 ก.ย. 2026 สาย) — ทีม "เติมเพศ + ตรวจสรรพนาม/ระดับภาษา บท 1-3 + VR" (เจ้าของเลือกขอบเขต B) · สถานะตอนเขียน: ทีม 12 ตัว
+> ส่งแล้ว 11 · **ยังรัน register ชิ้น 01 ตัวเดียว** (ผลจะโผล่ที่ `translations/review/register/speakers_01*.json` + `findings_01.json` — ถ้า session ใหม่ไม่เห็นไฟล์นี้ ให้ยิง agent ใหม่
+> ด้วย prompt เดิม: บทบาท/อินพุต/เอาต์พุตตาม `translations/review/register/REGISTER_BRIEF.md` · ชิ้น chunk_01.tsv 1,200 บรรทัด · sonnet) · ยังไม่ commit · ยังไม่บิลด์**
+> · ชิ้น 02 = 18 finding (L 14 · H 2 · G 1 · N 1) ผู้พูดครบ 1,050 — ชินทานิใช้ ฉัน/แก กับยากามิในฉากกลุ่ม 7 จุด (กติกา: ฉัน เฉพาะสองต่อสอง) · คู่สนทนาเรียกยากามิ "แก" → "นาย"
+> · **คำตัดสิน lead ล่วงหน้าเพิ่ม**: H ที่เสนอตัด "คุง" จาก "ยากามิคุง" ของเก็นดะเพราะ EN ไม่มี honorific (R02-0171/172) = **ปฏิเสธ** (เสียง JA เก็นดะเรียก 八神くん · PRONOUN_MATRIX §2 ให้ ยากามิคุง)
+> · **ทำแล้ว (ข้อมูล)**: talk.bin ผู้พูด unknown 22 ชื่อ → `build/gender/talk_overrides_P1-3.json` → `merge_speaker_overrides --write` + `make_talk_speaker --write` (ทะเบียน 134 ชื่อ · ชาย +10 หญิง +2 กลาง +1 · ที่พิสูจน์ไม่ได้คง unknown)
+> · คัตซีน 255 แถว low/unknown ใน 52 ฉาก → `make_cinema_low_work.py` (C1/C2) → ทีมตัดสิน → `merge_cinema_low.py --write --override` (รับ 230 แถว · แก้ผู้พูดเดิม 3 แถว: a04_020 r31 Hamura→Shioya · a12_030 r10/r11 → Sugiura/Shono · a10_020 r11 → Yagami · a06_010 r9-10 → Tashiro)
+> · มาจอง 26 คน → `translations/mahjong_npc_gender.json` (เว็บไม่มีข้อมูล · รับชาย 2 จากฉายา King/Strongman · หญิง 4 จากชื่อตัว+โทน · ที่ทีมเดาชายจากนามสกุล 6 คน lead ลดเป็น low)
+> · `check_speaker_gender.RE_KHA` ตัด `(?<![ก-ฮ])` (จับ "ไหมคะ/หรือคะ" ได้แล้ว · test_qc_tools 14/14) · `fix_line_gender.SKIP_VOICERS` เพิ่ม seiya_girl1-3 (ตารางบอกชาย ที่จริงแฟนสาว)
+> · `make_dialogue_gender.py` เพิ่มแหล่ง `speech` (`translations/speech_speakers/<ตาราง>.json` จากทีม register) + `mahjong` → รันแล้ว: รู้เพศ 41,283 (+416) · `fix_dialogue_gender` เสนอ 10 บรรทัด **ยังไม่เขียน** (รอ apply finding ทีมก่อน กันทับ)
+> · glossary บรรทัด King Koro-nyan แก้เป็น ราชาโคโระเนียง (ตรงกฎ normalize + master 22 จุด · ชิ้น 06 ชี้)
+> · **ผล register ที่ได้แล้ว**: ชิ้น 03 = 28 finding (S 24 ป้าย seiya_girl · L 3 · H 1) ผู้พูดครบ 869 · ชิ้น 04 = 15 (L 10 · S 3 · G 1 · V 1) · ชิ้น 05 = 9 (L 7 · S 1 · V 1) · ชิ้น 06 = 0
+> แพตเทิร์น: ยากามิหลุด ฉัน/กู/มึง นอกวงเล็บ (a02_020 กับฮามุระ 5 จุด · c03 2 จุด) · อายาเบะฉากสายข่าวหลุด "ฉัน" 4 จุด · **คำตัดสิน lead ล่วงหน้า**: มัตสึกาเนะดุไคโตะด้วย กู/มึง (R04-0946-0949) = อนุญาตตาม §3 รุ่นพี่→รุ่นน้อง → ปฏิเสธ
+> · อายาเบะฉาก L'Amant ใช้ "ผม" ทั้งฉาก ~60 บรรทัด = คงไว้ (สม่ำเสมอ ไม่แก้เป็นชุดใหญ่บนการตีความกฎ)
+> · **token ใช้ไป ~2.5M** (register ชิ้นละ 300-400k · คัตซีนชิ้นละ ~300k) เกินประมาณการ 1.5M — รอบหน้าถ้าจะทำบท 4-13 ให้ตัดชิ้นเล็กลง (~600 บรรทัด) และไม่ให้ agent เขียน speakers ทุกบรรทัด
+> · **ถัดไป (ทำตามลำดับ หลังชิ้น 01-02 ส่ง)**: (1) `python scripts/register_report.py --write` → `translations/review/register/report.md` + `speech_speakers/*.json` + `build/gender/cinema_low_R.json`
+> (2) `python scripts/merge_cinema_low.py --write` (3) lead อ่าน report.md ตัดสิน → `python scripts/apply_sweep_findings.py --dir register --write` (+ `--mid-ids`/`--reject-ids` · finding ใช้ฟิลด์ sev แทน conf — shim ใส่แล้ว)
+> (4) `python scripts/remerge_stale.py --write` (5) `python scripts/make_dialogue_gender.py --write` → `python scripts/fix_dialogue_gender.py --write` → `remerge_stale.py --write`
+> (6) blind test: `python scripts/apply_sweep_findings.py --dir blind --write --mid` หลังแทน th_new 4 จุดด้วยของ lead (B02-0106 "ฮิฮิ!" · B03-0990 "เอ่อ...ยากามิซัง?" · B04-1142 "นี่ รับไปเลย" · B01-0904 ใช้ถ้อยคำรอบ 21 คง `<font_kind>`) และ `--reject-ids B02-1345,B03-1041,B03-1449`
+> (7) QC: `merge_qc.py` ตก 0 · `fix_thai_wrap.py --check` 0 · `fix_dialogue_gender.py` 0 · `test_qc_tools.py` (8) บิลด์: `build_text.py --clean` → `gen_font_bin.py` → `strip_ui_sprite_slots.py --write` + `patch_drone_menu_titles.py --write` → `deploy_spoil.py` (9) อัปเดต HANDOFF + commit (ยังไม่แพ็ก release จนเจ้าของทดสอบ)
+
+> **รอบ 22 (7 ก.ย. 2026 เช้า) — เช็คบัคผู้เล่น + blind test รอบแรก (ยังไม่แก้คำแปล · ยังไม่ commit):**
+> · **บัคใหม่ 1 รายการ** (ชีต `bug_logs` 7/9 03:44 · v1.1.2 · บท 3 VR Paradise "เกมค้างแต่ยังรัน" · มีวิดีโอ 202 วิ + ภาพ):
+> ดึงเฟรมวิดีโอมาดูแล้ว = Dice & Cube ทอยเต๋าได้ 2 แล้วหมากค้าง "เหลืออีก 2 ช่อง" ในอุโมงค์ >60 วิ · โคโรเนียนพูดวนได้ · Esc เมนูพักขึ้น
+> → **น่าจะเป็นบั๊กเกมต้นฉบับบน PC ไม่ใช่ม็อด**: round-trip bin ที่ ship ทั้ง 159 ไฟล์ (สคริปต์ชั่วคราวใน scratchpad) bin ที่ VR ใช้
+> (`msg/talk/ui_text/sugoroku_event_rule/random_slot_item`) ต่างจากต้นฉบับเฉพาะข้อความ + TEXT_COUNT dedup · tag/placeholder ทั้ง master ตรง ·
+> กระทู้บั๊กทางการ Judgment บน Steam (716 โพสต์) มีรายงาน Paradise VR crash/ค้าง "ทำอะไรไม่ได้" ซ้ำ ๆ ตั้งแต่ปี 2022 ถึง ส.ค. 2026 (แนะลดกราฟิก + ล็อก 60 fps)
+> · ผู้แจ้งไม่ทิ้งช่องทางติดต่อ → ถ้าตอบให้ขอ: ทดสอบซ้ำโดยถอนม็อด · ลดกราฟิก/60 fps · ส่งเซฟ+สเปก · ข้อสังเกตข้างเคียง: reARMP เติมศูนย์ต่อท้าย
+> `SPECIAL_FIELD_INDICES` ใน `complete/complete_group/shop/photo_shooting_mission_todo_item/verification_todo_item` (ship มาตั้งแต่ v1.0 ไม่มีรายงาน)
+> · **blind test รอบแรก (เจ้าของสั่ง "ลอง blind test" = ทีมอ่านไทยล้วนไม่เห็น EN)**: `scripts/make_blind_chunks.py` → `translations/review/blind/chunk_01-05.tsv`
+> (บทนำ + บท 1-3 คัตซีน/พากย์/บทพูดเดิน + Dice & Cube ทั้งหมด = 5,897 บรรทัด · 256k อักษร · มีผู้พูด+เพศ · `[อีกแทร็ก]` = ซับอีกภาษาเสียง) ·
+> บรีฟ `BLIND_BRIEF.md` หมวด U/N/T/P/R/S/F · ทีม sonnet 5 ตัว **ใช้ token ~1.1M (≈240k/ชิ้น 1,400 บรรทัด — สูงกว่าประมาณการ 2.4 เท่า เพราะไทยกิน token)**
+> · ผลทีม 25 จุด (high 9) คะแนนอ่านลื่น 4-4.5/5 · **แต่ lead สุ่มอ่านเอง 120 บรรทัดเจอ 6 จุดที่ทีมไม่จับเลย (recall 0%)** — ทีมจับ typo/เพศผิด/ชื่อแปลกได้ดี
+> แต่ปล่อยผ่านการผสมระดับสรรพนามในฉาก (มึง↔คุณ) และช่องว่างผ่าคำประสม (รับ|ว่าความ) เพราะบรีฟสั่งไม่ให้จดช่องว่างขอบวลี · ชิ้น 05 ผู้อ่านนับหัวตาราง id เลื่อน 1 (แก้แล้ว)
+> · `scripts/blind_report.py` → `report.md` + `findings_all.json` (แนบ EN/ผู้พูด · สอบเทียบ · ตรวจเชิงกล 3 แบบ: ช่องว่างผ่าคำในพจนานุกรม (pythainlp — ผลลวงเยอะ ตัดแล้วเหลือ 4)
+> · ยากามิพูด ฉัน (เจอ B03-0621) · ผสม กู/มึง กับ ผม/ครับ ต่อฉาก (0)) · **คำตัดสิน lead ใน `lead_verdicts.json`: รับ 27 · ปฏิเสธ 3 · ดูบริบท 2** —
+> ปฏิเสธเพราะคำแปลถูกแต่ **ป้ายเพศข้อมูลผิด** (`voicer_gender.json`: seiya_girl2=male · alpes_boy=female → ต้องแก้ข้อมูล) และ "Shirosaki-sensei" แปลตามกฎ
+> · ⚠ `fix_dialogue_gender` ไม่จับ B01-1211 "ต้องการอะไรหรือคะ?" (คิว shintani ชาย) — **สาเหตุ: `check_speaker_gender.female_markers` ดูแค่ RE_KHA (ค่ะ)
+> ไม่รวมคำถาม "คะ"** → ผู้พูดชายลงท้ายคำถามด้วย คะ หลุดทั้งเกม (ยังไม่แก้ รอเจ้าของสั่ง — ถ้าเพิ่ม คะ ต้องกันคำอย่าง "คะแนน") · **ถัดไป**: เจ้าของตัดสินว่าจะเขียน 27 จุดที่รับลง done
+> (ใช้ `apply_sweep_findings.py` ได้ถ้าชี้ไป `review/blind` + ใช้ th_new ของ lead แทนของทีมใน 4 จุดที่ระบุ) · ถ้าจะทำ blind รอบสอง ให้ปรับบรีฟด้วยตัวอย่างสอบเทียบ 6 จุด + เพิ่มผู้พูดให้บรรทัด ? (3,531/5,897)
+
 > **รอบ 21 (6 ก.ย. 2026 เช้า):** รายงานผู้เล่นชุดใหม่ใน Google Sheet `bug_logs` แท็บ Judgment วันที่ 6/9 มี 10 รายการ
 > (v1.1.1 · ผู้แจ้งคนเดียว ไม่ทิ้งช่องทางติดต่อ) · แก้แล้ว 3 รายการที่ระบุสตริงได้จากภาพ:
 > (4) "แ-คุณ!" → "ค-คุณ!" (`batch_020`) · (9) "(สินี่คงเป็นฝาแฝดกันสินะ)" → "(สงสัยจะเป็นฝาแฝดกันสินะ)" (`batch_TALK_015`) ·

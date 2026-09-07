@@ -1,14 +1,66 @@
 {
  "scene": "a13_110",
  "rows": {
-  "1": {"speaker": "Ministry thug", "gender": "male", "conf": "med", "why": "Spotting Yagami during the chase; talk=Yagami hint is likely a false positive since the line ('It's Yagami') is logically said ABOUT Yagami by a pursuer, not by Yagami himself"},
-  "2": {"speaker": "Police officer", "gender": "unknown", "conf": "low", "why": "Shouts 'Stop!' during pursuit; cue lists both a male and female police voice tag (oikake_police / oikake_police_w), so gender itself is ambiguous here; talk=Yagami hint again likely a false positive (line is directed at Yagami, not spoken by him)"},
-  "3": {"speaker": "Ministry thug", "gender": "male", "conf": "low", "why": "Continues pursuit shout, no specific name evidence, role-based (chase antagonists)"},
-  "4": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "Commentary during the chase noting these aren't regular thugs, fits his analytical/combat companion role"},
-  "5": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "Continues, identifies them as Ministry boys"},
-  "6": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "Encourages fighting back if they get in the way"},
-  "7": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "Directs the group toward Theater Square"},
-  "8": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "Eager for the fight, matches his combat-loving personality"},
-  "9": {"speaker": "Ministry thug", "gender": "male", "conf": "low", "why": "Continues pursuit shout, role-based (chase antagonist)"}
+  "1": {
+   "speaker": "Ministry thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "Spotting Yagami during the chase; talk=Yagami hint is likely a false positive since the line ('It's Yagami') is logically said ABOUT Yagami by a pursuer, not by Yagami himself"
+  },
+  "2": {
+   "speaker": "Police officer",
+   "gender": "male",
+   "conf": "med",
+   "why": "ไม่มีคำบ่งเพศตรง แต่ตำรวจ/ยามส่วนใหญ่ในเกมเป็นชาย",
+   "source": "cinema_low_C1.json"
+  },
+  "3": {
+   "speaker": "Ministry thug",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกน้องกระทรวงสาธารณสุข แท็กนักเลงทั้งหมดในเกมเป็นชาย",
+   "source": "cinema_low_C1.json"
+  },
+  "4": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องบทไคโตะวิ่งหนี",
+   "source": "cinema_low_C1.json"
+  },
+  "5": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r4",
+   "source": "cinema_low_C1.json"
+  },
+  "6": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r4",
+   "source": "cinema_low_C1.json"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องบทยากามิสั่งวิ่งไปเธียเตอร์สแควร์",
+   "source": "cinema_low_C1.json"
+  },
+  "8": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Eager for the fight, matches his combat-loving personality"
+  },
+  "9": {
+   "speaker": "Ministry thug",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r3",
+   "source": "cinema_low_C1.json"
+  }
  }
 }

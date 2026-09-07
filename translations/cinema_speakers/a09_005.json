@@ -1,28 +1,144 @@
 {
  "scene": "a09_005",
  "rows": {
-  "1": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "current TH marks M; self-blame narration 'I helped set a murderer loose...Emi died because of me'"},
-  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues row 1, TH marked M"},
-  "3": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "second person 'do this to yourself' addressed to Yagami; blunt tough-love tone fits Kaito as Yagami's partner, no explicit name in scene"},
-  "4": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "addresses Yagami by name ('Do you Yagami?'), same speaker as row 3 quizzing him about his father's case"},
-  "5": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "answers question in row 4 about his own father ('No way I could forget')"},
-  "6": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "EN-B 'your father defended...' -- 2nd person, recounting the case to Yagami, continues row 4"},
-  "7": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "continues narrating the case"},
-  "8": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "EN-B 'your father proved him innocent' -- addressed to Yagami"},
-  "9": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "EN-B 'do you know what he said' -- asking Yagami, continues narration"},
-  "10": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "quoting Yagami's father's words, continues narration"},
-  "11": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "continues quoting the father's philosophy"},
-  "12": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "'Do you understand?' addressed to Yagami, continues narration"},
-  "13": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "admiring comment about the father, likely still narrator continuing before pivoting back to Yagami in row 14"},
-  "14": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "'you looked up to him...you would've never become an attorney' -- addressed to Yagami"},
-  "15": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "answers row 14 ('In the beginning...sure I did')"},
-  "16": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "cue pool includes yagami; reads as Yagami pivoting his own sentence from row 15 ('sure I did...but you know...')"},
-  "17": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, first-person 'my dad...and me too'"},
-  "18": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami hint confirms"},
-  "19": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "EN-B 'my dad' -- first person, Yagami continuing his own recollection"},
-  "20": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues same first-person narration thread from row 19"},
-  "21": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues narration leading into rows 22-23 about his parents"},
-  "22": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, 'my dad' first person"},
-  "23": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "TH marked M, 'my mom' first person"}
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marks M; self-blame narration 'I helped set a murderer loose...Emi died because of me'"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues row 1, TH marked M"
+  },
+  "3": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "second person 'do this to yourself' addressed to Yagami; blunt tough-love tone fits Kaito as Yagami's partner, no explicit name in scene"
+  },
+  "4": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "addresses Yagami by name ('Do you Yagami?'), same speaker as row 3 quizzing him about his father's case"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "answers question in row 4 about his own father ('No way I could forget')"
+  },
+  "6": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "EN-B 'your father defended...' -- 2nd person, recounting the case to Yagami, continues row 4"
+  },
+  "7": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues narrating the case"
+  },
+  "8": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "EN-B 'your father proved him innocent' -- addressed to Yagami"
+  },
+  "9": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "EN-B 'do you know what he said' -- asking Yagami, continues narration"
+  },
+  "10": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "quoting Yagami's father's words, continues narration"
+  },
+  "11": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues quoting the father's philosophy"
+  },
+  "12": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "'Do you understand?' addressed to Yagami, continues narration"
+  },
+  "13": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องบทไคโตะเล่าเรื่องพ่อยากามิ",
+   "source": "cinema_low_C1.json"
+  },
+  "14": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "'you looked up to him...you would've never become an attorney' -- addressed to Yagami"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "answers row 14 ('In the beginning...sure I did')"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue pool includes yagami; reads as Yagami pivoting his own sentence from row 15 ('sure I did...but you know...')"
+  },
+  "17": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH marked M, first-person 'my dad...and me too'"
+  },
+  "18": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint confirms"
+  },
+  "19": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "EN-B 'my dad' -- first person, Yagami continuing his own recollection"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues same first-person narration thread from row 19"
+  },
+  "21": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues narration leading into rows 22-23 about his parents"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH marked M, 'my dad' first person"
+  },
+  "23": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH marked M, 'my mom' first person"
+  }
  }
 }

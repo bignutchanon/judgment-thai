@@ -1,31 +1,168 @@
 {
  "scene": "a12_040",
  "rows": {
-  "1": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami), talk=Yagami"},
-  "2": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "low", "why": "Yakuza-style taunt directed at a captured figure, matching Kaito's personality; continues into rows 3 and offering a cigarette in row 5"},
-  "3": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "low", "why": "Continuation of row 2's taunt"},
-  "4": {"speaker": "Toru Higashi", "gender": "male", "conf": "low", "why": "Possible second voice agreeing the target deserved it, before Higashi's clearer line in row 6"},
-  "5": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "low", "why": "Offers a cigarette; row 6 addresses 'Kaito-aniki' teasing him for this soft gesture, confirming row 5 is Kaito"},
-  "6": {"speaker": "Toru Higashi", "gender": "male", "conf": "med", "why": "Addresses 'Kaito-aniki' directly, teasing him for being soft (offering the cigarette in row 5)"},
-  "7": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "cue for EN-A gives yagami, cue for EN-B gives kaito/ayabe — conflicting hints; a brief greeting as the scene shifts to the Ichinose confrontation, guessed as Ayabe arriving"},
-  "8": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Challenges Shono/the group to restate the lab's purpose, continuing Yagami's confrontation from the prior scene"},
-  "9": {"speaker": "Yoji Shono", "gender": "male", "conf": "med", "why": "Responds respectfully addressing 'Vice Minister' before confirming in row 10 (cue=male(shouno))"},
-  "10": {"speaker": "Yoji Shono", "gender": "male", "conf": "high", "why": "cue=male(shouno)"},
-  "11": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Speaks as the Vice Minister of Health about government investment in AD-9"},
-  "12": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Continuation of row 11"},
-  "13": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Continuation, deciding to overlook the trespassing for AD-9's sake"},
-  "14": {"speaker": "Shimazu", "gender": "unknown", "conf": "med", "why": "talk=Shimazu hint; shocked reaction of the Chief Prosecutor to Ichinose overlooking the crime, continuing into the objection in row 15. No gender evidence given for this unregistered character"},
-  "15": {"speaker": "Shimazu", "gender": "unknown", "conf": "low", "why": "Continuation of row 14's objection, addressing Ichinose as 'Sir'"},
-  "16": {"speaker": "Yoji Shono", "gender": "male", "conf": "med", "why": "Thanks Ichinose for overlooking the trespass"},
-  "17": {"speaker": "Yoji Shono", "gender": "male", "conf": "low", "why": "Continuation of row 16's pleasantries"},
-  "18": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Gives the order for everyone to evacuate"},
-  "19": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Addresses Shono, hoping his research continues undisturbed"},
-  "20": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "high", "why": "Addresses 'Dr. Shono' directly by name, reassuring him"},
-  "21": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "cue=mixed(emi,yagami), talk=Yagami"},
-  "22": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami), talk=Yagami"},
-  "23": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Continuation of rows 21-22, directly accusing the Chief Prosecutor (Shimazu) of also working for AD-9"},
-  "24": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami hint; angry reaction to the depth of corruption just revealed"},
-  "25": {"speaker": "Toru Higashi", "gender": "male", "conf": "high", "why": "cue=male(higashi); worried address to Kaito ('Aniki...')"},
-  "26": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "low", "why": "Likely Kaito's own furious reaction following Higashi's concerned 'Aniki...' in row 25"}
+  "1": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami), talk=Yagami"
+  },
+  "2": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง r1 Yagami ก่อน r3 Kaito พูดต่อเรื่องเดียวกัน ('tax leeches') — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "3": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue เดียวกับ r2",
+   "source": "cinema_low_C2.json"
+  },
+  "4": {
+   "speaker": "Toru Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง r6 (Higashi เดิม 'you're as soft as ever, Kaito-aniki') — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "5": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ชวนสูบบุหรี่ก่อน Ayabe มาถึง r7 — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "6": {
+   "speaker": "Toru Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "Addresses 'Kaito-aniki' directly, teasing him for being soft (offering the cigarette in row 5)"
+  },
+  "7": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ทักทายมาถึงฉาก — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "8": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Challenges Shono/the group to restate the lab's purpose, continuing Yagami's confrontation from the prior scene"
+  },
+  "9": {
+   "speaker": "Yoji Shono",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds respectfully addressing 'Vice Minister' before confirming in row 10 (cue=male(shouno))"
+  },
+  "10": {
+   "speaker": "Yoji Shono",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(shouno)"
+  },
+  "11": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Speaks as the Vice Minister of Health about government investment in AD-9"
+  },
+  "12": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of row 11"
+  },
+  "13": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation, deciding to overlook the trespassing for AD-9's sake"
+  },
+  "14": {
+   "speaker": "Shimazu",
+   "gender": "unknown",
+   "conf": "med",
+   "why": "talk=Shimazu hint; shocked reaction of the Chief Prosecutor to Ichinose overlooking the crime, continuing into the objection in row 15. No gender evidence given for this unregistered character"
+  },
+  "15": {
+   "speaker": "Shimazu",
+   "gender": "unknown",
+   "conf": "low",
+   "why": "Continuation of row 14's objection, addressing Ichinose as 'Sir'"
+  },
+  "16": {
+   "speaker": "Yoji Shono",
+   "gender": "male",
+   "conf": "med",
+   "why": "Thanks Ichinose for overlooking the trespass"
+  },
+  "17": {
+   "speaker": "Yoji Shono",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบ Ichinose สุภาพต่อเนื่องจาก r16 (Shono เดิม) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "18": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Gives the order for everyone to evacuate"
+  },
+  "19": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Addresses Shono, hoping his research continues undisturbed"
+  },
+  "20": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "high",
+   "why": "Addresses 'Dr. Shono' directly by name, reassuring him"
+  },
+  "21": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=mixed(emi,yagami), talk=Yagami"
+  },
+  "22": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami), talk=Yagami"
+  },
+  "23": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of rows 21-22, directly accusing the Chief Prosecutor (Shimazu) of also working for AD-9"
+  },
+  "24": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint; angry reaction to the depth of corruption just revealed"
+  },
+  "25": {
+   "speaker": "Toru Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(higashi); worried address to Kaito ('Aniki...')"
+  },
+  "26": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ด่าต่อเนื่องจาก r24 Yagami/r25 Higashi (ซ้ำกับ a12_060 r3) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  }
  }
 }

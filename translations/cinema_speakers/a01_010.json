@@ -232,8 +232,9 @@
   "40": {
    "speaker": "Yagami",
    "gender": "male",
-   "conf": "low",
-   "why": "cue=male(yagami); reacts with 'What? Oh...' suggesting an interruption/aside rather than continuing Saori's call"
+   "conf": "med",
+   "why": "audio-bridge จาก 'ridiculous' ของซาโอริ (r39) ไปยากามิอีกฉาก ก่อนตัดกลับซาโอริที่ r41 — ยากามิ=ชายในทะเบียน",
+   "source": "cinema_low_C1.json"
   },
   "41": {
    "speaker": "Saori",
@@ -244,8 +245,9 @@
   "42": {
    "speaker": "Shintani",
    "gender": "male",
-   "conf": "low",
-   "why": "Likely continues Shintani's frustration at being passed over again; no direct cue"
+   "conf": "high",
+   "why": "ต่อเนื่องบท Shintani คุยกับยากามิ r15-30 — Masamichi Shintani=ชายในทะเบียน",
+   "source": "cinema_low_C1.json"
   },
   "43": {
    "speaker": "Genda",
@@ -256,8 +258,9 @@
   "44": {
    "speaker": "Genda",
    "gender": "male",
-   "conf": "low",
-   "why": "Picks up a new call after restoring quiet; leads into the serious Okubo news call (rows45-49)"
+   "conf": "high",
+   "why": "ต่อจาก r43 เก็นดะสั่งเงียบแล้วรับสายเอง (r45-47 ก็เก็นดะ) — Ryuzo Genda=ชายในทะเบียน",
+   "source": "cinema_low_C1.json"
   },
   "45": {
    "speaker": "Genda",
@@ -304,8 +307,9 @@
   "52": {
    "speaker": "Yagami",
    "gender": "male",
-   "conf": "low",
-   "why": "Reaction pause before shock in row53-54"
+   "conf": "high",
+   "why": "ต่อเนื่องบทยากามิฟังเก็นดะเล่าเรื่องลูกความ ก่อนอุทาน r53 'Huh!?' ก็ยากามิ",
+   "source": "cinema_low_C1.json"
   },
   "53": {
    "speaker": "Yagami",
@@ -363,15 +367,17 @@
   },
   "62": {
    "speaker": "Inamine",
-   "gender": "unknown",
-   "conf": "med",
-   "why": "talk=Inamine identifies the speaker by name but this name is not in the character gender registry, so gender cannot be confirmed"
+   "gender": "male",
+   "conf": "high",
+   "why": "WebSearch ยืนยัน 'Inamine is a man' ตัวละคร NPC เกม Judgment (yakuza.fandom.com/wiki/The_Ono_Michio_Bandit) ชื่อนี้มีตัวเดียวในเกม",
+   "source": "cinema_low_C1.json"
   },
   "63": {
-   "speaker": "Unknown",
-   "gender": "unknown",
-   "conf": "low",
-   "why": "Continuation of shocked reaction, unclear if same speaker as row62 or Yagami"
+   "speaker": "Crowd",
+   "gender": "neutral",
+   "conf": "high",
+   "why": "ปฏิกิริยาตกใจแบบ vox-pop จากคนไม่ระบุตัวตนหลายคน ('How could he.../Why would he...')",
+   "source": "cinema_low_C1.json"
   },
   "64": {
    "speaker": "Police officer",

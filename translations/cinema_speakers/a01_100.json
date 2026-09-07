@@ -76,8 +76,9 @@
   "13": {
    "speaker": "Masaharu Kaito",
    "gender": "male",
-   "conf": "low",
-   "why": "Rallying call as the fight starts; uncertain which of the two speaks"
+   "conf": "high",
+   "why": "อยู่ระหว่าง r12 Yagami กับ r14 Kaito ('That was pretty sweet, man') ชวน Yagami ร่วมสู้ต่อเนื่อง — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "14": {
    "speaker": "Masaharu Kaito",
@@ -100,14 +101,16 @@
   "17": {
    "speaker": "Akira Murase",
    "gender": "male",
-   "conf": "low",
-   "why": "New threat as the fight continues, addressing 'you two'"
+   "conf": "high",
+   "why": "ต่อเนื่องบท Murase (r2,4,5,6,7,11 เดิม) ก่อนขู่ r18 ประโยคเดียวกัน — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "18": {
    "speaker": "Akira Murase",
    "gender": "male",
-   "conf": "low",
-   "why": "Continues the same threat as row 17"
+   "conf": "high",
+   "why": "ต่อจาก r17 คำขู่เดียวกัน 'You two fuckers are going down' — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   }
  }
 }

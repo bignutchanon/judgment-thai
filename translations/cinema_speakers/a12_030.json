@@ -1,78 +1,469 @@
 {
  "scene": "a12_030",
  "rows": {
-  "1": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Opening line entering the secret lab; typical protagonist opening beat, no direct cue"},
-  "2": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of row 1"},
-  "3": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Identifies the room as Shono's secret lab, continuing row 1-2"},
-  "4": {"speaker": "Yoji Shono", "gender": "male", "conf": "med", "why": "Surprised reaction 'You two? What're you...' to Yagami's group (including Kido, per row 5) barging in"},
-  "5": {"speaker": "Ryusuke Kido", "gender": "male", "conf": "high", "why": "cue=male(kido); Kido is present at the lab, addressing Shono by name"},
-  "6": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Confronts Shono about being caught at the crime scene, continuing the group's entrance"},
-  "7": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of row 6"},
-  "8": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami); calls Sugiura's name"},
-  "9": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Instructs Sugiura to film the scene, continuing row 8"},
-  "10": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "talk=Yagami hint, though cue also lists Kaito as a candidate; short acknowledgment, exact fit with row 9 is uncertain"},
-  "11": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "talk=Yagami hint; cue lists generic police voice tags (oikake_police/oikake_police_w) likely a reused audio group rather than the narrative speaker"},
-  "12": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Accusatory line to Shono about the mutilated yakuza victims, continuing Yagami's confrontation"},
-  "13": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of row 12"},
-  "14": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation, listing evidence found in the room"},
-  "15": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Personal statement about waiting a long time for this evidence, fits protagonist's long investigation arc"},
-  "16": {"speaker": "Yoji Shono", "gender": "male", "conf": "med", "why": "Nervous stammering reply to Yagami's accusation in row 15"},
-  "17": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Notices Sugiura's sudden distress"},
-  "18": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Addresses 'Yagami-san' by name, beginning his confession"},
-  "19": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Continues confession begun in row 18"},
-  "20": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "cue lists Genda or Yagami; Genda is not present at this scene, so Yagami is the contextually plausible responder asking Sugiura to clarify"},
-  "21": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Continues his confession about his fake identity"},
-  "22": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Continues confession about his fake name"},
-  "23": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Addresses 'Yagami-san' directly, continuing the confession"},
-  "24": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Continues confession"},
-  "25": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Continues, leading into revealing his real name in row 26"},
-  "26": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Reveals his real name, Fumiya Terasawa"},
-  "27": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Surprised reaction to the name Terasawa"},
-  "28": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "high", "why": "Reveals he is Emi Terasawa's younger brother, accusing Shono ('this bastard') of murdering her"},
-  "29": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami); calls out Sugiura's name, likely trying to stop him"},
-  "30": {"speaker": "Fumiya Sugiura", "gender": "male", "conf": "med", "why": "Likely Sugiura threatening Shono with a knife just before police arrive and order him to drop it (row 31)"},
-  "31": {"speaker": "Police officer (unnamed)", "gender": "male", "conf": "med", "why": "Police ordering the hooded, knife-wielding Sugiura to drop the weapon; generic police NPC tags in the character registry are consistently male"},
-  "32": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami); urging Sugiura to comply"},
-  "33": {"speaker": "Police officer (unnamed)", "gender": "male", "conf": "med", "why": "Formal arrest declaration, continuing row 31's police officer"},
-  "34": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Authority figure waiving handcuffs for Sugiura; inferred as the friendly detective ally Ayabe, confirmed present nearby in scene a12_040 (cue=male(kaito,ayabe))"},
-  "35": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Continuation of row 34"},
-  "36": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Continuation, addressing Yagami about not prosecuting 'your friend' (Sugiura)"},
-  "37": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami hint, skeptical reply to row 36"},
-  "38": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Continuation of row 36's reassurance that no crime was committed"},
-  "39": {"speaker": "Police officer (unnamed)", "gender": "male", "conf": "low", "why": "A subordinate officer objecting, addressing a superior as 'sir' (likely Ayabe from rows 34-38); generic police NPC tags in the registry are consistently male"},
-  "40": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Redirects the conversation to needing forensics, consistent with Yagami's persistence about evidence"},
-  "41": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "Continuation of row 40, explaining the reasoning"},
-  "42": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Skeptical question back to Yagami's claim in row 41"},
-  "43": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Answers Ayabe's question, citing Kido as his source"},
-  "44": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Professional skepticism that Kido's word isn't enough for a warrant"},
-  "45": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Continuation of row 44"},
-  "46": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Reveals he has a better reason (the trespassing plan) lined up"},
-  "47": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Asks what the better reason is, continuing the back-and-forth with Yagami"},
-  "48": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Explains his self-deprecating plan ('rogue ex-lawyer' = himself)"},
-  "49": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Continuation of row 48's reasoning"},
-  "50": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Continuation, telling Ayabe to block off the scene"},
-  "51": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "med", "why": "Addresses 'Yagami-kun' directly with exasperation/admiration at his plan"},
-  "52": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "med", "why": "Continuation of row 51, marveling at Yagami's cleverness"},
-  "53": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "med", "why": "Continuation, concluding this was Yagami's plan from the start"},
-  "54": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "med", "why": "References Mafuyu Fujii tipping off the police, continuing Ayabe's line of realization"},
-  "55": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "med", "why": "Continuation of row 54"},
-  "56": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "low", "why": "Someone bursting in demanding a path cleared, immediately followed by being addressed as Vice Minister Ichinose in row 57"},
-  "57": {"speaker": "Kazuya Ayabe", "gender": "male", "conf": "low", "why": "Recognizes and names the arriving Vice Minister Ichinose"},
-  "58": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Declares Ministry of Health jurisdiction over the facility"},
-  "59": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Continuation of row 58, demanding everyone leave"},
-  "60": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Sarcastic jab at Ichinose about the Ministry running a 'love hotel'"},
-  "61": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Defends the facility as a legitimate AD-9 research lab"},
-  "62": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "med", "why": "Continuation of row 61, warning of fallout"},
-  "63": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Responds to Ichinose's threat by pointing out he already trespassed"},
-  "64": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Continuation of row 63, declaring the lab a crime scene"},
-  "65": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami); confirms the crime-scene declaration"},
-  "66": {"speaker": "Kaoru Ichinose", "gender": "male", "conf": "high", "why": "Addresses 'Yagami-san' directly by name, refusing his crime-scene argument"},
-  "67": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Insists on the murders, continuing to press the point"},
-  "68": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Continuation of row 67"},
-  "69": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "EN-B 'Chief Prosecutor.' shows Yagami now pleading to the Chief Prosecutor (Shimazu), who is present in the scene"},
-  "70": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "Continues pleading, addressed to the Chief Prosecutor from row 69"},
-  "71": {"speaker": "Shimazu", "gender": "unknown", "conf": "low", "why": "The Chief Prosecutor (name from talk hint elsewhere in this scene group, not in the character registry) responding to Yagami's plea with false sympathy; no pronoun evidence for gender in given text"},
-  "72": {"speaker": "Shimazu", "gender": "unknown", "conf": "med", "why": "Continuation of row 71, refusing to help; unregistered character, no gender evidence given"},
-  "73": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "talk=Yagami hint on the EN-B variant; shocked reaction to being refused. A conflicting talk=Shimazu tag also appears on the EN-A variant, but this same conflict (talk=Shimazu vs talk=Sana vs talk=Yagami) recurs on other short 'What!?' exclamations across this scene group, suggesting a reused generic reaction voice line rather than a reliable speaker tag here"}
+  "1": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิบุกเข้าห้องแล็บลับต่อเนื่องจากฉากก่อน",
+   "source": "cinema_low_C1.json"
+  },
+  "2": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "3": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r1",
+   "source": "cinema_low_C1.json"
+  },
+  "4": {
+   "speaker": "Yoji Shono",
+   "gender": "male",
+   "conf": "med",
+   "why": "Surprised reaction 'You two? What're you...' to Yagami's group (including Kido, per row 5) barging in"
+  },
+  "5": {
+   "speaker": "Ryusuke Kido",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(kido); Kido is present at the lab, addressing Shono by name"
+  },
+  "6": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "พูดกับโชโนะที่เจอในแล็บ",
+   "source": "cinema_low_C1.json"
+  },
+  "7": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r6",
+   "source": "cinema_low_C1.json"
+  },
+  "8": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami); calls Sugiura's name"
+  },
+  "9": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Instructs Sugiura to film the scene, continuing row 8"
+  },
+  "10": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "แก้จาก 'Takayuki Yagami' — 'Mmhm./Yup.' ตอบรับคำสั่ง 'Get some video' ของยากามิที่ r9 ตรงกับซุกิอุระผู้ถูกสั่งให้ถ่าย",
+   "source": "cinema_low_C1.json"
+  },
+  "11": {
+   "speaker": "Yoji Shono",
+   "gender": "male",
+   "conf": "med",
+   "why": "แก้จาก 'Takayuki Yagami' — 'Stop that!/Stop!' ตรงกับโชโนะประท้วงการถูกถ่ายวิดีโอหลักฐาน ก่อนยากามิพูดต่อเรื่องหลักฐานที่ r12",
+   "source": "cinema_low_C1.json"
+  },
+  "12": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "กลับมาซักถามโชโนะเรื่องยากูซ่าโดนควักตา",
+   "source": "cinema_low_C1.json"
+  },
+  "13": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r12",
+   "source": "cinema_low_C1.json"
+  },
+  "14": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r12",
+   "source": "cinema_low_C1.json"
+  },
+  "15": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Personal statement about waiting a long time for this evidence, fits protagonist's long investigation arc"
+  },
+  "16": {
+   "speaker": "Yoji Shono",
+   "gender": "male",
+   "conf": "med",
+   "why": "Nervous stammering reply to Yagami's accusation in row 15"
+  },
+  "17": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Notices Sugiura's sudden distress"
+  },
+  "18": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Addresses 'Yagami-san' by name, beginning his confession"
+  },
+  "19": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues confession begun in row 18"
+  },
+  "20": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue lists Genda or Yagami; Genda is not present at this scene, so Yagami is the contextually plausible responder asking Sugiura to clarify"
+  },
+  "21": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues his confession about his fake identity"
+  },
+  "22": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues confession about his fake name"
+  },
+  "23": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Addresses 'Yagami-san' directly, continuing the confession"
+  },
+  "24": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues confession"
+  },
+  "25": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues, leading into revealing his real name in row 26"
+  },
+  "26": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Reveals his real name, Fumiya Terasawa"
+  },
+  "27": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Surprised reaction to the name Terasawa"
+  },
+  "28": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "Reveals he is Emi Terasawa's younger brother, accusing Shono ('this bastard') of murdering her"
+  },
+  "29": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami); calls out Sugiura's name, likely trying to stop him"
+  },
+  "30": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "Likely Sugiura threatening Shono with a knife just before police arrive and order him to drop it (row 31)"
+  },
+  "31": {
+   "speaker": "Police officer (unnamed)",
+   "gender": "male",
+   "conf": "med",
+   "why": "Police ordering the hooded, knife-wielding Sugiura to drop the weapon; generic police NPC tags in the character registry are consistently male"
+  },
+  "32": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami); urging Sugiura to comply"
+  },
+  "33": {
+   "speaker": "Police officer (unnamed)",
+   "gender": "male",
+   "conf": "med",
+   "why": "Formal arrest declaration, continuing row 31's police officer"
+  },
+  "34": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ทะเบียนยืนยัน Kazuya Ayabe=ชาย มาถึงจับกุมซุกิอุระ",
+   "source": "cinema_low_C1.json"
+  },
+  "35": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r34",
+   "source": "cinema_low_C1.json"
+  },
+  "36": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r34",
+   "source": "cinema_low_C1.json"
+  },
+  "37": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint, skeptical reply to row 36"
+  },
+  "38": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r34",
+   "source": "cinema_low_C1.json"
+  },
+  "39": {
+   "speaker": "Police officer (unnamed)",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกอายาเบะว่า 'sir' ไม่ระบุเพศตัวเอง แต่ตำรวจส่วนใหญ่ในเกมเป็นชาย (มีแท็กหญิงแยกต่างหากเฉพาะเมื่อต้องการ)",
+   "source": "cinema_low_C1.json"
+  },
+  "40": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "เสนอให้เรียกนิติเวช ต่อเนื่องบทยืนยันที่เกิดเหตุ",
+   "source": "cinema_low_C1.json"
+  },
+  "41": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r40",
+   "source": "cinema_low_C1.json"
+  },
+  "42": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r34",
+   "source": "cinema_low_C1.json"
+  },
+  "43": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Answers Ayabe's question, citing Kido as his source"
+  },
+  "44": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r34",
+   "source": "cinema_low_C1.json"
+  },
+  "45": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r34",
+   "source": "cinema_low_C1.json"
+  },
+  "46": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Reveals he has a better reason (the trespassing plan) lined up"
+  },
+  "47": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r34",
+   "source": "cinema_low_C1.json"
+  },
+  "48": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Explains his self-deprecating plan ('rogue ex-lawyer' = himself)"
+  },
+  "49": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of row 48's reasoning"
+  },
+  "50": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation, telling Ayabe to block off the scene"
+  },
+  "51": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "Addresses 'Yagami-kun' directly with exasperation/admiration at his plan"
+  },
+  "52": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of row 51, marveling at Yagami's cleverness"
+  },
+  "53": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation, concluding this was Yagami's plan from the start"
+  },
+  "54": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "References Mafuyu Fujii tipping off the police, continuing Ayabe's line of realization"
+  },
+  "55": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of row 54"
+  },
+  "56": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "high",
+   "why": "ทะเบียนยืนยัน Kaoru Ichinose=ชาย ปรากฏตัวครั้งแรกฉากนี้ (r57 อายาเบะเรียกชื่อยืนยัน)",
+   "source": "cinema_low_C1.json"
+  },
+  "57": {
+   "speaker": "Kazuya Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r34",
+   "source": "cinema_low_C1.json"
+  },
+  "58": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Declares Ministry of Health jurisdiction over the facility"
+  },
+  "59": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of row 58, demanding everyone leave"
+  },
+  "60": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Sarcastic jab at Ichinose about the Ministry running a 'love hotel'"
+  },
+  "61": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Defends the facility as a legitimate AD-9 research lab"
+  },
+  "62": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of row 61, warning of fallout"
+  },
+  "63": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds to Ichinose's threat by pointing out he already trespassed"
+  },
+  "64": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of row 63, declaring the lab a crime scene"
+  },
+  "65": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami); confirms the crime-scene declaration"
+  },
+  "66": {
+   "speaker": "Kaoru Ichinose",
+   "gender": "male",
+   "conf": "high",
+   "why": "Addresses 'Yagami-san' directly by name, refusing his crime-scene argument"
+  },
+  "67": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Insists on the murders, continuing to press the point"
+  },
+  "68": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continuation of row 67"
+  },
+  "69": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "EN-B 'Chief Prosecutor.' shows Yagami now pleading to the Chief Prosecutor (Shimazu), who is present in the scene"
+  },
+  "70": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues pleading, addressed to the Chief Prosecutor from row 69"
+  },
+  "71": {
+   "speaker": "Shimazu",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิเรียกตรง ๆ ว่า 'Chief Prosecutor' ที่ r69 ก่อน Shimazu ตอบ 2 บรรทัดถัดมา — ตำแหน่งหัวหน้าอัยการในเกมนี้ (Kunihiko Morita) ยืนยันเป็นชายในทะเบียน",
+   "source": "cinema_low_C1.json"
+  },
+  "72": {
+   "speaker": "Shimazu",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r71 เหตุผลเดียวกัน",
+   "source": "cinema_low_C1.json"
+  },
+  "73": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ปฏิกิริยาต่อการถูก Shimazu ปฏิเสธคำขอ",
+   "source": "cinema_low_C1.json"
+  }
  }
 }

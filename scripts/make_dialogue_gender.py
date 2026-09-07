@@ -17,6 +17,8 @@
 | `chat` | `extracted/facts/chat_sender.json` + เพศของคู่แชท | ข้อความแชท `pause_message.bin` |
 | `popup` | `extracted/facts/popup_gender.json` | คำพูดลอยชาวเมือง |
 | `pov` | รายชื่อ bin ที่เป็นเสียงในใจ/บันทึกของยากามิล้วน (`YAGAMI_POV_BINS`) | ภารกิจ/เคสไฟล์/ตัวเลือก |
+| `speech` | `translations/speech_speakers/<ตาราง>.json` (ทีม register รอบ 22 ระบุผู้พูดจากบริบท) × `sound_auth.bin` | บทพากย์ที่ไฟล์เกมไม่บอกชื่อผู้พูด |
+| `mahjong` | `translations/mahjong_npc_gender.json` (ค้นเว็บ รอบ 22) × `minigame_mahjong_string_npc.bin` | บทพูดคู่ต่อสู้มาจอง |
 
 กติกา: `SKIP_VOICERS` ของ `fix_line_gender.py` (เพศนักพากย์ ≠ ตัวละคร) ถูกตัดออกจากแหล่ง `cue` ·
 ผล `cinema` ใช้เฉพาะ `conf` high/med (low นับเป็นไม่รู้) · เพศของคู่แชทมาจาก
@@ -311,6 +313,70 @@ def write_doc(table, master, stats):
     return len(conflict)
 
 
+SPEECH_DIR = paths.TRANSLATIONS / "speech_speakers"          # รอบ 22: ทีม register ระบุผู้พูดของบทพากย์ที่ไฟล์เกมไม่บอกชื่อ
+MAHJONG = paths.TRANSLATIONS / "mahjong_npc_gender.json"     # รอบ 22: เพศคู่ต่อสู้มาจอง (ค้นเว็บ) × minigame_mahjong_string_npc.bin
+
+
+def speech_votes(t):
+    """แหล่ง `speech`: translations/speech_speakers/<ตาราง>.json = {"table","rows":{แถว:{speaker,gender,conf}}} × sound_auth.bin
+    (แถวใน sound_auth เป็นเลขลำดับ JSON เหมือนที่ make_register_chunks ใช้ · ใช้เฉพาะ conf high/med)"""
+    if not SPEECH_DIR.exists():
+        return 0
+    sa = load(paths.DB_EN / "en" / "sound_auth.bin.json")
+    tables = {}
+    for v in sa.values():
+        if not isinstance(v, dict):
+            continue
+        for name, sub in v.items():
+            tb = sub.get("table") if isinstance(sub, dict) else None
+            if isinstance(tb, dict) and tb.get("ROW_COUNT"):
+                tables[name] = tb
+    n = 0
+    for p in sorted(SPEECH_DIR.glob("*.json")):
+        d = load(p)
+        tb = tables.get(d.get("table") or p.stem)
+        if not tb:
+            continue
+        for rk, info in (d.get("rows") or {}).items():
+            row = tb.get(rk)
+            if not isinstance(row, dict):
+                continue
+            row = row.get("", row)
+            g = (info.get("gender") or "unknown").lower()
+            if (info.get("conf") or "low").lower() not in ("high", "med"):
+                g = "unknown"
+            for col in ("4", "6"):
+                en = row.get(col)
+                if isinstance(en, str) and en.strip():
+                    t.vote(en, "speech", g, info.get("speaker") or "")
+                    n += 1
+    return n
+
+
+def mahjong_votes(t):
+    """แหล่ง `mahjong`: translations/mahjong_npc_gender.json {row_name: {gender, conf}} × ทุกคอลัมน์ข้อความของแถวนั้น"""
+    if not MAHJONG.exists():
+        return 0
+    genders = load(MAHJONG)
+    bin_ = load(paths.DB_EN / "en" / "minigame_mahjong_string_npc.bin.json")
+    n = 0
+    for k, v in bin_.items():
+        if not k.isdigit() or not isinstance(v, dict):
+            continue
+        for rn, row in v.items():
+            info = genders.get(rn)
+            if not isinstance(info, dict):
+                continue
+            g = (info.get("gender") or "unknown").lower()
+            if (info.get("conf") or "low").lower() not in ("high", "med"):
+                g = "unknown"
+            for c, val in row.items():
+                if c != "text" and isinstance(val, str) and val.strip():
+                    t.vote(val, "mahjong", g, info.get("name") or rn)
+                    n += 1
+    return n
+
+
 def build():
     t = Table()
     cue_votes(t)
@@ -319,8 +385,10 @@ def build():
     unresolved = chat_votes(t)
     popup_votes(t)
     pov_votes(t)
+    n_speech = speech_votes(t)
+    n_mj = mahjong_votes(t)
     return t.finish(), {"cinema_scenes": n_scene, "cinema_rows": n_row, "cinema_bad": bad,
-                        "chat_unresolved": unresolved}
+                        "chat_unresolved": unresolved, "speech_rows": n_speech, "mahjong_rows": n_mj}
 
 
 def main():

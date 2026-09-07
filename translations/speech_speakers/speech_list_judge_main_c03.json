@@ -1,0 +1,2854 @@
+{
+ "table": "speech_list_judge_main_c03",
+ "rows": {
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 100",
+   "source": "register/speakers_05.part1.json"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag = Yagami inner thought",
+   "source": "register/speakers_05.part1.json"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 103",
+   "source": "register/speakers_05.part1.json"
+  },
+  "12": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 105",
+   "source": "register/speakers_05.part1.json"
+  },
+  "13": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "asking Kaito if he's giving up",
+   "source": "register/speakers_05.part1.json"
+  },
+  "14": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues 107",
+   "source": "register/speakers_05.part1.json"
+  },
+  "15": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "defiant reply",
+   "source": "register/speakers_05.part1.json"
+  },
+  "16": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "dismissing Higashi before his defensive reply",
+   "source": "register/speakers_05.part1.json"
+  },
+  "17": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม, blames Kaito",
+   "source": "register/speakers_05.part1.json"
+  },
+  "18": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 112",
+   "source": "register/speakers_05.part1.json"
+  },
+  "19": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 114",
+   "source": "register/speakers_05.part1.json"
+  },
+  "20": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "taunts Kaito, calls him aniki mockingly",
+   "source": "register/speakers_05.part1.json"
+  },
+  "21": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 117",
+   "source": "register/speakers_05.part1.json"
+  },
+  "22": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 119",
+   "source": "register/speakers_05.part1.json"
+  },
+  "23": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 121",
+   "source": "register/speakers_05.part1.json"
+  },
+  "24": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 123",
+   "source": "register/speakers_05.part1.json"
+  },
+  "25": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "hostile-but-formal threat, matches his register",
+   "source": "register/speakers_05.part1.json"
+  },
+  "26": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues 125",
+   "source": "register/speakers_05.part1.json"
+  },
+  "27": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 127",
+   "source": "register/speakers_05.part1.json"
+  },
+  "28": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "ordering his men to leave",
+   "source": "register/speakers_05.part1.json"
+  },
+  "29": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "aside to his underling",
+   "source": "register/speakers_05.part1.json"
+  },
+  "30": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 131",
+   "source": "register/speakers_05.part1.json"
+  },
+  "31": {
+   "speaker": "?",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 133",
+   "source": "register/speakers_05.part1.json"
+  },
+  "32": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 135",
+   "source": "register/speakers_05.part1.json"
+  },
+  "33": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 137",
+   "source": "register/speakers_05.part1.json"
+  },
+  "35": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 140",
+   "source": "register/speakers_05.part1.json"
+  },
+  "36": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 142",
+   "source": "register/speakers_05.part1.json"
+  },
+  "37": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 144, 'can't argue with you there' responds to Kaito",
+   "source": "register/speakers_05.part1.json"
+  },
+  "38": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 146",
+   "source": "register/speakers_05.part1.json"
+  },
+  "39": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 148",
+   "source": "register/speakers_05.part1.json"
+  },
+  "40": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ฉัน, offering payment",
+   "source": "register/speakers_05.part1.json"
+  },
+  "41": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 151, ผม",
+   "source": "register/speakers_05.part1.json"
+  },
+  "42": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 153",
+   "source": "register/speakers_05.part1.json"
+  },
+  "45": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "receiving Kaito's directions while tailing",
+   "source": "register/speakers_05.part1.json"
+  },
+  "46": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "low",
+   "why": "possibly Kaito's closing to Yagami",
+   "source": "register/speakers_05.part1.json"
+  },
+  "48": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "parens = Yagami inner thought",
+   "source": "register/speakers_05.part1.json"
+  },
+  "49": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "parens",
+   "source": "register/speakers_05.part1.json"
+  },
+  "50": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "parens",
+   "source": "register/speakers_05.part1.json"
+  },
+  "53": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "responding to Yagami's phone report",
+   "source": "register/speakers_05.part1.json"
+  },
+  "54": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "confirming to Kaito over phone",
+   "source": "register/speakers_05.part1.json"
+  },
+  "55": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "'I used to manage the place' = Kaito's history",
+   "source": "register/speakers_05.part1.json"
+  },
+  "56": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "curious follow-up question",
+   "source": "register/speakers_05.part1.json"
+  },
+  "57": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 172",
+   "source": "register/speakers_05.part1.json"
+  },
+  "58": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "accepting task",
+   "source": "register/speakers_05.part1.json"
+  },
+  "59": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 175",
+   "source": "register/speakers_05.part1.json"
+  },
+  "61": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "advising Yagami on disguise plan",
+   "source": "register/speakers_05.part1.json"
+  },
+  "62": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "agreeing to change",
+   "source": "register/speakers_05.part1.json"
+  },
+  "63": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt, asking what kind",
+   "source": "register/speakers_05.part1.json"
+  },
+  "64": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม explicitly",
+   "source": "register/speakers_05.part1.json"
+  },
+  "65": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 184",
+   "source": "register/speakers_05.part1.json"
+  },
+  "66": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "lecturing Yagami about detective work",
+   "source": "register/speakers_05.part1.json"
+  },
+  "67": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reluctant acceptance",
+   "source": "register/speakers_05.part1.json"
+  },
+  "69": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "parens, inner thought",
+   "source": "register/speakers_05.part1.json"
+  },
+  "72": {
+   "speaker": "gamer_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 193",
+   "source": "register/speakers_05.part1.json"
+  },
+  "73": {
+   "speaker": "charles_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 195",
+   "source": "register/speakers_05.part1.json"
+  },
+  "74": {
+   "speaker": "gamer_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacting to being pushed",
+   "source": "register/speakers_05.part1.json"
+  },
+  "76": {
+   "speaker": "gamer_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 199",
+   "source": "register/speakers_05.part1.json"
+  },
+  "78": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "parens, inner thought",
+   "source": "register/speakers_05.part1.json"
+  },
+  "84": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 212",
+   "source": "register/speakers_05.part1.json"
+  },
+  "86": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 216",
+   "source": "register/speakers_05.part1.json"
+  },
+  "87": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 218",
+   "source": "register/speakers_05.part1.json"
+  },
+  "88": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "skeptical reaction",
+   "source": "register/speakers_05.part1.json"
+  },
+  "89": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 221",
+   "source": "register/speakers_05.part1.json"
+  },
+  "90": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part1.json"
+  },
+  "91": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part1.json"
+  },
+  "92": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 227",
+   "source": "register/speakers_05.part1.json"
+  },
+  "94": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part1.json"
+  },
+  "96": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part1.json"
+  },
+  "97": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 233",
+   "source": "register/speakers_05.part1.json"
+  },
+  "98": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part1.json"
+  },
+  "99": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 236",
+   "source": "register/speakers_05.part1.json"
+  },
+  "100": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "dismissive reply",
+   "source": "register/speakers_05.part1.json"
+  },
+  "101": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 239",
+   "source": "register/speakers_05.part1.json"
+  },
+  "102": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 241",
+   "source": "register/speakers_05.part1.json"
+  },
+  "103": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "answering with the date reference",
+   "source": "register/speakers_05.part1.json"
+  },
+  "105": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 244, leads into Higashi's 'you' reply",
+   "source": "register/speakers_05.part1.json"
+  },
+  "107": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continuing reflection",
+   "source": "register/speakers_05.part1.json"
+  },
+  "108": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 249",
+   "source": "register/speakers_05.part1.json"
+  },
+  "110": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 253",
+   "source": "register/speakers_05.part1.json"
+  },
+  "112": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, mentions Kaito's old arcade",
+   "source": "register/speakers_05.part1.json"
+  },
+  "113": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "defensive reaction, touched a nerve",
+   "source": "register/speakers_05.part1.json"
+  },
+  "114": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part1.json"
+  },
+  "115": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 258",
+   "source": "register/speakers_05.part1.json"
+  },
+  "116": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 260",
+   "source": "register/speakers_05.part1.json"
+  },
+  "117": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 262",
+   "source": "register/speakers_05.part1.json"
+  },
+  "118": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 264",
+   "source": "register/speakers_05.part1.json"
+  },
+  "119": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part1.json"
+  },
+  "120": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "conceding the point",
+   "source": "register/speakers_05.part1.json"
+  },
+  "121": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part1.json"
+  },
+  "123": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continuing question",
+   "source": "register/speakers_05.part1.json"
+  },
+  "124": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "hostile deflection, matches 256's defensiveness",
+   "source": "register/speakers_05.part1.json"
+  },
+  "129": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "responding to Yagami's phone report",
+   "source": "register/speakers_05.part1.json"
+  },
+  "130": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 281",
+   "source": "register/speakers_05.part1.json"
+  },
+  "131": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 283",
+   "source": "register/speakers_05.part1.json"
+  },
+  "132": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 285",
+   "source": "register/speakers_05.part1.json"
+  },
+  "133": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 287",
+   "source": "register/speakers_05.part1.json"
+  },
+  "134": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 289",
+   "source": "register/speakers_05.part1.json"
+  },
+  "135": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 291",
+   "source": "register/speakers_05.part1.json"
+  },
+  "136": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 293",
+   "source": "register/speakers_05.part1.json"
+  },
+  "138": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part1.json"
+  },
+  "139": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part1.json"
+  },
+  "140": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "addressing Kaito about his expulsion",
+   "source": "register/speakers_05.part1.json"
+  },
+  "141": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "prompting Yagami to continue",
+   "source": "register/speakers_05.part1.json"
+  },
+  "142": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 299",
+   "source": "register/speakers_05.part1.json"
+  },
+  "143": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 301",
+   "source": "register/speakers_05.part1.json"
+  },
+  "144": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asking what happened after",
+   "source": "register/speakers_05.part1.json"
+  },
+  "145": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "mentions Ayabe as his source",
+   "source": "register/speakers_05.part1.json"
+  },
+  "146": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 305",
+   "source": "register/speakers_05.part1.json"
+  },
+  "147": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "recalling his own past deal with Ayabe (matches R05-0380 callback)",
+   "source": "register/speakers_05.part1.json"
+  },
+  "148": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues 307; note TH uses ผม not established ฉัน, see findings",
+   "source": "register/speakers_05.part1.json"
+  },
+  "149": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 309",
+   "source": "register/speakers_05.part1.json"
+  },
+  "150": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "pointing Yagami to Tender",
+   "source": "register/speakers_05.part1.json"
+  },
+  "151": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 312",
+   "source": "register/speakers_05.part1.json"
+  },
+  "152": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 314",
+   "source": "register/speakers_05.part1.json"
+  },
+  "153": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "explaining why he avoided Higashi",
+   "source": "register/speakers_05.part1.json"
+  },
+  "154": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 317",
+   "source": "register/speakers_05.part1.json"
+  },
+  "156": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 320",
+   "source": "register/speakers_05.part1.json"
+  },
+  "157": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "answering with resignation",
+   "source": "register/speakers_05.part1.json"
+  },
+  "158": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 323",
+   "source": "register/speakers_05.part1.json"
+  },
+  "159": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questioning extent of Hamura's anger",
+   "source": "register/speakers_05.part1.json"
+  },
+  "160": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 326",
+   "source": "register/speakers_05.part1.json"
+  },
+  "161": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 328",
+   "source": "register/speakers_05.part1.json"
+  },
+  "162": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 330",
+   "source": "register/speakers_05.part1.json"
+  },
+  "163": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "resigned closing remark",
+   "source": "register/speakers_05.part1.json"
+  },
+  "169": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 341",
+   "source": "register/speakers_05.part1.json"
+  },
+  "170": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 343",
+   "source": "register/speakers_05.part1.json"
+  },
+  "171": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 345",
+   "source": "register/speakers_05.part1.json"
+  },
+  "172": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 347",
+   "source": "register/speakers_05.part1.json"
+  },
+  "173": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 349",
+   "source": "register/speakers_05.part1.json"
+  },
+  "174": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 351",
+   "source": "register/speakers_05.part2.json"
+  },
+  "175": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part2.json"
+  },
+  "176": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "teasing Yagami",
+   "source": "register/speakers_05.part2.json"
+  },
+  "178": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 357",
+   "source": "register/speakers_05.part2.json"
+  },
+  "179": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 359",
+   "source": "register/speakers_05.part2.json"
+  },
+  "180": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 361",
+   "source": "register/speakers_05.part2.json"
+  },
+  "181": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "gives job location",
+   "source": "register/speakers_05.part2.json"
+  },
+  "183": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "confirming timing",
+   "source": "register/speakers_05.part2.json"
+  },
+  "184": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม, will notify about Ayabe",
+   "source": "register/speakers_05.part2.json"
+  },
+  "185": {
+   "speaker": "tender_master",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 366, addresses 'Yagami'",
+   "source": "register/speakers_05.part2.json"
+  },
+  "186": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 368",
+   "source": "register/speakers_05.part2.json"
+  },
+  "191": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "answering the phone",
+   "source": "register/speakers_05.part2.json"
+  },
+  "192": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part2.json"
+  },
+  "193": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 377, กู",
+   "source": "register/speakers_05.part2.json"
+  },
+  "194": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses มึง",
+   "source": "register/speakers_05.part2.json"
+  },
+  "195": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 380",
+   "source": "register/speakers_05.part2.json"
+  },
+  "196": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "prompting Yagami to continue",
+   "source": "register/speakers_05.part2.json"
+  },
+  "197": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part2.json"
+  },
+  "198": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses กู",
+   "source": "register/speakers_05.part2.json"
+  },
+  "199": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "confirming what Kaito told him",
+   "source": "register/speakers_05.part2.json"
+  },
+  "200": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses กู",
+   "source": "register/speakers_05.part2.json"
+  },
+  "201": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 389",
+   "source": "register/speakers_05.part2.json"
+  },
+  "202": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses กู x3",
+   "source": "register/speakers_05.part2.json"
+  },
+  "203": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, will drop by tomorrow",
+   "source": "register/speakers_05.part2.json"
+  },
+  "212": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 402",
+   "source": "register/speakers_05.part2.json"
+  },
+  "213": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "startled reaction to Ayabe appearing",
+   "source": "register/speakers_05.part2.json"
+  },
+  "214": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 405",
+   "source": "register/speakers_05.part2.json"
+  },
+  "215": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part2.json"
+  },
+  "216": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 408",
+   "source": "register/speakers_05.part2.json"
+  },
+  "217": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses มึง",
+   "source": "register/speakers_05.part2.json"
+  },
+  "218": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues 410",
+   "source": "register/speakers_05.part2.json"
+  },
+  "219": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues explanation",
+   "source": "register/speakers_05.part2.json"
+  },
+  "220": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt pairing of confirmed R05-0413 Kaito line",
+   "source": "register/speakers_05.part2.json"
+  },
+  "221": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses กู",
+   "source": "register/speakers_05.part2.json"
+  },
+  "222": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "demanding payment",
+   "source": "register/speakers_05.part2.json"
+  },
+  "223": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "confirming payment amount",
+   "source": "register/speakers_05.part2.json"
+  },
+  "224": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "thanks for payment",
+   "source": "register/speakers_05.part2.json"
+  },
+  "227": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 423",
+   "source": "register/speakers_05.part2.json"
+  },
+  "228": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "dry remark at Ayabe's boast",
+   "source": "register/speakers_05.part2.json"
+  },
+  "229": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 426",
+   "source": "register/speakers_05.part2.json"
+  },
+  "230": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues re: remodeling",
+   "source": "register/speakers_05.part2.json"
+  },
+  "231": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of confirmed R05-0429 Kaito line",
+   "source": "register/speakers_05.part2.json"
+  },
+  "232": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part2.json"
+  },
+  "233": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 432",
+   "source": "register/speakers_05.part2.json"
+  },
+  "234": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 434",
+   "source": "register/speakers_05.part2.json"
+  },
+  "235": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues narration",
+   "source": "register/speakers_05.part2.json"
+  },
+  "236": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 437",
+   "source": "register/speakers_05.part2.json"
+  },
+  "237": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 439",
+   "source": "register/speakers_05.part2.json"
+  },
+  "238": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "asking why Kaito didn't fight back",
+   "source": "register/speakers_05.part2.json"
+  },
+  "239": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 442",
+   "source": "register/speakers_05.part2.json"
+  },
+  "240": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 444",
+   "source": "register/speakers_05.part2.json"
+  },
+  "241": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 446",
+   "source": "register/speakers_05.part2.json"
+  },
+  "242": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 448",
+   "source": "register/speakers_05.part2.json"
+  },
+  "243": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part2.json"
+  },
+  "244": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 451",
+   "source": "register/speakers_05.part2.json"
+  },
+  "245": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 453",
+   "source": "register/speakers_05.part2.json"
+  },
+  "246": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, leads to inside-contact conclusion",
+   "source": "register/speakers_05.part2.json"
+  },
+  "247": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses กู",
+   "source": "register/speakers_05.part2.json"
+  },
+  "248": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 458",
+   "source": "register/speakers_05.part2.json"
+  },
+  "249": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part2.json"
+  },
+  "250": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 462",
+   "source": "register/speakers_05.part2.json"
+  },
+  "252": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses กู",
+   "source": "register/speakers_05.part2.json"
+  },
+  "254": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses กู",
+   "source": "register/speakers_05.part2.json"
+  },
+  "255": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 468",
+   "source": "register/speakers_05.part2.json"
+  },
+  "257": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "reveals the name",
+   "source": "register/speakers_05.part2.json"
+  },
+  "258": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 471",
+   "source": "register/speakers_05.part2.json"
+  },
+  "260": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 475",
+   "source": "register/speakers_05.part2.json"
+  },
+  "262": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 479",
+   "source": "register/speakers_05.part2.json"
+  },
+  "263": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 481",
+   "source": "register/speakers_05.part2.json"
+  },
+  "264": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 483",
+   "source": "register/speakers_05.part2.json"
+  },
+  "265": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 485",
+   "source": "register/speakers_05.part2.json"
+  },
+  "266": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 487",
+   "source": "register/speakers_05.part2.json"
+  },
+  "267": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part2.json"
+  },
+  "268": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 490, 'went to you'",
+   "source": "register/speakers_05.part2.json"
+  },
+  "269": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses มึง",
+   "source": "register/speakers_05.part2.json"
+  },
+  "270": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "explaining his deduction",
+   "source": "register/speakers_05.part2.json"
+  },
+  "271": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 495",
+   "source": "register/speakers_05.part2.json"
+  },
+  "272": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 497",
+   "source": "register/speakers_05.part2.json"
+  },
+  "273": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "reveals Red Nose identity",
+   "source": "register/speakers_05.part2.json"
+  },
+  "274": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 500",
+   "source": "register/speakers_05.part2.json"
+  },
+  "275": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part2.json"
+  },
+  "276": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 503",
+   "source": "register/speakers_05.part2.json"
+  },
+  "278": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 507",
+   "source": "register/speakers_05.part2.json"
+  },
+  "279": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "narrating outcome",
+   "source": "register/speakers_05.part2.json"
+  },
+  "280": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 510",
+   "source": "register/speakers_05.part2.json"
+  },
+  "281": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 512",
+   "source": "register/speakers_05.part2.json"
+  },
+  "283": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 516",
+   "source": "register/speakers_05.part2.json"
+  },
+  "284": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "noncommittal response",
+   "source": "register/speakers_05.part2.json"
+  },
+  "285": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 519",
+   "source": "register/speakers_05.part2.json"
+  },
+  "286": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 521",
+   "source": "register/speakers_05.part2.json"
+  },
+  "287": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 523, same ฉัน issue",
+   "source": "register/speakers_05.part2.json"
+  },
+  "291": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม+ครับ, asking homeless NPC",
+   "source": "register/speakers_05.part2.json"
+  },
+  "292": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "high",
+   "why": "generic homeless NPC answering",
+   "source": "register/speakers_05.part2.json"
+  },
+  "293": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "294": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "offering to ask friends",
+   "source": "register/speakers_05.part2.json"
+  },
+  "295": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "296": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "agreeing to ask around",
+   "source": "register/speakers_05.part2.json"
+  },
+  "297": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "298": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "asking a favor in return",
+   "source": "register/speakers_05.part2.json"
+  },
+  "299": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 539",
+   "source": "register/speakers_05.part2.json"
+  },
+  "300": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "301": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 542",
+   "source": "register/speakers_05.part2.json"
+  },
+  "302": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "shared string, brief question",
+   "source": "register/speakers_05.part2.json"
+  },
+  "303": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 545",
+   "source": "register/speakers_05.part2.json"
+  },
+  "304": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 547",
+   "source": "register/speakers_05.part2.json"
+  },
+  "305": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 549",
+   "source": "register/speakers_05.part2.json"
+  },
+  "306": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 551",
+   "source": "register/speakers_05.part2.json"
+  },
+  "307": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 553",
+   "source": "register/speakers_05.part2.json"
+  },
+  "308": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 555, TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "309": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "mentions friends who tried",
+   "source": "register/speakers_05.part2.json"
+  },
+  "310": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 558",
+   "source": "register/speakers_05.part2.json"
+  },
+  "311": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 560",
+   "source": "register/speakers_05.part2.json"
+  },
+  "312": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 562",
+   "source": "register/speakers_05.part2.json"
+  },
+  "313": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ, greeting new NPC",
+   "source": "register/speakers_05.part2.json"
+  },
+  "315": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "316": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 567",
+   "source": "register/speakers_05.part2.json"
+  },
+  "317": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 569",
+   "source": "register/speakers_05.part2.json"
+  },
+  "318": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asking where he went",
+   "source": "register/speakers_05.part2.json"
+  },
+  "319": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of R05-0572 (see findings, mislabeled saori)",
+   "source": "register/speakers_05.part2.json"
+  },
+  "320": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 574",
+   "source": "register/speakers_05.part2.json"
+  },
+  "321": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 576",
+   "source": "register/speakers_05.part2.json"
+  },
+  "322": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ, approaching next NPC",
+   "source": "register/speakers_05.part2.json"
+  },
+  "323": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "low",
+   "why": "shared string, brief prompt",
+   "source": "register/speakers_05.part2.json"
+  },
+  "324": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 580",
+   "source": "register/speakers_05.part2.json"
+  },
+  "325": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "doesn't know, just moved here",
+   "source": "register/speakers_05.part2.json"
+  },
+  "326": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "327": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ, approaching next NPC",
+   "source": "register/speakers_05.part2.json"
+  },
+  "330": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part2.json"
+  },
+  "331": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 588",
+   "source": "register/speakers_05.part2.json"
+  },
+  "332": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 590",
+   "source": "register/speakers_05.part2.json"
+  },
+  "333": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "shared string, brief reaction",
+   "source": "register/speakers_05.part2.json"
+  },
+  "334": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ, approaching next NPC",
+   "source": "register/speakers_05.part2.json"
+  },
+  "336": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 596",
+   "source": "register/speakers_05.part2.json"
+  },
+  "337": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 598",
+   "source": "register/speakers_05.part2.json"
+  },
+  "338": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 600",
+   "source": "register/speakers_05.part2.json"
+  },
+  "339": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 602",
+   "source": "register/speakers_05.part2.json"
+  },
+  "340": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "low",
+   "why": "shared string, brief acknowledgment",
+   "source": "register/speakers_05.part2.json"
+  },
+  "342": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "parens, inner thought",
+   "source": "register/speakers_05.part2.json"
+  },
+  "345": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 612",
+   "source": "register/speakers_05.part2.json"
+  },
+  "346": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 614",
+   "source": "register/speakers_05.part2.json"
+  },
+  "347": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 616",
+   "source": "register/speakers_05.part2.json"
+  },
+  "348": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 618",
+   "source": "register/speakers_05.part2.json"
+  },
+  "349": {
+   "speaker": "homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, leads into tegakari_homeless entrance",
+   "source": "register/speakers_05.part2.json"
+  },
+  "352": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "353": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "answering about Red Nose",
+   "source": "register/speakers_05.part2.json"
+  },
+  "354": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 626",
+   "source": "register/speakers_05.part2.json"
+  },
+  "355": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues 626-627",
+   "source": "register/speakers_05.part2.json"
+  },
+  "356": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 629",
+   "source": "register/speakers_05.part2.json"
+  },
+  "357": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 631",
+   "source": "register/speakers_05.part2.json"
+  },
+  "358": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 633",
+   "source": "register/speakers_05.part2.json"
+  },
+  "362": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 638",
+   "source": "register/speakers_05.part2.json"
+  },
+  "363": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part2.json"
+  },
+  "364": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 642",
+   "source": "register/speakers_05.part2.json"
+  },
+  "365": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 644",
+   "source": "register/speakers_05.part2.json"
+  },
+  "366": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "confirming",
+   "source": "register/speakers_05.part2.json"
+  },
+  "367": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 647",
+   "source": "register/speakers_05.part2.json"
+  },
+  "368": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 649",
+   "source": "register/speakers_05.part2.json"
+  },
+  "369": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ, next NPC",
+   "source": "register/speakers_05.part2.json"
+  },
+  "371": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 654",
+   "source": "register/speakers_05.part2.json"
+  },
+  "372": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 656",
+   "source": "register/speakers_05.part2.json"
+  },
+  "373": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 658",
+   "source": "register/speakers_05.part2.json"
+  },
+  "375": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 662",
+   "source": "register/speakers_05.part2.json"
+  },
+  "378": {
+   "speaker": "?",
+   "gender": "male",
+   "conf": "med",
+   "why": "ambush thug taunting before the fight",
+   "source": "register/speakers_05.part2.json"
+  },
+  "381": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 672",
+   "source": "register/speakers_05.part2.json"
+  },
+  "382": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 674",
+   "source": "register/speakers_05.part2.json"
+  },
+  "383": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "revealing he's dead",
+   "source": "register/speakers_05.part2.json"
+  },
+  "384": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part2.json"
+  },
+  "385": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "explains discovery of body",
+   "source": "register/speakers_05.part2.json"
+  },
+  "386": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 679",
+   "source": "register/speakers_05.part2.json"
+  },
+  "387": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 681",
+   "source": "register/speakers_05.part2.json"
+  },
+  "388": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "no, didn't report to police",
+   "source": "register/speakers_05.part2.json"
+  },
+  "389": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues 683",
+   "source": "register/speakers_05.part2.json"
+  },
+  "390": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 685",
+   "source": "register/speakers_05.part2.json"
+  },
+  "391": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 687",
+   "source": "register/speakers_05.part2.json"
+  },
+  "393": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part2.json"
+  },
+  "394": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 690",
+   "source": "register/speakers_05.part2.json"
+  },
+  "395": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 692",
+   "source": "register/speakers_05.part2.json"
+  },
+  "396": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 694",
+   "source": "register/speakers_05.part2.json"
+  },
+  "397": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 696",
+   "source": "register/speakers_05.part2.json"
+  },
+  "398": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 698",
+   "source": "register/speakers_05.part2.json"
+  },
+  "400": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 702",
+   "source": "register/speakers_05.part3.json"
+  },
+  "401": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 704",
+   "source": "register/speakers_05.part3.json"
+  },
+  "402": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "greeting Kaito's arrival",
+   "source": "register/speakers_05.part3.json"
+  },
+  "403": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 707",
+   "source": "register/speakers_05.part3.json"
+  },
+  "404": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 709",
+   "source": "register/speakers_05.part3.json"
+  },
+  "405": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 711",
+   "source": "register/speakers_05.part3.json"
+  },
+  "406": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 713",
+   "source": "register/speakers_05.part3.json"
+  },
+  "407": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "TH uses ครับ",
+   "source": "register/speakers_05.part3.json"
+  },
+  "408": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 716, ฉัน",
+   "source": "register/speakers_05.part3.json"
+  },
+  "409": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 718",
+   "source": "register/speakers_05.part3.json"
+  },
+  "410": {
+   "speaker": "tegakari_homeless",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 720",
+   "source": "register/speakers_05.part3.json"
+  },
+  "412": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "413": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 723",
+   "source": "register/speakers_05.part3.json"
+  },
+  "415": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 725",
+   "source": "register/speakers_05.part3.json"
+  },
+  "416": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 727",
+   "source": "register/speakers_05.part3.json"
+  },
+  "417": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 729",
+   "source": "register/speakers_05.part3.json"
+  },
+  "420": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "423": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "explains theory about a contact",
+   "source": "register/speakers_05.part3.json"
+  },
+  "425": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 737",
+   "source": "register/speakers_05.part3.json"
+  },
+  "426": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues theory",
+   "source": "register/speakers_05.part3.json"
+  },
+  "427": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "428": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 742",
+   "source": "register/speakers_05.part3.json"
+  },
+  "429": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "confirming",
+   "source": "register/speakers_05.part3.json"
+  },
+  "430": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "questioning who'd do this",
+   "source": "register/speakers_05.part3.json"
+  },
+  "431": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 746",
+   "source": "register/speakers_05.part3.json"
+  },
+  "434": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 748",
+   "source": "register/speakers_05.part3.json"
+  },
+  "435": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 750",
+   "source": "register/speakers_05.part3.json"
+  },
+  "436": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ฉัน",
+   "source": "register/speakers_05.part3.json"
+  },
+  "437": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 754",
+   "source": "register/speakers_05.part3.json"
+  },
+  "438": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 756",
+   "source": "register/speakers_05.part3.json"
+  },
+  "439": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 758",
+   "source": "register/speakers_05.part3.json"
+  },
+  "440": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 760",
+   "source": "register/speakers_05.part3.json"
+  },
+  "441": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 762",
+   "source": "register/speakers_05.part3.json"
+  },
+  "442": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 764",
+   "source": "register/speakers_05.part3.json"
+  },
+  "445": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 768",
+   "source": "register/speakers_05.part3.json"
+  },
+  "446": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 770",
+   "source": "register/speakers_05.part3.json"
+  },
+  "447": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 772",
+   "source": "register/speakers_05.part3.json"
+  },
+  "448": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "449": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 776",
+   "source": "register/speakers_05.part3.json"
+  },
+  "451": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 778",
+   "source": "register/speakers_05.part3.json"
+  },
+  "452": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 780",
+   "source": "register/speakers_05.part3.json"
+  },
+  "453": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 782",
+   "source": "register/speakers_05.part3.json"
+  },
+  "454": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 784",
+   "source": "register/speakers_05.part3.json"
+  },
+  "457": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 788",
+   "source": "register/speakers_05.part3.json"
+  },
+  "458": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "459": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "460": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "color=monologue tag",
+   "source": "register/speakers_05.part3.json"
+  },
+  "461": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 793",
+   "source": "register/speakers_05.part3.json"
+  },
+  "462": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 795",
+   "source": "register/speakers_05.part3.json"
+  },
+  "463": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 797",
+   "source": "register/speakers_05.part3.json"
+  },
+  "465": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues after confirmed Kaito 799",
+   "source": "register/speakers_05.part3.json"
+  },
+  "466": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 801",
+   "source": "register/speakers_05.part3.json"
+  },
+  "467": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 803",
+   "source": "register/speakers_05.part3.json"
+  },
+  "468": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 805",
+   "source": "register/speakers_05.part3.json"
+  },
+  "470": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "474": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 811",
+   "source": "register/speakers_05.part3.json"
+  },
+  "475": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "476": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses แก, names Higashi",
+   "source": "register/speakers_05.part3.json"
+  },
+  "477": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 817",
+   "source": "register/speakers_05.part3.json"
+  },
+  "478": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 819",
+   "source": "register/speakers_05.part3.json"
+  },
+  "479": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 821",
+   "source": "register/speakers_05.part3.json"
+  },
+  "480": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 823",
+   "source": "register/speakers_05.part3.json"
+  },
+  "482": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 825",
+   "source": "register/speakers_05.part3.json"
+  },
+  "483": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues narration of the murder case",
+   "source": "register/speakers_05.part3.json"
+  },
+  "484": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 828",
+   "source": "register/speakers_05.part3.json"
+  },
+  "485": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacting to the story",
+   "source": "register/speakers_05.part3.json"
+  },
+  "487": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 833",
+   "source": "register/speakers_05.part3.json"
+  },
+  "488": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 835",
+   "source": "register/speakers_05.part3.json"
+  },
+  "489": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 837",
+   "source": "register/speakers_05.part3.json"
+  },
+  "490": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 839",
+   "source": "register/speakers_05.part3.json"
+  },
+  "494": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 845",
+   "source": "register/speakers_05.part3.json"
+  },
+  "495": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 847",
+   "source": "register/speakers_05.part3.json"
+  },
+  "496": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 849",
+   "source": "register/speakers_05.part3.json"
+  },
+  "497": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 851",
+   "source": "register/speakers_05.part3.json"
+  },
+  "498": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 853",
+   "source": "register/speakers_05.part3.json"
+  },
+  "499": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 855",
+   "source": "register/speakers_05.part3.json"
+  },
+  "500": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacting comment",
+   "source": "register/speakers_05.part3.json"
+  },
+  "501": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 858",
+   "source": "register/speakers_05.part3.json"
+  },
+  "502": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 860",
+   "source": "register/speakers_05.part3.json"
+  },
+  "503": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 862",
+   "source": "register/speakers_05.part3.json"
+  },
+  "505": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 864",
+   "source": "register/speakers_05.part3.json"
+  },
+  "506": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 866",
+   "source": "register/speakers_05.part3.json"
+  },
+  "508": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 868",
+   "source": "register/speakers_05.part3.json"
+  },
+  "509": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 870",
+   "source": "register/speakers_05.part3.json"
+  },
+  "510": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 872",
+   "source": "register/speakers_05.part3.json"
+  },
+  "511": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ผม",
+   "source": "register/speakers_05.part3.json"
+  },
+  "513": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 876",
+   "source": "register/speakers_05.part3.json"
+  },
+  "514": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 878, names 'Yagami'",
+   "source": "register/speakers_05.part3.json"
+  },
+  "515": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 880",
+   "source": "register/speakers_05.part3.json"
+  },
+  "516": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses แก addressing Higashi",
+   "source": "register/speakers_05.part3.json"
+  },
+  "518": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 884",
+   "source": "register/speakers_05.part3.json"
+  },
+  "519": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 886",
+   "source": "register/speakers_05.part3.json"
+  },
+  "520": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "TH uses ฉัน",
+   "source": "register/speakers_05.part3.json"
+  },
+  "521": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 890",
+   "source": "register/speakers_05.part3.json"
+  },
+  "523": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 894",
+   "source": "register/speakers_05.part3.json"
+  },
+  "525": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 896",
+   "source": "register/speakers_05.part3.json"
+  },
+  "526": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt of 898",
+   "source": "register/speakers_05.part3.json"
+  },
+  "527": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of 900",
+   "source": "register/speakers_05.part3.json"
+  }
+ }
+}

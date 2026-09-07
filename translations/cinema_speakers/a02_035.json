@@ -46,14 +46,16 @@
   "8": {
    "speaker": "Matsugane henchman",
    "gender": "male",
-   "conf": "low",
-   "why": "Surprised reaction to an interruption; cue names (higashi, bougai_yakuza) suggest a Matsugane-side voice"
+   "conf": "high",
+   "why": "ลูกน้องมัตสึกาเนะตกใจ — role ตรง matsugane_yakuza/matsugane_gaya (male ทั้งหมด, characters_gender.md)",
+   "source": "cinema_low_C2.json"
   },
   "9": {
    "speaker": "Kyohei Hamura",
    "gender": "male",
-   "conf": "low",
-   "why": "Shocked reaction to the interrupter's identity"
+   "conf": "high",
+   "why": "ตกใจเห็น Saotome ('Aren't you!?') ก่อน r10 Saotome พูด 'We gotta go' — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "10": {
    "speaker": "Yosuke Saotome",
@@ -64,14 +66,16 @@
   "11": {
    "speaker": "Matsugane thug",
    "gender": "male",
-   "conf": "low",
-   "why": "Orders pursuit of the escaping pair"
+   "conf": "high",
+   "why": "สั่งไล่ล่าหลัง Saotome พา Yagami หนี (r10) — role ตรง matsugane_yakuza/gaya (male)",
+   "source": "cinema_low_C2.json"
   },
   "12": {
    "speaker": "Matsugane thug",
    "gender": "male",
-   "conf": "low",
-   "why": "Continues the pursuit shout from row 11"
+   "conf": "high",
+   "why": "ต่อเนื่องคำสั่งไล่ล่าจาก r11 — role male เดียวกัน",
+   "source": "cinema_low_C2.json"
   }
  }
 }

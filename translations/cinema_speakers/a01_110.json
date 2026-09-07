@@ -142,8 +142,9 @@
   "24": {
    "speaker": "Seiya",
    "gender": "male",
-   "conf": "low",
-   "why": "Witness hesitates before lawyer notices in row 25; hint conflict (cue mixed, talk=Yagami likely generic 'Hm?' reuse)"
+   "conf": "high",
+   "why": "พยานบนแท่น ต่อเนื่องจาก r20-21 (Seiya ตอบ Yes/It is) ก่อน r25 Shintani ถามว่ามีปัญหาไหม — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "25": {
    "speaker": "Shintani",
@@ -154,14 +155,16 @@
   "26": {
    "speaker": "Seiya",
    "gender": "male",
-   "conf": "low",
-   "why": "Witness's hesitant reply continuing from row 25; hint conflict (cue=female(saori), talk=Sana) likely a generic reused 'I, um...' bark, but Seiya is the witness on the stand per row 18"
+   "conf": "high",
+   "why": "ตอบคำถาม Shintani ที่ r25 ('Witness, is there a problem?') — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "27": {
    "speaker": "Seiya",
    "gender": "male",
-   "conf": "low",
-   "why": "Continues witness's hesitation"
+   "conf": "high",
+   "why": "ต่อเนื่องความลังเลจาก r26 ก่อน r28 'I must have been mistaken' (Seiya เดิม) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "28": {
    "speaker": "Seiya",

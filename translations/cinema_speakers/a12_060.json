@@ -1,8 +1,24 @@
 {
  "scene": "a12_060",
  "rows": {
-  "1": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami hint (same line as a12_040 row 24); angry reaction to the corruption just revealed"},
-  "2": {"speaker": "Toru Higashi", "gender": "male", "conf": "high", "why": "cue=male(higashi) (same line as a12_040 row 25); worried address to Kaito ('Aniki...')"},
-  "3": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "low", "why": "Same line as a12_040 row 26; likely Kaito's own furious reaction following Higashi's concerned 'Aniki...' in row 2"}
+  "1": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami hint (same line as a12_040 row 24); angry reaction to the corruption just revealed"
+  },
+  "2": {
+   "speaker": "Toru Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(higashi) (same line as a12_040 row 25); worried address to Kaito ('Aniki...')"
+  },
+  "3": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "บทซ้ำกับ a12_040 r26 — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  }
  }
 }

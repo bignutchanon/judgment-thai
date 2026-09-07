@@ -1,0 +1,184 @@
+{
+ "rarabai_weak00": {
+  "name": "No-Good Tora",
+  "gender": "male",
+  "conf": "low",
+  "why": "[lead 7 ก.ย. 2026: นามสกุล+โทนบทพูดไม่พอตามกติกา §0.1 → คงไม่รู้เพศ] เว็บ (Fandom Mahjong, GameFAQs, TVTropes, kamigame, gamewith, gameranbu, h1g.jp) ไม่มีข้อมูลตัวละครนี้เจาะจง (เป็น NPC ฉากมาจองทั่วไป ไม่มีใครทำวิกิ) · ชื่อ 'Tora' (虎) เป็นชื่อตัวที่ใช้กับผู้ชายตามธรรมเนียมญี่ปุ่น + โทนบทพูดห้าวดุดันแบบนักเลง ('Don't fuck with me!', 'I'll fight till the bitter end!') สอดคล้องกับภาพขี้แพ้จอมพาลชาย สองทางสอดคล้องกัน",
+  "source": "ชื่อ Tora + บทพูด 'Don't fuck with me!' ('ตอนผู้เล่นจั่วได้') ใน mahjong_npc_work.md"
+ },
+ "rarabai_weak01": {
+  "name": "Lame Duck Sudo",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Sudo เป็นนามสกุลญี่ปุ่นทั่วไป ไม่บ่งเพศ · บทพูดทั้ง 10 บรรทัดกลาง ๆ ไม่มีคำเรียกตัวเอง ความสัมพันธ์ หรือโทนเสียงที่บ่งเพศทางใดทางหนึ่ง พิสูจน์ไม่ได้",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "rarabai_weak02": {
+  "name": "Ravenous Harai",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Harai เป็นนามสกุล ไม่บ่งเพศ · บทพูดโอ้อวดมั่นใจ ('I got skill AND luck.', 'Take that!') เป็นได้ทั้งสองเพศ ไม่ชี้ชัด",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "rarabai_weak03": {
+  "name": "Early Tsumo Ogin",
+  "gender": "female",
+  "conf": "med",
+  "why": "เว็บไม่มีข้อมูลเจาะจง · ชื่อ 'Ogin' (お銀) เป็นรูปแบบชื่อผู้หญิงยุคเก่าขึ้นต้นด้วย お (แบบเดียวกับ Oiwa/Osame ในนิทานพื้นบ้านญี่ปุ่น) ใช้กับตัวละครหญิงสูงอายุแทบทั้งหมด + โทนบทพูดออกคำสั่ง/บ่น/นินทาแบบป้าจอมบงการ ('Gimme some tea!', 'I'll teach you some manners.', นินทา 'His wife's useless...') สองทางสอดคล้องไปทางหญิง",
+  "source": "ชื่อ Ogin + บทพูด 'Gimme some tea!' และ 'His wife's useless...' ใน mahjong_npc_work.md"
+ },
+ "rarabai_middle00": {
+  "name": "The Lullaby King",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชื่อที่แสดงในเกม (คอลัมน์ text) ระบุคำว่า 'King' ตรงตัว ไม่ใช่ 'Queen' - ถือเป็นข้อความเกมเองยืนยันเพศโดยตรง · บทพูดหยาบกระด้าง ('Shit!', 'What the hell...') ไม่ขัดแย้งกับข้อสรุป",
+  "source": "ชื่อที่แสดงในเกม 'The Lullaby King' (คอลัมน์ text ใน mahjong_npc_work.md)"
+ },
+ "rarabai_middle01": {
+  "name": "Gentle Maeda",
+  "gender": "male",
+  "conf": "low",
+  "why": "[lead 7 ก.ย. 2026: นามสกุล+โทนบทพูดไม่พอตามกติกา §0.1 → คงไม่รู้เพศ] เว็บไม่มีข้อมูล · Maeda เป็นนามสกุล ไม่บ่งเพศ · แต่บทพูดหลายบรรทัดห้าว/กลั่นแกล้งแบบนักเลงข่มขู่ ('We're waitin', dumbass.', 'I'mma make ya cry.', 'Learn some tact, dimwit.') สม่ำเสมอตลอดชุด ไม่มีร่องรอยน้ำเสียงหญิงเลย · ฉายา 'Gentle' เป็นการประชดตรงข้ามนิสัยจริง (รูปแบบเดียวกับฉายาอื่นในชุดนี้)",
+  "source": "บทพูด 'We're waitin', dumbass.' / 'I'mma make ya cry.' / 'Learn some tact, dimwit.' ใน mahjong_npc_work.md"
+ },
+ "rarabai_middle02": {
+  "name": "Lightning Fast Nesumi",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · 'Nesumi' ไม่ใช่ชื่อที่บ่งเพศชัดเจน (อาจเล่นคำจาก nezumi=หนู ตามฉายา Lightning Fast) · บทพูดทั้งชุดไม่มีร่องรอยเพศ",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "rarabai_middle03": {
+  "name": "Hysterical Sanada",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Sanada เป็นนามสกุล ไม่บ่งเพศ (แม้พ้องกับซานาดะ ยูกิมูระซึ่งเป็นชาย แต่ในฐานะนามสกุลตัวละครนี้ไม่ได้บ่งเพศ) · ฉายา 'Hysterical' มีรากศัพท์เชื่อมกับผู้หญิงในอดีตแต่ปัจจุบันใช้กลาง ๆ นับเป็นหลักฐานไม่ได้ · บทพูดโอ้อวดกลาง ๆ ไม่ชี้ชัด",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "souten_middle00": {
+  "name": "Shrewd Domoto",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Domoto เป็นนามสกุล ไม่บ่งเพศ · บทพูดบ่นเรื่องดวง/ตกใจ ('That's no fair!', 'Almost had a heart attack!') เป็นได้ทั้งสองเพศ ไม่ชี้ชัด",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "souten_middle01": {
+  "name": "Steady Kiyoko",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูลเจาะจง · ชื่อ Kiyoko ลงท้าย -ko เป็นหลักฐานอ่อนตามกติกาโปรเจกต์ ต้องมีอย่างอื่นประกอบจึงจะถึง conf med แต่บทพูดทั้ง 10 บรรทัดเป็นโทนสุขุมคำนวณล้วน ๆ ('Nothing personal.', '...All according to plan.') ไม่มีร่องรอยเพศเสริมเลย จึงไม่ถึงเกณฑ์",
+  "source": "ไม่พบ - มีแค่ชื่อ -ko อย่างเดียว ไม่พอ"
+ },
+ "souten_middle02": {
+  "name": "Ambitious Mamiko",
+  "gender": "female",
+  "conf": "med",
+  "why": "เว็บไม่มีข้อมูลเจาะจง · ชื่อ Mamiko ลงท้าย -ko (หลักฐานอ่อน) + เนื้อหาบทพูดสอดคล้องไปทางเดียวกันหลายจุด: พูดถึงนัดเดต ('I've got a date after this.'), สำนวน 'Think I'm easy? Wrong!' (สำนวนแก้ต่างการถูกมองข้ามที่มักผูกกับตัวละครหญิง), และโทนเอ็นดู-สงสารแบบหวาน ๆ ('Aww, I feel sorry for you.') รวมกันหลายจุดสอดคล้องไปทางหญิง",
+  "source": "ชื่อ Mamiko + บทพูด 'I've got a date after this.' / 'Think I'm easy? Wrong!' / 'Aww, I feel sorry for you.' ใน mahjong_npc_work.md"
+ },
+ "souten_middle03": {
+  "name": "Bluffing Sakamoto",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Sakamoto เป็นนามสกุล ไม่บ่งเพศ · มีคำหยาบท้ายประโยคจุดเดียว ('...Well, I'm fucked.') ไม่พอจะสรุปเพศ",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "souten_strong00": {
+  "name": "Conquering Nagumo",
+  "gender": "male",
+  "conf": "low",
+  "why": "[lead 7 ก.ย. 2026: นามสกุล+โทนบทพูดไม่พอตามกติกา §0.1 → คงไม่รู้เพศ] เว็บไม่มีข้อมูล · Nagumo เป็นนามสกุล ไม่บ่งเพศโดยตรง แต่ฉายา 'Conquering' เชิงพิชิต/ครอบครอง ผสานกับบทพูดโอ้อวดแบบผู้ชาย 'I'm flexing my mahjong muscle.' (สำนวนโชว์กล้าม) และคำเรียก 'That's far out, man.' สองทางสอดคล้องไปทางชาย",
+  "source": "บทพูด 'I'm flexing my mahjong muscle.' / 'That's far out, man.' ใน mahjong_npc_work.md"
+ },
+ "souten_strong01": {
+  "name": "Barely-Here Yoshiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "[lead 7 ก.ย. 2026: นามสกุล+โทนบทพูดไม่พอตามกติกา §0.1 → คงไม่รู้เพศ] เว็บไม่มีข้อมูล · Yoshiura เป็นนามสกุล ไม่บ่งเพศ · แต่บทพูดดราม่าเว่อร์แบบพระเอกฮอทบลัด ('The fire of mahjong burns within me.', 'You are the victor.') รวมกับเสียงหัวเราะดังโฮก ๆ 'Ahahahahahaha!' (ต่างชัดจากเสียงหัวเราะคิกคักของตัวละครหญิงในชุดเดียวกัน เช่น Sympathetic Satomi ที่ 'Teeheeheehee!') เข้ากับภาพตัวตลกดราม่าชายที่ไม่มีใครสนใจ ตรงกับฉายา Barely-Here",
+  "source": "บทพูด 'The fire of mahjong burns within me.' / เสียงหัวเราะ 'Ahahahahahaha!' ใน mahjong_npc_work.md"
+ },
+ "souten_strong02": {
+  "name": "Platinum Masako",
+  "gender": "female",
+  "conf": "med",
+  "why": "เว็บไม่มีข้อมูลเจาะจง · ชื่อ Masako ลงท้าย -ko (หลักฐานอ่อน) + โทนบทพูดร่าเริงแบบเด็กสาวชัดเจนตลอดทั้งชุด ('Yayayay, it's time for some fun!', 'Nooo, you're so mean!', 'Yayyy, this is the best!') แบบตัวละครหญิงร่าเริง (genki girl) สองทางสอดคล้องกัน",
+  "source": "บทพูด 'Yayayay, it's time for some fun!' / 'Nooo, you're so mean!' / 'Yayyy, this is the best!' ใน mahjong_npc_work.md"
+ },
+ "souten_strong03": {
+  "name": "Devout Omigawa",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Omigawa เป็นนามสกุล ไม่บ่งเพศ · บทพูดกังวล/หวังลุ้นทั่วไป ('My heart's gonna pop!', 'I hope I can win this one...') เป็นได้ทั้งสองเพศ ไม่ชี้ชัด",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "tachibana_weak00": {
+  "name": "Strongman Kasayama",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชื่อที่แสดงในเกม (คอลัมน์ text) ระบุคำว่า 'Strongman' ตรงตัว ซึ่งในภาษาอังกฤษหมายถึงผู้ชายโดยเฉพาะ (ถ้าเป็นหญิงจะใช้ Strongwoman) - ถือเป็นข้อความเกมเองยืนยันเพศโดยตรง · บทพูดโอ้อวดมั่นใจ ('I'm a mahjong genius.') ไม่ขัดแย้ง",
+  "source": "ชื่อที่แสดงในเกม 'Strongman Kasayama' (คอลัมน์ text ใน mahjong_npc_work.md)"
+ },
+ "tachibana_weak01": {
+  "name": "Sympathetic Satomi",
+  "gender": "female",
+  "conf": "med",
+  "why": "เว็บไม่มีข้อมูลเจาะจง · ชื่อ Satomi เป็นชื่อตัวที่ใช้กับผู้หญิงญี่ปุ่นแทบทั้งหมดตามธรรมเนียม (เป็นชื่อเต็ม ไม่ใช่แค่ลงท้าย -ko) + เสียงหัวเราะคิกคัก 'Teeheeheehee!' และโทนอ่อนโยนออกคำสั่งแบบน่ารัก ('Don't be mean.') สองทางสอดคล้องไปทางหญิง",
+  "source": "ชื่อ Satomi + บทพูด 'Teeheeheehee!' / 'Don't be mean.' ใน mahjong_npc_work.md"
+ },
+ "tachibana_weak02": {
+  "name": "Salmon Lover Sachiko",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูลเจาะจง · ชื่อ Sachiko ลงท้าย -ko เป็นหลักฐานอ่อน แต่เนื้อหาบทพูดที่เหลือกำกวม ('My salary's shit...' แบบมนุษย์เงินเดือนเบื่องาน ซึ่งเป็นได้ทั้งสองเพศ, พกลูกอมในกระเป๋าพบได้ทั้งชาย-หญิงสูงอายุ) ไม่มีจุดสอดคล้องเสริมชื่อ -ko ให้ถึง conf med",
+  "source": "ไม่พบ - มีแค่ชื่อ -ko อย่างเดียว + บทพูดกำกวม ไม่พอ"
+ },
+ "tachibana_middle00": {
+  "name": "Katsu-chompin' Sakata",
+  "gender": "male",
+  "conf": "low",
+  "why": "[lead 7 ก.ย. 2026: นามสกุล+โทนบทพูดไม่พอตามกติกา §0.1 → คงไม่รู้เพศ] เว็บไม่มีข้อมูล · Sakata เป็นนามสกุล ไม่บ่งเพศ · แต่บทพูดส่วนใหญ่ (7 จาก 10 บรรทัด) ใช้สำนวนโบราณแบบนักรบ/ซามูไรสูงวัย ('Silence. We are locked in battle.', 'Enough of your insolence.', 'Well then, let us commence.', 'Pardon me.') ซึ่งบทพูดต้นฉบับญี่ปุ่นลักษณะนี้มักผูกกับสรรพนามที่ใช้กับชายสูงวัยแทบทั้งหมด (เช่น washi/sessha) สม่ำเสมอตลอดชุด",
+  "source": "บทพูด 'Silence. We are locked in battle.' / 'Enough of your insolence.' / 'Well then, let us commence.' ใน mahjong_npc_work.md"
+ },
+ "tachibana_middle01": {
+  "name": "Middling Nakamoto",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Nakamoto เป็นนามสกุล ไม่บ่งเพศ · เรียกคนอื่นว่า 'pal' คำเดียว ไม่พอสรุปเพศ",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "tachibana_middle02": {
+  "name": "Healthy Kotani",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Kotani เป็นนามสกุล ไม่บ่งเพศ · บทพูดกินจุ/ครอบงำ ('I'll eat you alive.', 'I could eat a horse.') เป็นได้ทั้งชายและหญิงร่างใหญ่กินเก่ง ไม่ชี้ชัด",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "tachibana_strong00": {
+  "name": "Jet-black Sasagawa",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Sasagawa เป็นนามสกุล ไม่บ่งเพศ · เรียกคู่ต่อสู้ว่า 'kid' และโอ้อวดแบบนักพนันเก๋าเกม แต่ไม่มีหลักฐานเพศสองทางที่สอดคล้องกัน",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "tachibana_strong01": {
+  "name": "Studious Takato",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูล · Takato อาจเป็นนามสกุลหรือชื่อตัวก็ได้ ไม่ชัดพอ · บทพูดสั้นกลาง ๆ ('*sigh*', 'Muahaha!') ไม่บ่งเพศ",
+  "source": "ไม่พบ - ไม่มีบรรทัดที่ใช้อ้างอิงได้"
+ },
+ "tachibana_strong02": {
+  "name": "Lucky Draw Tomoko",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "เว็บไม่มีข้อมูลเจาะจง · ชื่อ Tomoko ลงท้าย -ko เป็นหลักฐานอ่อน แต่บทพูดที่เหลือเป็นโทนวางแผน/แค้นฝังใจกลาง ๆ ('I'll resent you for this...') และเสียงหัวเราะเจ้าเล่ห์ 'Hehehehehe...' ที่ใช้ได้ทั้งสองเพศ ไม่มีจุดสอดคล้องเสริมชื่อ -ko ให้ถึง conf med",
+  "source": "ไม่พบ - มีแค่ชื่อ -ko อย่างเดียว ไม่พอ"
+ },
+ "tachibana_strong03": {
+  "name": "Veteran Kamatari",
+  "gender": "male",
+  "conf": "low",
+  "why": "[lead 7 ก.ย. 2026: นามสกุล+โทนบทพูดไม่พอตามกติกา §0.1 → คงไม่รู้เพศ] เว็บไม่มีข้อมูลเจาะจงตัวละครนี้ · ชื่อ 'Kamatari' ผูกกับบุคคลชายที่มีชื่อเสียงมากในประวัติศาสตร์ญี่ปุ่น (ฟุจิวาระ โนะ คามาตาริ / นากาโตมิ โนะ คามาตาริ รัฐบุรุษยุคอาสุกะ) แทบไม่เคยใช้เป็นชื่อผู้หญิง + คำเรียกกันเองแบบผู้ชาย 'Man, you're lucky.' สองทางสอดคล้องไปทางชาย",
+  "source": "ชื่อ Kamatari + บทพูด 'Man, you're lucky.' ใน mahjong_npc_work.md"
+ }
+}

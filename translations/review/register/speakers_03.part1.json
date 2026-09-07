@@ -1,0 +1,3047 @@
+[
+ {
+  "id": "R03-0001",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0002",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0005",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "โทนหยาบต่อเนื่องบทที่มี sp01_kjart_man ระบุชื่อ (0003/0004) ชวนไปซ่อมฮีตเตอร์"
+ },
+ {
+  "id": "R03-0006",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "โทนหยาบต่อเนื่องบทที่มี sp01_kjart_man ระบุชื่อ (0003/0004) ชวนไปซ่อมฮีตเตอร์"
+ },
+ {
+  "id": "R03-0007",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ รับบทช่างซ่อม สอดคล้อง T1"
+ },
+ {
+  "id": "R03-0008",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ รับบทช่างซ่อม สอดคล้อง T1"
+ },
+ {
+  "id": "R03-0009",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "พาไปจุดที่ต้องซ่อม"
+ },
+ {
+  "id": "R03-0010",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0011",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตะคอกเรียกให้ตามมาทางนี้"
+ },
+ {
+  "id": "R03-0012",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตะคอกเรียกให้ตามมาทางนี้"
+ },
+ {
+  "id": "R03-0013",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "บ่นหนาวระหว่างพาไปเครื่องปรับอากาศ"
+ },
+ {
+  "id": "R03-0014",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "บ่นหนาวระหว่างพาไปเครื่องปรับอากาศ"
+ },
+ {
+  "id": "R03-0015",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบรับสั้นระหว่างเดินตาม"
+ },
+ {
+  "id": "R03-0016",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0017",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชี้เครื่องที่เสีย"
+ },
+ {
+  "id": "R03-0018",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชี้เครื่องที่เสีย"
+ },
+ {
+  "id": "R03-0019",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ รับบทช่างซ่อม"
+ },
+ {
+  "id": "R03-0020",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ รับบทช่างซ่อม"
+ },
+ {
+  "id": "R03-0021",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0022",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ครับ ตรวจเครื่อง"
+ },
+ {
+  "id": "R03-0023",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ครับ ตรวจเครื่อง"
+ },
+ {
+  "id": "R03-0024",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "เยาะเย้ยแล้วเร่งให้ซ่อม"
+ },
+ {
+  "id": "R03-0025",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "เยาะเย้ยแล้วเร่งให้ซ่อม"
+ },
+ {
+  "id": "R03-0026",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0027",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ท้วงวิธีซ่อม"
+ },
+ {
+  "id": "R03-0028",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ท้วงวิธีซ่อม"
+ },
+ {
+  "id": "R03-0029",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0030",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0031",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ทึ่งที่ซ่อมง่าย"
+ },
+ {
+  "id": "R03-0032",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ทึ่งที่ซ่อมง่าย"
+ },
+ {
+  "id": "R03-0033",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ กล่าวลาแบบช่างซ่อม"
+ },
+ {
+  "id": "R03-0034",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ กล่าวลาแบบช่างซ่อม"
+ },
+ {
+  "id": "R03-0035",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0038",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ อธิบายตัวตนปลอม"
+ },
+ {
+  "id": "R03-0039",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ อธิบายตัวตนปลอม"
+ },
+ {
+  "id": "R03-0040",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตั้งข้อสงสัยว่าไม่ใช่ช่างประจำ ต่อเนื่องบทเดิม"
+ },
+ {
+  "id": "R03-0041",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0042",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามหาช่างประจำตัวจริง"
+ },
+ {
+  "id": "R03-0043",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามหาช่างประจำตัวจริง"
+ },
+ {
+  "id": "R03-0044",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ กลบเกลื่อน"
+ },
+ {
+  "id": "R03-0045",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะโทรเช็กช่างตัวจริง"
+ },
+ {
+  "id": "R03-0046",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะโทรเช็กช่างตัวจริง"
+ },
+ {
+  "id": "R03-0047",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0048",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ แก้ตัวว่าช่างประจำป่วย"
+ },
+ {
+  "id": "R03-0049",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ แก้ตัวว่าช่างประจำป่วย"
+ },
+ {
+  "id": "R03-0050",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "เพิ่งคุยกับช่างตัวจริงทางโทรศัพท์"
+ },
+ {
+  "id": "R03-0051",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "เพิ่งคุยกับช่างตัวจริงทางโทรศัพท์"
+ },
+ {
+  "id": "R03-0052",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ แก้ตัวต่อ"
+ },
+ {
+  "id": "R03-0053",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ แก้ตัวต่อ"
+ },
+ {
+  "id": "R03-0054",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0055",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตั้งข้อสงสัยว่าเป็นสายลับ/เรียกพวกมาช่วย"
+ },
+ {
+  "id": "R03-0056",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตั้งข้อสงสัยว่าเป็นสายลับ/เรียกพวกมาช่วย"
+ },
+ {
+  "id": "R03-0057",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตั้งข้อสงสัยว่าเป็นสายลับ/เรียกพวกมาช่วย"
+ },
+ {
+  "id": "R03-0058",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ อ้างชื่อบริษัท"
+ },
+ {
+  "id": "R03-0059",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ อ้างชื่อบริษัท"
+ },
+ {
+  "id": "R03-0060",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไม่เคยได้ยินชื่อบริษัทนี้"
+ },
+ {
+  "id": "R03-0061",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไม่เคยได้ยินชื่อบริษัทนี้"
+ },
+ {
+  "id": "R03-0062",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ขอโทษ"
+ },
+ {
+  "id": "R03-0063",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ขอโทษ"
+ },
+ {
+  "id": "R03-0064",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "คลายความสงสัย"
+ },
+ {
+  "id": "R03-0065",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "คลายความสงสัย"
+ },
+ {
+  "id": "R03-0066",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ปิดการขาย/กล่าวลาแบบช่างซ่อม"
+ },
+ {
+  "id": "R03-0067",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ปิดการขาย/กล่าวลาแบบช่างซ่อม"
+ },
+ {
+  "id": "R03-0068",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0069",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0070",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ แก้ตัวเรื่องหน้าเปลี่ยน (บทแยกจากจุดเดียวกัน)"
+ },
+ {
+  "id": "R03-0071",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ แก้ตัวเรื่องหน้าเปลี่ยน (บทแยกจากจุดเดียวกัน)"
+ },
+ {
+  "id": "R03-0072",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบโต้คำแก้ตัวศัลยกรรม แม้ EN นี้ถูกใช้ซ้ำที่อื่น (ป้าย ใช้ร่วมหลายคน)"
+ },
+ {
+  "id": "R03-0073",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ อธิบายต่อ"
+ },
+ {
+  "id": "R03-0074",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ อธิบายต่อ"
+ },
+ {
+  "id": "R03-0075",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ซักเรื่องเสียงเปลี่ยน"
+ },
+ {
+  "id": "R03-0076",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ซักเรื่องเสียงเปลี่ยน"
+ },
+ {
+  "id": "R03-0077",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ทวนคำถาม"
+ },
+ {
+  "id": "R03-0078",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ทวนคำถาม"
+ },
+ {
+  "id": "R03-0079",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "จับผิดเรื่องเสียง"
+ },
+ {
+  "id": "R03-0080",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0082",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0083",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0084",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0085",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0086",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0087",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0088",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0089",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0090",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0091",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0092",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0093",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0094",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0095",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0096",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0097",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0098",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0099",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0100",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0101",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0102",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0103",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0108",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0111",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "จำไคโตะได้จากชื่อเสียงอดีตยากูซ่า"
+ },
+ {
+  "id": "R03-0112",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "med",
+  "why": "จำไคโตะได้จากชื่อเสียงอดีตยากูซ่า"
+ },
+ {
+  "id": "R03-0113",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม ยังพยายามรักษาบทช่างซ่อมท่ามกลางความชุลมุน"
+ },
+ {
+  "id": "R03-0114",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม ยังพยายามรักษาบทช่างซ่อมท่ามกลางความชุลมุน"
+ },
+ {
+  "id": "R03-0115",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไล่ให้เลิกยุ่ง"
+ },
+ {
+  "id": "R03-0116",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไล่ให้เลิกยุ่ง"
+ },
+ {
+  "id": "R03-0117",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ขอตรวจสอบต่อ"
+ },
+ {
+  "id": "R03-0118",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธเซ็นเอกสาร"
+ },
+ {
+  "id": "R03-0119",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธเซ็นเอกสาร"
+ },
+ {
+  "id": "R03-0120",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ถ่วงเวลา"
+ },
+ {
+  "id": "R03-0121",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไล่ให้ไปขี้เอง/อุทาน"
+ },
+ {
+  "id": "R03-0122",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไล่ให้ไปขี้เอง/อุทาน"
+ },
+ {
+  "id": "R03-0123",
+  "speaker": "sp01_kjart_man",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไล่ให้ไปขี้เอง/อุทาน"
+ },
+ {
+  "id": "R03-0124",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0128",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "แสดงหลักฐานภาพให้มุราเสะดู"
+ },
+ {
+  "id": "R03-0129",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึง/วะ สอดคล้อง T3 มุราเสะ"
+ },
+ {
+  "id": "R03-0130",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึง/วะ สอดคล้อง T3 มุราเสะ"
+ },
+ {
+  "id": "R03-0131",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม อธิบายตัวตนนักสืบ"
+ },
+ {
+  "id": "R03-0132",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม อธิบายตัวตนนักสืบ"
+ },
+ {
+  "id": "R03-0133",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อว่ายากามิปกป้องฮามุระ"
+ },
+ {
+  "id": "R03-0134",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อว่ายากามิปกป้องฮามุระ"
+ },
+ {
+  "id": "R03-0135",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "กู/มึง ปฏิเสธจะให้ข้อมูล"
+ },
+ {
+  "id": "R03-0136",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "กู/มึง ปฏิเสธจะให้ข้อมูล"
+ },
+ {
+  "id": "R03-0137",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม ทวนคำเตือน"
+ },
+ {
+  "id": "R03-0138",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม ทวนคำเตือน"
+ },
+ {
+  "id": "R03-0139",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึง/กู ข่มขู่"
+ },
+ {
+  "id": "R03-0140",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึง/กู ข่มขู่"
+ },
+ {
+  "id": "R03-0141",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุณ ถามนำ"
+ },
+ {
+  "id": "R03-0142",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าฮามุระเป็นคนทำ"
+ },
+ {
+  "id": "R03-0143",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม อธิบายว่ากำลังสืบหาความจริง"
+ },
+ {
+  "id": "R03-0144",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม อธิบายว่ากำลังสืบหาความจริง"
+ },
+ {
+  "id": "R03-0145",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนกรานว่าฮามุระผิด"
+ },
+ {
+  "id": "R03-0146",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามย้อนที่ไหนอย่างไร"
+ },
+ {
+  "id": "R03-0147",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายที่เกิดเหตุตามที่เข้าใจ"
+ },
+ {
+  "id": "R03-0148",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม เริ่มเฉลยหลักฐานใหม่"
+ },
+ {
+  "id": "R03-0149",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0150",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยื่นภาพให้ดู"
+ },
+ {
+  "id": "R03-0151",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึง/วะ สงสัยว่ากำลังเล่นอะไร"
+ },
+ {
+  "id": "R03-0152",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึง/วะ สงสัยว่ากำลังเล่นอะไร"
+ },
+ {
+  "id": "R03-0153",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึง/กู ไม่เข้าใจข้อกล่าวหา"
+ },
+ {
+  "id": "R03-0154",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึง/กู ไม่เข้าใจข้อกล่าวหา"
+ },
+ {
+  "id": "R03-0155",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายหลักฐานภาพ"
+ },
+ {
+  "id": "R03-0156",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายหลักฐานภาพ"
+ },
+ {
+  "id": "R03-0157",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0158",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0159",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้กล้องวงจรปิดที่เสีย"
+ },
+ {
+  "id": "R03-0160",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้กล้องวงจรปิดที่เสีย"
+ },
+ {
+  "id": "R03-0161",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "กู ไม่เก็ตประเด็น"
+ },
+ {
+  "id": "R03-0162",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "กู ไม่เก็ตประเด็น"
+ },
+ {
+  "id": "R03-0163",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "กู ไม่เก็ตประเด็น"
+ },
+ {
+  "id": "R03-0164",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0165",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0166",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0168",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0169",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0170",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0171",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0172",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0173",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "เห็นภาพศพคุเมะแล้วช็อก"
+ },
+ {
+  "id": "R03-0174",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ/ผม ขอโทษก่อนให้ดูภาพ"
+ },
+ {
+  "id": "R03-0175",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ/ผม ขอโทษก่อนให้ดูภาพ"
+ },
+ {
+  "id": "R03-0176",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าไม่มีเลือด"
+ },
+ {
+  "id": "R03-0177",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าไม่มีเลือด"
+ },
+ {
+  "id": "R03-0178",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปว่าถูกฆ่าที่อื่น"
+ },
+ {
+  "id": "R03-0179",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยอมรับว่าไม่สมเหตุสมผล"
+ },
+ {
+  "id": "R03-0180",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยอมรับว่าไม่สมเหตุสมผล"
+ },
+ {
+  "id": "R03-0181",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าพร้อมคุยหรือยัง"
+ },
+ {
+  "id": "R03-0182",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าพร้อมคุยหรือยัง"
+ },
+ {
+  "id": "R03-0183",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฮึ่ม ยอมรับแบบไม่เต็มใจ (ป้ายใช้ร่วมหลายคนแต่กลางเพศอยู่แล้ว)"
+ },
+ {
+  "id": "R03-0184",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0185",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เริ่มซักถามจากต้น"
+ },
+ {
+  "id": "R03-0186",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เริ่มซักถามจากต้น"
+ },
+ {
+  "id": "R03-0187",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามความรู้สึกตอนคุเมะถูกจับ"
+ },
+ {
+  "id": "R03-0188",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามความรู้สึกตอนคุเมะถูกจับ"
+ },
+ {
+  "id": "R03-0189",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ฉัน/ต้องทำอะไรสักอย่าง"
+ },
+ {
+  "id": "R03-0190",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ฉัน/ต้องทำอะไรสักอย่าง"
+ },
+ {
+  "id": "R03-0191",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าไปรวบรวมพรรคพวก"
+ },
+ {
+  "id": "R03-0192",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าไปรวบรวมพรรคพวก"
+ },
+ {
+  "id": "R03-0193",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าไม่มีใครช่วยเลยเหรอ"
+ },
+ {
+  "id": "R03-0194",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าพวกเขาช่วย"
+ },
+ {
+  "id": "R03-0195",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าพวกเขาช่วย"
+ },
+ {
+  "id": "R03-0196",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ท้วงเรื่องกล้องไม่เห็นใคร"
+ },
+ {
+  "id": "R03-0197",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ท้วงเรื่องกล้องไม่เห็นใคร"
+ },
+ {
+  "id": "R03-0198",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามต่อเรื่องกล้อง"
+ },
+ {
+  "id": "R03-0199",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายเข้าทางหลังที่กล้องเสีย"
+ },
+ {
+  "id": "R03-0200",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายเข้าทางหลังที่กล้องเสีย"
+ },
+ {
+  "id": "R03-0201",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายตรอกหลังคือทางเข้า"
+ },
+ {
+  "id": "R03-0202",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายตรอกหลังคือทางเข้า"
+ },
+ {
+  "id": "R03-0203",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามย้ำว่าเข้าไปจริงไหม"
+ },
+ {
+  "id": "R03-0204",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามย้ำว่าเข้าไปจริงไหม"
+ },
+ {
+  "id": "R03-0205",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าเข้าไปจริงไม่เจอใคร"
+ },
+ {
+  "id": "R03-0206",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามเวลา"
+ },
+ {
+  "id": "R03-0207",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเวลาเที่ยงคืน"
+ },
+ {
+  "id": "R03-0208",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเวลาเที่ยงคืน"
+ },
+ {
+  "id": "R03-0209",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ขัดแย้งกับข้อกล่าวหาฝ่ายอัยการ"
+ },
+ {
+  "id": "R03-0210",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ขัดแย้งกับข้อกล่าวหาฝ่ายอัยการ"
+ },
+ {
+  "id": "R03-0211",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าขัดแย้งชัดเจน"
+ },
+ {
+  "id": "R03-0212",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าขัดแย้งชัดเจน"
+ },
+ {
+  "id": "R03-0213",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไม่สนคำอัยการ"
+ },
+ {
+  "id": "R03-0214",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนกรานว่าฮามุระฆ่าคุเมะ"
+ },
+ {
+  "id": "R03-0215",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนกรานว่าฮามุระฆ่าคุเมะ"
+ },
+ {
+  "id": "R03-0216",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าตำรวจยังต้องฟังคำให้การ"
+ },
+ {
+  "id": "R03-0217",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าตำรวจยังต้องฟังคำให้การ"
+ },
+ {
+  "id": "R03-0218",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้ไปให้การ"
+ },
+ {
+  "id": "R03-0219",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้ไปให้การ"
+ },
+ {
+  "id": "R03-0220",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธจะให้การ"
+ },
+ {
+  "id": "R03-0221",
+  "speaker": "murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธจะให้การ"
+ },
+ {
+  "id": "R03-0222",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0223",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยอมรับว่าคุ้มที่ได้ลอง"
+ },
+ {
+  "id": "R03-0226",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปเหตุการณ์ให้ไคโตะฟัง"
+ },
+ {
+  "id": "R03-0227",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปเหตุการณ์ให้ไคโตะฟัง"
+ },
+ {
+  "id": "R03-0230",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "สรุปต่อว่าเรื่องราวตรงกัน"
+ },
+ {
+  "id": "R03-0231",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "นาย ถามยากามิว่าเชื่อฮามุระบริสุทธิ์ไหม"
+ },
+ {
+  "id": "R03-0232",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "นาย ถามยากามิว่าเชื่อฮามุระบริสุทธิ์ไหม"
+ },
+ {
+  "id": "R03-0233",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม ตอบว่ายังไม่แน่ใจ"
+ },
+ {
+  "id": "R03-0234",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม ตอบว่ายังไม่แน่ใจ"
+ },
+ {
+  "id": "R03-0235",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ฉัน บอกว่าเหนื่อยแล้ว"
+ },
+ {
+  "id": "R03-0236",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ฉัน บอกว่าเหนื่อยแล้ว"
+ },
+ {
+  "id": "R03-0237",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เห็นด้วยกับไคโตะ"
+ },
+ {
+  "id": "R03-0238",
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "บทกลาง ระบุผู้พูดไม่ได้ (ป้ายใช้ร่วมหลายคนด้วย)"
+ },
+ {
+  "id": "R03-0239",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ กล่าวลาไคโตะซัง"
+ },
+ {
+  "id": "R03-0240",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ กล่าวลาไคโตะซัง"
+ },
+ {
+  "id": "R03-0248",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "นาย ทึ่งที่ยากามิรอดออกมาได้"
+ },
+ {
+  "id": "R03-0249",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "นาย ทึ่งที่ยากามิรอดออกมาได้"
+ },
+ {
+  "id": "R03-0250",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ อาจารย์ชินทานิ"
+ },
+ {
+  "id": "R03-0253",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ขัดแย้งกับข้อกล่าวหาฝ่ายอัยการ"
+ },
+ {
+  "id": "R03-0254",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ขัดแย้งกับข้อกล่าวหาฝ่ายอัยการ"
+ },
+ {
+  "id": "R03-0257",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ตอบเก็นดะว่าไม่ง่าย"
+ },
+ {
+  "id": "R03-0258",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ตอบเก็นดะว่าไม่ง่าย"
+ },
+ {
+  "id": "R03-0259",
+  "speaker": "genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบรับปรัชญาแบบผู้ใหญ่"
+ },
+ {
+  "id": "R03-0262",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "นำเสนอภาพกล้องวงจรปิด"
+ },
+ {
+  "id": "R03-0263",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "นำเสนอภาพกล้องวงจรปิด"
+ },
+ {
+  "id": "R03-0264",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ชี้ให้ดูขอบจอ"
+ },
+ {
+  "id": "R03-0265",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ชี้ให้ดูขอบจอ"
+ },
+ {
+  "id": "R03-0266",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0267",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายว่าไม่เห็นใครเข้าไป"
+ },
+ {
+  "id": "R03-0268",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายว่าไม่เห็นใครเข้าไป"
+ },
+ {
+  "id": "R03-0269",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปว่าเรื่องราวตรงกัน"
+ },
+ {
+  "id": "R03-0270",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "สรุปต่อว่ากลับมามือเปล่า"
+ },
+ {
+  "id": "R03-0271",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปว่าต้องคุยกับฮามุระอีกครั้ง"
+ },
+ {
+  "id": "R03-0272",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปว่าต้องคุยกับฮามุระอีกครั้ง"
+ },
+ {
+  "id": "R03-0273",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผม จะจัดการนัด"
+ },
+ {
+  "id": "R03-0274",
+  "speaker": "genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ขอให้โทรบอกเมื่อจัดการแล้ว (หัวหน้าสำนักงานติดตามความคืบหน้า)"
+ },
+ {
+  "id": "R03-0278",
+  "speaker": "saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "เล่าเรื่องมาฟุยุต่อจากที่ตัวเองพูดถึง"
+ },
+ {
+  "id": "R03-0279",
+  "speaker": "saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "เล่าเรื่องมาฟุยุต่อจากที่ตัวเองพูดถึง"
+ },
+ {
+  "id": "R03-0280",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบรับสั้น"
+ },
+ {
+  "id": "R03-0281",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบรับอีกแบบ (ป้ายใช้ร่วมหลายคนแต่กลางอยู่แล้ว)"
+ },
+ {
+  "id": "R03-0282",
+  "speaker": "saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "เสริมว่ามาฟุยุดูเศร้าด้วย"
+ },
+ {
+  "id": "R03-0283",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สงสัยว่าทำไมเศร้า"
+ },
+ {
+  "id": "R03-0284",
+  "speaker": "saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "ตอบว่าสงสัยเหมือนกันแล้วลา"
+ },
+ {
+  "id": "R03-0285",
+  "speaker": "saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "ตอบว่าสงสัยเหมือนกันแล้วลา"
+ },
+ {
+  "id": "R03-0292",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "บรรยายหลักฐานวิดีโอต่อจาก \"ผมมีอะไรจะให้คุณดู\" ของตัวเอง"
+ },
+ {
+  "id": "R03-0293",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "บรรยายหลักฐานวิดีโอต่อจาก \"ผมมีอะไรจะให้คุณดู\" ของตัวเอง"
+ },
+ {
+  "id": "R03-0294",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "บรรยายหลักฐานวิดีโอต่อจาก \"ผมมีอะไรจะให้คุณดู\" ของตัวเอง"
+ },
+ {
+  "id": "R03-0295",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "med",
+  "why": "กระตุ้นให้เล่าต่อ (ป้ายใช้ร่วมหลายคนแต่กลางอยู่แล้ว)"
+ },
+ {
+  "id": "R03-0296",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "med",
+  "why": "บรรยายหลักฐานต่อ"
+ },
+ {
+  "id": "R03-0297",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "med",
+  "why": "บรรยายหลักฐานต่อ"
+ },
+ {
+  "id": "R03-0298",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "กู ยอมรับว่าไปซาวน่าแล้ว"
+ },
+ {
+  "id": "R03-0299",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "กู ยอมรับว่าไปซาวน่าแล้ว"
+ },
+ {
+  "id": "R03-0300",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามต่อว่าทำอะไรกับคุเมะ"
+ },
+ {
+  "id": "R03-0301",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกไปแล้วไง ไล่ออกไป"
+ },
+ {
+  "id": "R03-0302",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามก่อนหน้านั้น"
+ },
+ {
+  "id": "R03-0303",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามเรื่องไล่คนออกจากคลับ"
+ },
+ {
+  "id": "R03-0304",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามเรื่องไล่คนออกจากคลับ"
+ },
+ {
+  "id": "R03-0305",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อ้างว่ามีคำให้การยืนยัน"
+ },
+ {
+  "id": "R03-0306",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามเหตุผลที่ไล่คนออก"
+ },
+ {
+  "id": "R03-0307",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามเหตุผลที่ไล่คนออก"
+ },
+ {
+  "id": "R03-0308",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อ้างว่าคุเมะทำให้นึกถึงเพื่อนเก่า"
+ },
+ {
+  "id": "R03-0309",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อ้างว่าคุเมะทำให้นึกถึงเพื่อนเก่า"
+ },
+ {
+  "id": "R03-0310",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อ้างว่าเมาจนจำไม่ได้"
+ },
+ {
+  "id": "R03-0311",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อ้างว่าเมาจนจำไม่ได้"
+ },
+ {
+  "id": "R03-0312",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0313",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตั้งข้อสงสัยข้ออ้างเมา"
+ },
+ {
+  "id": "R03-0314",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตั้งข้อสงสัยข้ออ้างเมา"
+ },
+ {
+  "id": "R03-0315",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าเมาจริง"
+ },
+ {
+  "id": "R03-0316",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าเมาจริง"
+ },
+ {
+  "id": "R03-0317",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชี้ว่าจำเรื่องอื่นได้ชัด"
+ },
+ {
+  "id": "R03-0318",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชี้ว่าจำเรื่องอื่นได้ชัด"
+ },
+ {
+  "id": "R03-0319",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามกลับจะพูดอะไร"
+ },
+ {
+  "id": "R03-0320",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าเรื่องเล่ามีช่องโหว่"
+ },
+ {
+  "id": "R03-0321",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าเรื่องเล่ามีช่องโหว่"
+ },
+ {
+  "id": "R03-0322",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชี้ว่าเรื่องเล่ามีช่องโหว่"
+ },
+ {
+  "id": "R03-0323",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามกลับสั้น (ป้ายใช้ร่วมหลายคนแต่กลางอยู่แล้ว)"
+ },
+ {
+  "id": "R03-0324",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าปิดบังอะไรอยู่ไหม"
+ },
+ {
+  "id": "R03-0325",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าปิดบังอะไรอยู่ไหม"
+ },
+ {
+  "id": "R03-0326",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธสั้น"
+ },
+ {
+  "id": "R03-0327",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามตรงว่าปิดบังตัวฆาตกรตัวจริงหรือเปล่า"
+ },
+ {
+  "id": "R03-0328",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าไม่ได้ปิดบัง"
+ },
+ {
+  "id": "R03-0329",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไล่ให้ไปพิสูจน์พยานที่อยู่"
+ },
+ {
+  "id": "R03-0330",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันอยู่ซาวน่าทั้งคืน"
+ },
+ {
+  "id": "R03-0331",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "med",
+  "why": "พูดถึงแผนสำรองทนายความ"
+ },
+ {
+  "id": "R03-0332",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "med",
+  "why": "พูดถึงแผนสำรองทนายความ"
+ },
+ {
+  "id": "R03-0333",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "med",
+  "why": "เตือนอย่าปิดบังทนายของตัวเอง"
+ },
+ {
+  "id": "R03-0334",
+  "speaker": "shintani",
+  "gender": "male",
+  "conf": "med",
+  "why": "เตือนอย่าปิดบังทนายของตัวเอง"
+ },
+ {
+  "id": "R03-0335",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทบทวนข้อกล่าวหาที่ฮามุระเจอ"
+ },
+ {
+  "id": "R03-0336",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทบทวนข้อกล่าวหาที่ฮามุระเจอ"
+ },
+ {
+  "id": "R03-0337",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชี้ผลลัพธ์หากแพ้คดี"
+ },
+ {
+  "id": "R03-0338",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชี้ผลลัพธ์หากแพ้คดี"
+ },
+ {
+  "id": "R03-0339",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าคิดถึงเรื่องนี้บ้างไหม"
+ },
+ {
+  "id": "R03-0340",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าคิดถึงเรื่องนี้บ้างไหม"
+ },
+ {
+  "id": "R03-0341",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ายากูซ่าทุกคนกล้าขนาดนี้เหรอ"
+ },
+ {
+  "id": "R03-0342",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ายากูซ่าทุกคนกล้าขนาดนี้เหรอ"
+ },
+ {
+  "id": "R03-0343",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธว่าไม่ใช่เรื่องกลัว"
+ },
+ {
+  "id": "R03-0344",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธว่าไม่ใช่เรื่องกลัว"
+ },
+ {
+  "id": "R03-0345",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าจะไปง้อใคร"
+ },
+ {
+  "id": "R03-0346",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าจะไปง้อใคร"
+ },
+ {
+  "id": "R03-0347",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไม่ใช่ธุระของมึง"
+ },
+ {
+  "id": "R03-0348",
+  "speaker": "hamura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใครก็ได้ (บทแยกจากจุดเดียวกัน)"
+ },
+ {
+  "id": "R03-0349",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันจะหาความจริงให้เจอ"
+ },
+ {
+  "id": "R03-0350",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันจะหาความจริงให้เจอ"
+ },
+ {
+  "id": "R03-0351",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกชื่อยากามิทักทาย"
+ },
+ {
+  "id": "R03-0355",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบรับสั้นแบบเพื่อน"
+ },
+ {
+  "id": "R03-0356",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบรับสั้นแบบเพื่อน"
+ },
+ {
+  "id": "R03-0357",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วิเคราะห์ว่าฮามุระปิดบังอะไรบางอย่าง"
+ },
+ {
+  "id": "R03-0358",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วิเคราะห์ว่าฮามุระปิดบังอะไรบางอย่าง"
+ },
+ {
+  "id": "R03-0359",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าตันแล้วเหรอ"
+ },
+ {
+  "id": "R03-0360",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าตันแล้วเหรอ"
+ },
+ {
+  "id": "R03-0361",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบว่าต้องการข้อมูลเพิ่ม"
+ },
+ {
+  "id": "R03-0362",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามย้ำ specifically"
+ },
+ {
+  "id": "R03-0363",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามย้ำ specifically"
+ },
+ {
+  "id": "R03-0364",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายว่าต้องการพยานที่เห็นเหตุการณ์"
+ },
+ {
+  "id": "R03-0365",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ท้วงว่าไม่มีเวลาตระเวนหา"
+ },
+ {
+  "id": "R03-0366",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่ามีเงินเท่าไหร่"
+ },
+ {
+  "id": "R03-0367",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่ามีเงินเท่าไหร่"
+ },
+ {
+  "id": "R03-0368",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าต้องการเท่าไหร่"
+ },
+ {
+  "id": "R03-0369",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าต้องการเท่าไหร่"
+ },
+ {
+  "id": "R03-0370",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกจำนวนเงิน"
+ },
+ {
+  "id": "R03-0371",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกจำนวนเงิน"
+ },
+ {
+  "id": "R03-0372",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าถึงเพื่อนนักสืบสายข่าว"
+ },
+ {
+  "id": "R03-0373",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าถึงเพื่อนนักสืบสายข่าว"
+ },
+ {
+  "id": "R03-0374",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าอะไรก็ได้เหรอ"
+ },
+ {
+  "id": "R03-0375",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าอะไรก็ได้"
+ },
+ {
+  "id": "R03-0376",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าอะไรก็ได้"
+ },
+ {
+  "id": "R03-0377",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปว่าเป็นตำรวจเน่า"
+ },
+ {
+  "id": "R03-0378",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปว่าเป็นตำรวจเน่า"
+ },
+ {
+  "id": "R03-0379",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0380",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกชื่ออายาเบะและที่อยู่"
+ },
+ {
+  "id": "R03-0381",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามย้ำที่เทนเดอร์"
+ },
+ {
+  "id": "R03-0382",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามย้ำที่เทนเดอร์"
+ },
+ {
+  "id": "R03-0383",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าทุกคนไปเจอที่นั่น"
+ },
+ {
+  "id": "R03-0384",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันว่าทุกคนไปเจอที่นั่น"
+ },
+ {
+  "id": "R03-0385",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำให้ถามมาสึดะ"
+ },
+ {
+  "id": "R03-0386",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำให้ถามมาสึดะ"
+ },
+ {
+  "id": "R03-0390",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ถามหาอายาเบะที่บาร์"
+ },
+ {
+  "id": "R03-0391",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ถามหาอายาเบะที่บาร์"
+ },
+ {
+  "id": "R03-0392",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบว่ารู้จักแต่ไม่ได้แวะมา"
+ },
+ {
+  "id": "R03-0393",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบว่ารู้จักแต่ไม่ได้แวะมา"
+ },
+ {
+  "id": "R03-0394",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ มาผิดจังหวะ"
+ },
+ {
+  "id": "R03-0395",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ มาผิดจังหวะ"
+ },
+ {
+  "id": "R03-0396",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0397",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับปากจะบอกอายาเบะ"
+ },
+ {
+  "id": "R03-0398",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนดื่มระหว่างรอ"
+ },
+ {
+  "id": "R03-0399",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนดื่มระหว่างรอ"
+ },
+ {
+  "id": "R03-0400",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่านี่อะไรกัน"
+ },
+ {
+  "id": "R03-0401",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามกลับสั้น"
+ },
+ {
+  "id": "R03-0402",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "เกริ่นเรื่องลูกค้าที่เคยพูดถึง"
+ },
+ {
+  "id": "R03-0403",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "เกริ่นเรื่องลูกค้าที่เคยพูดถึง"
+ },
+ {
+  "id": "R03-0404",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าแล้วไง"
+ },
+ {
+  "id": "R03-0405",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าแล้วไง"
+ },
+ {
+  "id": "R03-0406",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าลูกค้ายกเลิกงาน"
+ },
+ {
+  "id": "R03-0407",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าลูกค้ายกเลิกงาน"
+ },
+ {
+  "id": "R03-0408",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าเรื่องลูกค้าต้องการแก้แค้นยากูซ่า"
+ },
+ {
+  "id": "R03-0409",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าเรื่องลูกค้าต้องการแก้แค้นยากูซ่า"
+ },
+ {
+  "id": "R03-0410",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าอยากให้ทำอะไร"
+ },
+ {
+  "id": "R03-0411",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าอยากให้ทำอะไร"
+ },
+ {
+  "id": "R03-0412",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าไม่สำคัญแล้ว"
+ },
+ {
+  "id": "R03-0413",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าไปแก้แค้นเองเหรอ"
+ },
+ {
+  "id": "R03-0414",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าไปแก้แค้นเองเหรอ"
+ },
+ {
+  "id": "R03-0415",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่ายากูซ่าคนนั้นติดคุกไปแล้ว"
+ },
+ {
+  "id": "R03-0416",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่ายากูซ่าคนนั้นติดคุกไปแล้ว"
+ },
+ {
+  "id": "R03-0417",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกข้อหาฆ่าคนควักลูกตา"
+ },
+ {
+  "id": "R03-0418",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตกใจฉุกคิด"
+ },
+ {
+  "id": "R03-0419",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตกใจฉุกคิด"
+ },
+ {
+  "id": "R03-0420",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "เฉลยว่าคือกัปตันฮามุระ"
+ },
+ {
+  "id": "R03-0421",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "เฉลยว่าคือกัปตันฮามุระ"
+ },
+ {
+  "id": "R03-0422",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามข้อมูลเพิ่ม"
+ },
+ {
+  "id": "R03-0423",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามข้อมูลเพิ่ม"
+ },
+ {
+  "id": "R03-0424",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่ารู้แค่นี้ ให้ไปถามเอง"
+ },
+ {
+  "id": "R03-0425",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่ารู้แค่นี้ ให้ไปถามเอง"
+ },
+ {
+  "id": "R03-0426",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0427",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0428",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0429",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าใครคือคนที่โดนฮามุระทำร้าย"
+ },
+ {
+  "id": "R03-0430",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกชื่อเซยะและที่ทำงาน"
+ },
+ {
+  "id": "R03-0431",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกชื่อเซยะและที่ทำงาน"
+ },
+ {
+  "id": "R03-0432",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกชื่อเซยะและที่ทำงาน"
+ },
+ {
+  "id": "R03-0434",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อจากบท 433 ที่ระบุชื่อไคโตะแล้ว บอกให้ไปถามมาสึดะที่เทนเดอร์"
+ },
+ {
+  "id": "R03-0435",
+  "speaker": "kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อจากบท 433 ที่ระบุชื่อไคโตะแล้ว บอกให้ไปถามมาสึดะที่เทนเดอร์"
+ },
+ {
+  "id": "R03-0439",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามหาเซยะที่คลับ"
+ },
+ {
+  "id": "R03-0440",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามหาเซยะที่คลับ"
+ },
+ {
+  "id": "R03-0441",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "เอ่ยชื่อเซยะซัง"
+ },
+ {
+  "id": "R03-0442",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "เอ่ยชื่อเซยะซัง"
+ },
+ {
+  "id": "R03-0443",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าวันนี้ไม่ได้"
+ },
+ {
+  "id": "R03-0444",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าวันนี้ไม่ได้"
+ },
+ {
+  "id": "R03-0445",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าหยุดงานเหรอ"
+ },
+ {
+  "id": "R03-0446",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าหยุดงานเหรอ"
+ },
+ {
+  "id": "R03-0447",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าออกเดตกับลูกค้า"
+ },
+ {
+  "id": "R03-0448",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าออกเดตกับลูกค้า"
+ },
+ {
+  "id": "R03-0449",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "บ่นว่าจะอยู่ไหนก็ได้"
+ },
+ {
+  "id": "R03-0450",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "บ่นว่าจะอยู่ไหนก็ได้"
+ },
+ {
+  "id": "R03-0451",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชมว่าเซยะฟอร์มดี"
+ },
+ {
+  "id": "R03-0452",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชมว่าเซยะฟอร์มดี"
+ },
+ {
+  "id": "R03-0453",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าจะกลับมาเมื่อไหร่"
+ },
+ {
+  "id": "R03-0454",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าจะกลับมาเมื่อไหร่"
+ },
+ {
+  "id": "R03-0455",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าไม่รู้ ไม่น่าไปไกล"
+ },
+ {
+  "id": "R03-0456",
+  "speaker": "stradust",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าไม่รู้ ไม่น่าไปไกล"
+ },
+ {
+  "id": "R03-0457",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอบใจแล้วลา"
+ },
+ {
+  "id": "R03-0458",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอบใจแล้วลา"
+ },
+ {
+  "id": "R03-0459",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0460",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "วงเล็บ = ความคิดในใจยากามิตามกติกาบรีฟ"
+ },
+ {
+  "id": "R03-0463",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำให้ไปถามเซยะเองที่คลับสตาร์ดัสต์"
+ },
+ {
+  "id": "R03-0464",
+  "speaker": "tender_master",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำให้ไปถามเซยะเองที่คลับสตาร์ดัสต์"
+ },
+ {
+  "id": "R03-0469",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้สึคุโมะช่วยค้นข้อความอีกรอบ"
+ },
+ {
+  "id": "R03-0470",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้สึคุโมะช่วยค้นข้อความอีกรอบ"
+ },
+ {
+  "id": "R03-0471",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับปากให้บอกคีย์เวิร์ด"
+ },
+ {
+  "id": "R03-0472",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับปากให้บอกคีย์เวิร์ด"
+ },
+ {
+  "id": "R03-0473",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ให้คีย์เวิร์ดค้นหา"
+ },
+ {
+  "id": "R03-0474",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ให้คีย์เวิร์ดค้นหา"
+ },
+ {
+  "id": "R03-0475",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ให้คีย์เวิร์ดค้นหา"
+ },
+ {
+  "id": "R03-0476",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ให้คีย์เวิร์ดค้นหา"
+ },
+ {
+  "id": "R03-0477",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับปากค้นให้"
+ },
+ {
+  "id": "R03-0478",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับปากค้นให้"
+ },
+ {
+  "id": "R03-0479",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "เจอผลค้นหาแล้วส่งขึ้นจอ"
+ },
+ {
+  "id": "R03-0480",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "เจอผลค้นหาแล้วส่งขึ้นจอ"
+ },
+ {
+  "id": "R03-0481",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าเจอเยอะเกินไปให้กรองเพิ่ม"
+ },
+ {
+  "id": "R03-0482",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าเจอเยอะเกินไปให้กรองเพิ่ม"
+ },
+ {
+  "id": "R03-0483",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ครุ่นคิดหาคีย์เวิร์ดเพิ่ม"
+ },
+ {
+  "id": "R03-0484",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่ายังเยอะอยู่ ให้ลองคำอื่น"
+ },
+ {
+  "id": "R03-0485",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่ายังเยอะอยู่ ให้ลองคำอื่น"
+ },
+ {
+  "id": "R03-0486",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อุทานหงุดหงิด"
+ },
+ {
+  "id": "R03-0487",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เสนอคำค้นใหม่ (ป้ายใช้ร่วมหลายคนแต่กลางอยู่แล้ว)"
+ },
+ {
+  "id": "R03-0488",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "ดีใจที่ได้ผล"
+ },
+ {
+  "id": "R03-0489",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอบใจสึคุโมะ"
+ },
+ {
+  "id": "R03-0490",
+  "speaker": "yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอบใจสึคุโมะ"
+ },
+ {
+  "id": "R03-0491",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "ให้กำลังใจว่าจะเจอเร็ว ๆ นี้"
+ },
+ {
+  "id": "R03-0492",
+  "speaker": "tsukumo",
+  "gender": "male",
+  "conf": "high",
+  "why": "ให้กำลังใจว่าจะเจอเร็ว ๆ นี้"
+ }
+]

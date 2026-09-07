@@ -1,50 +1,279 @@
 {
  "scene": "a08_040",
  "rows": {
-  "1": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "taunts beaten Hamura, matches Kaito being the one physically fighting him throughout the scene"},
-  "2": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "continues taunting, offering to keep hitting Hamura"},
-  "3": {"speaker": "Hamura", "gender": "male", "conf": "high", "why": "defiant curse in response to Kaito's taunt"},
-  "4": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "accuses Hamura of hiring the thief who stole the family's money"},
-  "5": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "names Hamura directly, accusing him of the setup"},
-  "6": {"speaker": "Hamura", "gender": "male", "conf": "high", "why": "taunts back mockingly about memory failing"},
-  "7": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "shifts the interrogation to more pressing questions; EN-B diverges but continues the questioning flow"},
-  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "asks about the Mole's connection to Hamura"},
-  "9": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "asks how many people the Mole has killed"},
-  "10": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "lists the Mole's known victims"},
-  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "recounts Shintani's certainty that the Mole wasn't yakuza-related"},
-  "12": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "reasons Shintani had supporting information"},
-  "13": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "accuses Hamura of having Shintani silenced using Ayabe's gun"},
-  "14": {"speaker": "Hamura", "gender": "male", "conf": "high", "why": "denies involvement, 'like hell I did'"},
-  "15": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "explains Shintani knew Hamura's secret about the ADDC link"},
-  "16": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "connects everything back to AD-9"},
-  "17": {"speaker": "Hamura", "gender": "male", "conf": "high", "why": "curses in denial, 'I told you I don't know'"},
-  "18": {"speaker": "Hamura", "gender": "male", "conf": "high", "why": "demands to be released and threatens Kaito, who is restraining him"},
-  "19": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "tells Hamura he never listens, responding to his threat"},
-  "20": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "says Hamura's name warningly, continuing the interrogation"},
-  "21": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "names Kido as the ADDC's Director, continuing his reasoning"},
-  "22": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "asks if Kido is behind the killings"},
-  "23": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "presses Hamura on whether it's Kido"},
-  "24": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "row marked M; presses further, 'is that not right?'"},
-  "25": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "pressures Hamura to start talking"},
-  "26": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "threatens to kill Hamura on the spot if he won't answer"},
-  "27": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "calls out 'Kaito-san!' to stop him from killing Hamura; cue hint mixes in Mafuyu, likely noise on a generic name-call line reused elsewhere"},
-  "28": {"speaker": "Hamura", "gender": "male", "conf": "high", "why": "denies Kido's involvement, 'Kido's not our guy'"},
-  "29": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "reasons about the phone call Shintani made to the ADDC"},
-  "30": {"speaker": "Kido", "gender": "male", "conf": "high", "why": "cue=male(kido); confirms receiving a call from Shintani, apparently a cutaway to Kido himself"},
-  "31": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami); asks who Shintani was calling"},
-  "32": {"speaker": "Kido", "gender": "male", "conf": "high", "why": "cue=male(kido); answers 'Dr. Shono'"},
-  "33": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "connects Hashiki's death to his pursuit of information from Shono"},
-  "34": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "row marked M; concludes who he wants to find next"},
-  "35": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "confirms it's Shono, continuing his conclusion"},
-  "36": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "turns back to confront Hamura directly, 'Right, Hamura?'"},
-  "37": {"speaker": "Unnamed henchman", "gender": "male", "conf": "low", "why": "shouts alarm about the fire breaking out; ambient reaction, likely one of Hamura's men"},
-  "38": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "addresses Kaito as 'Tak', consistent with the nickname established in a08_030"},
-  "39": {"speaker": "Unnamed henchman", "gender": "male", "conf": "low", "why": "alarmed shout addressing 'Captain' (Hamura) amid the fire, ambient reaction"},
-  "40": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "calls out 'Kaito-san!' again amid the fire, mirrors row 27's pattern"},
-  "41": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "cue=male(kaito); calls to move out"},
-  "42": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "notices Hamura has escaped"},
-  "43": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "explains Hamura's men took him away"},
-  "44": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "closing reaction line; no strong evidence distinguishing Kaito from Yagami, but gender is certain either way"},
-  "45": {"speaker": "Yagami", "gender": "male", "conf": "low", "why": "closing reflective remark; no strong evidence distinguishing Yagami from Kaito, but gender is certain either way"}
+  "1": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "taunts beaten Hamura, matches Kaito being the one physically fighting him throughout the scene"
+  },
+  "2": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues taunting, offering to keep hitting Hamura"
+  },
+  "3": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "defiant curse in response to Kaito's taunt"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "accuses Hamura of hiring the thief who stole the family's money"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "names Hamura directly, accusing him of the setup"
+  },
+  "6": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "taunts back mockingly about memory failing"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "shifts the interrogation to more pressing questions; EN-B diverges but continues the questioning flow"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks about the Mole's connection to Hamura"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks how many people the Mole has killed"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "lists the Mole's known victims"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "recounts Shintani's certainty that the Mole wasn't yakuza-related"
+  },
+  "12": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reasons Shintani had supporting information"
+  },
+  "13": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "accuses Hamura of having Shintani silenced using Ayabe's gun"
+  },
+  "14": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "denies involvement, 'like hell I did'"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "explains Shintani knew Hamura's secret about the ADDC link"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "connects everything back to AD-9"
+  },
+  "17": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "curses in denial, 'I told you I don't know'"
+  },
+  "18": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "demands to be released and threatens Kaito, who is restraining him"
+  },
+  "19": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "tells Hamura he never listens, responding to his threat"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "says Hamura's name warningly, continuing the interrogation"
+  },
+  "21": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "names Kido as the ADDC's Director, continuing his reasoning"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks if Kido is behind the killings"
+  },
+  "23": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "presses Hamura on whether it's Kido"
+  },
+  "24": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "row marked M; presses further, 'is that not right?'"
+  },
+  "25": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pressures Hamura to start talking"
+  },
+  "26": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "threatens to kill Hamura on the spot if he won't answer"
+  },
+  "27": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "calls out 'Kaito-san!' to stop him from killing Hamura; cue hint mixes in Mafuyu, likely noise on a generic name-call line reused elsewhere"
+  },
+  "28": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "denies Kido's involvement, 'Kido's not our guy'"
+  },
+  "29": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reasons about the phone call Shintani made to the ADDC"
+  },
+  "30": {
+   "speaker": "Kido",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(kido); confirms receiving a call from Shintani, apparently a cutaway to Kido himself"
+  },
+  "31": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami); asks who Shintani was calling"
+  },
+  "32": {
+   "speaker": "Kido",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(kido); answers 'Dr. Shono'"
+  },
+  "33": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "connects Hashiki's death to his pursuit of information from Shono"
+  },
+  "34": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "row marked M; concludes who he wants to find next"
+  },
+  "35": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "confirms it's Shono, continuing his conclusion"
+  },
+  "36": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "turns back to confront Hamura directly, 'Right, Hamura?'"
+  },
+  "37": {
+   "speaker": "Unnamed henchman",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกน้องฮามุระ แท็กนักเลงทั้งหมดในเกมเป็นชาย",
+   "source": "cinema_low_C1.json"
+  },
+  "38": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "addresses Kaito as 'Tak', consistent with the nickname established in a08_030"
+  },
+  "39": {
+   "speaker": "Unnamed henchman",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องจาก r37",
+   "source": "cinema_low_C1.json"
+  },
+  "40": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "calls out 'Kaito-san!' again amid the fire, mirrors row 27's pattern"
+  },
+  "41": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(kaito); calls to move out"
+  },
+  "42": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "notices Hamura has escaped"
+  },
+  "43": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "explains Hamura's men took him away"
+  },
+  "44": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องบทหนีไฟ",
+   "source": "cinema_low_C1.json"
+  },
+  "45": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องบทหนีไฟ",
+   "source": "cinema_low_C1.json"
+  }
  }
 }

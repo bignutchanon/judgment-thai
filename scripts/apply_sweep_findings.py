@@ -52,6 +52,9 @@ def validate(old, new):
 
 
 def main():
+    global SWEEP
+    if "--dir" in sys.argv:                      # ใช้ซ้ำกับ review/blind และ review/register (รอบ 22)
+        SWEEP = paths.TRANSLATIONS / "review" / sys.argv[sys.argv.index("--dir") + 1]
     write = "--write" in sys.argv
     take_mid = "--mid" in sys.argv
     def _opt(name):
@@ -90,7 +93,7 @@ def main():
                 continue
             sid = str(it.get("id", ""))
             cat = str(it.get("cat", "?"))[:1]
-            conf = it.get("conf", "mid")
+            conf = it.get("conf") or it.get("sev") or "mid"      # ทีม blind/register (รอบ 22) ใช้ฟิลด์ sev แทน conf
             new = it.get("th_new")
             en = index.get(sid)
             if en is None:

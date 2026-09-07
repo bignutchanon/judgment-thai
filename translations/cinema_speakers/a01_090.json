@@ -40,8 +40,9 @@
   "7": {
    "speaker": "Matsugane aide",
    "gender": "male",
-   "conf": "low",
-   "why": "Announces Yagami's arrival to 'Boss' in third person; unclear if Kaito or an unnamed aide"
+   "conf": "high",
+   "why": "ลูกน้องมัตสึกาเนะรายงานนายให้ 'ท่าน' (boss) — ตรงกลุ่ม matsugane_yakuza/matsugane_gaya1-5 (male ทั้งหมด, characters_gender.md)",
+   "source": "cinema_low_C2.json"
   },
   "8": {
    "speaker": "Mitsugu Matsugane",
@@ -94,8 +95,9 @@
   "16": {
    "speaker": "Mitsugu Matsugane",
    "gender": "male",
-   "conf": "low",
-   "why": "Continues the same reflective thought as row 15"
+   "conf": "high",
+   "why": "ต่อเนื่อง r15 (Matsugane พูดถึง Kaito) ก่อน r17 Matsugane พูดต่อเรื่องเดียวกัน — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "17": {
    "speaker": "Mitsugu Matsugane",
@@ -106,14 +108,16 @@
   "18": {
    "speaker": "Mitsugu Matsugane",
    "gender": "male",
-   "conf": "low",
-   "why": "Philosophical closing remark continuing his own reflection"
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue จาก r17 ก่อน r19 Yagami ตอบ 'True.' — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "19": {
    "speaker": "Yagami",
    "gender": "male",
-   "conf": "low",
-   "why": "Short agreement 'True' responding to Matsugane's row 18; cue pool is all-male (yagami,shintani,hoshino)"
+   "conf": "high",
+   "why": "ตอบรับคำพูด Matsugane ที่ r18 ก่อนพูดต่อ r20 (Yagami เดิม) — ทะเบียนยืนยัน male (ตัวเอก)",
+   "source": "cinema_low_C2.json"
   },
   "20": {
    "speaker": "Yagami",
@@ -172,8 +176,9 @@
   "29": {
    "speaker": "Mitsugu Matsugane",
    "gender": "male",
-   "conf": "low",
-   "why": "Reacts to Yagami's mention of Hamura; hint conflict (talk=Yagami, cue=aragaki) likely generic reused bark"
+   "conf": "high",
+   "why": "ตอบ Yagami ที่บอกว่า Hamura สร้างปัญหา (r28) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "30": {
    "speaker": "Yagami",
@@ -208,8 +213,9 @@
   "35": {
    "speaker": "Mitsugu Matsugane",
    "gender": "male",
-   "conf": "low",
-   "why": "Continues the warning from row 34"
+   "conf": "high",
+   "why": "ต่อเนื่องคำเตือนจาก r34 เรื่อง Kyorei Clan — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "36": {
    "speaker": "Yagami",

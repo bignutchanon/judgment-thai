@@ -1,43 +1,241 @@
 {
  "scene": "a03_030",
  "rows": {
-  "1": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "reacts to Higashi's approach; addressed as 'Captain' shortly after in row 10"},
-  "2": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "recognizes Hamura from a distance"},
-  "3": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; self-identifies to Hamura ('sir')"},
-  "4": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "continues self-introduction"},
-  "5": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "questions why Higashi is here"},
-  "6": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; explains about spotting Red Nose"},
-  "7": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "continues explanation about Red Nose"},
-  "8": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "apologizes to Red Nose before violence, blames 'this idiot' (Higashi)"},
-  "9": {"speaker": "Red Nose", "gender": "male", "conf": "low", "why": "startled reaction to being targeted; attached cue is a generic reused reaction bark, not reliable here"},
-  "10": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "questions Hamura's intent, addresses him as 'Captain'"},
-  "11": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "continues hesitant questioning"},
-  "12": {"speaker": "Hamura", "gender": "male", "conf": "low", "why": "commands Higashi to explain; attached talk hint (Yagami) is likely a generic reused command bark and does not fit this pure past flashback"},
-  "13": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "asks how Higashi found out Red Nose was the thief"},
-  "14": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; confession begins - content matches his established presence during the robbery from a03_015; attached talk hint 'Kaneda' is unreliable/noisy here"},
-  "15": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; continues confession"},
-  "16": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; continues, describing being present during the robbery"},
-  "17": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; continues, describes bribing Ayabe"},
-  "18": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; continues confession"},
-  "19": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "mocking response to Higashi's confession"},
-  "20": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "continues mockery, references clearing Kaito's name"},
-  "21": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "continues mockery ('good boy')"},
-  "22": {"speaker": "Red Nose", "gender": "male", "conf": "high", "why": "pleads for his life"},
-  "23": {"speaker": "Red Nose", "gender": "male", "conf": "high", "why": "current TH marked M; continues plea, addresses Hamura as 'Captain'"},
-  "24": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; questions Hamura's resolve again"},
-  "25": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "cryptic response"},
-  "26": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "offers Higashi a way to prove loyalty and stay in the family"},
-  "27": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "continues, demands proof of loyalty"},
-  "28": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; asks how to prove himself"},
-  "29": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "commands Higashi to kill Red Nose ('Finish it')"},
-  "30": {"speaker": "Hamura", "gender": "male", "conf": "low", "why": "taunts about Red Nose's fate blaming Higashi; attached talk hint 'Shimazu' is unconfirmed and conflicting, so kept low confidence"},
-  "31": {"speaker": "Hamura", "gender": "male", "conf": "low", "why": "continues taunt about the money Red Nose would have kept"},
-  "32": {"speaker": "Hamura", "gender": "male", "conf": "low", "why": "continues taunt"},
-  "33": {"speaker": "Hamura", "gender": "male", "conf": "low", "why": "continues, blames Higashi for the killing"},
-  "34": {"speaker": "Red Nose", "gender": "male", "conf": "low", "why": "dying protest during the killing; attached cue (female/mafuyu) is discounted as noise since Mafuyu has no place in this flashback"},
-  "35": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "mocking comment reacting to the scream"},
-  "36": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "continues disturbing mockery"},
-  "37": {"speaker": "Hamura", "gender": "male", "conf": "low", "why": "addresses Higashi right after the killing"},
-  "38": {"speaker": "Hamura", "gender": "male", "conf": "med", "why": "final statement confirming Higashi has completed the loyalty test"}
+  "1": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacts to Higashi's approach; addressed as 'Captain' shortly after in row 10"
+  },
+  "2": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "recognizes Hamura from a distance"
+  },
+  "3": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; self-identifies to Hamura ('sir')"
+  },
+  "4": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues self-introduction"
+  },
+  "5": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions why Higashi is here"
+  },
+  "6": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; explains about spotting Red Nose"
+  },
+  "7": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues explanation about Red Nose"
+  },
+  "8": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "apologizes to Red Nose before violence, blames 'this idiot' (Higashi)"
+  },
+  "9": {
+   "speaker": "Red Nose",
+   "gender": "male",
+   "conf": "high",
+   "why": "เหยื่อที่ Hamura พูดกับตรงๆ ที่ r8 ('Sorry, Red Nose') — ทะเบียนยืนยัน male (akahana sex=1)",
+   "source": "cinema_low_C2.json"
+  },
+  "10": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions Hamura's intent, addresses him as 'Captain'"
+  },
+  "11": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues hesitant questioning"
+  },
+  "12": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "สั่ง 'Tell me/Talk' ต่อเนื่องบทบาทผู้ไต่สวนของ Hamura (r1,5,8 เดิม) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "13": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks how Higashi found out Red Nose was the thief"
+  },
+  "14": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; confession begins - content matches his established presence during the robbery from a03_015; attached talk hint 'Kaneda' is unreliable/noisy here"
+  },
+  "15": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; continues confession"
+  },
+  "16": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; continues, describing being present during the robbery"
+  },
+  "17": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; continues, describes bribing Ayabe"
+  },
+  "18": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; continues confession"
+  },
+  "19": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "mocking response to Higashi's confession"
+  },
+  "20": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues mockery, references clearing Kaito's name"
+  },
+  "21": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues mockery ('good boy')"
+  },
+  "22": {
+   "speaker": "Red Nose",
+   "gender": "male",
+   "conf": "high",
+   "why": "pleads for his life"
+  },
+  "23": {
+   "speaker": "Red Nose",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; continues plea, addresses Hamura as 'Captain'"
+  },
+  "24": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; questions Hamura's resolve again"
+  },
+  "25": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "cryptic response"
+  },
+  "26": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "offers Higashi a way to prove loyalty and stay in the family"
+  },
+  "27": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, demands proof of loyalty"
+  },
+  "28": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; asks how to prove himself"
+  },
+  "29": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "commands Higashi to kill Red Nose ('Finish it')"
+  },
+  "30": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue เยาะเย้ยของ Hamura หลังสั่ง Higashi 'Finish it' (r29) จนถึง r38 'real yakuza now' (Hamura เดิม) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "31": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue เดียวกับ r30/32/33 — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "32": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue เดียวกัน — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "33": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue เดียวกัน ก่อน Red Nose กรีดร้อง r34 — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "34": {
+   "speaker": "Red Nose",
+   "gender": "male",
+   "conf": "high",
+   "why": "เสียงกรีดร้องเหยื่อก่อนโดนฆ่า (r35 Hamura พูดถึง 'you scream') — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "35": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "mocking comment reacting to the scream"
+  },
+  "36": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues disturbing mockery"
+  },
+  "37": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง monologue เยาะเย้ยจาก r36 ก่อนปิดท้าย r38 — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "38": {
+   "speaker": "Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "final statement confirming Higashi has completed the loyalty test"
+  }
  }
 }

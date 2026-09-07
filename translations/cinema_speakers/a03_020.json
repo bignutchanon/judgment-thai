@@ -1,41 +1,227 @@
 {
  "scene": "a03_020",
  "rows": {
-  "1": {"speaker": "Yakuza member", "gender": "male", "conf": "low", "why": "unnamed Matsugane crew member alerting Higashi that Yagami has arrived; all yakuza thugs in this cast are established male"},
-  "2": {"speaker": "Yakuza member", "gender": "male", "conf": "low", "why": "continues the alert from row 1"},
-  "3": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "surprised to see Kaito show up, addresses him as 'Kaito-san'"},
-  "4": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "justifies their presence, referencing 'what you pulled'"},
-  "5": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "suspicious response, 'what the hell are you doing here'"},
-  "6": {"speaker": "Ayabe", "gender": "male", "conf": "high", "why": "cue=male(ayabe)"},
-  "7": {"speaker": "Ayabe", "gender": "male", "conf": "med", "why": "continues pressing about Red Nose's death, fitting his role as the info-broker who tracked Red Nose"},
-  "8": {"speaker": "Higashi", "gender": "male", "conf": "med", "why": "feigns ignorance ('Who?') in response to being accused; row 9's 'don't play dumb' replies directly to this"},
-  "9": {"speaker": "Ayabe", "gender": "male", "conf": "med", "why": "presses further, matches his informant role established via cue at row 6"},
-  "10": {"speaker": "Ayabe", "gender": "male", "conf": "med", "why": "continues, references getting the money back"},
-  "11": {"speaker": "Ayabe", "gender": "male", "conf": "med", "why": "continues recounting Red Nose's death, fitting his police-informant knowledge"},
-  "12": {"speaker": "Ayabe", "gender": "male", "conf": "med", "why": "continues, specific coroner/police details fit his info-broker role"},
-  "13": {"speaker": "Ayabe", "gender": "male", "conf": "med", "why": "continues, cause of death detail"},
-  "14": {"speaker": "Yakuza member", "gender": "male", "conf": "low", "why": "unnamed bystander's shocked reaction"},
-  "15": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "angry reaction, realizing Higashi killed the man Kaito took the fall for"},
-  "16": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "current TH marked M; direct demand matches his role as lead investigator"},
-  "17": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "urges Higashi to answer, personal emotional stake in the outcome"},
-  "18": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; confession, addresses Kaito as 'aniki'"},
-  "19": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "continues confession"},
-  "20": {"speaker": "Higashi", "gender": "male", "conf": "high", "why": "current TH marked M; continues confession"},
-  "21": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "dry summarizing comment on Higashi's motive"},
-  "22": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "challenges Higashi to prove his claim by lowering the gun"},
-  "23": {"speaker": "Tashiro", "gender": "male", "conf": "high", "why": "cue=male(tashiro); refuses on Higashi's behalf"},
-  "24": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "refers to himself and Yagami as 'Tak and I', confirming the speaker is not Yagami"},
-  "25": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues the logical challenge about the gun"},
-  "26": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "continues, points out limited bullets"},
-  "27": {"speaker": "Umazuki", "gender": "male", "conf": "high", "why": "cue=male(umazuki), a registered Matsugane-side character"},
-  "28": {"speaker": "Unknown", "gender": "male", "conf": "low", "why": "unclear which yakuza member reacts; all characters present in this bar brawl are male"},
-  "29": {"speaker": "Koga", "gender": "male", "conf": "med", "why": "talk=Koga (registered male); EN-B explicitly names Yagami as the target of the shout"},
-  "30": {"speaker": "Tashiro", "gender": "male", "conf": "med", "why": "commands the crew to attack, fits his established aggressive role"},
-  "31": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "tells bystander Ayabe ('old timer') to clear out before the fight, fits Kaito's joking tone"},
-  "32": {"speaker": "Yakuza member", "gender": "male", "conf": "low", "why": "generic battle cry from an attacking thug"},
-  "33": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "addresses Yagami by his nickname 'Tak', confirming speaker is not Yagami"},
-  "34": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "talk=Yagami; responds to Kaito's battle cry"},
-  "35": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "current TH marked M; addresses 'Kaito-san' directly as his paid investigator/employer"},
-  "36": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "enthusiastic reply to Yagami's quip as the fight begins"}
+  "1": {
+   "speaker": "Yakuza member",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลูกน้อง Higashi เรียกก่อน Yagami/Kaito มาถึง — กลุ่มยากูซ่าไม่มีแท็กหญิงในเกม (characters_gender.md)",
+   "source": "cinema_low_C2.json"
+  },
+  "2": {
+   "speaker": "Yakuza member",
+   "gender": "male",
+   "conf": "med",
+   "why": "รายงานว่า Yagami/Kaito มาถึง ต่อเนื่อง r1 — role male เดียวกัน",
+   "source": "cinema_low_C2.json"
+  },
+  "3": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "surprised to see Kaito show up, addresses him as 'Kaito-san'"
+  },
+  "4": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "justifies their presence, referencing 'what you pulled'"
+  },
+  "5": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "suspicious response, 'what the hell are you doing here'"
+  },
+  "6": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(ayabe)"
+  },
+  "7": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues pressing about Red Nose's death, fitting his role as the info-broker who tracked Red Nose"
+  },
+  "8": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "feigns ignorance ('Who?') in response to being accused; row 9's 'don't play dumb' replies directly to this"
+  },
+  "9": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "presses further, matches his informant role established via cue at row 6"
+  },
+  "10": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, references getting the money back"
+  },
+  "11": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues recounting Red Nose's death, fitting his police-informant knowledge"
+  },
+  "12": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, specific coroner/police details fit his info-broker role"
+  },
+  "13": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, cause of death detail"
+  },
+  "14": {
+   "speaker": "Yakuza member",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตกใจเมื่อ Ayabe ถาม Higashi เรื่องฆ่า Red Nose — role male เดียวกับ r1-2",
+   "source": "cinema_low_C2.json"
+  },
+  "15": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "angry reaction, realizing Higashi killed the man Kaito took the fall for"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; direct demand matches his role as lead investigator"
+  },
+  "17": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "กดดัน Higashi ต่อจาก r15-16 (Kaito/Yagami ถามเรื่องฆาตกรรม) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "18": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; confession, addresses Kaito as 'aniki'"
+  },
+  "19": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues confession"
+  },
+  "20": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; continues confession"
+  },
+  "21": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "dry summarizing comment on Higashi's motive"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "challenges Higashi to prove his claim by lowering the gun"
+  },
+  "23": {
+   "speaker": "Tashiro",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(tashiro); refuses on Higashi's behalf"
+  },
+  "24": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "refers to himself and Yagami as 'Tak and I', confirming the speaker is not Yagami"
+  },
+  "25": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues the logical challenge about the gun"
+  },
+  "26": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, points out limited bullets"
+  },
+  "27": {
+   "speaker": "Umazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(umazuki), a registered Matsugane-side character"
+  },
+  "28": {
+   "speaker": "Unknown thug",
+   "gender": "male",
+   "conf": "med",
+   "why": "อยู่ระหว่าง Umazuki (r27) กับ Koga (r29) ปฏิกิริยาตกใจต่อเนื่องกัน — ทั้งกลุ่มลูกน้อง Higashi/Tashiro เป็นชายล้วน",
+   "source": "cinema_low_C2.json"
+  },
+  "29": {
+   "speaker": "Koga",
+   "gender": "male",
+   "conf": "med",
+   "why": "talk=Koga (registered male); EN-B explicitly names Yagami as the target of the shout"
+  },
+  "30": {
+   "speaker": "Tashiro",
+   "gender": "male",
+   "conf": "med",
+   "why": "commands the crew to attack, fits his established aggressive role"
+  },
+  "31": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "tells bystander Ayabe ('old timer') to clear out before the fight, fits Kaito's joking tone"
+  },
+  "32": {
+   "speaker": "Yakuza member",
+   "gender": "male",
+   "conf": "med",
+   "why": "ด่า Yagami/Kaito ระหว่างชุลมุนหลัง r31 — role male กลุ่มเดียวกับ r1/2/14",
+   "source": "cinema_low_C2.json"
+  },
+  "33": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "addresses Yagami by his nickname 'Tak', confirming speaker is not Yagami"
+  },
+  "34": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talk=Yagami; responds to Kaito's battle cry"
+  },
+  "35": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "current TH marked M; addresses 'Kaito-san' directly as his paid investigator/employer"
+  },
+  "36": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "enthusiastic reply to Yagami's quip as the fight begins"
+  }
  }
 }

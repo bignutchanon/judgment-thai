@@ -91,10 +91,10 @@
   "source": "talk_overrides_P1.json"
  },
  "Drone Race Receptionist": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "no gendered reference found in given lines (nearby list empty)",
-  "source": "talk_overrides_P1.json"
+  "gender": "female",
+  "conf": "high",
+  "why": "powerpyx.com 'Judgment KamuroGo Shop Missions Guide' (https://www.powerpyx.com/judgment-kamurogo-shop-missions-guide/) calls this exact NPC 'the counter lady' when describing the Drone Champion section ('...speaking to the counter lady again'). Matches judge_minigame speaker_id 906's own lines (register for drone races / test flight).",
+  "source": "talk_overrides_P3.json"
  },
  "Iseya": {
   "gender": "male",
@@ -133,10 +133,10 @@
   "source": "talk_overrides_P1.json"
  },
  "Staff": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "no direct pronoun/address found for this speaker specifically in given lines (r14 'guy' in nearby lines refers to the President, not Staff)",
-  "source": "talk_overrides_P1.json"
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_friend_a53 r14 [Yagami], the line immediately after this speaker's r13: '...Wait, you're the guy who runs this place!?' — direct address to him. This is the Ikinari Steak friend substory; its owner Kunio Ichinose is already registered male in build/gender/characters_gender.md ('His logic on how to run a business is pretty unique for a ma[n]...').",
+  "source": "talk_overrides_P3.json"
  },
  "Homeless Kondo": {
   "gender": "male",
@@ -175,15 +175,15 @@
   "source": "talk_overrides_P1.json"
  },
  "Yukikawa": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "nearby gendered pronouns (he/his/Young Master/gentleman) all refer to Ryuzenji, whom Yukikawa is addressing, not to Yukikawa itself; no direct evidence for Yukikawa's own gender",
-  "source": "talk_overrides_P1.json"
+  "gender": "male",
+  "conf": "high",
+  "why": "Butler/financial retainer who addresses someone as 'Young Master' and reports his wealth ('you possess... two hundred million, sir'), then furiously defends 'the Ryuzenji Group' when it is attacked ('You little pissant... raising a hand to the Ryuzenji Group!?') in judge_friend_g02, part of Tsukino Saotome's dating substory where Daichi Ryuzenji (registry-confirmed male) is her obsessive suitor. This same registry already has 'Ryuzenji's Butler' resolved male/high ('butler is an inherently male-gendered household-staff role title') — Yukikawa's own lines describe exactly that butler role for the Ryuzenji household, so this is very likely the same butler character under his personal name in a different scene (per this file's own rule: same speaker, different tag per scene -> answer per the real identity)",
+  "source": "talk_overrides_P2.json"
  },
  "Tsunawatari": {
   "gender": "unknown",
   "conf": "low",
-  "why": "nearby gendered pronouns (she/her/ma'am) all refer to Sana, not to Tsunawatari; no direct evidence found for Tsunawatari's own gender",
+  "why": "translations/glossary.md locks 'Tsunawatari' as a named side-character (one of Sana Mihama's fan-club members in judge_side_a15 / the 'Amidst a Dream' side case), but web walkthroughs (https://www.thegamer.com/judgment-sana-mihama-dating-guide/, https://nightlygamingbinge.com/judgment-amidst-a-dream/) only describe 'Sana's fans' as an unnamed collective and never confirm this specific fan's own gender; nearby lines only gender Sana herself ('she'/'her' r13/r214/r222/r300/r301), not Tsunawatari; matches existing (unlocked) registry entry in translations/speaker_gender_overrides.json",
   "source": "talk_overrides_P1.json"
  },
  "Panicking Man": {
@@ -237,8 +237,8 @@
  "Client": {
   "gender": "unknown",
   "conf": "low",
-  "why": "the only nearby gendered line ('the locksmith man') addresses the locksmith (Yagami's cover role), not the Client; no evidence found for the Client's own gender",
-  "source": "talk_overrides_P1.json"
+  "why": "Own lines (judge_friend_a47, locksmith substory) have no self-referential gendered pronoun. Nearby r164 '...the locksmith man...' addresses Yagami (posing as the locksmith), not this Client. WebSearch on the Toshiro Koizuka locksmith friend-quest confirms a different client per job but surfaced no gender detail for this specific one.",
+  "source": "talk_overrides_P3.json"
  },
  "Hungry Boy": {
   "gender": "male",
@@ -430,7 +430,7 @@
  "Le Marche Employee": {
   "gender": "unknown",
   "conf": "low",
-  "why": "no gendered pronoun, address term, or role reference found in the given lines",
+  "why": "Store greeter with only 2 lines total (judge_friend_a39 r1, r3: 'Welcome back...sir' / 'I remember all the names and faces of my valued customers'); no gendered pronoun/address/role term in own lines or nearby lines. Not the same speaker as 'Terahara' the named tailor also in table judge_friend_a39 — that is a separate, already-resolved speaker_id with far more lines (referenced starting r19); the friends.json 'his eyes' quote belongs to Terahara, not this greeter. characters_gender.md's 'lemarche_boy' tag matches the naming pattern of unrelated ambient location voice-bark tags (rouge_boy, alpes_boy, koga_boy, toba_boy, fanta_boy, alvin_boy, skate_boy, emerald_boy, etc.), so it is not safely assumed to be this specific 2-line dialogue speaker_id",
   "source": "talk_overrides_P2.json"
  },
  "Man in Suit": {
@@ -573,10 +573,10 @@
   "source": "lead 2026-09-05"
  },
  "Oikawa": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "no pronoun found referring to Oikawa himself in given lines; the he/him nearby (r94, r100, r101) refer to his client (the father) or a third-party salesman, not Oikawa",
-  "source": "talk_overrides_P3.json"
+  "gender": "male",
+  "conf": "high",
+  "why": "the father's (Jin's) attorney in the Chapter 4 custody case vs. Azusa (judge_side_a29). Multiple independent walkthroughs consistently use he/his for him: GameFAQs 'Chapter 4: Skeletons in the Closet' (https://gamefaqs.gamespot.com/ps4/247615-judgment/faqs/77509/chapter-4-skeletons-in-the-closet) and a Chapter 4 recap (https://www.camzillasmom.com/judgment-2019/chapter-4-skeletons-in-the-closet-complete-walkthrough-judgment-video-game-2019.html) both describe 'Oikawa tries to continue and state that he's got a case' and that he was 'fraudulently representing his client (Jin)'; Yakuza Wiki Judgment/Chapter 4 (https://yakuza.fandom.com/wiki/Judgment/Chapter_4) corroborates the same scene/role",
+  "source": "talk_overrides_P2.json"
  },
  "Motomura": {
   "gender": "male",
@@ -599,8 +599,8 @@
  "Tired Senpai": {
   "gender": "unknown",
   "conf": "low",
-  "why": "no pronoun or address term referring to Tired Senpai himself found in given lines",
-  "source": "talk_overrides_P3.json"
+  "why": "no gendered self-reference in own lines (judge_smoker_talk01); nearby lines only gender the third party being discussed (Nishiyama, called 'her'/'she' by Enthusiastic Kohai r9/r14/r15/r22), not the speaker; JA internal name judge_喫煙_疲れた先輩 (tired senpai) carries no gender marker; single fixed speaker_id+table (not a reused generic tag), so neutral does not apply either",
+  "source": "talk_overrides_P1.json"
  },
  "Bald Man": {
   "gender": "male",
@@ -609,10 +609,10 @@
   "source": "talk_overrides_P3.json"
  },
  "Young Janitor": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "no pronoun/address referring to him directly found; nearby 'Ma'am' at r47 addresses Rei, not this speaker",
-  "source": "talk_overrides_P3.json"
+  "gender": "male",
+  "conf": "high",
+  "why": "internal JA name judge_清掃員の青年 — 青年 (seinen) specifically means 'young man' (male-specific term, as opposed to 女性/少女 for a young woman). Also directly addressed as 'sir' twice by Yagami in the same exchange (judge_side_a14 r37, r41), immediately adjacent to this speaker's own r36/r38/r40/r42 lines",
+  "source": "talk_overrides_P2.json"
  },
  "Azusa": {
   "gender": "female",
@@ -634,16 +634,16 @@
   "source": "talk_overrides_P3.json"
  },
  "Yoshida Owner": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "no gendered reference found in given lines",
-  "source": "talk_overrides_P3.json"
+  "gender": "male",
+  "conf": "high",
+  "why": "web-confirmed real name: 'Yoshida', manager of the Yoshida Batting Center, who succeeded his father as manager (https://yakuza.fandom.com/wiki/Yoshida ; https://yakuza.fandom.com/wiki/Yoshida_Batting_Center); own lines (judge_friend_a05) describe the secret 'Devil's Course' batting challenge, matching those pages' description of Yoshida offering the Devil's Course once all regular courses are cleared",
+  "source": "talk_overrides_P1.json"
  },
  "Manager": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "nearby gendered lines (shared table judge_side_a44) refer to a cat or to Nekomiya, not to Manager himself",
-  "source": "talk_overrides_P3.json"
+  "gender": "male",
+  "conf": "high",
+  "why": "judge_side_a44 is the 'A Valuable Cat'/'Secret of Cats' substory — matches the 'Taihei Boulevard' cat-sighting detail in this speaker's own r41 line exactly. Primary-source walkthrough quote from powerpyx.com (https://www.powerpyx.com/judgment-side-cases-walkthrough/): 'Speak to the Manager and he says he thinks he's seen the cat around Taihei Blvd, and gives you some food to try and bait the cat with' — explicit 'he'",
+  "source": "talk_overrides_P2.json"
  },
  "Suspicious Man": {
   "gender": "male",
@@ -652,16 +652,16 @@
   "source": "talk_overrides_P3.json"
  },
  "Club Sega Employee": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "no gendered reference found in given lines",
+  "gender": "female",
+  "conf": "high",
+  "why": "powerpyx.com 'Judgment KamuroGo Shop Missions Guide' (https://www.powerpyx.com/judgment-kamurogo-shop-missions-guide/): 'you can speak to the girl at the nearby counter to have the prize layout reset' — this is the UFO Catcher counter at Club SEGA, matching judge_minigame_ufo speaker_id 963's own lines ('Welcome to Club SEGA, sir!... All done!').",
   "source": "talk_overrides_P3.json"
  },
  "Akaushimaru Employee": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "no gendered reference found in given lines",
-  "source": "talk_overrides_P3.json"
+  "gender": "male",
+  "conf": "high",
+  "why": "matches the manager of Akaushimaru (Hotel District) beef-bowl restaurant: 'the manager will ask you to try their new item, and later he'll tell you that he lost his secret recipe' (https://www.thegamer.com/judgment-complete-friend-guide-walkthrough/), directly paralleling own lines in judge_friend_a29 about a 'new entree' and 'I came up with the recipe myself'",
+  "source": "talk_overrides_P1.json"
  },
  "Scared Student": {
   "gender": "male",
@@ -670,9 +670,9 @@
   "source": "talk_overrides_P3.json"
  },
  "Middle-aged Barker": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "nearby gendered address terms (dude/man) in given lines appear directed at Yosuke, not clearly at Middle-aged Barker himself",
+  "gender": "male",
+  "conf": "med",
+  "why": "No line in judge_friend_tamariba directly pronouns this specific speaker (r175/176/186/187's dude/man/he/guy/him all address Yagami or a third-party customer, not him). Contextual: same scene/profession (barker touting 'cop a feel on some females') as Yosuke Saotome, who self-identifies as 'a barker' 2 rows away and is already registered male in characters_gender.md. The project's own gender registry also carries a separate distinct tag 'kyakuhiki_gal' (sex=2) for female touts elsewhere, implying the plain キャッチ/'barker' tag used here follows the male-tout convention in this game's own internal naming. Role-based inference, not a direct pronoun — kept at medium.",
   "source": "talk_overrides_P3.json"
  },
  "Shakedown Subordinate": {
@@ -690,8 +690,8 @@
  "Drone Lab Receptionist": {
   "gender": "unknown",
   "conf": "low",
-  "why": "no gendered reference found in given lines",
-  "source": "talk_overrides_P3.json"
+  "why": "role tag only, no personal name to search; web search found only generic Drone Lab shop/location info (e.g. https://yakuza.fandom.com/wiki/Drone_Lab describes the facility, not staff), no character-specific source; own lines ('Welcome. This is the drone lab. Care to develop parts?') contain no gendered self-reference",
+  "source": "talk_overrides_P1.json"
  },
  "Old Receptionist": {
   "gender": "male",
@@ -708,8 +708,8 @@
  "Ota": {
   "gender": "unknown",
   "conf": "low",
-  "why": "no direct pronoun for Ota found; nearby her references are about Sana Mihama, not Ota; the friends.json quotes matched to this entry (Sota Nonomura/Naotaro Terahara) appear to be unrelated data artifacts, not Ota's own profile",
-  "source": "talk_overrides_P3.json"
+  "why": "No gendered reference to Ota himself in the given lines — the he/she pronouns in the nearby lines (judge_side_a15 r273, r300) refer to Sana Mihama (registry-confirmed female), not to Ota. Web research confirms judge_side_a15 is the 'Yume no Tochuu'/'Amidst a Dream' side case (Sana's fans track down her kidnapper, gather outside his office on Taihei Street) per JP walkthroughs gamewith.jp (https://gamewith.jp/judgeeyes/article/show/134532) and gameranbu.jp (https://gameranbu.jp/judgeeyes/4ab4fca38f8725fbf3fd), which confirm a 'trio of fans' (ファンの三人組) exists but do not name or gender the individual fans including Ota",
+  "source": "talk_overrides_P2.json"
  },
  "Hunting Man": {
   "gender": "male",
@@ -718,10 +718,10 @@
   "source": "talk_overrides_P3.json"
  },
  "Thug with Spunk": {
-  "gender": "unknown",
-  "conf": "low",
-  "why": "no gendered reference found for this speaker in given lines; the nearby 'Mr.' line is Tanago introducing himself, not this speaker",
-  "source": "talk_overrides_P3.json"
+  "gender": "male",
+  "conf": "high",
+  "why": "Same table judge_friend_a30: this speaker's only line (r2, taunting 'you mad? You can try again any time... I could use some extra pocket change!') immediately precedes r4, where [Tanago] introduces himself with the identical challenge gimmick ('the name's Tanago, but you can call me... Mr. Try and Hit Me!' — landing a hit nets the player money). Per Yakuza Wiki (https://yakuza.fandom.com/wiki/Mr._Try_and_Hit_Me and https://yakuza.fandom.com/wiki/Kenji_Tanago), 'Mr. Try and Hit Me' is Kenji Tanago's nickname for exactly this punch-out substory. Kenji Tanago is confirmed male in characters_gender.md ('Kenji Tanago | ชาย'). This is the same speaker under a scene-opening placeholder tag before his name reveal, per this file's own rule for same-speaker/different-tag-per-scene characters",
+  "source": "talk_overrides_P2.json"
  },
  "Ryuzenji": {
   "gender": "male",
@@ -810,5 +810,11 @@
   "why": "judge_side_a45 r45 Yagami: '(This guy seems to know quite a bit about Kiriko...)'",
   "locked": true,
   "source": "lead 2026-09-05 (per speaker_id)"
+ },
+ "Judge Creep 'n Peep": {
+  "gender": "male",
+  "conf": "high",
+  "why": "Yagami's own narration in nearby lines (judge_side_a03 r41/r43/r46/r47) repeatedly uses he/him/himself for this character while describing him climbing a wall and being shot down; externally confirmed for this exact Twisted Trio case: 'he seems to have a habit of looking in on couples who are in Love Hotels' and 'a man dressed in black peering into one of the Hotel windows' (https://selphie1999gaming.com/game-guides/judgment-all-side-cases-side-quests-got-to-the-bottom-of-it-guide/)",
+  "source": "talk_overrides_P1.json"
  }
 }

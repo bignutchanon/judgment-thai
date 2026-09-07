@@ -1,0 +1,268 @@
+# Sweep apply report
+
+รับ 45 จุด · lead ปฏิเสธ 7 · ปฏิเสธ ว่าง 29 · รับ G 1 · รับ H 1 · รับ L 39 · รับ N 1 · รับ V 3
+
+## รับแล้ว
+- `R01-0060` [L] 
+  - EN: "Are you hearing that?\nNow I'm getting tossed your goddamn leftovers."
+  - เดิม: 'ได้ยินป่ะเนี่ย\nตอนนี้ฉันโดนป้อนเดนๆ ของนายมาแทนแล้วนะ'
+  - ใหม่: 'ได้ยินป่ะเนี่ย\nตอนนี้ผมโดนป้อนเดนๆ ของนายมาแทนแล้วนะ'
+- `R01-0061` [L] 
+  - EN: "You hearing this?\nLooks like I'm getting your scraps."
+  - เดิม: 'ได้ยินนี่ป่ะ\nดูเหมือนฉันจะได้แต่เดนๆ ของนาย'
+  - ใหม่: 'ได้ยินนี่ป่ะ\nดูเหมือนผมจะได้แต่เดนๆ ของนาย'
+- `R01-0160` [L] 
+  - EN: "'Kay."
+  - เดิม: 'ครับ'
+  - ใหม่: 'โอเค'
+- `R01-0219` [L] 
+  - EN: "What's your name?"
+  - เดิม: 'แกชื่ออะไรเหรอ?'
+  - ใหม่: 'นายชื่ออะไรเหรอ?'
+- `R01-0228` [L] 
+  - EN: 'Hand over what you owe,\nand round it to 150k for my trouble.\u3000'
+  - เดิม: 'เอาเงินที่ติดค้างมาคืน\nปัดขึ้นเป็น 150,000 เยนเป็นค่าเหนื่อยกู'
+  - ใหม่: 'เอาเงินที่ติดค้างมาคืน\nปัดขึ้นเป็น 150,000 เยนเป็นค่าเหนื่อยผม'
+- `R01-0332` [L] 
+  - EN: 'You, uh...'
+  - เดิม: 'แก... เอ่อ...'
+  - ใหม่: 'นาย... เอ่อ...'
+- `R01-0567` [L] 
+  - EN: 'Where are you...!?'
+  - เดิม: 'มึงหายไปไหน...!?'
+  - ใหม่: 'นายหายไปไหน...!?'
+- `R01-0717` [L] 
+  - EN: 'Really? I need more time!'
+  - เดิม: 'จริงดิ? ฉันต้องการเวลาเพิ่มอีกหน่อย!'
+  - ใหม่: 'จริงดิ? ผมต้องการเวลาเพิ่มอีกหน่อย!'
+- `R01-0718` [L] 
+  - EN: 'Do something. I need more time!'
+  - เดิม: 'ทำอะไรสักอย่างสิ ฉันต้องการเวลาเพิ่มอีกหน่อย!'
+  - ใหม่: 'ทำอะไรสักอย่างสิ ผมต้องการเวลาเพิ่มอีกหน่อย!'
+- `R01-0987` [V] 
+  - EN: 'Not yet, no.'
+  - เดิม: 'ยังไม่หรอกว่ะ'
+  - ใหม่: 'ยังไม่หรอกนะ'
+- `R01-0988` [V] 
+  - EN: '...Not yet, no.'
+  - เดิม: '...ยังไม่หรอกว่ะ'
+  - ใหม่: '...ยังไม่หรอกนะ'
+- `R02-0011` [G] 
+  - EN: 'Need something?'
+  - เดิม: 'ต้องการอะไรหรือคะ?'
+  - ใหม่: 'ต้องการอะไรหรือครับ?'
+- `R02-0016` [N] 
+  - EN: 'Hamura-san.'
+  - เดิม: 'คุณฮามุระครับ'
+  - ใหม่: 'คุณฮามุระ'
+- `R02-0154` [L] 
+  - EN: "I can't stand him.\nGuy doesn't give a rat's ass about yakuza."
+  - เดิม: 'ฉันทนไอ้นั่นไม่ไหว\nมันไม่แคร์ยากูซ่าเลยสักนิด'
+  - ใหม่: 'กูทนไอ้นั่นไม่ไหว\nมันไม่แคร์ยากูซ่าเลยสักนิด'
+- `R02-0155` [L] 
+  - EN: "He doesn't give a shit about yakuza.\nI can't stand the guy."
+  - เดิม: 'มันไม่แคร์ยากูซ่าเลยสักนิด\nฉันทนไอ้นั่นไม่ไหวจริงๆ'
+  - ใหม่: 'มันไม่แคร์ยากูซ่าเลยสักนิด\nกูทนไอ้นั่นไม่ไหวจริงๆ'
+- `R02-0285` [L] 
+  - EN: "They've got me gathering evidence.\nFor a murder trial."
+  - เดิม: 'เขาให้ฉันไปรวบรวมหลักฐาน\nสำหรับคดีฆาตกรรม'
+  - ใหม่: 'เขาให้ผมไปรวบรวมหลักฐาน\nสำหรับคดีฆาตกรรม'
+- `R02-0321` [L] 
+  - EN: "Don't whine.\nI thought you liked keeping busy."
+  - เดิม: 'อย่าบ่นน่า\nนึกว่าแกชอบมีอะไรทำซะอีก'
+  - ใหม่: 'อย่าบ่นน่า\nนึกว่านายชอบมีอะไรทำซะอีก'
+- `R02-0322` [L] 
+  - EN: "Hey, don't complain.\nI thought you liked keeping busy."
+  - เดิม: 'เฮ้ อย่าบ่นสิ\nนึกว่าแกชอบมีอะไรทำซะอีก'
+  - ใหม่: 'เฮ้ อย่าบ่นสิ\nนึกว่านายชอบมีอะไรทำซะอีก'
+- `R02-0339` [L] 
+  - EN: "You ready? I'm gonna play it."
+  - เดิม: 'แกพร้อมหรือยัง ฉันจะเปิดให้ดูแล้วนะ'
+  - ใหม่: 'นายพร้อมหรือยัง ฉันจะเปิดให้ดูแล้วนะ'
+- `R02-0704` [L] 
+  - EN: "I'm here on business.\nThat should be obvious."
+  - เดิม: 'ฉันมาธุระค่ะ\nน่าจะเห็นชัดอยู่แล้วนี่'
+  - ใหม่: 'ดิฉันมาธุระค่ะ\nน่าจะเห็นชัดอยู่แล้วนี่'
+- `R02-0727` [L] 
+  - EN: "Izumida, huh...? Haven't seen him since\nyour big win, Tak."
+  - เดิม: 'อิซุมิดะเหรอ...? ไม่ได้เจอไอ้นั่นเลย\nตั้งแต่ตอนที่แกชนะคดีใหญ่นั่น ทาคุ'
+  - ใหม่: 'อิซุมิดะเหรอ...? ไม่ได้เจอไอ้นั่นเลย\nตั้งแต่ตอนที่นายชนะคดีใหญ่นั่น ทาคุ'
+- `R02-0918` [L] 
+  - EN: "I dunno. The guy rubs me the wrong way, yeah...\nBut I'm pretty sure he's innocent."
+  - เดิม: 'ไม่รู้สิ ไอ้หมอนั่นน่ะทำให้ฉันหมั่นไส้ อยู่หรอกนะ...\nแต่ฉันค่อนข้างมั่นใจว่าเขาบริสุทธิ์'
+  - ใหม่: 'ไม่รู้สิ ไอ้หมอนั่นน่ะทำให้ผมหมั่นไส้ อยู่หรอกนะ...\nแต่ผมค่อนข้างมั่นใจว่าเขาบริสุทธิ์'
+- `R02-0919` [L] 
+  - EN: "Hamura rubs me the wrong way, yeah...\nBut I dunno. I think he's innocent."
+  - เดิม: 'ฮามุระทำให้ฉันหมั่นไส้อยู่หรอกนะ...\nแต่ไม่รู้สิ ฉันว่าเขาบริสุทธิ์'
+  - ใหม่: 'ฮามุระทำให้ผมหมั่นไส้อยู่หรอกนะ...\nแต่ไม่รู้สิ ผมว่าเขาบริสุทธิ์'
+- `R02-0922` [L] 
+  - EN: "If he really did it... forget about the eyes.\nYou'd never even find the body."
+  - เดิม: 'ถ้าเขาทำจริง... อย่าว่าแต่ลูกตาเลย\nแกคงไม่มีวันเจอศพด้วยซ้ำ'
+  - ใหม่: 'ถ้าเขาทำจริง... อย่าว่าแต่ลูกตาเลย\nคงไม่มีวันเจอศพด้วยซ้ำ'
+- `R02-0932` [L] 
+  - EN: "Hah. You think we've got\nthe manpower for that?"
+  - เดิม: 'ฮ่า แกคิดว่าเรามีกำลังคน\nมากพอจะทำแบบนั้นเหรอ'
+  - ใหม่: 'ฮ่า นายคิดว่าเรามีกำลังคน\nมากพอจะทำแบบนั้นเหรอ'
+- `R02-0935` [L] 
+  - EN: "Tracking down a criminal? That takes an entire organized front.\nIf I were you, I'd leave that to the cops."
+  - เดิม: 'จะตามล่าฆาตกรเนี่ยนะ ต้องใช้กำลังทั้งองค์กรเลยนะ\nถ้าเป็นแก ฉันคงปล่อยให้ตำรวจจัดการ'
+  - ใหม่: 'จะตามล่าฆาตกรเนี่ยนะ ต้องใช้กำลังทั้งองค์กรเลยนะ\nถ้าเป็นนาย ผมคงปล่อยให้ตำรวจจัดการ'
+- `R02-0936` [L] 
+  - EN: 'My only job here is defending Hamura.'
+  - เดิม: 'งานของฉันตรงนี้มีแค่แก้ต่างให้ฮามุระ'
+  - ใหม่: 'งานของผมตรงนี้มีแค่แก้ต่างให้ฮามุระ'
+- `R03-0835` [L] 
+  - EN: "Any way you slice it, you're trapped.\nNo chance you leave here alive."
+  - เดิม: 'ยังไงมึงก็หนีไม่พ้นหรอก\nไม่มีทางออกไปจากที่นี่แบบเป็น ๆ แน่'
+  - ใหม่: 'ยังไงคุณก็หนีไม่พ้นหรอก\nไม่มีทางออกไปจากที่นี่แบบเป็น ๆ แน่'
+- `R03-0738` [L] 
+  - EN: 'Like I can just "buy time"...\nWhat now?'
+  - เดิม: 'จะให้ฉัน "ถ่วงเวลา" ง่าย ๆ แค่นั้นเองเหรอ...\nเอาไงต่อดีล่ะเนี่ย'
+  - ใหม่: 'จะให้ผม "ถ่วงเวลา" ง่าย ๆ แค่นั้นเองเหรอ...\nเอาไงต่อดีล่ะเนี่ย'
+- `R03-0274` [L] 
+  - EN: 'Give me a call once you do.'
+  - เดิม: 'จัดการเสร็จแล้วโทรบอกฉันด้วยนะ'
+  - ใหม่: 'จัดการเสร็จแล้วโทรบอกผมด้วยนะ'
+- `R03-0968` [H] 
+  - EN: "You're wrong!"
+  - เดิม: 'ยากามิเข้าใจผิดแล้วละ!'
+  - ใหม่: 'คุณเข้าใจผิดแล้ว!'
+- `R04-0009` [L] 
+  - EN: 'Wait, me? <font_kind=yakuza_italic>Me</font_kind>?'
+  - เดิม: 'เดี๋ยวนะ ฉันเหรอ? <font_kind=yakuza_italic>ฉัน</font_kind>เนี่ยนะ?'
+  - ใหม่: 'เดี๋ยวนะ ผมเหรอ? <font_kind=yakuza_italic>ผม</font_kind>เนี่ยนะ?'
+- `R04-0016` [L] 
+  - EN: 'I <font_kind=yakuza_italic>own</font_kind> it!'
+  - เดิม: 'นี่มัน<font_kind=yakuza_italic>ของกู</font_kind>เองโว้ย!'
+  - ใหม่: 'นี่มัน<font_kind=yakuza_italic>ของฉัน</font_kind>เองนะ!'
+- `R04-0034` [L] 
+  - EN: 'Pretty expensive tastes.\nSorta outta your price range, huh?'
+  - เดิม: 'รสนิยมแพงเชียวนะ\nเกินตัวมึงไปหน่อยมั้ง?'
+  - ใหม่: 'รสนิยมแพงเชียวนะ\nเกินตัวนายไปหน่อยมั้ง?'
+- `R04-0035` [L] 
+  - EN: 'For a broke guy,\nyou sure pick some classy spots.'
+  - เดิม: 'ทั้งที่หมดตัวแท้ๆ\nมึงยังเลือกที่หรูๆ แบบนี้อยู่ได้เนอะ'
+  - ใหม่: 'ทั้งที่หมดตัวแท้ๆ\nนายยังเลือกที่หรูๆ แบบนี้อยู่ได้เนอะ'
+- `R04-0039` [L] 
+  - EN: 'Maybe I should be asking\nyou the same question, yeah?'
+  - เดิม: 'บางทีกูน่าจะถามมึง\nคำถามเดียวกันนี้กลับไปว่ะ?'
+  - ใหม่: 'บางทีผมน่าจะถามนาย\nคำถามเดียวกันนี้กลับไปมากกว่ามั้ง?'
+- `R04-0040` [L] 
+  - EN: 'The question is, why are <font_kind=yakuza_italic>you</font_kind> here? Huh?'
+  - เดิม: 'คำถามคือ ทำไม<font_kind=yakuza_italic>มึง</font_kind>ถึงมาอยู่ตรงนี้ล่ะ หา?'
+  - ใหม่: 'คำถามคือ ทำไม<font_kind=yakuza_italic>นาย</font_kind>ถึงมาอยู่ตรงนี้ล่ะ หา?'
+- `R05-0505` [L] 
+  - EN: "Not my name, don't ask me."
+  - เดิม: 'ฉันไม่ได้ตั้งชื่อนั้นให้มันนะ อย่าถามฉัน'
+  - ใหม่: 'กูไม่ได้ตั้งชื่อนั้นให้มันนะ อย่าถามกู'
+- `R05-0506` [L] 
+  - EN: "Not my nickname, don't ask me."
+  - เดิม: 'ฉันไม่ได้ตั้งฉายานั้นให้มันนะ อย่าถามฉัน'
+  - ใหม่: 'กูไม่ได้ตั้งฉายานั้นให้มันนะ อย่าถามกู'
+- `R05-0514` [L] 
+  - EN: "Haven't heard a peep about him.\nAnd I'm keen to keep it that way."
+  - เดิม: 'ไม่ได้ยินข่าวคราวมันเลยสักแอะ\nและฉันก็อยากให้มันเป็นแบบนี้ต่อไป'
+  - ใหม่: 'ไม่ได้ยินข่าวคราวมันเลยสักแอะ\nและกูก็อยากให้มันเป็นแบบนี้ต่อไป'
+- `R05-0515` [L] 
+  - EN: "Higashi never talked much about him.\nI wasn't too keen on asking, either."
+  - เดิม: 'ฮิงาชิไม่ค่อยพูดถึงมันเท่าไหร่\nฉันเองก็ไม่ค่อยอยากถามอยู่แล้ว'
+  - ใหม่: 'ฮิงาชิไม่ค่อยพูดถึงมันเท่าไหร่\nกูเองก็ไม่ค่อยอยากถามอยู่แล้ว'
+- `R05-0523` [L] 
+  - EN: 'If a guy like him could\npull that off, so can I.'
+  - เดิม: 'ถ้าคนแบบมันยังทำได้\nฉันก็ต้องทำได้เหมือนกัน'
+  - ใหม่: 'ถ้าคนแบบมันยังทำได้\nผมก็ต้องทำได้เหมือนกัน'
+- `R05-0524` [L] 
+  - EN: '...If he can do it, so can I.\nRed Nose, huh...?'
+  - เดิม: '...ถ้ามันทำได้ ฉันก็ต้องทำได้เหมือนกัน\nจมูกแดงสินะ...?'
+  - ใหม่: '...ถ้ามันทำได้ ผมก็ต้องทำได้เหมือนกัน\nจมูกแดงสินะ...?'
+- `R05-0308` [L] 
+  - EN: "I didn't have the cash, so I dropped it.\nHaven't brought it up since."
+  - เดิม: 'ผมไม่มีเงินพอ เลยปล่อยผ่านไป\nไม่ได้พูดถึงอีกเลยตั้งแต่นั้น'
+  - ใหม่: 'ฉันไม่มีเงินพอ เลยปล่อยผ่านไป\nไม่ได้พูดถึงอีกเลยตั้งแต่นั้น'
+- `R05-0957` [V] 
+  - EN: "You're coming with me, you piece of shit!"
+  - เดิม: 'นายต้องไปกับผมแล้วละ ไอ้เศษสวะ!'
+  - ใหม่: 'นายต้องไปกับกูแล้วละ ไอ้เศษสวะ!'
+
+## ทุกรายการ
+- findings_01.json `R01-0060` [L] รับ (high)
+- findings_01.json `R01-0061` [L] รับ (high)
+- findings_01.json `R01-0160` [L] รับ (high)
+- findings_01.json `R01-0219` [L] รับ (high)
+- findings_01.json `R01-0228` [L] รับ (high)
+- findings_01.json `R01-0332` [L] รับ (high)
+- findings_01.json `R01-0567` [L] รับ (high)
+- findings_01.json `R01-0717` [L] รับ (high)
+- findings_01.json `R01-0718` [L] รับ (high)
+- findings_01.json `R01-0987` [V] รับ (mid)
+- findings_01.json `R01-0988` [V] รับ (mid)
+- findings_02.json `R02-0011` [G] รับ (high)
+- findings_02.json `R02-0016` [N] รับ (high)
+- findings_02.json `R02-0154` [L] รับ (high)
+- findings_02.json `R02-0155` [L] รับ (high)
+- findings_02.json `R02-0171` [H] lead ปฏิเสธ
+- findings_02.json `R02-0172` [H] lead ปฏิเสธ
+- findings_02.json `R02-0285` [L] รับ (high)
+- findings_02.json `R02-0321` [L] รับ (high)
+- findings_02.json `R02-0322` [L] รับ (high)
+- findings_02.json `R02-0339` [L] รับ (high)
+- findings_02.json `R02-0704` [L] รับ (high)
+- findings_02.json `R02-0727` [L] รับ (high)
+- findings_02.json `R02-0918` [L] รับ (high)
+- findings_02.json `R02-0919` [L] รับ (high)
+- findings_02.json `R02-0922` [L] รับ (mid)
+- findings_02.json `R02-0932` [L] รับ (mid)
+- findings_02.json `R02-0935` [L] รับ (high)
+- findings_02.json `R02-0936` [L] รับ (high)
+- findings_03.json `R03-0835` [L] รับ (high)
+- findings_03.json `R03-0738` [L] รับ (high)
+- findings_03.json `R03-0274` [L] รับ (mid)
+- findings_03.json `R03-0968` [H] รับ (mid)
+- findings_03.json `R03-0517` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0518` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0520` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0521` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0523` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0524` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0528` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0529` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0530` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0531` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0536` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0537` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0540` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0541` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0542` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0543` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0545` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0548` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0549` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0553` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0554` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0650` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0944` [S] ปฏิเสธ: ว่าง
+- findings_03.json `R03-0945` [S] ปฏิเสธ: ว่าง
+- findings_04.json `R04-0009` [L] รับ (high)
+- findings_04.json `R04-0016` [L] รับ (mid)
+- findings_04.json `R04-0034` [L] รับ (high)
+- findings_04.json `R04-0035` [L] รับ (high)
+- findings_04.json `R04-0039` [L] รับ (high)
+- findings_04.json `R04-0040` [L] รับ (high)
+- findings_04.json `R04-0232` [S] ปฏิเสธ: ว่าง
+- findings_04.json `R04-0233` [S] ปฏิเสธ: ว่าง
+- findings_04.json `R04-0378` [G] lead ปฏิเสธ
+- findings_04.json `R04-0837` [S] ปฏิเสธ: ว่าง
+- findings_04.json `R04-0564` [V] ปฏิเสธ: ว่าง
+- findings_04.json `R04-0946` [L] lead ปฏิเสธ
+- findings_04.json `R04-0947` [L] lead ปฏิเสธ
+- findings_04.json `R04-0948` [L] lead ปฏิเสธ
+- findings_04.json `R04-0949` [L] lead ปฏิเสธ
+- findings_05.json `R05-0505` [L] รับ (high)
+- findings_05.json `R05-0506` [L] รับ (high)
+- findings_05.json `R05-0514` [L] รับ (high)
+- findings_05.json `R05-0515` [L] รับ (high)
+- findings_05.json `R05-0523` [L] รับ (high)
+- findings_05.json `R05-0524` [L] รับ (high)
+- findings_05.json `R05-0572` [S] ปฏิเสธ: ว่าง
+- findings_05.json `R05-0308` [L] รับ (mid)
+- findings_05.json `R05-0957` [V] รับ (mid)

@@ -1,16 +1,72 @@
 {
  "scene": "a06_030",
  "rows": {
-  "1": {"speaker": "Umazuki", "gender": "male", "conf": "high", "why": "cue=male(umazuki); registry confirms umazuki male"},
-  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "notices Hattori, protagonist reacting"},
-  "3": {"speaker": "Umazuki", "gender": "male", "conf": "med", "why": "continues surprised reaction thread from row 1"},
-  "4": {"speaker": "Umazuki", "gender": "male", "conf": "med", "why": "continues, questions who the old man (Kajihira) is"},
-  "5": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "recognition reaction, protagonist tone"},
-  "6": {"speaker": "Unnamed", "gender": "unknown", "conf": "low", "why": "generic exclamation, no reliable cue evidence for this specific scene"},
-  "7": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) talk=Yagami explicit"},
-  "8": {"speaker": "Hattori", "gender": "male", "conf": "high", "why": "registry confirms Ko Hattori male; journalist providing exposition, identifies Yagami Detective Agency"},
-  "9": {"speaker": "Hattori", "gender": "male", "conf": "high", "why": "continues explaining who the 'old man' (Kajihira) is, matches journalist's informed role"},
-  "10": {"speaker": "Sugiura", "gender": "male", "conf": "high", "why": "cue=male(sugiura); ch6 summary has Sugiura relaying info about Kajihira remotely"},
-  "11": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "cue=male(kaito) and cue=male(yagami,kaito) both include kaito; reacts with realization"}
+  "1": {
+   "speaker": "Umazuki",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(umazuki); registry confirms umazuki male"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "notices Hattori, protagonist reacting"
+  },
+  "3": {
+   "speaker": "Umazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues surprised reaction thread from row 1"
+  },
+  "4": {
+   "speaker": "Umazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues, questions who the old man (Kajihira) is"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "recognition reaction, protagonist tone"
+  },
+  "6": {
+   "speaker": "Umazuki",
+   "gender": "male",
+   "conf": "med",
+   "why": "บทสนทนาก่อนหน้ามีแค่ยากามิกับอุมาสึกิ (ทะเบียนชาย) ปฏิกิริยา 'Huh?' หลังยากามิพูดน่าจะเป็นอุมาสึกิ",
+   "source": "cinema_low_C1.json"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami) talk=Yagami explicit"
+  },
+  "8": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "high",
+   "why": "registry confirms Ko Hattori male; journalist providing exposition, identifies Yagami Detective Agency"
+  },
+  "9": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues explaining who the 'old man' (Kajihira) is, matches journalist's informed role"
+  },
+  "10": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(sugiura); ch6 summary has Sugiura relaying info about Kajihira remotely"
+  },
+  "11": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(kaito) and cue=male(yagami,kaito) both include kaito; reacts with realization"
+  }
  }
 }

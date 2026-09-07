@@ -166,8 +166,9 @@
   "28": {
    "speaker": "Yosuke Saotome",
    "gender": "male",
-   "conf": "low",
-   "why": "Confused reaction to Yagami's suggestion; hint conflict (mixed cue, talk=Sana/Yagami)"
+   "conf": "high",
+   "why": "ตอบ Yagami ที่ r27 ('There's gotta be something better') ด้วยความประหลาดใจ ก่อน r29 ชวนร่วมงาน — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
   },
   "29": {
    "speaker": "Yagami",

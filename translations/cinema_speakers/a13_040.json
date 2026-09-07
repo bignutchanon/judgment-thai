@@ -1,38 +1,207 @@
 {
  "scene": "a13_040",
  "rows": {
-  "1": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Accusatory tone toward Morita about his 'guilt' being an act"},
-  "2": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Continues the accusation"},
-  "3": {"speaker": "Morita", "gender": "male", "conf": "med", "why": "Likely Morita cutting off Yagami's accusation ('That's enough')"},
-  "4": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Presses further about Morita's brother, ignoring row3's objection"},
-  "5": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "Directly names 'Morita!' demanding an answer"},
-  "6": {"speaker": "Morita", "gender": "male", "conf": "med", "why": "Responds telling Yagami to be quiet"},
-  "7": {"speaker": "Morita", "gender": "male", "conf": "low", "why": "cue=male(tashiro), but likely a generic voice-bank bark ('Shut up!') reused across scenes (same exact cue appears for the unrelated witness Tashiro in a13_030); content fits Morita continuing to demand silence"},
-  "8": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "Defiant reply matches the protagonist confronting Morita"},
-  "9": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "Mentions his clients Okubo-kun and Ayabe depending on him"},
-  "10": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Continues, mentions Emi Terasawa deserving justice"},
-  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "Continues, vows not to stop"},
-  "12": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "Uses nickname 'Tak' for Yagami (his signature address), warns Kuroiwa has arrived"},
-  "13": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "Arrives, addresses Morita respectfully as 'Chief Prosecutor', offers to take over"},
-  "14": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami), greets Kuroiwa ('Long time no see')"},
-  "15": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "Continues mocking Kuroiwa's quick recovery"},
-  "16": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "Boastful response about having gone easy on Yagami before"},
-  "17": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "Angry reaction to Kuroiwa's arrogance; could be Yagami, gender male regardless"},
-  "18": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "Taunts about a two-versus-one fight"},
-  "19": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "Continues taunting, refers to Yagami in third person"},
-  "20": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "talk=Aoi hint does not match any known character in the registry; content (rude tone) fits Kuroiwa addressing Kaito dismissively"},
-  "21": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "Continues mocking Kaito about turning a blind eye"},
-  "22": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "cue=male(yagami) talk=Yagami, addresses 'Kaito-san' trying to hold him back"},
-  "23": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "Continues, asks Kaito to stay out of the fight"},
-  "24": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "Refuses to stay out; cue lists both yagami/kaito as candidates but content (personal vendetta explained in rows 25-27) fits Kaito better"},
-  "25": {"speaker": "Kaito", "gender": "male", "conf": "med", "why": "Explains it's his turn to fight, referencing Yagami having fought Kuroiwa before"},
-  "26": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "States his motive: Kuroiwa killed Matsugane-san"},
-  "27": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "Continues, wants to pay Kuroiwa back"},
-  "28": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "Mocks the 'touching words' addressing 'Yagami-san'; may be a generalized taunt at both Yagami and Kaito despite Kaito having just spoken"},
-  "29": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "Continues taunting, invites attack"},
-  "30": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "Reassures Kaito he won't be arrested for obstruction, matches Yagami's authority as a detective"},
-  "31": {"speaker": "Kuroiwa", "gender": "male", "conf": "med", "why": "Dismisses the arrest talk"},
-  "32": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "Turns the accusation back on Kuroiwa's legitimacy as a cop; could be Yagami instead"},
-  "33": {"speaker": "Kaito", "gender": "male", "conf": "low", "why": "Continues accusation, calls him an assassin"}
+  "1": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Accusatory tone toward Morita about his 'guilt' being an act"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues the accusation"
+  },
+  "3": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "Likely Morita cutting off Yagami's accusation ('That's enough')"
+  },
+  "4": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Presses further about Morita's brother, ignoring row3's objection"
+  },
+  "5": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Directly names 'Morita!' demanding an answer"
+  },
+  "6": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "Responds telling Yagami to be quiet"
+  },
+  "7": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง r6 ('Shut up. Just...') ย้ำคำเดิม — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "8": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Defiant reply matches the protagonist confronting Morita"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Mentions his clients Okubo-kun and Ayabe depending on him"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues, mentions Emi Terasawa deserving justice"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues, vows not to stop"
+  },
+  "12": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Uses nickname 'Tak' for Yagami (his signature address), warns Kuroiwa has arrived"
+  },
+  "13": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "Arrives, addresses Morita respectfully as 'Chief Prosecutor', offers to take over"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami), greets Kuroiwa ('Long time no see')"
+  },
+  "15": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues mocking Kuroiwa's quick recovery"
+  },
+  "16": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "Boastful response about having gone easy on Yagami before"
+  },
+  "17": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "โกรธ Kuroiwa ต่อจาก r16 ('I went too easy') ก่อน r18 Kuroiwa พูดถึง 'two versus one' — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "18": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "Taunts about a two-versus-one fight"
+  },
+  "19": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues taunting, refers to Yagami in third person"
+  },
+  "20": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "talk=Aoi hint does not match any known character in the registry; content (rude tone) fits Kuroiwa addressing Kaito dismissively"
+  },
+  "21": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues mocking Kaito about turning a blind eye"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "cue=male(yagami) talk=Yagami, addresses 'Kaito-san' trying to hold him back"
+  },
+  "23": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues, asks Kaito to stay out of the fight"
+  },
+  "24": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Refuses to stay out; cue lists both yagami/kaito as candidates but content (personal vendetta explained in rows 25-27) fits Kaito better"
+  },
+  "25": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Explains it's his turn to fight, referencing Yagami having fought Kuroiwa before"
+  },
+  "26": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "States his motive: Kuroiwa killed Matsugane-san"
+  },
+  "27": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "Continues, wants to pay Kuroiwa back"
+  },
+  "28": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "Mocks the 'touching words' addressing 'Yagami-san'; may be a generalized taunt at both Yagami and Kaito despite Kaito having just spoken"
+  },
+  "29": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "Continues taunting, invites attack"
+  },
+  "30": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "Reassures Kaito he won't be arrested for obstruction, matches Yagami's authority as a detective"
+  },
+  "31": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "Dismisses the arrest talk"
+  },
+  "32": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง r33 (Kaito เดิม 'goddamn assassin') ด่า Kuroiwa เรื่องไม่ใช่ตำรวจจริง — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "33": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง r32 ประโยคเดียวกัน — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  }
  }
 }

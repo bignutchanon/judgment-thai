@@ -1,12 +1,48 @@
 {
  "scene": "p03_00100",
  "rows": {
-  "1": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "third-person recap narration about Hamura and the Mole"},
-  "2": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration ('Yagami's progress is impeded')"},
-  "3": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
-  "4": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration"},
-  "5": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "continues third-person recap narration ('Yagami receives a little support')"},
-  "6": {"speaker": "Unknown", "gender": "unknown", "conf": "low", "why": "one-word transition 'But...'; hint gives a mixed audio cue across Yagami/Mafuyu/Honda/Ichinose plus a separate talk-line match to the unrelated NPC Tsukino -- too generic/contradictory a phrase to attribute reliably to any single speaker"},
-  "7": {"speaker": "Narration", "gender": "narration", "conf": "high", "why": "closing line of the recap narration ('The night is still young')"}
+  "1": {
+   "speaker": "Narration",
+   "gender": "narration",
+   "conf": "high",
+   "why": "third-person recap narration about Hamura and the Mole"
+  },
+  "2": {
+   "speaker": "Narration",
+   "gender": "narration",
+   "conf": "high",
+   "why": "continues third-person recap narration ('Yagami's progress is impeded')"
+  },
+  "3": {
+   "speaker": "Narration",
+   "gender": "narration",
+   "conf": "high",
+   "why": "continues third-person recap narration"
+  },
+  "4": {
+   "speaker": "Narration",
+   "gender": "narration",
+   "conf": "high",
+   "why": "continues third-person recap narration"
+  },
+  "5": {
+   "speaker": "Narration",
+   "gender": "narration",
+   "conf": "high",
+   "why": "continues third-person recap narration ('Yagami receives a little support')"
+  },
+  "6": {
+   "speaker": "Narration",
+   "gender": "neutral",
+   "conf": "high",
+   "why": "อยู่ระหว่างบทบรรยาย (Narration) สองบรรทัด เป็นส่วนต่อของเสียงบรรยายเดียวกัน",
+   "source": "cinema_low_C1.json"
+  },
+  "7": {
+   "speaker": "Narration",
+   "gender": "narration",
+   "conf": "high",
+   "why": "closing line of the recap narration ('The night is still young')"
+  }
  }
 }

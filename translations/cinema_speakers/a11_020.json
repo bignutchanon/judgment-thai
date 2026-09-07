@@ -1,52 +1,295 @@
 {
  "scene": "a11_020",
  "rows": {
-  "1": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "reaction to the ambush, generic short line, protagonist default"},
-  "2": {"speaker": "Akira Murase", "gender": "male", "conf": "low", "why": "calls Hamura 'Captain', checking if he's okay, fits a Matsugane subordinate present at the fire"},
-  "3": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "med", "why": "shocked utterance of 'Matsugane-san...' right after his boss is shot protecting him; cue lists both hamura and yagami as candidates"},
-  "4": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "shocked reaction witnessing the shooting, generic short line"},
-  "5": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "detective identifying the shooter as the Mole"},
-  "6": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "warning shout, generic short line during the chaos"},
-  "7": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "low", "why": "reassurance shouted during the confrontation, generic short line"},
-  "8": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "low", "why": "shocked reaction during the fight with the Mole"},
-  "9": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "talk=Yagami match; aggressive command during the chase/fight with the Mole"},
-  "10": {"speaker": "Masaharu Kaito", "gender": "male", "conf": "low", "why": "generic aggressive shout during the fight"},
-  "11": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "addresses Matsugane as 'Boss' in anguish after he's shot protecting him"},
-  "12": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "continues Hamura's guilt-ridden reaction ('After all I did...')"},
-  "13": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "confirms the shooter's identity as the Mole, investigative framing"},
-  "14": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "med", "why": "dying Matsugane reflects that the Mole would do the same in his position since Hamura 'knew too much', wise reflective tone fits the boss"},
-  "15": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "med", "why": "continues Matsugane's reflection, wishing he wasn't right about the danger"},
-  "16": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "addresses Matsugane directly, rough tone, calling him too soft-hearted for protecting him"},
-  "17": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "continues Hamura's protest that Matsugane didn't need to protect him"},
-  "18": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "dying Matsugane responds to what Hamura said, explaining his choice"},
-  "19": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues, affirms he knew Hamura was right"},
-  "20": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues taking the blame onto himself"},
-  "21": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "concludes 'this is all my fault', continuation of rows 18-20"},
-  "22": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "med", "why": "protests Matsugane's self-blame ('No, it's not!'); cue names Yagami/Hoshino but content fits Hamura's emotional denial to his dying boss better"},
-  "23": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues self-blame, admits he wasn't good at running the business side"},
-  "24": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues, explains Hamura had to cross the line to protect the family because of his own shortcomings"},
-  "25": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues, admits he suspected wrongdoing but wasn't ignorant"},
-  "26": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues, admits he looked the other way"},
-  "27": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues, admits he never asked where the money came from"},
-  "28": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "concludes he won't blame Hamura for any of it"},
-  "29": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "responds to Matsugane, pointing out he 'just did' what he's now denying blame for"},
-  "30": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "continues the same sentence from row 29 ('...what you had to'), comforting Matsugane"},
-  "31": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "med", "why": "cue explicitly lists 'matugane' as a candidate; dying apology fits Matsugane's final words"},
-  "32": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "reacts in denial as Matsugane fades ('No, not like this...')"},
-  "33": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "continues pleading with Matsugane not to die"},
-  "34": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues his dying explanation of wanting to make up for his past failures"},
-  "35": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "calls Matsugane an old fool for going this far, grief-stricken"},
-  "36": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "frames his sacrifice as what any father would do, matching his paternal role toward Hamura/Kaito/Yagami per character registry"},
-  "37": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "med", "why": "cries out Matsugane's name as he fades; cue lists both hamura and yagami as candidates"},
-  "38": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "cue=male(yagami) single-match, urging Matsugane to hold on"},
-  "39": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "dying Matsugane's final address, 'Tak, my boy' likely a nickname for Takayuki (Yagami), whom the registry names as a second father-figure relationship alongside Kaito"},
-  "40": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "continues, states this is the end for him"},
-  "41": {"speaker": "Mitsugu Matsugane", "gender": "male", "conf": "high", "why": "urges the others to hurry and get out"},
-  "42": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "med", "why": "refuses to leave without Matsugane, follows from being personally addressed as 'Tak' in row 39"},
-  "43": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "high", "why": "talk=Yagami match, urges the group to move"},
-  "44": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "reveals the Mole's identity as Kuroiwa, information only Hamura possesses at this point"},
-  "45": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "continues the reveal, telling them they now know the truth"},
-  "46": {"speaker": "Kyohei Hamura", "gender": "male", "conf": "high", "why": "continues shouting the reveal as he's taken away"},
-  "47": {"speaker": "Takayuki Yagami", "gender": "male", "conf": "low", "why": "shocked reaction to the reveal; cue tags are heavily mixed/contradictory across two entries, unreliable for identity"}
+  "1": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ปฏิกิริยาต่อเหตุยิงก่อน r2 Murase ถาม Hamura — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "2": {
+   "speaker": "Akira Murase",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียก Hamura ว่า 'Captain' (ตำแหน่งกัปตันของ Hamura ในตระกูลมัตสึกาเนะ) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "3": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "shocked utterance of 'Matsugane-san...' right after his boss is shot protecting him; cue lists both hamura and yagami as candidates"
+  },
+  "4": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง r5 'Is that the Mole?' (Yagami เดิม) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "5": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "detective identifying the shooter as the Mole"
+  },
+  "6": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ร้องห้ามก่อน r7 Kaito ('Hold on!') — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "7": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "'...Sir!' = Kaito เรียก Matsugane ('ท่าน') ตอนเห็นท่านล้ม สอดคล้อง r11 Hamura โศกเศร้าเรื่อง Matsugane — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "8": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่อง r7 ถามหาคนร้าย ('Who the hell!?') — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "9": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talk=Yagami match; aggressive command during the chase/fight with the Mole"
+  },
+  "10": {
+   "speaker": "Masaharu Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อเนื่องอารมณ์โกรธจาก r8-9 — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  },
+  "11": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "addresses Matsugane as 'Boss' in anguish after he's shot protecting him"
+  },
+  "12": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues Hamura's guilt-ridden reaction ('After all I did...')"
+  },
+  "13": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "confirms the shooter's identity as the Mole, investigative framing"
+  },
+  "14": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "dying Matsugane reflects that the Mole would do the same in his position since Hamura 'knew too much', wise reflective tone fits the boss"
+  },
+  "15": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues Matsugane's reflection, wishing he wasn't right about the danger"
+  },
+  "16": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "addresses Matsugane directly, rough tone, calling him too soft-hearted for protecting him"
+  },
+  "17": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues Hamura's protest that Matsugane didn't need to protect him"
+  },
+  "18": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "dying Matsugane responds to what Hamura said, explaining his choice"
+  },
+  "19": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, affirms he knew Hamura was right"
+  },
+  "20": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues taking the blame onto himself"
+  },
+  "21": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "concludes 'this is all my fault', continuation of rows 18-20"
+  },
+  "22": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "protests Matsugane's self-blame ('No, it's not!'); cue names Yagami/Hoshino but content fits Hamura's emotional denial to his dying boss better"
+  },
+  "23": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues self-blame, admits he wasn't good at running the business side"
+  },
+  "24": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, explains Hamura had to cross the line to protect the family because of his own shortcomings"
+  },
+  "25": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, admits he suspected wrongdoing but wasn't ignorant"
+  },
+  "26": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, admits he looked the other way"
+  },
+  "27": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, admits he never asked where the money came from"
+  },
+  "28": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "concludes he won't blame Hamura for any of it"
+  },
+  "29": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "responds to Matsugane, pointing out he 'just did' what he's now denying blame for"
+  },
+  "30": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues the same sentence from row 29 ('...what you had to'), comforting Matsugane"
+  },
+  "31": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue explicitly lists 'matugane' as a candidate; dying apology fits Matsugane's final words"
+  },
+  "32": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts in denial as Matsugane fades ('No, not like this...')"
+  },
+  "33": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues pleading with Matsugane not to die"
+  },
+  "34": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues his dying explanation of wanting to make up for his past failures"
+  },
+  "35": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls Matsugane an old fool for going this far, grief-stricken"
+  },
+  "36": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "frames his sacrifice as what any father would do, matching his paternal role toward Hamura/Kaito/Yagami per character registry"
+  },
+  "37": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "cries out Matsugane's name as he fades; cue lists both hamura and yagami as candidates"
+  },
+  "38": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "cue=male(yagami) single-match, urging Matsugane to hold on"
+  },
+  "39": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "dying Matsugane's final address, 'Tak, my boy' likely a nickname for Takayuki (Yagami), whom the registry names as a second father-figure relationship alongside Kaito"
+  },
+  "40": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues, states this is the end for him"
+  },
+  "41": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "urges the others to hurry and get out"
+  },
+  "42": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "refuses to leave without Matsugane, follows from being personally addressed as 'Tak' in row 39"
+  },
+  "43": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "talk=Yagami match, urges the group to move"
+  },
+  "44": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "reveals the Mole's identity as Kuroiwa, information only Hamura possesses at this point"
+  },
+  "45": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues the reveal, telling them they now know the truth"
+  },
+  "46": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues shouting the reveal as he's taken away"
+  },
+  "47": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตกใจหลัง Hamura เฉลย 'Kuroiwa is the Mole!' (r46) — ทะเบียนยืนยัน male",
+   "source": "cinema_low_C2.json"
+  }
  }
 }

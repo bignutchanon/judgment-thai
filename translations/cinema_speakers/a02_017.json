@@ -3,9 +3,10 @@
  "rows": {
   "1": {
    "speaker": "Unknown combatant",
-   "gender": "unknown",
-   "conf": "low",
-   "why": "No cue/talk hint and no naming context; a taunt during a fight, speaker could be Yagami or an enemy"
+   "gender": "male",
+   "conf": "med",
+   "why": "มุขต่อสู้จากศัตรูทั่วไป เกมนี้ไม่มีแท็ก 'female thug' เลย (characters_gender.md แถว street-thug catch-all)",
+   "source": "cinema_low_C1.json"
   }
  }
 }

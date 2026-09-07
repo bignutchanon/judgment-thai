@@ -1,43 +1,234 @@
 {
  "scene": "a08_025",
  "rows": {
-  "1": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "taunts a downed opponent right after finishing a fight, matches Kaito's aggressive style"},
-  "2": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "row marked M; defiant reply despite losing the spar; row 6 confirms Kaito 'runs into the guy' repeatedly, i.e. Yagami"},
-  "3": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "addresses Kaito by name commenting on the beating; sets up his dialogue with Kaito over the next rows"},
-  "4": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "greets the newly arrived boss as 'Boss'"},
-  "5": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "asks Kaito if the beaten man is 'the Yagami kid you were talking about'"},
-  "6": {"speaker": "Kaito", "gender": "male", "conf": "high", "why": "row marked M; answers that this happens every time he runs into Yagami"},
-  "7": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "turns to address Yagami directly as 'asshole'"},
-  "8": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "mocks Yagami for repeatedly getting beaten by Kaito"},
-  "9": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "continues mocking Yagami for coming back for more"},
-  "10": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "calls Yagami 'kiddo', continuing the taunt"},
-  "11": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "row marked M; retorts, calling him a 'bullshit yakuza'"},
-  "12": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "amused, repeats Yagami's insult back"},
-  "13": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "comments on Yagami's attitude, continuing the exchange"},
-  "14": {"speaker": "Yagami", "gender": "male", "conf": "med", "why": "aggressive retort continuing the same back-and-forth pattern as rows 11/23"},
-  "15": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "med", "why": "continues taunting Yagami in the same exchange"},
-  "16": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "low", "why": "short reaction 'Wha?'; EN-A blank, ambiguous placement in the exchange"},
-  "17": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "begins reminiscing 'back in the day', starting his monologue to Yagami"},
-  "18": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "continues addressing Yagami, comparing himself to him"},
-  "19": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "recounts his own violent past, continuing the monologue"},
-  "20": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "continues backstory, ending up in Kamurocho"},
-  "21": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "compares Yagami to his past self, calling him 'my boy'; cue tag (yagami) most likely marks the addressee, not the speaker, since content continues his own monologue"},
-  "22": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "row marked M; annoyed retort, 'don't talk like you know me'"},
-  "23": {"speaker": "Yagami", "gender": "male", "conf": "high", "why": "continues the retort, 'you don't know shit'"},
-  "24": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "insists he does know Yagami, responding to row 23"},
-  "25": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "continues recounting his own youth going down the wrong path"},
-  "26": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "transitions with 'and now...', continuing the monologue"},
-  "27": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "again compares Yagami to his younger self, calling him 'my boy'"},
-  "28": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "med", "why": "concludes 'I can tell', continuing his own monologue; cue/talk tags point at Yagami but likely reflect a reused generic short phrase rather than the actual speaker here"},
-  "29": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "reflects on people having no choice but to turn to the yakuza, continuing the monologue"},
-  "30": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "contrasts his own lost chance with Yagami's situation"},
-  "31": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "tells Yagami he still has a future ahead of him"},
-  "32": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "revisits calling Kamurocho a cesspool, continuing the monologue"},
-  "33": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "says the city is more than that, continuing"},
-  "34": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "describes Kamurocho as a city of dreams"},
-  "35": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "offers to help Yagami get ahead in the city"},
-  "36": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "offers to teach Yagami everything he knows"},
-  "37": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "transitions with 'but look...', continuing"},
-  "38": {"speaker": "Yakuza boss (unnamed)", "gender": "male", "conf": "high", "why": "teases Yagami about his repeated fights ('date nights') with Kaito, closing the scene"}
+  "1": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "taunts a downed opponent right after finishing a fight, matches Kaito's aggressive style"
+  },
+  "2": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "row marked M; defiant reply despite losing the spar; row 6 confirms Kaito 'runs into the guy' repeatedly, i.e. Yagami"
+  },
+  "3": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "addresses Kaito by name commenting on the beating; sets up his dialogue with Kaito over the next rows"
+  },
+  "4": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "greets the newly arrived boss as 'Boss'"
+  },
+  "5": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks Kaito if the beaten man is 'the Yagami kid you were talking about'"
+  },
+  "6": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "row marked M; answers that this happens every time he runs into Yagami"
+  },
+  "7": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "turns to address Yagami directly as 'asshole'"
+  },
+  "8": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "mocks Yagami for repeatedly getting beaten by Kaito"
+  },
+  "9": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues mocking Yagami for coming back for more"
+  },
+  "10": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls Yagami 'kiddo', continuing the taunt"
+  },
+  "11": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "row marked M; retorts, calling him a 'bullshit yakuza'"
+  },
+  "12": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "amused, repeats Yagami's insult back"
+  },
+  "13": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "comments on Yagami's attitude, continuing the exchange"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "aggressive retort continuing the same back-and-forth pattern as rows 11/23"
+  },
+  "15": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "med",
+   "why": "continues taunting Yagami in the same exchange"
+  },
+  "16": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "บทเดียวกับ monologue ยาวทั้งฉาก (r3-38 tag เดียวกัน high มาแล้ว) ต่อเนื่องจาก r15 ก่อน r17",
+   "source": "cinema_low_C2.json"
+  },
+  "17": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "begins reminiscing 'back in the day', starting his monologue to Yagami"
+  },
+  "18": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues addressing Yagami, comparing himself to him"
+  },
+  "19": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "recounts his own violent past, continuing the monologue"
+  },
+  "20": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues backstory, ending up in Kamurocho"
+  },
+  "21": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "compares Yagami to his past self, calling him 'my boy'; cue tag (yagami) most likely marks the addressee, not the speaker, since content continues his own monologue"
+  },
+  "22": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "row marked M; annoyed retort, 'don't talk like you know me'"
+  },
+  "23": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues the retort, 'you don't know shit'"
+  },
+  "24": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "insists he does know Yagami, responding to row 23"
+  },
+  "25": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "continues recounting his own youth going down the wrong path"
+  },
+  "26": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "transitions with 'and now...', continuing the monologue"
+  },
+  "27": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "again compares Yagami to his younger self, calling him 'my boy'"
+  },
+  "28": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "med",
+   "why": "concludes 'I can tell', continuing his own monologue; cue/talk tags point at Yagami but likely reflect a reused generic short phrase rather than the actual speaker here"
+  },
+  "29": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "reflects on people having no choice but to turn to the yakuza, continuing the monologue"
+  },
+  "30": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "contrasts his own lost chance with Yagami's situation"
+  },
+  "31": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "tells Yagami he still has a future ahead of him"
+  },
+  "32": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "revisits calling Kamurocho a cesspool, continuing the monologue"
+  },
+  "33": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "says the city is more than that, continuing"
+  },
+  "34": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "describes Kamurocho as a city of dreams"
+  },
+  "35": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "offers to help Yagami get ahead in the city"
+  },
+  "36": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "offers to teach Yagami everything he knows"
+  },
+  "37": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "transitions with 'but look...', continuing"
+  },
+  "38": {
+   "speaker": "Yakuza boss (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "teases Yagami about his repeated fights ('date nights') with Kaito, closing the scene"
+  }
  }
 }

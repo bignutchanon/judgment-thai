@@ -136,8 +136,9 @@
   "23": {
    "speaker": "Thug",
    "gender": "male",
-   "conf": "low",
-   "why": "Bystander thug commenting on the commotion"
+   "conf": "med",
+   "why": "กลุ่มเดียวกับ r17-22/27/31/32/34 ในฉากเดียวกัน (ทุก Thug ยืนยัน male แล้ว) เกมนี้ไม่มีแท็ก 'Female Thug' เลย (characters_gender.md: street yakuza/thug catch-all)",
+   "source": "cinema_low_C2.json"
   },
   "24": {
    "speaker": "Kaito",
