@@ -56,11 +56,12 @@ Dragon Engine (PC port 2022) · codename ภายใน **`judge`** (✅ ยื
 9. agent ห้ามเขียนไฟล์ใหญ่ใน Write เดียว — แตก `.part` แล้ว merge
 10. license/EULA/credits คงอังกฤษ
 11. ห้ามรัน deploy ซ้อนสองตัวพร้อมกัน
+12. **ไฟล์ bin ต้องสร้างด้วย patch ในที่ ไม่ใช่ reARMP rebuild** (บทเรียน Y8/Gaiden ส.ค. 2026 · JETH เปลี่ยน 15 ก.ย. 2026 หลังรายงาน "not responding ทุก ~30 นาที"): reARMP ประกอบไฟล์ใหม่แล้วเลย์เอาต์ต่างจาก SEGA (main table ย้าย · padding · `SPECIAL_FIELD_INDICES` งอกศูนย์ · TEXT_COUNT dedup) → เกมค้าง/เด้งที่จอสอนปุ่มมินิเกมแม้ข้อความเป็น EN ล้วน · ใช้ `scripts/patch_text_inplace.py` (ผ่าน `build_text.py`) + `gen_font_bin.py` ในที่ แล้ว `scripts/check_inplace_bins.py` ต้องผ่านทุกไฟล์ · reARMP เหลือหน้าที่ decode/ตรวจกลับเท่านั้น
 
 ## ธรรมเนียมทีม + Pipeline + กฎการแปล
 ใช้ตาม CLAUDE.md ของ K3 ทุกข้อ (token budget, lead spawn คนเดียว, sonnet translators, merge_qc 7 เกณฑ์, DENY_BINS, DIALOG_TOKEN_RE ฯลฯ) — สคริปต์ port จาก K3 (แทนที่ bis→judge) และ **ค่า game-specific ต้อง verify กับไฟล์ Judgment จริงตอนใช้ครั้งแรก**
 - สายบิลด์ของภาคนี้ (ไม่ใช่ `apply_thai.py`/`deploy.py` ของ K3 — ฟอนต์คนละสถาปัตยกรรม) รันตามลำดับ:
-  `slot_alloc.py --write` → `inject_thai_title.py --slotmap` (วาด atlas) → คัดลอก atlas เป็น `meta_ot_cond_book_italic.dds` → `build_text.py --clean` (ข้อความทั้งเกม) → `gen_font_bin.py` (ตาราง advance — ต้องรันหลัง `--clean` ทุกครั้ง) → `strip_ui_sprite_slots.py --write` + `patch_drone_menu_titles.py --write` (ui.judge.en loose) → `deploy_spoil.py` (`--restore` ถอน)
+  `slot_alloc.py --write` → `inject_thai_title.py --slotmap` (วาด atlas) → คัดลอก atlas เป็น `meta_ot_cond_book_italic.dds` → `build_text.py --clean` (ข้อความทั้งเกม · **patch ในที่** เป็นค่าเริ่มต้นตั้งแต่ 15 ก.ย. 2026 — ห้ามส่ง `--builder rebuild` ลงเกม/แจก) → `gen_font_bin.py` (ตาราง advance · patch float ในที่ + ตรวจกลับ — ต้องรันหลัง `--clean` ทุกครั้ง) → `check_inplace_bins.py` (**ต้องผ่านทุกไฟล์** ก่อน deploy/แพ็ก) → `strip_ui_sprite_slots.py --write` + `patch_drone_menu_titles.py --write` (ui.judge.en loose) → `deploy_spoil.py` (`--restore` ถอน)
   · **กติกาตัดบรรทัดของเอนจิ้น (รอบ 20)**: ช่องว่างใช้ตัดบรรทัดได้เฉพาะเมื่อคำถัดไปยาว ≤ ~40 ตัว (หลัง encode) → `fix_thai_wrap.py` คุมทุก run ไทยไว้ ≤ 36 ตัว (TARGET 30) ก่อน deploy ต้อง `--check` = 0
   ตรวจงานก่อน deploy ด้วย `python scripts/preview_line.py` — จำลองการวาดของเอนจิ้นจาก atlas + ตารางจริง ออกมาเป็น PNG (ผู้ใช้เป็นคนเปิดเกม จึงต้องเห็นผลก่อนส่ง)
   ทั้งฟอนต์และข้อความอ่าน `translations/slotmap.json` ตัวเดียวกัน — แก้การจัดสรรที่เดียวแล้วรันใหม่ทั้งสองฝั่ง

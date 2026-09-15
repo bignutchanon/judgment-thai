@@ -30,9 +30,17 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import struct
+
 import paths
 import font_metrics as FM
 from slot_alloc import SlotMap
+from patch_text_inplace import (H_PCOL_CONTENT, H_PCOL_TYPES_AUX, H_ROW_COUNT, H_STORAGE_MODE,
+                                MAIN_PTR_OFF, _i32)
+
+SRC_BIN = paths.EXTRACTED / "db_en" / "en" / "font.bin"
+KERN_COL = 2                       # คอลัมน์ kerning_table ของตารางหลัก (ชนิด 9 = ตารางย่อย)
+FLOAT_COLS = (1, 2, 3, 4, 5, 6)    # 3 คู่ (L, R)
 
 SRC_JSON = paths.EXTRACTED / "db_en" / "en" / "font.bin.json"
 OUT_BIN = paths.BUILD / "text" / "db.judge.en" / "en" / "font.bin"
@@ -66,8 +74,86 @@ def rearmp_encode(json_path, work):
     return out
 
 
+def _row_ptr(buf, tbl, r):
+    """storage mode 1 (row-major): พอยน์เตอร์ของแถว r"""
+    assert buf[tbl + H_STORAGE_MODE] == 1, "คาดว่า font.bin ทุกตารางเป็น storage mode 1"
+    return _i32(buf, _i32(buf, tbl + H_PCOL_CONTENT) + 4 * r)
+
+
+def _col_shift(buf, tbl, c):
+    return _i32(buf, _i32(buf, tbl + H_PCOL_TYPES_AUX) + c * 16 + 4)
+
+
+def kern_table_offsets(buf, row_names):
+    """{ชื่อฟอนต์: ออฟเซ็ต header ของ kerning_table} จากตารางหลัก (ค้นด้วยเลขแถวในต้นฉบับ)"""
+    main = _i32(buf, MAIN_PTR_OFF)
+    shift = _col_shift(buf, main, KERN_COL)
+    out = {}
+    for idx, name in row_names.items():
+        sub = _i32(buf, _row_ptr(buf, main, idx) + shift)
+        assert sub > 0, "แถว %s ไม่มี kerning_table" % name
+        out[name] = sub
+    return out
+
+
+def patch_inplace(buf, tables, rows):
+    """เขียน (L, R) ลงคอลัมน์ 1-6 ของทุกเซลล์ที่ยึด ในทุกตาราง kerning_table -> (bytes, จำนวนเซลล์ที่แก้)"""
+    out = bytearray(buf)
+    n = 0
+    for name, tbl in tables.items():
+        n_rows = _i32(buf, tbl + H_ROW_COUNT)
+        shifts = {c: _col_shift(buf, tbl, c) for c in FLOAT_COLS}
+        for idx, (L, R) in sorted(rows.items()):
+            assert idx < n_rows, ("เซลล์ %d เกิน %d แถวของ kerning_table — donor ตัวนี้เอนจิ้นวาดไม่ได้"
+                                  % (idx, n_rows))
+            rp = _row_ptr(buf, tbl, idx)
+            for c, v in ((1, L), (2, R), (3, L), (4, R), (5, L), (6, R)):
+                struct.pack_into("<f", out, rp + shifts[c], float(v))
+            n += 1
+    return bytes(out), n
+
+
+def verify_inplace(built, data, rows):
+    """decode ไฟล์ที่ patch แล้วเทียบกับ JSON ต้นฉบับทุกเซลล์ — ต่างได้เฉพาะเซลล์ที่ตั้งใจแก้ · ไบต์นอกเซลล์ต้องเท่าเดิม"""
+    from patch_text_inplace import _cells, _decode
+    src = SRC_BIN.read_bytes()
+    assert len(built) == len(src), "ขนาดไฟล์เปลี่ยน (%d != %d)" % (len(built), len(src))
+    work = Path(tempfile.mkdtemp(prefix="jeth_fontchk_"))
+    try:
+        p = work / "font.bin"
+        p.write_bytes(built)
+        got = _cells(_decode(p, work, "a"))
+    finally:
+        shutil.rmtree(work, ignore_errors=True)
+    ref = _cells(data)
+    want = {}
+    for r in data:
+        if r.isdigit() and list(data[r])[0] in FONT_ROWS:
+            name = list(data[r])[0]
+            for idx, (L, R) in rows.items():
+                for c, v in ((1, L), (2, R), (3, L), (4, R), (5, L), (6, R)):
+                    want["/%s/%s/kerning_table/%d//%d" % (r, name, idx, c)] = struct.unpack("<f", struct.pack("<f", v))[0]
+    bad = []
+    for k in sorted(set(got) | set(ref)):
+        a, b = got.get(k), ref.get(k)
+        if a == b:
+            continue
+        if k in want and a == want[k]:
+            continue
+        bad.append((k, a, b))
+    n_changed = sum(1 for k in want if got.get(k) != ref.get(k))
+    diff_bytes = sum(1 for i in range(len(src)) if src[i] != built[i])
+    print("ตรวจกลับ: เซลล์ %s · เซลล์ที่ตั้งใจแก้ %d (เปลี่ยนจริง %d) · ผิดคาด %d · ไบต์ที่ต่างจากต้นฉบับ %d (สูงสุดที่เป็นไปได้ %d)"
+          % ("{:,}".format(len(ref)), len(want), n_changed, len(bad), diff_bytes, 4 * len(want)))
+    for k, a, b in bad[:8]:
+        print("   ผิดคาด %s: patched=%r orig=%r" % (k, a, b))
+    assert not bad, "ตรวจกลับไม่ผ่าน"
+    assert diff_bytes <= 4 * len(want), "มีไบต์เปลี่ยนนอกเซลล์ที่ตั้งใจ"
+
+
 def main():
     check_only = "--check" in sys.argv
+    rebuild = "--rebuild" in sys.argv
     assert SRC_JSON.exists(), f"ไม่พบต้นฉบับ {SRC_JSON} — รัน scripts/extract_all_en.py ก่อน"
     sm = SlotMap.load()
     rows = sm.kern_rows()
@@ -96,6 +182,18 @@ def main():
         "มีค่า L/R หลุดช่วง 0..2 — ตรวจ INK_X0 / mark_place ใน slot_alloc.py"
     if check_only:
         print("--check: ไม่เขียนไฟล์")
+        return
+
+    if not rebuild:
+        src = SRC_BIN.read_bytes()
+        row_names = {int(r): list(data[r])[0] for r in data if r.isdigit() and list(data[r])[0] in FONT_ROWS}
+        tables = kern_table_offsets(src, row_names)
+        built, n = patch_inplace(src, tables, rows)
+        print("patch ในที่: %s · %d เซลล์" % (" · ".join("%s@0x%X" % (k, v) for k, v in tables.items()), n))
+        verify_inplace(built, data, rows)
+        OUT_BIN.parent.mkdir(parents=True, exist_ok=True)
+        OUT_BIN.write_bytes(built)
+        print("เขียน %s (%d B · เลย์เอาต์ต้นฉบับ SEGA)" % (OUT_BIN, OUT_BIN.stat().st_size))
         return
 
     work = Path(tempfile.mkdtemp(prefix="jeth_font_"))

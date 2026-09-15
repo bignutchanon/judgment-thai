@@ -7,7 +7,11 @@
   2. `translations/master_th.json`    คำแปลรวม (EN -> ไทย · source of truth ข้อเดียว)
   3. `SlotMap.encode()`               ไทย -> สตริง donor ตาม `translations/slotmap.json`
      (map เดียวกับที่ `inject_thai_title.py --slotmap` ใช้วาดกลิฟ — ห้ามมีสำเนาที่สอง)
-  4. `tools/reARMP_fixed.py`          JSON -> .bin (ทำงานบนสำเนาใน temp เท่านั้น)
+  4. ตัวเขียนไฟล์ (เลือกด้วย --builder · ค่าเริ่มต้น = inplace ตั้งแต่ 15 ก.ย. 2026):
+     * inplace  = `patch_text_inplace.py` แก้เฉพาะ text offset ในไฟล์ต้นฉบับ SEGA แล้วต่อสตริงไทยท้ายไฟล์
+                  (เลย์เอาต์เหมือนต้นฉบับทุกไบต์ — Y8/Gaiden พิสูจน์แล้วว่าไฟล์ที่ reARMP ประกอบใหม่ทำเกมค้าง/เด้ง
+                  ที่จอสอนปุ่มของมินิเกม · ตรวจหลังบิลด์ด้วย `scripts/check_inplace_bins.py`)
+     * rebuild  = `tools/reARMP_fixed.py` JSON -> .bin ประกอบไฟล์ใหม่ทั้งไฟล์ (วิธีเดิม v1.0-v1.1.3 · เก็บไว้เทียบ)
 
 ไม่แตะไฟล์ต้นฉบับใน `extracted/` และไม่แตะเกม — deploy เป็นหน้าที่ `deploy_spoil.py`
 
@@ -43,6 +47,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import paths                                        # noqa: E402
 from make_worklist import DENY_BINS, KEEP_EN_BINS   # noqa: E402
 from slot_alloc import SlotMap                      # noqa: E402
+from patch_text_inplace import patch as inplace_patch  # noqa: E402
 
 BY_BIN = paths.EXTRACTED / "strings_by_bin.json"
 SRC_DIR = paths.DB_EN / "en"
@@ -51,6 +56,10 @@ REPORT = paths.BUILD / "text" / "build_report.md"
 
 # bin ที่ reARMP export ไม่ผ่านตั้งแต่ตอน extract -> ต้องแพตช์ระดับไบต์ (patch_bin_raw.py)
 RAW_BINS = {"ui_layer_text.bin"}
+
+# ค่าอังกฤษที่ห้ามแทนที่ในไฟล์นั้น (identifier ของเอนจิ้นที่บังเอิญตรงกับข้อความ — ตรวจ 15 ก.ย. 2026:
+# `ok` ใน message_dialog.bin = ชนิดกล่องข้อความ ไม่ใช่ป้ายปุ่ม · บทเรียนเดียวกับ Gaiden SKIP_VALUES)
+SKIP_VALUES = {"message_dialog.bin": ["ok"]}
 
 
 def rearmp_encode(json_path, work):
@@ -86,8 +95,34 @@ def walk_replace(obj, mapping, counter):
                 walk_replace(v, mapping, counter)
 
 
-def build_one(bin_name, mapping):
+def build_inplace(bin_name, mapping):
+    """patch ในที่บนไฟล์ต้นฉบับ SEGA — ไม่ต้องใช้ reARMP · ไบต์อื่นเหมือนต้นฉบับทุกไบต์"""
+    src_bin = SRC_DIR / bin_name
+    if not src_bin.exists():
+        return {"bin": bin_name, "ok": False, "err": "ไม่มีไฟล์ต้นฉบับ", "n": 0}
+    try:
+        skip = frozenset(SKIP_VALUES.get(bin_name, ()))
+        src = src_bin.read_bytes()
+        out, hits, ntab = inplace_patch(src, mapping, skip)
+        if hits == 0:
+            return {"bin": bin_name, "ok": True, "err": None, "n": 0}
+        sample = [v for v in list(mapping.values())[:5]]
+        missing = [v for v in sample if v.encode("utf-8") not in out]
+        if missing and len(missing) == len(sample):
+            return {"bin": bin_name, "ok": False, "n": hits,
+                    "err": "สตริงที่แทนไม่อยู่ในผลลัพธ์ (%d/%d ตัวอย่าง)" % (len(missing), len(sample))}
+        STAGE.mkdir(parents=True, exist_ok=True)
+        (STAGE / bin_name).write_bytes(out)
+        return {"bin": bin_name, "ok": True, "err": None, "n": hits, "tables": ntab,
+                "size": len(out)}
+    except Exception as e:                                   # noqa: BLE001
+        return {"bin": bin_name, "ok": False, "err": "%s: %s" % (type(e).__name__, e), "n": 0}
+
+
+def build_one(bin_name, mapping, builder="inplace"):
     """บิลด์ bin เดียว -> dict สรุปผล (ทำงานใน temp dir ของตัวเอง จึงขนานได้ปลอดภัย)"""
+    if builder == "inplace":
+        return build_inplace(bin_name, mapping)
     src_json = SRC_DIR / (bin_name + ".json")
     if not src_json.exists():
         return {"bin": bin_name, "ok": False, "err": "ไม่มี JSON (extract ไม่ผ่าน)", "n": 0}
@@ -162,7 +197,7 @@ def make_mappings(only=None):
                  "fail_kinds": fails}
 
 
-def write_report(results, stats, elapsed, path=REPORT):
+def write_report(results, stats, elapsed, path=REPORT, builder="inplace"):
     ok = [r for r in results if r["ok"] and r["n"]]
     skipped = [r for r in results if r["ok"] and not r["n"]]
     bad = [r for r in results if not r["ok"]]
@@ -175,7 +210,9 @@ def write_report(results, stats, elapsed, path=REPORT):
          "| encode ไม่ผ่าน | %d |" % stats["failed"],
          "| bin ที่บิลด์ไม่ผ่าน | %d |" % len(bad),
          "| bin ที่ไม่มีคู่แปล (ข้าม) | %d |" % len(skipped),
-         "| เวลา | %.1f วินาที |" % elapsed, "",
+         "| เวลา | %.1f วินาที |" % elapsed,
+         "| ตัวเขียนไฟล์ | %s |" % ("patch ในที่ (patch_text_inplace.py)" if builder == "inplace"
+                                    else "reARMP rebuild"), "",
          "## bin ที่บิลด์สำเร็จ (เรียงตามจำนวนสตริง)", "",
          "| bin | สตริงที่แทน | ขนาด (B) |", "|---|---|---|"]
     for r in sorted(ok, key=lambda r: -r["n"]):
@@ -202,13 +239,16 @@ def main():
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--dry-run", action="store_true", help="คำนวณอย่างเดียว ไม่เขียนไฟล์")
     ap.add_argument("--clean", action="store_true", help="ล้าง stage ก่อนบิลด์")
+    ap.add_argument("--builder", choices=["inplace", "rebuild"], default="inplace",
+                    help="inplace = patch ในที่บนไฟล์ SEGA (ค่าเริ่มต้น · ปลอดภัยกับเอนจิ้น) · "
+                         "rebuild = reARMP ประกอบใหม่ทั้งไฟล์ (วิธีเดิม เก็บไว้เทียบ)")
     a = ap.parse_args()
 
     only = {b.strip() for b in a.bins.split(",") if b.strip()} or None
     t0 = time.time()
     mappings, stats = make_mappings(only)
-    print("bin ที่ต้องบิลด์ %d · ประโยคไทย unique %s · encode ไม่ผ่าน %d"
-          % (len(mappings), "{:,}".format(stats["encoded"]), stats["failed"]))
+    print("bin ที่ต้องบิลด์ %d · ประโยคไทย unique %s · encode ไม่ผ่าน %d · builder=%s"
+          % (len(mappings), "{:,}".format(stats["encoded"]), stats["failed"], a.builder))
     for kind, items in stats["fail_kinds"].items():
         print("  !! %s (%d ประโยค)" % (kind, len(items)))
     if a.dry_run:
@@ -228,7 +268,7 @@ def main():
 
     results = []
     with cf.ProcessPoolExecutor(max_workers=a.workers) as ex:
-        futs = {ex.submit(build_one, b, m): b for b, m in mappings.items()}
+        futs = {ex.submit(build_one, b, m, a.builder): b for b, m in mappings.items()}
         for i, fut in enumerate(cf.as_completed(futs), 1):
             r = fut.result()
             results.append(r)
@@ -236,7 +276,9 @@ def main():
                   % (i, len(futs), "ok " if r["ok"] else "!! ", r["bin"], r["n"],
                      "" if r["ok"] else "  <- " + str(r["err"])))
     el = time.time() - t0
-    print("เขียน", write_report(results, stats, el))
+    print("เขียน", write_report(results, stats, el, builder=a.builder))
+    if a.builder == "inplace":
+        print("ตรวจเลย์เอาต์ต่อด้วย: python scripts/check_inplace_bins.py")
     bad = [r for r in results if not r["ok"]]
     print("สำเร็จ %d bin · ล้มเหลว %d · %.1f วินาที"
           % (len([r for r in results if r["ok"] and r["n"]]), len(bad), el))
