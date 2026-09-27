@@ -159,7 +159,11 @@ def main():
     for fname, want in TARGETS.items():
         src = SRC_DIR / fname
         orig = io.open(src, "rb").read()
-        data = bytearray(orig)
+        # เขียนต่อจากไฟล์ใน build ถ้ามี (สคริปต์อื่นอาจแก้ไฟล์เดียวกันไว้ · ตรวจค่าเดิมกับต้นฉบับเสมอ)
+        built = OUT_DIR / fname
+        base = io.open(built, "rb").read() if built.exists() else orig
+        assert len(base) == len(orig), "%s ใน build ขนาดไม่เท่าต้นฉบับ" % fname
+        data = bytearray(base)
         rows = list(text_rows(orig))
         touched = set()
         for name, want_fs, want_gap, add_px in want:
@@ -178,8 +182,8 @@ def main():
                 print("  %-38s %-14s ฟอนต์ %2d  col84 %d → %d  (ระยะบรรทัด +%.1f px atlas)"
                       % (fname, name, fs, gap, g, (g - gap) * ATLAS_EM / fs))
 
-        diff = {i for i, (x, y) in enumerate(zip(orig, data)) if x != y}
-        assert len(orig) == len(data) and diff <= touched, "มีไบต์นอกช่องที่ตั้งใจแก้เปลี่ยน"
+        diff = {i for i, (x, y) in enumerate(zip(base, data)) if x != y}
+        assert len(base) == len(data) and diff <= touched, "มีไบต์นอกช่องที่ตั้งใจแก้เปลี่ยน"
         if a.write:
             OUT_DIR.mkdir(parents=True, exist_ok=True)
             io.open(OUT_DIR / fname, "wb").write(bytes(data))

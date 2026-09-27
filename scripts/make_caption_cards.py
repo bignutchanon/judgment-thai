@@ -408,11 +408,14 @@ def digits_ink(num_rgba):
     return NUM_RECT_X0 + int(xs.min()), NUM_RECT_X0 + int(xs.max()) + 1
 
 
-def patch_num_x(data, new_x):
+def patch_num_x(orig, data, new_x):
     """แก้ x (col10) ของแถว num_0 ในตาราง node ของ scene การ์ดบท — แก้ไบต์ในที่ 4 ไบต์
     วิธีเดียวกับ patch_drone_menu_titles.py (ตารางย่อย column-major · header = rows, cols, text_count ·
-    +0x1C = ตัวชี้ไปอาร์เรย์ offset ของแต่ละคอลัมน์ · float 4 ไบต์ต่อแถว) · ยืนยันแถวด้วยค่าเดิม 3 คอลัมน์"""
-    data = bytearray(data)
+    +0x1C = ตัวชี้ไปอาร์เรย์ offset ของแต่ละคอลัมน์ · float 4 ไบต์ต่อแถว) · ยืนยันแถวด้วยค่าเดิม 3 คอลัมน์
+    ในไฟล์ต้นฉบับ (`orig`) แล้วแก้บน `data` = ไฟล์ใน build ถ้ามี (สคริปต์ patch_* ตัวอื่นอาจแก้ scene
+    เดียวกันไว้ก่อน เช่น patch_ui_tracking.py) — ต่อยอด ไม่ทับงานของสคริปต์อื่น"""
+    base = bytes(data)
+    data = bytearray(orig)
     hits = []
     i = -1
     while True:
@@ -437,11 +440,12 @@ def patch_num_x(data, new_x):
                 hits.append(offs[10] + 4 * r)
     if len(hits) != 1:
         raise SystemExit(f"หาแถว num_0 ใน scene ไม่ได้ (เจอ {len(hits)} แถว) — โครงไฟล์อาจเปลี่ยน ห้ามเขียน")
-    orig = bytes(data)
-    struct.pack_into("<f", data, hits[0], new_x)
-    diff = [k for k, (a, b) in enumerate(zip(orig, data)) if a != b]
-    assert len(orig) == len(data) and all(hits[0] <= k < hits[0] + 4 for k in diff)
-    return bytes(data)
+    assert len(base) == len(orig), "scene ใน build ขนาดไม่เท่าต้นฉบับ — มีคนสร้างไฟล์ใหม่แทนการแก้ในที่"
+    out = bytearray(base)
+    struct.pack_into("<f", out, hits[0], new_x)
+    diff = [k for k, (a, b) in enumerate(zip(base, out)) if a != b]
+    assert all(hits[0] <= k < hits[0] + 4 for k in diff)
+    return bytes(out)
 
 
 def chapter_card_preview(title, label, num, num_x, final=False):
@@ -688,7 +692,10 @@ def main():
         emit("caption_chapter_judge.dds", rgba)
         for n in num_x:
             sname = f"caption_chapter{n:02d}_judge.bin"
-            scenes.append((sname, patch_num_x(io.open(SRC_SCENE / sname, "rb").read(), num_x[n])))
+            src_b = io.open(SRC_SCENE / sname, "rb").read()
+            built = OUT_SCENE / sname
+            base_b = io.open(built, "rb").read() if built.exists() else src_b
+            scenes.append((sname, patch_num_x(src_b, base_b, num_x[n])))
         ch_pairs.append((panel(tex, (38, 28, 22, 255), "label EN"),
                          panel(rgba, (38, 28, 22, 255), "label TH")))
         tex = np.array(Image.open(SRC_TEX / "caption_chapter_num13_judge.dds").convert("RGBA"))
