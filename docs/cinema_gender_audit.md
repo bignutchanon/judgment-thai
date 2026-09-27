@@ -567,8 +567,8 @@
 | 19 | B | - | True... | จริงด้วย... |
 | 20 | A | - | But I'm glad to hear / he's doing well... under your watch. | แต่ผมก็ดีใจนะที่ได้ยิน / ว่าเขาสบายดี...ภายใต้การดูแลของคุณ |
 | 20 | B | - | But if he's doing well with you... / I'm happy. | แต่ถ้าเขาสบายดีเมื่ออยู่กับคุณ... / ผมก็มีความสุขแล้ว |
-| 21 | A | - | I'm sure Kaito-san will / always... feel like my aniki. | ผมมั่นใจว่าไคโตะซัง / จะยังคงเป็นอานิกิของผมตลอดไป |
-| 21 | B | - | It still feels like Kaito-san is my aniki. | ไคโตะซังก็ยังคงเป็นอานิกิของผมอยู่เสมอ |
+| 21 | A | - | I'm sure Kaito-san will / always... feel like my aniki. | ผมมั่นใจว่าไคโตะซัง / จะยังคงเป็นลูกพี่ของผมตลอดไป |
+| 21 | B | - | It still feels like Kaito-san is my aniki. | ไคโตะซังก็ยังคงเป็นลูกพี่ของผมอยู่เสมอ |
 | 22 | A | M | If not for you, I would have taken another direction / in life. I'd be a very different person I think. | ถ้าไม่มีท่าน ผมคงเลือกเดินไปอีกทาง / ในชีวิต คงเป็นคนละคนกับตอนนี้เลยครับ |
 | 22 | B | - | If I hadn't met you two twenty years ago, / I'd be a very different person now. | ถ้าผมไม่ได้เจอทั้งสองคนเมื่อยี่สิบปีก่อน / ตอนนี้ผมคงเป็นคนละคนไปแล้ว |
 | 23 | A | - | You'd have turned out / just fine, my boy. | คุณก็คงเติบโตมาดี / อยู่แล้วแหละ ไอ้หนุ่ม |

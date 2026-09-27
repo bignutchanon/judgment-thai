@@ -17,7 +17,9 @@ advance ของทุกเซลล์ถูกล็อกไว้ในต
 ขึ้นกับความกว้างของฐานตัวก่อนหน้า และความสูงขึ้นกับว่าฐานสูงไหม/มีสระบนซ้อนอยู่แล้วไหม
 เซลล์เดียวจำค่าได้ค่าเดียว จึงต้องทำหลาย variant แล้วให้ตัว encode เลือกให้ตรงบริบท:
 
-  * `wclass` — ชั้นความกว้างของฐานตัวก่อนหน้า (ค่าเริ่มต้น 5 ชั้น) → มาร์กเลื่อนซ้ายพอดีกลางฐาน
+  * `wclass` — ชั้นของฐานตัวก่อนหน้า (ค่าเริ่มต้น 5 ชั้น) · ตั้งแต่ 28 ก.ย. 2026 แบ่งตาม **ตำแหน่งมาร์ก
+    ที่ฟอนต์ต้นแบบตั้งไว้** (GPOS ผ่าน HarfBuzz · `mark_anchor.py` · ฐานเก็บชั้นไว้ที่ `mclass`) ไม่ใช่
+    ความกว้าง — ฟอนต์ไทยวางสระบน/วรรณยุกต์ชิดขวา การวางกึ่งกลางแบบเดิมทำให้ ่ ลอยกลาง ี (ที่ นี่)
   * `hlevel` — ชั้นความสูง: 0 ปกติ · 1 วรรณยุกต์ที่ต้องซ้อนเหนือสระบนอีกที (เช่น ที่ ปื้ ญี่)
 
 ใช้:
@@ -52,11 +54,13 @@ THAI_LO, THAI_HI = "฀", "๿"
 
 INK_X0 = 2                # ขอบซ้ายของ ink ในเซลล์ (px) — ทุกกลิฟวาดเริ่มที่นี่เสมอ
 N_WCLASS = 5              # ชั้นความกว้างของฐาน ที่มาร์กต้องมี variant ตาม
-UPPER_STACK = 12          # ความสูงที่กันไว้ให้สระบน เมื่อมีวรรณยุกต์ซ้อนทับอีกชั้น (px)
+TONE_BEARERS = "ัิีึืํ"    # สระบนที่วรรณยุกต์ซ้อนทับได้ — ความสูงสูงสุดของชุดนี้ = ที่ที่กันไว้ให้สระบน
+                          # ตอนยกวรรณยุกต์ขึ้นชั้น hlevel 1 (เดิมค่าคงที่ 12 px — คิดจากกลิฟจริงตั้งแต่
+                          # 27 ก.ย. 2026 เพราะมาร์กถูกย่อด้วย title_encode.MARK_SCALE)
+LOWER_GAP = 1             # ระยะจากเส้นฐานถึงสระล่าง (px) — เดิม 2 · ลดเพื่อไม่ให้ ุ ู ชนบรรทัดถัดไป
 
-# หมายเหตุ (รอบ 16): **ไม่ต้องยกมาร์กขึ้นเมื่อฐานเป็นตัวสูง** (ป ฝ ฟ ฬ) — หางสูงของตัวพวกนี้
-# เป็นเส้นบาง ๆ ชิดขอบซ้าย ส่วนมาร์กวางกึ่งกลาง ink ของฐาน จึงไม่ชนกันในแนวนอนอยู่แล้ว
-# (ตรงกับที่ฟอนต์ไทยจริงทำ — anchor เดียวสำหรับ "เหนือฐาน" ทุกตัว) เคยลองยกขึ้นแล้วมาร์กชนขอบบน
+# หมายเหตุ: **ไม่ยกมาร์กขึ้นเมื่อฐานเป็นตัวสูง** (ป ฝ ฟ) — หางสูงอยู่ขวา ฟอนต์ไทยจึงเลื่อนมาร์ก
+# ไปทางซ้ายแทน (ชั้น mclass ของตัวพวกนี้ได้ค่านั้นจาก GPOS อัตโนมัติ) · เคยลองยกขึ้นแล้วมาร์กชนขอบบน
 # ของเซลล์จนถูกตัด เพราะเหนือเส้นฐานมีที่แค่ 44 px
 
 MARKS_PER_CELL = 0        # เลิกใช้ (คงไว้ให้สคริปต์เก่าอ่านค่าได้) — หนึ่งตัวอักษรหนึ่งเซลล์แล้ว
@@ -291,12 +295,14 @@ def load_corpora(names=None, self_weight=3):
 
 # ------------------------------------------------------------- จัดสรร ----
 def glyph_metrics(chars):
-    """{ch: (ink_w, top, bottom)} จาก Sarabun ที่ ppem มาตรฐาน (top/bottom วัดจากเส้นฐาน)"""
-    from title_encode import ppem, render_at
-    P = ppem()
+    """{ch: (ink_w, top, bottom)} จาก Sarabun ที่ ppem ของตัวนั้น (top/bottom วัดจากเส้นฐาน)
+
+    ต้องใช้ `render_glyph` ตัวเดียวกับ `inject_thai_title.draw_cell` — มาร์กวาดเล็กกว่าฐาน + บีบตัวที่กว้างเกินเซลล์
+    """
+    from title_encode import render_glyph
     out = {}
     for ch in chars:
-        img, _dx, top, bot = render_at(ch, P)
+        img, _dx, top, bot = render_glyph(ch)
         out[ch] = (int(img.shape[1]), int(top), int(bot))
     return out
 
@@ -340,6 +346,56 @@ def class_of(ink_w, edges):
     return len(edges) - 1
 
 
+def anchor_classes(bases, chars, pairs, metrics, n=N_WCLASS):
+    """ชั้นฐานตามตำแหน่งมาร์กที่ฟอนต์ต้นแบบตั้งไว้ + ตำแหน่งวางของทุก variant (ดู mark_anchor.py)
+
+    คืน (mclass {ฐาน: ชั้น}, place {(มาร์ก, ชั้น, hlevel): px จากปากกา}, edges, reps)
+    · key ของฐาน = off ของ ิ (ขอบขวาสระ - ขอบขวาฐาน) · ฐานที่วัดไม่ได้ (เช่น เ า ที่ HarfBuzz
+      ใส่วงกลมประ) ได้ค่ากลางของทั้งหมด · place = off - ความกว้างมาร์กของเรา - RSB (ยึดขอบขวา)
+    """
+    import title_encode as T
+    from mark_anchor import Shaper
+    sh = Shaper(T.THAI_TTF, T.ppem())
+    bearers = [v for v in TONE_BEARERS if v in metrics]
+    off = {}
+    for b in bases:
+        for m in COMBINING:
+            if m not in metrics:
+                continue
+            off[(b, m, 0)] = sh.mark_off(b, m)
+            if kind_of(m) == "tone":
+                vals = [(sh.mark_off(b, v + m), max(1, chars.get(v, 0))) for v in bearers]
+                vals = [(o, w) for o, w in vals if o is not None]
+                off[(b, m, 1)] = (sum(o * w for o, w in vals) / sum(w for _, w in vals)) if vals else None
+    # แบ่งชั้นเฉพาะตัวที่มีมาร์กเกาะจริง (พยัญชนะ + ฤ ฦ) ถ่วงด้วยความถี่คู่ (ฐาน, มาร์ก) — สระหน้า/หลัง
+    # อย่าง เ า ๆ ไม่มีมาร์กเกาะ ถ้านับรวมจะดึงชั้นไปเปล่า ๆ (ได้ชั้นกลางของพยัญชนะแทน)
+    bearers_of_marks = [b for b in bases if b in THAI_CONSONANTS + "ฤฦ" and off.get((b, "ิ", 0)) is not None]
+    keys = {b: int(round(off[(b, "ิ", 0)])) for b in bearers_of_marks}
+    wt = {b: sum(w for (bb, _m), w in pairs.items() if bb == b) for b in keys}
+    edges, reps = width_classes(keys, wt, n)
+    # เลือกชั้นจากตัวแทนที่ใกล้สุด — edges ของ width_classes ปัดด้วย int() (ปัดเข้าหาศูนย์) ใช้กับค่าติดลบ
+    # แล้วชั้นติดกันถูกรวม (Sarabun: ชั้น -4 กับ 0 ว่าง ฐานปกติทั้งหมดไปกองชั้นเดียว)
+    mclass = {b: min(range(n), key=lambda i, k=k: abs(k - reps[i])) for b, k in keys.items()}
+    common = max(set(mclass.values()), key=lambda c: sum(wt[b] for b in mclass if mclass[b] == c))
+    for b in bases:
+        mclass.setdefault(b, common)
+
+    place = {}
+    for m in COMBINING:
+        if m not in metrics:
+            continue
+        mw = metrics[m][0]
+        for c in range(n):
+            for lvl in (0, 1):
+                vals = [(off.get((b, m, lvl)), pairs.get((b, m), 0) + 1)
+                        for b in bases if mclass[b] == c]
+                vals = [(o, w) for o, w in vals if o is not None]
+                if vals:
+                    o = sum(o * w for o, w in vals) / float(sum(w for _, w in vals))
+                    place[(m, c, lvl)] = round(o - mw - FM.RSB, 2)
+    return mclass, place, edges, reps
+
+
 def mark_levels(ch, freq):
     """จำนวนชั้นความสูงที่มาร์กตัวนี้ต้องมี — มีแค่วรรณยุกต์ที่ต้องมีสองชั้น"""
     if freq <= 0:
@@ -351,8 +407,12 @@ def mark_wclasses(ch, freq, n=N_WCLASS):
     return n if freq > 0 else 1
 
 
-def plan_cells(chars, metrics, edges, reps, n_wclass=N_WCLASS):
-    """ลำดับ 'สิ่งที่ต้องมีเซลล์' ตามความสำคัญ -> ลิสต์ของ spec dict (ยังไม่ผูก donor)"""
+def plan_cells(chars, metrics, edges, reps, n_wclass=N_WCLASS, less_metrics=None):
+    """ลำดับ 'สิ่งที่ต้องมีเซลล์' ตามความสำคัญ -> ลิสต์ของ spec dict (ยังไม่ผูก donor)
+
+    less_metrics = {ฐาน: (ink_w, top, bottom)} ของรูปไม่มีเชิง (ญ ฐ — title_encode.LESS_BASES)
+    ได้เซลล์ต่อจากฐานทันที (2 เซลล์) เพื่อให้ encode ใช้ตอนมีสระล่างตามหลัง
+    """
     bases = [c for c in dict.fromkeys(MANDATORY + sorted(chars, key=lambda c: -chars[c]))
              if c not in COMBINING and c in metrics]
     marks = [c for c in dict.fromkeys(sorted(COMBINING, key=lambda c: -chars.get(c, 0)))
@@ -363,6 +423,9 @@ def plan_cells(chars, metrics, edges, reps, n_wclass=N_WCLASS):
         w, top, bot = metrics[ch]
         specs.append({"text": ch, "kind": "base", "ink_w": w, "top": top, "bottom": bot,
                       "freq": chars.get(ch, 0)})
+    for ch, (w, top, bot) in sorted((less_metrics or {}).items()):
+        specs.append({"text": ch, "kind": "base", "variant": "less", "ink_w": w, "top": top,
+                      "bottom": bot, "freq": 0})
     # มาร์ก: variant ที่พบบ่อยที่สุดมาก่อน (ชั้นความกว้างกลาง + ความสูงปกติ)
     for order in range(max(n_wclass * 3, 1)):
         for ch in marks:
@@ -390,7 +453,9 @@ def cell_geometry(spec, metrics, refs):
         y0 = BASELINE_Y + spec["top"]           # top เป็นค่าลบ = เหนือเส้นฐาน
     else:
         adv = 0.0
-        place = FM.mark_place(spec["base_w"], ink_w)
+        place = refs.get("mark_place", {}).get((spec["text"], spec["wclass"], spec["hlevel"]))
+        if place is None:                       # วัดจากฟอนต์ไม่ได้ — ถอยไปวางกึ่งกลางแบบเดิม
+            place = FM.mark_place(spec["base_w"], ink_w)
         h = spec["bottom"] - spec["top"]
         if spec["kind"] == "lower":
             y0 = BASELINE_Y + refs["lower_gap"]
@@ -431,10 +496,24 @@ def allocate(tiers=DEFAULT_TIERS, corpora=None, self_weight=3, keep_en_safe=True
 
     tops = sorted(metrics[c][1] for c in base_w)
     normal_top = tops[len(tops) // 2]                  # ค่ากลางของ ink บนสุด (ค่าลบ)
-    refs = {"normal_top": int(normal_top), "upper_stack": UPPER_STACK,
-            "gap": 1, "lower_gap": 2}
+    upper_stack = max(metrics[c][2] - metrics[c][1] for c in TONE_BEARERS if c in metrics)
+    refs = {"normal_top": int(normal_top), "upper_stack": int(upper_stack),
+            "gap": 1, "lower_gap": LOWER_GAP}
 
-    specs = plan_cells(chars, metrics, edges, reps, n_wclass)
+    thai_bases = [c for c in base_w if is_thai(c)]
+    mclass, mplace, medges, mreps = anchor_classes(thai_bases, chars, pairs, metrics, n_wclass)
+    refs["mark_place"] = mplace
+
+    from title_encode import LESS_BASES, render_glyph
+    less_metrics = {}
+    for ch in LESS_BASES:
+        img, _dx, top, bot = render_glyph(ch, "less")
+        less_metrics[ch] = (int(img.shape[1]), int(top), int(bot))
+
+    specs = plan_cells(chars, metrics, edges, reps, n_wclass, less_metrics)
+    for spec in specs:
+        if spec["kind"] == "base" and spec["text"] in mclass:
+            spec["mclass"] = mclass[spec["text"]]
     used, spilled = [], []
     for spec in specs:
         if len(used) >= len(pool):
@@ -452,6 +531,7 @@ def allocate(tiers=DEFAULT_TIERS, corpora=None, self_weight=3, keep_en_safe=True
         spec["tier"] = tier_of(cp)
         cells["%04X" % cp] = spec
 
+    refs = {k: v for k, v in refs.items() if k != "mark_place"}
     return {
         "font": "meta_ot_cond_book",
         "note": "ไฟล์นี้สร้างด้วย scripts/slot_alloc.py — ห้ามแก้ด้วยมือ",
@@ -464,6 +544,9 @@ def allocate(tiers=DEFAULT_TIERS, corpora=None, self_weight=3, keep_en_safe=True
             "n_wclass": n_wclass,
             "wclass_edges": edges,
             "wclass_rep": reps,
+            "mark_model": "font-anchor",   # มาร์กวางตาม GPOS ของฟอนต์ต้นแบบ (mark_anchor.py) · ชั้น = mclass ของฐาน
+            "mclass_edges": medges,
+            "mclass_rep": mreps,
             "refs": refs,
             "tiers": list(tiers),
             "keep_en_safe": bool(keep_en_safe and have_extract),
@@ -505,6 +588,8 @@ class SlotMap:
         self.base = {}          # ch -> cp
         self.mark = {}          # (ch, wclass, hlevel) -> cp
         self.width = {}         # ch -> ink_w (ของฐาน)
+        self.mclass = {}        # ch -> ชั้นมาร์กของฐาน (mark_model = font-anchor)
+        self.base_less = {}     # ch -> cp ของรูปไม่มีเชิง (ญ ฐ) ใช้เมื่อตัวถัดไปเป็นสระล่าง
         self.dec = {}
         self.sentinel = None
         for k, v in self.cells.items():
@@ -512,9 +597,13 @@ class SlotMap:
             self.dec[cp] = v["text"]
             if v["kind"] == "sentinel":
                 self.sentinel = cp
+            elif v["kind"] == "base" and v.get("variant") == "less":
+                self.base_less[v["text"]] = cp
             elif v["kind"] == "base":
                 self.base[v["text"]] = cp
                 self.width[v["text"]] = v["ink_w"]
+                if "mclass" in v:
+                    self.mclass[v["text"]] = v["mclass"]
             else:
                 self.mark[(v["text"], v.get("wclass", 0), v.get("hlevel", 0))] = cp
         self.marks_per_cell = 0
@@ -525,6 +614,8 @@ class SlotMap:
         return cls(json.load(io.open(path, encoding="utf-8")))
 
     def wclass_of(self, ch):
+        if ch in self.mclass:
+            return self.mclass[ch]
         w = self.width.get(ch)
         if w is None:
             return self.n_wclass // 2
@@ -556,7 +647,8 @@ class SlotMap:
             if not in_run and self.sentinel is not None:
                 out.append(chr(self.sentinel))
 
-        for ch in decompose_am(text):
+        src = decompose_am(text)
+        for i, ch in enumerate(src):
             if not is_thai(ch):
                 if ord(ch) in self.dec:
                     raise SystemExit(
@@ -582,6 +674,8 @@ class SlotMap:
                     has_upper = True
                 continue
             cp = self.base.get(ch)
+            if ch in self.base_less and i + 1 < len(src) and src[i + 1] in LOWER:
+                cp = self.base_less[ch]             # ญ ฐ + สระล่าง → รูปไม่มีเชิง (กตัญญู)
             if cp is None:
                 if strict:
                     raise SystemExit(f"ตัวอักษร {ch!r} ไม่มีเซลล์ใน slotmap — รัน slot_alloc.py ใหม่")

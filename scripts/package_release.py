@@ -87,7 +87,8 @@ README = r"""Judgment — ม็อดแปลไทย (JETH) v{ver}
 เครดิต
 -------
 * ตัวโหลดม็อด: Shin Ryu Mod Manager + YakuzaParless (SutandoTsukai181 และผู้ร่วมพัฒนา)
-* ฟอนต์ไทย: Sarabun (SIL Open Font License)
+* ฟอนต์ไทย: {font} (SIL Open Font License)
+* ฟอนต์บนป้ายภาพ (การ์ดชื่อบท/ตัวละคร · ป้ายชื่อศัตรู · ป้ายสถานที่): Taviraj (SIL Open Font License)
 """
 
 
@@ -133,7 +134,8 @@ def main():
     io.open(mod / "mod-meta.yaml", "w", encoding="utf-8", newline="\n").write(
         META.format(ver=a.version, n_bin=n_bin))
     io.open(out / "README.txt", "w", encoding="utf-8-sig", newline="\r\n").write(
-        README.format(ver=a.version, n_str="{:,}".format(n_str), mod=MOD_NAME))
+        README.format(ver=a.version, n_str="{:,}".format(n_str), mod=MOD_NAME,
+                      font=paths.THAI_FONT_NAME))
 
     total = sum(f.stat().st_size for f in out.rglob("*") if f.is_file())
     print("แพ็ก %s · %d bin · %.1f MB" % (out, n_bin, total / 1e6))

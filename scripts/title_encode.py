@@ -41,12 +41,13 @@ SRC_DDS = paths.EXTRACTED / "font" / "meta_ot_cond_book.dds"
 
 BASE_REF = "ก"        # ตัวอ้างอิงตั้งขนาดฟอนต์
 BASE_H = 22           # ความสูง ink ของตัวอ้างอิงในเซลล์ 64px (cap height ของฟอนต์เดิม = 25)
+THAI_TTF = paths.THAI_TTF      # ฟอนต์ต้นแบบของกลิฟไทย — compare_fonts.py สลับตัวนี้ (ต้องล้าง _PPEM ด้วย)
 _PPEM = None
 
 
 def render_at(ch, ppem):
     """render ตัวอักษรเดี่ยวที่ ppem -> (ภาพ ink, dx, top, bottom) วัดจากเส้นฐาน (ลบ = เหนือฐาน)"""
-    font = ImageFont.truetype(str(paths.SARABUN_TTF), ppem)
+    font = ImageFont.truetype(str(THAI_TTF), ppem)
     pad = ppem * 2
     im = Image.new("L", (ppem * 4, ppem * 5), 0)
     ox, oy = pad, pad * 2
@@ -67,6 +68,81 @@ def ppem():
         _im, _dx, top, bot = render_at(BASE_REF, 100)
         _PPEM = max(8, round(100 * BASE_H / (bot - top)))
     return _PPEM
+
+
+# มาร์ก (สระบน/ล่าง/วรรณยุกต์) วาดเล็กกว่าฐานทั้งชุด — 27 ก.ย. 2026 เจ้าของแจ้งว่าข้อความสองบรรทัด
+# สระล่างของบรรทัดบนชนสระบน/วรรณยุกต์ของบรรทัดล่าง ("อยู่" เหนือ "นั้น") · ขนาดเต็มทำให้ไทยกินที่
+# -44..+11 px รอบเส้นฐาน (อังกฤษ -25..+6) และวรรณยุกต์ที่ซ้อนเหนือสระบน (นี้ ชี้ ครื้น) ล้นขอบบนของเซลล์
+# จนถูกดันลงมาแตะสระ · ย่อทั้งคลาสด้วยสัดส่วนเดียว ไม่ใช่ normalize ความสูงรายตัว (กฎของ ppem() ยังอยู่)
+MARK_SCALE = 0.89
+MARKS = COMBINING | {"๎"}
+
+
+def glyph_ppem(ch):
+    """ppem ที่ใช้วาดตัวอักษรนี้ — ฐานใช้ ppem() · มาร์กใช้ ppem() x MARK_SCALE"""
+    P = ppem()
+    return max(8, round(P * MARK_SCALE)) if ch in MARKS else P
+
+
+# เซลล์กว้าง 32 px และกลิฟเริ่มวาดที่ x = 2 (INK_X0) → ink กว้างได้ไม่เกิน 30 px ไม่งั้นขอบขวาถูกตัด
+# (28 ก.ย. 2026 เจอกับ Taviraj: ฒ 32 · ณ 31 px) · ตัวที่เกินบีบแนวนอนให้พอดี — บีบได้ไม่เกิน 15%
+# ตามกฎรอบ 8-9 · Sarabun/Noto ไม่มีตัวไหนเกิน ผลจึงเหมือนเดิมทุกพิกเซล
+MAX_INK_W = 30
+
+
+# รูป "ไม่มีเชิง" ของฐานเมื่อมีสระล่างตามมา (28 ก.ย. 2026 · เจ้าของทัก กตัญญู ที่ ู ทับเชิง ญ):
+# ฟอนต์ไทยสลับ ญ ฐ เป็นกลิฟตัดเชิงผ่าน GSUB (Taviraj: yoYingthai.less / thoThanthai.less) ตอนมี ุ ู ฺ
+# ตามหลัง · เราวาดแยกเป็นเซลล์ variant "less" แล้ว SlotMap.encode เลือกเองเมื่อตัวถัดไปเป็นสระล่าง
+LESS_BASES = "ญฐ"
+
+
+def render_less(ch, P):
+    """รูปไม่มีเชิงของ ch จาก GSUB ของฟอนต์ (shape ch + ุ แล้วเอากลิฟแรก) -> รูปแบบเดียวกับ render_at
+
+    ฟอนต์ที่ไม่มีกลิฟนี้ → ใช้รูปปกติแล้วตัดหมึกใต้เส้นฐานทิ้ง
+    """
+    import freetype
+    import uharfbuzz as hb
+    font = hb.Font(hb.Face(hb.Blob.from_file_path(str(THAI_TTF))))
+
+    def first_gid(s):
+        buf = hb.Buffer()
+        buf.add_str(s)
+        buf.guess_segment_properties()
+        hb.shape(font, buf, {})
+        return buf.glyph_infos[0].codepoint
+
+    gid = first_gid(ch + "ุ")
+    if gid != first_gid(ch):
+        ft = freetype.Face(str(THAI_TTF))
+        ft.set_pixel_sizes(0, P)
+        ft.load_glyph(gid, freetype.FT_LOAD_DEFAULT)
+        ft.glyph.render(freetype.FT_RENDER_MODE_NORMAL)
+        bm = ft.glyph.bitmap
+        img = np.array(bm.buffer, np.uint8).reshape(bm.rows, bm.pitch)[:, :bm.width]
+        ys = np.flatnonzero((img > 0).any(axis=1))
+        xs = np.flatnonzero((img > 0).any(axis=0))
+        return (img[ys[0]:ys[-1] + 1, xs[0]:xs[-1] + 1].copy(), ft.glyph.bitmap_left + int(xs[0]),
+                int(ys[0]) - ft.glyph.bitmap_top, int(ys[-1]) + 1 - ft.glyph.bitmap_top)
+    img, dx, top, _bot = render_at(ch, P)
+    return img[:max(1, -top)].copy(), dx, top, 0
+
+
+def render_glyph(ch, variant=None):
+    """กลิฟที่ใช้ผลิตจริง -> (ภาพ ink, dx, top, bottom) · ขนาด glyph_ppem + บีบถ้ากว้างเกิน MAX_INK_W
+
+    slot_alloc (วัดความกว้าง/ความสูง) และ inject_thai_title (วาดเซลล์) ต้องเรียกตัวนี้ตัวเดียวกัน
+    variant = "less" → รูปไม่มีเชิงของ ญ ฐ (ดู LESS_BASES)
+    """
+    if variant == "less":
+        img, dx, top, bot = render_less(ch, glyph_ppem(ch))
+    else:
+        img, dx, top, bot = render_at(ch, glyph_ppem(ch))
+    h, w = img.shape
+    if w > MAX_INK_W:
+        assert w <= MAX_INK_W / 0.85, f"{ch!r} กว้าง {w} px ต้องบีบเกิน 15% — ลด BASE_H หรือเปลี่ยนฟอนต์"
+        img = np.asarray(Image.fromarray(img).resize((MAX_INK_W, h), Image.LANCZOS), dtype=np.uint8)
+    return img, dx, top, bot
 
 
 def natural_width(cell_text):

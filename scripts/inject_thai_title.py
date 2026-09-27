@@ -31,7 +31,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import paths
 from bc4_codec import decode_bc4, encode_bc4, encode_bc4_blocks
-from title_encode import ppem, render_at
+from title_encode import render_glyph
 from title_slotmap import ATLAS_H, ATLAS_W, BASELINE_Y, CELL_H, CELL_W, INK_X0, cell_xy
 
 SRC_DDS = paths.EXTRACTED / "font" / "meta_ot_cond_book.dds"
@@ -66,7 +66,7 @@ def draw_cell(spec):
     text = spec["text"] if isinstance(spec, dict) else spec
     if not text:                       # เซลล์ตัวนำ (sentinel) — ต้องว่างเปล่าโดยตั้งใจ
         return canvas
-    img, _dx, top, _bot = render_at(text[0], ppem())
+    img, _dx, top, _bot = render_glyph(text[0], spec.get("variant") if isinstance(spec, dict) else None)
     h, w = img.shape
     if isinstance(spec, dict):
         x = spec.get("ink_x0", INK_X0)

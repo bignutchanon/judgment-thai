@@ -16,3 +16,5 @@ out*.txt
 /*.bin.json
 /D:Projects*
 tools/__pycache__/
+# ชุดฟอนต์ OFL ที่ดาวน์โหลดมาเทียบ (compare_fonts.py) — ของชั่วคราว ไม่ commit
+font/candidates/

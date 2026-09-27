@@ -13,6 +13,7 @@
       python scripts/preview_line.py --file x.txt    # อ่านบรรทัดจากไฟล์ (ห้ามส่งไทยผ่าน CLI)
 """
 import io
+import json
 import os
 import struct
 import sys
@@ -42,6 +43,26 @@ SAMPLES = [
 ]
 
 
+_KERN = None
+
+
+def orig_lr(cp):
+    """(L, R) เดิมของเซลล์ที่เราไม่ได้ยึด (อังกฤษ/สัญลักษณ์) — คู่คอลัมน์ (5, 6) ของ kerning_table ต้นฉบับ
+
+    เดิม preview ใช้ advance ประมาณ 14 px ทุกตัว (ช่องว่าง 10) วงเล็บ/% จึงดูเบียด ทั้งที่ในเกมไม่เบียด
+    (28 ก.ย. 2026 เจ้าของทักจากภาพ "[ X]" "( 100%)") — แถวพวกนี้ gen_font_bin คงค่าเดิมทุกตัว
+    """
+    global _KERN
+    if _KERN is None:
+        fb = json.load(io.open(paths.EXTRACTED / "db_en" / "en" / "font.bin.json", encoding="utf-8"))
+        _KERN = fb["17"]["meta_ot_cond_book"]["kerning_table"]
+    r = _KERN.get(str(FM.cell_index(cp)))
+    if r is None:                                         # นอกตาราง = เอนจิ้นวาดเป็นกล่องเปล่า
+        return 0.0, 0.0
+    row = r[next(iter(r))]
+    return float(row["5"]), float(row["6"])
+
+
 def load_atlas():
     raw = BUILT_DDS.read_bytes()
     h, w = struct.unpack_from("<II", raw[:128], 12)
@@ -57,13 +78,14 @@ def draw_line(atlas, sm, text):
     for ch in enc:
         cp = ord(ch)
         spec = sm.cells.get("%04X" % cp)
-        if spec is None:                                  # ASCII — ใช้เซลล์เดิมของเกม
+        if spec is None:                                  # ASCII — เซลล์เดิมของเกม + (L, R) เดิมจากตาราง
             x0, y0 = cell_xy(cp)
             cell = atlas[y0:y0 + CELL_H, x0:x0 + CELL_W]
-            x = int(round(pen))
+            L, R = orig_lr(cp)
+            x = int(round(pen - FM.K * L))
             if 0 <= x <= W - CELL_W:
                 np.maximum(canvas[:, x:x + CELL_W], cell, out=canvas[:, x:x + CELL_W])
-            pen += 14 if ch != " " else 10                # ประมาณ ไม่ใช่ประเด็นของ preview นี้
+            pen += FM.CELL_ADV - FM.K * (L + R)
             continue
         x0, y0 = cell_xy(cp)
         cell = atlas[y0:y0 + CELL_H, x0:x0 + CELL_W]

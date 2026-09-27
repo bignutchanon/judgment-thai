@@ -39,7 +39,8 @@ def main():
     check("1b donor ไม่ซ้ำ", len(cps) == len(set(cps)))
     check("1c ไม่เกิน pool", len(cps) <= data["budget"]["pool"],
           "%d/%d" % (len(cps), data["budget"]["pool"]))
-    variants = [(v["text"], v["kind"], v.get("wclass"), v.get("hlevel")) for v in sm.cells.values()]
+    variants = [(v["text"], v["kind"], v.get("wclass"), v.get("hlevel"), v.get("variant"))
+                for v in sm.cells.values()]
     check("1d ไม่มี variant ซ้ำ", len(set(variants)) == len(sm.cells),
           "%d variant / %d เซลล์" % (len(set(variants)), len(sm.cells)))
     check("1e มาร์กทุกเซลล์ advance = 0", not [v for v in sm.cells.values()

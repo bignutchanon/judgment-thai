@@ -63,6 +63,14 @@ FONT_BASENAME = "tbgm_0p_ja"
 FONT_SRC_BIN  = EXTRACTED / "font" / (FONT_BASENAME + ".bin")
 FONT_SRC_DDS  = EXTRACTED / "font" / (FONT_BASENAME + ".dds")
 SARABUN_TTF   = FONT_DIR / "Sarabun-Regular.ttf"
+# ฟอนต์ต้นแบบของกลิฟไทยใน meta_ot_cond_book (title_encode.render_at) — 27 ก.ย. 2026 เปลี่ยนจาก Sarabun
+# เป็น Noto Sans Thai Looped Condensed ตามที่เจ้าของเลือกจาก compare_fonts.py (มีหัว · บรรทัดสั้นลง 15%
+# · เข้ากับ Meta Condensed ของเกม) · variable font instance ที่ wdth 75 / wght 400 · OFL อยู่ข้างไฟล์
+# 28 ก.ย. 2026: เจ้าของขอลอง Taviraj (serif · มีหัว · OFL) — ตัวเลือกก่อนหน้า Noto Sans Thai Looped Condensed
+# ยังอยู่ที่ font/NotoSansThaiLooped-Condensed.ttf · เทียบทุกตัวด้วย compare_fonts.py
+# 28 ก.ย. 2026 (ต่อ): เจ้าของสั่งกลับเป็น Sarabun — ใช้คู่กับการวางมาร์กตาม GPOS (mark_anchor.py)
+THAI_TTF       = SARABUN_TTF
+THAI_FONT_NAME = "Sarabun"
 
 # ---- เครื่องมือ ----
 REARMP  = TOOLS / "reARMP_fixed.py"
@@ -73,7 +81,7 @@ if __name__ == "__main__":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
     names = ["PROJECT", "DB_EN", "MASTER_TH", "WORKLIST", "DONE",
              "GAME", "GAME_EXE", "GAME_DATA", "DB_EN_PAR", "FONT_PAR",
-             "MODS_DIR", "SARABUN_TTF", "REARMP", "PARTOOL"]
+             "MODS_DIR", "SARABUN_TTF", "THAI_TTF", "REARMP", "PARTOOL"]
     print(f"MOD_NAME = {MOD_NAME}")
     for n in names:
         v = globals()[n]
