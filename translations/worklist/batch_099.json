@@ -261,11 +261,11 @@
   "<symbol=case_file_head><color=striking>Costs and Limits</color>\n　<symbol=case_file_subhead>All drone parts except for frames have an equipment cost.\n　<symbol=case_file_subhead>Frames, on the other hand, have a Cost Limit, which determines the parts you\n　　can equip. Naturally, better frames have a higher Cost Limit that allow for\n　　the installation of higher-grade parts.\n\n<symbol=case_file_head><color=striking>Durability</color>\n　<symbol=case_file_subhead>Once your drone's Durability runs out, it breaks. So this stat is very important.\n\n<symbol=case_file_head><color=striking>Speed</color>\n　<symbol=case_file_subhead>Determines the maximum speed of your drone.\n\n<symbol=case_file_head><color=striking>Handling</color>\n　<symbol=case_file_subhead>Affects your drone's overall maneuverability (i.e. how well it can turn) as well\n　　as its rate of acceleration.\n\n<symbol=case_file_head><color=striking>Turbo</color>\n　<symbol=case_file_subhead>Affects how quickly your drone's Turbo fills up.": ""
  },
  "ref_tm": {
-  "Mahjong Hand: 1 Han": "มือไพ่มาจอง: 1 ฮัน",
-  "Mahjong Hand: 2 Han": "มือไพ่มาจอง: 2 ฮัน",
-  "Mahjong Hand: 3 Han": "มือไพ่มาจอง: 3 ฮัน",
+  "Mahjong Hand: 1 Han": "มือไพ่มาจอง: 1 ฮัง",
+  "Mahjong Hand: 2 Han": "มือไพ่มาจอง: 2 ฮัง",
+  "Mahjong Hand: 3 Han": "มือไพ่มาจอง: 3 ฮัง",
   "Mahjong Hand: Mangan": "มือไพ่มาจอง: มังกัง",
-  "Mahjong Hand: 6 Han": "มือไพ่มาจอง: 6 ฮัน",
+  "Mahjong Hand: 6 Han": "มือไพ่มาจอง: 6 ฮัง",
   "Mahjong Hand: Yakuman": "มือไพ่มาจอง: ยากุมัง",
   "Mahjong Hand: Double Yakuman": "มือไพ่มาจอง: ดับเบิลยากุมัง",
   "Mahjong: Hands": "มาจอง: มือไพ่",

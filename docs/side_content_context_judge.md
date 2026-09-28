@@ -289,7 +289,7 @@ id `judge_k_playspot_ryugujou`, `judge_k_playspot_laman`
 
 **กติกา/ศัพท์:** `manual.json` id `mahjong0` (Rules, 84–166), `mahjong1` (Hands, 166–235) — เนื้อหายาวมาก อธิบาย
 Chi/Pon/Kan/Riichi/Tsumo/Ron/Dora ครบ **ศัพท์ล็อกแล้วจาก K3:** pon → **ปง** · chii → **ชิ** · kan → **คัง** ·
-tsumo → **สึโม/จั่วเอง** (แล้วแต่บริบท) · ron → **รอน** · riichi → **รีช** · dora → **โดระ** · han/fu → **ฮัน/ฟุ**
+tsumo → **สึโม/จั่วเอง** (แล้วแต่บริบท) · ron → **รอน** · riichi → **รีช** · dora → **โดระ** · han/fu → **ฮัง/ฟุ**
 (คงทับศัพท์) · mangan/haneman/baiman/sanbaiman/yakuman → **มังกัง/ฮาเนมัง/ไบมัง/ซันไบมัง/ยากุมัง**
 
 **⚠ กับดักคำว่า "Draw" (สืบทอดจากบทเรียน Y6):** มีอย่างน้อย 3 ความหมายต่างกันในไฟล์มาจอง — "draw a tile" (จั่วไพ่ปกติ),
@@ -555,7 +555,7 @@ Level" (ทีมแก๊ง Keihin ไล่ล่า) เป็นกลไ�
 | oicho-kabu | โออิโช-คาบุ | glossary_k2 §4 ตาม PIRATE |
 | cho-han | โจฮัง | glossary_k2 §4 ตาม PIRATE |
 | karaoke | คาราโอเกะ (เพลง/เนื้อร้องคงอังกฤษ) | glossary_k2 §4 |
-| pon / chii / kan / tsumo / ron / riichi / dora / han / fu | ปง / ชิ / คัง / สึโม (จั่วเอง) / รอน / รีช / โดระ / ฮัน / ฟุ | K3 side_content_context_k3.md §2.1 |
+| pon / chii / kan / tsumo / ron / riichi / dora / han / fu | ปง / ชิ / คัง / สึโม (จั่วเอง) / รอน / รีช / โดระ / ฮัง / ฟุ | K3 side_content_context_k3.md §2.1 |
 | mangan / haneman / baiman / sanbaiman / yakuman | มังกัง / ฮาเนมัง / ไบมัง / ซันไบมัง / ยากุมัง | K3 side_content_context_k3.md §2.1 |
 | Virtua Fighter (ทุกภาค), Fantasy Zone, Space Harrier, UFO Catcher, Puyo Puyo, Club SEGA | คงอังกฤษ | K2/Y6/Y7/Y8 ทุกภาคตรงกัน |
 | DARTSLIVE | คงอังกฤษ | glossary_k2 §0 |
