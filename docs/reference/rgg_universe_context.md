@@ -192,7 +192,7 @@ PIRATE (ห้าม โซเท็นโบริ)"** จึงต้องใ
 | Club SEGA | คลับเซกา / คง "Club SEGA" (ป้ายโลโก้) | ✅ 2 สาขา + speaker "クラブセガ店員" | `glossary_k2.md` §3.4 — ร้าน branded คงป้ายโลโก้ EN ตามกติกา §3 (ป้าย EN บนจอไม่ต้องยุ่ง) |
 | Purgatory | เพอร์กาทอรี | ⏳ ไม่พบใน `places.json` รอบนี้ (อาจไม่มีในผังคามุโรโจของ Judgment) | `glossary_k2.md` §3.1 |
 | Stardust (ไนต์คลับ) | สตาร์ดัสต์ | ⏳ ไม่พบใน `places.json` รอบนี้ | `glossary.md`(K3) §📇 |
-| Yoshida Batting Center | ศูนย์ฝึกตีโยชิดะ | ⏳ ไม่ยืนยันชื่อเต็มใน Judgment (เจอแค่ `judge_playspot2 "Yoshida Batting Center"` ใน help.json) | `glossary.md`(K3) §2 wave 9 |
+| Yoshida Batting Center | ศูนย์เบสบอลโยชิดะ | ⏳ ไม่ยืนยันชื่อเต็มใน Judgment (เจอแค่ `judge_playspot2 "Yoshida Batting Center"` ใน help.json) | `glossary.md`(K3) §2 wave 9 |
 | Mahjong parlor | ร้านมาจอง (ชื่อร้านคง EN/ทับศัพท์ตามชื่อจริง) | ✅ "Lullaby Mahjong" (ららばい店員), "Modern Mahjong" (近代麻雀), "Tachibana Mahjong" | ยังไม่มีคำล็อกเฉพาะ — เสนอทับศัพท์ตามชื่อ 1-off ตามธรรมเนียม §21 (K3) |
 | อาชี​พโฮสเตส/คลับกลางคืน | โฮสเตส / คลับโฮสเตส | ✅ ระบบ Hostess ปรากฏใน speaker list จำนวนมาก (Norika, Karin ฯลฯ) | `glossary_k2.md` §4 "hostess → โฮสเตส" |
 
