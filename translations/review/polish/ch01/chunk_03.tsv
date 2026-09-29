@@ -1,0 +1,939 @@
+id	ฉาก	ผู้พูด	หมายเหตุ	EN	TH
+P0103-0001	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Did they gouge his eyes out to make an example\nout of him? Or was it something else...?)	(พวกเขาควักลูกตาเขาออกเพื่อทำให้เป็น\nตัวอย่างจริง ๆ หรือมีเหตุผลอื่น...?)
+P0103-0002	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Something's not right. If this is where the\nmurder happened, where's the blood?)	(มีอะไรไม่ชอบมาพากล ถ้าที่นี่เป็นที่เกิดเหตุ\nฆาตกรรมจริง แล้วเลือดหายไปไหนหมด?)
+P0103-0003	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(There's not even a drop of blood\nnear the body.)	(ไม่มีเลือดสักหยด\nอยู่ใกล้ ๆ ศพเลย)
+P0103-0004	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(It's highly likely Kume\nwas killed somewhere else.)	(มีความเป็นไปได้สูงมากที่คุเมะ\nจะถูกฆ่าที่อื่น)
+P0103-0005	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Next I need to figure out how they disposed of\nthe corpse. Is there anything that would point to that?)	(ต่อไปต้องหาให้ได้ว่าพวกเขาย้าย ศพมาทิ้งยังไง\nมีอะไรที่ชี้ไปทางนั้นได้บ้างไหม?)
+P0103-0006	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(The body wasn't here at 2 AM when someone\nfrom another bar took the trash out.)	(ตอนตีสองที่มีคนจากร้านอื่นเอา ขยะมาทิ้ง\nยังไม่มีศพอยู่ตรงนี้)
+P0103-0007	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(In other words, Kume got dumped sometime between\n2 and 6 AM, when the body was found.)	(พูดง่าย ๆ คือคุเมะถูกทิ้งศพไว้ที่นี่ช่วง\nตีสองถึงหกโมงเช้า ตอนที่พบศพ)
+P0103-0008	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Come to think of it, what happened to the victim's\npossessions, like a wallet or a cellphone...?)	(นึกขึ้นได้ว่าของใช้ของเหยื่อ\nอย่างกระเป๋าเงินหรือมือถือหายไปไหน...?)
+P0103-0009	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Nothing was found in Kume's pockets.\nNo wallet, no phone, nothing.)	(ในกระเป๋าของคุเมะไม่พบอะไรเลย\nไม่มีกระเป๋าเงิน ไม่มีมือถือ ไม่มีอะไรทั้งนั้น)
+P0103-0010	พากย์ · speech_list_judge_main_c01	Shintani (ช)		You take a peek in the alley\nwhen you were over at Amour?	ตอนไปที่อามูร์ นายได้แวะ\nดูในตรอกด้วยรึเปล่า?
+P0103-0011	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	You dropped by Amour, right?\nDid you take a peek in the alley?	นายไปที่อามูร์มาใช่ไหม?\nได้แวะดูในตรอกด้วยรึเปล่า?
+P0103-0012	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Doubt there's any traces left at this point,\nbut it's apparently just out the back.	คงไม่เหลือร่องรอยอะไรแล้วแหละตอนนี้\nแต่ได้ยินว่ามันอยู่แค่หลังร้านเอง
+P0103-0013	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Doubt there's even a trace left at this point,\nbut it's apparently just out the back.	คงไม่เหลือร่องรอยอะไรเลยตอนนี้\nแต่ได้ยินว่ามันอยู่แค่หลังร้านเอง
+P0103-0014	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Anyway.	เอาเป็นว่า
+P0103-0015	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Well, anyway.	เอาเป็นว่าอย่างนั้นแหละ
+P0103-0016	พากย์ · speech_list_judge_main_c01	Shintani (ช)		This is Kume, just before he died.	นี่คือคุเมะ ก่อนที่เขาจะตาย
+P0103-0017	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	This is Kume before his death.	นี่คือคุเมะ ก่อนตาย
+P0103-0018	พากย์ · speech_list_judge_main_c01	Shintani (ช)		C'mon, don't say stuff like that.	ไม่เอาน่า อย่าพูดแบบนั้นสิ
+P0103-0019	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Well, try thinkin' about it in the\ncontext of the Tojo-Kyorei feud.	ก็...ลองคิดดูในบริบทของ\nความบาดหมางระหว่างตระกูลโทโจ กับเคียวเรอิสิ
+P0103-0020	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Well, think about it from their perspective.\nThe Tojo-Kyorei feud is framing this whole thing.	ลองคิดในมุมของพวกเขาดูสิ\nความบาดหมางโทโจ-เคียวเรอิคือกรอบที่ครอบเรื่อง ทั้งหมดอยู่
+P0103-0021	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Two other Kyorei yakuza turned up dead\nbefore this, each with their eyes gouged out.	ก่อนหน้านี้มียากูซ่าเคียวเรอิ อีกสองคน\nตายไปแล้ว ทั้งคู่ถูกควักลูกตาเหมือนกัน
+P0103-0022	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Two other Kyorei yakuza turned up dead before this,\neach with their eyes gouged out.	ก่อนหน้านี้มียากูซ่าเคียวเรอิ อีกสองคนตายไปแล้ว\nทั้งคู่ถูกควักลูกตาเหมือนกัน
+P0103-0023	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Not a far leap to assume the Tojo's\nresponsible for all three murders.	ก็ไม่แปลกที่จะสรุปว่าตระกูลโทโจ\nอยู่เบื้องหลังการฆาตกรรมทั้งสามคดี
+P0103-0024	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	So between all these dead foreign yakuza, they're thinking\nthe Tojo's got motive enough to cover all three murders.	พอมียากูซ่าต่างถิ่นตายรวดหลาย ศพแบบนี้ พวกเขาก็คิดว่า\nตระกูลโทโจมีเหตุจูงใจมากพอจะ ก่อเหตุทั้งสามคดี
+P0103-0025	พากย์ · speech_list_judge_main_c01	Shintani (ช)		You follow?	ตามทันไหม
+P0103-0026	พากย์ · speech_list_judge_main_c01	Shintani (ช)		All right. This is how the prosecution\nthinks it all went down.	เอาล่ะ นี่คือสิ่งที่ฝ่ายอัยการ\nคิดว่าเกิดขึ้น
+P0103-0027	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	All right. With that in mind, this is how\nthe prosecution thinks it all went down.	เอาล่ะ ด้วยแนวคิดนั้น นี่คือสิ่งที่\nฝ่ายอัยการคิดว่าเกิดขึ้น
+P0103-0028	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Before the killer took his eyes.	ก่อนที่ฆาตกรจะควักลูกตาเขาออก
+P0103-0029	พากย์ · speech_list_judge_main_c01	Yagami (ช)		So what's the prosecution's angle on this?	แล้วฝ่ายอัยการมองเรื่องนี้ยังไง
+P0103-0030	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	And the prosecution has some angle on this?\nWhat's the story they're selling?	แล้วฝ่ายอัยการมีมุมมองต่อ เรื่องนี้ยังไง\nเรื่องที่พวกเขาจะเอาไปขายคืออะไร
+P0103-0031	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(There's a good chance the murders are the result\nof a Tojo Clan versus Kyorei Clan turf war.)</color>	<color=ｍonologue>(มีความเป็นไปได้สูงว่าคดี ฆาตกรรมพวกนี้\nเป็นผลจากสงครามแย่งพื้นที่ ระหว่างตระกูลโทโจกับ ตระกูลเคียวเรอิ)</color>
+P0103-0032	พากย์ · speech_list_judge_main_c01	Genda (ช)		Yup, go on.	อือ เล่าต่อเลย
+P0103-0033	พากย์ · speech_list_judge_main_c01	Genda (ช)	[ใช้ร่วม]	Agreed.	เห็นด้วย
+P0103-0034	พากย์ · speech_list_judge_main_c01	Genda (ช)		That's our Shintani-sensei. Prickliest guy in town,\nbut damn if he's not a terrific lawyer.	นั่นแหละอาจารย์ชินทานิของเรา หนามยอกอกที่สุดในเมือง\nแต่ต้องยอมรับว่าเป็นทนาย ชั้นเยี่ยมจริงๆ
+P0103-0035	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[ใช้ร่วม]	About what?	เรื่องอะไร?
+P0103-0036	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Then what's your next move?	แล้วแกจะทำยังไงต่อ
+P0103-0037	พากย์ · speech_list_judge_main_c01	Kaito (ช)		C'mon, man. Is this the time to go knocking on the\nKyorei Clan's door? Sounds like suicide to me.	ไม่เอาน่า จะไปเคาะประตูตระกูลเคียวเรอิ\nช่วงนี้เนี่ยนะ ฟังดูเหมือนไปฆ่าตัวตายเลยนะ
+P0103-0038	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	C'mon, man. You want us to go knockin' on the\nKyorei's door? Some of their boys just got murdered.	ไม่เอาน่า อยากให้เราไปเคาะประตูเคียวเรอิ\nงั้นเหรอ ลูกน้องพวกเขาเพิ่งโดนฆ่าไปหมาดๆ นะ
+P0103-0039	พากย์ · speech_list_judge_main_c01	Kaito (ช)		The deal, my ass. Pokin' a hornet's nest ain't\ngonna get us anything but stung.	ข้อตกลงบ้าอะไร ไปแหย่รังต่อแบบนี้\nมีแต่จะโดนต่อยเข้าให้เปล่าๆ
+P0103-0040	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Deal, my ass.\nPokin' this bee's nest ain't gonna—	ข้อตกลงบ้าอะไร\nแหย่รังผึ้งแบบนี้มันจะ...
+P0103-0041	พากย์ · speech_list_judge_main_c01	Saori (ญ)		With you there.	เอาด้วยเลย
+P0103-0042	พากย์ · speech_list_judge_main_c01	Shintani (ช)		So they've got three things: the camera footage,\nthe bloodstains in the club, and Hamura's swiss cheese alibi.	พวกเขามีของสามอย่าง คือภาพจากกล้องวงจรปิด\nคราบเลือดในคลับ และพยานที่อยู่ของฮามุระที่โหว่ เป็นรูพรุน
+P0103-0043	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	They have Amour's camera footage, the bloodstains\nin the club, and Hamura's swiss cheese alibi.	พวกเขามีภาพจากกล้องวงจรปิดของอามูร์ คราบเลือดในคลับ\nและพยานที่อยู่ของฮามุระที่โหว่ เป็นรูพรุน
+P0103-0044	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Any of those alone wouldn't be\nenough to get a conviction.	ถ้ามีแค่อย่างใดอย่างหนึ่ง\nก็คงเอาผิดเขาไม่ได้
+P0103-0045	พากย์ · speech_list_judge_main_c01	Shintani (ช)		But with all three, the prosecution\nthinks they've got this case in the bag.	แต่พอมีครบทั้งสามอย่าง ฝ่ายอัยการ\nก็คิดว่ากุมชัยคดีนี้ไว้ในมือแล้ว
+P0103-0046	พากย์ · speech_list_judge_main_c01	Shintani (ช)		End of the day, to them,\nit's just yakuza offing yakuza.	สุดท้ายแล้ว สำหรับพวกเขา\nมันก็แค่ยากูซ่าฆ่ายากูซ่ากันเอง
+P0103-0047	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	To them it's just yakuza offing yakuza.	สำหรับพวกเขา มันก็แค่ยากูซ่าฆ่ายากูซ่ากันเอง
+P0103-0048	พากย์ · speech_list_judge_main_c01	Shintani (ช)		I dunno. The guy rubs me the wrong way, yeah...\nBut I'm pretty sure he's innocent.	ไม่รู้สิ ไอ้หมอนั่นน่ะทำให้ผมหมั่นไส้ อยู่หรอกนะ...\nแต่ผมค่อนข้างมั่นใจว่าเขาบริสุทธิ์
+P0103-0049	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Hamura rubs me the wrong way, yeah...\nBut I dunno. I think he's innocent.	ฮามุระทำให้ผมหมั่นไส้อยู่หรอกนะ...\nแต่ไม่รู้สิ ผมว่าเขาบริสุทธิ์
+P0103-0050	พากย์ · speech_list_judge_main_c01	Shintani (ช)		A cunning yakuza like Hamura wouldn't just offload\nthe corpse in an alley like that. Too sloppy.	ยากูซ่าเจ้าเล่ห์แบบฮามุระไม่มีทาง\nทิ้งศพไว้ในตรอกแบบนั้นหรอก มันสุกเอาเผากินเกินไป
+P0103-0051	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Hamura's a smart, veteran gangster. He wouldn't\njust offload the corpse in an alley like that. Too sloppy.	ฮามุระเป็นนักเลงเก๋าที่หัวดี เขาไม่มีทาง\nทิ้งศพไว้ในตรอกแบบนั้นหรอก มันหยาบเกินไป
+P0103-0052	พากย์ · speech_list_judge_main_c01	Shintani (ช)		If he really did it... forget about the eyes.\nYou'd never even find the body.	ถ้าเขาทำจริง... อย่าว่าแต่ลูกตาเลย\nคงไม่มีวันเจอศพด้วยซ้ำ
+P0103-0053	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Forget about the eyes.\nYou'd never even find the body.	อย่าว่าแต่ลูกตาเลย\nคงไม่มีวันเจอศพด้วยซ้ำ
+P0103-0054	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Was that supposed to be a compliment?	นั่นตั้งใจจะชมกันหรือเปล่าเนี่ย
+P0103-0055	พากย์ · speech_list_judge_main_c01	Genda (ช)		What? Something wrong?	ทำไมล่ะ มีอะไรผิดปกติเหรอ
+P0103-0056	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Hah. You think we've got\nthe manpower for that?	ฮ่า นายคิดว่าเรามีกำลังคน\nมากพอจะทำแบบนั้นเหรอ
+P0103-0057	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Hah. Just like that?\nWe don't have the manpower.	ฮ่า พูดง่ายๆ แบบนั้นเลยเหรอ\nเราไม่มีกำลังคนขนาดนั้นหรอกนะ
+P0103-0058	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Tracking down a criminal like that takes an entire organized front.\nBest leaving that to the cops if you ask me.	จะตามล่าฆาตกรแบบนั้นต้อง ใช้กำลังทั้งองค์กร\nถ้าให้พูดตรงๆ ปล่อยให้ตำรวจจัดการดีกว่า
+P0103-0059	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Tracking down a criminal? That takes an entire organized front.\nIf I were you, I'd leave that to the cops.	จะตามล่าฆาตกรเนี่ยนะ ต้องใช้กำลังทั้งองค์กรเลยนะ\nถ้าเป็นนาย ผมคงปล่อยให้ตำรวจจัดการ
+P0103-0060	พากย์ · speech_list_judge_main_c01	Shintani (ช)		My only job here is defending Hamura.	งานของผมตรงนี้มีแค่แก้ต่างให้ฮามุระ
+P0103-0061	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Gonna need some more info\non the victim.	คงต้องหาข้อมูลเกี่ยวกับเหยื่อ\nเพิ่มอีกหน่อย
+P0103-0062	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Remember Kume's buddy? The one who ran off\nwhen the Matsugane boys jumped them.	จำเพื่อนของคุเมะได้ไหม คนที่วิ่งหนีไป\nตอนพวกมัตสึกาเนะรุมทำร้ายพวกเขา
+P0103-0063	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Remember Kume's buddy?\nThe one who ran off during the attack?	จำเพื่อนของคุเมะได้ไหม\nคนที่วิ่งหนีไปตอนถูกรุมทำร้าย
+P0103-0064	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Name's Akira Murase, from the Kyorei Clan.\nI want to hear what he has to say.	ชื่ออากิระ มุราเสะ จากตระกูลเคียวเรอิ\nอยากฟังว่าเขาจะพูดอะไร
+P0103-0065	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Another Kyorei thug. Akira Murase.\nI want to hear what he has to say.	นักเลงเคียวเรอิอีกคน อากิระ มุราเสะ\nอยากฟังว่าเขาจะพูดว่ายังไง
+P0103-0066	พากย์ · speech_list_judge_main_c01	Yagami (ช)		About what he did after he watched\nKume get dragged into the club.	เรื่องที่เขาทำหลังจากเห็น\nคุเมะถูกลากตัวเข้าไปในคลับ
+P0103-0067	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	After Kume got dragged into the club,\nwhat did Murase do next?	หลังคุเมะถูกลากตัวเข้าไปในคลับ\nมุราเสะทำอะไรต่อ
+P0103-0068	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Did he really just abandon his friend?\nHard to believe.	เขาทิ้งเพื่อนหนีไปจริงๆ เหรอ\nไม่น่าเชื่อเลย
+P0103-0069	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	A yakuza doesn't just abandon his brothers.\nThere's gotta be more to the story.	ยากูซ่าไม่ทิ้งพี่น้องกันง่ายๆ หรอกนะ\nต้องมีอะไรมากกว่านี้แน่
+P0103-0070	พากย์ · speech_list_judge_main_c01	Yagami (ช)		One way or another,\nI want that info from Murase.	ยังไงก็ตาม\nผมอยากได้ข้อมูลจากมุราเสะให้ได้
+P0103-0071	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I want to hear it from Murase.	ผมอยากฟังเรื่องนี้จากปากมุราเสะเอง
+P0103-0072	พากย์ · speech_list_judge_main_c01	Genda (ช)		You're the ones who have to figure out how\nto get it. That's the deal, remember?	เรื่องจะเอาข้อมูลมายังไงเป็น หน้าที่พวกแก\nต้องคิดเอง นั่นคือข้อตกลง จำได้ไหม
+P0103-0073	พากย์ · speech_list_judge_main_c01	Genda (ช)	[อีกแทร็ก]	As for how to get it, that's up to you.\nThat's the deal, remember?	ส่วนจะเอามายังไงก็แล้วแต่พวกแกเลย\nนั่นคือข้อตกลงกัน จำได้ใช่ไหม
+P0103-0074	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Guess there's a lot of reasons\nfor them to suspect Hamura.)</color>	<color=ｍonologue>(ก็คงมีเหตุผลเยอะพอสมควร\nที่พวกเขาจะสงสัยฮามุระ)</color>
+P0103-0075	พากย์ · speech_list_judge_main_c01	Genda (ช)		Makes sense they'd see it that way.	ก็สมเหตุสมผลที่พวกเขาจะมองแบบนั้น
+P0103-0076	พากย์ · speech_list_judge_main_c01	Kaito (ช)		I'm more interested in what you think, though.	แต่ฉันอยากรู้ว่าอาจารย์คิด ยังไงมากกว่า
+P0103-0077	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	But... I want to know what <font_kind=yakuza_italic>you</font_kind> think.	แต่... ฉันอยากรู้ว่า<font_kind=yakuza_italic>อาจารย์</font_kind>คิดยังไงมากกว่า
+P0103-0078	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Did Hamura actually kill Kume?	ฮามุระฆ่าคุเมะจริงๆ เหรอ
+P0103-0079	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Do you believe Hamura actually killed Kume?\nShintani-sensei?	เชื่อไหมว่าฮามุระฆ่าคุเมะจริงๆ\nอาจารย์ชินทานิ
+P0103-0080	พากย์ · speech_list_judge_main_c01	Yagami (ช)		If Hamura didn't do it, the person who did\nis still out there somewhere.	ถ้าฮามุระไม่ได้ทำ คนที่ทำจริงๆ\nก็ยังลอยนวลอยู่ที่ไหนสักแห่ง
+P0103-0081	พากย์ · speech_list_judge_main_c01	Yagami (ช)		We've just gotta find them if we\nwant to clear Hamura's name.	เราแค่ต้องหาตัวคนนั้นให้เจอ\nถ้าอยากล้างมลทินให้ฮามุระ
+P0103-0082	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(A lawyer's job is only to prove\nreasonable doubt, not the defendant's innocence...)</color>	<color=ｍonologue>(งานของทนายมีแค่พิสูจน์\nข้อสงสัยอันสมควร ไม่ใช่พิสูจน์ความบริสุทธิ์ของจำเลย...)</color>
+P0103-0083	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(To them, the truth... is irrelevant.)</color>	<color=ｍonologue>(สำหรับพวกเขา ความจริง...ไม่ใช่เรื่องสำคัญ)</color>
+P0103-0084	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(He's right. No self-respecting yakuza\nwould run off and leave his buddy to die.)</color>	<color=ｍonologue>(เขาพูดถูก ยากูซ่าที่มีศักดิ์ศรี\nไม่มีทางวิ่งหนีทิ้งเพื่อนให้ตายหรอก)</color>
+P0103-0085	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Murase must have at least attempted a rescue,\nbut to find out for sure, that would mean...)</color>	<color=ｍonologue>(มุราเสะต้องพยายามกลับไปช่วยบ้างแหละ\nแต่ถ้าจะรู้ให้แน่ชัด ก็ต้อง...)</color>
+P0103-0086	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I bet they're out for blood\nafter what happened to Kume.	ฉันว่าตอนนี้พวกเขาคงกระหายเลือด\nหลังเรื่องที่เกิดกับคุเมะ
+P0103-0087	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	They're probably out for blood, yeah.	พวกเขาคงกระหายเลือดอยู่แน่ๆ
+P0103-0088	พากย์ · speech_list_judge_main_c01	Yagami (ช)		He's right though.	แต่เขาก็พูดถูกนะ
+P0103-0089	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Point taken.	เข้าใจแล้ว
+P0103-0090	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Come on, Kaito-san.	ไปกันเถอะ ไคโตะซัง
+P0103-0091	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Okay. Come on, Kaito-san.	โอเค ไปกันเถอะ ไคโตะซัง
+P0103-0092	พากย์ · speech_list_judge_main_c01	Kaito (ช)		First things first, we need to find out where the Kyorei Clan's\nhiding. They've gotta have a base or something.	อย่างแรกเลย เราต้องรู้ก่อนว่าตระกูลเคียวเรอิ\nซ่อนตัวอยู่ที่ไหน ต้องมีฐานที่มั่นอะไรสักอย่างแน่ๆ
+P0103-0093	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	First, we gotta find out where the Kyorei Clan's hiding\nin Kamurocho. They've gotta have a base or something.	อย่างแรก เราต้องรู้ก่อนว่า ตระกูลเคียวเรอิซ่อนตัว\nอยู่ที่ไหนในคามุโรโจ ต้องมีฐานที่มั่นอะไรสักอย่างแน่ๆ
+P0103-0094	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Oh, uh... I guess I'll pass.\nCan't exactly waltz in, bein' expelled and all.	เอ่อ... ฉันขอผ่านดีกว่า\nจะเดินเข้าไปเฉยๆ ก็คงยากหรอก ในเมื่อโดนไล่ออกมาแล้ว
+P0103-0095	พากย์ · speech_list_judge_main_c01	Kaito (ช)		You should go see Matsugane-san alone.\nSorry I'm kinda useless here.	นายไปหาท่านมัตสึกาเนะคนเดียวดีกว่า\nขอโทษนะที่ฉันช่วยอะไรตรงนี้ไม่ได้เลย
+P0103-0096	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Go talk to that Kyorei guy, Murase.	ไคโตะไปคุยกับไอ้เคียวเรอิคนนั้น มุราเสะ
+P0103-0097	พากย์ · speech_list_judge_main_c01	Kaito (ช)		I wanna know what he did\nafter Kume got nabbed.	อยากรู้ว่าเขาทำอะไร\nหลังคุเมะโดนลากตัวไป
+P0103-0098	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Probably quickest to just go ask Matsugane-san.\nHe's got all the real Tojo Clan dirt.	วิธีเร็วที่สุดคงเป็นไปถาม ท่านมัตสึกาเนะเลย\nท่านรู้เรื่องลับๆ ของตระกูลโทโจหมดทุกอย่าง
+P0103-0099	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Probably quickest to just go ask Matsugane-san.\nHe has all the Tojo intel a guy could want.	วิธีเร็วที่สุดคงเป็นไปถาม ท่านมัตสึกาเนะเลย\nท่านมีข้อมูลตระกูลโทโจครบ ทุกอย่างที่อยากรู้
+P0103-0100	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Yeah I'll take care of this one by myself.\nI'll call you when I'm done.	อือ งั้นตรงนี้ผมจัดการเองคนเดียว\nเสร็จแล้วจะโทรหานะ
+P0103-0101	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Makes sense. I figured I'd head over alone.\nI'll call you when I'm done.	ก็สมเหตุสมผล ผมว่าจะไปคนเดียวอยู่แล้ว\nเสร็จแล้วจะโทรหานะ
+P0103-0102	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Huh. And that's where we'll find Murase?	อ้อ แล้วเราจะเจอมุราเสะที่นั่นเหรอ
+P0103-0103	พากย์ · speech_list_judge_main_c01	Kaito (ช)		You're thinking stakeout, huh?	นายคิดจะไปดักเฝ้าดูล่ะสิ
+P0103-0104	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Sounds like the perfect time\nto give the drone a whirl!	ได้เวลาลองใช้โดรน\nกันซะที!
+P0103-0105	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Hey... Sounds like the perfect job\nfor the drone!	เฮ้... งานนี้เหมาะกับโดรน\nสุดๆ เลยนะ!
+P0103-0106	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Fingers crossed.\nAnyway, I'll see you over there.	ขอให้โชคดี\nเดี๋ยวไปเจอกันที่นั่นนะ
+P0103-0107	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Fingers crossed.\nAnyway, I'll see you at KJ Art.	ขอให้โชคดี\nเดี๋ยวไปเจอกันที่ KJ Art นะ
+P0103-0108	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Kaito-san. Just left the Matsugane Office.	ไคโตะซัง เพิ่งออกจาก สำนักงานตระกูลมัตสึกาเนะมา
+P0103-0109	พากย์ · speech_list_judge_main_c01	Kaito (ช)		The Kyorei are shacked up\nin some place called KJ Art.	เคียวเรอิไปหลบซ่อนอยู่\nที่ไหนสักแห่งชื่อ KJ Art
+P0103-0110	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Sounds like the Kyorei are shacked up\nin some place called KJ Art.	ท่าทางเคียวเรอิจะไปหลบซ่อนอยู่\nที่ไหนสักแห่งชื่อ KJ Art
+P0103-0111	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Not sure. We won't know if we\ndon't check it out ourselves.	ไม่แน่ใจ คงต้องไปดูเอง\nถึงจะรู้
+P0103-0112	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Well, we won't know until we\ncheck it out ourselves.  	ก็คงต้องไปดูเอง\nถึงจะรู้
+P0103-0113	พากย์ · speech_list_judge_main_c01	Kaito (ช)		That might be our only choice.	นั่นอาจเป็นทางเลือกเดียวที่เรามี
+P0103-0114	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Mm, that might be our only choice.	อือ นั่นอาจเป็นทางเลือกเดียวที่มี
+P0103-0115	พากย์ · speech_list_judge_main_c01	Kaito (ช)		It's me. You at KJ art yet?	ฉันเอง ถึง KJ Art รึยัง
+P0103-0116	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	It's Kaito. You at KJ Art yet?	ไคโตะเอง ถึง KJ Art รึยัง
+P0103-0117	พากย์ · speech_list_judge_main_c01	Kaito (ช)		I'm on the opposite roof.\nLook up.	ฉันอยู่บนดาดฟ้าฝั่งตรงข้าม\nเงยหน้าขึ้นมาสิ
+P0103-0118	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Face KJ Art and look right.	หันหน้าเข้าหา KJ Art แล้วมองไปทางขวา
+P0103-0119	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Looks like it.\nWhere are you?	ท่าทางจะถึงแล้ว\nแกอยู่ไหน
+P0103-0120	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Yeah, looks like it.\nKaito, where are you?	อือ ท่าทางจะถึงแล้ว\nไคโตะ อยู่ไหน
+P0103-0121	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Face KJ Art and look right.\nI'm up on the roof.	หันหน้าเข้าหา KJ Art มองไปทางขวา\nน่าจะอยู่บนดาดฟ้านั่นแหละ
+P0103-0122	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Face KJ, look to the right,\nand he should be on the roof...	หันหน้าเข้าหา KJ มองไปทางขวา\nแล้วเขาน่าจะอยู่บนดาดฟ้า...
+P0103-0123	พากย์ · speech_list_judge_main_c01	Kaito (ช)		What are you doing?\nQuit farting around and get over here.	ทำอะไรอยู่น่ะ\nเลิกทำเล่นแล้วรีบมาซะที
+P0103-0124	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Hey, Tak, what are you doing?\nGet over here.	เฮ้ ทาคุ ทำอะไรอยู่\nรีบมาทางนี้เร็ว
+P0103-0125	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I see you.\nBe up in a sec.	เห็นแล้ว\nเดี๋ยวขึ้นไปเลยนะ
+P0103-0126	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I see you. Be up in a sec.	เห็นแล้ว เดี๋ยวขึ้นไปเลยนะ
+P0103-0127	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(There he is!\nThat shirt's like a homing beacon.)</color>	<color=ｍonologue>(อยู่นั่นไง!\nเสื้อตัวนั้นเด่นเหมือนไฟสัญญาณเลย)</color>
+P0103-0128	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Well, that's <font_kind=yakuza_italic>definitely</font_kind> not Kaito.)</color>	<color=ｍonologue>(เอาล่ะ นั่น<font_kind=yakuza_italic>ไม่ใช่</font_kind>ไคโตะแน่นอน)</color>
+P0103-0129	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(How'd those two even get up there?)</color>	<color=ｍonologue>(สองคนนั้นขึ้นไปอยู่ตรงนั้นได้ ยังไงกัน)</color>
+P0103-0130	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(That's... just some woman smoking.\nGotta look for Kaito.)</color>	<color=ｍonologue>(นั่นมัน...แค่ผู้หญิงคนหนึ่งกำลังสูบบุหรี่\nต้องหาไคโตะต่อ)</color>
+P0103-0131	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(A calico. Pretty cute. is it true all calicos are\nfemale? Er... I should probably find Kaito.)</color>	<color=ｍonologue>(แมวสามสี น่ารักดี ได้ยินว่าแมวสามสีเป็นตัวเมีย\nหมดเลยจริงเหรอ เอ่อ...ควรไปหาไคโตะต่อดีกว่า)</color>
+P0103-0132	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(That's... an employee at the cat café.\nGotta look for Kaito.)</color>	<color=ｍonologue>(นั่นมัน...พนักงานร้านคาเฟ่แมวนี่เอง\nต้องหาไคโตะต่อ)</color>
+P0103-0133	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(That's... Wait, is he giving her a shoulder massage?\nShe doesn't look too into it.)</color>	<color=ｍonologue>(นั่นมัน...เดี๋ยวนะ เขากำลังนวดไหล่ให้เธออยู่เหรอ\nดูท่าทางเธอจะไม่ค่อยอินเท่าไหร่นะ)</color>
+P0103-0134	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Right now I need to look for Kaito.)</color>	<color=ｍonologue>(ตอนนี้ต้องหาไคโตะให้เจอก่อน)</color>
+P0103-0135	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Yo. Helluva view, wouldn't you say?	โย่ วิวสวยใช้ได้เลยเนอะว่าไหม
+P0103-0136	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Yo. Great view of KJ Art, huh?	โย่ วิวมองเห็น KJ Art สวยเลยนะเนี่ย
+P0103-0137	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Too bad the place is absolutely\ncrawling with yakuza.	น่าเสียดายที่ที่นั่น\nเต็มไปด้วยยากูซ่าเลยล่ะ
+P0103-0138	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Take a look at that. Place is absolutely\ncrawling with yakuza.	ดูนั่นสิ ที่นั่น\nเต็มไปด้วยยากูซ่าเลย
+P0103-0139	พากย์ · speech_list_judge_main_c01	Kaito (ช)		No doubt.	ไม่ต้องสงสัยเลย
+P0103-0140	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Couldn't find him.\nI looked pretty damn hard with the drone, too.	หาไม่เจอเลย\nใช้โดรนส่องหาจนทั่วแล้วด้วยนะ
+P0103-0141	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Couldn't find him. I looked pretty damn hard\nwith the drone, too.	หาไม่เจอเลย ใช้โดรนส่องหาจนทั่วแล้ว\nด้วยนะเนี่ย
+P0103-0142	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Uh... Sure?	เอ่อ...แน่สิ?
+P0103-0143	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Uh... Yeah, Sure.	เอ่อ...ใช่ แน่สิ
+P0103-0144	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Sure, ya ass.	ได้เลย ไอ้บ้า
+P0103-0145	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	Go right ahead.	เชิญเลย
+P0103-0146	พากย์ · speech_list_judge_main_c01	Kaito (ช)		You forget we're looking for Murase or something?\nFly that thing back over to KJ Art.	ลืมไปแล้วเหรอว่าเรากำลังหา มุราเสะอยู่\nบินกลับไปที่ KJ Art เดี๋ยวนี้
+P0103-0147	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Hey, the hell are you doing? Fly that thing\nback over to KJ Art. We gotta find Murase, and fast.	เฮ้ ทำบ้าอะไรอยู่ บินกลับไปที่ KJ Art\nเดี๋ยวนี้ เราต้องรีบหามุราเสะให้เจอ
+P0103-0148	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Hey, there he is!\nWell fuckin' done man!	เฮ้ อยู่นั่นไง!\nทำได้ดีเป็นบ้าเลยว่ะ!
+P0103-0149	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Hey, there he is! That's Murase, all right!\nNice going, Tak! Well fucking done!	เฮ้ อยู่นั่นไง! นั่นมุราเสะแน่ๆ!\nเก่งมาก ทาคุ! ทำได้ดีเป็นบ้าเลยว่ะ!
+P0103-0150	พากย์ · speech_list_judge_main_c01	Yagami (ช)		This here is Murase.	นี่ไงมุราเสะ
+P0103-0151	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Wonder if we can just peek through\nthe windows, see if we can find him.	ลองแอบส่องผ่านหน้าต่างดู\nว่าจะเจอเขาไหม
+P0103-0152	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	If we want to find Murase in the building,\nwe'd better check all the windows.	ถ้าอยากหามุราเสะในตึกนี้\nคงต้องส่องดูทุกหน้าต่างเลย
+P0103-0153	พากย์ · speech_list_judge_main_c01	Yagami (ช)		What's with the book?\nDon't these guys have anything better to do?	จะมานั่งอ่านหนังสือทำไมกัน\nพวกนี้ไม่มีอะไรทำดีกว่านี้เหรอ
+P0103-0154	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Hold up, hold up! That's him!	เดี๋ยวๆๆ นั่นไง คนนั้นแหละ!
+P0103-0155	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Hey! That's Murase, right!?	เฮ้! นั่นมุราเสะใช่ไหมเนี่ย!?
+P0103-0156	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Shit, he went inside.\nLet's try and figure out where to.	แย่แล้ว เขาเข้าไปในตึกแล้ว\nต้องหาให้เจอว่าไปตรงไหน
+P0103-0157	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Shit. We gotta figure out\nwhere he went.	แย่แล้ว ต้องหาให้เจอ\nว่าเขาไปทางไหน
+P0103-0158	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Guess this is the Kyorei hideout after all.	ท่าทางที่นี่จะเป็นที่ซ่อนของ เคียวเรอิจริงๆ ด้วย
+P0103-0159	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Guess this is a Kyorei hideout after all.	ท่าทางที่นี่จะเป็นที่ซ่อนของ เคียวเรอิจริงๆ ด้วยสินะ
+P0103-0160	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And Murase?	แล้วมุราเสะล่ะ
+P0103-0161	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	And Murase? Is he here?	แล้วมุราเสะล่ะ อยู่ที่นี่ไหม
+P0103-0162	พากย์ · speech_list_judge_main_c01	Yagami (ช)		You sure it was hard enough?	แน่ใจเหรอว่าหาทั่วจริงๆ
+P0103-0163	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Huh. Did you look hard enough?	หา แน่ใจเหรอว่าหาทั่วดีแล้ว
+P0103-0164	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Come on, let's try again.\nI'll fly it this time.	เอาน่า ลองใหม่กัน\nรอบนี้ผมบังคับเอง
+P0103-0165	พากย์ · speech_list_judge_main_c01	Yagami (ช)		When you want something done,\ndo it yourself, right?	อยากให้งานสำเร็จ\nก็ต้องลงมือทำเองสินะ
+P0103-0166	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Gotta show you how it's done.	ต้องให้ดูวิธีที่ถูกต้องซะหน่อย
+P0103-0167	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[มีอังกฤษ: Flight]	(I need to pick "Flight" to fly the drone.)	(ต้องเลือก "Flight" ก่อนถึงจะบังคับโดรนได้)
+P0103-0168	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(This must be the entrance.\nDoesn't look like Murase's here.)	(ตรงนี้คงเป็นทางเข้า\nดูท่าไม่มีมุราเสะอยู่ตรงนี้นะ)
+P0103-0169	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Just a bunch of desks in here. Is this where\nthe low level grunts do their work?)	(มีแต่โต๊ะทำงานเต็มไปหมด นี่คงเป็นที่\nพวกลูกน้องตัวเล็กๆ นั่งทำงานกันสินะ)
+P0103-0170	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(I don't see Murase.\nShould check somewhere else.)	(ไม่เห็นมุราเสะเลย\nต้องไปดูที่อื่นแล้วล่ะ)
+P0103-0171	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Dammit. The blinds are down and I can't see in.\nGonna have to just look somewhere else.)	(บ้าเอ๊ย ม่านบังตาปิดอยู่ มองไม่เห็นข้างในเลย\nต้องไปหาที่อื่นแทน)
+P0103-0172	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Whoa, this is a fancy room.\nDon't see Murase, though.)	(โห ห้องนี้หรูจัง\nแต่ไม่เห็นมุราเสะเลยนะ)
+P0103-0173	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Guy has his own office, huh?\nHe must be important.	มีห้องทำงานส่วนตัวเลยเหรอเนี่ย\nต้องเป็นคนสำคัญแน่ๆ
+P0103-0174	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Guy has his own office, huh? Man. If he's got a place\nall to himself, he must be important.	มีห้องทำงานส่วนตัวเลยเหรอเนี่ย เฮ้อ ถ้ามีห้อง\nเป็นของตัวเองขนาดนี้ ต้องเป็นคนสำคัญแน่ๆ
+P0103-0175	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Think they'd let us meet him?	คิดว่าพวกเขาจะยอมให้เราเข้าไป เจอเขาไหม
+P0103-0176	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Heh, especially if we told\n'em why we're here.	ฮึ ยิ่งถ้าบอกพวกเขา\nไปว่าเรามาทำไมด้วยนะ
+P0103-0177	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Heh, especially if we told 'em we're defending Hamura.\nThey'd hunt us down.	ฮึ ยิ่งถ้าบอกไปว่าเรามาแก้ต่างให้ฮามุระ\nพวกเขาคงไล่ล่าเราแน่
+P0103-0178	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Agreed. What're you thinking?	เห็นด้วย แล้วนายคิดยังไง
+P0103-0179	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Do you even know how to scale a building?\nBesides, people'd see you doing it.	นายรู้วิธีปีนตึกด้วยเหรอ\nอีกอย่าง คนก็คงเห็นนายทำแบบนั้นแน่ๆ
+P0103-0180	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	You even know <font_kind=yakuza_italic>how</font_kind> to scale a building?\nBesides, if you tried that, people'd see you doing it.	นายรู้<font_kind=yakuza_italic>วิธี</font_kind>ปีนตึกด้วยเหรอ\nอีกอย่าง ถ้านายลองทำ คนก็คงเห็นแน่ๆ
+P0103-0181	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Not to mention the bloodbath\nif someone spotted you...	ยังไม่นับว่าจะนองเลือด\nถ้ามีใครเห็นนายอีก...
+P0103-0182	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	And if you climb through into a horde of thugs,\nyou'd never make it out.	แล้วถ้านายปีนเข้าไปเจอฝูงนักเลง\nนายคงไม่มีทางออกมาได้
+P0103-0183	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Let's kill that idea, then.\nYou got a plan B?	งั้นตัดความคิดนั้นทิ้งไปเลย\nมีแผนสำรองไหม
+P0103-0184	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	That can't be all you got, right?\nYou got a plan B or something?	นายคงไม่มีแค่นี้ใช่ไหม\nมีแผนสำรองอะไรบ้างไหม
+P0103-0185	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Dude, they're the yakuza, not you.\nHow bout you put a little more thought into this?	เฮ้ย พวกนั้นมันยากูซ่านะ ไม่ใช่นาย\nคิดให้รอบคอบกว่านี้หน่อยได้ไหม
+P0103-0186	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Dude, that should be our last resort, not our Plan A.\nWe've got time, so let's use it, huh?	เฮ้ย นั่นควรเป็นทางเลือกสุดท้าย ไม่ใช่แผนแรก\nเรายังมีเวลาอยู่ ใช้มันให้คุ้มหน่อยดีกว่าไหม
+P0103-0187	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Pretty sure that's you, Tak.\nAnyway, you have any other ideas?	นั่นนายเองแหละ ทาคุ\nเอาน่า มีไอเดียอื่นอีกไหม
+P0103-0188	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Pretty sure that's just you.\nAnyway, got any other ideas?	นั่นนายคนเดียวแหละ\nเอาน่า มีไอเดียอื่นอีกไหม
+P0103-0189	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Oh yeah? Who as?	โอ้ เหรอ แล้วปลอมเป็นใครล่ะ
+P0103-0190	พากย์ · speech_list_judge_main_c01	Kaito (ช)		...You ever seen a pizza guy\nget invited inside?	...นายเคยเห็นคนส่งพิซซ่า\nถูกเชิญให้เข้าไปข้างในบ้างไหม
+P0103-0191	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Now you're talking my language.\nThey've got jumpsuits over at Don Quijote.	อย่างนี้สิถูกใจฉัน\nที่ Don Quijote มีชุดช่างซ่อมขายด้วยนะ
+P0103-0192	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Whoa... Now you're talking my language.\nThey've got jumpsuits over at Don Quijote.	โห... อย่างนี้สิถูกใจฉัน\nที่ Don Quijote มีชุดช่างซ่อมขายด้วยนะ
+P0103-0193	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Still, you can't show up and expect 'em\nto just let you stroll on in there.	แต่ถึงยังไงนายก็โผล่ไปเฉยๆ\nแล้วหวังให้พวกเขาปล่อยให้เดิน เข้าไปไม่ได้หรอก
+P0103-0194	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Still, you won't be able to stroll on in.\nYou'll need a plan.	แต่ถึงยังไงนายก็เดินเข้าไปเฉยๆ ไม่ได้หรอก\nต้องมีแผนด้วย
+P0103-0195	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Call a repairman, obviously.\nAre you suggesting we just wait 'til it breaks?	ก็ต้องเรียกช่างซ่อมมาสิ\nนายจะบอกว่าให้เรารอจนมันเสีย เองงั้นเหรอ
+P0103-0196	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Call a repairman, obviously.\nSo what, we wait 'til it breaks?	ก็ต้องเรียกช่างซ่อมมาสิ\nงั้นเราก็แค่รอให้มันเสียงั้นเหรอ
+P0103-0197	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Never thought I'd see the day\nyou came up with a plan like that.	ไม่คิดเลยว่าจะมีวันที่\nนายคิดแผนแบบนี้ออกมาได้
+P0103-0198	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Aha... I get ya.	อ่า...เก็ตแล้ว
+P0103-0199	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Who are you and where'd\nyou bury Tak's body?	นายเป็นใครกันแน่ แล้วเอาศพทาคุตัวจริง\nไปฝังไว้ที่ไหน
+P0103-0200	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Listen to you, all devious and shit!\nWhat did you do with the real Tak?	ฟังนายพูดสิ เจ้าเล่ห์ขึ้นมาซะงั้น!\nเอาทาคุตัวจริงไปทำอะไรมา
+P0103-0201	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Sounds good.\nLet's do this shit!	ได้เลย\nลุยกันเลยเว้ย!
+P0103-0202	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Yeah. Come on, let's do this shit!	เออ ไปกันเลย ลุยกันเลยเว้ย!
+P0103-0203	พากย์ · speech_list_judge_main_c01	Yagami (ช)		We wouldn't get past the front door.	แค่ประตูหน้าเรายังผ่านไปไม่ได้เลย
+P0103-0204	พากย์ · speech_list_judge_main_c01	Kaito (ช)		We'll need to find another way in if we\nwant to put the squeeze on Murase.	เราต้องหาทางเข้าอื่น\nถ้าอยากบีบมุราเสะให้พูด
+P0103-0205	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	If we want to put the squeeze on Murase,\nwe'll need to find another way in.	ถ้าอยากบีบมุราเสะให้พูด\nเราต้องหาทางเข้าอื่น
+P0103-0206	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Well, there's a few options on the table.	ก็มีทางเลือกอยู่ไม่กี่ทาง
+P0103-0207	พากย์ · speech_list_judge_main_c01	Yagami (ช)		As for the best one...	ส่วนทางที่ดีที่สุด...
+P0103-0208	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I could try scaling the side of the building,\nthen climbing in through an open window.	ผมอาจลองปีนด้านข้างตึกขึ้นไป\nแล้วปีนเข้าทางหน้าต่างที่เปิดอยู่
+P0103-0209	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I could try scaling the side of the building,\nthen climb in through an open window.	ผมอาจลองปีนด้านข้างตึก\nแล้วปีนเข้าทางหน้าต่างที่เปิด อยู่ก็ได้
+P0103-0210	พากย์ · speech_list_judge_main_c01	Yagami (ช)		...Guess so, yeah.	...ก็คงงั้นแหละ
+P0103-0211	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'll force my way in.\nJust kick down the door and go.	ผมจะบุกเข้าไปตรงๆ เลย\nแค่เตะประตูพังแล้วเดินเข้าไป
+P0103-0212	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I thought you liked things quick and dirty.	นึกว่าไคโตะชอบอะไรที่ห้าวๆ ลุยๆ ซะอีก
+P0103-0213	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Kaito-san, I thought you liked things\nquick and dirty.	ไคโตะซัง นึกว่านายชอบอะไร\nที่ห้าวๆ ลุยๆ ซะอีก
+P0103-0214	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Maybe I could go undercover.	ผมอาจลองปลอมตัวแฝงเข้าไปก็ได้
+P0103-0215	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I was thinking pizza delivery.	ผมคิดว่าจะปลอมเป็นคนส่งพิซซ่า
+P0103-0216	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Right, forget the pizza.\nWhat about some kind of repairman?	เออ ลืมพิซซ่าไปซะ\nแล้วช่างซ่อมล่ะ
+P0103-0217	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Okay, let's lose the pizza.\nWhat about a maintenance guy?	โอเค ตัดพิซซ่าทิ้งไป\nแล้วช่างซ่อมบำรุงล่ะ
+P0103-0218	พากย์ · speech_list_judge_main_c01	Yagami (ช)		True, huh...	จริงด้วยสิ...
+P0103-0219	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	What a shame.	น่าเสียดายจริงๆ
+P0103-0220	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I think I've got it.	ผมว่าคิดออกแล้วล่ะ
+P0103-0221	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Maybe that's our ticket in though?	นั่นอาจเป็นตั๋วผ่านเข้าไปของ เราก็ได้นะ
+P0103-0222	พากย์ · speech_list_judge_main_c01	Kaito (ช)		What would they do\nif the heater broke?	ถ้าฮีตเตอร์เสียขึ้นมา\nพวกเขาจะทำยังไง
+P0103-0223	พากย์ · speech_list_judge_main_c01	Kaito (ช)		I dunno, maybe we could speed things up a bit.	ไม่รู้สิ บางทีเราอาจช่วยเร่งให้มันเสีย เร็วขึ้นก็ได้
+P0103-0224	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Maybe we could speed things up a bit.	บางทีเราอาจช่วยเร่งให้มันเสีย เร็วขึ้นก็ได้
+P0103-0225	พากย์ · speech_list_judge_main_c01	Yagami (ช)		If I told you I'd have to kill you.	ถ้าบอกไป คงต้องฆ่านายทิ้งซะแล้วล่ะ
+P0103-0226	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Don't know what you're\ntalking about.	ไม่รู้เรื่องที่นายพูด\nเลยสักนิด
+P0103-0227	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Anyway, I'm gonna make things a little chilly\nfor these KJ guys. You keep watch, okay?	เอาล่ะ ผมจะไปทำให้พวก KJ\nหนาวๆ กันหน่อย ไคโตะคอยเฝ้าดูไว้นะ
+P0103-0228	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Now, I'm gonna make things a little chilly\nfor these guys. Kaito-san, you keep watch, okay?	เอาล่ะ ผมจะไปทำให้พวกนี้\nหนาวๆ กันหน่อย ไคโตะซัง คอยเฝ้าดูไว้นะ
+P0103-0229	พากย์ · speech_list_judge_main_c01	kj_police (ช)		Hey, what are you doing?\nCan I have a few words?	เฮ้ นายทำอะไรอยู่น่ะ\nขอคุยด้วยหน่อยสิ
+P0103-0230	พากย์ · speech_list_judge_main_c01	kj_police (ช)	[อีกแทร็ก]	Hey, what are you doing?\nLet me talk to you for a bit.	เฮ้ นายทำอะไรอยู่\nขอคุยด้วยแป๊บนึง
+P0103-0231	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Damn, it's locked.\nGuess I'll just have to pick it.)	(บ้าเอ๊ย ล็อกอยู่\nคงต้องงัดกุญแจแล้วล่ะ)
+P0103-0232	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Huh? Who's texting me?)	(หา? ใครส่งข้อความมาเนี่ย)
+P0103-0233	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Dammit. Gotta hurry.)	(บ้าเอ๊ย ต้องรีบแล้ว)
+P0103-0234	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Ugh... Dammit.)	(อูย...บ้าเอ๊ย)
+P0103-0235	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(All right, just have to...)	(เอาล่ะ แค่ต้อง...)
+P0103-0236	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(There. No way are they fixing that\nwithout a pro.)	(เอาล่ะ แบบนี้พวกเขาไม่มีทาง\nซ่อมเองได้แน่ ต้องเรียกมืออาชีพ)
+P0103-0237	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Now for my disguise.\nDon Quijote, here I come.)	(ต่อไปก็เรื่องชุดปลอมตัว\nDon Quijote รอผมอยู่แล้ว)
+P0103-0238	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Checkin' in.\nYou get the goods?	เช็กอินหน่อย\nได้ของมารึยัง
+P0103-0239	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Tak! You get the goods?	ทาคุ! ได้ของมารึยัง
+P0103-0240	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Better hurry, the plan's working.	รีบหน่อยนะ แผนกำลังได้ผลอยู่
+P0103-0241	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Good. Better hurry it up.	ดี รีบหน่อยล่ะ
+P0103-0242	พากย์ · speech_list_judge_main_c01	Kaito (ช)		KJ Art's chilling out over here.\nThey just called a repairman.	ฝั่ง KJ Art เงียบสงบดี\nพวกเขาเพิ่งเรียกช่างซ่อมไป
+P0103-0243	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	KJ Art's chilling out over here. They just noticed their\nheating's down. A repairman's on the way.	ฝั่ง KJ Art เงียบสงบดี พวกเขาเพิ่งสังเกตว่า\nฮีตเตอร์เสีย ช่างซ่อมกำลังมาแล้ว
+P0103-0244	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Yeah. I'm heading back now.	ได้แล้ว กำลังกลับไปแล้ว
+P0103-0245	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Perfect. I'll be there as soon as I can.	เยี่ยม เดี๋ยวรีบไปให้เร็วที่สุด
+P0103-0246	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Perfect. So am I.	เยี่ยม ผมก็เหมือนกัน
+P0103-0247	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Get changed then, would ya?	งั้นรีบไปเปลี่ยนชุดซะสิ
+P0103-0248	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Well then, better get changed.	งั้นรีบไปเปลี่ยนชุดดีกว่า
+P0103-0249	พากย์ · speech_list_judge_main_c01	Kaito (ช)		I know you're in a disguise and all, but don't let\nyour guard down, okay? Try to blend in.	รู้ว่านายใส่ชุดปลอมตัวอยู่ก็จริง แต่อย่าเผลอ\nตัวเชียวนะ พยายามกลมกลืนเข้าไว้
+P0103-0250	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Hey, don't let your guard down in there, okay?\nYou still gotta try to blend in.	เฮ้ อย่าเผลอตัวตอนอยู่ข้างในนะ\nยังไงก็ต้องพยายามกลมกลืนเข้าไว้
+P0103-0251	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm ready.	พร้อมแล้ว
+P0103-0252	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Okay, ready.	โอเค พร้อมแล้ว
+P0103-0253	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Okay, okay!	โอเค โอเค!
+P0103-0254	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Right.	ใช่
+P0103-0255	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Nice, I think this'll work.	(ดี น่าจะใช้ได้อยู่)
+P0103-0256	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Okay, all suited up.	(โอเค ใส่ชุดพร้อมแล้ว)
+P0103-0257	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Who do you think you're talking to?	คิดว่ากำลังพูดกับใครอยู่เนี่ย
+P0103-0258	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Hey, I've got this. See you.	เฮ้ ผมจัดการได้ แล้วเจอกัน
+P0103-0259	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Not now. I need to head to KJ Art.)	(ตอนนี้ไม่ใช่เวลา ต้องรีบไปที่ KJ Art)
+P0103-0260	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Now to get into that jumpsuit.)	(ต่อไปก็ใส่ชุดช่างซ่อมนี่แหละ)
+P0103-0261	พากย์ · speech_list_judge_main_c01	Murase (ช)		What the hell're you after, huh?	มึงต้องการห่าอะไรกันแน่วะ?
+P0103-0262	พากย์ · speech_list_judge_main_c01	Murase (ช)		Who do you think you are?	มึงคิดว่าตัวเองเป็นใครวะ?
+P0103-0263	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	The hell are you tryin' to say?	มึงพยายามจะพูดอะไรวะ?
+P0103-0264	พากย์ · speech_list_judge_main_c01	Murase (ช)		So what, you're defending Hamura?	แล้วไง มึงจะปกป้องฮามุระงั้นเหรอ?
+P0103-0265	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	Lemme get this straight...\nYou're defending that asshole, Hamura?	ขอให้มึงพูดให้ชัด...\nมึงจะปกป้องไอ้ระยำฮามุระงั้นเหรอ?
+P0103-0266	พากย์ · speech_list_judge_main_c01	Murase (ช)		You think I'm gonna tell\nyou shit, asshole!?	มึงคิดว่ากูจะบอกอะไร\nกับมึงงั้นเหรอ ไอ้เวร!?
+P0103-0267	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	Go to hell!\nWhy should I tell you shit!?	ไปตายซะ!\nกูจะบอกมึงทำไมวะ!?
+P0103-0268	พากย์ · speech_list_judge_main_c01	Murase (ช)		You're not gettin' out of this unscathed,\ny'know. I know your face now.	มึงอย่าคิดว่าจะรอดตัวไปได้ง่าย ๆ นะ\nกูจำหน้ามึงได้แล้ว
+P0103-0269	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	You're not walking out of this unscathed,\ny'know. I know your face now.	มึงอย่าหวังว่าจะเดินออกไปได้เฉย ๆ นะ\nกูจำหน้ามึงไว้แล้ว
+P0103-0270	พากย์ · speech_list_judge_main_c01	Murase (ช)		'Course I do.\nWho else could've done it?	ก็แน่นอนอยู่แล้ว\nไม่งั้นใครจะทำวะ?
+P0103-0271	พากย์ · speech_list_judge_main_c01	Murase (ช)		Hmph, it's as clear as day.\nHamura gouged Kume's eyes out, end of story!	ฮึ่ย มันชัดเจนอยู่แล้ว\nฮามุระควักลูกตาคุเมะออก จบข่าว!
+P0103-0272	พากย์ · speech_list_judge_main_c01	Murase (ช)		In the dump behind Amour.\nBastard tortured Kume to death!	ในกองขยะหลังคลับอามูร์\nไอ้เวรทรมานคุเมะจนตาย!
+P0103-0273	พากย์ · speech_list_judge_main_c01	Murase (ช)	[ซ้ำในบท x2]	The hell're you playin' at?	มึงเล่นอะไรอยู่วะ?
+P0103-0274	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	The hell does that mean?	มันหมายความว่าไงวะ?
+P0103-0275	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	So what? I don't get it.	แล้วไงวะ? กูไม่เก็ตเลย
+P0103-0276	พากย์ · speech_list_judge_main_c01	Murase (ช)		You sayin' he was killed\ninside Amour? I don't get it.	มึงจะบอกว่ามันโดนฆ่า\nในคลับอามูร์เหรอ กูไม่เก็ตเลยว่ะ
+P0103-0277	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	You tryin' to say Kume died in Amour?\nI don't get it.	มึงจะบอกว่าคุเมะตายในคลับอามูร์เหรอ?\nกูไม่เก็ตเลยว่ะ
+P0103-0278	พากย์ · speech_list_judge_main_c01	Murase (ช)		And your point is?\nI'm not gettin' it.	แล้วมันเกี่ยวอะไรวะ?\nกูไม่เก็ตเลย
+P0103-0279	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	Okay? Who gives a shit?\nI'm not gettin' it.	แล้วไง? ใครแคร์วะ?\nกูไม่เก็ตเลย
+P0103-0280	พากย์ · speech_list_judge_main_c01	Murase (ช)		What the hell?\nThat's... Kume!	อะไรวะเนี่ย?\nนั่นมัน... คุเมะ!
+P0103-0281	พากย์ · speech_list_judge_main_c01	Murase (ช)		Oh... I guess so, huh?\nIt doesn't add up, does it?	อ้อ... ก็คงงั้นแหละนะ?\nมันไม่สมเหตุสมผลเลยจริง ๆ
+P0103-0282	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	Huh, guess so...\nWell, I see what you mean...	อือ ก็คงงั้นแหละ...\nเออ เข้าใจที่แกพูดแล้วล่ะ...
+P0103-0283	พากย์ · speech_list_judge_main_c01	Murase (ช)		Yeah. I had to do something.	ใช่ ฉันต้องทำอะไรสักอย่าง
+P0103-0284	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	...I had to do somethin'.	...ฉันต้องทำอะไรสักอย่างจริง ๆ
+P0103-0285	พากย์ · speech_list_judge_main_c01	Murase (ช)		So I went to round up the rest of the clan.\nWe had to take Kume back.	เลยไปรวบรวมคนในตระกูลที่เหลือ\nต้องเอาตัวคุเมะกลับมาให้ได้
+P0103-0286	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	So I went to round up the boys.\nRally the Kyorei and take Kume back, see?	เลยไปรวบรวมพรรคพวก\nระดมตระกูลเคียวเรอิไปเอาตัว คุเมะกลับมา เข้าใจไหม?
+P0103-0287	พากย์ · speech_list_judge_main_c01	Murase (ช)		You kiddin'? Of course they helped.\nWe burst in there ready to bust heads.	ล้อเล่นรึไง? แน่นอนว่าพวกเขาช่วยสิ\nพวกเราบุกเข้าไปพร้อมจะซัดหัว ใครก็ตามที่ขวางทาง
+P0103-0288	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	What, you kiddin'? Of course they helped.\nWe all busted our way into Amour.	อะไรนะ ล้อเล่นรึไง? แน่นอนว่าพวกเขาช่วยสิ\nพวกเราบุกฝ่าเข้าไปในอามูร์กัน หมดทุกคน
+P0103-0289	พากย์ · speech_list_judge_main_c01	Yagami (ช)		What, you mean 'cause the camera\ndidn't see anyone?	อะไร หมายความว่าเพราะกล้อง\nไม่เห็นใครงั้นเหรอ
+P0103-0290	พากย์ · speech_list_judge_main_c01	Murase (ช)		Heh. Funny thing, that. Turns out you can't\nget seen if the camera's broken.	ฮึ ตลกดีนะ ปรากฏว่าไม่มีทาง\nถูกกล้องจับภาพได้ ถ้ากล้องมันพังไปแล้ว
+P0103-0291	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	See, we didn't go in the front way. We went round\nthe back where the camera was broken.	คือพวกเราไม่ได้เข้าทางหน้าไง เราอ้อมไป\nทางหลังตรงที่กล้องพังนั่นแหละ
+P0103-0292	พากย์ · speech_list_judge_main_c01	Murase (ช)		The back alley was our ticket in.	ตรอกหลังร้านนั่นแหละคือทางเข้าของเรา
+P0103-0293	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	That was our ticket into Amour.	นั่นแหละคือทางที่พาเราเข้าไปใน อามูร์ได้
+P0103-0294	พากย์ · speech_list_judge_main_c01	Murase (ช)		Yup. Not a soul in the house, though.\nTrust me, we searched the whole damn joint.	ใช่ แต่ในนั้นไม่มีใครสักคนเลย\nเชื่อผมสิ พวกเราค้นทั่วทั้งร้านแล้ว
+P0103-0295	พากย์ · speech_list_judge_main_c01	Murase (ช)		Just after midnight, I suppose.	คงจะช่วงหลังเที่ยงคืนไปหน่อยมั้ง
+P0103-0296	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	Just after midnight.	ช่วงหลังเที่ยงคืนไปหน่อย
+P0103-0297	พากย์ · speech_list_judge_main_c01	Murase (ช)		Hmph. Who gives a shit\nwhat the prosecution says?	ฮึ่ม ใครสนวะ\nว่าฝ่ายอัยการจะพูดอะไร
+P0103-0298	พากย์ · speech_list_judge_main_c01	Murase (ช)		Hamura killed Kume, and that's that.\nAin't no other way!	ฮามุระฆ่าคุเมะ จบ\nไม่มีทางเป็นอื่นไปได้หรอกวะ!
+P0103-0299	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	I told you. Hamura killed Kume!\nAin't no other way!	บอกแล้วไง ฮามุระฆ่าคุเมะ!\nไม่มีทางเป็นอื่นไปได้หรอก!
+P0103-0300	พากย์ · speech_list_judge_main_c01	Murase (ช)		You gotta be kidding me.\nWhy the fuck would I do that, huh?	คุณต้องล้อเล่นแน่ ๆ\nจะให้ฉันทำแบบนั้นทำไมวะ ห๊ะ?
+P0103-0301	พากย์ · speech_list_judge_main_c01	Murase (ช)	[อีกแทร็ก]	You fuckin' kiddin'?\nWhy the fuck would I do that, huh?	ล้อเล่นรึไงวะเนี่ย\nจะให้ฉันทำแบบนั้นทำไมวะ ห๊ะ?
+P0103-0302	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I already said, I just want to talk.\nLook at this.	ผมบอกไปแล้วไงว่าแค่อยากคุยด้วย\nดูนี่สิ
+P0103-0303	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Weren't you listening? I just want to talk to you.\nLook at this.	ไม่ได้ฟังที่ผมพูดเหรอ ผมแค่อยากคุยกับคุณ\nดูนี่สิ
+P0103-0304	พากย์ · speech_list_judge_main_c01	Yagami (ช)		This is you running away\nafter abandoning Kume.	นี่คือคุณตอนที่หนีไป\nหลังทิ้งคุเมะไว้
+P0103-0305	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm a local detective. Hamura's lawyer\nis having me look into Kume's murder.	ผมเป็นนักสืบแถวนี้ ทนายของฮามุระ\nจ้างให้ผมสืบคดีฆาตกรรมคุเมะ
+P0103-0306	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'm a Kamurocho detective. I'm looking into Kume's murder,\non behalf of Hamura's lawyer.	ผมเป็นนักสืบแถวคามุโรโจ กำลังสืบคดีฆาตกรรมคุเมะอยู่\nในนามของทนายฮามุระ
+P0103-0307	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I thought we already negotiated.\nYou want to go again?	ผมนึกว่าเราตกลงกันไปแล้วนะ\nอยากไปอีกรอบเหรอ?
+P0103-0308	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I thought we already <font_kind=yakuza_italic>negotiated</font_kind>.\nYou want to go again?	ผมนึกว่าเรา<font_kind=yakuza_italic>เจรจา</font_kind>กันไปแล้วนะ\nอยากไปอีกรอบเหรอ?
+P0103-0309	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Do you really think Hamura killed Kume?	คุณคิดจริง ๆ เหรอว่าฮามุระฆ่าคุเมะ?
+P0103-0310	พากย์ · speech_list_judge_main_c01	Yagami (ช)		That's what I'm trying to find out.\nI need to know what happened that night.	นั่นแหละที่ผมกำลังหาคำตอบอยู่\nผมต้องรู้ว่าคืนนั้นเกิดอะไร ขึ้นกันแน่
+P0103-0311	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	That's what I'm trying to find out. If I can find\nthe right clues, I'll know for sure.	นั่นแหละที่ผมกำลังพยายามหาคำตอบ ถ้าเจอ\nเบาะแสที่ถูกต้อง ผมจะรู้แน่ชัด
+P0103-0312	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Yeah? Where? How?	เหรอ? ที่ไหน? ยังไง?
+P0103-0313	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Actually, the murder happened somewhere else.\nAnd I have the evidence to prove it.	ที่จริงแล้วการฆาตกรรมเกิดที่อื่น\nและผมมีหลักฐานพิสูจน์ได้
+P0103-0314	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(What do I have that can\nprove that...?)</color>	<color=ｍonologue>(ผมมีอะไรที่พิสูจน์\nเรื่องนี้ได้บ้างนะ...?)</color>
+P0103-0315	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[ใช้ร่วม]	Take a look at this.	ดูนี่สิ
+P0103-0316	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Actually, uh... It's kinda hard\nto tell from this. Just a sec.	เอ่อ ที่จริง... มันดูยากหน่อย\nที่จะบอกจากตรงนี้ รอเดี๋ยวนะ
+P0103-0317	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Actually... good point. It's kinda hard to tell from this.\nJust a sec.	ที่จริง... พูดถูกนะ มันดูยากอยู่ที่จะบอกจากตรงนี้\nรอเดี๋ยวนะ
+P0103-0318	พากย์ · speech_list_judge_main_c01	Yagami (ช)		As you can see here,\nthe security camera behind Amour is broken.	อย่างที่เห็นตรงนี้\nกล้องวงจรปิดหลังคลับอามูร์เสียอยู่
+P0103-0319	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	There's a security camera behind Amour.\nBut take a close look: it's broken.	มีกล้องวงจรปิดอยู่หลังคลับอามูร์\nแต่ลองดูดี ๆ สิ มันเสียอยู่
+P0103-0320	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Hamura drove the owner of Amour outside.\nBut, I guess Murase himself isn't shown.)</color>	<color=ｍonologue>(ฮามุระไล่เจ้าของคลับอามูร์ออก ไปข้างนอก\nแต่ตัวมุราเสะเองไม่ปรากฏในภาพเลย)</color>
+P0103-0321	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(That's right. There's a hint\nin this picture.)	(ใช่แล้ว มีเบาะแส\nอยู่ในภาพนี้)
+P0103-0322	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Kume's body was moved here after he died.\nThere was something in this picture that showed that.)	(ศพของคุเมะถูกย้ายมาที่นี่หลังตาย\nมีบางอย่างในภาพนี้ที่บ่งบอกได้)
+P0103-0323	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Sorry, I'm sure this\nis tough to look at.	ขอโทษด้วยครับ ผมรู้ว่า\nภาพนี้คงดูยากสำหรับคุณ
+P0103-0324	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Sorry if this is tough to look at.	ขอโทษด้วยถ้าภาพนี้ดูยากไปหน่อย
+P0103-0325	พากย์ · speech_list_judge_main_c01	Yagami (ช)		But as you can see, there's almost\nno blood around his body.	แต่อย่างที่เห็น แทบไม่มี\nเลือดรอบตัวเขาเลย
+P0103-0326	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	But... it's pretty clear from the picture\nthat there's barely any blood around the body.	แต่... จากภาพก็เห็นชัดอยู่\nว่าแทบไม่มีเลือดรอบศพเลย
+P0103-0327	พากย์ · speech_list_judge_main_c01	Yagami (ช)		That means he was killed somewhere else,\nthen transported to the alleyway.	นั่นแปลว่าเขาถูกฆ่าที่อื่น\nแล้วค่อยถูกย้ายมาที่ตรอกนี้
+P0103-0328	พากย์ · speech_list_judge_main_c01	Yagami (ช)		So. You ready to talk now?	เอาล่ะ พร้อมจะคุยกันหรือยัง?
+P0103-0329	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	So, you ready to talk now?	เอาล่ะ พร้อมคุยแล้วใช่ไหม?
+P0103-0330	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(I think I can finally get to\nthe main topic now.)</color>	<color=ｍonologue>(คิดว่าในที่สุดก็เข้าเรื่องหลัก\nได้สักทีแล้ว)</color>
+P0103-0331	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Okay, let's take it from the top.	เอาล่ะ เริ่มเล่าตั้งแต่ต้นเลย
+P0103-0332	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Now. After you ran away from Amour,\nwhere exactly did you go?	เอาล่ะ หลังจากที่คุณหนีออกจากคลับอามูร์\nคุณไปที่ไหนต่อกันแน่?
+P0103-0333	พากย์ · speech_list_judge_main_c01	Yagami (ช)		You couldn't just let them\ntake Kume, could you?	คุณคงปล่อยให้พวกมัน\nจับคุเมะไปเฉย ๆ ไม่ได้ใช่ไหม?
+P0103-0334	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	They took your buddy Kume.\nYou wouldn't take that lying down.	พวกมันจับเพื่อนคุณอย่างคุเมะไป\nคุณคงยอมอยู่เฉย ๆ ไม่ได้หรอก
+P0103-0335	พากย์ · speech_list_judge_main_c01	Yagami (ช)		But nobody would help, would they?	แต่ไม่มีใครยอมช่วยเลยสักคนใช่ไหม
+P0103-0336	พากย์ · speech_list_judge_main_c01	Yagami (ช)		But I thought nobody else\nwent in or out of Amour.	แต่ผมนึกว่าไม่มีใครอื่น\nเข้าออกอามูร์เลยนะ
+P0103-0337	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Wait. I thought nobody else\nwent in or out of Amour.	เดี๋ยวนะ ผมนึกว่าไม่มีใครอื่น\nเข้าออกอามูร์เลยนี่
+P0103-0338	พากย์ · speech_list_judge_main_c01	Yagami (ช)		So you really went inside?	งั้นคุณเข้าไปข้างในจริง ๆ เหรอ
+P0103-0339	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Through the back alley?\nYou were in Amour?	ผ่านตรอกหลังร้านเหรอ\nคุณอยู่ในอามูร์จริง ๆ เหรอ
+P0103-0340	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And when was that?	แล้วนั่นมันตอนไหน
+P0103-0341	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Right when the prosecution says\nHamura was laying into Kume.	ตรงกับช่วงที่ฝ่ายอัยการบอกว่า\nฮามุระกำลังซ้อมคุเมะอยู่พอดี
+P0103-0342	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	According to the prosecution, that's when Hamura\nwas kicking Kume around in Amour.	ตามคำของฝ่ายอัยการ นั่นคือช่วงที่ฮามุระ\nกำลังรุมกระทืบคุเมะอยู่ในอามูร์
+P0103-0343	พากย์ · speech_list_judge_main_c01	Yagami (ช)		If you're telling the truth,\nthat's a clear contradiction.	ถ้าคุณพูดความจริง\nนั่นก็ขัดแย้งกันชัด ๆ
+P0103-0344	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	If you're telling the truth,\ntheir story doesn't hold up.	ถ้าคุณพูดความจริง\nเรื่องที่ฝ่ายนั้นเล่าก็ฟังไม่ขึ้นเลย
+P0103-0345	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Maybe so. But the police\nstill need to hear your story.	อาจจะใช่ แต่ตำรวจ\nก็ยังต้องฟังเรื่องจากปากคุณอยู่ดี
+P0103-0346	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Maybe so. Still, if they want the truth,\nthe police need to hear your story.	อาจจะใช่ แต่ถ้าอยากรู้ความจริง\nตำรวจก็ต้องฟังเรื่องจากปากคุณ
+P0103-0347	พากย์ · speech_list_judge_main_c01	Yagami (ช)		If you could just testify to that...	ถ้าคุณช่วยให้การเรื่องนี้ได้...
+P0103-0348	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	So if you wouldn't mind taking the stand...	ถ้าคุณไม่ว่าอะไรที่จะขึ้นให้การ...
+P0103-0349	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Can't force him to testify.\nNothing I can do about that.)</color>	<color=ｍonologue>(บังคับให้เขาให้การไม่ได้หรอก\nเรื่องนั้นผมทำอะไรไม่ได้)</color>
+P0103-0350	พากย์ · speech_list_judge_main_c01	Yagami (ช)		...It was worth a try.	...ก็คุ้มที่ได้ลอง
+P0103-0351	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Kume's body was found behind Amour,\nbut the murder happened somewhere else.)</color>	<color=ｍonologue>(ศพของคุเมะถูกพบหลังคลับอามูร์\nแต่การฆาตกรรมเกิดขึ้นที่อื่น)</color>
+P0103-0352	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(What do I have that can prove that...?)</color>	<color=ｍonologue>(ผมมีอะไรที่พิสูจน์เรื่องนี้ได้บ้างนะ...?)</color>
+P0103-0353	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(The corpse had its eyes gouged out,\nbut let's not touch on that now.)	(ศพถูกควักลูกตาออก\nแต่ตอนนี้ยังไม่พูดถึงเรื่อง นั้นดีกว่า)
+P0103-0354	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(The corpse of Toshiro Kume, a Kyorei Clan yakuza.\nNo point in telling Murase that, though.)	(ศพของโทชิโร คุเมะ ยากูซ่าตระกูลเคียวเรอิ\nแต่บอกมุราเสะไปก็ไม่มีประโยชน์อะไร)
+P0103-0355	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(The garbage isn't important.)	(กองขยะไม่ใช่จุดสำคัญ)
+P0103-0356	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(What I need to show is that Kume was killed\nsomewhere else than this picture shows.)	(สิ่งที่ผมต้องแสดงให้เห็นคือ คุเมะถูกฆ่า\nที่อื่น ไม่ใช่จุดที่ภาพนี้แสดง)
+P0103-0357	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(If I recall correctly, they didn't find a wallet\nor phone in his pockets.)	(ถ้าจำไม่ผิด พวกเขาไม่เจอกระเป๋าสตางค์\nหรือโทรศัพท์ในกระเป๋าเขาเลย)
+P0103-0358	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(No signs of blood on the ground.\nThat's it!)	(ไม่มีร่องรอยเลือดบนพื้นเลยสักนิด\nนั่นแหละ!)
+P0103-0359	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[ใช้ร่วม]	Heh. Nice work.	เฮอะ ทำได้ดีนี่
+P0103-0360	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	I think I get it.	คิดว่าเข้าใจแล้วนะ
+P0103-0361	พากย์ · speech_list_judge_main_c01	Yagami (ช)		So Murase busts into Amour,\nand who does he find? Absolutely nobody.	งั้นมุราเสะบุกเข้าไปในอามูร์\nแล้วเจอใคร? ไม่เจอใครเลยสักคน
+P0103-0362	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	So Murase and his crew... They bust into Amour\naround midnight, and find nobody.	งั้นมุราเสะกับพวก... พวกเขาบุกเข้าไปในอามูร์\nช่วงเที่ยงคืน แล้วไม่เจอใครเลย
+P0103-0363	พากย์ · speech_list_judge_main_c01	Kaito (ช)		You really think he's innocent?	นายคิดจริง ๆ เหรอว่าเขาบริสุทธิ์
+P0103-0364	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	So Captain Hamura's clear?\nYou think he's really innocent?	งั้นกัปตันฮามุระพ้นข้อสงสัยแล้วสินะ\nนายคิดจริง ๆ เหรอว่าเขาบริสุทธิ์
+P0103-0365	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Guess that's that. Well, I'm pooped.\nHow 'bout we call it here for tonight?	ก็คงงั้นแหละ เอาล่ะ ฉันเหนื่อยแล้ว\nพักไว้แค่นี้ก่อนคืนนี้ดีไหม
+P0103-0366	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Well, guess that's it for tonight, then.\nI think we better call it here. More tomorrow?	เอาล่ะ งั้นก็พอแค่นี้สำหรับคืนนี้\nคิดว่าเราน่าจะพักไว้ตรงนี้ก่อน พรุ่งนี้ค่อยว่ากันต่อนะ
+P0103-0367	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Yup. Captain Hamura said he kicked Kume out,\nthen hit the sauna right around midnight.	ใช่ กัปตันฮามุระบอกว่าไล่คุเมะออกไป\nแล้วก็ไปแวะซาวน่าตอนช่วง เที่ยงคืนพอดี
+P0103-0368	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Yup. Captain Hamura said he kicked Kume out,\nthen went for a quick steam right around midnight.	ใช่ กัปตันฮามุระบอกว่าไล่คุเมะออกไป\nแล้วก็ไปอบซาวน่าเร็ว ๆ ช่วงเที่ยงคืนพอดี
+P0103-0369	พากย์ · speech_list_judge_main_c01	Yagami (ช)		The stories match up.	เรื่องราวสองฝั่งตรงกันพอดี
+P0103-0370	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Not sure. Our next step is finding\nproof he was at that sauna.	ยังไม่แน่ใจ ก้าวต่อไปของเราคือหา\nหลักฐานว่าเขาอยู่ที่ซาวน่าจริง
+P0103-0371	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Can't say until we have proof\nthat he was at the sauna.	ยังบอกไม่ได้จนกว่าจะมีหลักฐาน\nว่าเขาอยู่ที่ซาวน่าจริง
+P0103-0372	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Good call.	ความคิดดี
+P0103-0373	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Sounds good.	ได้เลย
+P0103-0374	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'll see you tomorrow, Kaito-san.	แล้วพบกันพรุ่งนี้นะครับ ไคโตะซัง
+P0103-0375	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Okay...\nI'll see you tomorrow, Kaito-san.	โอเค...\nแล้วพบกันพรุ่งนี้นะครับ ไคโตะซัง
+P0103-0376	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Murase saw your face, yeah?\nYou should be careful 'round town.	มุราเสะเห็นหน้านายแล้วใช่ไหม\nนายควรระวังตัวเวลาเดินในเมืองหน่อยนะ
+P0103-0377	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	One more thing. Murase saw your face, yeah?\nYou should be careful 'round town.	อีกอย่างนะ มุราเสะเห็นหน้านายแล้วใช่ไหม\nนายควรระวังตัวเวลาเดินในเมืองหน่อย
+P0103-0378	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(I got all I need from Murase.\nI should probably report back to Shintani.)	(ผมได้ข้อมูลที่ต้องการจาก มุราเสะครบแล้ว\nคงต้องไปรายงานให้อาจารย์ชินทานิฟัง)
+P0103-0379	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Hey, you find anything?	เฮ้ เจออะไรบ้างไหม
+P0103-0380	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Hey. You find anything?	เฮ้ เจออะไรบ้างหรือเปล่า
+P0103-0381	พากย์ · speech_list_judge_main_c01	Shintani (ช)		And you made it out of there\nin one piece? Incredible.	แล้วนายรอดออกมา\nได้แบบไม่มีแผลเลยเหรอ สุดยอดจริง ๆ
+P0103-0382	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	And you made it out of there in one piece?\nYou sure you're okay?	แล้วนายรอดออกมาได้แบบไม่มีแผลเลยเหรอ\nแน่ใจนะว่าไม่เป็นไร
+P0103-0383	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Sure did. Murase spilled the beans over\nat the Kyorei hideout. Place called KJ Art.	เจอครับ มุราเสะยอมปล่อยข้อมูลหมด\nที่แหล่งกบดานของตระกูลเคียวเรอิ ตึกชื่อ KJ Art
+P0103-0384	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Managed to find Murase at the Kyorei's hideout.\nIt's in the KJ Art building, on the upper floors.	หามุราเสะเจอที่แหล่งกบดานของ ตระกูลเคียวเรอิครับ\nอยู่ในตึก KJ Art ชั้นบน ๆ
+P0103-0385	พากย์ · speech_list_judge_main_c01	Yagami (ช)		All in a day's work...\nShintani-sensei.	งานประจำวันน่ะครับ...\nอาจารย์ชินทานิ
+P0103-0386	พากย์ · speech_list_judge_main_c01	Genda (ช)		Wow, that's a helluva find.\nBut is Murase gonna testify?	โห นี่มันเจ๋งมากเลยนะ\nแต่มุราเสะจะยอมขึ้นให้การไหมล่ะ
+P0103-0387	พากย์ · speech_list_judge_main_c01	Genda (ช)	[อีกแทร็ก]	Wow, what a find...\nSo, then? Is Murase gonna testify?	โห เจอของดีเลยนะเนี่ย...\nแล้วไงต่อ มุราเสะจะยอมขึ้นให้การไหม
+P0103-0388	พากย์ · speech_list_judge_main_c01	Genda (ช)		...It never is.	...ไม่เคยง่ายเลยสักครั้ง
+P0103-0389	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Either way, Murase's telling the truth.\nI found something that backs his story up.	ยังไงก็ตาม มุราเสะพูดความจริงครับ\nผมเจอหลักฐานที่ยืนยันคำพูดของเขาได้
+P0103-0390	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	But it's clear Murase's telling the truth.\nHis story lines up with what we found.	แต่เห็นได้ชัดว่ามุราเสะพูดความจริง\nคำพูดของเขาตรงกับสิ่งที่เราเจอ
+P0103-0391	พากย์ · speech_list_judge_main_c01	Shintani (ช)		This is Amour, three hours after\nHamura took Kume. Midnight.	นี่คืออามูร์ สามชั่วโมงหลังจาก\nฮามุระพาคุเมะไป ช่วงเที่ยงคืน
+P0103-0392	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	This is Amour, three hours after Hamura took Kume.\nJust around midnight.	นี่คืออามูร์ สามชั่วโมงหลังจากฮามุระพาคุเมะไป\nช่วงเที่ยงคืนพอดี
+P0103-0393	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Take a good look at\nthe edge of the screen.	ลองมองดี ๆ\nตรงขอบจอนะครับ
+P0103-0394	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Watch the bottom of the screen.\nShouldn't take long.	ดูตรงด้านล่างของจอไว้นะครับ\nคงไม่นานหรอก
+P0103-0395	พากย์ · speech_list_judge_main_c01	Shintani (ช)		You don't see any of 'em go inside,\nso I thought nothing of it.	ไม่เห็นใครเดินเข้าไปข้างในเลยสักคน\nเลยไม่ได้คิดอะไรกับมัน
+P0103-0396	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	They don't go into Amour from here,\nso I figured it was useless.	พวกเขาไม่ได้เข้าอามูร์จากทางนี้\nเลยคิดว่ามันไม่มีประโยชน์อะไร
+P0103-0397	พากย์ · speech_list_judge_main_c01	Yagami (ช)		But the stories match up. Murase and his guys\nwent to Amour to take Kume back.	แต่เรื่องราวมันตรงกันครับ มุราเสะกับพวก\nไปที่อามูร์เพื่อพาคุเมะกลับมา
+P0103-0398	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And they left empty-handed.	แล้วก็กลับมามือเปล่า
+P0103-0399	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Agreed.\nI'll set up another visit.	เห็นด้วยครับ\nผมจะจัดการนัดเข้าเยี่ยมอีกครั้ง
+P0103-0400	พากย์ · speech_list_judge_main_c01	Yagami (ช)		So. According to Murase,\nAmour was empty at midnight on the 3rd.	เอาล่ะ ตามคำของมุราเสะ\nอามูร์ว่างเปล่าตอนเที่ยงคืนวันที่ 3
+P0103-0401	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	So at midnight on the 3rd, Murase's account says\nAmour was totally empty.	งั้นตอนเที่ยงคืนวันที่ 3 ตามคำของมุราเสะ\nอามูร์ว่างเปล่าไม่มีใครเลย
+P0103-0402	พากย์ · speech_list_judge_main_c01	Yagami (ช)		That directly contradicts the prosecution's assertion\nthat Hamura was beating Kume to death at the time.	นั่นขัดแย้งตรง ๆ กับข้อกล่าวหาของฝ่ายอัยการ\nที่ว่าฮามุระกำลังทุบตีคุเมะ จนตายอยู่ตอนนั้น
+P0103-0403	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	That's a direct contradiction. The prosecution asserts\nthat Hamura was beating Kume to death at the time.	นี่มันขัดแย้งกันตรง ๆ ฝ่ายอัยการกล่าวหา\nว่าฮามุระกำลังทุบตีคุเมะจนตาย อยู่ตอนนั้น
+P0103-0404	พากย์ · speech_list_judge_main_c01	Yagami (ช)		It's not that easy.	มันไม่ง่ายขนาดนั้นครับ
+P0103-0405	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Nah, it's not that easy.	ไม่หรอกครับ มันไม่ง่ายขนาดนั้น
+P0103-0406	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(So they saw the camera,\nthen headed to the back door.)</color>	<color=ｍonologue>(งั้นพวกเขาเห็นกล้อง\nแล้วก็มุ่งไปทางประตูหลัง)</color>
+P0103-0407	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Sounds like we need to talk to Captain Hamura.\nThere are too many unanswered questions.	ดูเหมือนเราต้องคุยกับ กัปตันฮามุระอีกครั้ง\nยังมีคำถามที่ไม่มีคำตอบอยู่ เยอะเกินไป
+P0103-0408	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Sounds like we need to talk to Captain Hamura.\nIt's about time we got some answers.	ดูเหมือนเราต้องคุยกับ กัปตันฮามุระอีกครั้ง\nถึงเวลาแล้วที่เราควรจะได้คำตอบสักที
+P0103-0409	พากย์ · speech_list_judge_main_c01	Genda (ช)		Give me a call once you do.	จัดการเสร็จแล้วโทรบอกผมด้วยนะ
+P0103-0410	พากย์ · speech_list_judge_main_c01	Saori (ญ)		Yagami-san.\nYou spoke to Mafuyu, yes?	ยากามิซัง\nนายไปคุยกับมาฟุยุมาใช่ไหม
+P0103-0411	พากย์ · speech_list_judge_main_c01	Saori (ญ)		She seemed happy.\nIt had been a while since she last saw you.	เธอดูมีความสุขดีนะ\nไม่ได้เจอนายมาตั้งนาน
+P0103-0412	พากย์ · speech_list_judge_main_c01	Saori (ญ)	[อีกแทร็ก]	Mafuyu... seemed happy.\nIt's been a while since she saw you.	มาฟุยุ... ดูมีความสุขดีนะ\nไม่ได้เจอนายมาตั้งนาน
+P0103-0413	พากย์ · speech_list_judge_main_c01	Saori (ญ)		But she looked sad, too.	แต่เธอก็ดูเศร้าไปด้วยเหมือนกันนะ
+P0103-0414	พากย์ · speech_list_judge_main_c01	Saori (ญ)		As do I.\nSee you later.	ฉันก็สงสัยเหมือนกัน\nแล้วเจอกันนะ
+P0103-0415	พากย์ · speech_list_judge_main_c01	Saori (ญ)	[อีกแทร็ก]	Why indeed.\nSee you.	ก็นั่นสิ ทำไมกันนะ\nแล้วเจอกัน
+P0103-0416	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Huh? Yeah, why do you ask?	หา? ใช่ครับ ทำไมถึงถามล่ะ
+P0103-0417	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Hm...? Yeah, why?	หืม...? ใช่ครับ ทำไมเหรอ
+P0103-0418	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Oh. Cool?	อ๋อ เหรอครับ
+P0103-0419	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Sad? Wonder why.	เศร้าเหรอ ไม่รู้ทำไมเหมือนกัน
+P0103-0420	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Hey, Hamura's ready for us.\nTake a cab over to the Kamurocho Police Station.	เฮ้ ฮามุระพร้อมให้เราเข้าไปคุยแล้ว\nเรียกแท็กซี่ไปที่ สถานีตำรวจคามุโรโจเลยนะ
+P0103-0421	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	It's Shintani. Hamura's ready for us.\nTake a cab over to the Kamurocho Police Station.	ชินทานิพูดนะ ฮามุระพร้อมให้เราเข้าไปคุยแล้ว\nเรียกแท็กซี่ไปที่ สถานีตำรวจคามุโรโจเลย
+P0103-0422	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[ใช้ร่วม]	Will do. Thanks.	ได้ครับ ขอบคุณครับ
+P0103-0423	พากย์ · speech_list_judge_main_c01	Hamura (ช)		When the fuck am I\ngetting outta here, Tak?	กูจะได้ออกจากที่นี่\nเมื่อไหร่วะ ทาคุ
+P0103-0424	พากย์ · speech_list_judge_main_c01	Hamura (ช)		Well yeah.\nI'd already hopped over to the sauna.	ก็ใช่สิ\nกูไปแวะที่ซาวน่าตั้งแต่ตอนนั้นแล้ว
+P0103-0425	พากย์ · speech_list_judge_main_c01	Hamura (ช)	[อีกแทร็ก]	Well, yeah.\nI hopped over to the sauna for a quick steam.	ก็ใช่ไง\nกูไปอบซาวน่าเร็ว ๆ ตอนนั้นแหละ
+P0103-0426	พากย์ · speech_list_judge_main_c01	Hamura (ช)		I already told you,\nI threw him out the back.	บอกไปแล้วไง\nกูไล่มันออกไปทางหลังร้าน
+P0103-0427	พากย์ · speech_list_judge_main_c01	Hamura (ช)		What can I say, I guess Kume\nreminded me of an old friend.	จะให้พูดไงดีวะ คุเมะ\nทำให้กูนึกถึงเพื่อนเก่าน่ะ
+P0103-0428	พากย์ · speech_list_judge_main_c01	Hamura (ช)	[อีกแทร็ก]	Well... It was that Kume guy.\nReminded me of an old friend.	ก็... เจ้าคุเมะน่ะ\nมันทำให้กูนึกถึงเพื่อนเก่า
+P0103-0429	พากย์ · speech_list_judge_main_c01	Hamura (ช)		I must've been feeling nostalgic.\nWho knows, though. I was pretty plastered.	คงคิดถึงอดีตขึ้นมาละมั้ง\nแต่ก็ไม่รู้เหมือนกันวะ กูเมาหนักอยู่
+P0103-0430	พากย์ · speech_list_judge_main_c01	Hamura (ช)	[อีกแทร็ก]	Maybe I was feeling kinda nostalgic?\nYou gotta remember, I was pretty plastered.	อาจจะคิดถึงอดีตขึ้นมามั้ง?\nนายต้องเข้าใจนะ กูเมาหนักอยู่ตอนนั้น
+P0103-0431	พากย์ · speech_list_judge_main_c01	Hamura (ช)		I told you, I was drunk.\nWho knows what I was thinking.	บอกแล้วไงว่ากูเมา\nใครจะไปรู้ว่าตอนนั้นกูคิดอะไรอยู่
+P0103-0432	พากย์ · speech_list_judge_main_c01	Hamura (ช)	[อีกแทร็ก]	I don't know, I was blackout drunk!	ไม่รู้ว่ะ ตอนนั้นกูเมาจนสลบไปเลย!
+P0103-0433	พากย์ · speech_list_judge_main_c01	Hamura (ช)		What're you getting at?	จะพูดอะไรกันแน่วะ
+P0103-0434	พากย์ · speech_list_judge_main_c01	Hamura (ช)		'Course not.	แน่นอนอยู่แล้ว
+P0103-0435	พากย์ · speech_list_judge_main_c01	Hamura (ช)		I said I'm not hiding shit!	บอกแล้วไงว่ากูไม่ได้ปิดบังห่า อะไรทั้งนั้น!
+P0103-0436	พากย์ · speech_list_judge_main_c01	Hamura (ช)		Now get the hell out there\nand prove my alibi!	รีบไปหาทาง\nพิสูจน์พยานที่อยู่ให้กูซะสิวะ!
+P0103-0437	พากย์ · speech_list_judge_main_c01	Hamura (ช)		I was at the sauna all night long.\nProve that and I'm in the clear!	กูอยู่ที่ซาวน่าทั้งคืนเลย\nพิสูจน์เรื่องนั้นได้ กูก็พ้นผิดแล้ว!
+P0103-0438	พากย์ · speech_list_judge_main_c01	Hamura (ช)		Fear has nothing to do with it.\nBut like hell am I gonna beg you to save me.	เรื่องนี้ไม่เกี่ยวกับความกลัวหรอกวะ\nแต่กูไม่มีทางง้อขอให้มึงช่วยกูหรอก
+P0103-0439	พากย์ · speech_list_judge_main_c01	Hamura (ช)	[อีกแทร็ก]	Fear has nothing to do with it. I'm just not\ngonna bow down and beg you to save me.	เรื่องนี้ไม่เกี่ยวกับความกลัวหรอกวะ กูแค่ไม่\nยอมก้มหัวขอร้องให้มึงช่วยกูหรอก
+P0103-0440	พากย์ · speech_list_judge_main_c01	Hamura (ช)		None of your business.	ไม่ใช่ธุระอะไรของมึง
+P0103-0441	พากย์ · speech_list_judge_main_c01	Hamura (ช)	[อีกแทร็ก]	...Anyone else.	...ใครก็ได้ทั้งนั้นแหละ
+P0103-0442	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Hamura-san.\nI've got something to show you.	ฮามุระซัง\nผมมีอะไรจะให้คุณดูครับ
+P0103-0443	พากย์ · speech_list_judge_main_c01	Shintani (ช)		December 3rd. 11:55 PM.	วันที่ 3 ธันวาคม 23:55 น.
+P0103-0444	พากย์ · speech_list_judge_main_c01	Shintani (ช)		A Kyorei man by the name of Murase\ncomes to Amour to rescue Kume.	คนของตระกูลเคียวเรอิชื่อมุราเสะ\nมาที่อามูร์เพื่อช่วยคุเมะ
+P0103-0445	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Not wanting to be seen by the cameras,\nhe goes in through the back.	เพราะไม่อยากให้กล้องจับภาพได้\nเขาเลยเข้าไปทางประตูหลัง
+P0103-0446	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Hey, Yagami!	เฮ้ ยากามิ!
+P0103-0447	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Don't ask me.\nShintani-sensei's your lawyer, remember?	อย่าถามผมสิครับ\nอาจารย์ชินทานิต่างหากที่เป็น ทนายของคุณ ลืมแล้วเหรอ
+P0103-0448	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Murase said there wasn't a soul in sight.	มุราเสะบอกว่าไม่เห็นใครอยู่ใน นั้นเลยสักคน
+P0103-0449	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Murase said there wasn't\na soul in sight.	มุราเสะบอกว่าไม่เห็น\nใครอยู่ในนั้นเลยสักคน
+P0103-0450	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And what did you do with Kume?	แล้วคุณทำอะไรกับคุเมะ
+P0103-0451	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And before that?	แล้วก่อนหน้านั้นล่ะ
+P0103-0452	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Around 10:00, you kicked everyone else out\nso you could be alone with Kume.	ประมาณสี่ทุ่ม คุณไล่คนอื่นออกไปหมด\nเพื่อให้อยู่กับคุเมะแค่สองคน
+P0103-0453	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Around 10:00, you kicked everyone else out of the club.\nAll so you could be alone with Kume.	ประมาณสี่ทุ่ม คุณไล่ทุกคนออกจากคลับ\nทั้งหมดก็เพื่อให้อยู่กับคุเมะ ตามลำพัง
+P0103-0454	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I have testimony to back that up.	ผมมีคำให้การที่ยืนยันเรื่องนี้ได้
+P0103-0455	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Why'd you do it though?	แล้วทำไมถึงทำแบบนั้นล่ะ
+P0103-0456	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	But why'd you do it?	แต่ทำไมถึงทำแบบนั้นล่ะ
+P0103-0457	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(He's suddenly getting evasive. Even pulled the\n"I was too drunk to remember" card.)</color>	<color=ｍonologue>(จู่ ๆ เขาก็เริ่มพูดกวนน้ำให้ขุ่น ถึงขั้นงัด\n"เมาจนจำไม่ได้" ออกมาเลย)</color>
+P0103-0458	พากย์ · speech_list_judge_main_c01	Yagami (ช)		That so? Did you need to kick\neveryone out just for that?	งั้นเหรอ แค่นั้นถึงกับต้องไล่\nทุกคนออกไปเลยเชียวเหรอ
+P0103-0459	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Is that all? You kicked everyone out\njust for that?	แค่นั้นเองเหรอ คุณไล่ทุกคนออกไป\nแค่เพราะเรื่องนั้นเนี่ยนะ
+P0103-0460	พากย์ · speech_list_judge_main_c01	Yagami (ช)		You seem to remember other parts clearly,\nthough. Like when you left the club.	แต่คุณกลับจำเรื่องอื่นได้ชัดเจนดีนะ\nอย่างเช่นตอนที่ออกจากคลับ
+P0103-0461	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Yet somehow you remember pretty clearly\nwhen you left the club.	แต่ไม่รู้ทำไม คุณถึงจำได้ชัดเจนมาก\nว่าออกจากคลับตอนไหน
+P0103-0462	พากย์ · speech_list_judge_main_c01	Yagami (ช)		For a so-called innocent man with an alibi...	สำหรับคนที่อ้างว่าบริสุทธิ์และ มีพยานที่อยู่...
+P0103-0463	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	For a so-called innocent man with an alibi,\neven if you didn't kill Kume...	สำหรับคนที่อ้างว่าบริสุทธิ์และ มีพยานที่อยู่\nต่อให้คุณไม่ได้ฆ่าคุเมะจริง...
+P0103-0464	พากย์ · speech_list_judge_main_c01	Yagami (ช)		...Your story has an awful lot of holes.	...เรื่องที่คุณเล่ามันมีช่องโหว่ เยอะเกินไป
+P0103-0465	พากย์ · speech_list_judge_main_c01	Yagami (ช)		You wouldn't hide something\nfrom us, would you?	คุณคงไม่ปิดบังอะไร\nจากเราอยู่หรอกใช่ไหม
+P0103-0466	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	You're not hiding something\nfrom us, right?	คุณไม่ได้ปิดบังอะไร\nจากเราอยู่ใช่ไหม
+P0103-0467	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Something like...\nThe true killer's identity?	อย่างเช่น...\nตัวตนของฆาตกรตัวจริงงั้นเหรอ
+P0103-0468	พากย์ · speech_list_judge_main_c01	Shintani (ช)		I need to have a backup plan\nin case your alibi doesn't pan out.	ผมต้องมีแผนสำรองไว้\nเผื่อพยานที่อยู่ของคุณพิสูจน์ไม่ได้
+P0103-0469	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	There's always a chance your alibi won't hold water.\nI'll need a backup plan just in case.	ยังไงก็มีโอกาสที่พยานที่อยู่ ของคุณจะพิสูจน์ไม่ได้\nผมเลยต้องมีแผนสำรองไว้เผื่อไว้ก่อน
+P0103-0470	พากย์ · speech_list_judge_main_c01	Shintani (ช)		But I can't help you if you're gonna\nhide things from your lawyer.	แต่ผมช่วยคุณไม่ได้หรอก ถ้าคุณจะ\nปิดบังเรื่องจากทนายของคุณแบบนี้
+P0103-0471	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	But... I can't help you if you keep\nhiding stuff from me.	แต่... ผมช่วยคุณไม่ได้หรอก ถ้าคุณยังจะ\nปิดบังเรื่องจากผมแบบนี้ต่อไป
+P0103-0472	พากย์ · speech_list_judge_main_c01	Yagami (ช)		You're suspected of abducting a rival clan member,\ngouging his eyes out, and dumping him in an alleyway.	คุณถูกสงสัยว่าลักพาตัวสมาชิก ตระกูลคู่แข่ง\nควักลูกตาเขาออก แล้วทิ้งศพไว้ในตรอก
+P0103-0473	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Abducting a rival clan member, gouging his eyes out\nand dumping the body...	ลักพาตัวสมาชิกตระกูลคู่แข่ง ควักลูกตาเขาออก\nแล้วทิ้งศพไว้...
+P0103-0474	พากย์ · speech_list_judge_main_c01	Yagami (ช)		They'll lock you up and toss the key\nif we can't win this.	พวกเขาจะขังคุณไว้แล้วทิ้งกุญแจไปเลย\nถ้าเราเอาชนะคดีนี้ไม่ได้
+P0103-0475	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	You'll hang for this if we can't\nclear your name.	คุณจะโดนแขวนคอเพราะเรื่องนี้แน่ ถ้าเรา\nล้างมลทินให้คุณไม่ได้
+P0103-0476	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Has that thought even\ncrossed your mind?	ความคิดนี้เคยผ่าน\nเข้ามาในหัวคุณบ้างไหม
+P0103-0477	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	That doesn't seem to faze you.	ดูเหมือนคุณจะไม่สะทกสะท้านอะไรเลยนะ
+P0103-0478	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Or are all yakuza just that fearless\nin the face of a life sentence?	หรือว่ายากูซ่าทุกคนกล้าขนาดนี้\nเวลาเจอโทษจำคุกตลอดชีวิต
+P0103-0479	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Are all yakuza this fearless?	ยากูซ่าทุกคนกล้าขนาดนี้เลยเหรอ
+P0103-0480	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Then who would you beg?	งั้นนายจะไปง้อใครกันล่ะ
+P0103-0481	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Then who <font_kind=yakuza_italic>would</font_kind> you beg?	งั้นนาย<font_kind=yakuza_italic>จะ</font_kind>ไปง้อใครกันล่ะ
+P0103-0482	พากย์ · speech_list_judge_main_c01	Yagami (ช)		It's only a matter of time, Hamura.\nI'll figure out what you're hiding.	แค่เรื่องเวลาเท่านั้นแหละ ฮามุระ\nผมจะหาให้เจอให้ได้ว่าคุณปิดบัง อะไรอยู่
+P0103-0483	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	It's only a matter of time.\nI'll figure out what you're hiding.	แค่เรื่องเวลาเท่านั้นแหละ\nผมจะหาให้เจอให้ได้ว่าคุณปิดบัง อะไรอยู่
+P0103-0484	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Yo. Sounds like you've been busy.	โย่ ท่าทางนายจะยุ่งมาเหมือนกันนะ
+P0103-0485	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[ใช้ร่วม]	Figures.	เดาได้เลยว่ะ
+P0103-0486	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	Too bad.	โชคร้ายจัง
+P0103-0487	พากย์ · speech_list_judge_main_c01	Kaito (ช)		So what, you telling me we hit a dead end?	แล้วไงวะ นายจะบอกว่าเราตันแล้วเหรอ
+P0103-0488	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	So what, you telling me we're stuck?	แล้วไงวะ นายจะบอกว่าเราติดกับดักอยู่เหรอ
+P0103-0489	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Specifically?	อย่างเช่นอะไร
+P0103-0490	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	More like what?	อย่างเช่นอะไรล่ะ
+P0103-0491	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Hey, how much money you got?	เฮ้ นายมีเงินอยู่เท่าไหร่
+P0103-0492	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Tak... You got any cash?	ทาคุ... นายมีเงินสดติดตัวไหม
+P0103-0493	พากย์ · speech_list_judge_main_c01	Kaito (ช)		You'll need 30k or so.	นายต้องใช้สักสามหมื่นได้มั้ง
+P0103-0494	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	30 grand oughta do.	สามหมื่นน่าจะพอ
+P0103-0495	พากย์ · speech_list_judge_main_c01	Kaito (ช)		I've got this friend, a local detective on the force.\nHe'll tell you anything for the right price.	ฉันมีเพื่อนคนนึง เป็นนักสืบท้องถิ่นในกรมตำรวจ\nถ้าราคาถูกใจ เขาบอกอะไรก็ได้
+P0103-0496	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	I've got this friend. Local Kamurocho detective.\nHe'll tell you anything for the right price.	ฉันมีเพื่อนคนนึง นักสืบประจำคามุโรโจ\nถ้าราคาถูกใจ เขาบอกอะไรก็ได้
+P0103-0497	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Anything. Guy's an informant. You want the dirt\nonly cops have access to, he's the guy you hit up.	อะไรก็ได้จริง ๆ เขาเป็นสายข่าว อยากได้ข้อมูลลับ\nที่ตำรวจเท่านั้นเข้าถึงได้ ก็ต้องไปหาเขานี่แหละ
+P0103-0498	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Guy's an informant. He's lifting the lid on police investigations\nleft and right. Maybe he's got the info you need.	เขาเป็นสายข่าว คอยแฉเรื่องการสืบสวนของตำรวจ\nไปทั่ว บางทีอาจมีข้อมูลที่นายต้องการก็ได้
+P0103-0499	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Name's Ayabe.\nHe's a regular over at Tender.	ชื่ออายาเบะ\nเป็นขาประจำที่เทนเดอร์
+P0103-0500	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Yeah, surprised you've never run into him there.\nIt's where everyone goes to meet him.	ใช่ แปลกใจนะที่นายไม่เคยเจอเขา ที่นั่นมาก่อน\nทุกคนไปเจอเขาที่นั่นกันหมด
+P0103-0501	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Yeah. Shouldn't be too hard to find.\nEveryone usually meets up with him at Tender.	ใช่ คงไม่ยากที่จะหาตัวเขาหรอก\nทุกคนมักไปเจอเขาที่เทนเดอร์
+P0103-0502	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Try asking your pal Masuda.	ลองไปถามมาสึดะเพื่อนนายดูสิ
+P0103-0503	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Just ask Masuda-san.	ลองถามมาสึดะซังดูสิ
+P0103-0504	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Had a little chat with Hamura.\nWasn't real productive.	ผมได้คุยกับฮามุระมานิดหน่อย\nแต่ก็ไม่ค่อยได้อะไรเท่าไหร่
+P0103-0505	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Had a little chat with Hamura.\nDidn't get much out of him, though.	ผมได้คุยกับฮามุระมานิดหน่อย\nแต่ก็ไม่ได้อะไรจากเขามากนัก
+P0103-0506	พากย์ · speech_list_judge_main_c01	Yagami (ช)		He's keeping something from us. There might\nbe more to this case than we thought.	เขาปิดบังอะไรบางอย่างจากเรา คดีนี้อาจจะ\nมีอะไรมากกว่าที่เราคิดไว้
+P0103-0507	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Hamura's keeping something from us.\nThere might be more to this case than we thought.	ฮามุระปิดบังอะไรบางอย่างจากเรา\nคดีนี้อาจมีอะไรมากกว่าที่เราคิดไว้
+P0103-0508	พากย์ · speech_list_judge_main_c01	Yagami (ช)		More or less.\nI need more to work with.	ก็ประมาณนั้น\nผมต้องการข้อมูลมากกว่านี้
+P0103-0509	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Like what Hamura and Kume did after\nleaving Amour. Eyewitness testimony.	อย่างเช่นฮามุระกับคุเมะทำอะไรกันต่อ\nหลังออกจากอามูร์ พยานที่เห็นเหตุการณ์
+P0103-0510	พากย์ · speech_list_judge_main_c01	Kaito (ช)		We don't have time to scour\nthe city for leads, though.	แต่เราไม่มีเวลาไปตระเวนหา\nเบาะแสทั่วเมืองหรอกนะ
+P0103-0511	พากย์ · speech_list_judge_main_c01	Yagami (ช)		How much you need?	ต้องการเท่าไหร่ล่ะ
+P0103-0512	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Mm? How much?	อืม? เท่าไหร่เหรอ
+P0103-0513	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Anything?	อะไรก็ได้เลยเหรอ?
+P0103-0514	พากย์ · speech_list_judge_main_c01	Yagami (ช)		So you're saying he's a dirty cop?	งั้นนายกำลังบอกว่าเขาเป็นตำรวจ เน่างั้นเหรอ
+P0103-0515	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I see... A dirty cop, huh?	เข้าใจแล้ว... ตำรวจเน่าสินะ
+P0103-0516	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(That's an ex-yakuza for you.\nUnderground police info sounds useful.)</color>	<color=ｍonologue>(สมเป็นอดีตยากูซ่าจริง ๆ\nข้อมูลตำรวจใต้ดินฟังดูมีประโยชน์อยู่)</color>
+P0103-0517	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Really.	งั้นเหรอ
+P0103-0518	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	At Tender?	ที่เทนเดอร์เหรอ
+P0103-0519	พากย์ · speech_list_judge_main_c01	Kaito (ช)		You wanna find an informant\nby the name of Ayabe.	ตามหาสายข่าว\nชื่ออายาเบะ
+P0103-0520	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Your buddy over at Tender\nshould know more.	เพื่อนของคุณที่เทนเดอร์\nน่าจะรู้เรื่องมากกว่านี้
+P0103-0521	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Masuda over at Tender\nshould know more.	มาสึดะที่เทนเดอร์\nน่าจะรู้เรื่องมากกว่านี้
+P0103-0522	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Of course. What do you need?	ได้เลยครับ ต้องการอะไรเหรอ
+P0103-0523	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Sure do. He hasn't been by\nin a few days, though. Why?	รู้จักสิครับ แต่ไม่ได้แวะมา\nหลายวันแล้ว ทำไมเหรอ
+P0103-0524	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	Sure do. He hasn't been by\nin a few days, though. You need Ayabe-san?	รู้จักสิครับ แต่ไม่ได้แวะมา\nหลายวันแล้ว คุณมีธุระกับอายาเบะซังเหรอ
+P0103-0525	พากย์ · speech_list_judge_main_c01	tender_master (ช)		It's okay. I'll let him know\nyou were looking for him.	ไม่เป็นไรครับ ผมจะบอกให้เขารู้\nว่าคุณมาตามหา
+P0103-0526	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Why don't you have a drink or two\nin the meantime? First one's on me.	ระหว่างนี้ดื่มสักแก้วสองแก้ว\nรอก่อนไหมครับ แก้วแรกผมเลี้ยงเอง
+P0103-0527	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	In the meantime, why don't you sit and have a drink?\nJust one, even. It's on me.	ระหว่างนี้นั่งดื่มสักแก้วรอ ก่อนไหมครับ\nแค่แก้วเดียวก็ยังได้ ผมเลี้ยงเอง
+P0103-0528	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Just buttering you up. Remember when I mentioned\nsomeone who had a job for you?	ก็แค่เอาใจกันหน่อยครับ จำได้ไหมที่ผมเคยพูดถึง\nคนที่มีงานจะจ้างคุณน่ะ
+P0103-0529	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	The other day, I mentioned I had a customer\nwho had a job for you. Remember?	เมื่อวันก่อนผมเคยพูดถึงลูกค้าคนหนึ่ง\nที่มีงานจะจ้างคุณไง จำได้ไหมครับ
+P0103-0530	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Well, turns out they won't have\none for you after all. Sorry.	คือปรากฏว่าสุดท้ายแล้วไม่มีงาน\nให้คุณจริง ๆ ขอโทษด้วยนะครับ
+P0103-0531	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	Unfortunately, it turns out\nthey want to cancel.	โชคไม่ดีครับ ปรากฏว่า\nลูกค้าขอยกเลิกซะแล้ว
+P0103-0532	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Apparently the client was trying to get back\nat some yakuza who sucker punched him.	ดูเหมือนลูกค้าจะพยายามเอาคืน\nยากูซ่าคนหนึ่งที่แอบชกเขา
+P0103-0533	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	The way I heard it, the client was trying to\nget back at some yakuza who punched him.	เท่าที่ผมได้ยินมา ลูกค้าพยายาม\nเอาคืนยากูซ่าคนหนึ่งที่ชกเขา
+P0103-0534	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Not sure.\nDoesn't matter now anyway.	ไม่รู้เหมือนกันครับ\nแต่ตอนนี้ก็ไม่สำคัญแล้วแหละ
+P0103-0535	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Not exactly.\nSounds like the yakuza ended up behind bars.	ไม่เชิงครับ\nดูเหมือนยากูซ่าคนนั้นจะจบที่ใน คุกไปเลย
+P0103-0536	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	Not exactly... Sounds like the yakuza\nended up behind bars.	ไม่เชิงครับ... ดูเหมือนยากูซ่าคนนั้น\nจะจบที่ในคุกไปเลย
+P0103-0537	พากย์ · speech_list_judge_main_c01	tender_master (ช)		For killing a man\nand gouging his eyes out.	ข้อหาฆ่าคนตาย\nแล้วควักลูกตาเขาออก
+P0103-0538	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Captain Hamura. Surprised?	กัปตันฮามุระไงครับ แปลกใจไหมล่ะ
+P0103-0539	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Sorry, but that's all I've got.\nYou'll have to ask the guy directly.	ขอโทษด้วยครับ แต่ผมรู้แค่นี้แหละ\nคุณคงต้องไปถามคนนั้นเองโดยตรง
+P0103-0540	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	Sorry, but that's all I've got.\nAsk the client for more details.	ขอโทษด้วยครับ แต่ผมรู้แค่นี้แหละ\nลองไปถามรายละเอียดเพิ่มจาก ลูกค้าคนนั้นดู
+P0103-0541	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Man by the name of Seiya.	ผู้ชายชื่อเซยะครับ
+P0103-0542	พากย์ · speech_list_judge_main_c01	tender_master (ช)		He's a host over at Club Stardust on\nTenkaichi Street. That's where I'd look.	เขาเป็นโฮสต์อยู่ที่คลับสตาร์ดัสต์\nบนถนนเทนไคจิ ลองไปดูที่นั่นก่อนสิครับ
+P0103-0543	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	He works over at Club Stardust on\nTenkaichi Street. One of their hosts.	เขาทำงานอยู่ที่คลับสตาร์ดัสต์\nบนถนนเทนไคจิ เป็นโฮสต์คนนึงที่นั่น
+P0103-0544	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Hey, you have a sec?	เฮ้ มีเวลาสักครู่ไหมครับ
+P0103-0545	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Masuda, you have a sec?	มาสึดะ มีเวลาสักครู่ไหมครับ
+P0103-0546	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm looking for a detective. Ayabe.\nYou know him?	ผมกำลังตามหานักสืบคนหนึ่งชื่ออายาเบะ\nรู้จักเขาไหมครับ
+P0103-0547	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'm looking for an Ayabe...?\nYou know him?	ผมกำลังตามหาคนชื่ออายาเบะ...\nรู้จักเขาไหมครับ
+P0103-0548	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Ah, damn.\nGuess I came at the wrong time.	อ๊ะ แย่จัง\nงั้นผมคงมาผิดจังหวะซะแล้ว
+P0103-0549	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Ah, damn. Guess I've just got\nbad timing...	อ๊ะ แย่จัง คงเป็นเพราะ\nจังหวะผมไม่ดีเองแหละ...
+P0103-0550	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(I'll have to come back later.\nSure hope this guy is worth the trouble...)</color>	<color=ｍonologue>(คงต้องกลับมาใหม่ทีหลัง\nหวังว่าไอ้หมอนี่จะคุ้มค่าที่ ต้องเสียเวลานะ...)</color>
+P0103-0551	พากย์ · speech_list_judge_main_c01	tender_master (ช)		What's all this?	นี่มันอะไรกันเนี่ย?
+P0103-0552	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Hm? Why?	หืม? ทำไมล่ะ?
+P0103-0553	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Yeah, what of it?	จำได้ แล้วไงเหรอ
+P0103-0554	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I guess so.\nWhat's your point?	จำได้มั้ง\nแล้วจะสื่ออะไร
+P0103-0555	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And he wanted me to do... what?	แล้วเขาอยากให้ผมทำ... อะไรเหรอ
+P0103-0556	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Yikes. What could I even do about that?	โอ๊ะ แล้วผมจะไปช่วยอะไรได้ล่ะ
+P0103-0557	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Why, did he go all vigilante on him?	ทำไมเหรอ เขาลงมือเป็นฮีโร่จัดการเองรึไง
+P0103-0558	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Did they hit the guy back?\nThat wouldn't turn out well.	เขาแก้แค้นกลับไปเหรอ\nงั้นคงไม่จบสวยแน่
+P0103-0559	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Huh? Wait a second...	หา? เดี๋ยวก่อนนะ...
+P0103-0560	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Huh? Wait, that yakuza was...	หา? เดี๋ยวนะ ยากูซ่าคนนั้นคือ...
+P0103-0561	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Anything else you can tell me?	ยังมีอะไรที่บอกผมได้อีกไหมครับ
+P0103-0562	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I think I'd better hear the rest of this.	คิดว่าผมควรฟังเรื่องนี้ต่อให้จบ
+P0103-0563	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(If the yakuza who punched the host by the sauna\nwas Hamura...)</color>	<color=ｍonologue>(ถ้ายากูซ่าที่ชกโฮสต์แถวซาวน่า\nคือฮามุระจริง ๆ...)</color>
+P0103-0564	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Then that might help establish his alibi\nthat he went into Sauna Goten afterwards.)</color>	<color=ｍonologue>(นั่นอาจช่วยยืนยันพยานที่อยู่ของเขา\nว่าเขาเข้าไปที่ซาวน่าโกเท็น หลังจากนั้นได้)</color>
+P0103-0565	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(I should ask the host.)</color>	<color=ｍonologue>(ผมควรไปถามโฮสต์คนนั้นดู)</color>
+P0103-0566	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[ใช้ร่วม]	Who is he?	นี่ใครกัน?
+P0103-0567	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	A yakuza around here on the 3rd, huh?\nI did hear a host got smacked down that night.	ยากูซ่าแถวนี้เมื่อวันที่ 3 เหรอ\nเคยได้ยินเหมือนกันว่าคืนนั้นมี โฮสต์คนนึงโดนซัดหน้าหงาย
+P0103-0568	พากย์ · speech_list_judge_main_c01	Stradust (ช)		Depends. Whaddya need?	แล้วแต่เรื่องน่ะ ต้องการอะไรเหรอ
+P0103-0569	พากย์ · speech_list_judge_main_c01	Stradust (ช)	[อีกแทร็ก]	Huh? Whaddya need?	หา? ต้องการอะไรเหรอ
+P0103-0570	พากย์ · speech_list_judge_main_c01	Stradust (ช)		Seiya-san, huh?	เซยะซังเหรอ
+P0103-0571	พากย์ · speech_list_judge_main_c01	Stradust (ช)	[อีกแทร็ก]	Seiya-san?	เซยะซังเหรอครับ
+P0103-0572	พากย์ · speech_list_judge_main_c01	Stradust (ช)		No can do. Not today.	วันนี้ไม่ได้หรอกครับ
+P0103-0573	พากย์ · speech_list_judge_main_c01	Stradust (ช)	[อีกแทร็ก]	Ah... I'm afraid he's not here.	อ๊ะ... เกรงว่าเขาไม่อยู่ตอนนี้ครับ
+P0103-0574	พากย์ · speech_list_judge_main_c01	Stradust (ช)		Not quite, he's out on a date\nwith a customer.	ไม่ใช่ครับ เขาออกไปเดต\nกับลูกค้าอยู่
+P0103-0575	พากย์ · speech_list_judge_main_c01	Stradust (ช)	[อีกแทร็ก]	Actually, he's out on a date\nwith a customer.	อ๋อ เขาออกไปเดต\nกับลูกค้าอยู่ครับ
+P0103-0576	พากย์ · speech_list_judge_main_c01	Stradust (ช)		Third day in a row, too.\nHe's got her wrapped around his finger!	วันนี้วันที่สามติดต่อกันแล้วด้วยครับ\nเขาหลอกล่อผู้หญิงคนนั้นไว้ใน กำมือเลยทีเดียว!
+P0103-0577	พากย์ · speech_list_judge_main_c01	Stradust (ช)	[อีกแทร็ก]	Third day in a row, too.\nSeiya's really on a roll this time!	วันที่สามติดต่อกันแล้วด้วยครับ\nรอบนี้เซยะฟอร์มดีจริง ๆ!
+P0103-0578	พากย์ · speech_list_judge_main_c01	Stradust (ช)		No clue.\nI doubt he went far, but that's all I've got.	ไม่ทราบเลยครับ\nคิดว่าคงไม่ไปไกลหรอก แต่ที่รู้ก็มีแค่นี้แหละ
+P0103-0579	พากย์ · speech_list_judge_main_c01	Stradust (ช)	[อีกแทร็ก]	Well, hard to say... I doubt he went far,\nbut that's all I've got.	อืม บอกยากเหมือนกันครับ... คิดว่าคงไม่ไปไกล\nแต่ที่รู้ก็มีแค่นี้
+P0103-0580	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Seiya works over at Club Stardust.	เซยะทำงานอยู่ที่คลับสตาร์ดัสต์
+P0103-0581	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	Seiya works as a host\nover at Club Stardust.	เซยะเป็นโฮสต์\nอยู่ที่คลับสตาร์ดัสต์
+P0103-0582	พากย์ · speech_list_judge_main_c01	tender_master (ช)		Talk to him yourself if you wanna know more\nabout his run-in with Captain Hamura.	อยากรู้เรื่องที่เขาเจอกับ กัปตันฮามุระเพิ่ม\nก็ไปคุยกับเขาเองเลย
+P0103-0583	พากย์ · speech_list_judge_main_c01	tender_master (ช)	[อีกแทร็ก]	Talk to him if you wanna know more.	อยากรู้เพิ่มก็ไปคุยกับเขาเองสิ
+P0103-0584	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	You got a minute?	มีเวลาสักครู่ไหม
+P0103-0585	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm looking for someone who works here.\nThink I could talk to Seiya for a sec?	ผมกำลังตามหาคนที่ทำงานที่นี่คนหนึ่ง\nขอคุยกับเซยะสักครู่ได้ไหมครับ
+P0103-0586	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'm looking for a host by the name of Seiya.\nCan you go get him for me?	ผมกำลังตามหาโฮสต์ชื่อเซยะ\nช่วยไปตามเขามาให้หน่อยได้ไหมครับ
+P0103-0587	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Is he off today?	วันนี้เขาหยุดเหรอ
+P0103-0588	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	What, took the day off?	อะไรนะ ลาหยุดวันนี้เหรอ
+P0103-0589	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Damn, he could be practically\nanywhere, then.	บ้าเอ๊ย งั้นก็แปลว่า\nเขาอาจอยู่ที่ไหนก็ได้เลยสิ
+P0103-0590	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	A date? So what you're saying is... he could be\njust about anywhere in the city.	เดตเหรอ? งั้นก็แปลว่า...เขาอาจอยู่\nแถวไหนของเมืองนี้ก็ได้ทั้งนั้น
+P0103-0591	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Yeah that's great.\nAny idea when he'll be back?	เออ เก่งมาก\nพอจะรู้มั้ยว่าเขาจะกลับมาเมื่อไหร่?
+P0103-0592	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'm sure.\nAny idea when he'll be back?	สินะ\nพอจะรู้มั้ยว่าเขาจะกลับมาเมื่อไหร่?
+P0103-0593	พากย์ · speech_list_judge_main_c01	Yagami (ช)		All right, cool.\nThanks anyway.	โอเค ได้\nขอบใจนะ
+P0103-0594	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	All right.\nWell, thanks anyway.	โอเค\nงั้นก็ขอบใจนะ
+P0103-0595	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(First the owner of Amour, now this guy.\nWhy can't people just stay at their clubs?)	(ก่อนหน้านี้ก็เจ้าของอามูร์ ตอนนี้ก็คนนี้อีก\nทำไมไม่มีใครอยู่ที่คลับ ของตัวเองบ้างเลย)
+P0103-0596	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Wait, maybe I can find him the same way as before.\nIt's worth a shot.)	(เดี๋ยวนะ บางทีอาจจะหาเขาด้วยวิธีเดิมได้\nลองดูสักตั้งก็ไม่เสียหาย)
+P0103-0597	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Oh, hey Yagami-shi. What's up?	อ้อ ยากามิ มีอะไรเหรอ?
+P0103-0598	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Yagami-shi! What's up?	ยากามิ! มีอะไรเหรอ?
+P0103-0599	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Sure. Just hit me with\nthe keywords you need!	ได้เลย บอกคีย์เวิร์ด\nที่ต้องการมาได้เลย!
+P0103-0600	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Sure. Just give me a word!	ได้เลย บอกคำมาสักคำก็พอ!
+P0103-0601	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		You got it.\nGimme just a second here...	จัดให้\nรอแป๊บนึงนะ...
+P0103-0602	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	You got it.\nJust a second here...	จัดให้\nแป๊บนึงนะ...
+P0103-0603	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		It's working, it's working!\nI'll just push this to your screen.	ได้แล้ว ได้แล้ว!\nเดี๋ยวส่งขึ้นจอให้นะ
+P0103-0604	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Hehe! There we go, there we go...\nYagami-shi, I'll toss these beauties to your screen.	เฮ่ย! ได้แล้ว ได้แล้ว...\nยากามิ เดี๋ยวโยนของดีพวกนี้ขึ้นจอให้เลย
+P0103-0605	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		It mighta worked too well. Any other keywords\nyou want to narrow this down by?	เอ๊ะ นี่มันได้ผลเกินไปหน่อย มีคีย์เวิร์ดอื่น\nที่อยากใช้ช่วยกรองอีกมั้ย?
+P0103-0606	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Mmm, that's still a whole ton of hits...\nMaybe you've got another keyword for me to narrow it down?	อืม ยังเจอเยอะเป็นตั้งเลย...\nมีคีย์เวิร์ดอื่นให้ผมช่วยกรองอีกมั้ย?
+P0103-0607	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Hmm. That helped, but there's a metric ton.\nWanna try a different word maybe?	อืม ช่วยได้เยอะเลย แต่ก็ยังเจอเป็นตันอยู่ดี\nลองคำอื่นดูมั้ย?
+P0103-0608	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Hmmmm. That helped, but there's still way too many.\nLet's try a different word.	อื้อออ ช่วยได้เยอะ แต่ก็ยังเยอะเกินไปอยู่ดี\nลองคำอื่นกันเถอะ
+P0103-0609	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Oho! That did the trick!	โอ้โฮ! ได้ผลเลย!
+P0103-0610	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		I'm sure you'll find your\npretty boy in no time!	รับรองเจอหนุ่มหล่อของนาย\nในเวลาไม่นานแน่!
+P0103-0611	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Yeah, three leads should be a cake-walk!\nHehe!	เออ แค่สามเบาะแสสบายมากอยู่แล้ว!\nเฮ่ย!
+P0103-0612	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Yo, Tsukumo?	เฮ้ สึคุโมะ?
+P0103-0613	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Hey, Tsukumo.	นี่ สึคุโมะ
+P0103-0614	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I, uh, I need something. Think you can\ndo another message search for me?	เอ่อ ผมต้องการอะไรบางอย่างน่ะ\nช่วยค้นข้อความให้อีกรอบได้มั้ย?
+P0103-0615	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Well, I'm out of options again. I think I'll\nneed another search. Can you help me out?	คือผมหมดทางไปอีกแล้ว คงต้อง\nขอค้นเพิ่มอีกรอบ ช่วยหน่อยได้มั้ย?
+P0103-0616	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Hm. Let's go with "Stardust" and "Seiya".	อืม ลองใช้ "สตาร์ดัสต์" กับ "เซยะ" ดู
+P0103-0617	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Let's see... We'll start with\n"Stardust" and "Seiya."	เอาล่ะ...เริ่มจาก\n"สตาร์ดัสต์" กับ "เซยะ" ก่อน
+P0103-0618	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Oh, and let's limit the search history\nto just today.	อ้อ แล้วก็จำกัดประวัติการค้นหา\nแค่วันนี้พอนะ
+P0103-0619	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	And it's gotta be from today.\nAnything else isn't gonna help me.	แล้วก็ต้องเป็นของวันนี้ด้วย\nอย่างอื่นช่วยอะไรผมไม่ได้หรอก
+P0103-0620	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Hmmm.	อืม
+P0103-0621	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[ใช้ร่วม]	Oh, damn.	โอ๊ย บ้าเอ๊ย
+P0103-0622	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Okay, how about...	โอเค ลองคำนี้ดู...
+P0103-0623	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Great. Should be easy to check\nthese out myself. Thanks, Tsukumo.	เยี่ยม ทีนี้ผมน่าจะตรวจดูเองได้ไม่ยาก\nขอบใจนะ สึคุโมะ
+P0103-0624	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Great. Should be easy to check these out myself.\nI'll get working on these. Thanks!	เยี่ยม น่าจะตรวจดูเองได้ไม่ยาก\nเดี๋ยวผมลุยต่อเอง ขอบใจนะ!
+P0103-0625	พากย์ · speech_list_judge_main_c01	unnamed woman (Seiya date, jealous) (ญ)		Huh? What do you want with Seiya!?	หา? มีธุระอะไรกับเซยะ!?
+P0103-0626	พากย์ · speech_list_judge_main_c01	unnamed woman (Seiya date, jealous) (ญ)	[อีกแทร็ก]	Huh? Seiya!?\nWhat do you want with him?	หา? เซยะ!?\nมีธุระอะไรกับเขา?
+P0103-0627	พากย์ · speech_list_judge_main_c01	unnamed woman (Seiya date, jealous) (ญ)		Did you say date!? Who's the bitch\nhe's cheating on me with!?	เดตเหรอ!? นังตัวร้ายคนไหนกัน\nที่มันแอบไปนอกใจฉันด้วย!?
+P0103-0628	พากย์ · speech_list_judge_main_c01	unnamed woman (Seiya date, jealous) (ญ)	[อีกแทร็ก]	A date!? Who's the <font_kind=yakuza_italic>bitch</font_kind> he's\ncheating on me with!?	เดตเหรอ!? <font_kind=yakuza_italic>นังตัวร้าย</font_kind>คนไหนกัน\nที่มันแอบไปนอกใจฉันด้วย!?
+P0103-0629	พากย์ · speech_list_judge_main_c01	unnamed woman (Seiya date, jealous) (ญ)		It is not fine!\nWhat the hell is going on!?	ไม่มีอะไรได้ไง!\nเกิดอะไรขึ้นกันแน่!?
+P0103-0630	พากย์ · speech_list_judge_main_c01	unnamed woman (Seiya date, jealous) (ญ)	[อีกแทร็ก]	It is <font_kind=yakuza_italic>not</font_kind> "fine"!\nWhat the hell is going on!?	มัน<font_kind=yakuza_italic>ไม่</font_kind>"มีอะไร"หรอก!\nเกิดอะไรขึ้นกันแน่!?
+P0103-0631	พากย์ · speech_list_judge_main_c01	seiya_girl (ช)	[ใช้ร่วม]	...What is it?	...มีอะไรเหรอ?
+P0103-0632	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)		Wait, you know Seiya-kun?\nIs he all right!?	เดี๋ยวนะ คุณรู้จักเซยะคุงเหรอ?\nเขาเป็นอะไรมั้ย!?
+P0103-0633	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)		We were gonna go on a date tonight,\nbut he never showed. I'm kinda worried...	คืนนี้เรานัดเดตกันไว้\nแต่เขาไม่มา ฉันเลยเป็นห่วงนิดหน่อย...
+P0103-0634	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)	[อีกแทร็ก]	We were gonna go on a date tonight, but he never showed.\nI'm kinda worried...	คืนนี้เรานัดเดตกันไว้ แต่เขาไม่มา\nฉันเลยเป็นห่วงนิดหน่อย...
+P0103-0635	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)		Wait, what?\nSeiya-kun's out with another girl!?	เดี๋ยวนะ อะไรนะ?\nเซยะคุงไปเดตกับผู้หญิงคนอื่นเหรอ!?
+P0103-0636	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)	[อีกแทร็ก]	Wait, what...?\nSeiya-kun's... with someone else?	เดี๋ยวนะ อะไรนะ...?\nเซยะคุง...อยู่กับคนอื่นเหรอ?
+P0103-0637	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)		Oh, thank goodness he's safe! I thought he'd\ngotten into an accident or something!	โอ๊ย โล่งอกไปที เขาปลอดภัยดี! นึกว่าเขา\nเกิดอุบัติเหตุอะไรขึ้นมาซะอีก!
+P0103-0638	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)	[อีกแทร็ก]	Oh, thank goodness! I'm glad Seiya's safe!\nI thought he'd gotten in an accident!	โอ๊ย โล่งอกไปที ดีใจจังที่เซยะปลอดภัย!\nนึกว่าเขาเกิดอุบัติเหตุขึ้นมาซะอีก!
+P0103-0639	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)		I wonder if he's having fun on his date...\nAs long as he's happy, I'm happy...	ไม่รู้ว่าเขาสนุกกับการเดตรึเปล่านะ...\nแค่เขามีความสุขก็พอ ฉันก็มีความสุขแล้ว...
+P0103-0640	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)	[อีกแทร็ก]	I wonder if Seiya's having fun on his date.\nIf my Seiya-kun is happy, I'm happy.	ไม่รู้ว่าเซยะสนุกกับการเดตรึเปล่านะ\nแค่เซยะคุงของฉันมีความสุข ฉันก็มีความสุขแล้ว
+P0103-0641	พากย์ · speech_list_judge_main_c01	seiya_girl (?)		I hope Seiya-kun gets here soon...	หวังว่าเซยะคุงจะมาถึงเร็ว ๆ นี้นะ...
+P0103-0642	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)		Who are you?\nAre you from the club!?	คุณเป็นใครเหรอ?\nมาจากคลับรึเปล่า!?
+P0103-0643	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)	[อีกแทร็ก]	...Who are you?\nAre you from the club!?	...คุณเป็นใครเหรอ?\nมาจากคลับรึเปล่า!?
+P0103-0644	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)		Hey, are you implying\nmy Seiya-kun stood me up!?	เฮ้ คุณจะบอกว่า\nเซยะคุงเบี้ยวนัดรึไง!?
+P0103-0645	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)	[อีกแทร็ก]	Wh-What do you mean!? Are you implying\nmy Seiya-kun stood me up!?	ห-หมายความว่าไง!? คุณจะบอกว่า\nเซยะคุงเบี้ยวนัดรึไง!?
+P0103-0646	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm sure he's just taking his time\ngetting ready. He'll be here any minute!	เขาต้องกำลังเตรียมตัวอยู่แน่ ๆ\nอีกเดี๋ยวเขาก็มาแล้วล่ะ!
+P0103-0647	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'm sure he's just taking his time getting ready.\nHe'll be here any minute!	เขาต้องกำลังเตรียมตัวอยู่แน่ ๆ\nอีกเดี๋ยวเขาก็มาแล้วล่ะ!
+P0103-0648	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)		I... I...  	ฉัน...ฉัน... 
+P0103-0649	พากย์ · speech_list_judge_main_c01	seiya_girl (ญ)	[อีกแทร็ก] [ใช้ร่วม]	I... I...	ฉัน...ฉัน...
+P0103-0650	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Oh, Yagami-shi. Did you manage to\ntrack down that host of yours?	อ้อ ยากามิ เจอตัวโฮสต์ของนาย\nรึยัง?
+P0103-0651	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Yagami-shi. Did you find your host,\nthat Seiya guy...?	ยากามิ เจอตัวโฮสต์ของนาย\nไอ้เซยะนั่นรึยัง?
+P0103-0652	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Hmmmm.\nHow about giving it another try?	อื้อออ\nลองอีกรอบดีมั้ย?
+P0103-0653	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Hmmm, really... How about\ngiving it another try?	อืม จริงดิ...ลอง\nอีกรอบดีมั้ย?
+P0103-0654	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Don't be such a sourpuss, Yagami-shi!\nI bet there have been more posts since earlier!	อย่าทำหน้าบูดขนาดนั้นสิ ยากามิ!\nฉันว่าต้องมีโพสต์ใหม่ ๆ ตั้งแต่เมื่อกี้แน่ ๆ!
+P0103-0655	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Don't be such a soursport! I bet if we just check,\nwe'll find at least a couple more posts!	อย่าทำตัวหงอยแบบนั้นสิ! ฉันว่าถ้าลองเช็กดู\nต้องเจอโพสต์เพิ่มอีกสักสองสามอันแน่!
+P0103-0656	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Hehe. Let's start with the\nsame keywords from before.	เฮ่ย เริ่มจาก\nคีย์เวิร์ดเดิมก่อนเลย
+P0103-0657	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	Well, we'll start with the same keywords.\nLet's just get those entered in here...	เอาล่ะ เริ่มจากคีย์เวิร์ดเดิมก่อน\nใส่ลงไปตรงนี้เลย...
+P0103-0658	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		See that? A new hit! The landscape\nof social media changes every second.	เห็นมั้ย? เจอใหม่แล้ว! วงการโซเชียลมีเดีย\nเปลี่ยนแปลงทุกวินาทีเลยจริง ๆ
+P0103-0659	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	There! A new post just a minute ago!\nI'm sending it to you, Yagami-shi.	นั่นไง! โพสต์ใหม่เมื่อนาทีที่แล้วเอง!\nเดี๋ยวส่งให้เลยนะ ยากามิ
+P0103-0660	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Apparently they posted it only a minute ago.\nIf that's not a hot lead, I don't know what is!	ดูเหมือนโพสต์นี้เพิ่งลงเมื่อนา ทีเดียว\nถ้านี่ไม่ใช่เบาะแสร้อน ๆ ก็ไม่รู้จะเรียกว่าอะไรแล้ว!
+P0103-0661	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)	[อีกแทร็ก]	If this post is only a minute old,\nI'd say that's a pretty hot lead!	ถ้าโพสต์นี้เพิ่งลงมาแค่นาทีเดียว\nนี่ก็ต้องเรียกว่าเบาะแสร้อนแรงเลยล่ะ!
+P0103-0662	พากย์ · speech_list_judge_main_c01	Tsukumo (ช)		Hehe! Not a problem!	เฮ่ย! ไม่มีปัญหาเลย!
+P0103-0663	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Nope. Struck out on all three leads.	ยัง เบาะแสทั้งสามอันพลาดหมดเลย
+P0103-0664	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Nah, I'm good.\nI'll figure out some other way.	ไม่ล่ะ ไม่เป็นไร\nผมหาทางอื่นเอาเองก็ได้
+P0103-0665	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Huh? Nah, I'm good.\nI'll figure out some other way.	หา? ไม่ล่ะ ไม่เป็นไร\nผมหาทางอื่นเอาเองก็ได้
+P0103-0666	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Doubt that's gonna change much... But sure,\nwhy not? Let's see what you've got.	ไม่คิดว่าจะเปลี่ยนอะไรได้เยอะหรอก... แต่ก็ได้\nลองดูก็ได้ ขอดูหน่อยสิว่ามีอะไรบ้าง
+P0103-0667	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Doubt that's gonna change much...\nBut sure. Let's see...	ไม่คิดว่าจะเปลี่ยนอะไรได้เยอะหรอก...\nแต่ก็ได้ ลองดูก็ได้...
+P0103-0668	พากย์ · speech_list_judge_main_c01	Yagami (ช)		All right, I'll check it out.\nThanks for everything, Tsukumo.	โอเค เดี๋ยวไปดูเลย\nขอบใจมากนะ สึคุโมะ
+P0103-0669	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Excuse me, ma'am.	ขอโทษนะครับ
+P0103-0670	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Do you have a sec?	มีเวลาสักครู่มั้ยครับ?
+P0103-0671	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm looking for a host named Seiya.\nWorks at Stardust.	ผมกำลังตามหาโฮสต์ชื่อเซยะ\nที่ทำงานอยู่คลับสตาร์ดัสต์น่ะครับ
+P0103-0672	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'm looking for a host named Seiya,\nwho works at Stardust...?	ผมกำลังหาโฮสต์ชื่อเซยะ\nที่ทำงานอยู่คลับสตาร์ดัสต์...ครับ
+P0103-0673	พากย์ · speech_list_judge_main_c01	Yagami (ช)		...Uh, I need to ask him something.\nI heard he was on a date around here.	...เอ่อ ผมแค่มีเรื่องอยากถามเขาน่ะครับ\nได้ยินมาว่าเขากำลังเดตอยู่แถวนี้
+P0103-0674	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Oh, uh. You know what, never mind.\nIt's fine.	เอ่อ...ช่างเถอะครับ\nไม่มีอะไรหรอก
+P0103-0675	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Oh, look at the time.\nGotta run!	โอ๊ะ ดูเวลาสิ\nต้องไปแล้ว!
+P0103-0676	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Wow, look at the time...!	โห ดูเวลาสิ...!
+P0103-0677	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Huh? I'd heard he was on a date around here too,\nbut I guess that means it wasn't with you...	หา? ผมได้ยินมาว่าเขากำลังเดตอยู่ แถวนี้เหมือนกัน\nแต่งั้นก็คงไม่ใช่กับคุณสินะ...
+P0103-0678	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Huh? From what I heard, he was already out on a date\nsomewhere around town right now...?	หา? เท่าที่ผมได้ยินมา ตอนนี้เขาออกไปเดต\nอยู่ที่ไหนสักแห่งในเมืองแล้ว...?
+P0103-0679	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Uh... Better luck next time?	เอ่อ...รอบหน้าคงดีขึ้นมั้งครับ?
+P0103-0680	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Though... I guess not with you.	แต่...ผมว่าคงไม่ใช่กับคุณหรอก
+P0103-0681	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Sounds like it. But don't take it too hard,\nI'm sure you'll bounce back...	ท่าทางจะเป็นงั้น แต่อย่าคิดมากเลยครับ\nผมว่าคุณต้องผ่านมันไปได้แน่...
+P0103-0682	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Sounds like it... Well, still.\nDon't beat yourself up over it, okay?	ท่าทางจะเป็นงั้น...แต่ยังไงก็เถอะ\nอย่าโทษตัวเองเลยนะครับ?
+P0103-0683	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Wait a sec, You mean Seiya,\nthat host from Stardust?	เดี๋ยวนะ หมายถึงเซยะ\nโฮสต์จากคลับสตาร์ดัสต์ใช่มั้ย?
+P0103-0684	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Hold on... Are you talking about Seiya,\nthe host from Stardust?	เดี๋ยวก่อน...คุณกำลังพูดถึงเซยะ\nโฮสต์จากคลับสตาร์ดัสต์เหรอ?
+P0103-0685	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Uh... No, sorry.\nI'm just looking for Seiya.	เอ่อ...ไม่ครับ ขอโทษที\nผมแค่กำลังตามหาเซยะน่ะ
+P0103-0686	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'd ask where he is... But it looks like\nyou know as much as I do.	ผมอยากจะถามว่าเขาอยู่ไหน... แต่ดูท่า\nคุณก็คงรู้พอ ๆ กับผมนั่นแหละ
+P0103-0687	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'd ask where he is...\nbut you're probably wondering too.	ผมอยากจะถามว่าเขาอยู่ไหน...\nแต่คุณก็คงอยากรู้เหมือนกัน
+P0103-0688	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Uh-huh... How long have you\nbeen waiting, anyway?	อือ...แล้วคุณรอ\nมานานแค่ไหนแล้วเหรอ?
+P0103-0689	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Uh-huh... How long have you been\nwaiting, anyway?	อือ...แล้วคุณรอมา\nนานแค่ไหนแล้วเหรอ?
+P0103-0690	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I shouldn't've asked.\nExcuse me.	ผมไม่น่าถามเลย\nขอตัวนะครับ
+P0103-0691	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Uh, sorry. Bye now.	เอ่อ ขอโทษด้วย ไปล่ะนะครับ
+P0103-0692	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Damn, I got nothing...)	(บ้าเอ๊ย ไม่เจออะไรเลย...)
+P0103-0693	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[ซ้ำในบท x2]	(Doesn't look like Seiya's here.\nI should try somewhere else.)	(ท่าทางเซยะจะไม่อยู่แถวนี้\nลองที่อื่นดีกว่า)
+P0103-0694	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(Either way, it doesn't look like Seiya's here.\nI should try somewhere else.)	(ยังไงก็เถอะ ท่าทางเซยะจะไม่อยู่แถวนี้\nลองที่อื่นดีกว่า)
+P0103-0695	พากย์ · speech_list_judge_main_c01	Mai (ญ)		Hey, is everything okay?	เฮ้ เป็นอะไรมั้ย?
+P0103-0696	พากย์ · speech_list_judge_main_c01	Mai (ญ)	[อีกแทร็ก]	Huh?\nIs everything okay?	หือ?\nเป็นอะไรมั้ย?
+P0103-0697	พากย์ · speech_list_judge_main_c01	Seiya (ช)		You'll have to excuse me,\nMai-chan. I won't be long.	ขอตัวแป๊บนึงนะ\nมายจัง ไม่นานหรอก
+P0103-0698	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Excuse me, Mai-chan.\nI won't be long.	ขอตัวก่อนนะ มายจัง\nไม่นานหรอก
+P0103-0699	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Don't worry, it'll all be fine.	ไม่ต้องห่วงหรอก เดี๋ยวก็เรียบร้อย
+P0103-0700	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Don't worry, it'll be fine.	ไม่ต้องห่วง เดี๋ยวก็เรียบร้อย
+P0103-0701	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Mind stepping outside, Yagami-san?	ออกไปคุยข้างนอกกันหน่อยได้มั้ยครับ ยากามิซัง?
+P0103-0702	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Mind stepping outside... Yagami-san?	ออกไปคุยข้างนอกกันหน่อยได้มั้ย...ยากามิซัง?
+P0103-0703	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[ใช้ร่วม]	I do.	ใช่
+P0103-0704	พากย์ · speech_list_judge_main_c01	Seiya (ช)		The owner over at Tender\ntold me about you.	เจ้าของร้านเทนเดอร์\nเล่าเรื่องคุณให้ผมฟังน่ะ
+P0103-0705	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Masuda over at Tender\ntold me about you.	มาสึดะที่ร้านเทนเดอร์\nเล่าเรื่องคุณให้ผมฟังน่ะ
+P0103-0706	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Thought I'd ask you to do me a favor.	เลยคิดว่าจะขอให้คุณช่วยอะไรหน่อย
+P0103-0707	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	So, I thought I'd ask you\nto do me a favor.	เลยคิดว่าจะขอให้คุณ\nช่วยอะไรหน่อย
+P0103-0708	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Yes. He said you might\nbe able to manage something.	ใช่ครับ เขาบอกว่าคุณ\nน่าจะจัดการอะไรสักอย่างให้ได้
+P0103-0709	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	...Yes. He said you might be able to\nmanage something.	...ใช่ครับ เขาบอกว่าคุณน่าจะ\nจัดการอะไรสักอย่างให้ได้
+P0103-0710	พากย์ · speech_list_judge_main_c01	Seiya (ช)		A disgraced ex-lawyer who's not afraid\nto get his hands a little dirty.	อดีตทนายที่เสื่อมเสียชื่อเสียง แต่ไม่กลัว\nที่จะลงมือทำเรื่องสกปรกบ้าง
+P0103-0711	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	A disgraced ex-lawyer, who's not afraid to\nget his hands a little dirty.	อดีตทนายที่เสื่อมเสียชื่อเสียง ผู้ไม่กลัวที่จะ\nลงมือทำเรื่องสกปรกบ้าง
+P0103-0712	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Sounds like you're pretty\nwell-known in Kamurocho.	ฟังดูคุณค่อนข้าง\nมีชื่อเสียงในคามุโรโจเลยนะครับ
+P0103-0713	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	You're pretty well-known in Kamurocho,\nby Masuda's account.	ตามที่มาสึดะเล่า คุณค่อนข้าง\nมีชื่อเสียงในคามุโรโจเลยนะครับ
+P0103-0714	พากย์ · speech_list_judge_main_c01	Seiya (ช)		One more thing. This is just a rumor, but,\nuh, I hear you'll do anything for your clients.	อีกเรื่องนึงนะครับ นี่แค่ข่าวลือ แต่\nเอ่อ ได้ยินมาว่าคุณทำได้ทุกอย่าง เพื่อลูกความ
+P0103-0715	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	One more thing. This is just a rumor,\nbut I hear you'll do anything for your clients.	อีกเรื่องนึงนะครับ นี่แค่ข่าวลือ\nแต่ได้ยินมาว่าคุณทำได้ทุกอย่าง เพื่อลูกความ
+P0103-0716	พากย์ · speech_list_judge_main_c01	Seiya (ช)		You even got a murderer\noff the hook, right?	ได้ยินว่าคุณเคยช่วยฆาตกร\nให้พ้นผิดมาแล้วด้วยใช่มั้ยครับ?
+P0103-0717	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	I mean, you even got a murderer\noff the hook, right?	คือ...คุณเคยช่วยฆาตกร\nให้พ้นผิดมาแล้วด้วยใช่มั้ยครับ?
+P0103-0718	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Oh, did I say something wrong?	อ้าว ผมพูดอะไรผิดไปรึเปล่าครับ?
+P0103-0719	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Hm? Did I... say something wrong?	หืม? ผม...พูดอะไรผิดไปรึเปล่า?
+P0103-0720	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	That's right.	ถูกต้องแล้ว
+P0103-0721	พากย์ · speech_list_judge_main_c01	Seiya (ช)		The night of December 3rd.	คืนวันที่ 3 ธันวาคมครับ
+P0103-0722	พากย์ · speech_list_judge_main_c01	Yagami (ช)		The day of the murder.	วันที่เกิดเหตุฆาตกรรม
+P0103-0723	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	The day of that yakuza murder, right?	วันที่เกิดคดีฆาตกรรมยากูซ่า นั่นใช่มั้ย?
+P0103-0724	พากย์ · speech_list_judge_main_c01	Seiya (ช)		That so? Not sure I wanna be\nthe guy who sets him free.	งั้นเหรอครับ ผมไม่ค่อยอยากเป็นคนที่\nทำให้เขาพ้นผิดเท่าไหร่นะ
+P0103-0725	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	That so? Not sure I wanna be the guy\nwho sets him free.	งั้นเหรอครับ ผมไม่ค่อยอยากเป็นคน\nที่ทำให้เขาพ้นผิดเท่าไหร่นะ
+P0103-0726	พากย์ · speech_list_judge_main_c01	Seiya (ช)		How could I say no to a celebrity\nlike you? It's fine.	จะให้ผมปฏิเสธคนดังอย่างคุณ\nได้ยังไงล่ะครับ? ตกลง
+P0103-0727	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	How could I say no to a bowing celebrity?\nOkay... I'll talk for you, Yagami-san.	จะให้ผมปฏิเสธคนดังที่กำลัง ก้มหัวขอแบบนี้ได้ยังไง?\nโอเคครับ...ผมจะให้การให้คุณ ยากามิซัง
+P0103-0728	พากย์ · speech_list_judge_main_c01	Seiya (ช)		I think around midnight, out in front of\nKyushu No. 1 Star. Not the busiest place.	น่าจะประมาณเที่ยงคืนครับ หน้าร้าน\nคิวชูนัมเบอร์วันสตาร์ คนไม่ค่อยพลุกพล่านเท่าไหร่
+P0103-0729	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	I think around midnight. In Pink Alley near Kyushu No. 1 Star.\nThat quiet little ramen place. Not exactly busy.	น่าจะประมาณเที่ยงคืนครับ ในตรอกพิงก์ ใกล้ ๆ คิวชูนัมเบอร์วันสตาร์\nร้านราเมงเล็ก ๆ เงียบ ๆ นั่นแหละ คนไม่ค่อยเยอะ
+P0103-0730	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Yeah, it is.	ใช่ครับ ใกล้จริง ๆ
+P0103-0731	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Yeah, I think so.	ครับ ผมว่างั้น
+P0103-0732	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Wish I knew.\nThe guy reeked of booze, though.	ผมก็อยากรู้เหมือนกันครับ\nแต่เขาตัวเหม็นเหล้าไปหมดเลย
+P0103-0733	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	I'd like to know that myself.\nGotta say, the guy reeked of booze.	ผมก็อยากรู้เหมือนกันครับ\nต้องบอกเลยว่าเขาตัวเหม็นเหล้ามาก
+P0103-0734	พากย์ · speech_list_judge_main_c01	Seiya (ช)		I was just walking down the street\nwhen I noticed him coming towards me.	ผมแค่เดินอยู่บนถนนเฉย ๆ\nจู่ ๆ ก็เห็นเขาเดินตรงมาหาผม
+P0103-0735	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	I was just walking down the street,\nthen I saw him stumbling my way.	ผมแค่เดินอยู่บนถนนเฉย ๆ\nแล้วก็เห็นเขาเดินโซซัดโซเซมาทางนี้
+P0103-0736	พากย์ · speech_list_judge_main_c01	Seiya (ช)		He was like, mumbling to himself\nor something. Kinda scary shit.	เขาพึมพำอะไรกับตัวเอง\nอยู่ประมาณนั้น น่ากลัวเหมือนกันนะครับ
+P0103-0737	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	He was mumbling to himself, too.\nKind of freaking me out.	เขาพึมพำอะไรกับตัวเองด้วย\nทำเอาผมขนลุกเลย
+P0103-0738	พากย์ · speech_list_judge_main_c01	Seiya (ช)		I tried to avoid him,\nbut he just barrelled towards me anyway.	ผมพยายามหลบเขา\nแต่เขาก็พุ่งเข้ามาหาผมอยู่ดี
+P0103-0739	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	I tried moving to the other side of the alleyway,\nbut he followed me anyway.	ผมพยายามหลบไปอีกฝั่งของตรอก\nแต่เขาก็ตามมาอยู่ดี
+P0103-0740	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Just the once.	แค่ครั้งเดียวครับ
+P0103-0741	พากย์ · speech_list_judge_main_c01	Seiya (ช)		It left a fucking nasty bruise, though!\nKnocked one of my fillings clean out, too.	แต่แม่งทิ้งรอยช้ำเละเทะไว้เลย!\nฟันอุดหลุดไปซี่นึงเลยด้วย
+P0103-0742	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	But it still left a fucking nasty bruise!\nKnocked one of my fillings clean out.	แต่แม่งก็ยังทิ้งรอยช้ำเละเทะ ไว้ดีอยู่!\nฟันอุดหลุดไปซี่นึงเลย
+P0103-0743	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Hm? Yeah, the next day.	หืม? ไปครับ วันถัดมาเลย
+P0103-0744	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Ah, so that's what you were getting at.	อ๋อ นี่คือสิ่งที่คุณจะสื่อสินะครับ
+P0103-0745	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Ah, I see your point.	อ๋อ เข้าใจแล้วครับ
+P0103-0746	พากย์ · speech_list_judge_main_c01	Seiya (ช)		He stumbled away into a sauna.\nThat Goten place you mentioned.	เขาเดินโซเซเข้าไปในซาวน่าครับ\nที่โกเท็นที่ผมพูดถึงเมื่อกี้นั่นแหละ
+P0103-0747	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Stumbled off. Went into a sauna...\nYeah, I think it was Sauna Goten.	เดินโซเซจากไปครับ เข้าไปในซาวน่า...\nน่าจะเป็นซาวน่าโกเท็นนั่นแหละ
+P0103-0748	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[ใช้ร่วม]	No problem.	ไม่มีปัญหา
+P0103-0749	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Okay, sure.	ได้สิ ไม่มีปัญหา
+P0103-0750	พากย์ · speech_list_judge_main_c01	Seiya (ช)		It'd be nice to have the great Yagami-san owe me a favor.\nMaybe Masuda could give me a few freebies, too.	มียากามิซังคนดังติดหนี้บุญคุณ ผมไว้ก็ดีเหมือนกันนะครับ\nเผื่อมาสึดะจะให้ของฟรีผมมั่งด้วย
+P0103-0751	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	It'd be nice having you owe me a favor.\nMaybe Masuda could give me a few freebies, too.	มีคุณติดหนี้บุญคุณผมไว้ก็ดี เหมือนกันนะครับ\nเผื่อมาสึดะจะให้ของฟรีผมมั่งด้วย
+P0103-0752	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Hm, couldn't say.\nI don't usually look for that stuff.	อืม บอกไม่ถูกเหมือนกันครับ\nปกติผมไม่ค่อยสังเกตอะไรแบบนั้น
+P0103-0753	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Hm... couldn't really say.\nI don't usually look for that stuff.	อืม...บอกไม่ถูกจริง ๆ ครับ\nปกติผมไม่ค่อยสังเกตอะไรแบบนั้น
+P0103-0754	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Of course. See ya.	ได้เลยครับ แล้วเจอกัน
+P0103-0755	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Sure. Later.	ครับ แล้วเจอกัน
+P0103-0756	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Hey. Seiya, right?\nFrom Stardust?	เฮ้ เซยะใช่มั้ย?\nจากคลับสตาร์ดัสต์?
+P0103-0757	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Sorry to butt in. You have a sec?	ขอโทษที่ขัดจังหวะนะ มีเวลาสักครู่มั้ย?
+P0103-0758	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Wait, you know who I am?	เดี๋ยวนะ คุณรู้จักผมด้วยเหรอ?
+P0103-0759	พากย์ · speech_list_judge_main_c01	Yagami (ช)		You want to get back at\na yakuza who hit you, yeah?	คุณอยากเอาคืนยากูซ่า\nที่ทำร้ายคุณใช่มั้ย?
+P0103-0760	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	You want to get back at\na yakuza who hit you?	คุณอยากเอาคืนยากูซ่า\nที่ทำร้ายคุณเหรอ?
+P0103-0761	พากย์ · speech_list_judge_main_c01	Yagami (ช)		So that's what people say about me?	อ้อ คนเขาลือกันแบบนั้นเหรอ?
+P0103-0762	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Huh. So that's what people say.	หืม คนเขาลือกันแบบนั้นสินะ
+P0103-0763	พากย์ · speech_list_judge_main_c01	Yagami (ช)		No, it's all right. Anyway.\nYou said Captain Hamura hit you?	เปล่า ไม่มีอะไร เอาล่ะ\nคุณบอกว่ากัปตันฮามุระทำร้ายคุณ ใช่มั้ย?
+P0103-0764	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	No, it's all right.\nAnyway. You said Captain Hamura hit you?	เปล่า ไม่มีอะไรครับ\nเอาล่ะ คุณบอกว่ากัปตันฮามุระทำร้ายคุณ ใช่มั้ย?
+P0103-0765	พากย์ · speech_list_judge_main_c01	Yagami (ช)		When?	เมื่อไหร่?
+P0103-0766	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	When was this?	เมื่อไหร่กันแน่?
+P0103-0767	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[ใช้ร่วม]	You're sure?	แน่ใจเหรอ
+P0103-0768	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	You're sure, though?	แน่ใจจริง ๆ เหรอครับ?
+P0103-0769	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Funny enough, I've been hired to look into Hamura's\ncase. This story of yours could be key evidence.	เผอิญว่าผมถูกจ้างให้สืบคดีของ ฮามุระอยู่พอดี\nเรื่องที่คุณเล่ามาอาจเป็น หลักฐานสำคัญเลยนะ
+P0103-0770	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Funny enough, I've been hired to look into Hamura's case.\nThis story of yours could be key evidence.	เผอิญว่าผมถูกจ้างให้สืบคดีของ ฮามุระอยู่พอดี\nเรื่องที่คุณเล่ามาอาจเป็น หลักฐานสำคัญเลยนะ
+P0103-0771	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I know you two have a history,\nbut I need this. Please.	ผมรู้ว่าคุณกับเขามีเรื่องกันมาก่อน\nแต่ผมต้องการเรื่องนี้จริง ๆ ขอร้องล่ะ
+P0103-0772	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Yes! I might be able to prove Hamura's alibi now.)</color>	<color=ｍonologue>(เยส! ตอนนี้ผมอาจพิสูจน์ พยานที่อยู่ของฮามุระได้แล้ว)</color>
+P0103-0773	พากย์ · speech_list_judge_main_c01	Yagami (ช)		What time did you run into Hamura?	คุณเจอฮามุระตอนกี่โมง?
+P0103-0774	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	So about your encounter with Hamura.\nWhen was that?	เอาล่ะ เรื่องที่คุณเจอฮามุระ\nมันเกิดขึ้นตอนไหน?
+P0103-0775	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Kyushu No. 1 Star...\nIsn't that near Sauna Goten?	คิวชูนัมเบอร์วันสตาร์ เหรอ...\nนั่นมันใกล้ซาวน่าโกเท็นไม่ใช่เหรอ?
+P0103-0776	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Mind telling me more?\nWhy'd he hit you in the first place?	เล่าเพิ่มให้ฟังหน่อยได้มั้ย?\nทำไมเขาถึงทำร้ายคุณตั้งแต่แรก?
+P0103-0777	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Mind telling me more?\nWhy'd Hamura hit you in the first place?	เล่าเพิ่มให้ฟังหน่อยได้มั้ย?\nทำไมฮามุระถึงทำร้ายคุณตั้งแต่แรก?
+P0103-0778	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And how many times did he hit you?	แล้วเขาตีคุณกี่ครั้ง?
+P0103-0779	พากย์ · speech_list_judge_main_c01	Yagami (ช)		A filling, huh?\nDid you go to the dentist?	ฟันอุดเหรอ?\nไปหาหมอฟันรึเปล่า?
+P0103-0780	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Then you'll be in their records.\nThat'll corroborate your testimony.	งั้นก็ต้องมีบันทึกของคุณอยู่ ที่คลินิก\nนั่นช่วยยืนยันคำให้การของคุณได้เลย
+P0103-0781	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Moving on.\nWhat did Hamura do after he hit you?	เอาล่ะ ต่อไป\nหลังจากฮามุระตีคุณ เขาทำอะไรต่อ?
+P0103-0782	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Now, after he hit you...\nwhat did Hamura do?	เอาล่ะ หลังจากที่เขาตีคุณ...\nฮามุระทำอะไรต่อ?
+P0103-0783	พากย์ · speech_list_judge_main_c01	Yagami (ช)		So just to recap. He hit you around 12,\nand then headed into Sauna Goten.	งั้นสรุปนะ เขาตีคุณตอนประมาณเที่ยงคืน\nแล้วก็เดินเข้าซาวน่าโกเท็นไป
+P0103-0784	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	So around 12, after hitting you in an alley,\nHamura wandered into Sauna Goten.	งั้นประมาณเที่ยงคืน หลังจากตีคุณในตรอก\nฮามุระก็เดินเข้าไปในซาวน่าโกเท็น
+P0103-0785	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(The old guy at Sauna Goten said that\nno one left the place until morning.)</color>	<color=ｍonologue>(ลุงที่ซาวน่าโกเท็นบอกว่า\nไม่มีใครออกจากที่นั่นจนถึงเช้าเลย)</color>
+P0103-0786	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Then as long as I can prove\nHamura was here... we'll have our alibi.	งั้นแค่ผมพิสูจน์ได้ว่า\nฮามุระอยู่ที่นี่...ก็จะได้พยานที่อยู่แล้ว
+P0103-0787	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And can I count on your\ntestimony in court?	แล้วผมพอจะพึ่งคำให้การ\nของคุณในศาลได้มั้ย?
+P0103-0788	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	And can I count on that story in court?\nCan you testify?	แล้วผมพอจะพึ่งเรื่องนี้ในศาลได้มั้ย?\nคุณให้การได้มั้ยครับ?
+P0103-0789	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Sure, I'll ask him.	ได้เลย เดี๋ยวผมลองพูดกับเขาให้
+P0103-0790	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Hey, one more thing.	เฮ้ อีกเรื่องนึง
+P0103-0791	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Wait! One more thing.	เดี๋ยวก่อน! อีกเรื่องนึง
+P0103-0792	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Did you see any security cameras around when you ran\ninto Hamura? Video evidence would lock this up for me.	ตอนที่คุณเจอฮามุระ เห็นกล้องวงจรปิดแถวนั้นมั้ย?\nมีหลักฐานวิดีโอจะช่วยปิดเรื่อง นี้ให้ผมได้เลย
+P0103-0793	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	When you ran into Hamura, were there cameras around?\nVideo evidence would lock this up for me.	ตอนที่คุณเจอฮามุระ มีกล้องแถวนั้นมั้ย?\nหลักฐานวิดีโอจะช่วยปิดเรื่อง นี้ให้ผมได้เลย
+P0103-0794	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Right. Well, thanks anyway.\nI'll be in touch.	เข้าใจแล้ว ยังไงก็ขอบคุณนะ\nเดี๋ยวผมติดต่อไปอีกที
+P0103-0795	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Right... Thanks anyway.\nI'll be in touch.	เข้าใจแล้ว...ขอบคุณนะครับ\nเดี๋ยวผมติดต่อไปอีกที
+P0103-0796	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(So, it went down in front of\nKyushu No. 1 Star.)</color>	<color=ｍonologue>(งั้นเหตุการณ์เกิดขึ้นหน้า\nคิวชูนัมเบอร์วันสตาร์ สินะ)</color>
+P0103-0797	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(That's the best lead I've got right now.\nLet's hope they have a camera...)</color>	<color=ｍonologue>(นั่นคือเบาะแสที่ดีที่สุดที่ผม มีตอนนี้\nหวังว่าที่นั่นจะมีกล้องนะ...)</color>
+P0103-0798	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Yo, it's me.\nYou find Ayabe yet?	เฮ้ ฉันเอง\nเจออายาเบะรึยัง?
+P0103-0799	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Yo, it's Kaito.\nYou find Ayabe yet?	เฮ้ ไคโตะเองนะ\nเจออายาเบะรึยัง?
+P0103-0800	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Yeah? Is it good news?	อ้อเหรอ? เป็นข่าวดีมั้ย?
+P0103-0801	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Huh? For what?	หา? ข่าวดีเรื่องอะไร?
+P0103-0802	พากย์ · speech_list_judge_main_c01	Kaito (ช)		You're kidding me.	พูดเล่นน่า
+P0103-0803	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Hold up, Isn't that near KJ Art?\nThose Kyorei guys won't be happy to see you.	เดี๋ยวก่อน นั่นมันใกล้ KJ Art ไม่ใช่เหรอ?\nพวกตระกูลเคียวเรอิคงไม่ปลื้ม ที่เห็นนายไปโผล่แถวนั้นหรอก
+P0103-0804	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Hey... Isn't that near the KJ Art building?\nThose Kyorei guys won't be happy to see you.	เฮ้ย...นั่นมันใกล้ตึก KJ Art ไม่ใช่เหรอ?\nพวกตระกูลเคียวเรอิคงไม่ปลื้ม ที่เห็นนายไปโผล่แถวนั้นหรอก
+P0103-0805	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Heh, fair enough.\nLater.	เฮอะ ก็ว่างั้นเถอะ\nแล้วเจอกัน
+P0103-0806	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Negative. But I did track down someone\nwho had a run-in with Hamura.	ยังไม่เจอ แต่ผมตามหาคนที่เคย\nเจอกับฮามุระได้แล้ว
+P0103-0807	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Negative. But I did track down a host\nwho had a run-in with Hamura.	ยังไม่เจอ แต่ผมตามหาโฮสต์คนหนึ่งที่เคย\nเจอกับฮามุระได้แล้ว
+P0103-0808	พากย์ · speech_list_judge_main_c01	Yagami (ช)		His alibi might be more\nairtight than we thought.	พยานที่อยู่ของเขาอาจจะแน่นหนา\nกว่าที่เราคิดไว้
+P0103-0809	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Hamura's alibi might be more\nairtight than we thought.	พยานที่อยู่ของฮามุระอาจจะแน่นหนา\nกว่าที่เราคิดไว้
+P0103-0810	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Just around midnight on the day of the crime, this guy\nSeiya got hit by Hamura, then saw him go to the sauna.	ประมาณเที่ยงคืนในวันเกิดเหตุ ไอ้เซยะคนนี้\nโดนฮามุระตี แล้วก็เห็นเขาเดินเข้าไปในซาวน่า
+P0103-0811	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Just around midnight on the day of the crime,\nthis host Seiya got hit by Hamura, then saw him go to the sauna.	ประมาณเที่ยงคืนในวันเกิดเหตุ\nโฮสต์ชื่อเซยะโดนฮามุระตี แล้วก็เห็นเขาเดินเข้าไปในซาวน่า
+P0103-0812	พากย์ · speech_list_judge_main_c01	Yagami (ช)		It was apparently right by Kyushu No. 1 Star.\nIf they have a security camera, it would've caught everything.	ดูเหมือนจะเกิดขึ้นตรงหน้า คิวชูนัมเบอร์วันสตาร์\nถ้าที่นั่นมีกล้องวงจรปิด มันต้องจับภาพไว้ได้หมดแน่
+P0103-0813	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	It was apparently right by Kyushu No. 1 Star.\nIf they have a security camera... it would've caught everything.	ดูเหมือนจะเกิดขึ้นตรงหน้า คิวชูนัมเบอร์วันสตาร์\nถ้าที่นั่นมีกล้องวงจรปิดนะ...มันต้องจับภาพไว้ได้หมดแน่
+P0103-0814	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm heading to check it out now.	ผมกำลังจะไปดูตอนนี้เลย
+P0103-0815	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'm heading over now.	ผมกำลังไปตอนนี้เลย
+P0103-0816	พากย์ · speech_list_judge_main_c01	Yagami (ช)		If I was worried about getting seen,\nI'd never leave the office.	ถ้าผมกลัวว่าจะมีคนเห็น\nผมคงไม่ออกจากออฟฟิศเลยล่ะ
+P0103-0817	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(This is where Seiya got hit.\nA security camera would have caught something...)</color>	<color=ｍonologue>(ที่นี่แหละที่เซยะโดนตี\nกล้องวงจรปิดน่าจะจับภาพอะไรไว้ ได้บ้าง...)</color>
+P0103-0818	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(So there <font_kind=yakuza_italic>is</font_kind> a camera!)</color>	<color=ｍonologue>(งั้นก็<font_kind=yakuza_italic>มี</font_kind>กล้องจริง ๆ ด้วย!)</color>
+P0103-0819	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Let's hope Hamura's on there...)</color>	<color=ｍonologue>(หวังว่าจะมีภาพของฮามุระติดอยู่ ในนั้นนะ...)</color>
+P0103-0820	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(This... has nothing to do with the case.)</color>	<color=ｍonologue>(นี่...ไม่เกี่ยวอะไรกับคดีเลย)</color>
+P0103-0821	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(I've dealt with enough of these things for today.)</color>	<color=ｍonologue>(วันนี้ผมเจอเรื่องแบบนี้มาพอแล้ว)</color>
+P0103-0822	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(The place is dingy, but damn if it isn't good.)</color>	<color=ｍonologue>(ร้านมันดูซอมซ่อไปหน่อย แต่ต้องยอมรับว่าอร่อยเป็นบ้า)</color>
+P0103-0823	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(Their ramen is a Kamurocho classic.)</color>	<color=ｍonologue>(ราเมงร้านนี้คือของขึ้นชื่อของ คามุโรโจเลย)</color>
+P0103-0824	พากย์ · speech_list_judge_main_c01	Yagami (ช)		<color=ｍonologue>(According to Seiya, Hamura punched him\nnear Kyushu No. 1 Star.)</color>	<color=ｍonologue>(ตามที่เซยะบอก ฮามุระต่อยเขา\nใกล้ ๆ คิวชูนัมเบอร์วันสตาร์)</color>
+P0103-0825	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Please tell me you found\nsomething. You did, right?	บอกทีว่านายเจอ\nอะไรบ้าง เจอใช่มั้ย?
+P0103-0826	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Please tell me you found\nsomething, Tak.	บอกทีว่านายเจอ\nอะไรบ้าง ทาคุ
+P0103-0827	พากย์ · speech_list_judge_main_c01	Yagami (ช)		And if it doesn't?	แล้วถ้ามันไม่มีล่ะ?
+P0103-0828	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	And if it didn't?	แล้วถ้ามันไม่ได้ผลล่ะ?
+P0103-0829	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Well, camera.\nYou got good news for us or what?	เป็นไงบ้าง เจ้ากล้อง\nมีข่าวดีมาฝากพวกเราไหม?
+P0103-0830	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Heh. Well, it must've caught <font_kind=yakuza_italic>something</font_kind>.\nGuess we'll see.	ฮึ อย่างน้อยมันก็ต้องอัด<font_kind=yakuza_italic>อะไรบางอย่าง</font_kind> ไว้ได้บ้างแหละ\nเดี๋ยวก็รู้
+P0103-0831	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Think I did.\nCheck out that camera.	คิดว่าเจอนะ\nดูกล้องตัวนั้นสิ
+P0103-0832	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Think I did.\nLook, there's a camera.	คิดว่าเจอนะ\nดูสิ มีกล้องอยู่ด้วย
+P0103-0833	พากย์ · speech_list_judge_main_c01	Kaito (ช)		We're in the clear if that thing\nputs Hamura here at midnight.	ถ้าเจ้านั่นยืนยันได้ว่าฮามุระ อยู่ที่นี่\nตอนเที่ยงคืน เราก็รอดตัวแล้ว
+P0103-0834	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	If that captured Hamura's fight with the host,\nhis alibi's solid. We're in the clear.	ถ้ามันจับภาพตอนฮามุระต่อยกับ โฮสต์คนนั้นได้\nพยานที่อยู่ของเขาก็แน่นหนา เราก็รอดตัวแล้ว
+P0103-0835	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Let's... Let's try and stay optimistic.	อย่า... อย่าเพิ่งคิดลบไปก่อนเลย
+P0103-0836	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Well, if it didn't...\nLet's not think about that.	ก็... ถ้ามันไม่ได้ผล...\nอย่าเพิ่งคิดถึงมันเลยดีกว่า
+P0103-0837	พากย์ · speech_list_judge_main_c01	Saori (ญ)	[ใช้ร่วม] [ต้องกลางเพศ]	Go on.	ว่ามาเลย
+P0103-0838	พากย์ · speech_list_judge_main_c01	Saori (ญ)	[อีกแทร็ก]	A call?	โทรศัพท์เหรอ?
+P0103-0839	พากย์ · speech_list_judge_main_c01	Seiya (ช)		I... I can't do it. I'm so sorry.	ผม... ผมทำไม่ได้ครับ ขอโทษจริง ๆ
+P0103-0840	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	I... I can't do it.\nI'm so sorry.	ผม... ผมทำไม่ได้\nขอโทษจริง ๆ ครับ
+P0103-0841	พากย์ · speech_list_judge_main_c01	Seiya (ช)		I... got a phone call earlier.	ผม... มีโทรศัพท์เข้ามาเมื่อครู่นี้ครับ
+P0103-0842	พากย์ · speech_list_judge_main_c01	Seiya (ช)		It said it was from my sister...\nBut there was a strange man on the line.	บอกว่าโทรมาจากน้องสาวผม...\nแต่พอรับสาย กลับเป็นเสียงผู้ชายแปลกหน้า
+P0103-0843	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	It said it was from my sister...\nbut when I picked up, it was a man's voice.	บอกว่าโทรมาจากน้องสาวผม...\nแต่พอผมรับสาย กลับเป็นเสียงผู้ชาย
+P0103-0844	พากย์ · speech_list_judge_main_c01	Seiya (ช)		He said his name was Murase.\nTold me you'd know him, Yagami-san.	เขาบอกว่าชื่อมุราเสะ\nบอกว่ายากามิซังรู้จักเขาดี
+P0103-0845	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	He said he was Murase of the Kyorei Clan.\nTold me you'd know him, Yagami-san.	เขาบอกว่าเป็นมุราเสะแห่ง ตระกูลเคียวเรอิ\nบอกว่ายากามิซังรู้จักเขาดี
+P0103-0846	พากย์ · speech_list_judge_main_c01	Seiya (ช)		Yes. He said if I did...\nIf I did... I'd never see my sister again.	ใช่ครับ เขาบอกว่าถ้าผมทำ...\nถ้าผมทำ... ผมจะไม่ได้เจอน้องสาวอีกเลย
+P0103-0847	พากย์ · speech_list_judge_main_c01	Seiya (ช)	[อีกแทร็ก]	Yes. He said if I did...\nIf I did... I'd never see my sister again...	ใช่ครับ เขาบอกว่าถ้าผมทำ...\nถ้าผมทำ... ผมจะไม่ได้เจอน้องสาวอีกเลย...
+P0103-0848	พากย์ · speech_list_judge_main_c01	Shintani (ช)		But why!? You were all ready to go this morning!	ทำไมล่ะ!? เมื่อเช้ายังพร้อมลุยอยู่เลย!
+P0103-0849	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	But why not!?\nYou were all ready to go this morning!	ทำไมถึงไม่ทำล่ะ!?\nเมื่อเช้ายังพร้อมลุยอยู่เลย!
+P0103-0850	พากย์ · speech_list_judge_main_c01	Shintani (ช)		What are you doing, Yagami?\nCalling the police?	จะทำอะไรน่ะ ยากามิ?\nจะโทรแจ้งตำรวจเหรอ?
+P0103-0851	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Hey, what are you doing, Yagami?\nCalling the police?	เฮ้ จะทำอะไรน่ะ ยากามิ?\nจะโทรแจ้งตำรวจเหรอ?
+P0103-0852	พากย์ · speech_list_judge_main_c01	Shintani (ช)		The hell are you doing?\nWe're in the middle of a trial here!	จะทำบ้าอะไรของนาย?\nตอนนี้เรากำลังไต่สวนคดีอยู่นะ!
+P0103-0853	พากย์ · speech_list_judge_main_c01	Shintani (ช)		Buy time he says...\nHe knows this is a court, right!?	ถ่วงเวลาเขาว่างั้น...\nรู้ใช่ไหมว่านี่มันศาล!?
+P0103-0854	พากย์ · speech_list_judge_main_c01	Shintani (ช)	[อีกแทร็ก]	Like I can just "buy time"...\nWhat now?	จะให้ผม "ถ่วงเวลา" ง่าย ๆ แค่นั้นเองเหรอ...\nเอาไงต่อดีล่ะเนี่ย
+P0103-0855	พากย์ · speech_list_judge_main_c01	Yagami (ช)		What happened in there?	เกิดอะไรขึ้นข้างในนั่น?
+P0103-0856	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	What happened in there, Seiya?	เกิดอะไรขึ้นข้างในนั่น เซยะ?
+P0103-0857	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Murase...\nAnd he told you not to testify?	มุราเสะ...\nแล้วเขาสั่งไม่ให้คุณเบิกความงั้นเหรอ?
+P0103-0858	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	And Murase...\nHe told you not to testify?	แล้วมุราเสะ...\nเขาสั่งไม่ให้คุณเบิกความเหรอ?
+P0103-0859	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Kaito-san. It's me.\nThose KJ Art guys took Seiya's sister.	ไคโตะซัง นี่ผมเอง\nพวก KJ Art จับตัวน้องสาวเซยะไป
+P0103-0860	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Kaito-san. It's Yagami.\nWe're paying the Kyorei a visit at KJ Art.	ไคโตะซัง นี่ยากามิ\nเราจะไปเยี่ยมพวกเคียวเรอิที่ KJ Art กัน
+P0103-0861	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm heading over there now.\nCould use a hand.	ผมกำลังไปที่นั่นตอนนี้\nช่วยมาสักแรงนะ
+P0103-0862	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	They kidnapped our witness's sister.\nCould use a hand.	พวกมันลักพาตัวน้องสาวพยานเราไป\nช่วยมาสักแรงนะ
+P0103-0863	พากย์ · speech_list_judge_main_c01	Yagami (ช)		A trial doesn't mean shit\nif you can't protect your witness!	จะไต่สวนไปทำไม\nถ้าปกป้องพยานตัวเองไม่ได้!
+P0103-0864	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	A trial doesn't mean shit if you\ncan't protect your witness!	จะไต่สวนไปก็ไม่มีความหมาย ถ้า\nนายปกป้องพยานตัวเองไม่ได้!
+P0103-0865	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Buy me as much time as you can.\nI'll get Seiya's sister back.	ถ่วงเวลาให้ผมนานที่สุดเท่าที่จะทำได้\nผมจะไปพาน้องสาวเซยะกลับมาเอง
+P0103-0866	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Buy me as much time as you can.\nI'll get Seiya's sister back, no matter what.	ถ่วงเวลาให้ผมนานที่สุดเท่าที่จะทำได้\nไม่ว่าจะยังไง ผมจะพาน้องสาวเซยะกลับมาให้ได้
+P0103-0867	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm the one who dragged you into this.\nI'll be the one to drag you out. Promise.	ผมเป็นคนลากคุณเข้ามาในเรื่องนี้\nผมก็จะเป็นคนพาคุณออกไปเอง สัญญา
+P0103-0868	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I'm the one who dragged you into this.\nI'll be the one to drag you and your sister out. Promise.	ผมเป็นคนลากคุณเข้ามาในเรื่องนี้\nผมจะพาคุณกับน้องสาวออกไปเอง สัญญา
+P0103-0869	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(The Kyorei have Seiya's sister at KJ Art.\nI need to hurry.)	(พวกเคียวเรอิจับตัวน้องสาวเซยะไว้ที่ KJ Art\nผมต้องรีบไปแล้ว)
+P0103-0870	พากย์ · speech_list_judge_main_c01	Yagami (ช)		(No time for detours.\nI need to save Seiya's sister before the recess ends!)	(ไม่มีเวลาให้อ้อมค้อมแล้ว\nผมต้องช่วยน้องสาวเซยะให้ได้ ก่อนหมดเวลาพัก!)
+P0103-0871	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Yo, it's Kaito. I'm here.\nWhere are you?	เฮ้ นี่ไคโตะ ฉันมาถึงแล้ว\nนายอยู่ไหน?
+P0103-0872	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	It's Kaito. I'm at KJ Art.\nWhere are you?	นี่ไคโตะ ฉันอยู่ที่ KJ Art แล้ว\nนายอยู่ไหน?
+P0103-0873	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Place looks kinda deserted, blinds down and everything.\nAre we sure this is where they've got her?	ที่นี่ดูร้างชอบกล ม่านก็ปิดหมด\nแน่ใจนะว่าเธออยู่ที่นี่?
+P0103-0874	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Place looks kinda deserted, blinds down and everything.\nDunno if anyone's even here. You sure they've got her?	ที่นี่ดูร้างชอบกล ม่านก็ปิดหมด\nไม่รู้ด้วยซ้ำว่ามีใครอยู่รึเปล่า แน่ใจนะว่าพวกมันจับเธอมาไว้ที่นี่?
+P0103-0875	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Plus what?	แล้วก็อะไร?
+P0103-0876	พากย์ · speech_list_judge_main_c01	Kaito (ช)		I guess you've got a point.	ก็นายพูดมีเหตุผลนี่นา
+P0103-0877	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Yeah, true... You got a point there.	ใช่ จริงด้วย... นายพูดมีเหตุผล
+P0103-0878	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Anyways, I'll be up on the roof again.\nSee you soon.	เอาล่ะ ฉันจะขึ้นไปบนดาดฟ้าอีกที\nเดี๋ยวเจอกัน
+P0103-0879	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Anyways, I'll be up on the roof again.\nMeet me where we spied on KJ Art before. See you soon.	เอาล่ะ ฉันจะขึ้นไปบนดาดฟ้าอีกที\nมาเจอกันตรงจุดที่เราเคยสอดแนม KJ Art กันนะ เดี๋ยวเจอกัน
+P0103-0880	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I'm right around the corner.	ผมอยู่แถวนี้เอง เดี๋ยวถึง
+P0103-0881	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	On my way. Almost there.	กำลังไป ใกล้ถึงแล้ว
+P0103-0882	พากย์ · speech_list_judge_main_c01	Yagami (ช)		They're from Kansai, remember?\nThey can't have that many hideouts.	อย่าลืมสิ พวกนี้มาจากคันไซ\nคงไม่มีที่ซ่อนเยอะขนาดนั้นหรอก
+P0103-0883	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	The Kyorei aren't from around here.\nThey can't have that many hideouts.	พวกเคียวเรอิไม่ใช่คนแถวนี้\nคงไม่มีที่ซ่อนเยอะขนาดนั้นหรอก
+P0103-0884	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Plus...	แล้วก็...
+P0103-0885	พากย์ · speech_list_judge_main_c01	Yagami (ช)		I bet there's a reason all the blinds are down.\nIf anything, that makes it more suspicious.	ผมว่าที่ม่านปิดหมดต้องมีเหตุผล\nยิ่งทำให้น่าสงสัยเข้าไปใหญ่
+P0103-0886	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	I bet there's a reason all the blinds are down.\nIf anything, that makes it <font_kind=yakuza_italic>more</font_kind> likely they have her.	ผมว่าที่ม่านปิดหมดต้องมีเหตุผล\nยิ่งทำให้<font_kind=yakuza_italic>น่าจะ</font_kind>เป็นที่นี่มากขึ้นไปอีก
+P0103-0887	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Still can't get eyes on what's in there.\nGot any bright ideas?	ยังมองไม่เห็นข้างในเลย\nมีไอเดียเด็ด ๆ บ้างไหม?
+P0103-0888	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	There you are. Still can't see inside...\nAny ideas?	อ้าว มาแล้วเหรอ ยังมองไม่เห็นข้างในเลย...\nมีไอเดียอะไรไหม?
+P0103-0889	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Then... I guess we gotta sneak in?	งั้น... ก็ต้องแอบเข้าไปสินะ?
+P0103-0890	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Then... I guess we gotta sneak in?\nDo things all stealthy?	งั้น... ก็ต้องแอบเข้าไปสินะ?\nเล่นแบบเนียน ๆ น่ะเหรอ?
+P0103-0891	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Heh, I had a feeling.\nI've got a plan.	ฮึ รู้อยู่แล้วเชียว\nฉันมีแผนอยู่
+P0103-0892	พากย์ · speech_list_judge_main_c01	Kaito (ช)		First, I'll make a big scene out front. Then when\nthey're distracted, you sneak in and get the girl.	ก่อนอื่น ฉันจะไปป่วนหน้าตึกให้เอิกเกริกไปเลย พอ\nพวกมันเผลอ นายก็แอบเข้าไปพาตัวเด็กออกมา
+P0103-0893	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	First, I'll make a big scene out front. Then, when\nthey're distracted, you sneak in and get the girl.	ก่อนอื่น ฉันจะไปป่วนหน้าตึกให้เอิกเกริก แล้วพอ\nพวกมันเผลอ นายก็แอบเข้าไปพาตัวเด็กออกมา
+P0103-0894	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Pretty good, huh?	เจ๋งใช่ไหมล่ะ?
+P0103-0895	พากย์ · speech_list_judge_main_c01	Kaito (ช)		You'll see soon enough. Just remember,\nboth our asses are on the line here.	เดี๋ยวก็รู้เอง แค่อย่าลืมไว้ว่า\nชีวิตเราสองคนแขวนอยู่บนเส้นด้ายนะ
+P0103-0896	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Well, uh... You'll see soon enough.\nJust remember, both our lives are on the line here.	เอ่อ... เดี๋ยวก็รู้เอง\nแค่อย่าลืมไว้ว่าชีวิตเราสองคน แขวนอยู่บนเส้นด้ายนะ
+P0103-0897	พากย์ · speech_list_judge_main_c01	Kaito (ช)		So... the girl's in there, yeah?\nLet's go bring her home.	งั้น... เด็กอยู่ข้างในใช่ไหม?\nไปพาเธอกลับบ้านกัน
+P0103-0898	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	So the girl's in there, yeah?\nLet's go bring her home.	เด็กอยู่ข้างในใช่ไหม?\nไปพาเธอกลับบ้านกัน
+P0103-0899	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Well we can't just barge in.\nWho knows how many of them are in there.	จะบุกเข้าไปดื้อ ๆ ก็คงไม่ได้\nไม่รู้ว่าข้างในมีมันกี่คน
+P0103-0900	พากย์ · speech_list_judge_main_c01	Yagami (ช)		No way I'm getting away\nwith a disguise now, either.	จะปลอมตัวเข้าไปตอนนี้\nก็คงไม่รอดเหมือนกัน
+P0103-0901	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	No way I'm getting away with\na disguise now, either.	จะปลอมตัวเข้าไปตอนนี้ก็\nคงไม่รอดเหมือนกัน
+P0103-0902	พากย์ · speech_list_judge_main_c01	Yagami (ช)		That's the only way.	ก็มีทางเดียวนั่นแหละ
+P0103-0903	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Yeah. That's the only way.	ใช่ มีทางเดียวนั่นแหละ
+P0103-0904	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Yeah, lay it on me.	เอาสิ ว่ามาเลย
+P0103-0905	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Oh? Lay it on me.	โอ้? งั้นว่ามาเลย
+P0103-0906	พากย์ · speech_list_judge_main_c01	Yagami (ช)		That's your big plan?	นี่คือแผนเด็ดของนายเหรอ?
+P0103-0907	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	<font_kind=yakuza_italic>That's</font_kind> your plan!?	<font_kind=yakuza_italic>นี่</font_kind>คือแผนของนายเหรอ!?
+P0103-0908	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Uh. Sure.\nHow you gonna do it?	อ่อ... ก็ได้\nแล้วนายจะทำยังไง?
+P0103-0909	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Uh, sure.\nBut how are you gonna distract them?	อ่อ ก็ได้\nแต่นายจะล่อพวกมันยังไง?
+P0103-0910	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[ใช้ร่วม]	I won't forget.	ไม่ลืมหรอก
+P0103-0911	พากย์ · speech_list_judge_main_c01	Yagami (ช)		Right. I'll go look for a way in.\nLet you know when I find one.	โอเค ผมจะไปหาทางเข้าก่อน\nเจอแล้วจะบอกนาย
+P0103-0912	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Got it. I'll go look for a way in.\nLet you know when I find one.	รับทราบ ผมจะไปหาทางเข้าก่อน\nเจอแล้วจะบอกนาย
+P0103-0913	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Hey! Where's that asshole Murase!?\nName's Kaito! Ex-Matsugane!	เฮ้ย! ไอ้มุราเสะมันอยู่ไหนวะ!?\nกูชื่อไคโตะ! อดีตมัตสึกาเนะ!
+P0103-0914	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Hey, where's that asshole Murase!?\nName's Kaito! Ex-Matsugane!	เฮ้ย ไอ้มุราเสะมันอยู่ไหนวะ!?\nกูชื่อไคโตะ! อดีตมัตสึกาเนะ!
+P0103-0915	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Bring him out,\nor I'll burn this shit down!	เรียกมันออกมา\nไม่งั้นกูจะเผาที่นี่ทิ้งซะเลย!
+P0103-0916	พากย์ · speech_list_judge_main_c01	Kaito (ช)	[อีกแทร็ก]	Get fuckin' Murase out here or I'll\nburn this goddamn building down!	เรียกไอ้มุราเสะออกมาซะดี ๆ ไม่งั้นกูจะ\nเผาตึกบ้านี่ทิ้งซะให้หมด!
+P0103-0917	พากย์ · speech_list_judge_main_c01	Kaito (ช)		Go, Tak!\nThis is your chance!	ไปเลย ทาคุ!\nนี่แหละโอกาสของนาย!
+P0103-0918	พากย์ · speech_list_judge_main_c01	kyorei thug (unnamed) (ช)		Who the fuck are you!?\nI said I wanted Murase!	มึงเป็นใครวะ!?\nกูบอกแล้วว่ากูอยากได้ตัวมุราเสะ!
+P0103-0919	พากย์ · speech_list_judge_main_c01	kyorei thug (unnamed) (ช)	[อีกแทร็ก]	Who the hell are you?\nI thought I said I want Murase.	มึงเป็นใครวะ?\nกูว่ากูบอกไปแล้วนะว่าอยาก ได้ตัวมุราเสะ
+P0103-0920	พากย์ · speech_list_judge_main_c01	kyorei thug (unnamed) (ช)		You fuckin' scrubs ain't worth\nmy time. Get Murase!	พวกกากเบี้ยแบบมึงไม่คุ้มเสียเวลากู\nหรอก ไปเรียกมุราเสะมา!
+P0103-0921	พากย์ · speech_list_judge_main_c01	kyorei thug (unnamed) (ช)	[อีกแทร็ก]	I'm not here for the scrubs!\nBring that asshole out!	กูไม่ได้มาเสียเวลากับพวกกาก เบี้ยแบบมึงหรอก!\nเรียกไอ้นั่นออกมา!
+P0103-0922	พากย์ · speech_list_judge_main_c01	Shibume (ช)		What the fuck!?	อะไรวะเนี่ย!?
+P0103-0923	พากย์ · speech_list_judge_main_c01	Shibume (ช)	[อีกแทร็ก]	The hell was that?	นั่นมันอะไรวะ?
+P0103-0924	พากย์ · speech_list_judge_main_c01	Shibume (ช)		Oh yeah!? Go on, I dare you!\nJust stay right there, punk!	อ้อเหรอ!? เอาสิ กล้าก็ลองดู!\nอยู่ตรงนั้นแหละไอ้หนู!
+P0103-0925	พากย์ · speech_list_judge_main_c01	Shibume (ช)	[อีกแทร็ก]	Oh, just fuckin' try it!\nYou stay right there, punk!	เอาสิวะ ลองดูสิ!\nอยู่ตรงนั้นแหละไอ้หนู!
+P0103-0926	พากย์ · speech_list_judge_main_c01	kyorei thug (unnamed) (ช)		You really stuck around?\nYou shoulda bailed when you had the chance!	มึงยังอยู่แถวนี้อีกเหรอ?\nน่าจะหนีไปตอนที่ยังมีโอกาส!
+P0103-0927	พากย์ · speech_list_judge_main_c01	kyorei thug (unnamed) (ช)	[อีกแทร็ก]	You got some serious guts stickin' around!\nI thought you'd be halfway 'cross town by now!	มึงกล้าจริงนะที่ยังไม่หนีไปไหน!\nนึกว่าป่านนี้มึงจะวิ่งไปครึ่ง เมืองแล้วซะอีก!
+P0103-0928	พากย์ · speech_list_judge_main_c01	kyorei thug (unnamed) (ช)		You're pretty fucked now... Dumbass!	คราวนี้มึงซวยแน่ ๆ... ไอ้โง่!
+P0103-0929	พากย์ · speech_list_judge_main_c01	kyorei thug (unnamed) (ช)	[อีกแทร็ก]	Get ready to die, fuckhead!	เตรียมตายซะเถอะ ไอ้สัส!
+P0103-0930	พากย์ · speech_list_judge_main_c01	Yagami (ช)		On it. Don't die, okay?	รับทราบ อย่าตายล่ะ โอเคนะ?
+P0103-0931	พากย์ · speech_list_judge_main_c01	Yagami (ช)	[อีกแทร็ก]	Right.\nDon't die on me, Kaito-san.	รับทราบ\nอย่าตายไปซะก่อนล่ะ ไคโตะซัง
+P0103-0932	พากย์ · speech_list_judge_main_c01	Tsuyome (ช)		Yagami?\nWhen the hell did you get here?	ยากามิ?\nมาถึงตั้งแต่เมื่อไหร่วะ?
+P0103-0933	พากย์ · speech_list_judge_main_c01	Tsuyome (ช)	[อีกแทร็ก]	Yagami? When the hell did you—	ยากามิ? มาตั้งแต่เมื่อไหร่—
+P0103-0934	พากย์ · speech_list_judge_main_c01	Wakame (ช)		Shut your trap!	หุบปากไปเลย!
+P0103-0935	พากย์ · speech_list_judge_main_c01	Wakame (ช)		Whaddya mean, let her go?	หมายความว่าไง ให้ปล่อยเธอไป?
+P0103-0936	พากย์ · speech_list_judge_main_c01	Wakame (ช)	[อีกแทร็ก]	Let her go? What do you mean?	ปล่อยเธอไปเหรอ? หมายความว่าไง?
+P0103-0937	พากย์ · speech_list_judge_main_c01	Wakame (ช)		The girl can leave whenever she wants.\nWe don't have her tied up or nothing.	เด็กคนนี้จะไปตอนไหนก็ได้ที่อยากไป\nฉันไม่ได้มัดตัวเธอไว้สักหน่อย
+P0103-0938	พากย์ · speech_list_judge_main_c01	Wakame (ช)		Guess she'll have to take a little dip in\nan acid bath, then. No body, no crime.	งั้นก็ต้องให้เธอไปแช่บ่อกรด\nสักหน่อยแล้วล่ะ ไม่มีศพ ก็ไม่มีคดี
