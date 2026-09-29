@@ -528,10 +528,10 @@
   },
   "101": {
    "speaker": "Kim",
-   "gender": "unknown",
+   "gender": "male",
    "conf": "med",
    "why": "แทร็กอื่น เพศตามป้าย (ช) บรรทัดคู่",
-   "source": "register/speakers_01.part3.json"
+   "source": "register/speakers_01.part3.json · gender: lead 29 ก.ย. 2026 (polish ch01)"
   },
   "102": {
    "speaker": "Yagami",
@@ -2179,25 +2179,25 @@
    "source": "register/speakers_02.part1.json"
   },
   "403": {
-   "speaker": "Yagami",
+   "speaker": "shintani",
    "gender": "male",
-   "conf": "med",
-   "why": "อีกแทร็กของ 0173",
-   "source": "register/speakers_02.part1.json"
+   "conf": "high",
+   "why": "คำสั่งงานทางโทรศัพท์ต่อจาก 'Yagami. Head over to Sauna Goten' (กลุ่มเสียง 365 เดียวกัน) · ทีมเกลาเสนอ",
+   "source": "lead 29 ก.ย. 2026 (polish ch01)"
   },
   "405": {
-   "speaker": "Yagami",
+   "speaker": "shintani",
    "gender": "male",
-   "conf": "med",
-   "why": "ถ้าพิสูจน์ได้ไม่ต้องขึ้นศาล",
-   "source": "register/speakers_02.part1.json"
+   "conf": "high",
+   "why": "คำสั่งงานทางโทรศัพท์ต่อจาก 'Yagami. Head over to Sauna Goten' (กลุ่มเสียง 365 เดียวกัน) · ทีมเกลาเสนอ",
+   "source": "lead 29 ก.ย. 2026 (polish ch01)"
   },
   "406": {
-   "speaker": "Yagami",
+   "speaker": "shintani",
    "gender": "male",
-   "conf": "med",
-   "why": "อีกแทร็กของ 0176",
-   "source": "register/speakers_02.part1.json"
+   "conf": "high",
+   "why": "คำสั่งงานทางโทรศัพท์ต่อจาก 'Yagami. Head over to Sauna Goten' (กลุ่มเสียง 365 เดียวกัน) · ทีมเกลาเสนอ",
+   "source": "lead 29 ก.ย. 2026 (polish ch01)"
   },
   "410": {
    "speaker": "Yagami",
@@ -5497,11 +5497,11 @@
    "source": "register/speakers_02.part6.json"
   },
   "984": {
-   "speaker": "Yagami",
+   "speaker": "kaito",
    "gender": "male",
-   "conf": "med",
-   "why": "ถ้าบอกไปคงต้องฆ่านายทิ้ง (เล่นมุขต่อ)",
-   "source": "register/speakers_02.part6.json"
+   "conf": "high",
+   "why": "'where'd you bury Tak's body' — เรียกยากามิว่า Tak = ไคโตะ",
+   "source": "lead 29 ก.ย. 2026 (polish ch01)"
   },
   "985": {
    "speaker": "Yagami",
@@ -5511,11 +5511,11 @@
    "source": "register/speakers_02.part6.json"
   },
   "986": {
-   "speaker": "Kaito",
+   "speaker": "yagami",
    "gender": "male",
-   "conf": "med",
-   "why": "ได้เลย ลุยกันเลยเว้ย",
-   "source": "register/speakers_02.part6.json"
+   "conf": "high",
+   "why": "แทนตัว ผม + อีกแทร็กเรียก Kaito-san (ผู้อ่านทั้งสองคนตรงกัน)",
+   "source": "lead 29 ก.ย. 2026 (polish ch01)"
   },
   "987": {
    "speaker": "Kaito",
@@ -5883,17 +5883,17 @@
   },
   "1051": {
    "speaker": "kjart_woman",
-   "gender": "male",
+   "gender": "female",
    "conf": "med",
-   "why": "อีกแทร็กของ 1173",
-   "source": "register/speakers_02.part6.json"
+   "why": "อีกแทร็กของ 1173 · หญิง: ยากามิคิด 'convince her' + ชื่อแท็ก woman (ค่า sex=1 ในไฟล์โมเดลขัด)",
+   "source": "register/speakers_02.part6.json · gender: lead 29 ก.ย. 2026 (polish ch01)"
   },
   "1052": {
    "speaker": "kjart_woman",
-   "gender": "male",
+   "gender": "female",
    "conf": "med",
-   "why": "อีกแทร็กของ 1175",
-   "source": "register/speakers_02.part6.json"
+   "why": "อีกแทร็กของ 1175 · หญิง: ยากามิคิด 'convince her' + ชื่อแท็ก woman (ค่า sex=1 ในไฟล์โมเดลขัด)",
+   "source": "register/speakers_02.part6.json · gender: lead 29 ก.ย. 2026 (polish ch01)"
   },
   "1053": {
    "speaker": "Yagami",
@@ -5904,10 +5904,10 @@
   },
   "1054": {
    "speaker": "kjart_woman",
-   "gender": "male",
+   "gender": "female",
    "conf": "med",
-   "why": "อีกแทร็กของ 1179",
-   "source": "register/speakers_02.part6.json"
+   "why": "อีกแทร็กของ 1179 · หญิง: ยากามิคิด 'convince her' + ชื่อแท็ก woman (ค่า sex=1 ในไฟล์โมเดลขัด)",
+   "source": "register/speakers_02.part6.json · gender: lead 29 ก.ย. 2026 (polish ch01)"
   },
   "1055": {
    "speaker": "Yagami",
@@ -5918,10 +5918,10 @@
   },
   "1056": {
    "speaker": "kjart_woman",
-   "gender": "male",
+   "gender": "female",
    "conf": "med",
-   "why": "อีกแทร็กของ 1183",
-   "source": "register/speakers_02.part6.json"
+   "why": "อีกแทร็กของ 1183 · หญิง: ยากามิคิด 'convince her' + ชื่อแท็ก woman (ค่า sex=1 ในไฟล์โมเดลขัด)",
+   "source": "register/speakers_02.part6.json · gender: lead 29 ก.ย. 2026 (polish ch01)"
   },
   "1057": {
    "speaker": "Yagami",
@@ -9333,18 +9333,18 @@
    "source": "register/speakers_03.part2.json"
   },
   "1637": {
-   "speaker": "yagami",
-   "gender": "male",
-   "conf": "high",
-   "why": "ชี้ว่าหนีไม่พ้น",
-   "source": "register/speakers_03.part2.json"
-  },
-  "1638": {
    "speaker": "kyorei thug (unnamed)",
    "gender": "male",
    "conf": "high",
-   "why": "สั่งให้หุบปาก",
-   "source": "register/speakers_03.part2.json"
+   "why": "คำขู่ 'No chance you leave here alive' · sound_auth คอลัมน์ 1 = กลุ่ม 1627 เดียวกับบรรทัดลูกน้อง",
+   "source": "lead 29 ก.ย. 2026 (polish ch01)"
+  },
+  "1638": {
+   "speaker": "yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "'Shut it.' · sound_auth คอลัมน์ 1 = กลุ่ม 1628 เดียวกับบรรทัดยากามิ",
+   "source": "lead 29 ก.ย. 2026 (polish ch01)"
   },
   "1639": {
    "speaker": "yagami",
@@ -9982,6 +9982,139 @@
    "conf": "high",
    "why": "ชี้ว่าคนนั้นคืออัยการเอง",
    "source": "register/speakers_03.part2.json"
+  },
+  "112": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องกับ 0911 ที่ผู้พูดเรียกตัวเองว่า Kenta Kasai แห่งแก๊งเคฮิน คุยกับคิมซัง",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "114": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องกับ 0911 ที่ผู้พูดเรียกตัวเองว่า Kenta Kasai แห่งแก๊งเคฮิน คุยกับคิมซัง",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "115": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องกับ 0911 ที่ผู้พูดเรียกตัวเองว่า Kenta Kasai แห่งแก๊งเคฮิน คุยกับคิมซัง",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "116": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องกับ 0911 ที่ผู้พูดเรียกตัวเองว่า Kenta Kasai แห่งแก๊งเคฮิน คุยกับคิมซัง",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "119": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องกับ 0911 ที่ผู้พูดเรียกตัวเองว่า Kenta Kasai แห่งแก๊งเคฮิน คุยกับคิมซัง",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "122": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องกับ 0911 ที่ผู้พูดเรียกตัวเองว่า Kenta Kasai แห่งแก๊งเคฮิน คุยกับคิมซัง",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "125": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องกับ 0911 ที่ผู้พูดเรียกตัวเองว่า Kenta Kasai แห่งแก๊งเคฮิน คุยกับคิมซัง",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "126": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้พูดเอ่ยชื่อตัวเองว่า Kenta Kasai of the Keihin Gang",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "127": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้พูดเอ่ยชื่อตัวเองว่า Kenta Kasai of the Keihin Gang",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "131": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจากคาไซที่ถูกยากามิสยบ ขู่ว่าจะเสียใจที่ไปยุ่งกับแก๊งเคฮิน",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "132": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจากคาไซที่ถูกยากามิสยบ ขู่ว่าจะเสียใจที่ไปยุ่งกับแก๊งเคฮิน",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "135": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจากคาไซที่ถูกยากามิสยบ ขู่ว่าจะเสียใจที่ไปยุ่งกับแก๊งเคฮิน",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "155": {
+   "speaker": "Kogara",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากคำพูด Hold on there, pal ของโคการะ เรื่องโดรายากิกล่องสุดท้าย",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "157": {
+   "speaker": "Kogara",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากคำพูด Hold on there, pal ของโคการะ เรื่องโดรายากิกล่องสุดท้าย",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "158": {
+   "speaker": "Kogara",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อเนื่องจากคำพูด Hold on there, pal ของโคการะ เรื่องโดรายากิกล่องสุดท้าย",
+   "source": "polish/ch01/speakers_01.json"
+  },
+  "682": {
+   "speaker": "Aragaki",
+   "gender": "male",
+   "conf": "high",
+   "why": "เป็นอีกแทร็กของบรรทัดก่อนหน้า (0662 Aragaki 'Pretty much.') ผู้พูดคนเดียวกัน",
+   "source": "polish/ch01/speakers_52.json"
+  },
+  "1447": {
+   "speaker": "seiya_girl",
+   "gender": "female",
+   "conf": "high",
+   "why": "รอเซยะ คู่เดตในฉากเดียวกับ 0632-0640 ที่เป็นหญิง",
+   "source": "polish/ch01/speakers_53.json"
+  },
+  "1016": {
+   "speaker": "sp01_kjart_woman",
+   "gender": "female",
+   "conf": "med",
+   "why": "รหัสผู้พากย์ระบุ woman · พนักงานต้อนรับ KJ Art ทักยากามิว่า Sir",
+   "source": "polish/ch01/speakers_54.json"
+  },
+  "1436": {
+   "speaker": "seiya_girl",
+   "gender": "female",
+   "conf": "med",
+   "why": "ฉากผู้หญิงรอเซยะ บรรทัดอื่นของ seiya_girl ในฉากเป็นหญิง (ป้าย ช ผิด)",
+   "source": "polish/ch01/speakers_53.json"
   }
  }
 }

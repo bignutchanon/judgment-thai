@@ -1,0 +1,30 @@
+[
+ {
+  "id": "P0103-0227",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียก Kaito-san (0228) และแทนตัว ผม ยากามิ ไม่ใช่ไคโตะ"
+ },
+ {
+  "id": "P0103-0228",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "แทร็กเดียวกับ 0227 พูดกับ Kaito-san"
+ },
+ {
+  "id": "P0103-0631",
+  "speaker": "seiya_girl",
+  "gender": "female",
+  "conf": "med",
+  "why": "ฉากผู้หญิงรอเซยะ บรรทัดอื่นของ seiya_girl ในฉากเป็นหญิง (ป้าย ช ผิด)"
+ },
+ {
+  "id": "P0103-0641",
+  "speaker": "seiya_girl",
+  "gender": "female",
+  "conf": "high",
+  "why": "รอเซยะ คู่เดตในฉากเดียวกับ 0632-0640 ที่เป็นหญิง"
+ }
+]

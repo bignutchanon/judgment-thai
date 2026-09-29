@@ -1,0 +1,44 @@
+[
+ {
+  "id": "P0103-0199",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกยากามิว่า Tak ในบุรุษที่สาม ต่อจากบรรทัดไคโตะก่อนหน้า"
+ },
+ {
+  "id": "P0103-0200",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าเอาทาคุตัวจริงไปไหน = ไคโตะแซวยากามิ"
+ },
+ {
+  "id": "P0103-0227",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กพูดว่า Kaito-san, you keep watch = ยากามิพูดกับไคโตะ"
+ },
+ {
+  "id": "P0103-0228",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "Kaito-san, you keep watch = ยากามิ"
+ },
+ {
+  "id": "P0103-0446",
+  "speaker": "Hamura",
+  "gender": "male",
+  "conf": "med",
+  "why": "บรรทัดถัดไปยากามิตอบ Shintani-sensei's your lawyer = ตอบลูกความ ฉากเยี่ยมฮามุระ"
+ },
+ {
+  "id": "P0103-0641",
+  "speaker": "seiya_girl",
+  "gender": "female",
+  "conf": "med",
+  "why": "ป้าย ? แต่ EN พูดถึง Seiya-kun ของฉันแบบแฟนสาว = seiya_girl ตัวเดียวกับบรรทัดรอบข้าง"
+ }
+]

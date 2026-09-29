@@ -1,0 +1,16 @@
+[
+ {
+  "id": "P0104-0338",
+  "speaker": "kyorei thug (unnamed)",
+  "gender": "male",
+  "conf": "high",
+  "why": "(lead) sound_auth คอลัมน์ 1 = กลุ่ม 1627 เดียวกับบรรทัดลูกน้อง 1630/1633/1636/1640"
+ },
+ {
+  "id": "P0104-0357",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "(lead) sound_auth คอลัมน์ 1 = กลุ่ม 1628 เดียวกับบรรทัดยากามิ 1631-1641"
+ }
+]

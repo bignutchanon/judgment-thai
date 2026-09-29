@@ -1,0 +1,65 @@
+[
+ {
+  "id": "P0104-0183",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "med",
+  "why": "ป้าย sp01_kjart_woman + ถามนัดแบบพนักงานต้อนรับ ยากามิคิดถึง her ที่แผนกต้อนรับ (0194)"
+ },
+ {
+  "id": "P0104-0184",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "high",
+  "why": "ป้ายชาย ผิด: คือพนักงานต้อนรับที่ยากามิเรียก her ใน 0194"
+ },
+ {
+  "id": "P0104-0185",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "high",
+  "why": "ป้ายชาย ผิด: พนักงานต้อนรับคนเดียวกับ 0184"
+ },
+ {
+  "id": "P0104-0186",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "high",
+  "why": "ป้ายชาย ผิด: พนักงานต้อนรับคนเดียวกับ 0184"
+ },
+ {
+  "id": "P0104-0187",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "high",
+  "why": "ป้ายชาย ผิด: พนักงานต้อนรับคนเดียวกับ 0184"
+ },
+ {
+  "id": "P0104-0188",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "high",
+  "why": "ป้ายชาย ผิด: พนักงานต้อนรับคนเดียวกับ 0184"
+ },
+ {
+  "id": "P0104-0189",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "high",
+  "why": "ป้ายชาย ผิด: พนักงานต้อนรับคนเดียวกับ 0184"
+ },
+ {
+  "id": "P0104-0190",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "high",
+  "why": "ป้ายชาย ผิด: พนักงานต้อนรับคนเดียวกับ 0184"
+ },
+ {
+  "id": "P0104-0191",
+  "speaker": "kjart_woman",
+  "gender": "female",
+  "conf": "high",
+  "why": "ป้ายชาย ผิด: พนักงานต้อนรับคนเดียวกับ 0184"
+ }
+]
