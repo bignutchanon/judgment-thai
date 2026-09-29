@@ -1,0 +1,21 @@
+{
+ "priority": 1,
+ "source_bins": [
+  "talk.bin",
+  "auth.bin",
+  "msg.bin",
+  "save_data_detail.bin",
+  "ui_text.bin",
+  "minigame_batting_center_message.bin"
+ ],
+ "strings": {
+  "I...": "",
+  "I-I...": "",
+  "Score:": "",
+  "Difficulty:": "",
+  "Money:": "",
+  "Chapter:": ""
+ },
+ "ref_tm": {},
+ "note": "ข้อความที่ตกคิวแปลเพราะ extract_all_en.is_translatable เดิมตัดบรรทัดติดอ่างอักษรเดียว (I... / I-I...) และป้ายลงท้าย ':' (แก้ 29 ก.ย. 2026 · find_english_leftovers กอง A) · 'I...' ใช้ร่วมหญิง 4 คน + ยากามิ (a02_020) และ 'I-I...' ใช้ร่วมหญิง/ชาย จึงแปลแบบไม่มีสรรพนาม"
+}

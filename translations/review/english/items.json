@@ -1,29 +1,9 @@
 {
  "missing": {
-  "I...": {
-   "auth.bin": 2,
-   "talk.bin": 3
-  },
-  "Score:": {
-   "minigame_batting_center_message.bin": 2,
-   "ui_text.bin": 2
-  },
   "G.I.": {
    "minigame_chase_mission.bin": 1,
    "minigame_stalking_mission.bin": 1,
    "talk_talker.bin": 1
-  },
-  "Difficulty:": {
-   "msg.bin": 1,
-   "save_data_detail.bin": 1
-  },
-  "Money:": {
-   "msg.bin": 1,
-   "save_data_detail.bin": 1
-  },
-  "Chapter:": {
-   "msg.bin": 1,
-   "save_data_detail.bin": 1
   },
   "Schwierigkeitsgrad:": {
    "save_data_detail.bin": 1
@@ -55,9 +35,6 @@
   "AD-9.": {
    "sound_auth.bin": 2
   },
-  "I-I...": {
-   "talk.bin": 2
-  },
   "K?": {
    "talk.bin": 1
   },
@@ -87,9 +64,6 @@
   }
  },
  "mixed": {
-  "Flight": [
-   "(I need to pick \"Flight\" to fly the drone.)"
-  ],
   "Romance of the Three Kinkdoms": [
    "Hm... There's Romance of the Three Kinkdoms\nover on Pink Street.",
    "So, this is Romance of the Three Kinkdoms?"
@@ -105,9 +79,6 @@
   ],
   "wild": [
    "Their philosophy is that everything has to be \"wild,\" so they make their sandwiches big, bold, and crispy. When it comes to fried chicken, these birds have always been at the top of the pecking order."
-  ],
-  "OFF": [
-   "Change settings for Autosave. \n<color=striking>If OFF is selected, your progress will not be saved automatically. \nPlease be careful.</color>"
   ],
   "Judgment": [
    "<symbol=case_file_head>You've Got A Lot of Mail!\n\n　<symbol=case_file_subhead>Some fun items have been sent to Yagami's office to enhance the Judgment experience.\n　<symbol=case_file_subhead>These can be claimed from the dropbox just outside Yagami's office. Have fun!\n"
@@ -174,9 +145,6 @@
    "Lonely? You just got paid, man. Why don't you go and buy some \"company\"?",
    "...Why would buying a company help? Besides, I don't think I could run one all by myself."
   ],
-  "M Side Cafe": [
-   "Apparently the boss is really going for Kiriko-chan, the girl who works at M Side Cafe."
-  ],
   "Wette": [
    "We'd better stop before this turns into a Wette and Wild showdown..."
   ],
@@ -217,15 +185,6 @@
     "(o A o ;)",
     [
      "pause_message.bin"
-    ]
-   ],
-   [
-    "Earth Angel",
-    [
-     "complete_group.bin",
-     "map_place.bin",
-     "shop.bin",
-     "talk_select_select.bin"
     ]
    ],
    [
@@ -444,14 +403,6 @@
     ]
    ],
    [
-    "M Side Cafe",
-    [
-     "complete_group.bin",
-     "map_place.bin",
-     "shop.bin"
-    ]
-   ],
-   [
     "Dice & Cube d10",
     [
      "complete.bin"
@@ -555,14 +506,6 @@
     "Baby",
     [
      "item.bin"
-    ]
-   ],
-   [
-    "Case File",
-    [
-     "help.bin",
-     "manual.bin",
-     "ui_text.bin"
     ]
    ],
    [

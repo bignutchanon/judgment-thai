@@ -191,7 +191,7 @@
   "Adjust to your speakers' angle for optimal quality.": "ปรับให้ตรงกับมุมลำโพงของคุณ เพื่อคุณภาพเสียงที่ดีที่สุด",
   "Smartphone Settings": "การตั้งค่าสมาร์ทโฟน",
   "Change the settings on your smartphone. If you turn it on, the phone will vibrate instead of ringing.": "เปลี่ยนการตั้งค่าสมาร์ทโฟนของคุณ หากเปิดใช้งาน โทรศัพท์จะสั่นแทนการส่งเสียง เรียกเข้า",
-  "Change settings for Autosave. \n<color=striking>If OFF is selected, your progress will not be saved automatically. \nPlease be careful.</color>": "เปลี่ยนการตั้งค่าการบันทึกอัตโนมัติ\n<color=striking>หากเลือก OFF ความคืบหน้าของคุณจะไม่ถูก บันทึกโดยอัตโนมัติ\nโปรดระมัดระวัง</color>",
+  "Change settings for Autosave. \n<color=striking>If OFF is selected, your progress will not be saved automatically. \nPlease be careful.</color>": "เปลี่ยนการตั้งค่าการบันทึกอัตโนมัติ\n<color=striking>หากเลือก \"ปิด\" ความคืบหน้าของคุณจะไม่ถูก บันทึกโดยอัตโนมัติ\nโปรดระมัดระวัง</color>",
   "Change how to move the drone vertically.\nNormal sets the drone to move in the same direction of the input.\nInverted causes the drone to move in the opposite direction.": "เปลี่ยนวิธีเลื่อนโดรนในแนวตั้ง\nโหมดปกติจะทำให้โดรนเคลื่อนที่ ไปในทิศทางเดียวกับการควบคุม\nโหมดกลับด้านจะทำให้โดรน เคลื่อนที่ไปในทิศทางตรงข้าม",
   "Change how to move the drone horizontally. \nNormal sets the drone to move in the same direction of the input.\nInverted causes the drone to move in the opposite direction.": "เปลี่ยนวิธีเลื่อนโดรนในแนวนอน\nโหมดปกติจะทำให้โดรนเคลื่อนที่ ไปในทิศทางเดียวกับการควบคุม\nโหมดกลับด้านจะทำให้โดรน เคลื่อนที่ไปในทิศทางตรงข้าม",
   "Motion Sensor Function": "ฟังก์ชันเซ็นเซอร์ตรวจจับ การเคลื่อนไหว",

@@ -52,13 +52,19 @@ LETTER_RE = re.compile(r"[A-Za-z]")
 # token ตัวอักษร + เครื่องหมายประโยคเท่านั้น (จุด/ขีด/apostrophe/ellipsis) ไม่มี _ / \ : หรือเลข
 # = คำพูดสั้นในบทสนทนา เช่น 'Yeah.' 'O-Oh.' 'Aniki...' "it's" (แก้บั๊กที่เคยตกหล่น 277 บทพูด)
 DIALOG_TOKEN_RE = re.compile(r"^[A-Za-z.\-'’…]+$")
+# บรรทัดติดอ่างอักษรเดียว เช่น 'I...' 'I-I...' — ตกเกณฑ์ละติน >= 2 จึงขึ้นอังกฤษในเกม (แก้ 29 ก.ย. 2026)
+STUTTER_RE = re.compile(r"^[A-Za-z](?:-[A-Za-z])*(?:\.{3}|…)$")
+# ป้ายคำเดียวลงท้าย ':' เช่น 'Score:' 'Chapter:' (หน้าเซฟ/มินิเกม) — เดิมถูกนับเป็น identifier (แก้ 29 ก.ย. 2026)
+LABEL_RE = re.compile(r"^[A-Za-z]{2,}:$")
 
 
 def is_translatable(s):
     """string นี้ควรเข้าคิวแปลไหม"""
     if not isinstance(s, str):
         return False
-    if len(LETTER_RE.findall(s)) < 2:      # ต้องมีอักษรละติน >= 2 (ตัด %s, ตัวเลข/สัญลักษณ์ล้วน)
+    if STUTTER_RE.fullmatch(s.strip()) or LABEL_RE.fullmatch(s.strip()):
+        return True
+    if len(LETTER_RE.findall(s)) < 2:     # ต้องมีอักษรละติน >= 2 (ตัด %s, ตัวเลข/สัญลักษณ์ล้วน)
         return False
     if any("฀" <= c <= "๿" for c in s):   # ไทยอยู่แล้ว
         return False

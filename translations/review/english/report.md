@@ -4,22 +4,16 @@
 
 | กอง | ความหมาย | จำนวน |
 |---|---|---|
-| A | ตกคิวแปล (ไม่มีใน master → ขึ้นอังกฤษในเกม) | 26 ข้อความ / 40 จุด |
-| B | คำอังกฤษปนในประโยคไทย (หลังหักคำที่ตั้งใจคง) | 30 คำ / 39 บรรทัด |
-| C | คงอังกฤษทั้งบรรทัด | ข้อความบทพูด 24 · ชื่อ/ป้าย 247 · ตั้งใจ (KEEP_EN) 41 |
+| A | ตกคิวแปล (ไม่มีใน master → ขึ้นอังกฤษในเกม) | 20 ข้อความ / 23 จุด |
+| B | คำอังกฤษปนในประโยคไทย (หลังหักคำที่ตั้งใจคง) | 27 คำ / 36 บรรทัด |
+| C | คงอังกฤษทั้งบรรทัด | ข้อความบทพูด 23 · ชื่อ/ป้าย 245 · ตั้งใจ (KEEP_EN) 41 |
 
 ## A. ตกคิวแปล
 
 | EN | bin (จำนวนจุด) |
 |---|---|
-| `I...` | talk.bin (3), auth.bin (2) |
-| `Score:` | minigame_batting_center_message.bin (2), ui_text.bin (2) |
 | `G.I.` | minigame_chase_mission.bin (1), minigame_stalking_mission.bin (1), talk_talker.bin (1) |
-| `Difficulty:` | msg.bin (1), save_data_detail.bin (1) |
-| `Money:` | msg.bin (1), save_data_detail.bin (1) |
-| `Chapter:` | msg.bin (1), save_data_detail.bin (1) |
 | `AD-9.` | sound_auth.bin (2) |
-| `I-I...` | talk.bin (2) |
 | `Schwierigkeitsgrad:` | save_data_detail.bin (1) |
 | `Dificultad:` | save_data_detail.bin (1) |
 | `Geld:` | save_data_detail.bin (1) |
@@ -48,12 +42,10 @@
 | Romance of the Three Kinkdoms | 2 | `Hm... There's Romance of the Three Kinkdoms\nover on Pink Street.` |
 | baggage | 2 | `You probably mixed up "baggage" and "cabbage." But I think it's also called "luggage"?` |
 | company | 2 | `Lonely? You just got paid, man. Why don't you go and buy some "company"?` |
-| Flight | 1 | `(I need to pick "Flight" to fly the drone.)` |
 | Clan Creator | 1 | `Clan Creator victory` |
 | BBQ | 1 | `Tripe BBQ` |
 | Baby | 1 | `A plush of Baby from Super Monkey Ball.` |
 | wild | 1 | `Their philosophy is that everything has to be "wild," so they make their sandwiches big, b` |
-| OFF | 1 | `Change settings for Autosave. \n<color=striking>If OFF is selected, your progress will not` |
 | Judgment | 1 | `<symbol=case_file_head>You've Got A Lot of Mail!\n\n　<symbol=case_file_subhead>Some fun it` |
 | Tiger | 1 | `My jacket's blue and white, and there's a tiger embroidered on the back. It says "Tiger" o` |
 | luggage | 1 | `You probably mixed up "baggage" and "cabbage." But I think it's also called "luggage"?` |
@@ -69,16 +61,14 @@
 | MaiTube | 1 | `Whoa, it's Sana Mihama! The one that's got all that indie music on MaiTube!` |
 | Old King Cole was a merry old so | 1 | `I'll be back to marry you faster than you can say, "Old King Cole was a merry old soul and` |
 | ul and a merry old soul was he | 1 | `I'll be back to marry you faster than you can say, "Old King Cole was a merry old soul and` |
-| M Side Cafe | 1 | `Apparently the boss is really going for Kiriko-chan, the girl who works at M Side Cafe.` |
 | Wette | 1 | `We'd better stop before this turns into a Wette and Wild showdown...` |
 | Wild | 1 | `We'd better stop before this turns into a Wette and Wild showdown...` |
 | Gold Viper | 1 | `Whew! Gold Viper's probably the only energy drink that actually has any effect on me.` |
 
-## C. คงอังกฤษทั้งบรรทัด — ข้อความบทพูด (24)
+## C. คงอังกฤษทั้งบรรทัด — ข้อความบทพูด (23)
 
 | EN (= ค่าที่แสดง) | bin |
 |---|---|
-| `Earth Angel` | complete_group.bin, map_place.bin, shop.bin, talk_select_select.bin |
 | `test` | manual.bin, minigame_chase_mission.bin, minigame_stalking_mission.bin, talk_select_select.bin |
 | `Judgment` | msg.bin |
 | `<platform_not=solstice>Quit game and return to desktop?</platform_not><platform=solstice>A` | msg.bin |
@@ -103,7 +93,7 @@
 | `tawaraba` | talk_select_select.bin |
 | `ABCDE` | talk_select_select.bin |
 
-## C. คงอังกฤษทั้งบรรทัด — ชื่อ/ป้าย (247)
+## C. คงอังกฤษทั้งบรรทัด — ชื่อ/ป้าย (245)
 
 | EN (= ค่าที่แสดง) | bin |
 |---|---|
@@ -177,7 +167,6 @@
 | `YENDAS` | complete_checklist.bin |
 | `BOWEL` | complete_checklist.bin |
 | `Cricket` | complete_checklist.bin, manual.bin |
-| `M Side Cafe` | complete_group.bin, map_place.bin, shop.bin |
 | `SMZ: ESC` | drone_parts.bin |
 | `Mako Mods: ESC` | drone_parts.bin |
 | `S-ONE: ESC` | drone_parts.bin |
@@ -185,7 +174,6 @@
 | `string` | gamer_stat.bin |
 | `int` | gamer_stat.bin |
 | `Club SEGA` | help.bin, manual.bin |
-| `Case File` | help.bin, manual.bin, ui_text.bin |
 | `EX Actions` | help_category.bin, manual.bin, pause_tutorial.bin, tips.bin |
 | `Toughness Z` | item.bin |
 | `Baby` | item.bin |

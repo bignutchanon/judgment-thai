@@ -7885,12 +7885,15 @@
 "speaker": "Seiya",
 "gender": "male",
 "flags": [
-"ไม่มีใน master",
-"ยังไม่แปล",
 "อีกแทร็ก",
+"ใช้ร่วม",
 "ต้องกลางเพศ"
 ],
-"outside": []
+"outside": [
+"2",
+"talk.bin/judge_friend_g#",
+"talk.bin/judge_side_a#"
+]
 },
 "P0101-0625": {
 "section": "คัตซีน",
@@ -27664,9 +27667,7 @@
 "col": "4",
 "speaker": "Yagami",
 "gender": "male",
-"flags": [
-"มีอังกฤษ: Flight"
-],
+"flags": [],
 "outside": []
 },
 "P0103-0168": {
