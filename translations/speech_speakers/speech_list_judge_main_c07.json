@@ -1,0 +1,6501 @@
+{
+ "table": "speech_list_judge_main_c07",
+ "rows": {
+  "78": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Kajihira kidnapped me; dirt on you",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "79": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "Kajihira kidnapped me; dirt on you",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "8": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Mafuyu-chan defended; มึง style",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "38": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "54": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "63": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reaction to hundred billion",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "65": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Yagami replies to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "4": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "5": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "7": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "9": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "11": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "13": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "15": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "17": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "19": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "20": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "21": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "22": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "23": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "24": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "25": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "29": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "30": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "32": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "33": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "36": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "37": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "39": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "40": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "41": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "43": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "45": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "47": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "48": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "50": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "51": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "53": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "55": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "56": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "57": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "58": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "60": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "61": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "62": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "64": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "67": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "68": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "69": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "70": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "72": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "73": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "1": {
+   "speaker": "Kajihira",
+   "gender": "male",
+   "conf": "high",
+   "why": "Kajihira's monologue; self-named",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "59": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks if Kido killed him",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "83": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "casual; nap time quip",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "6": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "alt track of Yagami line",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "14": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "18": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "28": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "31": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "35": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "42": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "46": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "52": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "66": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "75": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions to Kajihira",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "76": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "owe us apology; Kaito tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "77": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "owe us apology; Kaito tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "80": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "owe us apology; Kaito tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "82": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "owe us apology; Kaito tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "94": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "teaming up; my investigation",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "95": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "teaming up; my investigation",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "97": {
+   "speaker": "Hattori",
+   "gender": "male",
+   "conf": "med",
+   "why": "teaming up; my investigation",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "86": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "phone briefing Hoshino",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "87": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "phone briefing Hoshino",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "88": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "phone briefing Hoshino",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "90": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "pairs with Yagami Yeah line",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "93": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "phone call to Sugiura",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "96": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "phone call to Sugiura",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "102": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Early bird; already at office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "105": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "talks about Mafuyu happy",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "108": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "he'll be here this afternoon",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "110": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "111": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "113": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "114": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "115": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "117": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "120": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "121": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "122": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "124": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "125": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "126": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "reports research on Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "116": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacts after Hold up line",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "135": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pro killer theory; ว่ะ tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "137": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pro killer theory; ว่ะ tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "140": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pro killer theory; ว่ะ tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "141": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pro killer theory; ว่ะ tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "142": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pro killer theory; ว่ะ tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "143": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pro killer theory; ว่ะ tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "149": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pro killer theory; ว่ะ tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "150": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "pro killer theory; ว่ะ tone",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "154": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt track Yagami Guess not",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "159": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "called him last night",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "161": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "called him last night",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "163": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "called him last night",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "164": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "called him last night",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "130": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "no evidence; female prosecutor talk",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "139": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "no evidence; female prosecutor talk",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "147": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "no evidence; female prosecutor talk",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "148": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "no evidence; female prosecutor talk",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "109": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reply after Genda question",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "118": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue and questions to Hoshino",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "119": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue and questions to Hoshino",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "123": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue and questions to Hoshino",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "127": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of Thanks Hoshino-kun",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "151": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "152": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "wants cause of death",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "153": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "wants cause of death",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "156": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "wants cause of death",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "157": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "wants cause of death",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "158": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "another visit to Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "160": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "another visit to Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "162": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "another visit to Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "165": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of Yagami Sure",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "178": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "answers Yagami question",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "179": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Let's hope so",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "181": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacts to Excuse me sir",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "185": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "disguised; Ahem Hey",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "190": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "191": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "192": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "194": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "196": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "199": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "202": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "204": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "206": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "207": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "209": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "210": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "212": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "213": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "215": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "216": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "218": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "reveals disguise; report; Ayabe",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "189": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Do I know you follow-up",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "193": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "195": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "197": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "198": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "200": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "201": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "203": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "205": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "208": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "reacts to seducer; Mafuyu!?",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "211": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "advice; label says male",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "220": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "tells Kaito replacement",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "224": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Mafuyu-chan? are you saying",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "225": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "made same mistake",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "229": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "233": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "234": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "235": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "236": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "237": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "239": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "240": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "243": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "245": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "246": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "247": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "249": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "250": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "251": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "253": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "254": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads report to Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "230": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads resume; asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "231": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads resume; asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "232": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads resume; asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "238": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reads resume; asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "255": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "proposes field trip",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "257": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "proposes field trip",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "258": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "proposes field trip",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "261": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "plays Hashiki; Oh shut up",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "263": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "plays Hashiki; Oh shut up",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "267": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "argues Shono cab location",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "268": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "argues Shono cab location",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "271": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Big mister detective retort",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "273": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Big mister detective retort",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "274": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Big mister detective retort",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "262": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Kaito to play Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "264": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reenacts crime; hunch",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "265": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reenacts crime; hunch",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "266": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reenacts crime; hunch",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "269": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reenacts crime; hunch",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "270": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reenacts crime; hunch",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "272": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reenacts crime; hunch",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "275": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "agrees; Where you going Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "281": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "agrees; Where you going Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "282": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "heads to Queen Rouge",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "280": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "club not open yet",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "278": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Hashiki not honest; payroll",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "279": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Hashiki not honest; payroll",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "295": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "306": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "308": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "315": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "316": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "318": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "319": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "321": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "327": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "scheme to hire Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "329": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks if he runs club",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "332": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "We can manage; Tak",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "285": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "288": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "289": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "293": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "296": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "300": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "301": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "302": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "304": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "307": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "309": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "312": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "313": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "322": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "325": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "326": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "330": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "331": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "334": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "club staff; members only",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "286": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "287": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "290": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "291": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "292": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks about Hashiki",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "298": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks to talk to hostess",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "299": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks to talk to hostess",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "303": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks to talk to hostess",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "305": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks to talk to hostess",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "310": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Not bad!? high standards",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "311": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "Not bad!? high standards",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "314": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Kaito-san what are you doing",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "317": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Kaito-san what are you doing",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "320": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Kaito-san what are you doing",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "336": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "quickest way",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "338": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "give her something sweet",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "340": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Kaito of desserts quip",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "342": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "dessert menu retort",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "339": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "I bring sweets to office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "341": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "What'd you have in mind",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "343": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "your idea jackass",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "363": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "alt of Yagami line",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "365": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "367": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "369": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "370": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "372": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "374": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "376": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "377": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "379": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "380": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "383": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "385": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "386": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "388": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "391": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "393": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "395": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "397": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "Chatter search; Yagami-shi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "362": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "364": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "366": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "368": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "371": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "375": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "378": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "381": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "384": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "387": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "389": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "390": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "392": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "394": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "396": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "gives search keywords",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "345": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "346": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "347": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "348": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "349": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "350": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "351": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "352": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "354": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "355": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "356": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "358": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "359": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "360": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "373": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "382": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "monologue about dessert",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "399": {
+   "speaker": "mikajime_aniki",
+   "gender": "male",
+   "conf": "med",
+   "why": "thug shakedown speech",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "406": {
+   "speaker": "mikajime_aniki",
+   "gender": "male",
+   "conf": "med",
+   "why": "thug shakedown speech",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "410": {
+   "speaker": "mikajime_aniki",
+   "gender": "male",
+   "conf": "med",
+   "why": "thug shakedown speech",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "412": {
+   "speaker": "mikajime_aniki",
+   "gender": "male",
+   "conf": "med",
+   "why": "thug shakedown speech",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "414": {
+   "speaker": "mikajime_aniki",
+   "gender": "male",
+   "conf": "med",
+   "why": "civilian threat",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "403": {
+   "speaker": "mikajime_aniki",
+   "gender": "male",
+   "conf": "med",
+   "why": "protection denial",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "402": {
+   "speaker": "Takemitsu",
+   "gender": "male",
+   "conf": "med",
+   "why": "protection money reply",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "407": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks for mochi; threatens cops",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "411": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks for mochi; threatens cops",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "413": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks for mochi; threatens cops",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "425": {
+   "speaker": "Takemitsu",
+   "gender": "male",
+   "conf": "high",
+   "why": "shop owner offers mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "427": {
+   "speaker": "Takemitsu",
+   "gender": "male",
+   "conf": "high",
+   "why": "shop owner offers mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "429": {
+   "speaker": "Takemitsu",
+   "gender": "male",
+   "conf": "high",
+   "why": "shop owner offers mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "430": {
+   "speaker": "Takemitsu",
+   "gender": "male",
+   "conf": "high",
+   "why": "shop owner offers mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "432": {
+   "speaker": "Takemitsu",
+   "gender": "male",
+   "conf": "high",
+   "why": "shop owner offers mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "423": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "buys mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "424": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "buys mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "426": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "buys mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "431": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "buys mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "433": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "buys mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "435": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "buys mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "442": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "business first; take a seat",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "444": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "business first; take a seat",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "437": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Genda; gives mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "439": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Genda; gives mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "441": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Genda; gives mochi",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "527": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Sit down; business with you",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "447": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "448": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "450": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "451": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "452": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "453": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "455": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "456": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "458": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "459": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "461": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "462": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "463": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "464": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "465": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "467": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0793 ผู้พูดคนเดียวกัน (ป้ายเดิม ? ไม่มีเพศ)",
+   "source": "polish/ch07/speakers_51.json"
+  },
+  "469": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "470": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "471": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "472": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "474": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "475": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "high",
+   "why": "Shintani like a son; my office",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "479": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Saori-kun; persuades Saori",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "485": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Saori-kun; persuades Saori",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "486": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Saori-kun; persuades Saori",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "489": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Saori-kun; persuades Saori",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "494": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Saori-kun; persuades Saori",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "522": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "Saori-kun; persuades Saori",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "526": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0815",
+   "source": "polish/ch07/speakers_51.json"
+  },
+  "497": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "499": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "501": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "502": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "503": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "504": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "509": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "510": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "511": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "513": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "514": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "521": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "524": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "defends Saori; dress shop tips",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "525": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "482": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "484": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "488": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "505": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "508": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "516": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "518": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "519": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "520": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "reluctant then accepts hostess job",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "473": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "476": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "477": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "478": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "481": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "483": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "487": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "491": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "492": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "495": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "498": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Saori to go undercover",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "512": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions dress shopping",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "515": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "questions dress shopping",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "517": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "W-Well yeah stutter",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "529": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "recommends Le Marche stylist",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "530": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "recommends Le Marche stylist",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "532": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "recommends Le Marche stylist",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "533": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "recommends Le Marche stylist",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "534": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "recommends Le Marche stylist",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "535": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "should be you going",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "537": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "should be you going",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "541": {
+   "speaker": "lemarche_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "shop clerk; sir",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "543": {
+   "speaker": "lemarche_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "shop clerk; sir",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "545": {
+   "speaker": "lemarche_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "shop clerk; sir",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "540": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks for dress recs",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "542": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks for dress recs",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "544": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks for dress recs",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "619": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "Saori-san beautiful; Cherry",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "620": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "Saori-san beautiful; Cherry",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "622": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "Saori-san beautiful; Cherry",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "623": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "Saori-san beautiful; Cherry",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "549": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "551": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "553": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "554": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "556": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "557": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "558": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "560": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "561": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "563": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "565": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "567": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "570": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "572": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "573": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "575": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "576": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "578": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "581": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "583": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "584": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "586": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "590": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "592": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "595": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "597": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "598": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "600": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "601": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "604": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "605": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "607": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "610": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "613": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "childhood friend of Mafuyu",
+   "source": "polish/ch07/speakers_01.json"
+  },
+  "548": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "550": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "552": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "559": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "564": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "568": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "569": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "574": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "577": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "580": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "585": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "587": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "588": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "589": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "591": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "594": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "596": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "599": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "602": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "606": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "609": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "611": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "614": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "615": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "617": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "621": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับซาโอริ/โฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "624": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0047",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "629": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิ ต่อเนื่องฉากร้านทำผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "630": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิ ต่อเนื่องฉากร้านทำผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "632": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานหน้าร้านถามหาผู้หญิง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "633": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานหน้าร้านถามหาผู้หญิง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "635": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานหน้าร้านถามหาผู้หญิง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "636": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานหน้าร้านถามหาผู้หญิง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "637": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เห็นซาโอริ ชวนทำงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "639": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เห็นซาโอริ ชวนทำงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "640": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เห็นซาโอริ ชวนทำงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "643": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เห็นซาโอริ ชวนทำงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "646": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เห็นซาโอริ ชวนทำงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "647": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เห็นซาโอริ ชวนทำงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "652": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เห็นซาโอริ ชวนทำงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "645": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริพูดกับยากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "648": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริพูดกับยากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "651": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริพูดกับยากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "654": {
+   "speaker": "syukan_wdr",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าเมาข้างถนนต่อเนื่อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "658": {
+   "speaker": "syukan_wdr",
+   "gender": "male",
+   "conf": "med",
+   "why": "ขอโทษเพื่อนร่วมกลุ่ม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "638": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแนะนำซาโอริ/คุยงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "642": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแนะนำซาโอริ/คุยงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "649": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแนะนำซาโอริ/คุยงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "650": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแนะนำซาโอริ/คุยงาน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "662": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "664": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "666": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "667": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "668": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "670": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "672": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "674": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "676": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "677": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "682": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายงานฮอสเตสให้ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "665": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "669": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "671": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "673": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "675": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "678": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "680": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "681": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "679": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริตอบ/คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "689": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับเรียกนั่งโต๊ะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "692": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับเรียกนั่งโต๊ะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "694": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับเรียกนั่งโต๊ะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "700": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับเรียกนั่งโต๊ะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "704": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0149",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "709": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ ต่อเนื่องบทสนทนา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "715": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ ต่อเนื่องบทสนทนา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "724": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ ต่อเนื่องบทสนทนา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "727": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ ต่อเนื่องบทสนทนา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "731": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ ต่อเนื่องบทสนทนา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "703": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ คุยเรื่องเนคไท",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "710": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ คุยเรื่องเนคไท",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "711": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ คุยเรื่องเนคไท",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "714": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ คุยเรื่องเนคไท",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "722": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ คุยเรื่องเนคไท",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "730": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลูกค้าคลับ คุยเรื่องเนคไท",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "687": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "688": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "690": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "691": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "693": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "713": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "718": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "720": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "725": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "726": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "728": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริแนะนำตัว/ชมลูกค้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "696": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ เรื่องสืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "698": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ เรื่องสืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "706": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ เรื่องสืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "717": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ เรื่องสืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "702": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ เรื่องสืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "683": {
+   "speaker": "Sumire",
+   "gender": "female",
+   "conf": "high",
+   "why": "ฮอสเตสควีนรูจ (glossary) แนะนำตัวว่า ฉันชื่อสุมิเระ ค่ะ ป้ายเดิมเป็นชาย",
+   "source": "polish/ch07/speakers_52.json"
+  },
+  "738": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "740": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "741": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "742": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "745": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "747": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "748": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "750": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริถามถึงโชโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "751": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะตอบ/งงชื่อโฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "754": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะตอบ/งงชื่อโฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "757": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะตอบ/งงชื่อโฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "760": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะตอบ/งงชื่อโฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "761": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริอธิบายว่าพูดถึงฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "764": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าความรู้สึกผิด",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "765": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าความรู้สึกผิด",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "767": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าความรู้สึกผิด",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "768": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าความรู้สึกผิด",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "771": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าความรู้สึกผิด",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "772": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0241",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "777": {
+   "speaker": "rouge_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานเรียกซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "737": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริปลอบมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "739": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริปลอบมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "743": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริปลอบมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "758": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริอ่านข่าวมา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "769": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริเรียกมิกะซัง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "734": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ สืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "753": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ สืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "763": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ สืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "766": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ สืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "774": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ สืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "775": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ สืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "776": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ สืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "779": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ สืบสวน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "790": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลูกค้าคลับสั่งเหล้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "794": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลูกค้าคลับสั่งเหล้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "801": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลูกค้าคลับสั่งเหล้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "802": {
+   "speaker": "caba_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลูกค้าคลับสั่งเหล้า",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "783": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ ต่อจาก 0304",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "785": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ ต่อจาก 0304",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "788": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ ต่อจาก 0304",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "792": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ ต่อจาก 0304",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "796": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ ต่อจาก 0304",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "805": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ ต่อจาก 0304",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "812": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "คิดในใจ ต่อจาก 0304",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "815": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะชวนไปดื่มตอบแทน",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "818": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริตอบรับ/โทรหายากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "819": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริตอบรับ/โทรหายากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "821": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริรายงานยากามิทางโทรศัพท์",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "822": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริรายงานยากามิทางโทรศัพท์",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "824": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริรายงานยากามิทางโทรศัพท์",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "827": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริรายงานยากามิทางโทรศัพท์",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "814": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริรายงานยากามิทางโทรศัพท์",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "816": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเกรงใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "817": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ซาโอริชวนมิกะซัง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "823": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิรับโทรศัพท์ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "825": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิรับโทรศัพท์ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "826": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิรับโทรศัพท์ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "828": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิรับโทรศัพท์ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "830": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับโฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "831": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิคุยกับโฮชิโนะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "833": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "โฮชิโนะถามแผน/ให้ระวัง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "834": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "โฮชิโนะถามแผน/ให้ระวัง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "837": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "โฮชิโนะถามแผน/ให้ระวัง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "836": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิจะเดินฆ่าเวลา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "838": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิจะเดินฆ่าเวลา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "839": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิจะเดินฆ่าเวลา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "841": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "คิดในใจ ต่อจาก 0360",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "844": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซท้าทายและปลุกซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "845": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซท้าทายและปลุกซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "847": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซท้าทายและปลุกซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "849": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซท้าทายและปลุกซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "851": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซท้าทายและปลุกซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "854": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซท้าทายและปลุกซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "856": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซท้าทายและปลุกซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "858": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซท้าทายและปลุกซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "853": {
+   "speaker": "Sakakiba",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากากิบะถามเรื่องอาหาร",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "855": {
+   "speaker": "Sakakiba",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากากิบะถามเรื่องอาหาร",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "857": {
+   "speaker": "Sakakiba",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากากิบะถามเรื่องอาหาร",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "860": {
+   "speaker": "Sakakiba",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากากิบะถามเรื่องอาหาร",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "861": {
+   "speaker": "Sakakiba",
+   "gender": "male",
+   "conf": "high",
+   "why": "ซากากิบะถามเรื่องอาหาร",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "846": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิตอบโต้คาไซ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "848": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "คาไซดุซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "852": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "คาไซดุซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "859": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "คาไซดุซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "865": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซเชียร์ให้ซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "868": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "high",
+   "why": "คาไซเชียร์ให้ซากากิบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "875": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0402",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "876": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "คาไซเยาะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "869": {
+   "speaker": "Sakakiba",
+   "gender": "male",
+   "conf": "high",
+   "why": "หิวต่อเนื่อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "871": {
+   "speaker": "Sakakiba",
+   "gender": "male",
+   "conf": "high",
+   "why": "หิวต่อเนื่อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "873": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เยาะคาไซที่ถูกทิ้ง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "877": {
+   "speaker": "Kasai",
+   "gender": "male",
+   "conf": "med",
+   "why": "เถียงว่าเป็นบทเขา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "878": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "879": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "คิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "882": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "high",
+   "why": "คุโรอิวะเชิญคุย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "885": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "high",
+   "why": "คุโรอิวะเชิญคุย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "880": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกชื่อคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "883": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิตอบคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "886": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิตอบคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "907": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "high",
+   "why": "คุโรอิวะกล่อมยากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "908": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "high",
+   "why": "คุโรอิวะกล่อมยากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "910": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "high",
+   "why": "คุโรอิวะกล่อมยากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "917": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตัวหนังสือบ่นถูกลากไป",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "889": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "high",
+   "why": "คุโรอิวะเล่าเรื่องรั่วไหล",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "891": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "high",
+   "why": "คุโรอิวะเล่าเรื่องรั่วไหล",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "892": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "high",
+   "why": "คุโรอิวะเล่าเรื่องรั่วไหล",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "894": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "896": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "900": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตำรวจแจ้งนัดอิซุมิดะ/ขู่เบา ๆ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "901": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตำรวจแจ้งนัดอิซุมิดะ/ขู่เบา ๆ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "904": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตำรวจแจ้งนัดอิซุมิดะ/ขู่เบา ๆ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "905": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตำรวจแจ้งนัดอิซุมิดะ/ขู่เบา ๆ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "914": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตำรวจแจ้งนัดอิซุมิดะ/ขู่เบา ๆ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "916": {
+   "speaker": "Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตำรวจแจ้งนัดอิซุมิดะ/ขู่เบา ๆ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "897": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "898": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "899": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "902": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "903": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "909": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "911": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "913": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "915": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตำรวจ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "927": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวขอนั่งด้วย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "933": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "935": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "936": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "938": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "939": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "941": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "942": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "944": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "945": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "946": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "948": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "949": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "952": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "953": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "956": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "958": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "960": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "961": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "963": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "965": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "966": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "967": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "971": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "972": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "973": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "high",
+   "why": "มิกะเล่าเรื่องโต๊ะฮาชิกิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "979": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "980": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "982": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "983": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "984": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "987": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "988": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "991": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "994": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "996": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "998": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1001": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1005": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1006": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1009": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1011": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1013": {
+   "speaker": "Mika",
+   "gender": "female",
+   "conf": "med",
+   "why": "มิกะเล่า/คุยกับซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "932": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริพูดกับยากามิ/มิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "955": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริพูดกับยากามิ/มิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "969": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริพูดกับยากามิ/มิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "985": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริพูดกับยากามิ/มิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1002": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริบอกลามิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1004": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริบอกลามิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1007": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริบอกลามิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1008": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริบอกลามิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1010": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริบอกลามิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1015": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซาโอริบอกลามิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "934": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิซักมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "937": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิซักมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "940": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิซักมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "943": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิซักมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "947": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิซักมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "950": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิซักมิกะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "951": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "954": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "957": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "959": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "962": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "964": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "968": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "970": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "974": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "976": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "978": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "981": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "989": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "990": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "992": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "993": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "995": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "997": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "999": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิซักมิกะ ใช้ผม/นาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1014": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิชมซาโอริ/พากลับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1016": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิชมซาโอริ/พากลับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1017": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิชมซาโอริ/พากลับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1020": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "high",
+   "why": "ชมซาโอริซัง ต่อจากทักทาย",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1032": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "รายงานผลวิเคราะห์ ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1033": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "รายงานผลวิเคราะห์ ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1034": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "รายงานผลวิเคราะห์ ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1053": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกยากามิซัง ครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1059": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกยากามิซัง ครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1060": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกยากามิซัง ครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1062": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกยากามิซัง ครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1064": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกนาย ถามเรื่องอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1069": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกคุณ...ยากามิซัง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1031": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยเรื่องคดี ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1038": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยเรื่องคดี ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1049": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยเรื่องคดี ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1028": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1029": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1030": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1044": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ความคิดในใจ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1058": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลงท้ายครับ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1063": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าแผนนัดอิซุมิดะ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1065": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าแผนนัดอิซุมิดะ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1067": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าแผนนัดอิซุมิดะ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1068": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าแผนนัดอิซุมิดะ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1077": {
+   "speaker": "Genda",
+   "gender": "male",
+   "conf": "med",
+   "why": "อาจารย์บ่นเข่าพัง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1073": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจาก 0731 ให้สัญญา",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1071": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจากพูดโย่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1075": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ใช้ ค่ะ เรียกยากามิซัง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1079": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง ฝากข้อความคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1080": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง ฝากข้อความคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1081": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง ฝากข้อความคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1083": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง ฝากข้อความคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1085": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง ฝากข้อความคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1089": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง ฝากข้อความคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1091": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง ฝากข้อความคุโรอิวะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1096": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง เรื่องค่าแท็กซี่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1097": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง เรื่องค่าแท็กซี่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1099": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "สายข่าว กู/มึง เรื่องค่าแท็กซี่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1082": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิถามว่าทำไมมาบอกถึงที่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1086": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "ปลอบว่าอย่าทำตัวแบบนั้น",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1087": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิใช้ผม/นาย กับอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1088": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิใช้ผม/นาย กับอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1090": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิใช้ผม/นาย กับอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1092": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิใช้ผม/นาย กับอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1093": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิใช้ผม/นาย กับอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1095": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิใช้ผม/นาย กับอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1098": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิใช้ผม/นาย กับอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1100": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิใช้ผม/นาย กับอายาเบะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1121": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "อัยการอิซุมิดะเปิดการสอบปากคำ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1122": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "อัยการอิซุมิดะเปิดการสอบปากคำ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1123": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "อัยการอิซุมิดะเปิดการสอบปากคำ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1124": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "อัยการอิซุมิดะเปิดการสอบปากคำ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1135": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "อัยการอิซุมิดะเปิดการสอบปากคำ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1137": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "อัยการอิซุมิดะเปิดการสอบปากคำ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1141": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "อัยการอิซุมิดะเปิดการสอบปากคำ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1144": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "อัยการอิซุมิดะเปิดการสอบปากคำ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1148": {
+   "speaker": "Izumida",
+   "gender": "male",
+   "conf": "med",
+   "why": "ให้โมริตะพูด",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1101": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "ฉากนำยากามิเข้าห้องอัยการ 0821-0830 เป็นหญิงต่อเนื่อง แต่ป้ายเดิม Hoshino (ช) มาจากคีย์ใช้ร่วม",
+   "source": "polish/ch07/speakers_52.json"
+  },
+  "1103": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "เรียกยากามิคุง พาไปห้อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1105": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "เรียกยากามิคุง พาไปห้อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1107": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "เรียกยากามิคุง พาไปห้อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1110": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "เรียกยากามิคุง พาไปห้อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1112": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "เรียกยากามิคุง พาไปห้อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1114": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "เรียกยากามิคุง พาไปห้อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1115": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "เรียกยากามิคุง พาไปห้อง",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1118": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "เชิญก่อนเลยค่ะ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1150": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1151": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1152": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1153": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1155": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1158": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1159": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1166": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1167": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1230": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1255": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1256": {
+   "speaker": "Morita",
+   "gender": "male",
+   "conf": "med",
+   "why": "หัวหน้าอัยการซักต่อ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1104": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1106": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1108": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1109": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1111": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1113": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1117": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1119": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1120": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1129": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1130": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1131": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1133": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1134": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิโต้ตอบอัยการ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1138": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิแจ้งพยานที่อยู่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1139": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิแจ้งพยานที่อยู่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1140": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิแจ้งพยานที่อยู่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1142": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิแจ้งพยานที่อยู่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1143": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิแจ้งพยานที่อยู่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1154": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิแจ้งพยานที่อยู่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1156": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิแจ้งพยานที่อยู่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1157": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยากามิแจ้งพยานที่อยู่",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1160": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1162": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1164": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1165": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1168": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1171": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1172": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1174": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1176": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1179": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1180": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1181": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1182": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1184": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1187": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1188": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1196": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1200": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1195": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1189": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1191": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1193": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1202": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1203": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1204": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1205": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1207": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1208": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1210": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1211": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1212": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1213": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1214": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1216": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1218": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1219": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1221": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1223": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1262": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1224": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1225": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1226": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1228": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1229": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1231": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1232": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1233": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1234": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1236": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1237": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1239": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1242": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1243": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1244": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1245": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1247": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1248": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1249": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1250": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1251": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1252": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1253": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1257": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1258": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1259": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1260": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1145": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1178": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1220": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1241": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยากามิแถลงต่ออัยการ ใช้ผม",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "922": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "med",
+   "why": "ซ้ำ EN 0321 ซาโอริโทรบอกยากามิ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1043": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ต่อจาก 0682 ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  },
+  "1047": {
+   "speaker": "Saori",
+   "gender": "female",
+   "conf": "high",
+   "why": "ต่อจาก 0682 ซาโอริ",
+   "source": "polish/ch07/speakers_02.json"
+  }
+ }
+}

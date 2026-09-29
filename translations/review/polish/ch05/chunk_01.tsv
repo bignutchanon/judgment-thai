@@ -1,0 +1,979 @@
+id	ฉาก	ผู้พูด	หมายเหตุ	EN	TH
+P0501-0001	ทวนเรื่องเปิดบท · p05_00100	Narration (?)		The Tojo Clan is struck\nby Kyorei Clan gunfire.	ตระกูลโทโจถูกโจมตี\nด้วยกระสุนปืนจากตระกูลเคียวเรอิ
+P0501-0002	ทวนเรื่องเปิดบท · p05_00100	Narration (?)		Kamurocho's disarray\nonly spreads wider. 	ความวุ่นวายในคามุโรโจ\nยิ่งขยายวงกว้างออกไป 
+P0501-0003	ทวนเรื่องเปิดบท · p05_00100	Narration (?)		On the surface, the diagram\nresembles a yakuza turf war.	เมื่อมองผิวเผิน ภาพรวมทั้งหมด\nดูเหมือนสงครามแย่งชิงพื้นที่ ของยากูซ่า
+P0501-0004	ทวนเรื่องเปิดบท · p05_00100	Narration (?)		But in the shadows are glimpses of\na construction firm and political influence.	แต่ในเงามืดกลับซ่อนเงื่อนงำของ\nบริษัทก่อสร้างและอิทธิพลทางการเมือง
+P0501-0005	ทวนเรื่องเปิดบท · p05_00100	Narration (?)		And in Yagami's own shadow...	และในเงาของยากามิเอง...
+P0501-0006	ทวนเรื่องเปิดบท · p05_00100	Narration (?)		The Mole's sharp claws\nclaim yet another victim.	กรงเล็บอันคมกริบของไอ้ตัวตุ่น\nคร่าชีวิตเหยื่อรายใหม่ไปอีกคน
+P0501-0007	คัตซีน · a05_010	Yagami (ช)		I've heard a bit about\nthis place before...	ผมเคยได้ยินเรื่อง\nที่นี่มาบ้างแล้ว...
+P0501-0008	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก]	I've heard of this place before...	ผมเคยได้ยินชื่อที่นี่มาก่อน...
+P0501-0009	คัตซีน · a05_010	Hoshino (ช)		But the ADDC... Isn't it just one\npart of a larger organization?	แต่ ADDC เนี่ย...\nมันก็แค่ส่วนหนึ่งขององค์กรใหญ่ กว่านั้นไม่ใช่เหรอ
+P0501-0010	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก]	But the ADDC is just one part\nof their group, right?	แต่ ADDC ก็แค่ส่วนหนึ่ง\nขององค์กรพวกนั้นใช่ไหม?
+P0501-0011	คัตซีน · a05_010	Yagami (ช)		If I recall correctly, they call\nit the Medical Institute... Is that accurate?	ถ้าผมจำไม่ผิด พวกเขาเรียก\nมันว่าสถาบันการแพทย์... ใช่ไหมครับ?
+P0501-0012	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก]	The Medical Institute,\nI think it was.	สถาบันการแพทย์\nน่าจะใช่นะ
+P0501-0013	คัตซีน · a05_010	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x6]	Yeah.	ใช่
+P0501-0014	คัตซีน · a05_010	Hoshino (ช)		They own every last inch of this campus.	พวกเขาเป็นเจ้าของพื้นที่แคมปัส นี้ทั้งหมดเลย
+P0501-0015	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก]	This campus doesn't seem to end.	แคมปัสนี้เหมือนไม่มีที่สิ้นสุดเลย
+P0501-0016	คัตซีน · a05_010	Yagami (ช)		It's incredible.	เหลือเชื่อจริงๆ
+P0501-0017	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก]	It's not your everyday organization.	ไม่ใช่องค์กรธรรมดาทั่วไปเลยจริงๆ
+P0501-0018	คัตซีน · a05_010	Yagami (ช)		Even with all these buildings, they're still\ngetting budget to expand from that new drug.	ถึงจะมีตึกเยอะขนาดนี้ พวกเขาก็ยัง\nได้งบมาขยายเพิ่มจากยาตัวใหม่นั่นอีก
+P0501-0019	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก]	On top of all this, they're getting even\nmore budget for that new drug.	นอกจากนี้ พวกเขายังได้\nงบเพิ่มขึ้นอีกจากยาตัวใหม่นั่น
+P0501-0020	คัตซีน · a05_010	Hoshino (ช)		So? Is it the same as you remember?	แล้วไง? เหมือนที่คุณจำได้ไหม?
+P0501-0021	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก]	So, does it look like you remember?	แล้วมันดูเหมือนที่คุณจำได้ไหม?
+P0501-0022	คัตซีน · a05_010	Hoshino (ช)		Huh? Don't go too far ahead, Yagami-san!	เอ๊ะ? อย่าเดินนำหน้าไปไกลสิ ยากามิซัง!
+P0501-0023	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก]	Hey, wait up, Yagami-san!	เฮ้ รอด้วยสิ ยากามิซัง!
+P0501-0024	คัตซีน · a05_010	Yagami (ช)		What're you all shaken up for?	ทำไมถึงดูสั่นๆ แบบนั้นล่ะ?
+P0501-0025	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก]	What's got you so spooked?	ทำไมถึงตกใจขนาดนี้ล่ะ
+P0501-0026	คัตซีน · a05_010	Hoshino (ช)		Calm down. Just stick with me\nand you'll be fine. Got that, Yagami?	ใจเย็นๆ แค่อยู่ใกล้ๆ ผมไว้\nก็ไม่เป็นไรหรอก เข้าใจไหม ยากามิ?
+P0501-0027	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก]	Just stick with me, okay?	แค่อยู่ใกล้ๆ ผมไว้ก็พอ โอเคนะ?
+P0501-0028	คัตซีน · a05_010	Hoshino (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Yagami-san!	ยากามิซัง!
+P0501-0029	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก]	Yagami-san!　	ยากามิซัง!
+P0501-0030	คัตซีน · a05_010	Hoshino (ช)		Try not to just ditch me, okay?	อย่าทิ้งผมไว้เฉยๆ แบบนั้นสิ โอเคนะ?
+P0501-0031	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก]	Geez, don't ditch me like that.	โธ่ อย่าทิ้งผมไว้แบบนั้นสิ
+P0501-0032	คัตซีน · a05_010	Hoshino (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Is something wrong?	มีอะไรผิดปกติหรือเปล่า?
+P0501-0033	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	Something wrong?	มีอะไรเหรอ
+P0501-0034	คัตซีน · a05_010	Yagami (ช)		It's just...	แค่ว่า...
+P0501-0035	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Nah...	ไม่ละ...
+P0501-0036	คัตซีน · a05_010	Yagami (ช)		After three years,\nit still looks the same.	ผ่านมาสามปีแล้ว\nที่นี่ก็ยังเหมือนเดิม
+P0501-0037	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก]	It's like nothing's changed\nin three years.	เหมือนไม่มีอะไรเปลี่ยนไปเลย\nตลอดสามปีที่ผ่านมา
+P0501-0038	คัตซีน · a05_010	Hoshino (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x11]	Huh?	หา?
+P0501-0039	คัตซีน · a05_010	Hoshino (ช)	[อีกแทร็ก] [ใช้ร่วม]	Sorry?	ว่าไงนะ?
+P0501-0040	คัตซีน · a05_010	Yagami (ช)		Almost like time itself has stopped.	ราวกับเวลาที่นี่หยุดนิ่งไปเลย
+P0501-0041	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก]	Almost like time is frozen here.	ราวกับเวลาที่นี่แข็งค้างอยู่กับที่
+P0501-0042	คัตซีน · a05_010	Hoshino (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Yagami-san...	ยากามิซัง...
+P0501-0043	คัตซีน · a05_010	Yagami (ช)		Come on.\nFront desk's over there.	ไปกันเถอะ\nโต๊ะประชาสัมพันธ์อยู่ตรงนั้น
+P0501-0044	คัตซีน · a05_010	Yagami (ช)	[อีกแทร็ก]	Come on.\nThere's the front desk.	ไปกันเถอะ\nนั่นโต๊ะประชาสัมพันธ์
+P0501-0045	คัตซีน · a05_020	Yagami (ช)		Well... Could I at least talk\nto Director Kido instead?	เอ่อ... ผมขอคุยกับ\nผู้อำนวยการคิโดะแทนได้ไหมครับ?
+P0501-0046	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	Then, can we talk with Director Kido?	งั้นเราขอคุยกับ ผู้อำนวยการคิโดะได้ไหมครับ?
+P0501-0047	คัตซีน · a05_020	Yagami (ช)		He's an old friend of mine.	เขาเป็นเพื่อนเก่าของผมน่ะ
+P0501-0048	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	We've met before.	เราเคยเจอกันมาก่อน
+P0501-0049	คัตซีน · a05_020	Yagami (ช)		Just let him know Yagami\nstopped by to say hello.	แค่บอกเขาว่ายากามิ\nแวะมาทักทายก็พอ
+P0501-0050	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	Tell him I'm a lawyer named Yagami.	บอกเขาว่าผมเป็นทนายชื่อยากามิ
+P0501-0051	คัตซีน · a05_020	Shintani (ช)		I don't think that'll\nbe necessary.	คงไม่จำเป็น\nขนาดนั้นหรอก
+P0501-0052	คัตซีน · a05_020	Shintani (ช)	[อีกแทร็ก]	Hey, Yagami-san. Look.	เฮ้ ยากามิซัง ดูนั่นสิ
+P0501-0053	คัตซีน · a05_020	Shintani (ช)		Look over there...	ดูตรงนั้นสิ...
+P0501-0054	คัตซีน · a05_020	Shintani (ช)	[อีกแทร็ก]	Isn't that Kido-san right there?	นั่นคิโดะซังใช่ไหมนั่น?
+P0501-0055	คัตซีน · a05_020	Kido (ช)		Gentlemen. I really don't know\nwhat else you want from me.	คุณผู้ชายทั้งสอง ผมไม่รู้จริงๆ\nว่าพวกคุณยังต้องการอะไรจากผมอีก
+P0501-0056	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	You again?\nCan't you handle the rest on your end?	มาอีกแล้วเหรอ?\nช่วยจัดการส่วนที่เหลือทางฝั่ง คุณเองไม่ได้หรือไง?
+P0501-0057	คัตซีน · a05_020	Kido (ช)		I have nothing more to say.\nI've told the police all that I know.	ไม่มีอะไรจะพูดเพิ่มแล้ว\nบอกตำรวจไปหมดทุกอย่างที่รู้แล้ว
+P0501-0058	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	I've already told the police\neverything I know.	บอกตำรวจไปหมดแล้ว\nทุกอย่างที่รู้
+P0501-0059	คัตซีน · a05_020	Yagami (ช)		Yeah, I know.\nSorry about all this, Director.	ครับ ผมรู้\nขอโทษด้วยจริงๆ ท่านผู้อำนวยการ
+P0501-0060	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	Apologies, sir,\nyou're absolutely right, but...	ต้องขออภัยด้วยครับ\nท่านพูดถูกทุกอย่างเลย แต่ว่า...
+P0501-0061	คัตซีน · a05_020	Yagami (ช)		Problem is, my partner here won't give\nit a rest 'til he sees the scene of the crime.	ปัญหาคือเพื่อนร่วมงานผมคนนี้\nไม่ยอมเลิกจนกว่าจะได้เห็น ที่เกิดเหตุด้วยตาตัวเอง
+P0501-0062	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	This guy wants to see the crime scene,\nand he won't take no for an answer.	เพื่อนคนนี้อยากไปดูที่เกิดเหตุ\nแล้วไม่ยอมรับคำว่า 'ไม่' เด็ดขาดครับ
+P0501-0063	คัตซีน · a05_020	Yagami (ช)		But...\nI'm sure we'll be leaving soon.	แต่...\nผมมั่นใจว่าเดี๋ยวเราก็ไปกันแล้วครับ
+P0501-0064	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	We won't be long.	ไม่นานหรอกครับ
+P0501-0065	คัตซีน · a05_020	Kido (ช)		That's not what we agreed upon.	นั่นไม่ใช่สิ่งที่เราตกลงกันไว้นะ
+P0501-0066	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	Don't make promises we can't keep.	อย่าไปรับปากอะไรที่ทำไม่ได้สิ
+P0501-0067	คัตซีน · a05_020	Kido (ช)		You know this isn't about\nhow long it takes.	คุณก็รู้ว่ามันไม่ใช่เรื่อง\nที่ว่าจะใช้เวลานานแค่ไหนหรอกนะ
+P0501-0068	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	I'll be here until I'm satisfied.	ผมจะอยู่ตรงนี้จนกว่าจะพอใจ
+P0501-0069	คัตซีน · a05_020	Kido (ช)		And what about Okubo?\nI take it he's still not fessed up.	แล้วเรื่องโอคุโบะล่ะ?\nคงยังไม่ยอมรับสารภาพใช่ไหม
+P0501-0070	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	So Okubo still hasn't admitted to the crime?	หมายความว่าโอคุโบะยังไม่ยอมรับ ว่าเป็นคนก่อเหตุใช่ไหม?
+P0501-0071	คัตซีน · a05_020	Unnamed official (?)		Uh... No, not quite as of yet, sir.	เอ่อ...ยังเลย ยังไม่ยอมรับ
+P0501-0072	คัตซีน · a05_020	Unnamed official (?)	[อีกแทร็ก]	Right, he's really digging his heels in.	ใช่ เขายังดื้อแพ่งอยู่เลย
+P0501-0073	คัตซีน · a05_020	Yagami (ช)		But we all saw where the body was.\nExactly where he said it would be.	แต่เราก็เห็นกันหมดแล้วว่าศพ อยู่ตรงไหน\nตรงกับที่เขาบอกไว้เป๊ะ
+P0501-0074	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	The body turned up where\nhe said he buried it and all.	ศพก็โผล่ตรงจุดที่\nเขาบอกว่าฝังไว้เป๊ะเลย
+P0501-0075	คัตซีน · a05_020	Kido (ช)		Quite true.\nNot much point in fighting this now.	ก็จริงอยู่\nตอนนี้จะสู้คดีต่อไปก็คงไม่ มีประโยชน์อะไรแล้ว
+P0501-0076	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	Right? Then hurry up\nand put this trial to bed.	ใช่ไหมล่ะ? งั้นก็รีบๆ\nปิดคดีนี้ให้จบๆ ไปซะที
+P0501-0077	คัตซีน · a05_020	Kido (ช)		The minister has made it clear that he wants\nit resolved soon, as well. *sigh*	ท่านรัฐมนตรีก็บอกชัดเจนว่าอยากให้\nเรื่องนี้จบเร็วๆ เหมือนกัน *ถอนหายใจ*
+P0501-0078	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	Goddamn, how did a single contractor\nstir up this much trouble?	ให้ตายสิ พนักงานเหมาช่วงคนเดียว\nก่อเรื่องวุ่นวายได้ขนาดนี้ได้ยังไง
+P0501-0079	คัตซีน · a05_020	Kido (ช)		Just look at how much trouble one\ncontractor has caused.	ดูสิ พนักงานเหมาช่วงคนเดียว\nสร้างปัญหาไว้มากแค่ไหน
+P0501-0080	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	The minister wants this cleared up\nas quickly as possible.	ท่านรัฐมนตรีอยากให้เคลียร์เรื่องนี้\nให้เร็วที่สุดเท่าที่จะทำได้
+P0501-0081	คัตซีน · a05_020	Yagami (ช)		Sorry... Which minister?	ขอโทษนะครับ...ท่านรัฐมนตรีคนไหนครับ
+P0501-0082	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	By "the minister..."	ที่บอกว่า "ท่านรัฐมนตรี"...
+P0501-0083	คัตซีน · a05_020	Yagami (ช)		I didn't know about this, sir.	ผมไม่ทราบเรื่องนี้มาก่อนเลยครับ
+P0501-0084	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	You mean the Minister of Health?	หมายถึงท่านรัฐมนตรีสาธารณสุข ใช่ไหมครับ?
+P0501-0085	คัตซีน · a05_020	Kido (ช)		The Health Minister.\nIt's all his call how much funding we get.	ท่านรัฐมนตรีสาธารณสุขน่ะแหละ\nงบประมาณที่เราจะได้มากแค่ไหนก็ ขึ้นอยู่กับท่านทั้งนั้น
+P0501-0086	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	Obviously. Our budget falls\nunder the Health Ministry.	ก็แน่นอนอยู่แล้ว งบของเรา\nอยู่ภายใต้กระทรวงสาธารณสุขทั้งหมด
+P0501-0087	คัตซีน · a05_020	Yagami (ช)		Director. If I may.	ท่านผู้อำนวยการครับ ขออนุญาตนะครับ
+P0501-0088	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	Um, Director...	เอ่อ ท่านผู้อำนวยการครับ...
+P0501-0089	คัตซีน · a05_020	Yagami (ช)		If you would just direct me to the scene\nof the crime, I could head over there myself.	ถ้าท่านช่วยบอกทางไปยังที่เกิดเหตุ\nผมจะไปดูเองก็ได้ครับ
+P0501-0090	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	If you could point me in the right direction,\nI'd be happy to examine it myself.	ถ้าท่านช่วยชี้ทางที่ถูกต้องให้\nผมยินดีไปตรวจดูด้วยตัวเองครับ
+P0501-0091	คัตซีน · a05_020	Yagami (ช)		I'll be out of your hair in no time,\nI assure you.	ผมจะรีบไปให้พ้นทางโดยเร็วที่สุด\nรับรองได้เลยครับ
+P0501-0092	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	I'll be discreet.	ผมจะเก็บเป็นความลับให้
+P0501-0093	คัตซีน · a05_020	Kido (ช)		I'd rather you didn't\nwander on your own.	ผมไม่อยากให้คุณ\nเดินไปมาคนเดียวตามลำพัง
+P0501-0094	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	I can't let you just wander around.	ผมปล่อยให้คุณเดินเพ่นพ่านเอง แบบนั้นไม่ได้หรอก
+P0501-0095	คัตซีน · a05_020	Kido (ช)		So instead...\nShe can show you.	งั้น...\nให้เธอพาคุณไปดีกว่า
+P0501-0096	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	She can be your chaperone.	เธอจะเป็นคนพาคุณไปเอง
+P0501-0097	คัตซีน · a05_020	Kido (ช)		Terasawa-kun. These gentlemen here\nare Shintani-sensei, and...	เทราซาวะคุง คุณสุภาพบุรุษสองท่านนี้\nคืออาจารย์ชินทานิ กับ...
+P0501-0098	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	Terasawa-kun.\nThis is Shintani-sensei and...	เทราซาวะคุง\nนี่คืออาจารย์ชินทานิ กับ...
+P0501-0099	คัตซีน · a05_020	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Uh...	เอ่อ...
+P0501-0100	คัตซีน · a05_020	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Yagami.	ยากามิครับ
+P0501-0101	คัตซีน · a05_020	Emi Terasawa (ญ)		It's a pleasure. I hope I can help\nyou find what you need.	ยินดีที่ได้รู้จักค่ะ หวังว่าดิฉันจะช่วย\nคุณหาสิ่งที่ต้องการได้นะคะ
+P0501-0102	คัตซีน · a05_020	Emi Terasawa (ญ)	[อีกแทร็ก]	I'm Terasawa.\nPleased to meet you.	ดิฉันเทราซาวะค่ะ\nยินดีที่ได้รู้จักค่ะ
+P0501-0103	คัตซีน · a05_020	Kido (ช)		Well...\nWith that I'll be taking my leave.	เอาล่ะ...\nงั้นผมขอตัวก่อนนะ
+P0501-0104	คัตซีน · a05_020	Kido (ช)	[อีกแทร็ก]	I'll take my leave, then.	ถ้างั้นผมขอตัวก่อนละกัน
+P0501-0105	คัตซีน · a05_020	Yagami (ช)		Thank you again, Director.\nApologies for all the trouble.	ขอบคุณอีกครั้งนะครับ ท่านผู้อำนวยการ\nขออภัยที่รบกวนด้วยครับ
+P0501-0106	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	Thank you, Director.\nApologies for the trouble.	ขอบคุณครับ ท่านผู้อำนวยการ\nขออภัยที่ทำให้ลำบากด้วยครับ
+P0501-0107	คัตซีน · a05_020	Emi Terasawa (ญ)		This way. I can show you how to get\nto Waku-san's room.	ทางนี้ค่ะ ดิฉันจะพาไปที่ห้อง\nของวาคุซังเองนะคะ
+P0501-0108	คัตซีน · a05_020	Emi Terasawa (ญ)	[อีกแทร็ก]	Well, then...\nShould we start with Waku-san's room?	เอาล่ะ...\nเริ่มจากห้องของวาคุซังก่อนดีไหมคะ
+P0501-0109	คัตซีน · a05_020	Shintani (ช)		...Who's Waku-san?	...วาคุซังคือใครนะ
+P0501-0110	คัตซีน · a05_020	Shintani (ช)	[อีกแทร็ก]	Waku-san?	วาคุซังเหรอ?
+P0501-0111	คัตซีน · a05_020	Yagami (ช)		The guy who died in his room?	คนที่ตายในห้องนั่นไงครับ
+P0501-0112	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	The victim, remember?	ก็เหยื่อไงครับ จำได้ไหม
+P0501-0113	คัตซีน · a05_020	Shintani (ช)		Uhhh. Oh yeah.	อ๋อ...เออ นึกออกแล้ว
+P0501-0114	คัตซีน · a05_020	Shintani (ช)	[อีกแทร็ก]	O-Oh, right. Yeah.	อ๋อ เออ...ใช่สิ
+P0501-0115	คัตซีน · a05_020	Shintani (ช)		And you are...	แล้วคุณคือ...
+P0501-0116	คัตซีน · a05_020	Shintani (ช)	[อีกแทร็ก]	And you were...	แล้วคุณคือใครนะ
+P0501-0117	คัตซีน · a05_020	Shintani (ช)		Terasawa-san, huh?	เทราซาวะซังเหรอ?
+P0501-0118	คัตซีน · a05_020	Shintani (ช)	[อีกแทร็ก]	Terasawa-san, right?	เทราซาวะซังใช่ไหมครับ?
+P0501-0119	คัตซีน · a05_020	Shintani (ช)		 Wooow, you're young.\nAnd a looker to boot.	 ว้าว คุณอายุยังน้อยจัง\nแถมยังสวยอีกด้วย
+P0501-0120	คัตซีน · a05_020	Shintani (ช)	[อีกแทร็ก]	You're so young!\nI didn't catch your first name?	คุณยังเด็กจังเลยนะ\nยังไม่ทันได้ถามชื่อจริงเลย
+P0501-0121	คัตซีน · a05_020	Emi Terasawa (ญ)		Umm...\nCan we keep this professional?	เอ่อ...\nขอคุยกันแบบมืออาชีพได้ไหมคะ
+P0501-0122	คัตซีน · a05_020	Emi Terasawa (ญ)	[อีกแทร็ก]	Uh, I'm kind of busy here, so...	เอ่อ ตอนนี้ดิฉันค่อนข้างยุ่งน่ะค่ะ...
+P0501-0123	คัตซีน · a05_020	Yagami (ช)		Nice try, Shintani-sensei.	พยายามได้ดีครับ อาจารย์ชินทานิ
+P0501-0124	คัตซีน · a05_020	Yagami (ช)	[อีกแทร็ก]	Come on, Shintani-sensei.	ไม่เอาน่า อาจารย์ชินทานิ
+P0501-0125	คัตซีน · a05_030	Yagami (ช)		Just now, we went to the ADDC.	เมื่อกี้เราเพิ่งไปที่ ADDC มา
+P0501-0126	คัตซีน · a05_030	Yagami (ช)	[อีกแทร็ก]	We went to see the ADDC.　	เราไปดู ADDC มาครับ 
+P0501-0127	คัตซีน · a05_030	Yagami (ช)		Thought I should have a look\nat things with my own eyes.	คิดว่าน่าจะไปดูให้เห็นกับตา\nด้วยตัวเองสักหน่อย
+P0501-0128	คัตซีน · a05_030	Yagami (ช)	[อีกแทร็ก]	I wanted to see it with my own eyes.　	อยากไปดูด้วยตาตัวเองน่ะ 
+P0501-0129	คัตซีน · a05_030	Okubo (ช)		And? How'd it go?	แล้วไง? เป็นยังไงบ้าง
+P0501-0130	คัตซีน · a05_030	Okubo (ช)	[อีกแทร็ก]	And? What do you think?	แล้วไง? คิดว่ายังไง
+P0501-0131	คัตซีน · a05_030	Shintani (ช)		There's no chance you walk.\nYou're practically a lost cause.	ไม่มีทางที่คุณจะรอดจากคดีนี้ได้หรอก\nตอนนี้แทบจะหมดหวังแล้ว
+P0501-0132	คัตซีน · a05_030	Shintani (ช)	[อีกแทร็ก]	We don't stand a chance in hell.　	เราแทบไม่มีโอกาสชนะเลยสักนิด 
+P0501-0133	คัตซีน · a05_030	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Hey!	นี่!
+P0501-0134	คัตซีน · a05_030	Okubo (ช)		Yagami-sensei is...\nthat what you think?	อาจารย์ยากามิคิดแบบนั้น...\nจริงๆ เหรอครับ
+P0501-0135	คัตซีน · a05_030	Okubo (ช)	[อีกแทร็ก]	Yagami-sensei, do you agree?	อาจารย์ยากามิก็คิดแบบนั้นด้วย เหรอครับ
+P0501-0136	คัตซีน · a05_030	Yagami (ช)		It's like this, Okubo. You tell me\nyou're innocent, and I'll fight to the end.	เอาแบบนี้นะ โอคุโบะ ถ้าคุณบอกผมว่า\nคุณบริสุทธิ์ ผมจะสู้จนถึงที่สุด
+P0501-0137	คัตซีน · a05_030	Yagami (ช)	[อีกแทร็ก]	If you say you're innocent,\nI'm with you to the end.	ถ้าคุณยืนยันว่าบริสุทธิ์\nผมจะอยู่เคียงข้างคุณจนถึงที่สุด
+P0501-0138	คัตซีน · a05_030	Yagami (ช)		I really have nothing to\nlose by helping you out.	ผมไม่มีอะไรจะเสีย\nจากการช่วยคุณอยู่แล้วครับ
+P0501-0139	คัตซีน · a05_030	Yagami (ช)	[อีกแทร็ก]	I've got nothing to lose in offering that.　	ผมไม่เสียอะไรอยู่แล้วที่จะช่วย 
+P0501-0140	คัตซีน · a05_030	Okubo (ช)		It's just like I told you.	ก็เหมือนที่ผมบอกไปแล้วไงครับ
+P0501-0141	คัตซีน · a05_030	Okubo (ช)	[อีกแทร็ก]	I didn't do it!	ผมไม่ได้ทำ!
+P0501-0142	คัตซีน · a05_030	Okubo (ช)		Whoever did it is framing me.	ใครก็ตามที่ทำ กำลังใส่ร้ายผมอยู่
+P0501-0143	คัตซีน · a05_040	Yagami (ช)		Terasawa-san?	เทราซาวะซัง?
+P0501-0144	คัตซีน · a05_040	Emi Terasawa (ญ)		Okubo-san's not\na violent person.	โอคุโบะซังไม่ใช่คน\nที่ใช้ความรุนแรงเลยค่ะ
+P0501-0145	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก] [ใช้ร่วม]	Okubo-san isn't some\nkind of violent criminal.	โอคุโบะซังไม่ใช่อาชญากร\nที่ใช้ความรุนแรงแบบนั้นเลยค่ะ
+P0501-0146	คัตซีน · a05_040	Emi Terasawa (ญ)	[ใช้ร่วม]	And he hasn't even had a drink in over six years.\nNot a single drop since the incident!	แล้วเขาก็ไม่แตะเหล้าเลยมากว่า หกปีแล้ว\nไม่แม้แต่หยดเดียวนับตั้งแต่ เหตุการณ์นั้น!
+P0501-0147	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก] [ใช้ร่วม]	He hasn't touched a drop of alcohol\nsince his outburst six years ago.	เขาไม่แตะเหล้าแม้แต่หยดเดียว\nนับตั้งแต่ที่เขาระเบิดอารมณ์ เมื่อหกปีก่อน
+P0501-0148	คัตซีน · a05_040	Judge (ช)		My court will not stand\nfor this commotion.	ศาลนี้จะไม่ยอมให้\nมีความวุ่นวายแบบนี้เกิดขึ้น
+P0501-0149	คัตซีน · a05_040	Judge (ช)	[อีกแทร็ก]	I'm afraid you're out of order.	เกรงว่าคุณจะพูดนอกลู่นอกทางแล้ว
+P0501-0150	คัตซีน · a05_040	Emi Terasawa (ญ)		He didn't blame Waku-san at all. He knew that\nthe outburst was just caused by his dementia.	เขาไม่เคยโทษวาคุซังเลยสักนิด เขารู้ดีว่า\nการระเบิดอารมณ์นั้นเกิดจากโรค สมองเสื่อมของวาคุซังเอง
+P0501-0151	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	He understood Waku-san was only\nlashing out because of his dementia.	เขาเข้าใจดีว่าวาคุซังแค่\nทำร้ายคนอื่นเพราะโรคสมองเสื่อม เท่านั้น
+P0501-0152	คัตซีน · a05_040	Emi Terasawa (ญ)		That it was all the sickness's fault.	ทั้งหมดเป็นความผิดของโรคร้ายต่างหาก
+P0501-0153	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	So it's not like he held it against him!	เขาไม่เคยผูกใจเจ็บกับวาคุซัง เลยสักนิด!
+P0501-0154	คัตซีน · a05_040	Emi Terasawa (ญ)		So there was no reason for him\nto resort to murder!	เขาจึงไม่มีเหตุผลอะไร\nที่จะต้องลงมือฆ่าเลย!
+P0501-0155	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	There's no way that would\ndrive him to murder!	เรื่องแบบนั้นไม่มีทาง\nผลักดันให้เขาต้องฆ่าคนได้เลย!
+P0501-0156	คัตซีน · a05_040	Yagami (ช)		Terasawa-san. Please.	เทราซาวะซัง ขอร้องล่ะ
+P0501-0157	คัตซีน · a05_040	Yagami (ช)	[อีกแทร็ก]	Terasawa-san, please.	เทราซาวะซัง ใจเย็นๆ ก่อนนะ
+P0501-0158	คัตซีน · a05_040	Emi Terasawa (ญ)		Okubo-san really is\nan incredible, caring person!	โอคุโบะซังเป็นคนที่\nน่าทึ่งและใส่ใจคนอื่นจริงๆ นะคะ!
+P0501-0159	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	Okubo-san has lots of positive traits too!	โอคุโบะซังก็มีข้อดีตั้งเยอะแยะนะคะ!
+P0501-0160	คัตซีน · a05_040	Judge (ช)		Please leave this courtroom at once.	กรุณาออกจากห้องพิจารณาคดีนี้ในทันที
+P0501-0161	คัตซีน · a05_040	Judge (ช)	[อีกแทร็ก]	Leave this courtroom before\nI have you removed!	ออกไปจากห้องพิจารณาคดีนี้ซะ\nก่อนที่จะให้คนมาพาตัวออกไป!
+P0501-0162	คัตซีน · a05_040	Emi Terasawa (ญ)		You're right that he may be hard\nto approach, but he's a kind soul.	ก็จริงที่เขาอาจจะดูเข้าถึงยาก\nแต่ลึกๆ แล้วเขาใจดีมากนะคะ
+P0501-0163	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	He's not the most approachable guy,\nbut he works hard...	เขาอาจจะไม่ใช่คนที่เข้าหาง่ายนัก\nแต่เขาก็ตั้งใจทำงานหนักมาก...
+P0501-0164	คัตซีน · a05_040	Emi Terasawa (ญ)		...And he always keeps his promises!	...แล้วเขาก็รักษาสัญญาเสมอ!
+P0501-0165	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	And he keeps his promises!	แล้วเขาก็เป็นคนรักษาคำพูดด้วย!
+P0501-0166	คัตซีน · a05_040	Emi Terasawa (ญ)		Okubo-san's not the only person in this courtroom\nwho would be affected by a guilty verdict, either.	โอคุโบะซังไม่ใช่คนเดียวในห้องนี้\nที่จะได้รับผลกระทบถ้าถูกตัดสิน ว่ามีความผิดนะคะ
+P0501-0167	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	If you find him guilty,\nmy life is basically over too.	ถ้าตัดสินว่าเขามีความผิด\nชีวิตดิฉันก็คงจบสิ้นไปด้วยเหมือนกัน
+P0501-0168	คัตซีน · a05_040	Emi Terasawa (ญ)		As a matter of fact,\nit would break my heart.	อันที่จริง\nมันคงทำให้ดิฉันใจสลายเลยค่ะ
+P0501-0169	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	That's why he didn't want me to testify.	นั่นแหละค่ะเหตุผลที่เขาไม่อยาก ให้ดิฉันขึ้นให้การ
+P0501-0170	คัตซีน · a05_040	Emi Terasawa (ญ)		And even through it all...	แล้วถึงแม้จะเจอเรื่องแบบนั้นมา ทั้งหมด...
+P0501-0171	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	I couldn't even tell\nhis own lawyer...	ดิฉันไม่เคยบอกแม้แต่\nทนายความของเขาเองเลย...
+P0501-0172	คัตซีน · a05_040	Emi Terasawa (ญ)		He wanted me to keep this a secret! Not to tell anyone,\nnot even his lawyer, that we were dating!	เขาอยากให้ดิฉันเก็บเรื่องนี้ เป็นความลับ! ไม่ให้บอกใครเลย\nแม้แต่ทนายของเขาเอง ว่าเราคบกันอยู่!
+P0501-0173	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	That the two of us\nare seeing each other!	ว่าเราสองคน\nคบหาดูใจกันอยู่!
+P0501-0174	คัตซีน · a05_040	Emi Terasawa (ญ)		Even though he knew he could have ended up in prison,\nmaking sure I was safe was the only thing in the world he cared about!	ถึงแม้เขาจะรู้ว่าอาจต้องติดคุก\nแต่สิ่งเดียวที่เขาใส่ใจในโลก นี้ก็คือความปลอดภัยของดิฉัน!
+P0501-0175	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	Even though he knew he might go to jail,\nhe was only thinking of my future.	ถึงแม้เขาจะรู้ว่าอาจต้องติดคุก\nแต่เขาคิดถึงแต่อนาคตของดิฉันเท่านั้น
+P0501-0176	คัตซีน · a05_040	Emi Terasawa (ญ)		That's just who he is!	นั่นแหละคือตัวตนที่แท้จริงของเขา!
+P0501-0177	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	That's the kind of guy he is!	เขาเป็นคนแบบนั้นแหละ!
+P0501-0178	คัตซีน · a05_040	Emi Terasawa (ญ)		But when the prosecution has\nalready decided he's a criminal...	แต่ในเมื่อฝ่ายอัยการ\nตัดสินไปแล้วว่าเขาคืออาชญากร...
+P0501-0179	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	So is a prosecutor who\npaints him as some kind of bully...	แล้วอัยการที่พยายามป้ายสี\nให้เขาดูเป็นคนพาลรังแกคนอื่น...
+P0501-0180	คัตซีน · a05_040	Emi Terasawa (ญ)		How could he possibly\nbe given a fair trial!?	แล้วเขาจะได้รับการพิจารณาคดี\nอย่างเป็นธรรมได้ยังไงกัน!?
+P0501-0181	คัตซีน · a05_040	Emi Terasawa (ญ)	[อีกแทร็ก]	...Really giving him\nthe benefit of the doubt!?	...จะยกประโยชน์แห่งความสงสัย\nให้เขาจริงๆ เหรอ!?
+P0501-0182	คัตซีน · a05_040	Yagami (ช)		Her little outburst wasn't technically admissable,\nbut as the trial dragged on, it hung over the jury like a stone.	แม้การระเบิดอารมณ์เล็กๆ ของเธอจะรับฟังเป็นหลักฐานไม่ ได้ตามหลักกฎหมาย\nแต่พอการพิจารณาคดียืดเยื้อไป มันก็ถ่วงใจคณะลูกขุนเหมือน ก้อนหินหนักอึ้ง
+P0501-0183	คัตซีน · a05_040	Yagami (ช)	[อีกแทร็ก]	The trial resumed after that, but I think her\nparting remarks helped sway the verdict.	หลังจากนั้นการพิจารณาคดีก็ ดำเนินต่อไป แต่ผมคิดว่าคำพูดทิ้งท้าย\nของเธอมีส่วนโน้มน้าวคำตัดสินไม่น้อย
+P0501-0184	คัตซีน · a05_040	Yagami (ช)		And in the end,\nShinpei Okubo was found not guilty.	และในที่สุด\nชินเป โอคุโบะ ก็ถูกตัดสินว่าไม่มีความผิด
+P0501-0185	คัตซีน · a05_040	Yagami (ช)	[อีกแทร็ก]	Shinpei Okubo was found innocent.	ชินเป โอคุโบะ พ้นผิดในที่สุด
+P0501-0186	คัตซีน · a05_040	Yagami (ช)		But only a month after his release...	แต่เพียงเดือนเดียวหลังจากที่ เขาได้รับการปล่อยตัว...
+P0501-0187	คัตซีน · a05_040	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	But...	แต่...
+P0501-0188	คัตซีน · a05_040	Yagami (ช)		Everything changed.	ทุกอย่างก็เปลี่ยนไป
+P0501-0189	คัตซีน · a05_040	Yagami (ช)	[อีกแทร็ก]	Not more than a month later...　	ไม่ถึงเดือนหลังจากนั้น... 
+P0501-0190	คัตซีน · a05_040	Yagami (ช)		The same girl who had so bravely\nproclaimed Okubo's innocence...	ผู้หญิงคนเดียวกันที่เคยกล้าหาญ\nยืนยันความบริสุทธิ์ของโอคุโบะ...
+P0501-0191	คัตซีน · a05_040	Yagami (ช)	[อีกแทร็ก]	Okubo took it upon himself...	โอคุโบะตัดสินใจด้วยตัวเอง...
+P0501-0192	คัตซีน · a05_040	Yagami (ช)		...Died by the man's own hand.	...ต้องตายด้วยน้ำมือของชายคนนั้นเอง
+P0501-0193	คัตซีน · a05_040	Yagami (ช)	[อีกแทร็ก]	...To render his own cruel verdict\nfor Emi Terasawa.	...ในการตัดสินโทษอันโหดร้ายของตัวเอง\nให้กับเอมิ เทราซาวะ
+P0501-0194	ฉากพิเศษ · b05_010	Narration (?)		What we know is,\nWaku was taken out of his room...\n	สิ่งที่เรารู้คือ\nวาคุถูกพาตัวออกจากห้องของเขา...\n
+P0501-0195	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	We know the old man\nwas taken out of his room...	เรารู้ว่าชายชรา\nถูกพาตัวออกจากห้องของเขา...
+P0501-0196	ฉากพิเศษ · b05_010	Narration (?)		...sometime between 7:50, when he was last seen,\nand 8:30 when everyone noticed he was gone. 	...ในช่วงเวลาระหว่าง 7:50 ที่มีคนเห็นเขาครั้งสุดท้าย\nกับ 8:30 ที่ทุกคนสังเกตว่าเขาหายไป 
+P0501-0197	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	Sometime between 7:50 and 8:30,\nwhen people noticed he was gone.	ช่วงเวลาระหว่าง 7:50 ถึง 8:30\nที่ผู้คนสังเกตว่าเขาหายตัวไป
+P0501-0198	ฉากพิเศษ · b05_010	Narration (?)		During that 40 minute span...	ตลอดช่วงเวลา 40 นาทีนั้น...
+P0501-0199	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	Okubo had 40 minutes...	โอคุโบะมีเวลา 40 นาที...
+P0501-0200	ฉากพิเศษ · b05_010	Narration (?)		...somebody suffocated Waku\nand stuffed him into the laundry bin.	...มีใครบางคนรัดคอวาคุจนขาดใจ\nแล้วยัดใส่ถังผ้าปูที่นอน
+P0501-0201	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	In that time, Waku was suffocated\nand stuffed in a laundry cart.	ในช่วงเวลานั้น วาคุถูกทำให้ขาดอากาศหายใจ\nแล้วถูกยัดใส่รถเข็นผ้าปูที่นอน
+P0501-0202	ฉากพิเศษ · b05_010	Narration (?)		Nobody suspected\nthere was a body in the cart.	ไม่มีใครสงสัย\nว่ามีศพอยู่ในรถเข็น
+P0501-0203	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	No one suspected there was\na body in the cart, naturally.	ไม่มีใครสงสัยเลยว่ามี\nศพซ่อนอยู่ในรถเข็น เป็นธรรมดา
+P0501-0204	ฉากพิเศษ · b05_010	Narration (?)		And the only clear culprit was Okubo,\nthe man in charge of the laundry.	และผู้ต้องสงสัยชัดเจนเพียง คนเดียวคือโอคุโบะ\nชายผู้ดูแลงานผ้าปูที่นอน
+P0501-0205	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	Signs clearly point to the man\nin charge of the cart, Okubo.	เบาะแสทุกอย่างชี้ไปที่ชายผู้ดูแล\nรถเข็นนั้น นั่นคือโอคุโบะ
+P0501-0206	ฉากพิเศษ · b05_010	Narration (?)		To further back this up, DNA evidence\nfrom Waku was found in Okubo's truck.	ยิ่งไปกว่านั้น ยังพบหลักฐาน DNA\nของวาคุอยู่ในรถบรรทุกของโอคุโบะ
+P0501-0207	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	Furthermore, Waku's DNA was\nfound in Okubo's truck.	ยิ่งไปกว่านั้น ยังพบ DNA ของวาคุ\nอยู่ในรถบรรทุกของโอคุโบะ
+P0501-0208	ฉากพิเศษ · b05_010	Narration (?)		And when the police questioned Okubo, he confessed\nto burying the body in the mountains of Okutama.	และเมื่อตำรวจสอบปากคำโอคุโบะ เขาสารภาพ\nว่าฝังศพไว้บนภูเขาโอคุทามะ
+P0501-0209	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	When questioned, Okubo confessed to\nburying the body in the Okutama mountains.	เมื่อถูกสอบปากคำ โอคุโบะสารภาพว่า\nฝังศพไว้บนภูเขาโอคุทามะ
+P0501-0210	ฉากพิเศษ · b05_010	Narration (?)		Three months after the crime,\nWaku's corpse was finally found.	3 เดือนหลังเกิดเหตุ\nในที่สุดก็พบศพของวาคุ
+P0501-0211	ฉากพิเศษ · b05_010	Narration (?)	[อีกแทร็ก]	It took three months before they\nfinally found Waku's body.	ใช้เวลาถึง 3 เดือนกว่าพวกเขา\nจะพบศพของวาคุในที่สุด
+P0501-0212	พากย์ · speech_list_judge_main_c05	? (ญ)		Didn't you just say everything\nwould be okay?	เมื่อกี้คุณเพิ่งบอกว่า\nทุกอย่างจะไม่เป็นไรไม่ใช่เหรอคะ?
+P0501-0213	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Shintani-sensei's...? Yagami-san,\nyou said everything was fine—	อาจารย์ชินทานิ...? ยากามิซัง\nคุณบอกว่าทุกอย่างไม่เป็นไรไง—
+P0501-0214	พากย์ · speech_list_judge_main_c05	? (ญ)		Have you contacted the police?	คุณโทรแจ้งตำรวจหรือยัง?
+P0501-0215	พากย์ · speech_list_judge_main_c05	? (ญ)		You should do that right away, then...	งั้นคุณควรโทรแจ้งเดี๋ยวนี้เลยนะคะ...
+P0501-0216	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Okay... You should do that\nright away, then...	โอเคค่ะ... งั้นคุณควรโทรแจ้ง\nเดี๋ยวนี้เลยนะคะ...
+P0501-0217	พากย์ · speech_list_judge_main_c05	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	What!?	อะไรนะ!?
+P0501-0218	พากย์ · speech_list_judge_main_c05	? (กลาง)	[ต้องกลางเพศ] [ซ้ำในบท x2]	...Yeah, okay.	... ได้
+P0501-0219	พากย์ · speech_list_judge_main_c05	? (กลาง)	[อีกแทร็ก] [ต้องกลางเพศ] [ซ้ำในบท x2]	...I understand.	...เข้าใจแล้ว
+P0501-0220	พากย์ · speech_list_judge_main_c05	Yagami (ช)		Stay calm, Saori-san.\nI'm just as shocked as you.	ใจเย็นๆ ก่อนนะ ซาโอริซัง\nผมเองก็ช็อกไม่ต่างจากคุณ
+P0501-0221	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	Listen, Saori-san.\nI'm still trying to process this myself.	ฟังนะ ซาโอริซัง\nผมเองก็ยังทำใจกับเรื่องนี้ ไม่ได้เหมือนกัน
+P0501-0222	พากย์ · speech_list_judge_main_c05	? (ช)		But... I think the Mole is responsible.	แต่... ผมคิดว่าไอ้ตัวตุ่นเป็นคนก่อเหตุ
+P0501-0223	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	No, not yet.	ยังไม่เจอเลย
+P0501-0224	พากย์ · speech_list_judge_main_c05	? (ช)	[ซ้ำในบท x2]	Wait.	เดี๋ยว
+P0501-0225	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Hold on.	เดี๋ยวก่อน
+P0501-0226	พากย์ · speech_list_judge_main_c05	? (ช)		Do you think you could\nmake the call, Saori-san?	คุณช่วยเป็นคนโทรแจ้ง\nแทนผมได้ไหมครับ ซาโอริซัง?
+P0501-0227	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Can you... make the call\nfor me, Saori-san?	คุณช่วย... โทรแจ้ง\nแทนผมได้ไหมครับ ซาโอริซัง?
+P0501-0228	พากย์ · speech_list_judge_main_c05	? (ช)		I need time to check things out\nbefore the cops show up and take over.	ผมต้องการเวลาตรวจดูที่เกิดเหตุ\nก่อนที่ตำรวจจะมาถึงแล้วยึดคดีไป
+P0501-0229	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I just... wanna investigate as much as I can\nbefore the cops show up.	ผมแค่... อยากสืบให้ได้มากที่สุดเท่าที่จะทำได้\nก่อนตำรวจจะมาถึง
+P0501-0230	พากย์ · speech_list_judge_main_c05	? (ช)		Please.	ได้โปรดครับ
+P0501-0231	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Thanks.	ขอบคุณ
+P0501-0232	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	I appreciate it.	ขอบคุณครับ
+P0501-0233	พากย์ · speech_list_judge_main_c05	Yagami (ช)		<color=ｍonologue>(His eyes are gouged out.\nSame as all the Mole's other victims.)</color>	<color=ｍonologue>(ดวงตาถูกควักออก\nเหมือนกับเหยื่อรายอื่นๆ ของไอ้ตัวตุ่น)</color>
+P0501-0234	พากย์ · speech_list_judge_main_c05	? (ช)	[ซ้ำในบท x2]	<color=ｍonologue>(No blood on the floor.\nThe murder must have happened somewhere else.)</color>	<color=ｍonologue>(ไม่มีเลือดบนพื้น\nคงถูกฆ่าที่อื่นแล้วเอาศพมาทิ้งที่นี่)</color>
+P0501-0235	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(A bullet hole?)</color>	<color=ｍonologue>(รอยกระสุนเหรอ?)</color>
+P0501-0236	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(That must be the cause of death.\nBut that's not the Mole's usual MO...)</color>	<color=ｍonologue>(นี่คงเป็นสาเหตุการตาย\nแต่มันไม่ใช่วิธีการปกติของ ไอ้ตัวตุ่นนี่...)</color>
+P0501-0237	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Hm, what about Shintani's phone?\nMight be a good place to look.)</color>	<color=ｍonologue>(อืม แล้วโทรศัพท์ของชินทานิล่ะ?\nน่าจะเป็นจุดเริ่มที่ดี)</color>
+P0501-0238	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(It was going off when I called him earlier,\nso it's definitely on his body.)</color>	<color=ｍonologue>(ตอนที่ผมโทรหาเมื่อกี้มันยังดังอยู่\nงั้นมันต้องอยู่ติดตัวเขาแน่ๆ)</color>
+P0501-0239	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Quickest way to find it would be calling it again.)</color>	<color=ｍonologue>(วิธีที่เร็วที่สุดคือโทรซ้ำอีกครั้ง)</color>
+P0501-0240	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(The ringtone'll lead me straight to it.)</color>	<color=ｍonologue>(เสียงเรียกเข้าจะนำผมไปหามันเอง)</color>
+P0501-0241	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(All right... Here we go.)</color>	<color=ｍonologue>(เอาล่ะ... เริ่มกันเลย)</color>
+P0501-0242	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Hm. Just have to listen close,\nsee where it's coming from.)</color>	<color=ｍonologue>(อืม แค่ต้องฟังให้ดีๆ\nดูว่าเสียงมาจากไหน)</color>
+P0501-0243	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(There it is!)</color>	<color=ｍonologue>(อยู่นี่เอง!)</color>
+P0501-0244	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Shintani's phone.\nI should take a closer look.)</color>	<color=ｍonologue>(โทรศัพท์ของชินทานิ\nลองดูใกล้ๆ ดีกว่า)</color>
+P0501-0245	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(A black cat...\nI'm not superstitious, but...)</color>	<color=ｍonologue>(แมวดำ...\nผมไม่ได้เชื่อโชคลางอะไรหรอกนะ แต่...)</color>
+P0501-0246	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Shintani was in here. Maybe his phone's here too?)</color>	<color=ｍonologue>(ชินทานิเคยอยู่ตรงนี้ บางทีโทรศัพท์อาจอยู่แถวนี้ด้วย?)</color>
+P0501-0247	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(...Nope, no phone.)</color>	<color=ｍonologue>(...ไม่มีเลย ไม่มีโทรศัพท์)</color>
+P0501-0248	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Sounds like the vibration is coming from... the body?)</color>	<color=ｍonologue>(เสียงสั่นเหมือนจะมาจาก... ศพเหรอ?)</color>
+P0501-0249	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(I should check it a little more closely.)</color>	<color=ｍonologue>(ควรตรวจดูให้ละเอียดกว่านี้หน่อย)</color>
+P0501-0250	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Maybe it's under the chair?)</color>	<color=ｍonologue>(หรือจะอยู่ใต้เก้าอี้?)</color>
+P0501-0251	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Nope.)</color>	<color=ｍonologue>(ไม่มี)</color>
+P0501-0252	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(What about under the table?)</color>	<color=ｍonologue>(แล้วใต้โต๊ะล่ะ?)</color>
+P0501-0253	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Shoot. Not here.)</color>	<color=ｍonologue>(บ้าเอ๊ย ไม่อยู่ตรงนี้)</color>
+P0501-0254	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Is it under the sofa?)</color>	<color=ｍonologue>(อยู่ใต้โซฟาหรือเปล่า?)</color>
+P0501-0255	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Nope, don't see it.)</color>	<color=ｍonologue>(ไม่นี่ มองไม่เห็นเลย)</color>
+P0501-0256	พากย์ · speech_list_judge_main_c05	Kuroiwa (ช)		We received a call\nfrom the Genda Law Office.	เราได้รับแจ้ง\nจากสำนักงานกฎหมายเก็นดะ
+P0501-0257	พากย์ · speech_list_judge_main_c05	Kuroiwa (ช)	[อีกแทร็ก]	I'm here about a report\nfrom the Genda Law Office.	ผมมาเรื่องรายงานที่แจ้ง\nจากสำนักงานกฎหมายเก็นดะ
+P0501-0258	พากย์ · speech_list_judge_main_c05	? (ช)		Shintani, huh?	ชินทานิเหรอ?
+P0501-0259	พากย์ · speech_list_judge_main_c05	? (ช)		His name has been coming up a lot lately.\nHe's the reason Hamura walked, after all.	ช่วงนี้ชื่อเขาโผล่มาบ่อยเชียว\nก็เขาเป็นเหตุผลที่ฮามุระรอดคดีนี่นา
+P0501-0260	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	He's been coming up a lot lately.\nHe's the reason Hamura walked, after all.	ช่วงนี้ชื่อเขาโผล่มาบ่อยเชียว\nก็เขาเป็นเหตุผลที่ฮามุระรอดคดีนี่นา
+P0501-0261	พากย์ · speech_list_judge_main_c05	? (ช)		Perhaps... you couldn't stand his newfound fame,\nso you offed him?	หรือว่า... คุณทนดูเขาดังไม่ได้\nเลยเก็บเขาซะ?
+P0501-0262	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I see. Got too popular for you,\nso you offed him?	อ๋อ เข้าใจแล้ว เขาดังเกินไป\nสำหรับคุณ เลยเก็บเขาซะสินะ?
+P0501-0263	พากย์ · speech_list_judge_main_c05	? (ช)		I heard you two weren't\nexactly on good terms.	ได้ยินมาว่าคุณสองคน\nไม่ค่อยลงรอยกันเท่าไหร่
+P0501-0264	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I hear you two weren't on good terms, either.	ได้ยินมาเหมือนกันว่าคุณสองคน ไม่ค่อยลงรอยกัน
+P0501-0265	พากย์ · speech_list_judge_main_c05	? (ช)		Forensics will be here soon.	ทีมพิสูจน์หลักฐานกำลังจะมาถึง
+P0501-0266	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	...Forensics will be here soon.	...ทีมพิสูจน์หลักฐานกำลังจะมาถึง
+P0501-0267	พากย์ · speech_list_judge_main_c05	? (ช)		We will need you present as a resident of the property.\nAfter that, we'll need some time to investigate.	เราต้องการให้คุณอยู่ด้วยในฐานะ ผู้พักอาศัย\nหลังจากนั้นเราจะขอเวลาตรวจสอบ สถานที่สักพัก
+P0501-0268	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You need to be present as a resident of the property.\nWe'll need time to investigate after that.	คุณต้องอยู่ด้วยในฐานะ ผู้พักอาศัยของที่นี่\nแล้วเราจะขอเวลาตรวจสอบสถานที่ หลังจากนั้น
+P0501-0269	พากย์ · speech_list_judge_main_c05	? (ช)		You'll have to find somewhere else\nto stay tonight, at the very least.	อย่างน้อยที่สุดคุณต้องหาที่พัก\nอื่นสำหรับคืนนี้
+P0501-0270	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You'll need other accommodations\nfor tonight, at least.	อย่างน้อยคุณต้องหาที่พักอื่น\nสำหรับคืนนี้
+P0501-0271	พากย์ · speech_list_judge_main_c05	? (ช)		Yet you can afford bribing a cop?	แต่มีเงินพอติดสินบนตำรวจงั้นเหรอ?
+P0501-0272	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yet you have the cash\nto spare on bribing a cop?	แต่ดันมีเงินเหลือ\nไว้ติดสินบนตำรวจงั้นสิ?
+P0501-0273	พากย์ · speech_list_judge_main_c05	? (ช)		Ayabe's sources aren't even that reliable.	ข้อมูลของอายาเบะยังไม่ น่าเชื่อถือเลยด้วยซ้ำ
+P0501-0274	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Ayabe's intel isn't always accurate.	ข่าวกรองของอายาเบะไม่ได้แม่น เสมอไปหรอกนะ
+P0501-0275	พากย์ · speech_list_judge_main_c05	? (ช)		Oh, I'm sure you do.	อ๋อ ผมมั่นใจว่าคุณรู้ดี
+P0501-0276	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Listen. Don't underestimate the police.	ฟังนะ อย่าประมาทตำรวจนัก
+P0501-0277	พากย์ · speech_list_judge_main_c05	? (ช)		You got here fast, Detective Kuroiwa.	มาเร็วนะครับ นักสืบคุโรอิวะ
+P0501-0278	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I didn't think you'd get here\nso quick, Officer Kuroiwa.	ไม่คิดว่าคุณจะมาเร็ว\nขนาดนี้เลยนะครับ เจ้าหน้าที่คุโรอิวะ
+P0501-0279	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	...Yeah.	...เออ
+P0501-0280	พากย์ · speech_list_judge_main_c05	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x4]	Uh-huh.	ใช่เลย
+P0501-0281	พากย์ · speech_list_judge_main_c05	seiya_girl (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	What?	อะไรนะ?
+P0501-0282	พากย์ · speech_list_judge_main_c05	? (ช)		Do you greet everyone by\naccusing them of murder?	คุณทักทายทุกคนด้วยการ\nกล่าวหาว่าเป็นฆาตกรแบบนี้เลยเหรอ?
+P0501-0283	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Nice. Jump to murder accusations\nbefore you even say hello.	เยี่ยมมาก รีบกล่าวหาว่าเป็นฆาตกร\nก่อนจะทันได้ทักทายกันด้วยซ้ำ
+P0501-0284	พากย์ · speech_list_judge_main_c05	? (ช)		Guess that's just how cops like you operate.	คงเป็นวิธีทำงานของตำรวจแบบคุณสินะ
+P0501-0285	พากย์ · speech_list_judge_main_c05	? (ช)		How long?	นานแค่ไหน?
+P0501-0286	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	How long are we talking?	นานขนาดไหนกัน?
+P0501-0287	พากย์ · speech_list_judge_main_c05	? (ช)		I don't have money for that...	ผมไม่มีเงินพอสำหรับเรื่องนั้นหรอกนะ...
+P0501-0288	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I don't have the money for that...	ผมไม่มีเงินพอสำหรับเรื่องนั้นหรอก...
+P0501-0289	พากย์ · speech_list_judge_main_c05	? (ช)		Don't know what you mean.	ไม่รู้ว่าคุณพูดถึงอะไร
+P0501-0290	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Don't know what you're talking about.	ไม่รู้เรื่องที่คุณพูดเลยสักนิด
+P0501-0291	พากย์ · speech_list_judge_main_c05	Yagami (ช)		<color=ｍonologue>(His call history should tell\nme everything I need to know.)</color>	<color=ｍonologue>(ประวัติการโทรของเขาน่าจะบอกทุกอย่าง\nที่ผมต้องรู้)</color>
+P0501-0292	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Most of these are to Genda's office.)</color>	<color=ｍonologue>(ส่วนใหญ่โทรไปที่สำนักงานเก็นดะ)</color>
+P0501-0293	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(All of them except... the last number he called.)</color>	<color=ｍonologue>(ทั้งหมดเลย ยกเว้น... เบอร์สุดท้ายที่เขาโทรออก)</color>
+P0501-0294	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(Shintani called it just a few hours before his death.\nWho was he talking to?)</color>	<color=ｍonologue>(ชินทานิโทรไปแค่ไม่กี่ชั่วโมงก่อนตาย\nเขาคุยกับใครกันแน่?)</color>
+P0501-0295	พากย์ · speech_list_judge_main_c05	Saori (ญ)		Yes. He wants to talk to you\nabout Shintani.	ค่ะ เขาอยากคุยกับคุณ\nเรื่องชินทานิ
+P0501-0296	พากย์ · speech_list_judge_main_c05	? (ญ)		As do I.\nHoshino, too.	ฉันก็เหมือนกันค่ะ\nโฮชิโนะคุงก็ด้วย
+P0501-0297	พากย์ · speech_list_judge_main_c05	Yagami (ช)		Yeah, sorry. I had to wait around\nfor the cops to get here.	ครับ ขอโทษที ผมต้องรอ\nจนกว่าตำรวจจะมาถึงน่ะ
+P0501-0298	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	...Yeah. I had to wait around\nfor the cops to get here.	...ครับ ผมต้องรอ\nจนกว่าตำรวจจะมาถึงน่ะ
+P0501-0299	พากย์ · speech_list_judge_main_c05	? (ช)		Is Genda-sensei still at the office?	อาจารย์เก็นดะยังอยู่ที่ สำนักงานไหมครับ?
+P0501-0300	พากย์ · speech_list_judge_main_c05	? (ช)		Okay, I'll head over now.	โอเคครับ ผมจะไปเดี๋ยวนี้
+P0501-0301	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Okay. I'll head over now.	โอเคครับ ผมไปเดี๋ยวนี้เลย
+P0501-0302	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	See you soon.	แล้วเจอกันครับ
+P0501-0303	พากย์ · speech_list_judge_main_c05	Genda (ช)		I know you've had a rough night, Yagami... But if you're\nup to it, can you tell us what happened to Shintani?	ผมรู้ว่าคืนนี้คุณเจอเรื่องหนักมา ยากามิ... แต่ถ้าคุณไหว\nช่วยเล่าให้เราฟังได้ไหมว่าเกิด อะไรขึ้นกับชินทานิ
+P0501-0304	พากย์ · speech_list_judge_main_c05	Genda (ช)	[อีกแทร็ก]	You've had a rough night, Yagami... but if you're up to it,\ncan you tell us what happened with Shintani?	คืนนี้คุณเจอเรื่องหนักมา ยากามิ... แต่ถ้าคุณไหว\nช่วยเล่าให้เราฟังได้ไหมว่าเกิด อะไรขึ้นกับชินทานิ
+P0501-0305	พากย์ · speech_list_judge_main_c05	? (ช)		You might wanna lay low for a bit.\nIt's not safe for you here.	คุณน่าจะหลบซ่อนตัวสักพัก\nอยู่ที่นี่มันไม่ปลอดภัยสำหรับคุณแล้ว
+P0501-0306	พากย์ · speech_list_judge_main_c05	? (ช)		Get outta town, go somewhere quiet.	ออกไปนอกเมืองซะ ไปอยู่ที่เงียบๆ สักที่
+P0501-0307	พากย์ · speech_list_judge_main_c05	? (ช)		If the Mole comes after you next...	ถ้าไอ้ตัวตุ่นหันมาเล่นงานคุณ เป็นรายต่อไป...
+P0501-0308	พากย์ · speech_list_judge_main_c05	? (ช)		Y'know, I watched over Shintani\nsince his first day as a lawyer.	รู้ไหม ผมดูแลชินทานิ\nมาตั้งแต่วันแรกที่เขาเป็นทนาย
+P0501-0309	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	...I've been watching over Shintani\nsince his first day.	...ผมดูแลชินทานิมา\nตั้งแต่วันแรกเลยนะ
+P0501-0310	พากย์ · speech_list_judge_main_c05	? (ช)		Kid had a good head on his shoulders.\nAnd a knack for the job I could never compete with.	เด็กคนนั้นหัวดีมาก\nมีพรสวรรค์ในงานนี้ที่ผมเองยัง สู้ไม่ได้
+P0501-0311	พากย์ · speech_list_judge_main_c05	? (ช)		But he didn't have the guts to succeed when push came\nto shove. Not the most persistent lawyer I've seen.	แต่พอถึงเวลาคับขันจริงๆ เขากลับไม่มีความกล้าพอ\nจะไปให้สุด ไม่ใช่ทนายที่ยืนหยัดที่สุดที่ ผมเคยเจอ
+P0501-0312	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But... he didn't have the guts when push came to shove.\nNot the most persistent lawyer I've seen.	แต่... พอถึงเวลาคับขันจริงๆ เขาไม่มีความกล้าพอ\nไม่ใช่ทนายที่ยืนหยัดที่สุดที่ ผมเคยเจอ
+P0501-0313	พากย์ · speech_list_judge_main_c05	? (ช)		Even so, he looked up to me.	ถึงอย่างนั้นเขาก็ยังนับถือผม
+P0501-0314	พากย์ · speech_list_judge_main_c05	? (ช)		Guess I took it for granted.\nThought he'd always be part of the team.	คงเป็นเพราะผมมองข้ามไปเอง\nคิดว่าเขาจะอยู่เป็นส่วนหนึ่ง ของทีมตลอดไป
+P0501-0315	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Figured he'd always be part of the team here.\nTook him for granted.	คิดว่าเขาจะอยู่เป็นส่วนหนึ่ง ของทีมที่นี่ตลอดไป\nมองข้ามความสำคัญของเขาไปเอง
+P0501-0316	พากย์ · speech_list_judge_main_c05	? (ช)		Or so you thought, right?	หรือคุณแค่คิดไปเองว่างั้นสินะ
+P0501-0317	พากย์ · speech_list_judge_main_c05	? (ช)		Thanks for this, Yagami.	ขอบใจนะ ยากามิ
+P0501-0318	พากย์ · speech_list_judge_main_c05	? (ช)		Come on, Saori-kun.\nI'll walk you to the station.	ไปกันเถอะ ซาโอริคุง\nผมจะไปส่งที่สถานีเอง
+P0501-0319	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Saori-kun... come on.\nI'll walk you to the station.	ซาโอริคุง... ไปกันเถอะ\nผมจะไปส่งที่สถานีเอง
+P0501-0320	พากย์ · speech_list_judge_main_c05	? (ช)		Feel free to stay here tonight, Yagami.	คืนนี้พักที่นี่ได้ตามสบายเลยนะ ยากามิ
+P0501-0321	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Feel free to stay here tonight.	คืนนี้พักที่นี่ได้ตามสบายเลย
+P0501-0322	พากย์ · speech_list_judge_main_c05	? (ช)		What about you, Hoshino-kun?	แล้วโฮชิโนะคุงล่ะ?
+P0501-0323	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	And you, Hoshino-kun?	แล้วคุณล่ะ โฮชิโนะคุง?
+P0501-0324	พากย์ · speech_list_judge_main_c05	? (ช)		If you say so. G'night.	ถ้าคุณว่างั้นก็ตามนั้น ราตรีสวัสดิ์
+P0501-0325	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	If you say so.\nWell... 'Night.	ถ้าคุณว่างั้น\nก็... ราตรีสวัสดิ์
+P0501-0326	พากย์ · speech_list_judge_main_c05	Hoshino (ช)		The others?\nDo you mean his eyes were...	เหยื่อรายอื่น?\nหมายความว่าดวงตาของเขา...
+P0501-0327	พากย์ · speech_list_judge_main_c05	Hoshino (ช)	[อีกแทร็ก]	It looked like the Mole's work?\nYou mean Shintani-sensei's eyes were...?	ฝีมือของไอ้ตัวตุ่นเหรอ?\nหมายความว่าดวงตาของอาจารย์ชินทานิ...?
+P0501-0328	พากย์ · speech_list_judge_main_c05	? (ช)		I'm not so sure... It sounded like he knew\nsomething when you talked earlier.	ผมก็ไม่แน่ใจนัก... ฟังจากที่คุณคุยกับเขาก่อนหน้านี้\nดูเหมือนเขาจะรู้อะไรบางอย่าง
+P0501-0329	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But Shintani-sensei... He sounded like he knew something\nearlier today, right?	แต่อาจารย์ชินทานิ... ฟังดูเหมือนเขารู้อะไรบางอย่าง\nตอนที่คุยกันวันนี้ใช่ไหมครับ?
+P0501-0330	พากย์ · speech_list_judge_main_c05	? (ช)		I think I'll work a little more\nbefore I head home.	ผมว่าจะทำงานต่ออีกนิด\nก่อนกลับบ้านครับ
+P0501-0331	พากย์ · speech_list_judge_main_c05	? (ช)		Good night, Boss.	ราตรีสวัสดิ์ครับ หัวหน้า
+P0501-0332	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Good night.	ราตรีสวัสดิ์ครับ
+P0501-0333	พากย์ · speech_list_judge_main_c05	? (ญ)		But... why did he have to put\nShintani-sensei's body in your office?	แต่... ทำไมมันถึงต้องเอาศพ\nอาจารย์ชินทานิมาทิ้งไว้ที่ สำนักงานของยากามิซังด้วยล่ะคะ?
+P0501-0334	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	But, um... Why would the Mole have put Shintani-sensei...\nThat is, put his body in your office?	แต่... เอ่อ ทำไมไอ้ตัวตุ่นถึงเอาอาจารย์ชินทานิ...\nคือ เอาศพเขามาทิ้งที่สำนักงานของ ยากามิซังล่ะคะ?
+P0501-0335	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	Sure.	ใช่
+P0501-0336	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Okay.	ตกลง
+P0501-0337	พากย์ · speech_list_judge_main_c05	Shintani (ช)	[ใช้ร่วม]	Think this is some kind of yakuza pissing contest, do you?\nCome on! The Mole is way bigger than you know!	คิดว่านี่เป็นแค่เรื่องขัดแย้ง ของยากูซ่าเหรอครับ?\nไม่ใช่นะ! ไอ้ตัวตุ่นมันใหญ่กว่าที่ อาจารย์คิดเยอะ!
+P0501-0338	พากย์ · speech_list_judge_main_c05	Shintani (ช)	[อีกแทร็ก] [ใช้ร่วม]	You think this is just some yakuza dispute?\nThe Mole is bigger than any of that shit!	อาจารย์คิดว่านี่แค่เรื่อง ขัดแย้งของยากูซ่างั้นเหรอ?\nไอ้ตัวตุ่นมันใหญ่กว่าเรื่อง พรรค์นั้นเยอะ!
+P0501-0339	พากย์ · speech_list_judge_main_c05	Yagami (ช)		Saori-san was having trouble getting\nin touch with Shintani.	ซาโอริซังติดต่อชินทานิ\nไม่ได้เลย
+P0501-0340	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	...Shintani-sensei wasn't answering any calls.	...อาจารย์ชินทานิไม่รับสายเลยสักครั้ง
+P0501-0341	พากย์ · speech_list_judge_main_c05	? (ช)		So I decided to give him a call myself,\nsee what the deal was.	ผมเลยลองโทรหาเขาเอง\nดูว่าเกิดอะไรขึ้น
+P0501-0342	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	At least, not from Saori-san.\nSo I thought I'd give him a call myself.	อย่างน้อยก็ไม่รับสายจากซาโอริซัง\nผมเลยลองโทรหาเขาเองดู
+P0501-0343	พากย์ · speech_list_judge_main_c05	? (ช)		But when I dialed him up...\nI heard the phone ringing in my closet.	แต่พอผมโทรไป...\nกลับได้ยินเสียงโทรศัพท์ดังใน ตู้เสื้อผ้าของผม
+P0501-0344	พากย์ · speech_list_judge_main_c05	? (ช)		Shintani was killed the same way\nas all the others.	ชินทานิถูกฆ่าด้วยวิธีเดียวกัน\nกับเหยื่อรายอื่นๆ
+P0501-0345	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I found Shintani.\nJust like the Mole's other victims.	ผมเจอชินทานิ\nสภาพเหมือนเหยื่อรายอื่นของ ไอ้ตัวตุ่นเป๊ะ
+P0501-0346	พากย์ · speech_list_judge_main_c05	? (ช)		Gouged out, yeah.	ถูกควักออก ใช่ครับ
+P0501-0347	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yeah. Gouged out.	ใช่ครับ ถูกควักออก
+P0501-0348	พากย์ · speech_list_judge_main_c05	? (ช)		But Shintani's beef was with the Kyorei Clan.\nWhy would the Mole target him?	แต่คู่อริของชินทานิคือ ตระกูลเคียวเรอิ\nแล้วไอ้ตัวตุ่นจะเล่นงานเขาทำไม?
+P0501-0349	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But the Kyorei were the ones after him.\nThere was no reason for the Mole to target him.	แต่คนที่ตามล่าเขาคือตระกูลเคียวเรอิ\nไอ้ตัวตุ่นไม่มีเหตุผลอะไรจะ เล่นงานเขาเลย
+P0501-0350	พากย์ · speech_list_judge_main_c05	Kaito (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x4]	Right.	ใช่
+P0501-0351	พากย์ · speech_list_judge_main_c05	? (ช)		He probably knew more about the Mole than I did.\nAnd his source had to have been Hamura.	เขาคงรู้เรื่องไอ้ตัวตุ่น มากกว่าผมด้วยซ้ำ\nและแหล่งข่าวของเขาก็คงเป็น ฮามุระนั่นเอง
+P0501-0352	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	So he knew something about the Mole that I didn't.\nI'd guess... he heard something from Hamura.	แปลว่าเขารู้เรื่องไอ้ตัวตุ่น ที่ผมไม่รู้\nผมเดาว่า... เขาคงได้ยินอะไรมาจากฮามุระ
+P0501-0353	พากย์ · speech_list_judge_main_c05	? (ช)		Maybe they killed him to keep their secret safe.	บางทีพวกมันอาจฆ่าเขาเพื่อ ปิดปากรักษาความลับ
+P0501-0354	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Not sure.	ไม่แน่ใจเหมือนกัน
+P0501-0355	พากย์ · speech_list_judge_main_c05	? (ช)		Maybe to harass me,\nmaybe to scare me off their trail. Maybe both.	อาจจะกวนประสาทผม\nหรือไม่ก็ขู่ให้ผมเลิกตามรอยพวกมัน หรืออาจจะทั้งสองอย่าง
+P0501-0356	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Maybe to harass me, maybe to scare me\noff their trail. Maybe both.	อาจจะกวนประสาทผม หรือไม่ก็ขู่ให้ผมเลิกตามรอย\nพวกมัน หรืออาจจะทั้งสองอย่าง
+P0501-0357	พากย์ · speech_list_judge_main_c05	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x5]	Hm?	หืม?
+P0501-0358	พากย์ · speech_list_judge_main_c05	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	Yeah?	ว่าไง?
+P0501-0359	พากย์ · speech_list_judge_main_c05	? (ช)		Right. I'll do just that, Genda-sensei.	ครับ ผมจะทำแบบนั้นแหละครับ อาจารย์เก็นดะ
+P0501-0360	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Makes sense.\nI'll do just that, Genda-sensei.	มีเหตุผลครับ\nผมจะทำแบบนั้นแหละ อาจารย์เก็นดะ
+P0501-0361	พากย์ · speech_list_judge_main_c05	? (ช)		When I first joined, Shintani-sensei was the one\nwho showed me the ropes. He was a reliable man.	ตอนที่ผมเพิ่งเข้ามาทำงาน อาจารย์ชินทานิคือคนที่\nสอนงานให้ผมทุกอย่าง เขาเป็นคนที่พึ่งพาได้จริงๆ
+P0501-0362	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	When I first started working here, it was Shintani-sensei\nwho showed me the ropes of the job. He was my senpai.	ตอนที่ผมเริ่มทำงานที่นี่ใหม่ๆ อาจารย์ชินทานิคือคนที่\nสอนงานให้ผมทุกอย่าง เขาเป็นรุ่นพี่ของผม
+P0501-0363	พากย์ · speech_list_judge_main_c05	? (ช)		(I need to go tell Genda-sensei\nwhat happened to Shintani...)	(ผมต้องไปบอกอาจารย์เก็นดะ\nว่าเกิดอะไรขึ้นกับชินทานิ...)
+P0501-0364	พากย์ · speech_list_judge_main_c05	Hoshino (ช)		Make yourself at home, Yagami-san.\nI'll leave you the key.	พักที่นี่ได้ตามสบายเลยนะครับ ยากามิซัง\nผมจะฝากกุญแจไว้ให้
+P0501-0365	พากย์ · speech_list_judge_main_c05	Hoshino (ช)	[อีกแทร็ก]	Make yourself at home, Yagami-san.\nHere, I'll even leave the key for you.	พักที่นี่ได้ตามสบายเลยครับ ยากามิซัง\nนี่ครับ ผมฝากกุญแจไว้ให้เลย
+P0501-0366	พากย์ · speech_list_judge_main_c05	? (ช)		You've been here way longer anyway.\nYou deserve it more than me.	ยังไงคุณก็อยู่ที่นี่มานานกว่าผมเยอะ\nคุณสมควรได้รับสิ่งนี้มากกว่าผมครับ
+P0501-0367	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You've been here way longer than I have, anyway.\nYou ought to have it.	ยังไงคุณก็อยู่ที่นี่มานานกว่า ผมเยอะครับ\nคุณควรได้รับสิ่งนี้มากกว่า
+P0501-0368	พากย์ · speech_list_judge_main_c05	? (ช)		Are you going out, Yagami-san?	จะออกไปข้างนอกเหรอครับ ยากามิซัง?
+P0501-0369	พากย์ · speech_list_judge_main_c05	? (ช)		There's, um...\nsomething I need to talk to you about.	มี เอ่อ...\nเรื่องที่ผมอยากคุยกับคุณครับ
+P0501-0370	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Just, um... It can wait if you're busy, but\nthere's something I want to talk to you about.	แค่... เอ่อ ถ้าคุณไม่ว่างก็รอได้ครับ แต่\nมีเรื่องที่ผมอยากคุยด้วย
+P0501-0371	พากย์ · speech_list_judge_main_c05	? (ช)		Uh, it can wait until you get back though.	เอ่อ แต่รอจนคุณกลับมาก่อนก็ได้ครับ
+P0501-0372	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Ah, but don't let me keep you.	อ้อ แต่ไม่อยากรั้งคุณไว้หรอกครับ ไปเถอะ
+P0501-0373	พากย์ · speech_list_judge_main_c05	? (ช)		Um, Yagami-san...\nDo you have a minute?	เอ่อ ยากามิซัง...\nมีเวลาสักครู่ไหมครับ?
+P0501-0374	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Ah... Do you have a minute?\nI'd like to speak with you privately.	อ้อ... มีเวลาสักครู่ไหมครับ?\nผมอยากคุยกับคุณเป็นการส่วนตัว
+P0501-0375	พากย์ · speech_list_judge_main_c05	? (ช)		Well, it's about Shintani-sensei...	คือ... เรื่องของอาจารย์ชินทานิน่ะครับ...
+P0501-0376	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yes, well... it's about Shintani-sensei...	ครับ คือ... เรื่องของอาจารย์ชินทานิน่ะครับ...
+P0501-0377	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x3]	I understand.	เข้าใจแล้วล่ะ
+P0501-0378	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[ใช้ร่วม]	...Yeah?	...ครับ?
+P0501-0379	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	...Hm?	...หืม?
+P0501-0380	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[ใช้ร่วม]	Sure, what's up?	ได้สิ มีอะไรเหรอ?
+P0501-0381	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Sure. What's up?	ได้สิ มีอะไรเหรอ?
+P0501-0382	พากย์ · speech_list_judge_main_c05	? (ช)		In a bit, okay?	เดี๋ยวค่อยคุยกันนะ?
+P0501-0383	พากย์ · speech_list_judge_main_c05	Hattori (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Yagami-san.	ยากามิซัง
+P0501-0384	พากย์ · speech_list_judge_main_c05	Hoshino (ช)	[อีกแทร็ก]	Yagami-san, about what you said earlier...	ยากามิซัง เรื่องที่คุณพูดไว้เมื่อกี้...
+P0501-0385	พากย์ · speech_list_judge_main_c05	? (ช)		I know you just told Genda-sensei\nyou're gonna lay low...	ผมรู้ว่าคุณเพิ่งบอกอาจารย์เก็นดะ\nไปว่าจะหลบซ่อนตัวสักพัก...
+P0501-0386	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I know you told Genda-sensei\nyou're going to lay low...	ผมรู้ว่าคุณบอกอาจารย์เก็นดะ\nไปว่าจะหลบซ่อนตัว...
+P0501-0387	พากย์ · speech_list_judge_main_c05	? (ช)		But that's not true, is it?\nYou want to keep hunting down this killer.	แต่นั่นไม่ใช่ความจริงใช่ไหมครับ?\nคุณยังอยากตามล่าฆาตกรคนนี้ ต่อไปอยู่ดี
+P0501-0388	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But you're just going to keep looking\nfor the Mole, right?	แต่คุณก็แค่จะตามหา\nไอ้ตัวตุ่นต่อไปใช่ไหมครับ?
+P0501-0389	พากย์ · speech_list_judge_main_c05	? (ช)		Don't worry, I won't tell Genda-sensei.\nBut in return...	ไม่ต้องห่วงครับ ผมจะไม่บอกอาจารย์เก็นดะ\nแต่แลกกับที่...
+P0501-0390	พากย์ · speech_list_judge_main_c05	? (ช)		I want to help you.\nLook for the Mole, that is.	ผมอยากช่วยคุณ\nตามหาไอ้ตัวตุ่นน่ะครับ
+P0501-0391	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Can I help out too?\nLooking for the Mole, that is.	ผมขอช่วยด้วยคนได้ไหมครับ?\nช่วยตามหาไอ้ตัวตุ่นน่ะ
+P0501-0392	พากย์ · speech_list_judge_main_c05	? (ช)		I won't slow you down, I promise.	ผมสัญญาว่าจะไม่ถ่วงคุณแน่นอนครับ
+P0501-0393	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I won't slow you down,\nI promise! So...	ผมสัญญาว่าจะไม่ถ่วงคุณ\nแน่นอนครับ! เพราะฉะนั้น...
+P0501-0394	พากย์ · speech_list_judge_main_c05	? (ช)		He wasn't as strong as he let on. The tough guy act\nwas a mask he wore to hide his insecurities.	เขาไม่ได้แข็งแกร่งอย่างที่ แสดงออกหรอกครับ ท่าทีห้าวๆ\nนั่นก็แค่หน้ากากที่เขาใช้ปิดบัง ความไม่มั่นใจในตัวเอง
+P0501-0395	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You know... He only acted tough or arrogant to cover up his\ninsecurities. He was less confident than he let on.	รู้ไหมครับ... เขาแสดงท่าแข็งกร้าวหรือ หยิ่งผยองก็แค่\nปิดบังความไม่มั่นใจ จริงๆ แล้วเขามั่นใจน้อยกว่าที่แสดงออกเยอะ
+P0501-0396	พากย์ · speech_list_judge_main_c05	? (?)		Deep down, he was just... weak. 	ลึกๆ แล้วเขาก็แค่... อ่อนแอครับ
+P0501-0397	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	He was always trying to hide\nhow weak he was.	เขาพยายามปิดบังความอ่อนแอ\nของตัวเองมาตลอด
+P0501-0398	พากย์ · speech_list_judge_main_c05	? (ช)		That's why he was going along with Hamura.\nNot because he wanted to.	นั่นแหละคือเหตุผลที่เขายอม ทำตามฮามุระ\nไม่ใช่เพราะเขาอยากทำหรอกครับ
+P0501-0399	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	That's why he was in with Captain Hamura.\nNot because he wanted to.	นั่นแหละคือเหตุผลที่เขาเข้าไป พัวพันกับกัปตันฮามุระ\nไม่ใช่เพราะเขาอยากทำหรอกครับ
+P0501-0400	พากย์ · speech_list_judge_main_c05	? (ช)		I mean, who can say no to a yakuza...?	ก็... จะมีใครกล้าปฏิเสธยากูซ่าได้ล่ะครับ...?
+P0501-0401	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	He couldn't stand up to a yakuza, y'know?	เขาสู้ยากูซ่าไม่ไหวหรอกครับ รู้ไหม?
+P0501-0402	พากย์ · speech_list_judge_main_c05	? (ช)		And now look how it turned out.	แล้วดูสิว่าจบลงยังไง
+P0501-0403	พากย์ · speech_list_judge_main_c05	? (ช)		I was sitting right next to him this whole time...\nYet there was nothing I could do to help.	ผมนั่งอยู่ข้างๆ เขามาตลอดเวลา...\nแต่ก็ไม่มีอะไรที่ผมทำได้เพื่อ ช่วยเขาเลยครับ
+P0501-0404	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	The whole time, I just sat right next to him...\nand there was nothing I could do to help.	ตลอดเวลาที่ผ่านมา ผมแค่นั่งอยู่ข้างๆ เขา...\nแต่ไม่มีอะไรที่ผมช่วยได้เลยครับ
+P0501-0405	พากย์ · speech_list_judge_main_c05	? (ช)		You know, I'm still young, I don't even know\nwhat kind of lawyer I want to be.	รู้ไหมครับ ผมยังเด็กอยู่ ผมยังไม่รู้เลยด้วยซ้ำ\nว่าอยากเป็นทนายแบบไหน
+P0501-0406	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Really, I can't do much... I don't even know\nwhat kind of lawyer I want to be.	จริงๆ แล้วผมทำอะไรได้ไม่มากหรอกครับ... ผมยังไม่รู้เลย\nว่าอยากเป็นทนายแบบไหน
+P0501-0407	พากย์ · speech_list_judge_main_c05	? (ช)		Criminal, civil...\nNot the slightest idea.	คดีอาญา คดีแพ่ง...\nผมไม่มีไอเดียเลยสักนิด
+P0501-0408	พากย์ · speech_list_judge_main_c05	? (ช)		But I know one thing. I don't want to be the kind of lawyer\nwho sits on his hands after his friend gets murdered.	แต่มีอย่างหนึ่งที่ผมรู้แน่ๆ ผมไม่อยากเป็นทนายแบบที่\nนั่งอยู่เฉยๆ หลังเพื่อนถูกฆาตกรรม
+P0501-0409	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But if there's one thing I do know...  I'm not a lawyer\nwho sits on his hands after his friend gets murdered.	แต่ถ้ามีเรื่องหนึ่งที่ผมรู้แน่ๆ... ผมไม่ใช่ทนาย\nที่จะนั่งเฉยหลังเพื่อนถูกฆาตกรรม
+P0501-0410	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Which means...	ซึ่งหมายความว่า...
+P0501-0411	พากย์ · speech_list_judge_main_c05	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	So...	เอาเป็นว่า...
+P0501-0412	พากย์ · speech_list_judge_main_c05	? (ช)		Don't worry about that.	ไม่ต้องห่วงเรื่องนั้นหรอกครับ
+P0501-0413	พากย์ · speech_list_judge_main_c05	? (ช)		I'll defend myself in court if I need to.	ถ้าจำเป็นผมก็แก้ต่างให้ตัวเอง ในศาลได้เองครับ
+P0501-0414	พากย์ · speech_list_judge_main_c05	? (ช)		Now, Yagami-san.	เอาล่ะครับ ยากามิซัง
+P0501-0415	พากย์ · speech_list_judge_main_c05	? (ช)		Do you... mind if I tag along?	คุณ... จะรังเกียจไหมถ้าผมขอไปด้วย?
+P0501-0416	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Is it okay? Can I tag along?	โอเคไหมครับ ผมขอไปด้วยได้ไหม?
+P0501-0417	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Yeah, you got that right.	ใช่ นายพูดถูกเผงเลย
+P0501-0418	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	...Yeah! Sorry, though.	...ใช่ครับ! แต่ก็ขอโทษด้วยนะครับ
+P0501-0419	พากย์ · speech_list_judge_main_c05	? (ช)		Glad to be working with you.	ดีใจที่ได้ร่วมงานกับคุณครับ
+P0501-0420	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	The pleasure's mine.	ยินดีเหมือนกัน
+P0501-0421	พากย์ · speech_list_judge_main_c05	? (ช)		Yeah that's...\nShintani-sensei alright.	ใช่ นั่นคือ...\nอาจารย์ชินทานิแน่นอนครับ
+P0501-0422	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	That's... Shintani-sensei, isn't it.	นั่นคือ... อาจารย์ชินทานิใช่ไหมครับ
+P0501-0423	พากย์ · speech_list_judge_main_c05	? (ช)		I'm not sure what this tells us about\nwhat he was doing before the murder.	ผมไม่แน่ใจว่ารูปนี้จะบอกอะไรเราได้\nเกี่ยวกับสิ่งที่เขาทำก่อนถูกฆ่า
+P0501-0424	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But... I'm not sure what this tells us about\nhis actions before the murder.	แต่... ผมไม่แน่ใจว่ารูปนี้จะบอกอะไรเราได้\nเกี่ยวกับสิ่งที่เขาทำก่อนถูกฆ่า
+P0501-0425	พากย์ · speech_list_judge_main_c05	? (ช)		Right, that makes sense.	ครับ มีเหตุผลดี
+P0501-0426	พากย์ · speech_list_judge_main_c05	? (ช)		It's a good thing the killer forgot\nto take Shintani's phone, huh?	โชคดีนะครับที่ฆาตกรลืม\nเอาโทรศัพท์ของชินทานิไปด้วย
+P0501-0427	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I guess we got lucky, huh?\nThe killer must've forgotten to take his phone.	คงเป็นเพราะเราโชคดีสินะครับ\nฆาตกรคงลืมเอาโทรศัพท์เขาไปด้วย
+P0501-0428	พากย์ · speech_list_judge_main_c05	? (ช)		This way we can see who he was calling.	แบบนี้เราก็เห็นได้ว่าเขาโทรหาใครบ้าง
+P0501-0429	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Now we've got a trail we can follow.	ตอนนี้เรามีเส้นทางให้ตามรอยแล้วครับ
+P0501-0430	พากย์ · speech_list_judge_main_c05	? (ช)		Really? I had no idea.	จริงเหรอ ไม่รู้เลยแฮะ
+P0501-0431	พากย์ · speech_list_judge_main_c05	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Huh...?	หา...?
+P0501-0432	พากย์ · speech_list_judge_main_c05	? (ช)		Hey! The number got a hit in the search.	เฮ้! เจอเบอร์นี้ในผลค้นหาแล้ว
+P0501-0433	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	...Ah! I found the number.\nIt's listed on the internet...	...อ๊ะ! เจอเบอร์แล้ว\nมันอยู่ในอินเทอร์เน็ตนี่เอง...
+P0501-0434	พากย์ · speech_list_judge_main_c05	? (ช)		It's apparently for the...\nAdvanced Drug Development Center?	เหมือนจะเป็นเบอร์ของ...\nศูนย์พัฒนายาขั้นสูงเหรอเนี่ย?
+P0501-0435	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	"Advanced Drug Development Center"?\nI guess it's a business number...	"ศูนย์พัฒนายาขั้นสูง" เหรอ?\nคงเป็นเบอร์ธุรกิจสินะ...
+P0501-0436	พากย์ · speech_list_judge_main_c05	? (ช)		What, do you know it?	อะไรเหรอ คุณรู้จักที่นั่นเหรอ?
+P0501-0437	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Whoa.	โว้ว
+P0501-0438	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Whoa...	โห...
+P0501-0439	พากย์ · speech_list_judge_main_c05	? (ช)		Okubo, Okubo...	โอคุโบะ โอคุโบะ...
+P0501-0440	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Okubo...?	โอคุโบะ...?
+P0501-0441	พากย์ · speech_list_judge_main_c05	? (ช)		Wait, he was your client, wasn't he?	เดี๋ยวนะ เขาเคยเป็นลูกความคุณไม่ใช่เหรอ?
+P0501-0442	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Wait, he was your client... wasn't he?	เดี๋ยวนะ เขาเคยเป็นลูกความคุณ... ไม่ใช่เหรอ?
+P0501-0443	พากย์ · speech_list_judge_main_c05	? (ช)		Right. And you defended him in court,\nand won...	ใช่ แล้วคุณก็แก้ต่างให้เขาในศาล\nจนชนะคดี...
+P0501-0444	พากย์ · speech_list_judge_main_c05	? (?)	[อีกแทร็ก]	...Right. And you were the one responsible\nfor clearing Okubo's name. 	...ใช่ แล้วคุณก็เป็นคนที่\nช่วยล้างมลทินให้โอคุโบะ 
+P0501-0445	พากย์ · speech_list_judge_main_c05	? (ช)		But then he...\nHe got free and...	แต่แล้วเขาก็...\nพอเป็นอิสระแล้วก็...
+P0501-0446	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But then, once he was free...	แต่แล้วพอเขาได้เป็นอิสระ...
+P0501-0447	พากย์ · speech_list_judge_main_c05	? (ช)		But why would Shintani-sensei have called the ADDC?\nWho would he even talk to?	แต่ทำไมอาจารย์ชินทานิถึงโทรหา ADDC ล่ะ?\nเขาจะคุยกับใครที่นั่นกันแน่?
+P0501-0448	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But then... why would Shintani-sensei call the ADDC?\nWho would he even talk to?	แต่แล้ว... ทำไมอาจารย์ชินทานิถึงโทรหา ADDC?\nเขาจะโทรหาใครที่นั่นกันแน่?
+P0501-0449	พากย์ · speech_list_judge_main_c05	? (ช)		Yeah, we can start fresh tomorrow.\nWhere do we want to meet?	ครับ พรุ่งนี้เริ่มใหม่กันดีกว่า\nแล้วจะนัดเจอกันที่ไหนดีครับ?
+P0501-0450	พากย์ · speech_list_judge_main_c05	? (ช)		Okay, I'll let Kaito-san know.	โอเค ผมจะไปบอกไคโตะซังนะครับ
+P0501-0451	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Okay, I'll be sure to let\nKaito-san know.	โอเค ผมจะบอก\nไคโตะซังให้แน่ ๆ ครับ
+P0501-0452	พากย์ · speech_list_judge_main_c05	? (ช)		Yeah, I'll see you.	อือ แล้วเจอกัน
+P0501-0453	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yeah, I'll see you at Charles.	อือ แล้วเจอกันที่ชาร์ลส์นะ
+P0501-0454	พากย์ · speech_list_judge_main_c05	Yagami (ช)		And if I said yes?	แล้วถ้าผมบอกว่าใช่ล่ะ?
+P0501-0455	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	And what if I am?	แล้วถ้าใช่ล่ะ?
+P0501-0456	พากย์ · speech_list_judge_main_c05	? (ช)		Looking to avenge Shintani, huh?	อยากล้างแค้นให้ชินทานิสินะ?
+P0501-0457	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Don't tell me... you're looking to\navenge Shintani?	อย่าบอกนะว่า... คุณอยากจะ\nล้างแค้นให้ชินทานิ?
+P0501-0458	พากย์ · speech_list_judge_main_c05	? (ช)		Are you sure about this, Hoshino?\nGenda-sensei told me to lay low.	แน่ใจเหรอ โฮชิโนะ?\nอาจารย์เก็นดะสั่งให้ผมหลบ ซ่อนตัวไว้นะ
+P0501-0459	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You sure about this?\nGenda-sensei already slapped my wrist.	แน่ใจแล้วเหรอ?\nอาจารย์เก็นดะเพิ่งเตือนผมมาหมาดๆ เลยนะ
+P0501-0460	พากย์ · speech_list_judge_main_c05	? (ช)		If you're seen helping me...	ถ้าใครเห็นว่านายช่วยผม...
+P0501-0461	พากย์ · speech_list_judge_main_c05	? (?)	[อีกแทร็ก]	If you're seen helping me... 	ถ้าใครเห็นว่านายช่วยผม...
+P0501-0462	พากย์ · speech_list_judge_main_c05	? (ช)		You'll just tell Genda-sensei\nif I refuse, huh?	ถ้าผมปฏิเสธ นายก็จะไปบอก\nอาจารย์เก็นดะใช่ไหมล่ะ?
+P0501-0463	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You'll just tell Genda-sensei if I refuse, huh?	ถ้าผมปฏิเสธ นายก็จะไปบอกอาจารย์เก็นดะใช่ไหมล่ะ?
+P0501-0464	พากย์ · speech_list_judge_main_c05	? (ช)		Not much choice, then.\nWelcome aboard.	งั้นก็ไม่มีทางเลือกมากนักสินะ\nยินดีต้อนรับเข้าทีม
+P0501-0465	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Well, not much choice.\nSure, welcome aboard.	ก็ไม่มีทางเลือกมากนัก\nได้เลย ยินดีต้อนรับเข้าทีม
+P0501-0466	พากย์ · speech_list_judge_main_c05	? (ช)		Well, let's get down to business.  First off,\nI wanna know what Shintani was doing before he died.	เอาล่ะ เข้าเรื่องกันเลยดีกว่า\nอย่างแรกผมอยากรู้ว่าชินทานิทำ อะไรอยู่ก่อนตาย
+P0501-0467	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Now, first we need to investigate what\nShintani was doing before he died.	เอาล่ะ อย่างแรกเราต้องสืบให้ได้\nว่าชินทานิทำอะไรอยู่ก่อนตาย
+P0501-0468	พากย์ · speech_list_judge_main_c05	? (ช)		And I have some evidence\nthat may tell us just that.	และผมมีหลักฐานบางอย่าง\nที่อาจบอกเราได้พอดี
+P0501-0469	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	And I have some evidence that\nmay tell us just that.	และผมมีหลักฐานบางอย่าง\nที่อาจบอกเราได้พอดี
+P0501-0470	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Take a look at this.	ดูนี่สิ
+P0501-0471	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(I should have something that hints at\nwhat Shintani was doing before he died.)</color>	<color=ｍonologue>(ผมน่าจะมีอะไรบางอย่างที่บอกใบ้ได้\nว่าชินทานิทำอะไรอยู่ก่อนตาย)</color>
+P0501-0472	พากย์ · speech_list_judge_main_c05	? (ช)		I managed to take this\nbefore the cops showed up.	ผมแอบเอาอันนี้มา\nก่อนตำรวจจะมาถึง
+P0501-0473	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I took this before the cops showed up.	ผมเอาอันนี้มาก่อนตำรวจจะมาถึง
+P0501-0474	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Yup.	ใช่
+P0501-0475	พากย์ · speech_list_judge_main_c05	? (ช)		Hm? Oh, right. My bad.	หืม? อ้อ จริงด้วย พลาดไปหน่อย
+P0501-0476	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Hm? Really? Uh...\nWell, never mind.	หืม? จริงเหรอ? เอ่อ...\nช่างเถอะ ไม่เป็นไร
+P0501-0477	พากย์ · speech_list_judge_main_c05	? (ช)		If we wanna know what Shintani\nwas up to before he got killed...	ถ้าเราอยากรู้ว่าชินทานิ\nทำอะไรอยู่ก่อนถูกฆ่า...
+P0501-0478	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	We need a clue... one that'll show us\nwhat Shintani did before his death.	เราต้องการเบาะแส... ที่จะบอกเราได้\nว่าชินทานิทำอะไรก่อนตาย
+P0501-0479	พากย์ · speech_list_judge_main_c05	? (ช)		This might be just what we need.	อันนี้อาจเป็นสิ่งที่เราต้องการพอดี
+P0501-0480	พากย์ · speech_list_judge_main_c05	? (ช)		Shintani dialed this number earlier today.	ชินทานิโทรไปเบอร์นี้เมื่อวันนี้เอง
+P0501-0481	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Look. Shintani dialed this number\nearlier today.	ดูนี่สิ ชินทานิโทรไปเบอร์นี้\nเมื่อวันนี้เอง
+P0501-0482	พากย์ · speech_list_judge_main_c05	? (ช)		I wanna know where it goes.	ผมอยากรู้ว่าเบอร์นี้โยงไปถึงใคร
+P0501-0483	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	And I'm wondering,\nwho's on the other end?	แล้วผมก็สงสัยว่า\nปลายสายคือใครกันแน่?
+P0501-0484	พากย์ · speech_list_judge_main_c05	? (ช)		The killer didn't forget. Even if the phone was gone,\nwe'd still be able to get Shintani's data from his provider.	ฆาตกรไม่ได้ลืมหรอก ต่อให้โทรศัพท์หายไป\nเราก็ยังขอข้อมูลของชินทานิจาก ค่ายมือถือได้อยู่ดี
+P0501-0485	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	No, they didn't forget. Even if the phone was gone,\nwe could get Shintani's data from his provider.	ไม่ พวกมันไม่ได้ลืมหรอก ต่อให้โทรศัพท์หายไป\nเราก็ยังขอข้อมูลของชินทานิจาก ค่ายมือถือได้อยู่ดี
+P0501-0486	พากย์ · speech_list_judge_main_c05	? (ช)		Yup. I'd bet he left the phone so I'd find the body quicker.	ใช่ ผมพนันได้เลยว่ามันเจตนาทิ้ง โทรศัพท์ไว้เพื่อให้ผมเจอศพเร็ว ขึ้น
+P0501-0487	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I'd say... the Mole specifically left the phone\nso I'd find the body quicker.	ผมว่า... ไอ้ตัวตุ่นจงใจทิ้งโทรศัพท์ไว้\nเพื่อให้ผมเจอศพเร็วขึ้นต่างหาก
+P0501-0488	พากย์ · speech_list_judge_main_c05	? (ช)		I mean, he went through the trouble of hiding\nit in my office of all places.	ก็คือ มันถึงกับลำบากไปซ่อนศพ\nไว้ที่สำนักงานของผมโดยเฉพาะเลยนี่นา
+P0501-0489	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I mean, he went through the trouble of\nhiding it in my office of all places.	ก็คือ มันถึงกับลำบากไปซ่อนศพไว้\nที่สำนักงานของผมโดยเฉพาะเลยนี่นา
+P0501-0490	พากย์ · speech_list_judge_main_c05	? (ช)		Probably wanted to cause as much chaos\nas possible, you know?	คงแค่อยากสร้างความวุ่นวาย\nให้ได้มากที่สุดน่ะ เข้าใจนะ?
+P0501-0491	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	He probably just wanted to stir up\nsome fast, messy chaos... I guess.	เขาก็แค่อยากป่วนให้เละเทะ\nแบบไว ๆ นั่นแหละ... มั้ง
+P0501-0492	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม] [ซ้ำในบท x3]	What the hell?	อะไรวะเนี่ย?
+P0501-0493	พากย์ · speech_list_judge_main_c05	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	For real?	เอาจริงดิ?
+P0501-0494	พากย์ · speech_list_judge_main_c05	? (ช)		Three years ago...\nThere was a pretty famous murder there.	เมื่อสามปีก่อน...\nมีคดีฆาตกรรมดังอยู่ที่นั่นด้วยนะ
+P0501-0495	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Three years ago... there was\na famous murder there.	เมื่อสามปีก่อน... มี\nคดีฆาตกรรมดังเกิดขึ้นที่นั่น
+P0501-0496	พากย์ · speech_list_judge_main_c05	? (ช)		A patient was killed,\nand their body dumped in the mountains.	คนไข้คนหนึ่งถูกฆ่า\nแล้วเอาศพไปทิ้งบนภูเขา
+P0501-0497	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	A patient was brutally murdered.\nThe body was dumped in the mountains.	คนไข้คนหนึ่งถูกฆ่าอย่างโหดร้าย\nศพถูกเอาไปทิ้งบนภูเขา
+P0501-0498	พากย์ · speech_list_judge_main_c05	? (ช)		And the man they arrested for it\nwas named Shinpei Okubo.	แล้วคนที่ถูกจับข้อหานี้\nชื่อชินเป โอคุโบะ
+P0501-0499	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	And the man they arrested for it...\nwas Shinpei Okubo.	แล้วคนที่ถูกจับข้อหานี้...\nก็คือชินเป โอคุโบะ
+P0501-0500	พากย์ · speech_list_judge_main_c05	? (ช)		Yeah, exactly.	ใช่ เขานั่นแหละ
+P0501-0501	พากย์ · speech_list_judge_main_c05	Mika (ญ)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Yeah, that's him.	ใช่ คนนั้นแหละ
+P0501-0502	พากย์ · speech_list_judge_main_c05	? (ช)		He worked as a contract laundry man\nfor the center.	เขาทำงานเป็นพนักงานซักผ้า\nตามสัญญาให้ศูนย์นั้น
+P0501-0503	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Shinpei Okubo was... a laundry guy\nover at the Center.	ชินเป โอคุโบะ เป็น...\nพนักงานซักผ้าที่ศูนย์นั่น
+P0501-0504	พากย์ · speech_list_judge_main_c05	? (ช)		Every two or three days, he'd stop by\nto pick up their dirty linens.	ทุกสองสามวัน เขาจะแวะไป\nรับผ้าปูที่นอนเปื้อน ๆ มาซัก
+P0501-0505	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Every two or three days,\nhe'd pick up their dirty linens.	ทุกสองสามวัน\nเขาจะไปรับผ้าเปื้อนมาซัก
+P0501-0506	พากย์ · speech_list_judge_main_c05	? (ช)		According to the police report, it was thought he\ncarried the body out in a bundle of sheets.	ตามรายงานตำรวจ เชื่อว่าเขา\nแอบขนศพออกมาในมัดผ้าปูที่นอน
+P0501-0507	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	And, according to the police report,\nhe carried the body out in a bundle of sheets.	และตามรายงานตำรวจ\nเขาขนศพออกมาในมัดผ้าปูที่นอน
+P0501-0508	พากย์ · speech_list_judge_main_c05	? (ช)		You can stop there.	พอแค่นั้นเถอะ
+P0501-0509	พากย์ · speech_list_judge_main_c05	? (ช)		I bet we'll find out if we give them a ring.	โทรไปถามเองก็คงรู้แหละ
+P0501-0510	พากย์ · speech_list_judge_main_c05	? (ช)		But it's getting late.	แต่ก็ดึกแล้วนะ
+P0501-0511	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Then again, it's getting late.	ว่าไปก็ดึกแล้วเหมือนกัน
+P0501-0512	พากย์ · speech_list_judge_main_c05	? (ช)		You should go home.\nWe both need some shut eye, yeah?	กลับบ้านไปเถอะ\nเราสองคนต้องนอนพักกันบ้างแล้วล่ะ
+P0501-0513	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You should go home, Hoshino-kun.\nWe both need some shuteye, yeah?	กลับบ้านไปเถอะ โฮชิโนะคุง\nเราสองคนต้องพักผ่อนกันบ้างแล้วนะ
+P0501-0514	พากย์ · speech_list_judge_main_c05	? (ช)		Oh right...	อ้อ จริงด้วย...
+P0501-0515	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Oh, right.	อ้อ จริงสิครับ
+P0501-0516	พากย์ · speech_list_judge_main_c05	? (ช)		We wanna keep this a secret\nfrom Genda-sensei, after all.	ยังไงเราก็อยากเก็บเรื่องนี้ เป็นความลับ\nจากอาจารย์เก็นดะอยู่แล้วนี่นา
+P0501-0517	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Gotta keep this a secret from\nGenda-sensei, after all.	ยังไงก็ต้องปิดเรื่องนี้เป็นความลับ\nจากอาจารย์เก็นดะอยู่ดีนั่นแหละ
+P0501-0518	พากย์ · speech_list_judge_main_c05	? (ช)		There's an arcade called Charles up on\nPark Boulevard. That should work for now.	มีร้านเกมชื่อชาร์ลส์อยู่แถว\nถนนปาร์คบูเลอวาร์ด ไปนัดที่นั่นก่อนก็ได้
+P0501-0519	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Yeah. Thanks.	เออ ขอบใจ
+P0501-0520	พากย์ · speech_list_judge_main_c05	Yagami (ช)		(I told Hoshino I'd meet him at Charles today.\nGuess it's time to head over.)	(บอกโฮชิโนะไว้ว่าจะไปเจอกันที่ ชาร์ลส์วันนี้\nคงถึงเวลาต้องไปแล้วสินะ)
+P0501-0521	พากย์ · speech_list_judge_main_c05	center_uketsuke (ญ)		ADDC, front desk speaking.	ADDC แผนกต้อนรับค่ะ
+P0501-0522	พากย์ · speech_list_judge_main_c05	center_uketsuke (ญ)	[อีกแทร็ก]	Advanced Drug Development Center,\nfront desk speaking.	ศูนย์พัฒนายาขั้นสูง\nแผนกต้อนรับค่ะ
+P0501-0523	พากย์ · speech_list_judge_main_c05	? (ญ)		Oh, it's good to hear from you,\nShintani-sama.	อ๋อ ดีใจที่ได้ยินเสียง\nท่านชินทานิอีกครั้งค่ะ
+P0501-0524	พากย์ · speech_list_judge_main_c05	? (ญ)		Do you know the extension\nyou wish to reach?	คุณทราบเบอร์ต่อภายใน\nที่ต้องการติดต่อไหมคะ?
+P0501-0525	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	I can help you reach a staff member,\nbut do you have a name or extension?	ดิฉันช่วยต่อสายให้เจ้าหน้าที่ได้ค่ะ\nแต่คุณมีชื่อหรือเบอร์ต่อไหมคะ?
+P0501-0526	พากย์ · speech_list_judge_main_c05	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Hm...	อืม...
+P0501-0527	พากย์ · speech_list_judge_main_c05	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Hmm...	อืม...
+P0501-0528	พากย์ · speech_list_judge_main_c05	? (ญ)		Why don't you just tell me what the call was about,\nand I'll connect you to the proper department.	ลองเล่าให้ดิฉันฟังหน่อยว่าโทร มาเรื่องอะไรค่ะ\nแล้วดิฉันจะต่อสายไปแผนกที่ถูกต้องให้
+P0501-0529	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Why don't you just tell me what the call was about?\nI'll connect you to the proper department.	บอกดิฉันหน่อยได้ไหมคะว่าโทรมา เรื่องอะไร?\nดิฉันจะต่อสายไปแผนกที่ถูกต้องให้
+P0501-0530	พากย์ · speech_list_judge_main_c05	? (ญ)		You're... not with the media, are you?	คุณ... ไม่ใช่สื่อใช่ไหมคะ?
+P0501-0531	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Um... You're not with the media, are you?	เอ่อ... คุณไม่ใช่นักข่าวใช่ไหมคะ?
+P0501-0532	พากย์ · speech_list_judge_main_c05	? (ญ)		Why don't I connect you with our publicity department?\nThey'll know more about what you're looking for.	ดิฉันขอต่อสายไปแผนก ประชาสัมพันธ์ให้นะคะ\nพวกเขาจะรู้เรื่องที่คุณตามหา มากกว่าค่ะ
+P0501-0533	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Of course. Our PR department might have more\ninformation. May I connect you?	ได้ค่ะ แผนกประชาสัมพันธ์อาจมีข้อมูล\nมากกว่านี้ ดิฉันขอต่อสายให้นะคะ?
+P0501-0534	พากย์ · speech_list_judge_main_c05	? (ญ)		Sorry, but I'm not authorized to talk about that.\nWhy don't I connect you with our publicity department?	ขอโทษด้วยค่ะ แต่ดิฉันไม่มีสิทธิ์พูดเรื่องนั้น\nดิฉันขอต่อสายไปแผนก ประชาสัมพันธ์ให้นะคะ?
+P0501-0535	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	That's... Sorry, but I'm not authorized to discuss that.\nCan I connect you to our PR department?	เรื่องนั้น... ขอโทษด้วยค่ะ ดิฉันไม่มีสิทธิ์พูดเรื่องนี้\nดิฉันขอต่อสายไปแผนก ประชาสัมพันธ์ได้ไหมคะ?
+P0501-0536	พากย์ · speech_list_judge_main_c05	? (ญ)		Please hold, sir.	กรุณาถือสายรอสักครู่นะคะ
+P0501-0537	พากย์ · speech_list_judge_main_c05	? (ญ)		Thank you for waiting.	ขอบคุณที่รอนะคะ
+P0501-0538	พากย์ · speech_list_judge_main_c05	? (ญ)		It seems our publicity department never received\na call from a Shintani-sama.	ดูเหมือนแผนกประชาสัมพันธ์ของ เราจะไม่เคยได้รับ\nสายจากท่านชินทานิเลยค่ะ
+P0501-0539	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	It seems our PR department never\nreceived a call from a Shintani-sama.	ดูเหมือนแผนกประชาสัมพันธ์ของ เราจะไม่เคย\nได้รับสายจากท่านชินทานิเลยค่ะ
+P0501-0540	พากย์ · speech_list_judge_main_c05	? (ญ)		Excuse me, sir?	ขอโทษนะคะ ว่ายังไงนะคะ?
+P0501-0541	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Yes...? Ah, I'm sorry...	ค่ะ...? อ้อ ขอโทษค่ะ...
+P0501-0542	พากย์ · speech_list_judge_main_c05	? (ญ)		I'm not sure where to connect you for that.	ดิฉันไม่แน่ใจว่าจะต่อสายไปแผนก ไหนให้เรื่องนั้นค่ะ
+P0501-0543	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	In that case, I'm not sure what\ndepartment to connect you to.	ถ้างั้นดิฉันก็ไม่แน่ใจว่า\nจะต่อสายไปแผนกไหนให้ดีค่ะ
+P0501-0544	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	...Huh?	...เอ๊ะ?
+P0501-0545	พากย์ · speech_list_judge_main_c05	? (ญ)		I'm sorry, but I can't do that.\nIt's in violation of our personal information policy.	ขอโทษด้วยค่ะ แต่ดิฉันทำแบบนั้นไม่ได้\nมันผิดนโยบายคุ้มครองข้อมูล ส่วนบุคคลของเรา
+P0501-0546	พากย์ · speech_list_judge_main_c05	? (ญ)		Are you with the police?\nYou're not, are you?	คุณเป็นตำรวจหรือเปล่าคะ?\nคงไม่ใช่หรอกนะคะ?
+P0501-0547	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	...Are you with the police?\nYou're not, are you?	...คุณเป็นตำรวจหรือเปล่าคะ?\nคงไม่ใช่หรอกนะคะ?
+P0501-0548	พากย์ · speech_list_judge_main_c05	? (ญ)		Ah... Hello there, Yagami-san.	อ้อ... สวัสดีค่ะ ยากามิซัง
+P0501-0549	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Ah... yes?	อ้อ... ว่ายังไงคะ?
+P0501-0550	พากย์ · speech_list_judge_main_c05	? (ญ)		I'm sorry, but that information is private.\nYou'll need a warrant if you want to know more.	ขอโทษด้วยค่ะ แต่ข้อมูลนั้นเป็นความลับ\nถ้าอยากรู้เพิ่มเติมคุณต้องมี หมายศาลค่ะ
+P0501-0551	พากย์ · speech_list_judge_main_c05	? (ญ)		I really am sorry, sir.	ดิฉันขอโทษจริง ๆ ค่ะ
+P0501-0552	พากย์ · speech_list_judge_main_c05	Higashi (ช)		I wish you'd fuckin' forget about me. Is there a reason\nyour little gang needs to keep meeting up here?	อยากให้ลืมผมไปเลยจริง ๆ จะให้พวกนาย\nมานัดเจอกันที่นี่กันทำไมนักหนา
+P0501-0553	พากย์ · speech_list_judge_main_c05	Higashi (ช)	[อีกแทร็ก]	I wish you'd fuckin' forget about <font_kind=yakuza_italic>me</font_kind>. Come on,\nwhy do you have to meet <font_kind=yakuza_italic>here</font_kind> of all places anyway?	อยากให้ลืม<font_kind=yakuza_italic>ผม</font_kind>ไปเลยจริง ๆ ให้ตายเถอะ\nจะมานัดเจอกัน<font_kind=yakuza_italic>ที่นี่</font_kind>ทำไมกันนักหนา
+P0501-0554	พากย์ · speech_list_judge_main_c05	? (ช)		Don't talk down to yakuza, kid.	อย่ามาพูดจาดูถูกยากูซ่า ไอ้หนู
+P0501-0555	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	...Don't tease the yakuza, kid.	...อย่ามาแหย่ยากูซ่า ไอ้หนู
+P0501-0556	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	What the hell!?	อะไรวะเนี่ย!?
+P0501-0557	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	What was that!?	ว่าไงนะ!?
+P0501-0558	พากย์ · speech_list_judge_main_c05	? (ช)		Damn good deal they've got.	โคตรได้เปรียบเลยเนี่ย
+P0501-0559	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Sounds like they're rolling in it.	ฟังดูรวยจนไม่รู้จะเอาเงินไปทำ อะไรแล้ว
+P0501-0560	พากย์ · speech_list_judge_main_c05	? (ช)		C'mon, you can't just take a man's phone!	ไม่เอาน่า จะมาแย่งมือถือคนอื่นเฉย ๆ แบบนี้ได้ไงครับ!
+P0501-0561	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Hey, what the!?\nThat's not your phone!	เฮ้ อะไรเนี่ย!?\nนั่นไม่ใช่มือถือคุณนะครับ!
+P0501-0562	พากย์ · speech_list_judge_main_c05	? (ช)		Hey, I don't remember saying\nI was gonna help you...	เฮ้ ผมไม่เห็นเคยบอกเลย\nว่าจะช่วยพวกคุณ...
+P0501-0563	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Come on. I didn't sign up for this...	ไม่เอาน่า ผมไม่ได้ตกลงจะทำแบบนี้ด้วยซ้ำ...
+P0501-0564	พากย์ · speech_list_judge_main_c05	Hoshino (ช)		It's so nice of you to let us use your store, Higashi-san.\nEspecially when you're clearly so opposed to the idea.	ใจดีจังเลยนะครับที่ยอมให้ พวกเรายืมร้านใช้ ฮิงาชิซัง\nทั้ง ๆ ที่เห็นชัด ๆ ว่าไม่ค่อยเต็มใจเท่าไหร่
+P0501-0565	พากย์ · speech_list_judge_main_c05	Hoshino (ช)	[อีกแทร็ก]	It's so nice of you to let us use your place, Higashi-san.\nEspecially when you're clearly so opposed to the idea.	ใจดีจังนะครับที่ให้พวกเรายืม ที่นี่ใช้ ฮิงาชิซัง\nทั้ง ๆ ที่เห็นชัด ๆ ว่าไม่ค่อยอยากให้ยืมเลย
+P0501-0566	พากย์ · speech_list_judge_main_c05	? (ช)		It's okay, Higashi-san. I think we all know\nyou're nicer than you let on.	ไม่เป็นไรครับ ฮิงาชิซัง ผมว่าทุกคนก็รู้กันดี\nว่าจริง ๆ แล้วคุณใจดีกว่าที่แสดงออกเยอะ
+P0501-0567	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	It's all right, really! We can all tell\nyou're nicer than you let on.	ไม่เป็นไรจริง ๆ ครับ! พวกเรามองออกกันหมด\nว่าจริง ๆ แล้วคุณใจดีกว่าที่ทำเป็นเถอะ
+P0501-0568	พากย์ · speech_list_judge_main_c05	? (ช)		Just a third degree blackbelt.	ก็แค่สายดำระดับสามเองครับ
+P0501-0569	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Just a third degree\nblack belt in karate.	ก็แค่สายดำคาราเต้\nระดับสามเองครับ
+P0501-0570	พากย์ · speech_list_judge_main_c05	? (ช)		Not that I've ever had to use it.	ถึงจะไม่เคยได้ใช้จริงเลยก็เถอะครับ
+P0501-0571	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Not that I've ever used it.	ถึงจะไม่เคยได้ใช้เลยก็เถอะครับ
+P0501-0572	พากย์ · speech_list_judge_main_c05	? (ช)		Yeah, here it is.	ใช่ อยู่นี่ไง
+P0501-0573	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yes. Here it is.	ใช่ครับ อยู่ตรงนี้
+P0501-0574	พากย์ · speech_list_judge_main_c05	? (ช)		It's a brand new dementia drug.\nThey call it AD-9.	มันคือยารักษาโรคสมองเสื่อม ตัวใหม่ล่าสุด\nเรียกกันว่า AD-9
+P0501-0575	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	It's a brand new dementia drug\ncalled AD-9.	มันคือยารักษาโรคสมองเสื่อมตัวใหม่\nที่ชื่อว่า AD-9
+P0501-0576	พากย์ · speech_list_judge_main_c05	? (ช)		This was right after Director Kido\nfrom the ADDC published his paper on it.	นี่คือช่วงหลังจากที่ผู้อำนวยการคิโดะ\nแห่ง ADDC เผยแพร่งานวิจัยเรื่องนี้ไม่นาน
+P0501-0577	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	This was after the ADDC's Director Kido\npublished his paper on it.	นี่คือช่วงหลังจากที่ ผู้อำนวยการคิโดะแห่ง ADDC\nเผยแพร่งานวิจัยเรื่องนี้
+P0501-0578	พากย์ · speech_list_judge_main_c05	? (ช)		They're still undergoing clinical trials on larger animals, but apparently\nevery single mouse they've given it to has made a full recovery.	พวกเขายังอยู่ระหว่างทดลองทาง คลินิกกับสัตว์ใหญ่ แต่ดูเหมือนว่า\nหนูทุกตัวที่ได้รับยานี้จะหาย เป็นปกติหมดเลย
+P0501-0579	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	They're still undergoing clinical trials on larger animals,\nbut apparently it's been reliably curing affected mice.	พวกเขายังอยู่ระหว่างทดลองทาง คลินิกกับสัตว์ใหญ่\nแต่ดูเหมือนว่ามันรักษาหนูที่ ป่วยได้ผลแน่นอนทุกครั้ง
+P0501-0580	พากย์ · speech_list_judge_main_c05	? (ช)		The man giving the presentation\nhere is Dr. Ryusuke Kido.	ชายที่กำลังบรรยายอยู่\nคือ ดร. ริวสึเกะ คิโดะ
+P0501-0581	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	There... The man smiling for the cameras\nis Dr. Kido.	นั่นไง... ชายที่กำลังยิ้มให้กล้อง\nคือ ดร. คิโดะ
+P0501-0582	พากย์ · speech_list_judge_main_c05	? (ช)		A world leader in neurophysiology\nand the primary researcher on AD-9.	ผู้นำระดับโลกด้านสรีรวิทยาประสาท\nและนักวิจัยหลักของ AD-9
+P0501-0583	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	A world leader in neurophysiology,\nand the primary researcher into AD-9.	ผู้นำระดับโลกด้านสรีรวิทยาประสาท\nและเป็นนักวิจัยหลักของ AD-9
+P0501-0584	พากย์ · speech_list_judge_main_c05	? (?)		From what I can tell, the Ministry of Health is increasing\nthe ADDC's budget to hasten the development of AD-9. 	เท่าที่ผมเช็กดู กระทรวงสาธารณสุขกำลังเพิ่ม\nงบให้ ADDC เพื่อเร่งพัฒนา AD-9 
+P0501-0585	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	To get AD-9 ready for the public faster, the\nMinistry of Health is increasing the ADDC's budget.	เพื่อให้ AD-9 พร้อมใช้กับสาธารณชนเร็วขึ้น\nกระทรวงสาธารณสุขเลยเพิ่มงบให้ ADDC
+P0501-0586	พากย์ · speech_list_judge_main_c05	? (ช)		They're even adding another building to the Center.\nIt's a huge project.	ถึงขั้นสร้างตึกเพิ่มให้ศูนย์อีกหลัง\nโปรเจกต์นี้ใหญ่โตจริง ๆ
+P0501-0587	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	They're definitely committed to expanding it.\nThe ADDC is even getting another building.	พวกเขาตั้งใจขยายกิจการแน่นอน\nถึงขั้นให้ ADDC ได้ตึกเพิ่มอีกหลัง
+P0501-0588	พากย์ · speech_list_judge_main_c05	? (ช)		I'll come with you, Yagami-san.	ผมไปด้วยครับ ยากามิซัง
+P0501-0589	พากย์ · speech_list_judge_main_c05	Saori (ญ)	[ใช้ร่วม] [ต้องกลางเพศ]	Um... Yagami-san.	เอ่อ...ยากามิซัง
+P0501-0590	พากย์ · speech_list_judge_main_c05	Hoshino (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Um... Yagami-san?	เอ่อ...ยากามิซัง?
+P0501-0591	พากย์ · speech_list_judge_main_c05	? (ช)		You're heading to the ADDC now, yes?	ตอนนี้จะไปที่ ADDC กันเลยใช่ไหมครับ?
+P0501-0592	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You ready to go?\nTo the ADDC, I mean?	พร้อมไปหรือยังครับ?\nไป ADDC น่ะครับ
+P0501-0593	พากย์ · speech_list_judge_main_c05	? (ช)		I'm gonna grab a taxi for us.\nI'll wait for you over on Park Boulevard.	ผมจะไปเรียกแท็กซี่ให้เราครับ\nจะรอคุณอยู่แถว ถนนปาร์คบูเลอวาร์ดนะครับ
+P0501-0594	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I'm going to grab a taxi for us.\nI'll wait for you on Park Boulevard.	ผมจะไปเรียกแท็กซี่ให้เราครับ\nจะรอคุณอยู่ที่ ถนนปาร์คบูเลอวาร์ดนะครับ
+P0501-0595	พากย์ · speech_list_judge_main_c05	Kaito (ช)		Well, wanna call this meeting to order?	เอาล่ะ เริ่มประชุมกันเลยมั้ย?
+P0501-0596	พากย์ · speech_list_judge_main_c05	Kaito (ช)	[อีกแทร็ก]	So the gang's all here.	มากันครบแก๊งแล้วสินะ
+P0501-0597	พากย์ · speech_list_judge_main_c05	? (ช)		The ADDC, huh?\nWeird time for that to come up again.	ADDC เหรอ\nแปลกจังที่ชื่อนี้โผล่มาอีกรอบตอนนี้
+P0501-0598	พากย์ · speech_list_judge_main_c05	? (ช)		I'm still not gettin' it, though.\nWhy'd Shintani go and call them?	ฉันยังงงอยู่ดีว่ะ\nทำไมชินทานิต้องไปโทรหาที่นั่นด้วย?
+P0501-0599	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Hold up. There's one thing I don't get.\nWhy'd Shintani call them, anyway?	เดี๋ยวก่อน มีเรื่องนึงที่ฉันยังไม่เก็ต\nทำไมชินทานิถึงโทรหาที่นั่นกันแน่?
+P0501-0600	พากย์ · speech_list_judge_main_c05	? (ช)		Kay, me and Higashi'll go check out what's going\non with the Matsugane Family.	โอเค ฉันกับฮิงาชิจะไปดูว่า\nตระกูลมัตสึกาเนะเป็นยังไงบ้าง
+P0501-0601	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Alrighty. Me and Higashi'll go see\nwhat the Matsugane Family's up to, then.	โอเค ฉันกับฮิงาชิ\nไปดูความเคลื่อนไหวของ ตระกูลมัตสึกาเนะแล้วกัน
+P0501-0602	พากย์ · speech_list_judge_main_c05	? (ช)		Shouldn't be tough with Hamura outta the picture.	ไม่น่ายากหรอกตอนที่ฮามุระไม่ อยู่แล้วแบบนี้
+P0501-0603	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Shouldn't be tough with Hamura gone.	ไม่น่ายากหรอกตอนฮามุระหายไปแล้ว
+P0501-0604	พากย์ · speech_list_judge_main_c05	? (ช)		That's enough of the questions, Sugiura.	พอได้แล้ว ซุกิอุระ หยุดถามได้แล้ว
+P0501-0605	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	That's enough already, Sugiura.	พอเถอะน่า ซุกิอุระ
+P0501-0606	พากย์ · speech_list_judge_main_c05	Kido (ช)		The ADDC's research into AD-9 has now been published\nin one of the world's leading scientific magazines...	งานวิจัย AD-9 ของ ADDC ได้รับการตีพิมพ์แล้ว\nในนิตยสารวิทยาศาสตร์ชั้นนำของ โลกฉบับหนึ่ง...
+P0501-0607	พากย์ · speech_list_judge_main_c05	Kido (ช)	[อีกแทร็ก]	Yes, the ADDC would like to welcome reporters from Japan\nand abroad to discuss our research into AD-9...	ครับ ทาง ADDC ขอต้อนรับผู้สื่อข่าวทั้งจากญี่ปุ่น\nและต่างประเทศ เพื่อพูดคุยเกี่ยวกับงานวิจัย AD-9 ของเรา...
+P0501-0608	พากย์ · speech_list_judge_main_c05	? (ช)		Leading to the gathering of reporters from both\nJapan and abroad that we have here today.	จนนำมาสู่การรวมตัวของ ผู้สื่อข่าวทั้งจากญี่ปุ่น\nและต่างประเทศที่มากันในวันนี้
+P0501-0609	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You may already have read of it in some of the papers\npublished in scientific journals across the world...	คุณอาจเคยอ่านเรื่องนี้มาบ้างแล้ว\nจากบทความที่ตีพิมพ์ในวารสาร วิทยาศาสตร์ทั่วโลก...
+P0501-0610	พากย์ · speech_list_judge_main_c05	Sugiura (ช)		Kaito-san told me you'd be here.	ไคโตะซังบอกผมว่าคุณอยู่ที่นี่ครับ
+P0501-0611	พากย์ · speech_list_judge_main_c05	? (ช)		Don't forget about me next time, yeah?	ครั้งหน้าอย่าลืมผมด้วยล่ะ
+P0501-0612	พากย์ · speech_list_judge_main_c05	? (ช)		Damn, and you're braver than you look,\nHoshino-kun.	โห กล้ากว่าที่หน้าตาบอกไว้เยอะเลยนะ\nโฮชิโนะคุง
+P0501-0613	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Wow. You're braver than\nyou look, Hoshino.	โห นายกล้ากว่าที่\nดูภายนอกเยอะเลยนะ โฮชิโนะ
+P0501-0614	พากย์ · speech_list_judge_main_c05	? (ช)		You got the skills to back it up?	แล้วมีฝีมือรองรับความกล้านั่นมั้ยล่ะ?
+P0501-0615	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You have the skill\nto back that bravery up?	แล้วนายมีฝีมือ\nรองรับความกล้านั้นรึเปล่า?
+P0501-0616	พากย์ · speech_list_judge_main_c05	? (ช)		Again? It's come up before?	อีกรอบ? เคยมีมาก่อนด้วยเหรอ?
+P0501-0617	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You're already familiar\nwith them, Yagami-san?	คุณรู้จักที่นั่น\nมาก่อนแล้วเหรอครับ ยากามิซัง?
+P0501-0618	พากย์ · speech_list_judge_main_c05	? (ช)		Hm. I think I remember them being\nin the news a lot last year.	อืม ผมจำได้ว่าที่นั่น\nเคยออกข่าวบ่อยเมื่อปีที่แล้ว
+P0501-0619	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I heard a little about the ADDC.\nWeren't they in the news a lot last year?	ผมเคยได้ยินเรื่อง ADDC มาบ้าง\nปีที่แล้วออกข่าวบ่อยไม่ใช่เหรอ?
+P0501-0620	พากย์ · speech_list_judge_main_c05	? (ช)		Something about a new drug\nthat could win a Nobel Prize.	อะไรสักอย่างเกี่ยวกับยาตัวใหม่\nที่อาจคว้ารางวัลโนเบลได้
+P0501-0621	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Something like... a new drug\nthat could win a Nobel Prize?	ประมาณว่า... ยาตัวใหม่\nที่อาจได้รางวัลโนเบลมั้ง?
+P0501-0622	พากย์ · speech_list_judge_main_c05	? (ช)		That's what we're about to find out.\nAnd there's only one way to do that.	นั่นแหละคือสิ่งที่เรากำลังจะหาคำตอบ\nและมีทางเดียวที่จะรู้ได้
+P0501-0623	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	That's what we're about to find out, right?\nAnd calling the center is how we'll do it.	นั่นแหละคือสิ่งที่เรากำลังจะรู้ ใช่มั้ย?\nและการโทรไปที่ศูนย์นั่นแหละคือ วิธีที่จะรู้
+P0501-0624	พากย์ · speech_list_judge_main_c05	? (ช)		First off, we'll need to figure out\nwho Shintani was calling.	อย่างแรกเลย เราต้องหาให้ได้ก่อน\nว่าชินทานิโทรหาใคร
+P0501-0625	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Shintani must have called someone specific.\nWe gotta figure out who.	ชินทานิต้องโทรหาใครสักคนแน่ ๆ\nเราต้องหาให้เจอว่าใคร
+P0501-0626	พากย์ · speech_list_judge_main_c05	? (ช)		I suppose that all depends on your acting skills,\nDetective Yagami.	ก็คงขึ้นอยู่กับฝีมือการแสดงของ คุณแล้วล่ะครับ\nนักสืบยากามิ
+P0501-0627	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	It's your job to figure that out,\nDetective Yagami.	นั่นเป็นหน้าที่ของคุณที่ต้องหาทางเอง\nนักสืบยากามิ
+P0501-0628	พากย์ · speech_list_judge_main_c05	? (ช)		Doesn't sound like you're\nmaking much progress.	ฟังดูแล้วเหมือนจะยัง\nไม่คืบหน้าเท่าไหร่เลยนะ
+P0501-0629	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I dunno. Doesn't sound like you're\nmaking much progress.	ไม่รู้สิ ฟังดูเหมือนนายจะยัง\nไม่คืบหน้าเท่าไหร่เลย
+P0501-0630	พากย์ · speech_list_judge_main_c05	? (ช)		You think that's gonna work?	นายคิดว่ามันจะได้ผลจริงเหรอ?
+P0501-0631	พากย์ · speech_list_judge_main_c05	? (ช)		By the way, Yagami-san.	ว่าแต่ ยากามิซัง
+P0501-0632	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	By the way...	ว่าแต่...
+P0501-0633	พากย์ · speech_list_judge_main_c05	? (ช)		What ever happened to that guy\nfrom three years ago? Shinpei Okubo.	เกิดอะไรขึ้นกับคนนั้น\nเมื่อสามปีก่อนเหรอครับ ชินเป โอคุโบะน่ะ
+P0501-0634	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Remember that guy you saved? Shinpei Okubo, right?\nWhat happened to that guy?	จำคนที่คุณเคยช่วยไว้ได้ไหมครับ ชินเป โอคุโบะใช่ไหม?\nตอนนี้เขาเป็นยังไงบ้างแล้ว?
+P0501-0635	พากย์ · speech_list_judge_main_c05	? (ช)		Have you ever gone to see him, Yagami-san?	คุณเคยไปเยี่ยมเขาบ้างไหมครับ ยากามิซัง?
+P0501-0636	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yagami-san, have you ever\ngone to see him?	ยากามิซัง คุณเคย\nไปเยี่ยมเขาบ้างไหมครับ?
+P0501-0637	พากย์ · speech_list_judge_main_c05	? (ช)		I dunno,\nI was wondering what he was like.	ไม่รู้สิครับ\nแค่อยากรู้ว่าเขาเป็นคนยังไง
+P0501-0638	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I dunno. I was wondering\nwhat Okubo was like.	ไม่รู้สิครับ ผมแค่อยากรู้\nว่าโอคุโบะเป็นคนยังไง
+P0501-0639	พากย์ · speech_list_judge_main_c05	? (ช)		The case got tons of news coverage,\nyou know.	คดีนี้ออกข่าวเยอะมาก\nรู้ไหมครับ
+P0501-0640	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	The case got tons of\nnews coverage, you know.	คดีนี้ออกข่าว\nเยอะมากเลยนะครับ
+P0501-0641	พากย์ · speech_list_judge_main_c05	? (ช)		I was also wondering what you thought.\nAbout the case.	แล้วก็อยากรู้ด้วยว่าคุณคิดยังไง\nเกี่ยวกับคดีนี้
+P0501-0642	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yagami-san... I was also wondering what you thought.\nAbout the case, I mean.	ยากามิซัง... ผมแค่อยากรู้ด้วยว่าคุณคิดยังไง\nเกี่ยวกับคดีนี้น่ะครับ
+P0501-0643	พากย์ · speech_list_judge_main_c05	? (ช)		Did you really think that he was innocent?	คุณคิดจริง ๆ เหรอครับว่าเขาบริสุทธิ์?
+P0501-0644	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Did you really think he was innocent?	คุณคิดจริง ๆ เหรอว่าเขาบริสุทธิ์?
+P0501-0645	พากย์ · speech_list_judge_main_c05	? (ช)		But then he walked...\nand killed his girlfriend.	แต่แล้วเขาก็รอดพ้นคดี...\nแล้วก็ไปฆ่าแฟนสาวตัวเองซะงั้น
+P0501-0646	พากย์ · speech_list_judge_main_c05	? (ช)		You defended him for that too, yeah?	คุณแก้ต่างให้เขาคดีนั้นด้วย ใช่ไหมครับ?
+P0501-0647	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You defended him\nfor that too, yeah?	คุณแก้ต่างให้เขา\nคดีนั้นด้วยใช่ไหมครับ?
+P0501-0648	พากย์ · speech_list_judge_main_c05	? (ช)		Did you believe him then, too?	ตอนนั้นคุณเชื่อเขาด้วยเหรอครับ?
+P0501-0649	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	So even then?\nYou still believed in him?	ขนาดตอนนั้นเหรอ?\nคุณยังเชื่อเขาอยู่อีกเหรอ?
+P0501-0650	พากย์ · speech_list_judge_main_c05	? (ช)		Do you think he deserves the death penalty?	คุณคิดว่าเขาสมควรได้รับ โทษประหารไหมครับ?
+P0501-0651	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Okay. So you figure Okubo deserves\nthe death penalty?	โอเค งั้นคุณคิดว่าโอคุโบะสมควร\nได้รับโทษประหารสินะครับ?
+P0501-0652	พากย์ · speech_list_judge_main_c05	? (ช)		My bad.\nWas that too far?	ขอโทษครับ\nผมเลยเถิดไปหน่อยรึเปล่า?
+P0501-0653	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Did I push it too far?	ผมถามมากไปหน่อยรึเปล่าครับ?
+P0501-0654	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	If you say so.	ถ้าว่าอย่างนั้นก็ได้
+P0501-0655	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[ใช้ร่วม]	Sugiura.	ซุกิอุระ
+P0501-0656	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Sugiura...	ซุกิอุระ...
+P0501-0657	พากย์ · speech_list_judge_main_c05	? (ช)		Sure, I'll do the honors.	ได้ ผมเริ่มเองก็ได้
+P0501-0658	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yeah. So we are.	ใช่ มากันครบจริงด้วย
+P0501-0659	พากย์ · speech_list_judge_main_c05	? (ช)		Masamichi Shintani of the Genda Law Office,\nhas been murdered.	มาซามิจิ ชินทานิ จากสำนักงานกฎหมายเก็นดะ\nถูกฆาตกรรม
+P0501-0660	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Masamichi Shintani, of the Genda Law Office,\nhas been murdered.	มาซามิจิ ชินทานิ แห่งสำนักงานกฎหมายเก็นดะ\nถูกฆาตกรรม
+P0501-0661	พากย์ · speech_list_judge_main_c05	? (ช)		Given that his eyes were gouged out,\nit's likely the Mole was responsible.	จากที่ดวงตาถูกควักออก\nน่าจะเป็นฝีมือของไอ้ตัวตุ่น
+P0501-0662	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Given that his eyes were gouged out,\nit's likely the Mole was responsible somehow.	จากที่ดวงตาถูกควักออก\nไม่ทางใดก็ทางหนึ่งน่าจะเป็น ฝีมือไอ้ตัวตุ่น
+P0501-0663	พากย์ · speech_list_judge_main_c05	? (ช)		And I'll need all of your help\nto track him down.	และผมต้องขอความช่วยเหลือจากทุกคน\nเพื่อตามล่าตัวมันให้เจอ
+P0501-0664	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Everyone... I'll need your help\nto track him down.	ทุกคน... ผมต้องขอความช่วยเหลือ\nเพื่อตามล่าตัวมันให้เจอ
+P0501-0665	พากย์ · speech_list_judge_main_c05	? (ช)		We can talk about that later. What's important now is,\nShintani called them before he was killed.	เรื่องนั้นค่อยคุยกันทีหลัง ตอนนี้สิ่งสำคัญคือ\nชินทานิโทรหาที่นั่นก่อนถูกฆ่า
+P0501-0666	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yeah. But the key thing now is that Shintani\ncalled them just before his death.	ใช่ แต่ประเด็นสำคัญตอนนี้คือ\nชินทานิโทรหาที่นั่นก่อน เสียชีวิตไม่นาน
+P0501-0667	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(I don't get it.\nWhat's the connection between Shintani and the ADDC?)</color>	<color=ｍonologue>(ผมไม่เข้าใจเลย\nชินทานิกับ ADDC เกี่ยวข้องกันยังไง?)</color>
+P0501-0668	พากย์ · speech_list_judge_main_c05	? (ช)		He's the one who showed me around the Center\nwhen I was looking into Okubo's case.	เขาคือคนที่พาผมเดินดูรอบศูนย์นั่น\nตอนที่ผมสืบคดีของโอคุโบะ
+P0501-0669	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Three years ago, during the Okubo case,\nhe showed me around the building.	เมื่อสามปีก่อน ตอนคดีโอคุโบะ\nเขาพาผมเดินดูรอบตึกนั่น
+P0501-0670	พากย์ · speech_list_judge_main_c05	? (ช)		Guess he's been the director for a while now.	งั้นเขาก็เป็นผู้อำนวยการมา สักพักแล้วสินะ
+P0501-0671	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yeah, and the ADDC's run by\nthe Medical Device Development Institute.	ใช่ แล้ว ADDC ก็บริหารโดย\nสถาบันพัฒนาอุปกรณ์การแพทย์
+P0501-0672	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	They have all the land in the world to expand on.	มีที่ดินให้ขยายได้ไม่จำกัดเลยแบบนี้
+P0501-0673	พากย์ · speech_list_judge_main_c05	? (ช)		Yeah. But how are we gonna do that\nover the phone?	ใช่ครับ แต่เราจะรู้ได้ยังไง\nแค่ผ่านโทรศัพท์?
+P0501-0674	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(I just have to figure out who he called, and why.)</color>	<color=ｍonologue>(ผมแค่ต้องหาให้ได้ว่าเขาโทรหาใคร แล้วทำไม)</color>
+P0501-0675	พากย์ · speech_list_judge_main_c05	? (ช)		Hi there, ma'am. This is...	สวัสดีครับคุณผู้หญิง ผมชื่อ...
+P0501-0676	พากย์ · speech_list_judge_main_c05	? (ช)		This is Masamichi Shintani.\nI'm a lawyer from the Genda Law Office.	ผมชื่อมาซามิจิ ชินทานิครับ\nเป็นทนายจากสำนักงานกฎหมายเก็นดะ
+P0501-0677	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	This is Masamichi Shintani,\na lawyer from the Genda Law Office.	ผมชื่อมาซามิจิ ชินทานิ\nทนายจากสำนักงานกฎหมายเก็นดะครับ
+P0501-0678	พากย์ · speech_list_judge_main_c05	? (ช)		Could put me through to the same\nperson I spoke to yesterday?	ช่วยต่อสายให้ผมคุยกับ\nคนเดิมที่คุยด้วยเมื่อวานได้ไหมครับ?
+P0501-0679	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I actually called to speak to someone yesterday.\nCould you put me through to the same person?	จริง ๆ ผมโทรมาคุยกับใครบางคนเมื่อวานนี้ครับ\nช่วยต่อสายให้คุยกับคนเดิมได้ไหมครับ?
+P0501-0680	พากย์ · speech_list_judge_main_c05	? (ช)		Oh, uh... It sorta slipped my mind, sorry.\nCan you maybe look into the transfer history?	เอ่อ... จำไม่ได้ซะแล้วครับ ขอโทษที\nช่วยเช็กประวัติการโอนสายให้ หน่อยได้ไหมครับ?
+P0501-0681	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	...It sorta slipped my mind, sorry.\nCan you maybe look into the transfer history?	...จำไม่ได้ซะแล้วครับ ขอโทษที\nช่วยเช็กประวัติการโอนสายให้ หน่อยได้ไหมครับ?
+P0501-0682	พากย์ · speech_list_judge_main_c05	? (ช)		Oh, in that case...	อ๋อ ถ้างั้น...
+P0501-0683	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	That should be fine. Uh...	น่าจะโอเคนะครับ เอ่อ...
+P0501-0684	พากย์ · speech_list_judge_main_c05	? (ช)		It was about the Shinpei Okubo incident.	เป็นเรื่องเกี่ยวกับเหตุการณ์ของชินเป โอคุโบะครับ
+P0501-0685	พากย์ · speech_list_judge_main_c05	? (ช)		A patient of yours was murdered\non-site three years ago.	คนไข้ของที่นี่ถูกฆาตกรรม\nในบริเวณนี้เมื่อสามปีก่อนครับ
+P0501-0686	พากย์ · speech_list_judge_main_c05	? (ช)		Nope, I'm most certainly a lawyer.	เปล่าครับ ผมเป็นทนายความแน่นอน
+P0501-0687	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	No, no. I'm a lawyer, like I said.	เปล่า เปล่า ผมเป็นทนายอย่างที่บอกครับ
+P0501-0688	พากย์ · speech_list_judge_main_c05	? (ช)		It was about AD-9. The drug that can\nsupposedly cure dementia.	เป็นเรื่องเกี่ยวกับ AD-9 ครับ ยาที่ว่ากันว่า\nรักษาโรคสมองเสื่อมได้
+P0501-0689	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	It was about a specialized drug?\nA new medication for dementia, I believe.	เป็นเรื่องเกี่ยวกับยาเฉพาะทาง ตัวหนึ่งครับ\nยารักษาโรคสมองเสื่อมตัวใหม่ ถ้าจำไม่ผิด
+P0501-0690	พากย์ · speech_list_judge_main_c05	center_uketsuke (ญ)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Yes?	อะไรเหรอ?
+P0501-0691	พากย์ · speech_list_judge_main_c05	? (ช)		...I see.\nThank you anyway.	...เข้าใจแล้วครับ\nยังไงก็ขอบคุณนะครับ
+P0501-0692	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	I see...\nThanks anyway.	เข้าใจแล้ว...\nยังไงก็ขอบคุณครับ
+P0501-0693	พากย์ · speech_list_judge_main_c05	? (ช)		It was about the murders in Kamurocho.	เป็นเรื่องเกี่ยวกับคดีฆาตกรรม ในคามุโรโจครับ
+P0501-0694	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	It was about the murders in Kamurocho,\nI believe.	เป็นเรื่องเกี่ยวกับคดีฆาตกรรม\nในคามุโรโจ ถ้าจำไม่ผิดครับ
+P0501-0695	พากย์ · speech_list_judge_main_c05	? (ช)		Right... Never mind, then.\nSorry.	อ้อ... งั้นช่างเถอะครับ\nขอโทษด้วย
+P0501-0696	พากย์ · speech_list_judge_main_c05	? (?)	[อีกแทร็ก]	I see... Well, sorry about that.\n	เข้าใจแล้วครับ... ขอโทษด้วยนะครับ\n
+P0501-0697	พากย์ · speech_list_judge_main_c05	? (ช)		Well, who I am doesn't matter.	เอาเถอะ ผมเป็นใครไม่สำคัญหรอกครับ
+P0501-0698	พากย์ · speech_list_judge_main_c05	? (ช)		Anyway, uh... I think a lawyer named Shintani\ncalled your office yesterday.	ยังไงก็เถอะ เอ่อ... ผมคิดว่ามีทนายชื่อชินทานิ\nโทรมาที่สำนักงานคุณเมื่อวานนี้ครับ
+P0501-0699	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Anyway, uh... I think a lawyer\nnamed Shintani called your office yesterday.	ยังไงก็เถอะ เอ่อ... ผมคิดว่ามีทนาย\nชื่อชินทานิโทรมาที่นี่เมื่อวาน นี้ครับ
+P0501-0700	พากย์ · speech_list_judge_main_c05	? (ช)	[ซ้ำในบท x3]	I was wondering if you could connect me\nwith whoever he spoke to.	ผมเลยอยากรู้ว่าคุณจะช่วยต่อสาย\nให้ผมคุยกับคนที่เขาคุยด้วยได้ไหมครับ
+P0501-0701	พากย์ · speech_list_judge_main_c05	? (ช)		Well the truth is...\nShintani-san passed away yesterday.	ความจริงก็คือ...\nคุณชินทานิเสียชีวิตไปเมื่อวานนี้ครับ
+P0501-0702	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	The truth is... Shintani-sensei passed away\nyesterday, and I'm investigating.	ความจริงคือ... อาจารย์ชินทานิเสียชีวิต\nไปเมื่อวานนี้ครับ ผมกำลังสืบสวนเรื่องนี้อยู่
+P0501-0703	พากย์ · speech_list_judge_main_c05	? (ช)		This is the last number he dialed,\nso I'm calling to ask about him.	นี่คือเบอร์สุดท้ายที่เขาโทรออก\nผมเลยโทรมาถามเรื่องของเขาครับ
+P0501-0704	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	This is the last number he had dialed,\nso I'm calling to ask about him.	นี่คือเบอร์สุดท้ายที่เขาโทรออกไป\nผมเลยโทรมาถามเรื่องของเขาครับ
+P0501-0705	พากย์ · speech_list_judge_main_c05	? (ช)		Er, not exactly.\nYou know what... I'll try back later.	เอ่อ ก็ไม่เชิงครับ\nเอาเป็นว่า... ผมจะโทรมาใหม่ทีหลังครับ
+P0501-0706	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Er, not exactly.\nAnyway... gotta run.	เอ่อ ก็ไม่เชิงครับ\nเอาเป็นว่า... ผมขอตัวก่อนนะครับ
+P0501-0707	พากย์ · speech_list_judge_main_c05	? (ช)		This is Takayuki Yagami,\nfrom the Yagami Detective Agency.	ผมชื่อทาคายูกิ ยากามิ\nจากสำนักงานนักสืบยากามิครับ
+P0501-0708	พากย์ · speech_list_judge_main_c05	? (ช)	[ซ้ำในบท x2]	I'm calling about a lawyer named Shintani\nwho I believe contacted you yesterday.	ผมโทรมาเรื่องทนายชื่อชินทานิ\nที่ผมเชื่อว่าติดต่อมาที่นี่ เมื่อวานนี้ครับ
+P0501-0709	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	Yesterday, I believe a lawyer named Shintani\ncontacted someone in your offices.	เมื่อวานนี้ ผมเชื่อว่ามีทนายชื่อชินทานิ\nติดต่อกับใครสักคนในสำนักงานของ คุณครับ
+P0501-0710	พากย์ · speech_list_judge_main_c05	? (ช)		I was wondering if you could connect me\nwith whomever he spoke to.	ผมเลยอยากรู้ว่าคุณจะช่วยต่อสาย\nให้คุยกับคนที่เขาคุยด้วยได้ไหมครับ
+P0501-0711	พากย์ · speech_list_judge_main_c05	? (ช)		I see. Thank you anyway.	เข้าใจแล้วครับ ยังไงก็ขอบคุณนะครับ
+P0501-0712	พากย์ · speech_list_judge_main_c05	? (ช)		This is Takayuki Yagami.\nI'm a lawyer from the Genda Law Office.	ผมชื่อทาคายูกิ ยากามิครับ\nเป็นทนายจากสำนักงานกฎหมายเก็นดะ
+P0501-0713	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	This is Takayuki Yagami,\na lawyer from the Genda Law Office.	ผมชื่อทาคายูกิ ยากามิ\nทนายจากสำนักงานกฎหมายเก็นดะครับ
+P0501-0714	พากย์ · speech_list_judge_main_c05	? (ช)		Sorry, I don't.	ขอโทษครับ ผมไม่ทราบครับ
+P0501-0715	พากย์ · speech_list_judge_main_c05	? (ช)		Oh, it was... uh...	เอ่อ มันคือ... เอ่อ...
+P0501-0716	พากย์ · speech_list_judge_main_c05	? (ช)		No way this happens over the phone.	แบบนี้คงเป็นไปไม่ได้ทางโทรศัพท์หรอก
+P0501-0717	พากย์ · speech_list_judge_main_c05	? (ช)		It'll be faster to just head over\nthere myself.	ไปที่นั่นด้วยตัวเองซะเลย\nจะเร็วกว่าเยอะ
+P0501-0718	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	It'll be faster to just head over\nto the ADDC myself.	ไปที่ ADDC ด้วยตัวเองซะเลย\nจะเร็วกว่าเยอะ
+P0501-0719	พากย์ · speech_list_judge_main_c05	? (ช)		Not sure, but I know the director, remember?\nWorst-case scenario, I come back empty-handed.	ไม่แน่ใจเหมือนกัน แต่ผมรู้จักผู้อำนวยการที่นั่นนี่นา\nถ้าแย่สุดก็แค่กลับมามือเปล่า
+P0501-0720	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Not sure, but I know the ADDC's director.\nWorst-case scenario, I come back empty-handed.	ไม่แน่ใจเหมือนกัน แต่ผมรู้จักผู้อำนวยการของ ADDC\nถ้าแย่สุดก็แค่กลับมามือเปล่าเท่านั้น
+P0501-0721	พากย์ · speech_list_judge_main_c05	? (ช)		He's in the detention center.\nBeen there since they gave him his death sentence.	เขาอยู่ในเรือนจำ\nตั้งแต่ถูกตัดสินประหารชีวิตแล้ว
+P0501-0722	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	He's in prison now. Death row.\nThat's where he'll stay until his time's up.	ตอนนี้เขาอยู่ในคุก แดนประหาร\nต้องอยู่ที่นั่นจนกว่าจะถึงเวลาของเขา
+P0501-0723	พากย์ · speech_list_judge_main_c05	? (ช)		No. Why would I?	ไม่เคย จะไปทำไมล่ะ?
+P0501-0724	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Nope. Not once.	ไม่เคยเลยสักครั้ง
+P0501-0725	พากย์ · speech_list_judge_main_c05	? (ช)		Why do you ask anyway?	ว่าแต่ถามทำไมล่ะ?
+P0501-0726	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Why are you asking me this?	ทำไมถึงถามผมแบบนี้ล่ะ?
+P0501-0727	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Probably.	คงจะใช่
+P0501-0728	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	...Guess I did.	...ผมก็คิดอย่างนั้นแหละ
+P0501-0729	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(...I did. Okubo-san asked me to\nafter he murdered Emi-chan in cold blood.)</color>	<color=ｍonologue>(...ใช่ ผมแก้ต่างให้ โอคุโบะซังขอร้องผมเอง\nหลังจากที่เขาฆ่าเอมิจังอย่าง เลือดเย็น)</color>
+P0501-0730	พากย์ · speech_list_judge_main_c05	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	...Yes.	...ใช่
+P0501-0731	พากย์ · speech_list_judge_main_c05	? (ช)		He kept saying the same thing.\nHow he could never have killed anyone.	เขาพูดเรื่องเดิมซ้ำ ๆ\nว่าเขาไม่มีทางฆ่าใครได้เด็ดขาด
+P0501-0732	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Okubo kept saying the same thing.\nHow he would never kill them.	โอคุโบะพูดเรื่องเดิมซ้ำ ๆ\nว่าเขาไม่มีทางฆ่าพวกเขาได้
+P0501-0733	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But I...	แต่ผม...
+P0501-0734	พากย์ · speech_list_judge_main_c05	? (ช)		I didn't believe him, no.	ผมไม่เชื่อเขาหรอก ไม่เชื่อเลย
+P0501-0735	พากย์ · speech_list_judge_main_c05	? (ช)		Fighting for him in court made me\nsick to my stomach.	การสู้คดีให้เขาในศาลทำให้ผม\nรู้สึกคลื่นไส้
+P0501-0736	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Every time I declared his innocence in that court...\nI felt sick to my stomach.	ทุกครั้งที่ผมยืนยัน ความบริสุทธิ์ของเขาในศาล...\nผมรู้สึกคลื่นไส้ไปหมด
+P0501-0737	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Nah.	ไม่หรอก
+P0501-0738	พากย์ · speech_list_judge_main_c05	Higashi (ช)		Don't get the wrong idea.	อย่าเข้าใจผิดไปเองนะ
+P0501-0739	พากย์ · speech_list_judge_main_c05	Higashi (ช)	[อีกแทร็ก]	Don't get the wrong idea, yeah?	อย่าเข้าใจผิดไปเองนะ โอเคนะ?
+P0501-0740	พากย์ · speech_list_judge_main_c05	? (ช)		I'm not one of your little buddies.\nRemember that.	ฉันไม่ใช่เพื่อนซี้อะไรของนายหรอกนะ\nจำไว้ด้วยล่ะ
+P0501-0741	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I'm not one of your little buddies.	ฉันไม่ใช่เพื่อนซี้อะไรของนายหรอกนะ
+P0501-0742	พากย์ · speech_list_judge_main_c05	Hoshino (ช)		Over here, Yagami-san!\nI have a taxi for us!	ทางนี้ครับ ยากามิซัง!\nผมเรียกแท็กซี่ไว้ให้เราแล้วครับ!
+P0501-0743	พากย์ · speech_list_judge_main_c05	Hoshino (ช)	[อีกแทร็ก]	Yagami-san, over here!\nI have a taxi for us!	ยากามิซัง ทางนี้ครับ!\nผมเรียกแท็กซี่ไว้ให้เราแล้วครับ!
+P0501-0744	พากย์ · speech_list_judge_main_c05	Kaito (ช)		The ADDC, huh?	ADDC เหรอเนี่ย...
+P0501-0745	พากย์ · speech_list_judge_main_c05	? (ช)		This has gotta be fate or somethin'...	นี่มันต้องเป็นโชคชะตาอะไรสัก อย่างแน่ๆ...
+P0501-0746	พากย์ · speech_list_judge_main_c05	center_uketsuke (ญ)		Do you have an appointment, sir?	คุณมีนัดหมายไว้หรือเปล่า
+P0501-0747	พากย์ · speech_list_judge_main_c05	? (ญ)		A murder...?	ฆาตกรรม...?
+P0501-0748	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Ah...?	อ้า...?
+P0501-0749	พากย์ · speech_list_judge_main_c05	? (ญ)		I'm very sorry, sir...\nBut I can't provide such private information.	ต้องขอโทษด้วยจริงๆ...\nแต่ไม่สามารถให้ข้อมูลส่วนตัว แบบนี้ได้
+P0501-0750	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	I'm very sorry, sir...\nbut I can't provide such private information.	ต้องขอโทษด้วยจริงๆ...\nแต่ไม่สามารถให้ข้อมูลส่วนตัว แบบนี้ได้
+P0501-0751	พากย์ · speech_list_judge_main_c05	Hoshino (ช)		I don't, sorry. My name is Hoshino, from the Genda\nLaw Office. This is my partner, Yagami.	ไม่มีครับ ขอโทษด้วย ผมชื่อโฮชิโนะ จากสำนักงานกฎหมายเก็นดะครับ\nนี่คือหุ้นส่วนของผม ยากามิ
+P0501-0752	พากย์ · speech_list_judge_main_c05	Hoshino (ช)	[อีกแทร็ก]	No, sorry... I'm Hoshino, from the Genda Law Office.\nThis is my partner, Yagami.	ไม่มีครับ ขอโทษด้วย... ผมชื่อโฮชิโนะ จากสำนักงานกฎหมายเก็นดะครับ\nนี่คือหุ้นส่วนของผม ยากามิ
+P0501-0753	พากย์ · speech_list_judge_main_c05	? (ช)		We're here to talk about a murder\nthat took place in Kamurocho yesterday.	เรามาที่นี่เพื่อพูดคุย เรื่องคดีฆาตกรรม\nที่เกิดขึ้นในคามุโรโจเมื่อวานนี้ครับ
+P0501-0754	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You see, we're investigating a murder\nthat happened in Kamurocho.	คือว่าเรากำลังสืบสวนคดีฆาตกรรม\nที่เกิดขึ้นในคามุโรโจครับ
+P0501-0755	พากย์ · speech_list_judge_main_c05	? (ช)		We have a record that he called\nthis center before he was killed.	เรามีบันทึกว่าเขาโทรมา\nที่ศูนย์นี้ก่อนถูกฆ่าครับ
+P0501-0756	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	As far as we can tell, he called this center\nbefore he was killed.	เท่าที่เราทราบ เขาโทรมาที่ศูนย์นี้\nก่อนที่จะถูกฆ่าครับ
+P0501-0757	พากย์ · speech_list_judge_main_c05	? (ช)		We're hoping you could help us track down\nexactly who he spoke to?	เราหวังว่าคุณจะช่วยเราตามหา\nว่าเขาคุยกับใครได้ไหมครับ?
+P0501-0758	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	If it's all right, could we maybe find out\nwho he spoke to?	ถ้าไม่เป็นการรบกวน เราขอทราบได้ไหมครับ\nว่าเขาคุยกับใคร?
+P0501-0759	พากย์ · speech_list_judge_main_c05	Yagami (ช)		A coworker of ours, name's Shintani.\nHe was the victim.	เพื่อนร่วมงานของเรา ชื่อชินทานิ\nเขาคือเหยื่อครับ
+P0501-0760	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	One of our lawyers, Shintani,\nwas the victim.	ทนายความคนหนึ่งของเรา ชินทานิ\nคือเหยื่อครับ
+P0501-0761	พากย์ · speech_list_judge_main_c05	Emi (ญ)		Right this way, please.	เชิญทางนี้ค่ะ
+P0501-0762	พากย์ · speech_list_judge_main_c05	Emi (ญ)	[อีกแทร็ก] [ใช้ร่วม]	Right this way.	เชิญทางนี้เลยค่ะ
+P0501-0763	พากย์ · speech_list_judge_main_c05	? (ญ)		Straight ahead is the ADDC's general ward.\nWaku-san's room is on the 4th floor.	ตรงไปข้างหน้าคือหอผู้ป่วยทั่วไปของ ADDC ค่ะ\nห้องของวาคุซังอยู่ชั้น 4 ค่ะ
+P0501-0764	พากย์ · speech_list_judge_main_c05	Shintani (ช)		Not the friendliest girl in town, huh?	ไม่ใช่สาวที่เป็นมิตรที่สุดใน เมืองนี้เลยนะ
+P0501-0765	พากย์ · speech_list_judge_main_c05	? (ช)		After I busted my ass to pass the bar,\nI always figured I'd have my pick of the ladies...	หลังจากที่ฉันสอบตั๋วทนายจนแทบตาย\nฉันนึกว่าตัวเองจะเลือกผู้หญิง ได้ตามใจซะอีก...
+P0501-0766	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	After I worked so hard to pass the bar and everything.\nI was thinking the ladies'd come flocking to me...	หลังจากที่ฉันทำงานหนักจนสอบ ตั๋วทนายผ่าน\nฉันนึกว่าผู้หญิงจะแห่กันมาหาฉันซะอีก...
+P0501-0767	พากย์ · speech_list_judge_main_c05	? (ช)		Let's get this over with already.	รีบๆ จบเรื่องนี้กันเถอะน่า
+P0501-0768	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Come on, let's get this\nover with already.	เร็วเข้า รีบจบเรื่องนี้\nกันเถอะน่า
+P0501-0769	พากย์ · speech_list_judge_main_c05	? (ช)		Okubo's going down,\nno matter how you slice it.	ยังไงโอคุโบะก็ต้องติดคุก\nไม่ว่าจะมองมุมไหนก็ตาม
+P0501-0770	พากย์ · speech_list_judge_main_c05	Yagami (ช)		We're not exactly welcome guests here.	ดูเหมือนเราจะไม่ใช่แขกที่น่า ต้อนรับที่นี่เท่าไหร่นัก
+P0501-0771	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	Guess we're not really welcome here.	คงไม่ใช่แขกที่น่าต้อนรับที่นี่สินะ
+P0501-0772	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[ซ้ำในบท x2]	(I need to follow Terasawa-san.)	(ต้องตามเทราซาวะซังไปหน่อย)
+P0501-0773	พากย์ · speech_list_judge_main_c05	Emi (ญ)		This was the room assigned to Waku-san.	ห้องนี้คือห้องของวาคุซังค่ะ
+P0501-0774	พากย์ · speech_list_judge_main_c05	Emi (ญ)	[อีกแทร็ก]	This was Waku-san's room.	นี่คือห้องของวาคุซังค่ะ
+P0501-0775	พากย์ · speech_list_judge_main_c05	? (ญ)		That's the research wing where\nthey develop all our new drugs.	ตรงนั้นคือปีกฝ่ายวิจัย\nที่ใช้พัฒนายาตัวใหม่ทั้งหมดของเราค่ะ
+P0501-0776	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	That leads to the pharmaceutical research wing.\nThey develop all our new drugs there.	ตรงนั้นเป็นทางไปปีกวิจัยเภสัชกรรม\nพวกเขาพัฒนายาตัวใหม่ทั้งหมด ที่นั่นค่ะ
+P0501-0777	พากย์ · speech_list_judge_main_c05	? (ญ)		You can't get in without a gold keycard,\nthough. Not even I have one.	แต่เข้าไม่ได้ถ้าไม่มีคีย์การ์ด สีทองค่ะ\nขนาดดิฉันเองก็ยังไม่มีเลย
+P0501-0778	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	You can't get in without a gold keycard, though.\nNot even I have one.	แต่ถ้าไม่มีคีย์การ์ดสีทองก็ เข้าไม่ได้ค่ะ\nขนาดดิฉันเองก็ยังไม่มีเลย
+P0501-0779	พากย์ · speech_list_judge_main_c05	? (ญ)		I suppose because it's the heart\nof the Center's operations.	คงเพราะมันคือหัวใจ\nของการดำเนินงานทั้งหมดของศูนย์นี้ค่ะ
+P0501-0780	พากย์ · speech_list_judge_main_c05	Shintani (ช)	[ใช้ร่วม]	Hey, Yagami. You're never gonna last\nif you keep taking cases like this.	เฮ้ ยากามิ แกจะไปรอดยังไง\nถ้ายังรับคดีแบบนี้ไปเรื่อยๆ
+P0501-0781	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Criminal suits are a constant test of your conviction.\nYour sense of justice.	คดีอาญามันคือบททดสอบ ความเชื่อมั่นของแกตลอดเวลา\nสำนึกยุติธรรมของแกน่ะ
+P0501-0782	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	They don't even pay that well.	แถมค่าจ้างก็ไม่ได้ดีอะไรด้วยซ้ำ
+P0501-0783	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Look, just chill out, okay?	โอ๊ย ใจเย็นๆ หน่อยน่า โอเคไหม?
+P0501-0784	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Take it from me.	เชื่อฉันเถอะ
+P0501-0785	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Take it from me. I've been around\nthe block way longer than you have.	เชื่อฉันเถอะ ฉันผ่านโลกมาเยอะกว่าแก\nเยอะเลยนะ
+P0501-0786	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	I've been around the block\nway longer than you have.	ฉันผ่านโลกมาเยอะกว่าแก\nเยอะเลยนะ
+P0501-0787	พากย์ · speech_list_judge_main_c05	? (ช)		Gold, huh?	สีทองเหรอ...
+P0501-0788	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	...Gold, huh?	...สีทองเหรอ
+P0501-0789	พากย์ · speech_list_judge_main_c05	? (ช)		Heh, sounds like it's a whole nother world\nback there. Security like that must be a bitch.	เฮอะ ฟังดูเหมือนข้างในนั่นเป็นอีก โลกหนึ่งเลยนะ\nระบบรักษาความปลอดภัยแบบนั้น น่าจะปวดหัวน่าดู
+P0501-0790	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Heh, sounds like a whole 'nother\nhigh-security world back there.	เฮอะ ฟังดูเหมือนข้างในนั่น\nเป็นโลกที่รักษาความปลอดภัย แน่นหนาอีกแบบเลยนะ
+P0501-0791	พากย์ · speech_list_judge_main_c05	? (ช)		C'mon, Yagami.	เร็วเข้า ยากามิ
+P0501-0792	พากย์ · speech_list_judge_main_c05	Yagami (ช)		Careful who you say that around.	ระวังปากหน่อยว่าจะพูดแบบนั้นกับใคร
+P0501-0793	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	Oh yeah? Careful who you say that around.	อ้อเหรอ? ระวังปากหน่อยว่าจะพูดแบบนั้นกับใคร
+P0501-0794	พากย์ · speech_list_judge_main_c05	? (ช)		What's down there?	ข้างล่างนั่นมีอะไร?
+P0501-0795	พากย์ · speech_list_judge_main_c05	? (ช)	[ใช้ร่วม]	Oh.	อ้อ.
+P0501-0796	พากย์ · speech_list_judge_main_c05	Emi (ญ)		Before he died, Waku-san spent\nmost of his time in here.	ก่อนเสียชีวิต วาคุซังใช้เวลา\nส่วนใหญ่อยู่ในห้องนี้ค่ะ
+P0501-0797	พากย์ · speech_list_judge_main_c05	Emi (ญ)	[อีกแทร็ก]	This is the room Waku-san stayed in\nbefore his death.	นี่คือห้องที่วาคุซังพักอยู่\nก่อนเสียชีวิตค่ะ
+P0501-0798	พากย์ · speech_list_judge_main_c05	? (ญ)		Two years ago, with Alzheimer's.	สองปีก่อนค่ะ ด้วยโรคอัลไซเมอร์
+P0501-0799	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	Two years ago. With Alzheimer's.	สองปีก่อนค่ะ ด้วยโรคอัลไซเมอร์
+P0501-0800	พากย์ · speech_list_judge_main_c05	? (ญ)		Alzheimer's is a neurodegenerative disease\nthat leads to dementia, yes.	อัลไซเมอร์เป็นโรคความเสื่อมของ ระบบประสาท\nที่นำไปสู่ภาวะสมองเสื่อมค่ะ ใช่แล้ว
+P0501-0801	พากย์ · speech_list_judge_main_c05	? (ญ)		In fact, it's the cause of almost\n70% of all dementia cases.	อันที่จริง มันเป็นสาเหตุของผู้ป่วยสมองเสื่อม\nเกือบ 70% เลยค่ะ
+P0501-0802	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	In fact, Alzheimer's is the cause of almost\n70% of all dementia cases.	อันที่จริง อัลไซเมอร์เป็นสาเหตุของผู้ป่วย สมองเสื่อม\nเกือบ 70% เลยค่ะ
+P0501-0803	พากย์ · speech_list_judge_main_c05	? (ญ)		Nobody, no.	ไม่มีเลยค่ะ
+P0501-0804	พากย์ · speech_list_judge_main_c05	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	That's right.	ถูกต้องแล้ว
+P0501-0805	พากย์ · speech_list_judge_main_c05	Emi (ญ)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x4]	Yes.	ใช่
+P0501-0806	พากย์ · speech_list_judge_main_c05	? (ญ)		I can't say for sure...\nBut it's likely.	ดิฉันไม่กล้ายืนยันแน่ชัด...\nแต่ก็เป็นไปได้ค่ะ
+P0501-0807	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	I can't say for sure...\nbut it's likely.	ดิฉันไม่กล้ายืนยันแน่ชัด...\nแต่ก็เป็นไปได้ค่ะ
+P0501-0808	พากย์ · speech_list_judge_main_c05	? (ญ)		Well, we only have so many\nemployees in this ward...	ก็...พนักงานในหอผู้ป่วยนี้\nมีอยู่ไม่มากเท่าไหร่ค่ะ...
+P0501-0809	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	I'm not sure how quickly.\nThis ward has a smaller staff...	ดิฉันไม่แน่ใจว่าเร็วแค่ไหน\nหอผู้ป่วยนี้มีเจ้าหน้าที่ค่อน ข้างน้อยค่ะ...
+P0501-0810	พากย์ · speech_list_judge_main_c05	? (ญ)		The halls stay fairly busy, but it's mostly\ndementia patients moving between appointments.	ทางเดินค่อนข้างพลุกพล่านอยู่ เหมือนกันค่ะ แต่ส่วนใหญ่\nก็เป็นผู้ป่วยสมองเสื่อมที่เดิน ไปมาระหว่างนัดตรวจ
+P0501-0811	พากย์ · speech_list_judge_main_c05	? (ญ)	[อีกแทร็ก]	People do walk the halls often,\nbut that's mostly just other dementia patients.	มีคนเดินผ่านทางเดินบ่อยอยู่ค่ะ\nแต่ส่วนใหญ่ก็เป็นผู้ป่วย สมองเสื่อมคนอื่นๆ
+P0501-0812	พากย์ · speech_list_judge_main_c05	Shintani (ช)		Some kinda dementia, right?	ก็เป็นโรคสมองเสื่อมประมาณนั้นใช่ไหม?
+P0501-0813	พากย์ · speech_list_judge_main_c05	Shintani (ช)	[อีกแทร็ก]	So he had dementia?	งั้นเขาเป็นโรคสมองเสื่อมสินะ?
+P0501-0814	พากย์ · speech_list_judge_main_c05	? (ช)		So they're one in the same kinda?	งั้นก็พูดได้ว่าเป็นเรื่อง เดียวกันสินะ?
+P0501-0815	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	So we're just mincing words, right?	งั้นก็แค่เล่นคำกันเฉยๆ สินะ?
+P0501-0816	พากย์ · speech_list_judge_main_c05	? (ช)		Anyway. Do what you gotta do, Yagami.	เอาเถอะ แกอยากทำอะไรก็ทำไปเถอะ ยากามิ
+P0501-0817	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	All right, Yagami...\nDo what you gotta do.	เอาล่ะ ยากามิ...\nอยากทำอะไรก็ทำไปเถอะ
+P0501-0818	พากย์ · speech_list_judge_main_c05	? (ช)		You got all you need from here, yeah?	ได้ข้อมูลที่ต้องการจากตรงนี้ ครบแล้วใช่ไหมครับ?
+P0501-0819	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	I think you've looked at everything. Satisfied?	คิดว่าดูครบทุกอย่างแล้วนะครับ พอใจหรือยัง?
+P0501-0820	พากย์ · speech_list_judge_main_c05	Yagami (ช)		And when was he admitted?	แล้วเขาเข้ารักษาตัวตั้งแต่เมื่อไหร่?
+P0501-0821	พากย์ · speech_list_judge_main_c05	? (ช)		Has anyone else slept here\nsince Waku-san's death?	มีใครมานอนที่นี่อีกไหม\nหลังจากวาคุซังเสียชีวิต?
+P0501-0822	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Since Waku-san's death, has anyone else\nslept in this room?	หลังจากวาคุซังเสียชีวิต\nมีใครมานอนในห้องนี้อีกไหม?
+P0501-0823	พากย์ · speech_list_judge_main_c05	? (ช)		And Waku-san was missing from his room\nthe morning of the incident, yes?	แล้ววาคุซังก็หายไปจากห้อง\nในเช้าวันเกิดเหตุใช่ไหม?
+P0501-0824	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	And on the morning of the incident,\nWaku-san was missing from his room, yes?	และในเช้าวันเกิดเหตุ\nวาคุซังก็หายไปจากห้องใช่ไหม?
+P0501-0825	พากย์ · speech_list_judge_main_c05	? (ช)		So he was murdered here,\nthen carried out.	งั้นเขาก็ถูกฆ่าที่นี่\nแล้วค่อยถูกขนออกไป
+P0501-0826	พากย์ · speech_list_judge_main_c05	? (ช)		(Working on that assumption,\nhow was his body carried outside?)	(ถ้าตั้งสมมติฐานแบบนั้น\nศพเขาถูกขนออกไปข้างนอกได้ยังไง?)
+P0501-0827	พากย์ · speech_list_judge_main_c05	? (ช)		(I should look a little closer.)	(น่าจะลองดูให้ละเอียดกว่านี้หน่อย)
+P0501-0828	พากย์ · speech_list_judge_main_c05	? (ช)		Waku-san was here until the morning of the incident,\nthen he just up and disappeared...	วาคุซังอยู่ที่นี่จนถึงเช้า วันเกิดเหตุ\nแล้วก็หายตัวไปดื้อๆ...
+P0501-0829	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Waku-san was here until\nthe morning of the incident...	วาคุซังอยู่ที่นี่จนถึง\nเช้าวันเกิดเหตุ...
+P0501-0830	พากย์ · speech_list_judge_main_c05	? (ช)		All the rooms have windows\nlike this, right?	ห้องทุกห้องมีหน้าต่าง\nแบบนี้หมดใช่ไหม?
+P0501-0831	พากย์ · speech_list_judge_main_c05	? (ช)		It seems like people would notice\nif something was going on in here.	ดูเหมือนถ้ามีอะไรเกิดขึ้นในนี้\nคนก็น่าจะสังเกตเห็นได้
+P0501-0832	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	If something was going on in here,\nsurely someone outside would notice.	ถ้ามีอะไรเกิดขึ้นในนี้\nคนข้างนอกก็น่าจะสังเกตเห็นแน่ๆ
+P0501-0833	พากย์ · speech_list_judge_main_c05	? (ช)		I see. I wonder how the room\nlooks from the hallway.	เข้าใจแล้ว สงสัยว่าห้องนี้\nจะมองเห็นจากทางเดินยังไง
+P0501-0834	พากย์ · speech_list_judge_main_c05	? (ช)		I wonder how well you can see\nin here from the hallway...	สงสัยว่าจะมองเห็นในนี้\nจากทางเดินได้ชัดแค่ไหน...
+P0501-0835	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Can you really tell what's going on from out there?	มองจากข้างนอกจะเห็นชัดขนาดที่ บอกได้จริงๆ เหรอ?
+P0501-0836	พากย์ · speech_list_judge_main_c05	? (ช)		The window's sealed shut. There's no way\nWaku-san could have escaped through here.	หน้าต่างถูกปิดตายครับ ไม่มีทาง\nที่วาคุซังจะหนีออกไปทางนี้ได้
+P0501-0837	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	This window doesn't even open.\nThere's no way anyone got out here.	หน้าต่างบานนี้เปิดไม่ได้ด้วยซ้ำครับ\nไม่มีทางที่ใครจะออกไปทางนี้ได้
+P0501-0838	พากย์ · speech_list_judge_main_c05	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	I think so.	ฉันก็คิดงั้นเหมือนกัน
+P0501-0839	พากย์ · speech_list_judge_main_c05	? (ช)		(Terasawa-san...\nA nurse at the ADDC hospital.)	(เทราซาวะซัง...\nพยาบาลของโรงพยาบาล ADDC)
+P0501-0840	พากย์ · speech_list_judge_main_c05	? (ช)		(Doesn't look too happy. Probably because Shintani-sensei\nhas been a creep since he laid eyes on her.)	(ท่าทางไม่ค่อยพอใจเท่าไหร่ คงเพราะอาจารย์ชินทานิ\nทำตัวแปลกๆ ตั้งแต่เห็นหน้าเธอแล้วล่ะมั้ง)
+P0501-0841	พากย์ · speech_list_judge_main_c05	? (ช)		(Or maybe she's just always tense.)	(หรือไม่ก็อาจจะเป็นคนเครียด อยู่แล้วก็ได้)
+P0501-0842	พากย์ · speech_list_judge_main_c05	? (ช)		(Is this a standard nurse uniform these days?\nWait... Why am I investigating this?)	(สมัยนี้ชุดพยาบาลมาตรฐานเป็น แบบนี้เหรอ?\nเดี๋ยวนะ... ทำไมผมมัวมานั่งสืบเรื่องนี้อยู่)
+P0501-0843	พากย์ · speech_list_judge_main_c05	? (ช)		(I... really shouldn't stare like this.)	(ผม... ไม่ควรจ้องมองแบบนี้จริงๆ)
+P0501-0844	พากย์ · speech_list_judge_main_c05	? (ช)		(She's gonna think I'm no better\nthan Shintani-sensei.)	(เดี๋ยวเธอจะคิดว่าผมก็ไม่ต่าง\nจากอาจารย์ชินทานิหรอกนะเนี่ย)
+P0501-0845	พากย์ · speech_list_judge_main_c05	? (ช)		(Masamichi Shintani, self-proclaimed king\nof the Genda Law Office.)	(มาซามิจิ ชินทานิ ราชาที่ตั้งตนเอง\nแห่งสำนักงานกฎหมายเก็นดะ)
+P0501-0846	พากย์ · speech_list_judge_main_c05	? (ช)		(40 years old, single and looking.\nHobbies include leering and being condescending.)	(อายุ 40 ปี โสดและกำลังหาคู่\nงานอดิเรกคือมองลับๆ ล่อๆ กับวางท่าดูถูกคนอื่น)
+P0501-0847	พากย์ · speech_list_judge_main_c05	? (ช)		(An attorney's badge. Lots of people don't even bother\nto wear theirs.)	(เข็มกลัดทนายความ หลายคนไม่ค่อยจะติด\nกันด้วยซ้ำ)
+P0501-0848	พากย์ · speech_list_judge_main_c05	? (ช)		(Shintani-sensei always keeps his\nfront and center, though.)	(แต่อาจารย์ชินทานิติดไว้ตรงหน้าอก\nเด่นชัดตลอดเลยนะ)
+P0501-0849	พากย์ · speech_list_judge_main_c05	Shintani (ช)	[อีกแทร็ก]	Sure thing.\nYou wanna join me, Terasawa-chan?	ได้เลย\nเทราซาวะจังจะมาร่วมด้วยกันไหมล่ะ?
+P0501-0850	พากย์ · speech_list_judge_main_c05	? (ช)		Uh, I guess so. Care to join me,\nTerasawa-san? What have you got to lose?	เอ่อ ก็ได้มั้ง จะมาร่วมด้วยกันไหมล่ะ\nเทราซาวะซัง? เสียหายตรงไหนกัน?
+P0501-0851	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Sure, want me to just take a nap?\nHey, care to join me, Terasawa-chan?	ได้สิ อยากให้ฉันงีบไปเลยไหมล่ะ?\nเฮ้ เทราซาวะจัง จะมาร่วมด้วยกันไหม?
+P0501-0852	พากย์ · speech_list_judge_main_c05	? (ช)		It was a joke!	ล้อเล่นน่า!
+P0501-0853	พากย์ · speech_list_judge_main_c05	Yagami (ช)		Hm, you can definitely see what's\ngoing on from out here.	อืม มองจากข้างนอกนี่ก็เห็นชัดเลย\nว่าข้างในมีอะไรเกิดขึ้น
+P0501-0854	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	Seems about right.\nYou can definitely see in from the hallway.	ก็ดูสมเหตุสมผลดี\nมองจากทางเดินก็เห็นในนี้ชัดเจน
+P0501-0855	พากย์ · speech_list_judge_main_c05	? (ช)		Shintani-sensei, can you\nlay on the bed for me?	อาจารย์ชินทานิ ช่วยไป\nนอนบนเตียงให้หน่อยได้ไหมครับ?
+P0501-0856	พากย์ · speech_list_judge_main_c05	? (ช)		So from this vantage point,\nyou can't make out the person's face...	งั้นจากมุมนี้\nก็มองไม่เห็นหน้าคนได้ชัดสินะ...
+P0501-0857	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	So you can't see the person's face...\nNot from the hallway, at least.	งั้นก็มองไม่เห็นหน้าคน...\nอย่างน้อยก็จากทางเดิน
+P0501-0858	พากย์ · speech_list_judge_main_c05	? (ช)		(I've gotta go check out\nWaku-san's room.)	(ต้องไปตรวจดู\nห้องของวาคุซังหน่อยแล้ว)
+P0501-0859	พากย์ · speech_list_judge_main_c05	Shintani (ช)		So, was this the collossal waste\nof time I knew it'd be?	ไงล่ะ นี่มันคือการเสียเวลา\nครั้งใหญ่ที่ฉันรู้อยู่แล้วใช่ไหม?
+P0501-0860	พากย์ · speech_list_judge_main_c05	Shintani (ช)	[อีกแทร็ก]	Well? This whole thing was\na waste of time, right?	ไงล่ะ? เรื่องทั้งหมดนี้\nเสียเวลาเปล่าใช่ไหม?
+P0501-0861	พากย์ · speech_list_judge_main_c05	? (ช)		Does it matter? It's been days.\nThe case is practically closed.	มันสำคัญตรงไหน? ผ่านมาตั้งหลายวันแล้ว\nคดีนี้ก็แทบจะปิดไปแล้ว
+P0501-0862	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	This murder happened weeks ago.\nThe cops are closing the book.	คดีฆาตกรรมนี้ผ่านมาหลายสัปดาห์แล้ว\nตำรวจกำลังจะปิดคดีอยู่แล้ว
+P0501-0863	พากย์ · speech_list_judge_main_c05	? (ช)		Shinpei Okubo is guilty as hell.	ชินเป โอคุโบะน่ะผิดเต็มประตู
+P0501-0864	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Shinpei Okubo is a guilty man.	ชินเป โอคุโบะคือคนผิดคนนั้นแหละ
+P0501-0865	พากย์ · speech_list_judge_main_c05	? (ช)		Well of course that's what he says.\nConsider the facts though, man.	ก็แน่ล่ะ เขาต้องพูดแบบนั้นอยู่แล้ว\nลองดูข้อเท็จจริงสิเพื่อน
+P0501-0866	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	That seems like a pretty long shot,\nconsidering the facts.	ฟังดูเป็นไปได้ยากนะ\nถ้าดูจากข้อเท็จจริงแล้ว
+P0501-0867	พากย์ · speech_list_judge_main_c05	? (ช)		You wanna review the case?	อยากทบทวนคดีนี้ดูไหมล่ะ?
+P0501-0868	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	So, you wanna review the case?	ว่าไง อยากทบทวนคดีดูไหม?
+P0501-0869	พากย์ · speech_list_judge_main_c05	? (ช)		Whatever you want.	แล้วแต่เลย
+P0501-0870	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Okay, let's run the facts.	โอเค มาไล่ดูข้อเท็จจริงกัน
+P0501-0871	พากย์ · speech_list_judge_main_c05	? (ช)		You can't see person's face\nfrom the hallway...	มองไม่เห็นหน้าคน\nจากทางเดิน...
+P0501-0872	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You can't see the patient's face\nfrom the hallway...	มองไม่เห็นหน้าผู้ป่วย\nจากทางเดิน...
+P0501-0873	พากย์ · speech_list_judge_main_c05	Yagami (ช)		Nope. I got something I'd only\nget from being here.	เปล่าเลย ผมได้อะไรบางอย่าง\nที่หาไม่ได้ถ้าไม่มาที่นี่
+P0501-0874	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	Nope. I found some clues I could only get\nfrom the scene of the crime.	เปล่าเลย ผมเจอเบาะแสบางอย่าง\nที่หาได้จากที่เกิดเหตุเท่านั้น
+P0501-0875	พากย์ · speech_list_judge_main_c05	? (ช)		According to him, he's not.	แต่ตามที่เขาบอก เขาไม่ได้ทำ
+P0501-0876	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Last I heard, he's pleading innocent.	เท่าที่ผมได้ยินมาล่าสุด เขายังยืนกรานว่าบริสุทธิ์
+P0501-0877	พากย์ · speech_list_judge_main_c05	? (ช)		Sure, let's go over\nwhat we know so far.	ได้เลย มาทบทวน\nสิ่งที่เรารู้กันตอนนี้ดีกว่า
+P0501-0878	พากย์ · speech_list_judge_main_c05	Emi (ญ)		Are you two done here?	คุณสองคนเสร็จธุระที่นี่แล้วหรือยังคะ?
+P0501-0879	พากย์ · speech_list_judge_main_c05	Shintani (ช)		All right, here we go.	เอาล่ะ ไปกันเลย
+P0501-0880	พากย์ · speech_list_judge_main_c05	Shintani (ช)	[อีกแทร็ก] [ใช้ร่วม]	Here we go.	มาเริ่มกันเลย
+P0501-0881	พากย์ · speech_list_judge_main_c05	? (ช)		Our victim was the patient staying in this room:\nKoichi Waku. Male. Age 66.	เหยื่อของเราคือผู้ป่วยที่พัก อยู่ในห้องนี้\nโคอิจิ วาคุ เพศชาย อายุ 66 ปี
+P0501-0882	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Our victim was the patient staying in this room:\nKoichi Waku. Age 66.	เหยื่อของเราคือผู้ป่วยที่พัก อยู่ในห้องนี้\nโคอิจิ วาคุ อายุ 66 ปี
+P0501-0883	พากย์ · speech_list_judge_main_c05	? (ช)		At 8:30 AM on the morning of the crime,\nthe nurses noticed he was missing from his bed.	เวลา 8:30 น. ของเช้าวันเกิดเหตุ\nพยาบาลสังเกตเห็นว่าเขาหายไปจากเตียง
+P0501-0884	พากย์ · speech_list_judge_main_c05	? (ช)		Given Waku's degenerative state, they assumed\nhe was wandering around the hospital somewhere.	เมื่อดูจากอาการเสื่อมของวาคุ พวกเขาก็สันนิษฐาน\nว่าเขาคงเดินเตร่อยู่แถวไหนใน โรงพยาบาล
+P0501-0885	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Given Waku's degenerative state,\nthey assumed he was wandering around somewhere.	เมื่อดูจากอาการเสื่อมของวาคุ\nพวกเขาก็สันนิษฐานว่าเขาคงเดิน เตร่อยู่แถวไหนสักที่
+P0501-0886	พากย์ · speech_list_judge_main_c05	? (ช)		But after being unable to track him down,\nhospital staff filed a missing person's report.	แต่พอตามหาเขาไม่เจอ\nเจ้าหน้าที่โรงพยาบาลก็แจ้งความคนหาย
+P0501-0887	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But when they couldn't find him,\nhospital staff filed a missing persons report.	แต่พอหาเขาไม่เจอ\nเจ้าหน้าที่โรงพยาบาลก็แจ้งความคนหาย
+P0501-0888	พากย์ · speech_list_judge_main_c05	? (ช)		You know what a dementia patient's like, though.\nHard to imagine they'd make it outside on their own.	แต่แกก็รู้ดีว่าผู้ป่วย สมองเสื่อมเป็นยังไง\nนึกภาพไม่ออกเลยว่าเขาจะออกไป ข้างนอกเองได้
+P0501-0889	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	You know what a dementia patient's like, though.\nHard to imagine they'd make it outside.	แต่แกก็รู้ดีว่าผู้ป่วย สมองเสื่อมเป็นยังไง\nนึกภาพไม่ออกเลยว่าเขาจะออกไป ข้างนอกได้
+P0501-0890	พากย์ · speech_list_judge_main_c05	? (ช)		The only conclusion, then, was that somebody\nmust've taken him out of the hospital.	ข้อสรุปเดียวที่เหลืออยู่ก็คือ\nต้องมีใครสักคนพาเขาออกจากโรงพยาบาลไป
+P0501-0891	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	With that in mind, the police concluded that\nsomebody must've taken him out of the hospital.	ด้วยเหตุนี้ ตำรวจจึงสรุปว่า\nต้องมีใครสักคนพาเขาออกจากโรงพยาบาลไป
+P0501-0892	พากย์ · speech_list_judge_main_c05	? (ช)		After inspecting all the cars that came in and out\nof the Center, they were left with one possible suspect.	หลังตรวจสอบรถทุกคันที่เข้าออก\nศูนย์นี้ ก็เหลือผู้ต้องสงสัยที่ เป็นไปได้แค่คนเดียว
+P0501-0893	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	After inspecting all cars that came in and out of the Center,\nthey were left with one possible suspect.	หลังตรวจสอบรถทุกคันที่เข้าออก ศูนย์นี้\nก็เหลือผู้ต้องสงสัยที่ เป็นไปได้แค่คนเดียว
+P0501-0894	พากย์ · speech_list_judge_main_c05	? (ช)		A laundry man by the name of Shinpei Okubo.	พนักงานซักผ้าชื่อว่าชินเป โอคุโบะ
+P0501-0895	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	A laundry man, by the name\nof Shinpei Okubo.	พนักงานซักผ้า ชื่อว่า\nชินเป โอคุโบะ
+P0501-0896	พากย์ · speech_list_judge_main_c05	? (ช)		It didn't take much prodding for Okubo to confess\nburying Waku's body out in the mountains.	ไม่ต้องซักถามอะไรมาก โอคุโบะก็สารภาพ\nว่าฝังศพวาคุไว้ในภูเขา
+P0501-0897	พากย์ · speech_list_judge_main_c05	? (ช)		And lo and behold, three months after Waku disappeared,\nthe cops found his body rotting away right where Okubo said it'd be.	แล้วก็อย่างที่คาด สามเดือนหลังวาคุหายตัวไป\nตำรวจก็เจอศพเขาเน่าเปื่อยอยู่ ตรงจุดที่โอคุโบะบอกไว้เป๊ะ
+P0501-0898	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	And three months after Waku disappeared, the cops\nfound the body right where Okubo said it'd be.	และสามเดือนหลังวาคุหายตัวไป ตำรวจ\nก็เจอศพอยู่ตรงจุดที่โอคุโบะบอก ไว้พอดี
+P0501-0899	พากย์ · speech_list_judge_main_c05	? (ช)		Cause of death was most likely suffocation,\nbut they still don't know for sure.	สาเหตุการตายน่าจะเป็นการขาด อากาศหายใจ\nแต่ก็ยังไม่รู้แน่ชัด
+P0501-0900	พากย์ · speech_list_judge_main_c05	? (ช)		Any objections to this so far...\nYagami-sensei?	มีข้อโต้แย้งอะไรไหมจนถึงตรงนี้...\nอาจารย์ยากามิ?
+P0501-0901	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Any objections so far... Yagami-sensei?	มีข้อโต้แย้งอะไรไหม... อาจารย์ยากามิ?
+P0501-0902	พากย์ · speech_list_judge_main_c05	? (ช)	[ซ้ำในบท x2]	And what's that?	แล้วมันคืออะไรล่ะ?
+P0501-0903	พากย์ · speech_list_judge_main_c05	? (ช)		Oh, sure.	อืม ใช่สิ
+P0501-0904	พากย์ · speech_list_judge_main_c05	? (ช)		But come on, Yagami. The guy's got a history\nof assault, and it's on record.	ไม่เอาน่า ยากามิ ไอ้หมอนี่มีประวัติ\nทำร้ายร่างกาย มีบันทึกไว้ด้วยนะ
+P0501-0905	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Think about the context, though.\nThe guy's got a history of assault, right?	แต่ลองคิดถึงบริบทดูสิ\nไอ้หมอนี่มีประวัติ ทำร้ายร่างกายใช่ไหมล่ะ?
+P0501-0906	พากย์ · speech_list_judge_main_c05	? (ช)		Roughed up his girlfriend.\nAccidentally broke her finger.	ซ้อมแฟนสาวตัวเอง\nจนนิ้วหัก ทั้งที่ไม่ได้ตั้งใจ
+P0501-0907	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	He broke his girlfriend's finger.	เขาทำนิ้วแฟนสาวหัก
+P0501-0908	พากย์ · speech_list_judge_main_c05	? (ช)		And what, it's okay for a kid\nto hit a woman?	แล้วไง จะบอกว่าเป็นเด็ก\nก็ตบผู้หญิงได้งั้นเหรอ?
+P0501-0909	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	So it's okay to hit a girl if you're a <font_kind=yakuza_italic>kid</font_kind>?	งั้นถ้าเป็น<font_kind=yakuza_italic>เด็ก</font_kind>ก็ตบผู้หญิงได้เลยสิ?
+P0501-0910	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[ใช้ร่วม]	True.	จริงด้วย
+P0501-0911	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Right?	ใช่มั้ยล่ะ?
+P0501-0912	พากย์ · speech_list_judge_main_c05	? (ช)		Fine, but what about Okubo's shaky alibi?	ก็ได้ แล้วพยานที่อยู่ที่โหว่ๆ ของโอคุโบะล่ะ?
+P0501-0913	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	What about Okubo's testimony?	แล้วคำให้การของโอคุโบะล่ะ?
+P0501-0914	พากย์ · speech_list_judge_main_c05	? (ช)		He said he left the Center at 10 AM,\nafter grabbing the sheets from the general ward.	เขาบอกว่าออกจากศูนย์ตอน 10 โมงเช้า\nหลังจากไปเก็บผ้าปูที่นอนจากหอ ผู้ป่วยทั่วไป
+P0501-0915	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Then it wasn't until he got to the linen supplier\nthat he discovered the body.	แล้วก็ไปเจอศพเอาตอนไปถึง\nร้านซักผ้าปูที่นอนนั่นแหละ
+P0501-0916	พากย์ · speech_list_judge_main_c05	? (ช)		Claimed Waku-san's corpse "somehow"\ngot loaded into his truck.	อ้างว่าศพวาคุซัง "ไม่รู้ยังไง"\nไปอยู่บนรถบรรทุกของเขาซะได้
+P0501-0917	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Claimed Waku-san's corpse "somehow"\ngot mixed in the sheets on his truck.	อ้างว่าศพวาคุซัง "ไม่รู้ยังไง"\nไปปนอยู่ในกองผ้าปูบนรถบรรทุกของเขา
+P0501-0918	พากย์ · speech_list_judge_main_c05	? (ช)		Who's gonna believe garbage like that?	ใครจะไปเชื่อเรื่องไร้สาระแบบนั้น?
+P0501-0919	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Who'd believe a garbage alibi like that?	ใครจะเชื่อพยานที่อยู่ไร้สาระแบบนั้น?
+P0501-0920	พากย์ · speech_list_judge_main_c05	? (ช)		Hmph. We're meeting with\nOkubo after this, right?	ฮึ่ม แล้วเราจะไปเจอ\nโอคุโบะกันต่อจากนี้ใช่ไหม?
+P0501-0921	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Well, we're going to meet with Okubo ourselves\nafter this, right?	เอาล่ะ เราจะไปเจอโอคุโบะกันเอง\nต่อจากนี้ใช่ไหม?
+P0501-0922	พากย์ · speech_list_judge_main_c05	? (ช)		You should just be honest with him.\nTell him the case is unwinnable.	แกน่าจะพูดตรงๆ กับเขาไปเลย\nบอกว่าคดีนี้ชนะไม่ได้
+P0501-0923	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Just be honest with him.\nTell him the case is unwinnable.	พูดตรงๆ กับเขาไปเลย\nบอกว่าคดีนี้ชนะไม่ได้
+P0501-0924	พากย์ · speech_list_judge_main_c05	? (ช)		Yup. Can you show us the garage next?\nThe one where Okubo-kun parked his truck.	ใช่ พาไปดูโรงจอดรถต่อได้ไหม?\nตรงที่โอคุโบะคุงจอดรถบรรทุกไว้น่ะ
+P0501-0925	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Yup. How about you show us the parking garage\nwhere Okubo-kun parked his truck, Terasawa-chan?	ใช่ พาไปดูโรงจอดรถหน่อยได้ไหม\nเทราซาวะจัง ตรงที่โอคุโบะคุงจอดรถบรรทุกไว้น่ะ?
+P0501-0926	พากย์ · speech_list_judge_main_c05	? (ช)		The service entrance, I think it was.	น่าจะเป็นทางเข้าฝ่ายบริการครับ
+P0501-0927	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	The service entrance, right?	ทางเข้าฝ่ายบริการใช่ไหมครับ?
+P0501-0928	พากย์ · speech_list_judge_main_c05	? (ช)		That's the only other place\nwe'll need to see today.	นั่นเป็นที่เดียวที่เหลือ\nที่ต้องดูวันนี้ครับ
+P0501-0929	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	That's our last stop,\nthen I think we're done.	นั่นเป็นจุดสุดท้ายแล้ว\nจากนั้นก็คิดว่าเสร็จเรียบร้อยครับ
+P0501-0930	พากย์ · speech_list_judge_main_c05	? (ช)		Actually, yeah.\nYou're forgetting something.	อันที่จริงก็มีนะ\nนายลืมอะไรบางอย่างไป
+P0501-0931	พากย์ · speech_list_judge_main_c05	? (ช)		Okubo-kun insists he didn't kill anyone.	โอคุโบะคุงยืนกรานว่าเขาไม่ได้ฆ่าใคร
+P0501-0932	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Okubo-kun still insists he didn't\nkill anyone.	โอคุโบะคุงยังคงยืนกราน\nว่าเขาไม่ได้ฆ่าใคร
+P0501-0933	พากย์ · speech_list_judge_main_c05	? (ช)		All he admits to is dumping the body.	สิ่งเดียวที่เขายอมรับคือการทิ้งศพ
+P0501-0934	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	He confessed, but only to\ndumping the body itself.	เขาสารภาพก็จริง แต่สารภาพแค่\nเรื่องทิ้งศพเท่านั้น
+P0501-0935	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(You can't say for sure that the guy who\ndumped the body actually committed the murder.)</color>	<color=ｍonologue>(บอกไม่ได้แน่ชัดว่าคนที่\nทิ้งศพคือคนที่ลงมือฆ่าจริงๆ)</color>
+P0501-0936	พากย์ · speech_list_judge_main_c05	? (ช)		<color=ｍonologue>(If I budge on that, I'd be admitting\nOkubo-kun did it before the trial even started.)</color>	<color=ｍonologue>(ถ้าผมยอมอ่อนข้อตรงนี้ ก็เท่ากับยอมรับ\nว่าโอคุโบะคุงเป็นคนทำ ทั้งที่การพิจารณาคดียังไม่ เริ่มด้วยซ้ำ)</color>
+P0501-0937	พากย์ · speech_list_judge_main_c05	? (ช)		Right, but that was over six years ago.	ใช่ แต่นั่นมันก็หกกว่าปีมาแล้วนะ
+P0501-0938	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Sure, six years ago.	ก็ใช่ หกปีก่อนน่ะสิ
+P0501-0939	พากย์ · speech_list_judge_main_c05	? (ช)		He was just a kid.\nGot drunk, made a huge mistake.	ตอนนั้นเขาก็แค่เด็กคนหนึ่ง\nเมาแล้วทำพลาดไปครั้งใหญ่เท่านั้นเอง
+P0501-0940	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	He was just a kid.\nCould've gotten drunk, made a mistake.	ตอนนั้นเขาก็แค่เด็กคนหนึ่ง\nอาจจะเมาแล้วทำพลาดไปก็ได้
+P0501-0941	พากย์ · speech_list_judge_main_c05	? (ช)		Of course not.\nBut that's not what he's on trial for.	ไม่ใช่แบบนั้นแน่นอน\nแต่นั่นไม่ใช่ข้อหาที่เขาถูก พิจารณาคดีอยู่
+P0501-0942	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	No. The law might not have\njudged him for it, but I do.	ไม่ใช่ กฎหมายอาจจะยัง\nไม่ตัดสินเขาเรื่องนั้น แต่ผมตัดสินนะ
+P0501-0943	พากย์ · speech_list_judge_main_c05	? (ช)		I don't condone what he did, but legally, committing\none crime doesn't mean you're guilty of another.	ผมไม่ได้เห็นด้วยกับสิ่งที่เขาทำ แต่ในทางกฎหมาย\nการก่อคดีหนึ่งไม่ได้แปลว่าเขา ผิดในอีกคดีหนึ่งด้วย
+P0501-0944	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	But still. That doesn't necessarily mean\nhe's guilty this time, too.	แต่ถึงยังไง นั่นก็ไม่ได้แปลว่า\nเขาจะผิดในครั้งนี้ไปด้วย
+P0501-0945	พากย์ · speech_list_judge_main_c05	? (ช)		If anyone should, it's his lawyers.	ถ้าจะมีใครเชื่อ ก็ต้องเป็นทนายของเขาสิ
+P0501-0946	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	If anyone's gonna believe him,\nit should be his lawyers.	ถ้าจะมีใครเชื่อเขา\nก็ต้องเป็นทนายของเขานี่แหละ
+P0501-0947	พากย์ · speech_list_judge_main_c05	Emi (ญ)		We'll need to take an elevator\ndown there. Follow me.	เราต้องนั่งลิฟต์\nลงไปที่นั่นค่ะ ตามดิฉันมาเลย
+P0501-0948	พากย์ · speech_list_judge_main_c05	Emi (ญ)	[อีกแทร็ก]	We'll need to take an elevator down to the\nservice entrance garage. Follow me.	เราต้องนั่งลิฟต์ลงไปที่โรงจอดรถ\nทางเข้าฝ่ายบริการค่ะ ตามดิฉันมาเลย
+P0501-0949	พากย์ · speech_list_judge_main_c05	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	It is.	ใช่แล้ว
+P0501-0950	พากย์ · speech_list_judge_main_c05	Emi (ญ)	[อีกแทร็ก]	I suppose.	ก็คงอย่างนั้น
+P0501-0951	พากย์ · speech_list_judge_main_c05	Shintani (ช)		Looks like a regular old garage to me.	ดูเหมือนโรงจอดรถธรรมดาๆ สำหรับฉันนะ
+P0501-0952	พากย์ · speech_list_judge_main_c05	Shintani (ช)	[อีกแทร็ก]	Seems like a regular old garage to me.	สำหรับฉันมันก็ดูเป็นโรงจอดรถธรรมดาๆ นะ
+P0501-0953	พากย์ · speech_list_judge_main_c05	? (ช)		Hey, Yagami.\nCheck this out.	เฮ้ ยากามิ\nมาดูนี่สิ
+P0501-0954	พากย์ · speech_list_judge_main_c05	? (ช)		These are the carts they use\nto collect sheets and linens.	นี่คือรถเข็นที่พวกเขาใช้\nเก็บผ้าปูที่นอนกับผ้าลินิน
+P0501-0955	พากย์ · speech_list_judge_main_c05	? (ช)		Day of the crime, Okubo was all over\nthe hospital with one of these things.	วันเกิดเหตุ โอคุโบะเข็นไอ้นี่\nวนไปทั่วโรงพยาบาลเลย
+P0501-0956	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Okubo took one of these\nall over the hospital.	โอคุโบะเข็นไอ้นี่\nวนไปทั่วโรงพยาบาล
+P0501-0957	พากย์ · speech_list_judge_main_c05	? (ช)		It would've been simple for him to sneak\na body in there and cart it right out.	เขาคงแอบยัดศพใส่ในนี้\nแล้วเข็นออกไปได้ง่ายๆ เลย
+P0501-0958	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	With one of these on hand, he could easily\nsneak a body in there and cart it right out.	มีไอ้นี่ติดมืออยู่ เขาก็คง\nแอบยัดศพใส่แล้วเข็นออกไปได้ง่ายๆ
+P0501-0959	พากย์ · speech_list_judge_main_c05	? (ช)		Oh, um...	อ้อ เอ่อ...
+P0501-0960	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	Right about here.	ประมาณตรงนี้ครับ
+P0501-0961	พากย์ · speech_list_judge_main_c05	? (ช)		The truck was parked here with the back\nfacing the elevator. Here's a recreation of it.	รถบรรทุกจอดอยู่ตรงนี้ โดยหันท้ายรถ\nเข้าหาลิฟต์ครับ นี่คือแบบจำลองของมัน
+P0501-0962	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	The truck was parked with the back facing the elevator.\nHere's a recreation of it.	รถบรรทุกจอดโดยหันท้ายรถเข้าหา ลิฟต์ครับ\nนี่คือแบบจำลองของมัน
+P0501-0963	พากย์ · speech_list_judge_main_c05	? (ช)		DNA evidence from the victim was found\nin the flatbed of the truck.	พบหลักฐานดีเอ็นเอของเหยื่อ\nอยู่บนกระบะท้ายรถบรรทุก
+P0501-0964	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	The truck was two tons. DNA evidence\nfrom the victim was found in the flatbed.	รถบรรทุกคันนั้นเป็นรุ่นสองตัน พบหลักฐานดีเอ็นเอ\nของเหยื่ออยู่บนกระบะท้ายรถ
+P0501-0965	พากย์ · speech_list_judge_main_c05	? (ช)		That's proof enough that the body was there.	แค่นี้ก็พิสูจน์ได้แล้วว่าศพเคย อยู่ตรงนั้น
+P0501-0966	พากย์ · speech_list_judge_main_c05	? (ช)		And when they confronted Okubo,\nhe flat out admitted it.	พอถูกซักถามเข้า โอคุโบะ\nก็ยอมรับแบบไม่อ้อมค้อมเลย
+P0501-0967	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	And when they confronted him,\nOkubo flat out admitted it.	พอถูกซักถามเข้า\nโอคุโบะก็ยอมรับแบบไม่อ้อมค้อมเลย
+P0501-0968	พากย์ · speech_list_judge_main_c05	Yagami (ช)		Hm. You'd make it out with no problem if you\nput a body into your truck down here. It's quiet.	อืม ถ้าเอาศพใส่รถบรรทุกตรงนี้\nก็คงออกไปได้แบบไม่มีปัญหาเลย เงียบดีด้วย
+P0501-0969	พากย์ · speech_list_judge_main_c05	Yagami (ช)	[อีกแทร็ก]	Look. You'd make it out no problem\nif you put a body in a truck down here.	ดูสิ ถ้าเอาศพใส่รถบรรทุก\nตรงนี้ก็คงออกไปได้แบบไม่มีปัญหาเลย
+P0501-0970	พากย์ · speech_list_judge_main_c05	? (ช)		Maybe so.	ก็อาจจะใช่นะ
+P0501-0971	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Guess so.	ก็คงงั้นแหละ
+P0501-0972	พากย์ · speech_list_judge_main_c05	? (ช)		So the body was hidden in a laundry basket,\nand taken out through here...	งั้นศพก็ถูกซ่อนไว้ในตะกร้าผ้า\nแล้วขนออกไปทางนี้สินะ...
+P0501-0973	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	So as far as we know, he took the body\nout through here in a laundry cart...	เท่าที่เรารู้ เขาขนศพ\nออกไปทางนี้ด้วยรถเข็นผ้า...
+P0501-0974	พากย์ · speech_list_judge_main_c05	? (ช)		Where was Okubo parked\non the day of the incident?	วันเกิดเหตุโอคุโบะ\nจอดรถอยู่ตรงไหน?
+P0501-0975	พากย์ · speech_list_judge_main_c05	? (ช)	[อีกแทร็ก]	On the day of the incident, where was\nOkubo specifically parked?	ในวันเกิดเหตุ โอคุโบะ\nจอดรถอยู่ตรงจุดไหนกันแน่?
+P0501-0976	พากย์ · speech_list_judge_main_c05	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	I see.	เข้าใจแล้ว
+P0501-0977	พากย์ · speech_list_judge_main_c05	? (ช)		There was evidence that the body\nwas in Okubo's truck...	มีหลักฐานว่าศพ\nเคยอยู่ในรถบรรทุกของโอคุโบะ...
+P0501-0978	พากย์ · speech_list_judge_main_c05	Emi (ญ)		Just before 8 AM on the day of the crime.	ก่อน 8 โมงเช้าเล็กน้อยของวันเกิดเหตุค่ะ

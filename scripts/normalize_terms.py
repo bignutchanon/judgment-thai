@@ -292,6 +292,9 @@ RULES = [
      "Yasuo Kunimura ล็อก glossary = คุนิมุระ (เดิมปน คุนิมูระ 7 บรรทัด)"),
     ("คาเนะจัง", "คานาเอะจัง",
      "Kanae-chan (ร้าน Konban Wife) = คานาเอะจัง (เดิมปน คาเนะจัง 5 บรรทัด)"),
+    # เกลาบท 4 (29 ก.ย. 2026): ชื่อจริงซุกิอุระ ล็อก glossary = ฟูมิยะ (master ปน ฟุมิยะ 4 บรรทัด)
+    ("ฟุมิยะ", "ฟูมิยะ",
+     "Fumiya ล็อก glossary = ฟูมิยะ / ฟูมิยะคุง"),
 ]
 
 TARGET_DIRS = [paths.DOCS, paths.TRANSLATIONS]

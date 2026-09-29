@@ -156,11 +156,11 @@
    "source": "register/speakers_05.part1.json"
   },
   "31": {
-   "speaker": "?",
+   "speaker": "Hamura",
    "gender": "male",
    "conf": "med",
-   "why": "alt of 133",
-   "source": "register/speakers_05.part1.json"
+   "why": "อีกแทร็กของ 0358",
+   "source": "polish/ch03/speakers_51.part1.json"
   },
   "32": {
    "speaker": "Higashi",
@@ -2039,11 +2039,11 @@
    "source": "register/speakers_05.part2.json"
   },
   "378": {
-   "speaker": "?",
+   "speaker": "Yakuza member",
    "gender": "male",
    "conf": "med",
-   "why": "ambush thug taunting before the fight",
-   "source": "register/speakers_05.part2.json"
+   "why": "ลูกน้องฮามุระเข้าโจมตีที่สวนเด็ก ประกาศ 'จมูกแดงฝากความคิดถึง'",
+   "source": "polish/ch03/speakers_51.part3.json"
   },
   "381": {
    "speaker": "tegakari_homeless",
@@ -2849,6 +2849,97 @@
    "conf": "med",
    "why": "alt of 900",
    "source": "register/speakers_05.part3.json"
+  },
+  "166": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0546 (Yagami) — ผู้พูดเดียวกัน",
+   "source": "polish/ch03/speakers_51.part2.json"
+  },
+  "177": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ (monologue) ชื่นชมมาสึดะ ก่อนถามงาน",
+   "source": "polish/ch03/speakers_51.part2.json"
+  },
+  "189": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ (monologue) หลังอายาเบะโทรมา",
+   "source": "polish/ch03/speakers_51.part2.json"
+  },
+  "205": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ (monologue) เรื่องเงิน 1 แสนที่ต้องจ่ายอายาเบะ",
+   "source": "polish/ch03/speakers_51.part3.json"
+  },
+  "208": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ (monologue) ต่อเนื่อง 0607",
+   "source": "polish/ch03/speakers_51.part3.json"
+  },
+  "209": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ (monologue) ต่อเนื่อง 0607",
+   "source": "polish/ch03/speakers_51.part3.json"
+  },
+  "206": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ พูดถึงซาโอริซัง/มาสึดะ",
+   "source": "polish/ch03/speakers_51.part3.json"
+  },
+  "207": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ ไปเล่นโต๊ะที่ L'Amant",
+   "source": "polish/ch03/speakers_51.part3.json"
+  },
+  "277": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0706",
+   "source": "polish/ch03/speakers_51.part3.json"
+  },
+  "282": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0712",
+   "source": "polish/ch03/speakers_51.part3.json"
+  },
+  "443": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ (monologue) สรุปแผนของฮามุระ ต่อจากฉากที่ฮิงาชิสารภาพกับยากามิ",
+   "source": "polish/ch03/speakers_51.part4.json"
+  },
+  "444": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในใจ (monologue) ต่อเนื่อง 0989",
+   "source": "polish/ch03/speakers_51.part4.json"
+  },
+  "522": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 1064 (Higashi เรียก Aniki)",
+   "source": "polish/ch03/speakers_51.part5.json"
   }
  }
 }

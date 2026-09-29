@@ -1,0 +1,908 @@
+id	ฉาก	ผู้พูด	หมายเหตุ	EN	TH
+P0401-0001	ทวนเรื่องเปิดบท · p04_00100	Narration (?)		As Yagami chases the Mole,\nthe Matsugane Family's net tightens.	ขณะที่ยากามิไล่ล่าไอ้ตัวตุ่น\nร่างแหของตระกูลมัตสึกาเนะก็รัด แน่นขึ้นเรื่อยๆ
+P0401-0002	ทวนเรื่องเปิดบท · p04_00100	Narration (?)		A year ago, Kaito was expelled from the family,\nand its power structure changed entirely.	หนึ่งปีก่อน ไคโตะถูกไล่ออกจากตระกูล\nโครงสร้างอำนาจก็เปลี่ยนไปโดยสิ้นเชิง
+P0401-0003	ทวนเรื่องเปิดบท · p04_00100	Narration (?)		But the whole thing was a setup.	แต่ทั้งหมดนั้นคือการจัดฉาก
+P0401-0004	ทวนเรื่องเปิดบท · p04_00100	Narration (?)		In Kamurocho, men are pulled into\nthe criminal underworld's currents.	ในคามุโรโจ ผู้คนถูกกระแส\nโลกใต้ดินแห่งอาชญากรรมดึงดูดเข้าไป
+P0401-0005	ทวนเรื่องเปิดบท · p04_00100	Narration (?)		But those that refuse to submit\nto its tides will always struggle.	แต่คนที่ไม่ยอมจำนน\nต่อกระแสนั้นก็ต้องดิ้นรนอยู่เสมอ
+P0401-0006	คัตซีน · a04_010	Hamura (ช)		So, Higashi.	เอาล่ะ ฮิงาชิ
+P0401-0007	คัตซีน · a04_010	Hamura (ช)	[อีกแทร็ก]	Hey, Higashi...	เฮ้ ฮิงาชิ...
+P0401-0008	คัตซีน · a04_010	Hamura (ช)		Tell me— you have a good reason\nyou aren't doing what I asked?	บอกกูมา— มึงมีเหตุผลดีๆ\nที่ยังไม่ทำตามที่กูสั่งใช่ไหม?
+P0401-0009	คัตซีน · a04_010	Hamura (ช)	[อีกแทร็ก]	There a reason you\nhaven't done as I asked?	มีเหตุผลอะไรไหมที่มึง\nยังไม่ทำตามที่กูสั่ง?
+P0401-0010	คัตซีน · a04_010	Higashi (ช)		No. I don't, boss.	ไม่มีครับ ท่าน
+P0401-0011	คัตซีน · a04_010	Higashi (ช)	[อีกแทร็ก]	No, it's not that I...	ไม่ใช่แบบนั้นครับ ที่จริงผม...
+P0401-0012	คัตซีน · a04_010	Hamura (ช)		You sure could use one with\nTak still hanging around.	มึงน่าจะหาเหตุผลดีๆ ได้แล้วนะ\nในเมื่อทาคุยังโผล่หน้ามา ป้วนเปี้ยนอยู่
+P0401-0013	คัตซีน · a04_010	Hamura (ช)	[อีกแทร็ก]	Then why is Tak\nstill even in play!?	แล้วทำไมทาคุ\nถึงยังไม่ถูกจัดการซะที!?
+P0401-0014	คัตซีน · a04_010	Hamura (ช)		It's time to start doing\nyour damn job!	ได้เวลาที่มึงจะเริ่ม\nทำงานบ้าๆ ของมึงซะที!
+P0401-0015	คัตซีน · a04_010	Hamura (ช)	[อีกแทร็ก]	You're too sloppy\nfor him to take seriously!	มึงมันหละหลวมเกินไป\nจนเขาไม่เอามึงไปคิดจริงจังด้วยซ้ำ!
+P0401-0016	คัตซีน · a04_010	Kaito (ช)		Got a light?	มีไฟแช็กไหม?
+P0401-0017	คัตซีน · a04_010	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	Yo.	โย่
+P0401-0018	คัตซีน · a04_010	Ayabe (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x4]	Yeah.	ใช่
+P0401-0019	คัตซีน · a04_010	Ayabe (ช)	[อีกแทร็ก]	Sir.	ครับท่าน
+P0401-0020	คัตซีน · a04_010	Kaito (ช)		Cap's awfully tense lately.	ช่วงนี้กัปตันเครียดจังเลยว่ะ
+P0401-0021	คัตซีน · a04_010	Kaito (ช)	[อีกแทร็ก]	Is it me, or does the captain...	หรือมันเป็นแค่ฉันคนเดียววะ ที่รู้สึกว่ากัปตัน...
+P0401-0022	คัตซีน · a04_010	Ayabe (ช)		Kinda kills the whole room, y'know?	เหมือนทำบรรยากาศทั้งห้องหม่นไปเลยว่ะ รู้ไหม?
+P0401-0023	คัตซีน · a04_010	Ayabe (ช)	[อีกแทร็ก]	...Kinda suffocate the office, y'know?	...เหมือนทำให้ทั้งออฟฟิศอึดอัดไป หมดเลยว่ะ รู้ไหม?
+P0401-0024	คัตซีน · a04_010	Kaito (ช)		He's always in such a bad mood.	เขาอารมณ์เสียตลอดเวลาเลยว่ะ
+P0401-0025	คัตซีน · a04_010	Kaito (ช)	[อีกแทร็ก]	Why's he always so damn sour?	ทำไมเขาถึงหน้าบูดตลอดเวลาแบบนั้นวะ?
+P0401-0026	คัตซีน · a04_010	Kyorei thug (ช)	[ใช้ร่วม]	Die!	ไปตายซะ!
+P0401-0027	คัตซีน · a04_010	Kyorei thug (ช)	[อีกแทร็ก]	Dieeeeee!	ตายซะเถอะแกกก!!
+P0401-0028	คัตซีน · a04_010	Kyorei thug (ช)		Ahhh...!	อาาา...!
+P0401-0029	คัตซีน · a04_015	Yagami (ช)		See? Hamura's knows he's a target. And I believe he's\nnot the only one who should be worried about himself.	เห็นไหม? ฮามุระรู้ตัวว่าเป็นเป้าอยู่ แล้วฉันก็เชื่อว่าเขา\nไม่ใช่คนเดียวที่ควรเป็นห่วง ตัวเองหรอกนะ
+P0401-0030	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	And, from what I hear, the lawyer who\ngot Hamura off the hook is a target too.	แล้วเท่าที่ฉันได้ยินมา ทนายคนที่\nช่วยฮามุระพ้นผิดก็ตกเป็นเป้า เหมือนกัน
+P0401-0031	คัตซีน · a04_015	Yagami (ช)		Do you get the picture?	เข้าใจที่ฉันพูดไหม?
+P0401-0032	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	That'd be you.	ก็คือนายนั่นแหละ
+P0401-0033	คัตซีน · a04_015	Shintani (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x8]	Huh?	หา?
+P0401-0034	คัตซีน · a04_015	Yagami (ช)		Keep your eyes open.	ระวังตัวไว้ให้ดี
+P0401-0035	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	You need to tread carefully.	นายต้องเดินเกมให้ระวังหน่อยนะ
+P0401-0036	คัตซีน · a04_015	Yagami (ช)		I'm telling you this as a friend.	ที่ฉันบอกนี่เพราะเป็นห่วงใน ฐานะเพื่อนนะ
+P0401-0037	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	That's all I came here to say.	ฉันมาบอกแค่นี้แหละ
+P0401-0038	คัตซีน · a04_015	Yagami (ช)		Otherwise...	ไม่งั้นแล้ว...
+P0401-0039	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	See ya.	แล้วเจอกัน
+P0401-0040	คัตซีน · a04_015	Shintani (ช)		You do you.\nI'm gonna do the right thing.	คุณจะเลือกทางของคุณก็เรื่องของคุณ\nแต่ผมจะทำในสิ่งที่ถูกต้อง
+P0401-0041	คัตซีน · a04_015	Shintani (ช)	[อีกแทร็ก]	I'm gonna go where my\nconscience takes me. 	ผมแค่จะเดินตามทาง\nที่มโนธรรมของผมนำพาไป
+P0401-0042	คัตซีน · a04_015	Yagami (ช)		Don't talk down to me!	อย่ามาพูดจาดูถูกฉันแบบนั้นนะ!
+P0401-0043	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	What self-righteous bullshit!	ดัดจริตเป็นคนดีซะไม่มีเลยว่ะ!
+P0401-0044	คัตซีน · a04_015	Shintani (ช)		Heh. You might as well\nlet this Mole shit go.	เหอะ อย่าไปยุ่งกับเรื่อง\nไอ้ตัวตุ่นนั่นจะดีกว่านะ
+P0401-0045	คัตซีน · a04_015	Shintani (ช)	[อีกแทร็ก] [ใช้ร่วม]	You're never gonna find the Mole.	ยังไงแกก็หาไอ้ตัวตุ่นไม่เจอหรอก
+P0401-0046	คัตซีน · a04_015	Shintani (ช)		Think this is some kind of\nyakuza pissing contest, do you?	คุณคิดว่านี่เป็นแค่เรื่อง\nยากูซ่าแย่งศักดิ์ศรีกันงั้นเหรอ?
+P0401-0047	คัตซีน · a04_015	Shintani (ช)	[อีกแทร็ก]	You think this is just some yakuza dispute?	คุณคิดว่านี่เป็นแค่เรื่อง ขัดแย้งในหมู่ยากูซ่าเองเหรอ?
+P0401-0048	คัตซีน · a04_015	Shintani (ช)		Come on! The Mole is way\nbigger than you know!	ไม่เอาน่า! เรื่องไอ้ตัวตุ่นมันใหญ่โต\nกว่าที่คุณรู้เยอะ!
+P0401-0049	คัตซีน · a04_015	Shintani (ช)	[อีกแทร็ก]	The Mole is bigger than any of that shit!	ไอ้ตัวตุ่นมันเรื่องใหญ่กว่าเรื่อง พวกนั้นทั้งหมด!
+P0401-0050	คัตซีน · a04_015	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	What do you mean?	นายหมายความว่าไง?
+P0401-0051	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	What's that supposed to mean?	หมายความว่าไงกันเหรอ?
+P0401-0052	คัตซีน · a04_015	Yagami (ช)		You know something.\nI can see it in your eyes.	แกรู้อะไรบางอย่างแน่ๆ\nฉันเห็นได้จากสายตาแก
+P0401-0053	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	What do you know?\nYou have info that I don't?	แกรู้อะไรมา?\nมีข้อมูลที่ฉันไม่รู้เหรอ?
+P0401-0054	คัตซีน · a04_015	Yagami (ช)		Hamura trusts you.	ฮามุระไว้ใจแกนี่
+P0401-0055	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	Did Hamura slip up?	หรือฮามุระพลั้งปากไปแล้ว?
+P0401-0056	คัตซีน · a04_015	Yagami (ช)		Now tell me the damn truth!	บอกความจริงมาซะดีๆ เดี๋ยวนี้!
+P0401-0057	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	Tell me everything you know!	บอกทุกอย่างที่แกรู้มาซะ!
+P0401-0058	คัตซีน · a04_015	Yagami (ช)		What about stopping the Mole?\nYou willing to take responsibility for another murder?	แล้วเรื่องหยุดไอ้ตัวตุ่นล่ะ?\nแกพร้อมรับผิดชอบถ้ามีคนตายอีกไหม?
+P0401-0059	คัตซีน · a04_015	Yagami (ช)	[อีกแทร็ก]	What if the Mole kills again?\nIt'll be on you if he does!	ถ้าไอ้ตัวตุ่นฆ่าอีกล่ะ?\nมันจะเป็นความผิดแกเต็มๆ นะ!
+P0401-0060	คัตซีน · a04_015	Shintani (ช)		Don't talk like I owe you.	อย่าพูดราวกับว่าผมเป็นหนี้คุณสิ
+P0401-0061	คัตซีน · a04_015	Shintani (ช)	[อีกแทร็ก]	Like hell it will.	ไม่มีทางเป็นความผิดผมหรอก
+P0401-0062	คัตซีน · a04_015	Shintani (ช)		Attorney-client privilege.\nNot like you'd remember it.	เอกสิทธิ์ทนายความ-ลูกความ\nคุณคงไม่รู้จักหรอกมั้ง
+P0401-0063	คัตซีน · a04_015	Shintani (ช)	[อีกแทร็ก]	Besides, remember\nattorney-client privilege? 	อีกอย่าง คุณจำ\nเอกสิทธิ์ทนายความ-ลูกความได้ไหมล่ะ?
+P0401-0064	คัตซีน · a04_015	Shintani (ช)		Go back to school.	กลับไปเรียนหนังสือใหม่เถอะ
+P0401-0065	คัตซีน · a04_015	Shintani (ช)	[อีกแทร็ก]	Go back to law school.	กลับไปเรียนกฎหมายใหม่เถอะ
+P0401-0066	คัตซีน · a04_015	Yagami (ช)		Shintani!	ชินทานิ!
+P0401-0067	คัตซีน · a04_015	Kaito (ช)		Well that's no good. I thought you said\nthat you respected that guy, Yagami.	แบบนี้ไม่ดีเลยนะ นึกว่าแกบอกว่า\nแกนับถือไอ้หมอนั่น ยากามิ
+P0401-0068	คัตซีน · a04_015	Kaito (ช)	[อีกแทร็ก]	Didn't you tell me\nyou respect him as a mentor?	แกไม่ได้บอกฉันเหรอ\nว่านับถือเขาเป็นอาจารย์?
+P0401-0069	คัตซีน · a04_017	Yagami (ช)		All right, I've gotta go.	เอาล่ะ ฉันต้องไปแล้ว
+P0401-0070	คัตซีน · a04_017	Yagami (ช)	[อีกแทร็ก]	Well, I better get going.	เอาล่ะ ฉันไปดีกว่า
+P0401-0071	คัตซีน · a04_017	Ayabe (ช)		Already? You're a busy boy.	จะไปแล้วเหรอ นายนี่งานยุ่งจริงๆ นะ
+P0401-0072	คัตซีน · a04_017	Ayabe (ช)	[อีกแทร็ก]	What, done already?	หา จะกลับแล้วเหรอเนี่ย?
+P0401-0073	คัตซีน · a04_017	Yagami (ช)		Yeah. Kaito-san?	ใช่ ไคโตะซังใช่ไหม?
+P0401-0074	คัตซีน · a04_017	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Yeah, I'm good.	ฉันโอเคดี
+P0401-0075	คัตซีน · a04_017	Kaito (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x7]	Hm?	หืม?
+P0401-0076	คัตซีน · a04_017	Kuroiwa (ช)		Yagami and Kaito, yes?\nWhat an honor.	ยากามิกับไคโตะสินะ?\nเป็นเกียรติจริงๆ
+P0401-0077	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	Yagami and Kaito, right?	ยากามิกับไคโตะใช่ไหม?
+P0401-0078	คัตซีน · a04_017	Kuroiwa (ช)		Tokyo Police.\nThe name's Kuroiwa.	ตำรวจโตเกียว\nผมชื่อคุโรอิวะ
+P0401-0079	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	I'm Kuroiwa from Kamurocho PD.	ผมคุโรอิวะจากสถานีตำรวจคามุโรโจครับ
+P0401-0080	คัตซีน · a04_017	Yagami (ช)	[ใช้ร่วม]	Kuroiwa.	คุโรอิวะ...
+P0401-0081	คัตซีน · a04_017	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Kuroiwa?	คุโรอิวะ?
+P0401-0082	คัตซีน · a04_017	Kuroiwa (ช)		The one who almost put\nHamura behind bars.	คนที่เกือบจะจับ\nฮามุระเข้าคุกได้น่ะ
+P0401-0083	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	I'm the one who put Hamura in cuffs...	ผมเป็นคนที่จับฮามุระใส่กุญแจมือได้...
+P0401-0084	คัตซีน · a04_017	Kuroiwa (ช)		Before you two pulled him\nout of my grasp.	ก่อนที่คุณสองคนจะดึงเขา\nออกไปจากมือผม
+P0401-0085	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	...And then you got him acquitted.	...แล้วคุณก็ทำให้เขาพ้นผิดไปซะงั้น
+P0401-0086	คัตซีน · a04_017	Kaito (ช)	[ใช้ร่วม]	Heh.	เหอะ
+P0401-0087	คัตซีน · a04_017	Kaito (ช)	[อีกแทร็ก]	Yeeeah.	ใช่ๆ...
+P0401-0088	คัตซีน · a04_017	Kaito (ช)	[ใช้ร่วม]	So what?	แล้วยังไง?
+P0401-0089	คัตซีน · a04_017	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	And?	แล้วไง?
+P0401-0090	คัตซีน · a04_017	Kuroiwa (ช)		I've become a department punchline now.	ผมกลายเป็นตัวตลกประจำกรมไปแล้ว
+P0401-0091	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	I'm a department punchline\nthanks to you.	ผมกลายเป็นตัวตลกประจำกรม\nก็เพราะคุณนี่แหละ
+P0401-0092	คัตซีน · a04_017	Kuroiwa (ช)		I have you to thank.	ต้องขอบคุณจริงๆ
+P0401-0093	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	Thanks for that.	ขอบใจนะ
+P0401-0094	คัตซีน · a04_017	Yagami (ช)		You're very welcome.	ไม่เป็นไรครับ ยินดีเสมอ
+P0401-0095	คัตซีน · a04_017	Kuroiwa (ช)		And I see you're here, too. Ayabe.	แล้วก็เจอคุณอยู่ที่นี่ด้วยนี่ อายาเบะ
+P0401-0096	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	You been snuggling up to Ayabe?	ไปตีสนิทกับอายาเบะเหรอ?
+P0401-0097	คัตซีน · a04_017	Ayabe (ช)		Oh, Kuroiwa-san!\nNice night. It's great to see you.	โอ้ คุโรอิวะซัง!\nคืนนี้อากาศดีนะครับ ดีใจที่ได้เจอ
+P0401-0098	คัตซีน · a04_017	Ayabe (ช)	[อีกแทร็ก]	O-Oh hey, Kuroiwa-san!\nI didn't see you there!	อ-อ้าว คุโรอิวะซัง!\nไม่เห็นเลยว่าอยู่ตรงนั้น!
+P0401-0099	คัตซีน · a04_017	Ayabe (ช)		Yeah. I cut out of work\nto grab a few drinks.	ครับ ผมแอบเลิกงานก่อนเวลา\nมาดื่มนิดหน่อยน่ะ
+P0401-0100	คัตซีน · a04_017	Ayabe (ช)	[อีกแทร็ก]	Yeah. I cut out of work to get a drink.	ครับ ผมแอบเลิกงานก่อนมาดื่มน่ะ
+P0401-0101	คัตซีน · a04_017	Kuroiwa (ช)		You doing the same, Ayabe?	คุณก็เหมือนกันเหรอ อายาเบะ?
+P0401-0102	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	You too, Ayabe?	คุณด้วยเหรอ อายาเบะ?
+P0401-0103	คัตซีน · a04_017	Ayabe (ช)		Nahhh. Old me?\nI don't play hooky.	ไม่หรอกครับ ตัวผมเนี่ยนะ\nไม่มีทางโดดงานหรอก
+P0401-0104	คัตซีน · a04_017	Ayabe (ช)	[อีกแทร็ก]	Ha, yeah right,\nI'd never skip work.	ฮ่า ใช่สิ\nผมไม่มีวันโดดงานหรอกครับ
+P0401-0105	คัตซีน · a04_017	Yagami (ช)		Well, we should be on our way.	เอาล่ะครับ พวกเราขอตัวก่อนนะ
+P0401-0106	คัตซีน · a04_017	Yagami (ช)	[อีกแทร็ก]	Well, we're on our way out.	เอาล่ะครับ พวกเรากำลังจะไปพอดี
+P0401-0107	คัตซีน · a04_017	Kuroiwa (ช)		Hey. Let me ask before you go...	เดี๋ยวก่อน ขอถามอะไรหน่อยก่อนไป...
+P0401-0108	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	Hey... Just tell me one thing.	เดี๋ยว... ขอถามอะไรอย่างนึง
+P0401-0109	คัตซีน · a04_017	Kuroiwa (ช)		The Okubo case.\nYou let that murderer get off scot-free.	คดีโอคุโบะ\nคุณปล่อยให้ฆาตกรคนนั้นลอยนวลไปได้
+P0401-0110	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	Three years ago, you put\na murderer back on the street...	สามปีก่อน คุณปล่อย\nฆาตกรกลับไปอยู่บนถนนอีกครั้ง...
+P0401-0111	คัตซีน · a04_017	Kuroiwa (ช)		After which he burned his\npoor girlfriend to death.	หลังจากนั้นเขาก็เผา\nแฟนสาวผู้น่าสงสารจนตาย
+P0401-0112	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	And he burned an innocent girl to death.	แล้วเขาก็เผาผู้หญิงบริสุทธิ์จนตาย
+P0401-0113	คัตซีน · a04_017	Kuroiwa (ช)		And yet, here we are with another murderer\nroaming the streets of this city.	แล้วตอนนี้เราก็มีฆาตกรอีกคน\nเดินเพ่นพ่านอยู่ในเมืองนี้
+P0401-0114	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	And here we are, another killer\nyou've let off the leash.	แล้วตอนนี้ก็มีฆาตกรอีกคน\nที่คุณปล่อยให้เป็นอิสระ
+P0401-0115	คัตซีน · a04_017	Kuroiwa (ช)		I wonder who the next\nvictim will be.	สงสัยจังว่าเหยื่อรายต่อไป\nจะเป็นใคร
+P0401-0116	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	Who will the next victim be?	เหยื่อรายต่อไปจะเป็นใครกันนะ?
+P0401-0117	คัตซีน · a04_017	Kuroiwa (ช)		You consider that. "Yagami-sensei."	ลองคิดดูให้ดีนะ "อาจารย์ยากามิ"
+P0401-0118	คัตซีน · a04_017	Kuroiwa (ช)	[อีกแทร็ก]	That's my question...\nYagami-sensei.	นั่นแหละคือคำถามของผม...\nอาจารย์ยากามิ
+P0401-0119	คัตซีน · a04_020	Kaito (ช)	[ใช้ร่วม]	There he is.	นั่นไงเขา
+P0401-0120	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก]	That's Murase.	นั่นมุราเสะ
+P0401-0121	คัตซีน · a04_020	Yagami (ช)		Right where I expected.	อยู่ตรงที่คาดไว้เป๊ะ
+P0401-0122	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก]	I knew he'd be here.	รู้อยู่แล้วว่าเขาต้องอยู่ที่นี่
+P0401-0123	คัตซีน · a04_020	Kaito (ช)		Yeah, not so sure\nit's that simple though.	ใช่ แต่ไม่แน่ใจ\nว่ามันจะง่ายขนาดนั้นนะ
+P0401-0124	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก]	Eh, something's off, though.	เอ๊ะ แต่มีอะไรแปลกๆ นะ
+P0401-0125	คัตซีน · a04_020	Yagami (ช)		Take another look.\nMurase's alone.	ลองมองดูอีกที\nมุราเสะอยู่คนเดียว
+P0401-0126	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก]	Aren't there fewer mooks than usual?	ลูกน้องดูน้อยกว่าปกติไม่ใช่เหรอ?
+P0401-0127	คัตซีน · a04_020	Kaito (ช)	[ใช้ร่วม]	Your point being?	แล้วจะสื่ออะไร?
+P0401-0128	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	You think?	จริงเหรอ?
+P0401-0129	คัตซีน · a04_020	Kyorei thug (ช)		Hands up.	ยกมือขึ้น
+P0401-0130	คัตซีน · a04_020	Kyorei thug (ช)	[อีกแทร็ก]	Don't move.	อย่าขยับ
+P0401-0131	คัตซีน · a04_020	Yagami (ช)	[ใช้ร่วม]	Oh shit...	เชี่ย...
+P0401-0132	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	Uh...	เอ่อ...
+P0401-0133	คัตซีน · a04_020	Shioya (ช)		You know, that Matsugane\nguy died at our hands.	รู้ไหม ไอ้พวกมัตสึกาเนะ\nตายด้วยน้ำมือกูนั่นแหละ
+P0401-0134	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	We took out a Matsugane Family\nman yesterday.	เมื่อวานกูเพิ่งเก็บ\nคนของตระกูลมัตสึกาเนะไปคนนึง
+P0401-0135	คัตซีน · a04_020	Shioya (ช)		Always knew we'd get some\nTojo Clan boys sent over here.	รู้อยู่แล้วว่าต้องมี\nพวกตระกูลโทโจถูกส่งมาที่นี่
+P0401-0136	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	So the Tojo Clan should\ncome knocking any time...	ตระกูลโทโจ\nคงมาเคาะประตูเมื่อไหร่ก็ได้...
+P0401-0137	คัตซีน · a04_020	Shioya (ช)		So, you see. We've been expecting\nguests this whole time.	เห็นไหมล่ะ กูรอต้อนรับ\nแขกอยู่ตลอดเวลาเลยนะ
+P0401-0138	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	In other words,\nwe're on high alert at the moment.	พูดง่ายๆ คือ\nตอนนี้พวกกูเตรียมพร้อมเต็มที่
+P0401-0139	คัตซีน · a04_020	Kaito (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Yagami-san.	ยากามิซัง
+P0401-0140	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก]	...Yagami-san.	...ยากามิซัง
+P0401-0141	คัตซีน · a04_020	Yagami (ช)		Ideas, Kaito-san?	มีไอเดียบ้างไหม ไคโตะซัง?
+P0401-0142	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก]	What now, Kaito-san?	ตอนนี้จะทำไงดี ไคโตะซัง?
+P0401-0143	คัตซีน · a04_020	Kaito (ช)	[ใช้ร่วม]	I, uh...	คือ เอ่อ...
+P0401-0144	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก]	Whaddaya mean?	หมายความว่าไง?
+P0401-0145	คัตซีน · a04_020	Yagami (ช)		You're the ideas guy, aren't you?	นายเป็นคนออกไอเดียไม่ใช่เหรอ?
+P0401-0146	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก]	You think we've got a choice?	คิดว่าเรามีทางเลือกเหรอ?
+P0401-0147	คัตซีน · a04_020	Kaito (ช)	[ใช้ร่วม]	Dammit.	ให้ตายสิวะ
+P0401-0148	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	Guess not.	คงงั้นแหละ
+P0401-0149	คัตซีน · a04_020	Shioya (ช)		If you two clowns really were Tojo Clan,\nwe'd have gouged your eyes out by now.	ถ้าพวกมึงสองตัวตลกเป็นตระกูลโทโจจริง\nป่านนี้กูควักลูกตามึงไปแล้ว
+P0401-0150	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	If you two were Tojo...\nWe'd have gouged your eyes out already.	ถ้าพวกมึงเป็นโทโจจริง...\nป่านนี้กูควักลูกตามึงไปนานแล้ว
+P0401-0151	คัตซีน · a04_020	Shioya (ช)		Get the hell on the ground!	หมอบลงกับพื้นซะ ไอ้พวกเวร!
+P0401-0152	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	Get on your knees!	คุกเข่าลง!
+P0401-0153	คัตซีน · a04_020	Shioya (ช)		Town's sure noisy, huh? No one'll care about,\nsay... a couple of gunshots up here.	เมืองนี้เสียงดังจะตายอยู่แล้วเนอะ ไม่มีใครสนหรอก\nต่อให้มีเสียงปืนดังสักสองสาม นัดแถวนี้
+P0401-0154	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	It's a noisy city...\nA gunshot or two'll hardly make a blip.	เมืองนี้มันเสียงดังอยู่แล้ว...\nเสียงปืนสักนัดสองนัดไม่มีใครสนหรอก
+P0401-0155	คัตซีน · a04_020	Kaito (ช)		Whose bright idea was this?	ใครวะเป็นคนคิดไอเดียเจ๋งๆ นี่?
+P0401-0156	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก]	Who ordered you here?	ใครสั่งให้แกมาที่นี่?
+P0401-0157	คัตซีน · a04_020	Yagami (ช)		This guy.	คนนี้แหละ
+P0401-0158	คัตซีน · a04_020	Shioya (ช)		Is that really how\nit's gonna be, Kaito-san?	จะเอาแบบนี้จริงๆ เหรอ\nไคโตะซัง?
+P0401-0159	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	So that's how it's gonna be,\nKaito-san...	งั้นก็เอาแบบนี้สินะ\nไคโตะซัง...
+P0401-0160	คัตซีน · a04_020	Kaito (ช)		And just who are you?	แล้วแกเป็นใครวะ?
+P0401-0161	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	And you are?	แล้วนายเป็นใคร?
+P0401-0162	คัตซีน · a04_020	Shioya (ช)		Good question, "Kaito-san."\nSatoshi Shioya's the name.	คำถามดีนี่ "ไคโตะซัง"\nกูชื่อซาโตชิ ชิโอยะ
+P0401-0163	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	Captain of the Kyorei Clan.\nThe name's Shioya.	กัปตันตระกูลเคียวเรอิ\nชื่อชิโอยะ
+P0401-0164	คัตซีน · a04_020	Yagami (ช)		The Kyorei Clan's captain, huh?	กัปตันตระกูลเคียวเรอิเรอะ?
+P0401-0165	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก]	So he's second in command...	แปลว่าเขาเป็นมือขวาสินะ...
+P0401-0166	คัตซีน · a04_020	Kaito (ช)		Higashi mentioned him.	ฮิงาชิเคยพูดถึงเขา
+P0401-0167	คัตซีน · a04_020	Shioya (ช)		Hey. Get some cuffs on these fools.	เฮ้ย เอากุญแจมือใส่ไอ้พวกงี่เง่านี่
+P0401-0168	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	Hey. Gag and cuff 'em.	เฮ้ย ปิดปากแล้วใส่กุญแจมือมันซะ
+P0401-0169	คัตซีน · a04_020	Shioya (ช)		I've got some burning-hot\nquestions to ask 'em.	กูมีคำถามร้อนๆ\nอยากถามพวกมันอยู่
+P0401-0170	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	Let's all go get comfy in the office.	ไปนั่งคุยกันสบายๆ ที่ออฟฟิศดีกว่า
+P0401-0171	คัตซีน · a04_020	Shioya (ช)		You ready?\nI think we're gonna have a little fun.	พร้อมยัง?\nกูว่าคืนนี้จะสนุกละ
+P0401-0172	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	You two are in for a long night!	คืนนี้พวกมึงเหนื่อยแน่!
+P0401-0173	คัตซีน · a04_020	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Huh!?	หา!?
+P0401-0174	คัตซีน · a04_020	Shioya (ช)		You think I'm messin' around!?	คิดว่ากูเล่นๆ อยู่เหรอวะ!?
+P0401-0175	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	You think we're playing around!?　	คิดว่าพวกกูเล่นๆ กันอยู่เหรอวะ!?
+P0401-0176	คัตซีน · a04_020	Shioya (ช)		Take him out now!	จัดการมันเดี๋ยวนี้!
+P0401-0177	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก] [ใช้ร่วม]	Pull the fuckin' trigger!	เหนี่ยวไกเลยไอ้เหี้ย!
+P0401-0178	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก]	Wha!?	หา!?
+P0401-0179	คัตซีน · a04_020	Kaito (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	No!	ไม่นะ!
+P0401-0180	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	Tak!	ทาคุ!
+P0401-0181	คัตซีน · a04_020	Shioya (ช)		Shoot him!	ยิงมันเลย!
+P0401-0182	คัตซีน · a04_020	Shioya (ช)	[อีกแทร็ก]	Hurry up!	เร็วเข้าสิ!
+P0401-0183	คัตซีน · a04_020	Yagami (ช)		The shit!?	อะไรวะเนี่ย!?
+P0401-0184	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	The fuck!?	อะไรวะ!?
+P0401-0185	คัตซีน · a04_020	Yagami (ช)	[ใช้ร่วม]	You...	แก...
+P0401-0186	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก]	You...!?	มึง...!?
+P0401-0187	คัตซีน · a04_020	Murase (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	Why?	ทำไมล่ะ?
+P0401-0188	คัตซีน · a04_020	Yagami (ช)		Is this really the time?	ตอนนี้เหมาะจะมาคิดเรื่องนี้แล้วเหรอ?
+P0401-0189	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก]	You really have time to think about it?	มีเวลามานั่งคิดขนาดนั้นเลยเหรอ?
+P0401-0190	คัตซีน · a04_020	Yagami (ช)	[ใช้ร่วม]	Fair enough.	ก็พอเข้าใจได้
+P0401-0191	คัตซีน · a04_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	Good point.	พูดถูกนะ
+P0401-0192	คัตซีน · a04_020	Kaito (ช)		Come on, let's move!	เร็วเข้า ไปกันเถอะ!
+P0401-0193	คัตซีน · a04_020	Kaito (ช)	[อีกแทร็ก]	Let's roll, Tak!	ไปกันเถอะ ทาคุ!
+P0401-0194	คัตซีน · a04_030	Kaito (ช)		That's enough.\nCome on. Let's roll.	พอแค่นี้แหละ\nไปกันเถอะ
+P0401-0195	คัตซีน · a04_030	Kaito (ช)	[อีกแทร็ก]	That's enough.\nLet's roll, Tak.	พอแค่นี้แหละ\nไปกันเถอะ ทาคุ
+P0401-0196	คัตซีน · a04_030	Yagami (ช)		Yeah. No reason to stay here.	เออ ไม่มีเหตุผลต้องอยู่ที่นี่ต่อ
+P0401-0197	คัตซีน · a04_030	Yagami (ช)	[อีกแทร็ก]	Yeah, let's leave the mess.	เออ ปล่อยเรื่องยุ่งๆ นี่ไว้แล้วไปกันเถอะ
+P0401-0198	คัตซีน · a04_030	Yagami (ช)		We owe you one.\nYou should come with us.	พวกเราติดหนี้บุญคุณนายไว้\nไปกับพวกเราเถอะ
+P0401-0199	คัตซีน · a04_030	Yagami (ช)	[อีกแทร็ก]	You saved our asses.\nCome with us.	นายช่วยพวกเราไว้\nไปด้วยกันเถอะ
+P0401-0200	คัตซีน · a04_030	Yagami (ช)		Coming?	ไปด้วยกันไหม?
+P0401-0201	คัตซีน · a04_030	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	What's up?	เป็นไงบ้าง?
+P0401-0202	คัตซีน · a04_030	Murase (ช)		Sure. May as well.	เอาสิ ไปก็ไปวะ
+P0401-0203	คัตซีน · a04_030	Murase (ช)	[อีกแทร็ก]	Sure. Why not?	เอาสิ ทำไมจะไม่ไปล่ะ?
+P0401-0204	คัตซีน · a04_030	Kaito (ช)		Wait— Just like that?	เดี๋ยว— ง่ายขนาดนั้นเลยเหรอ?
+P0401-0205	คัตซีน · a04_030	Kaito (ช)	[อีกแทร็ก]	Really? Just like that?	จริงดิ? ง่ายขนาดนั้นเลยเหรอ?
+P0401-0206	คัตซีน · a04_030	Yagami (ช)	[ใช้ร่วม]	Hold up.	เดี๋ยวก่อน
+P0401-0207	คัตซีน · a04_030	Yagami (ช)	[อีกแทร็ก]	Wait up...　	เดี๋ยวก่อนนะ...
+P0401-0208	คัตซีน · a04_030	Kyorei thug (ช)		I'm not letting you assholes\nget away that easily...	กูไม่ปล่อยให้พวกมึงไอ้สารเลว\nรอดไปง่ายๆ หรอก...
+P0401-0209	คัตซีน · a04_030	Kyorei thug (ช)	[อีกแทร็ก]	You aren't gettin' off that easy...	พวกมึงจะรอดไปง่ายๆ แบบนั้นไม่ได้หรอก...
+P0401-0210	คัตซีน · a04_030	Kyorei thug (ช)		Yakuza don't fuck around...	ยากูซ่าไม่ได้เล่นๆ นะโว้ย...
+P0401-0211	คัตซีน · a04_030	Kyorei thug (ช)	[อีกแทร็ก]	Yakuza don't mess around...	ยากูซ่าไม่ใช่ของเล่นนะโว้ย...
+P0401-0212	คัตซีน · a04_030	Kyorei thug (ช)		You three are gone.	พวกมึงสามคนตายแน่
+P0401-0213	คัตซีน · a04_030	Kyorei thug (ช)	[อีกแทร็ก]	You three are dead.	พวกมึงสามคนต้องตาย
+P0401-0214	คัตซีน · a04_030	Kaito (ช)		Well shit. You're not half as ugly\nas I figured you were.	เชี่ย นึกว่าแกจะขี้เหร่\nกว่านี้ซะอีก
+P0401-0215	คัตซีน · a04_030	Kaito (ช)	[อีกแทร็ก]	Shit... You're not half as ugly\nas I thought you'd be.	เชี่ย... แกไม่ได้ขี้เหร่\nอย่างที่ฉันคิดไว้เลยนี่หว่า
+P0401-0216	คัตซีน · a04_030	Murase (ช)		What can I say?	จะให้พูดว่าไงดี?
+P0401-0217	คัตซีน · a04_030	Yagami (ช)		That a good idea?	นั่นมันไอเดียดีเหรอ?
+P0401-0218	คัตซีน · a04_030	Yagami (ช)	[อีกแทร็ก]	You sure about the mask?	แน่ใจเรื่องหน้ากากนั่นนะ?
+P0401-0219	คัตซีน · a04_030	Murase (ช)		Well, not like I'll get very far\nwith it on, you know?	ก็คงไปได้ไม่ไกลหรอก\nถ้าใส่มันไว้ตลอด จริงไหม?
+P0401-0220	คัตซีน · a04_030	Murase (ช)	[อีกแทร็ก]	Doubt we'd get very far\nif I kept it on, man.	คงไปได้ไม่ไกลหรอก\nถ้าผมใส่มันไว้ตลอด
+P0401-0221	คัตซีน · a04_030	Yagami (ช)	[ใช้ร่วม]	Okay. Let's go.	โอเค ไปกันเถอะ
+P0401-0222	คัตซีน · a04_030	Yagami (ช)	[อีกแทร็ก]	Cool. Let's go.	เจ๋ง ไปกันเถอะ
+P0401-0223	คัตซีน · a04_040	Yagami (ช)		I haven't been able to reach Shintani-sensei.\nIt keeps going to voicemail.	ผมติดต่ออาจารย์ชินทานิไม่ได้เลย\nมันเด้งเข้าฝากข้อความตลอด
+P0401-0224	คัตซีน · a04_040	Yagami (ช)	[อีกแทร็ก]	Shintani-sensei isn't\npicking up his phone.	อาจารย์ชินทานิ\nไม่รับโทรศัพท์เลย
+P0401-0225	คัตซีน · a04_040	Kaito (ช)		He hasn't picked up since he left\nthe office after talking to you.	เขาไม่รับสายเลยตั้งแต่ออกจาก\nออฟฟิศหลังคุยกับนาย
+P0401-0226	คัตซีน · a04_040	Kaito (ช)	[อีกแทร็ก]	Not since he left after\nyour little chat.	ไม่รับเลยตั้งแต่ออกไป\nหลังคุยกับนายนั่นแหละ
+P0401-0227	คัตซีน · a04_040	Kaito (ช)		Mmhmm. And?	อืม แล้วไง?
+P0401-0228	คัตซีน · a04_040	Kaito (ช)		Didn't you say the Kyorei Clan\nwas after him?	นายไม่ได้บอกเหรอว่าตระกูลเคียวเรอิ\nตามล่าเขาอยู่?
+P0401-0229	คัตซีน · a04_040	Yagami (ช)		Yeah... He'll be fine.	เออ... เขาต้องไม่เป็นไรหรอก
+P0401-0230	คัตซีน · a04_040	Yagami (ช)	[อีกแทร็ก]	Eh, he'll be fine.　	เอ่อ เขาไม่เป็นไรหรอก
+P0401-0231	คัตซีน · a04_040	Yagami (ช)		I just wanted to give him a scare.	ผมแค่อยากขู่ให้เขากลัวนิดหน่อยเฉยๆ
+P0401-0232	คัตซีน · a04_040	Yagami (ช)	[อีกแทร็ก]	I just wanted to give him\na little scare.	ผมแค่อยากขู่ให้เขา\nกลัวนิดหน่อยเท่านั้นเอง
+P0401-0233	คัตซีน · a04_040	Kaito (ช)		Okay, still—\ncould you try him for me?	โอเค แต่—\nช่วยลองโทรหาเขาให้ฉันหน่อยได้ไหม?
+P0401-0234	คัตซีน · a04_040	Kaito (ช)	[อีกแทร็ก]	Still... Could you try getting\nhim for me?	ถึงยังไง...\nช่วยลองโทรหาเขาให้ฉันหน่อยได้ไหม?
+P0401-0235	คัตซีน · a04_040	Kaito (ช)		Sometimes he ignores my calls.\nMaybe he'll pick up for you.	บางทีเขาก็ไม่รับสายผม\nบางทีอาจจะรับสายนายก็ได้
+P0401-0236	คัตซีน · a04_040	Kaito (ช)	[อีกแทร็ก]	He's clearly not going\nto pick up for me.	เห็นได้ชัดว่าเขาคง\nไม่รับสายผมหรอก
+P0401-0237	คัตซีน · a04_040	Yagami (ช)		Are you sure we're talking\nabout the same guy?	แน่ใจนะว่าเราพูดถึง\nคนเดียวกัน?
+P0401-0238	คัตซีน · a04_040	Yagami (ช)	[อีกแทร็ก]	And you think he will for <font_kind=yakuza_italic>me</font_kind>?	แล้วคิดว่าเขาจะรับสายให้<font_kind=yakuza_italic>ฉัน</font_kind>เนี่ยนะ?
+P0401-0239	คัตซีน · a04_040	Yagami (ช)		But I might as well.\nCan't hurt to try.	แต่ก็ลองดูก็ได้\nลองแล้วไม่เสียหายอะไร
+P0401-0240	คัตซีน · a04_040	Shintani (ช)		Hi. Shintani here!	หวัดดีครับ ชินทานิเองครับ!
+P0401-0241	คัตซีน · a04_040	Shintani (ช)	[อีกแทร็ก]	Hi, this is Shintani!	สวัสดีครับ นี่ชินทานิเองครับ!
+P0401-0242	คัตซีน · a04_040	Yagami (ช)		Hey, Shintani-sensei.\nIt's Tak, where are—	เฮ้ อาจารย์ชินทานิ\nนี่ทาคุนะ คุณอยู่ที่—
+P0401-0243	คัตซีน · a04_040	Yagami (ช)	[อีกแทร็ก]	Shintani-sensei? Where are you right—	อาจารย์ชินทานิ? ตอนนี้คุณอยู่ที่—
+P0401-0244	คัตซีน · a04_040	Shintani (ช)		You've reached the voice mailbox of the one and only\nMasamichi Shintani, Genda Law Office's finest attorney!	คุณติดต่อกล่องข้อความเสียงของ\nมาซามิจิ ชินทานิ ทนายความมือหนึ่งแห่ง สำนักงานกฎหมายเก็นดะตัวจริง เสียงจริง!
+P0401-0245	คัตซีน · a04_040	Shintani (ช)	[อีกแทร็ก]	You've reached the voicemail of Genda Law's\nace attorney, Masamichi Shintani.	คุณติดต่อกล่องข้อความเสียงของ\nมาซามิจิ ชินทานิ ทนายฝีมือฉกาจแห่ง สำนักงานกฎหมายเก็นดะ
+P0401-0246	คัตซีน · a04_040	Yagami (ช)		Shintani...	ชินทานิ...
+P0401-0247	คัตซีน · a04_040	Shintani (ช)		Leave your legal troubles\nafter the beep!	ฝากปัญหาทางกฎหมายของคุณไว้\nหลังเสียงบี๊บได้เลย!
+P0401-0248	คัตซีน · a04_040	Shintani (ช)	[อีกแทร็ก]	Please leave a message!	กรุณาฝากข้อความไว้!
+P0401-0249	พากย์ · speech_list_judge_main_c04	Kaito (ช)		Dead guy's name was Kurimoto.\nBeen in the family for years.	คนตายชื่อคุริโมโตะ\nอยู่กับตระกูลมานานหลายปีแล้ว
+P0401-0250	พากย์ · speech_list_judge_main_c04	? (ช)		Doubt it. He didn't make a habit\nof standing out.	ไม่น่าจะรู้จัก มันไม่ใช่คนที่\nชอบเด่นเป็นสง่าอยู่แล้ว
+P0401-0251	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Eh, I don't think you'd know him.\nHe didn't make a habit of standing out.	เอ่อ ฉันว่านายไม่รู้จักหรอก\nมันไม่ใช่คนที่ชอบเด่นเป็นสง่า
+P0401-0252	พากย์ · speech_list_judge_main_c04	? (ช)		Bullshit. Guy's a Kyorei assassin,\nno doubt.	เหลวไหลน่า มันคือมือสังหารของเคียวเรอิ\nไม่ต้องสงสัยเลย
+P0401-0253	พากย์ · speech_list_judge_main_c04	? (ช)		Yup. Least, that's what\nHigashi told me.	ใช่ อย่างน้อยก็เรื่องที่\nฮิงาชิบอกฉันมา
+P0401-0254	พากย์ · speech_list_judge_main_c04	? (ช)		You still sore about that?	ยังโกรธเรื่องนั้นอยู่อีกเหรอ?
+P0401-0255	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You still sore 'bout that?	ยังโมโหเรื่องนั้นอยู่อีกเหรอ?
+P0401-0256	พากย์ · speech_list_judge_main_c04	? (ช)		Anyway. According to Higashi, this guy shot\nKurimoto three times in the torso.	เอาเถอะ ตามที่ฮิงาชิบอก ไอ้นั่นยิง\nคุริโมโตะเข้าลำตัวสามนัด
+P0401-0257	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	According to Higashi, this guy shot\nKurimoto four times in the torso.	ตามที่ฮิงาชิบอก ไอ้นั่นยิง\nคุริโมโตะเข้าลำตัวสี่นัด
+P0401-0258	พากย์ · speech_list_judge_main_c04	? (ช)		Then...\nHe shot both his eyes out.	แล้วก็...\nยิงทะลุดวงตาทั้งสองข้างด้วย
+P0401-0259	พากย์ · speech_list_judge_main_c04	? (ช)		Must be the Kyorei's idea of revenge.	คงเป็นวิธีล้างแค้นแบบเคียวเรอิมั้ง
+P0401-0260	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Must be the Kyorei's idea of taking\nrevenge on the Mole.	คงเป็นวิธีล้างแค้นของเคียวเรอิ\nที่มีต่อไอ้ตัวตุ่นมั้ง
+P0401-0261	พากย์ · speech_list_judge_main_c04	? (ช)		If things keep going like this though...\nEven the Tojo Clan proper might end up getting involved.	แต่ถ้าเรื่องมันลุกลามแบบนี้ต่อไป...\nต่อให้เป็นตระกูลโทโจใหญ่ก็อาจ ต้องเข้ามาเอี่ยวด้วย
+P0401-0262	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	But if this keeps escalating,\nit might go all the way up to the Tojo Clan proper.	แต่ถ้าเรื่องมันลุกลามต่อไปเรื่อยๆ\nมันอาจลามไปถึงตระกูลโทโจใหญ่เลยก็ได้
+P0401-0263	พากย์ · speech_list_judge_main_c04	? (ช)		Looks like it.\nKamurocho's turning into a goddamn battlefield.	ดูเหมือนจะใช่\nคามุโรโจกำลังจะกลายเป็นสมรภูมิ รบเข้าให้แล้ว
+P0401-0264	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yep. Kamurocho's turning into a goddamn battlefield.\nSo Higashi says, anyway.	ใช่ คามุโรโจกำลังจะกลายเป็นสมรภูมิรบ\nอย่างน้อยก็ตามที่ฮิงาชิว่ามา
+P0401-0265	พากย์ · speech_list_judge_main_c04	? (ช)		Did I know him?	ผมรู้จักเขาด้วยเหรอ?
+P0401-0266	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Kurimoto?	คุริโมโตะ?
+P0401-0267	พากย์ · speech_list_judge_main_c04	? (ช)		At least they got the killer.\nApparently he says he's just an office worker.	อย่างน้อยก็จับตัวคนร้ายได้\nเขาว่ากันว่าคนร้ายอ้างว่า ตัวเองเป็นแค่พนักงานบริษัท
+P0401-0268	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	At least they got the killer.\nHe claims he's just an office worker.	อย่างน้อยก็จับตัวคนร้ายได้\nคนร้ายอ้างว่าตัวเองเป็นแค่ พนักงานบริษัท
+P0401-0269	พากย์ · speech_list_judge_main_c04	? (ช)	[ใช้ร่วม]	You're sure?	แน่ใจเหรอ
+P0401-0270	พากย์ · speech_list_judge_main_c04	? (ช)		Oh, you mean the guy who was ready\nto shoot me the other day?	อ๋อ นายหมายถึงไอ้คนที่เกือบจะ\nยิงผมเมื่อวันก่อนใช่ไหม?
+P0401-0271	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Right... You mean, the guy\nwho was ready to shoot me?	ใช่...นายหมายถึงไอ้คนที่\nเกือบจะยิงผมนั่นเหรอ?
+P0401-0272	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	But why?	แต่ทำไมล่ะ?
+P0401-0273	พากย์ · speech_list_judge_main_c04	? (ช)		So the Kyorei Clan wants a war.	งั้นตระกูลเคียวเรอิต้องการสงครามสินะ
+P0401-0274	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So the Kyorei Clan's trying to\nstart a war, huh?	งั้นตระกูลเคียวเรอิกำลังพยายาม\nจุดชนวนสงครามสินะ?
+P0401-0275	พากย์ · speech_list_judge_main_c04	Genda (ช)		You sure you don't wanna start\npracticing again, Yagami?	แน่ใจนะว่าไม่คิดจะกลับมา\nว่าความอีกครั้ง ยากามิคุง?
+P0401-0276	พากย์ · speech_list_judge_main_c04	Genda (ช)	[อีกแทร็ก]	Say, Yagami. You sure you don't\nwanna start practicing again?	นี่ ยากามิคุง แน่ใจนะว่าไม่คิดจะ\nกลับมาว่าความอีกครั้ง?
+P0401-0277	พากย์ · speech_list_judge_main_c04	? (ช)		Hey, Yagami.	เฮ้ ยากามิ
+P0401-0278	พากย์ · speech_list_judge_main_c04	? (ช)		Are you butting heads with Hamura?\nHe called me to complain about it.	นายไปมีเรื่องกับฮามุระเหรอ?\nเขาโทรมาบ่นให้ฟังเลยนะ
+P0401-0279	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You and Hamura are butting heads, yeah?\nHe called me, specifically to complain about you.	นายกับฮามุระมีเรื่องกันใช่ไหม?\nเขาโทรมาบ่นเรื่องนายให้ฟัง โดยเฉพาะเลย
+P0401-0280	พากย์ · speech_list_judge_main_c04	? (ช)		Said to keep your nose out of his case.	บอกว่าให้นายอย่ายุ่งกับคดีของเขา
+P0401-0281	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	The captain wants you off his case.	กัปตันอยากให้นายถอนตัวจากคดีของเขา
+P0401-0282	พากย์ · speech_list_judge_main_c04	? (ช)		Fine by me. Just wanted\nto make sure you're okay.	ไม่เป็นไรหรอก แค่อยากรู้ว่า\nนายยังสบายดีไหม
+P0401-0283	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	It's fine by me.\nJust wanted to make sure you're okay.	ไม่เป็นไรหรอก\nแค่อยากรู้ว่านายยังสบายดีไหม
+P0401-0284	พากย์ · speech_list_judge_main_c04	? (ช)		Yeah, I heard. This damn city\ngets rougher every day...	ใช่ ได้ยินมาเหมือนกัน เมืองบ้านี่\nดุดันขึ้นทุกวันเลยจริงๆ...
+P0401-0285	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	For crying out loud...\nKamurocho's getting rougher every day.	โธ่เอ๊ย...\nคามุโรโจดุดันขึ้นทุกวันเลย
+P0401-0286	พากย์ · speech_list_judge_main_c04	Higashi (ช)		...Yagami?	...ยากามิ?
+P0401-0287	พากย์ · speech_list_judge_main_c04	Higashi (ช)	[อีกแทร็ก]	Huh...? Yagami!?	หา...? ยากามิ!?
+P0401-0288	พากย์ · speech_list_judge_main_c04	? (ช)		What're you doing here?	มาทำอะไรที่นี่?
+P0401-0289	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Hey— Wh-What're you doing here?	เฮ้—ท-ทำอะไรอยู่ที่นี่?
+P0401-0290	พากย์ · speech_list_judge_main_c04	? (ช)		To chat!?\nIf Captain Hamura knew this, he'd...	คุย!?\nถ้ากัปตันฮามุระรู้เรื่องนี้เข้า เขาคง...
+P0401-0291	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You want a "chat"!?\nIf Hamura saw you here, he'd...	อยากมา "คุย" งั้นเหรอ!?\nถ้าฮามุระเห็นนายอยู่ที่นี่ เขาคง...
+P0401-0292	พากย์ · speech_list_judge_main_c04	? (ช)		Never mind.\nDon't gotta worry about that now.	ช่างมันเถอะ\nตอนนี้ไม่ต้องห่วงเรื่องนั้นแล้ว
+P0401-0293	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Never mind. Don't gotta\nworry about that now.	ช่างมันเถอะ ตอนนี้ไม่ต้อง\nห่วงเรื่องนั้นแล้ว
+P0401-0294	พากย์ · speech_list_judge_main_c04	? (ช)		He's in no position to be\ncomin' after you anymore.	เขาไม่อยู่ในสถานะจะ\nมาไล่ล่านายได้อีกแล้ว
+P0401-0295	พากย์ · speech_list_judge_main_c04	? (ช)		Yeah, it really shook him up.\nHe's been MIA ever since that night.	ใช่ มันสั่นคลอนเขาหนักมาก\nหายตัวไปตั้งแต่คืนนั้นเลย
+P0401-0296	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yup. Ever since it happened,\nthe captain's been totally MIA.	ใช่ ตั้งแต่เกิดเรื่องนั้น\nกัปตันก็หายตัวไปเลย
+P0401-0297	พากย์ · speech_list_judge_main_c04	? (ช)		Went into hiding even before the cops came.	หลบหนีไปก่อนตำรวจจะมาถึงด้วยซ้ำ
+P0401-0298	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Went into hiding even\nbefore the cops came.	หลบหนีไปเลย ก่อน\nตำรวจจะมาถึงด้วยซ้ำ
+P0401-0299	พากย์ · speech_list_judge_main_c04	? (ช)		So? Whaddya want?	แล้วไง? มีอะไรจะพูด?
+P0401-0300	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So?\nWhaddya want?	แล้วไง?\nมีอะไรจะพูด?
+P0401-0301	พากย์ · speech_list_judge_main_c04	? (ช)		Don't just stand there.\nYou're a guest. Take a seat.	อย่ายืนเฉยๆ สิ\nนายเป็นแขก นั่งก่อนสิ
+P0401-0302	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	It's rude to keep a guest standing.\nSit down, would ya?	ปล่อยให้แขกยืนมันเสียมารยาท\nนั่งลงเถอะน่า
+P0401-0303	พากย์ · speech_list_judge_main_c04	? (ช)		Didn't you wanna talk about\nsomething? Take a seat.	นายไม่ได้อยากคุย\nเรื่องอะไรสักอย่างเหรอ นั่งก่อนสิ
+P0401-0304	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Didn't you wanna talk about something?\nTake a seat.	นายไม่ได้อยากคุยเรื่องอะไรเหรอ?\nนั่งก่อนสิ
+P0401-0305	พากย์ · speech_list_judge_main_c04	Hoshino (ช)		We've had so many new clients lately.\nWe don't have the manpower to deal with them all!	ช่วงนี้ลูกความใหม่เข้ามาเยอะ มากเลยครับ\nคนไม่พอรับมือเลยจริงๆ!
+P0401-0306	พากย์ · speech_list_judge_main_c04	Hoshino (ช)	[อีกแทร็ก]	We've had so many new clients lately.\nWe don't have the manpower to deal with this!	ช่วงนี้ลูกความใหม่เข้ามาเยอะมาก\nคนไม่พอรับมือเรื่องนี้เลยครับ!
+P0401-0307	พากย์ · speech_list_judge_main_c04	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Uh-huh.	ใช่เลย
+P0401-0308	พากย์ · speech_list_judge_main_c04	? (ช)		Though that was almost entirely\nbecause of you, Yagami-san.	แต่ก็เกือบทั้งหมดต้องยกความดี\nให้คุณนะครับ ยากามิซัง
+P0401-0309	พากย์ · speech_list_judge_main_c04	? (ช)		Either way, Shintani's reputation\nhas really skyrocketed.	ยังไงก็ตาม ชื่อเสียงของชินทานิ\nพุ่งขึ้นไปไกลจริงๆ
+P0401-0310	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Either way, Shintani-sensei's reputation\nhas skyrocketed since then.	ยังไงก็ตาม ชื่อเสียงของอาจารย์ชินทานิ\nพุ่งขึ้นไปไกลตั้งแต่นั้นมา
+P0401-0311	พากย์ · speech_list_judge_main_c04	Kaito (ช)		Higashi was in the office\nwhen the shooting happened.	ฮิงาชิอยู่ในสำนักงาน\nตอนที่เกิดเหตุยิงพอดี
+P0401-0312	พากย์ · speech_list_judge_main_c04	? (ช)		Probably wouldn't hurt to swing\nby the arcade and get the scoop.	แวะไปที่ร้านเกมเพื่อถามข่าว\nดูก็คงไม่เสียหายอะไร
+P0401-0313	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	If you want my opinion, it couldn't hurt\nto swing by the arcade.	ถ้าจะให้ออกความเห็น แวะไปที่ร้านเกม\nดูก็ไม่น่าจะเสียหายอะไร
+P0401-0314	พากย์ · speech_list_judge_main_c04	kisei_police (ช)		Move along!\nNothing to see here!	เดินต่อไป!\nไม่มีอะไรให้ดูแล้ว!
+P0401-0315	พากย์ · speech_list_judge_main_c04	kisei_police (ช)	[อีกแทร็ก]	Nothing to see here!\nCome on, keep moving! Keep moving!	ไม่มีอะไรให้ดูแล้ว!\nเดินต่อไปเร็ว! เดินต่อไป!
+P0401-0316	พากย์ · speech_list_judge_main_c04	Saori (ญ)		I heard someone got shot at\nthe Matsugane Family Office last night.	ได้ยินว่ามีคนถูกยิงที่\nสำนักงานตระกูลมัตสึกาเนะเมื่อคืนนี้
+P0401-0317	พากย์ · speech_list_judge_main_c04	? (ญ)		Was it someone you knew?	เป็นคนที่คุณรู้จักหรือเปล่า?
+P0401-0318	พากย์ · speech_list_judge_main_c04	? (ญ)	[อีกแทร็ก]	Was it someone you knew, Yagami-san?	เป็นคนที่คุณรู้จักหรือเปล่า ยากามิซัง?
+P0401-0319	พากย์ · speech_list_judge_main_c04	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Nope. Not at all.	เปล่า ไม่ได้เป็นห่วงเลย
+P0401-0320	พากย์ · speech_list_judge_main_c04	? (ญ)	[อีกแทร็ก]	No, not especially.	เปล่า ไม่ได้เป็นห่วงเป็นพิเศษหรอกค่ะ
+P0401-0321	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[ใช้ร่วม]	Hey.	นี่
+P0401-0322	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Yup.	ใช่
+P0401-0323	พากย์ · speech_list_judge_main_c04	? (ช)		Nah, just a name I'd heard.	เปล่า แค่เคยได้ยินชื่อผ่านๆ
+P0401-0324	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	No, nobody I'd met.	เปล่าครับ ไม่เคยเจอตัวจริง
+P0401-0325	พากย์ · speech_list_judge_main_c04	? (ช)		Wait, were you actually worried about me?	เดี๋ยวนะ คุณเป็นห่วงผมจริงๆ เหรอ?
+P0401-0326	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Wait. Were you worried about me?	เดี๋ยวก่อน คุณเป็นห่วงผมเหรอ?
+P0401-0327	พากย์ · speech_list_judge_main_c04	? (ช)	[ใช้ร่วม]	Great.	เยี่ยมเลย
+P0401-0328	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Oh. Okay.	อ๋อ โอเค
+P0401-0329	พากย์ · speech_list_judge_main_c04	? (ช)		You think it's 'cause\nShintani won that case?	คิดว่าเป็นเพราะ\nชินทานิชนะคดีนั้นหรือเปล่า?
+P0401-0330	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Lucky you. Think it's 'cause\nShintani won that case?	โชคดีนะครับ คิดว่าเป็นเพราะ\nชินทานิชนะคดีนั้นหรือเปล่า?
+P0401-0331	พากย์ · speech_list_judge_main_c04	? (ช)		Oh... Sorry about that.	อ้อ...ขอโทษด้วยนะครับ
+P0401-0332	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yeah, sorry about that.	ครับ ขอโทษด้วยนะ
+P0401-0333	พากย์ · speech_list_judge_main_c04	? (ช)		I'm good. He's a little\npreoccupied now anyway.	ผมสบายดีครับ ยังไงตอนนี้เขาก็\nมีเรื่องให้วุ่นอยู่แล้วด้วย
+P0401-0334	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yeah. He's a little preoccupied\nat the moment, anyway.	ครับ ยังไงตอนนี้เขาก็\nมีเรื่องให้วุ่นอยู่แล้ว
+P0401-0335	พากย์ · speech_list_judge_main_c04	? (ช)		There was a shooting\nat the Matsugane Family office.	มีเหตุยิงกันเกิดขึ้น\nที่สำนักงานตระกูลมัตสึกาเนะ
+P0401-0336	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Last night, someone got shot\noutside the Matsugane office.	เมื่อคืนมีคนถูกยิง\nนอกสำนักงานมัตสึกาเนะ
+P0401-0337	พากย์ · speech_list_judge_main_c04	? (ช)		(This place is a mess.\nMakes sense after the shooting last night...)	(ที่นี่วุ่นวายไปหมด\nก็สมเหตุสมผลนะ หลังจากเหตุยิงเมื่อคืน...)
+P0401-0338	พากย์ · speech_list_judge_main_c04	? (ช)		(I wonder what Hoshino-kun was talking about.\nOnly one way to find out.)	(สงสัยจังว่าโฮชิโนะคุงพูดถึง เรื่องอะไร\nมีทางเดียวที่จะรู้ได้)
+P0401-0339	พากย์ · speech_list_judge_main_c04	Yagami (ช)		Just here to chat.	แค่มาคุยด้วยน่ะ
+P0401-0340	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	Just came to chat.	แค่มาคุยด้วยเฉยๆ
+P0401-0341	พากย์ · speech_list_judge_main_c04	seiya_girl (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	What?	อะไรนะ?
+P0401-0342	พากย์ · speech_list_judge_main_c04	? (ช)		You mean 'cause of the shooting?	หมายถึงเพราะเหตุยิงนั้นเหรอ?
+P0401-0343	พากย์ · speech_list_judge_main_c04	Higashi (ช)		Got that right.\nThe office is crawling with cops.	ใช่เลยล่ะ\nสำนักงานตอนนี้เต็มไปด้วยตำรวจ
+P0401-0344	พากย์ · speech_list_judge_main_c04	Higashi (ช)	[อีกแทร็ก]	Yeah. The office is crawling with cops.	ใช่ครับ สำนักงานเต็มไปด้วยตำรวจเลย
+P0401-0345	พากย์ · speech_list_judge_main_c04	? (ช)		Gonna head over there myself\nonce I'm done with this.	เดี๋ยวผมจะไปที่นั่นเองด้วย\nพอจัดการเรื่องนี้เสร็จ
+P0401-0346	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Gonna head over there myself\nin a bit.	เดี๋ยวผมจะไปที่นั่นเอง\nอีกสักครู่
+P0401-0347	พากย์ · speech_list_judge_main_c04	? (ช)		Gotta shore up the defensive line.	ต้องเสริมแนวป้องกันให้แน่นหนา
+P0401-0348	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Gotta shore up defenses.	ต้องเสริมการป้องกันให้แน่นหนา
+P0401-0349	พากย์ · speech_list_judge_main_c04	? (ช)		The whole family's on duty\nfor this shit.	ทั้งตระกูลต้องเข้าเวร\nเพราะเรื่องบ้านี่กันหมด
+P0401-0350	พากย์ · speech_list_judge_main_c04	? (ช)		It's obvious. Their second-in-command's\nin town and ready for war.	ก็ชัดเจนอยู่แล้ว มือขวาของพวกมัน\nเข้ามาในเมืองแล้ว พร้อมรบเต็มที่
+P0401-0351	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Because their number two just got into Kamurocho,\nand he's ready for war.	เพราะเบอร์สองของพวกมันเพิ่ง มาถึงคามุโรโจ\nและพร้อมรบเต็มที่แล้ว
+P0401-0352	พากย์ · speech_list_judge_main_c04	? (ช)		Took the train up from Kansai\nand everything.	นั่งรถไฟขึ้นมาจากคันไซ\nมาเลยด้วยซ้ำ
+P0401-0353	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	He's here all the way from Kansai.	เดินทางมาไกลจากคันไซเลยนะเนี่ย
+P0401-0354	พากย์ · speech_list_judge_main_c04	? (ช)		Name's Satoshi Shioya. The guy's a natural born fighter,\nand soon enough, he'll be chairman.	ชื่อซาโตชิ ชิโอยะ\nนักสู้พันธุ์แท้ อีกไม่นานคงได้ขึ้นเป็นประธานแน่
+P0401-0355	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Satoshi Shioya, clan captain of the Kyorei.\nThe guy's a bruiser, and one day he'll be chairman.	ซาโตชิ ชิโอยะ กัปตันตระกูลเคียวเรอิ\nตัวเถื่อนพันธุ์แท้ วันหนึ่งคงได้ขึ้นเป็นประธาน
+P0401-0356	พากย์ · speech_list_judge_main_c04	? (ช)		No doubt. Though he was targeting Hamura,\nnot Kurimoto.	ไม่ต้องสงสัยเลย แต่เป้าหมายจริง ๆ ของเขา\nคือฮามุระ ไม่ใช่คุริโมโตะ
+P0401-0357	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	No doubt. Though I'm thinking Shioya's\nreal target... was Captain Hamura.	ไม่ต้องสงสัยเลย แต่ฉันว่าเป้าหมายจริง ๆ\nของชิโอยะ... คือกัปตันฮามุระ
+P0401-0358	พากย์ · speech_list_judge_main_c04	? (ช)		Take a look at this. It's a shot of Kurimoto\nright after the shooting.	ดูนี่สิ นี่คือภาพของคุริโมโตะ\nทันทีหลังโดนยิง
+P0401-0359	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Take a look at this.\nThis is Kurimoto right after the shooting.	ดูนี่สิ\nนี่คือคุริโมโตะทันทีหลังโดนยิง
+P0401-0360	พากย์ · speech_list_judge_main_c04	? (ช)		Man got bullets through both eyes. But that's not\nwhat I wanna show you. Look at his clothes.	โดนยิงทะลุตาทั้งสองข้าง แต่ไม่ใช่สิ่งที่ฉัน\nอยากให้ดูหรอกนะ ดูเสื้อผ้าเขาสิ
+P0401-0361	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Man got a bullet through both eyes.\nBut that's not the point. Look at his clothes.	โดนยิงทะลุตาทั้งสองข้าง\nแต่นั่นไม่ใช่ประเด็น ดูเสื้อผ้าเขาสิ
+P0401-0362	พากย์ · speech_list_judge_main_c04	? (ช)		The captain was wearing\nthe same jacket yesterday.	เมื่อวานกัปตันใส่แจ็คเก็ต\nตัวเดียวกันเป๊ะ
+P0401-0363	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yesterday, the captain was wearing\na jacket just like his.	เมื่อวานกัปตันใส่แจ็คเก็ต\nแบบเดียวกับตัวนี้เลย
+P0401-0364	พากย์ · speech_list_judge_main_c04	? (ช)		They're about the same age,\nand they look the same from behind, too.	อายุก็ใกล้เคียงกัน\nมองจากด้านหลังก็คล้ายกันด้วย
+P0401-0365	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	They're about the same age,\nsame kinda build...	อายุก็ใกล้เคียงกัน\nรูปร่างก็ใกล้เคียงกันอีก...
+P0401-0366	พากย์ · speech_list_judge_main_c04	? (ช)		Safe to say the captain knows\nwho they were really after.	พูดได้เลยว่ากัปตันรู้ตัวดี\nว่าใครคือเป้าหมายจริง ๆ
+P0401-0367	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	The cap's already figured it out.\nHe was the real target.	กัปตันคงรู้ตัวแล้วล่ะ\nว่าตัวเองคือเป้าหมายจริง ๆ
+P0401-0368	พากย์ · speech_list_judge_main_c04	? (ช)		You don't look very worried.	นายดูไม่ค่อยเป็นห่วงเลยนะ
+P0401-0369	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	What, you think this shit\ndoesn't affect you?	ไง คิดว่าเรื่องบ้านี่\nไม่เกี่ยวกับนายรึไง?
+P0401-0370	พากย์ · speech_list_judge_main_c04	? (ช)		If the Kyorei are gunning for Captain Hamura, why wouldn't\nthey go for the guys who set him free, too?	ถ้าตระกูลเคียวเรอิเล็งเป้า กัปตันฮามุระ แล้วทำไมจะไม่ไล่ล่าคน\nที่ช่วยให้เขาพ้นผิดด้วยล่ะ?
+P0401-0371	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	If the captain's on the Kyorei shitlist, why wouldn't they\ngo for the guys who set him free? Think about it.	ถ้ากัปตันติดบัญชีดำของเคียวเรอิ แล้วทำไมพวกเขาจะไม่ไล่ล่าคน\nที่ช่วยให้เขาพ้นผิดด้วยล่ะ ลองคิดดูสิ
+P0401-0372	พากย์ · speech_list_judge_main_c04	? (ช)		Nah. If anything,\nShintani's the one who should worry.	เปล่าหรอก ถ้าจะพูดถึงคนที่ควรกลัว\nก็ต้องเป็นชินทานินั่นแหละ
+P0401-0373	พากย์ · speech_list_judge_main_c04	? (ช)		After all, he was Hamura's lawyer.	ยังไงซะเขาก็เป็นทนายของฮามุระ
+P0401-0374	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	After all, he was the actual defense\nin that case.	ยังไงซะเขาก็เป็นทนายฝ่ายจำเลย\nตัวจริงในคดีนั้น
+P0401-0375	พากย์ · speech_list_judge_main_c04	? (ช)		He won't stand a chance\nwith yakuza gunning for him.	ถ้ายากูซ่าเล่นงานเข้าจริง\nเขาไม่มีทางสู้ได้หรอก
+P0401-0376	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	A civvie won't stand a chance if\nthe yakuza are gunning for him.	คนธรรมดาไม่มีทางสู้ได้หรอก\nถ้าโดนยากูซ่าเล่นงาน
+P0401-0377	พากย์ · speech_list_judge_main_c04	? (ช)		If I were you,\nI'd at least give him a heads up.	ถ้าเป็นนาย\nฉันคงไปเตือนเขาไว้ก่อนนะ
+P0401-0378	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	If you can get ahold of Shintani,\nyou should probably give him a heads-up.	ถ้านายติดต่อชินทานิได้\nน่าจะไปเตือนเขาไว้ก่อนดีกว่า
+P0401-0379	พากย์ · speech_list_judge_main_c04	Yagami (ช)		Sounds like the family's\na mess right now.	ฟังดูเหมือนตระกูลกำลัง\nวุ่นวายหนักเลยตอนนี้
+P0401-0380	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	Sounds like the Matsugane Family's\na mess right now.	ฟังดูเหมือนตระกูลมัตสึกาเนะกำลัง\nวุ่นวายหนักเลยตอนนี้
+P0401-0381	พากย์ · speech_list_judge_main_c04	? (ช)		Right. I'm just wondering...\nWhy'd the Kyorei decide to come after you now?	ครับ ผมแค่สงสัยว่า...\nทำไมเคียวเรอิถึงเลือกมาป่วน ตอนนี้พอดี?
+P0401-0382	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Makes sense. I gotta wonder...\nWhy are the Kyorei so worked up all of a sudden?	ก็มีเหตุผลอยู่ ผมแค่สงสัยว่า...\nทำไมเคียวเรอิถึงฮึกเหิมขึ้นมา ทันทีแบบนี้?
+P0401-0383	พากย์ · speech_list_judge_main_c04	? (ช)		They've been pretty quiet.	ช่วงที่ผ่านมาพวกมันเงียบมาตลอด
+P0401-0384	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	They've been pretty quiet\nup until now.	พวกมันเงียบมาตลอด\nจนกระทั่งตอนนี้
+P0401-0385	พากย์ · speech_list_judge_main_c04	? (ช)		Who is this guy?	คนนี้ใครกัน?
+P0401-0386	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Number two?	มือขวาเหรอ?
+P0401-0387	พากย์ · speech_list_judge_main_c04	? (ช)		And he's the one who ordered the shooting?	แล้วคนนี้แหละที่สั่งให้มีการยิงเหรอ?
+P0401-0388	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So, he's the one who\nordered the shooting?	แปลว่าคนนี้แหละ\nที่สั่งให้ยิงงั้นเหรอ?
+P0401-0389	พากย์ · speech_list_judge_main_c04	? (ช)	[ใช้ร่วม]	What makes you say that?	ทำไมถึงพูดงั้นล่ะ?
+P0401-0390	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Hm? What makes you say that?	หืม? ทำไมถึงพูดงั้นล่ะ?
+P0401-0391	พากย์ · speech_list_judge_main_c04	? (ช)		Tough to look at.	ดูแล้วหดหู่
+P0401-0392	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Ugh. Gruesome.	อื้อ... โหดจริง
+P0401-0393	พากย์ · speech_list_judge_main_c04	? (ช)		His clothes?\nWhat about them?	เสื้อผ้าเขา?\nมีอะไรกับมันเหรอ?
+P0401-0394	พากย์ · speech_list_judge_main_c04	Kaito (ช)	[ใช้ร่วม]	Wait...	เดี๋ยวก่อน...
+P0401-0395	พากย์ · speech_list_judge_main_c04	? (ช)		<color=ｍonologue>(So the Kyorei attack was meant\nfor Hamura specifically, not the Tojo Clan?)</color>	<color=ｍonologue>(แปลว่าการโจมตีของตระกูลเคียวเรอิ\nมีเป้าหมายที่ฮามุระโดยเฉพาะ ไม่ใช่ตระกูลโทโจ?)</color>
+P0401-0396	พากย์ · speech_list_judge_main_c04	? (ช)		Explains why he went into\nhiding so quick.	นี่เองที่ทำให้เขา\nต้องรีบหลบซ่อนตัว
+P0401-0397	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I get it... Explains why he went\ninto hiding so quick.	เข้าใจแล้ว... นี่เองที่ทำให้เขา\nต้องรีบหลบซ่อนตัว
+P0401-0398	พากย์ · speech_list_judge_main_c04	? (ช)		Heh. Funny how this all worked out.	ฮึ ตลกดีนะที่มันจบลงแบบนี้
+P0401-0399	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Funny how things work out, huh?	ตลกดีเนอะที่มันออกมาแบบนี้
+P0401-0400	พากย์ · speech_list_judge_main_c04	? (ช)		What, you think they're coming for me?	อะไรนะ คิดว่าพวกเขาจะมาเล่นงานผมด้วยเหรอ?
+P0401-0401	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You think they'll come for me next?	คิดว่าคราวหน้าพวกเขาจะมา เล่นงานผมเหรอ?
+P0401-0402	พากย์ · speech_list_judge_main_c04	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Right.	ใช่
+P0401-0403	พากย์ · speech_list_judge_main_c04	Higashi (ช)		We're done with the 20 questions, yeah?\nI gotta head over to the office soon.	หมดเวลาซักถามกันหรือยัง\nกูต้องรีบไปที่สำนักงานแล้วนะ
+P0401-0404	พากย์ · speech_list_judge_main_c04	Higashi (ช)	[อีกแทร็ก]	We done here? Whole family's meeting at the office.\nI don't wanna be late.	จบกันหรือยัง ทั้งตระกูลนัดเจอกันที่สำนักงาน\nกูไม่อยากไปสาย
+P0401-0405	พากย์ · speech_list_judge_main_c04	Kasai (ช)		How's my favorite know-it-all doin'?\nGood?	ไอ้จอมรู้ดีคนโปรดของกู เป็นไงบ้างวะ\nสบายดีป่ะ?
+P0401-0406	พากย์ · speech_list_judge_main_c04	Kasai (ช)	[อีกแทร็ก]	How's my favorite little know-it-all?\nYou been doin' good?	ไอ้จอมรู้ดีตัวน้อยคนโปรดของกู\nสบายดีป่ะเมื่อไหร่นี้?
+P0401-0407	พากย์ · speech_list_judge_main_c04	? (ช)		Kasai.\nY'know, from the Keihin Gang.	คาไซ\nรู้จักนะ จากแก๊งเคฮิน
+P0401-0408	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Kasai, from the Keihin Gang.\nI've been thinking about what you did.	คาไซ จากแก๊งเคฮิน\nกูคิดถึงเรื่องที่มึงทำอยู่นะ
+P0401-0409	พากย์ · speech_list_judge_main_c04	? (ช)		If you wanna see your friend alive again,\nget your ass over here!	ถ้าอยากเห็นเพื่อนมึงยังหายใจอยู่\nรีบมาซะดี ๆ!
+P0401-0410	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You wanna see your friend alive again,\nget your ass over here. <font_kind=yakuza_italic>Now</font_kind>!	อยากเห็นเพื่อนมึงยังหายใจอยู่\nก็รีบมาซะ <font_kind=yakuza_italic>เดี๋ยวนี้</font_kind>!
+P0401-0411	พากย์ · speech_list_judge_main_c04	Keihin (ช)		Shut yer mouth!	หุบปากซะ!
+P0401-0412	พากย์ · speech_list_judge_main_c04	Kim (ช)		Yagami-san, do not listen to him!	ยากามิซัง อย่าฟังมันนะ!
+P0401-0413	พากย์ · speech_list_judge_main_c04	Kim (ช)	[อีกแทร็ก]	Yagami-san, don't listen to him!	ยากามิซัง อย่าไปฟังมันเลย!
+P0401-0414	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[ใช้ร่วม]	Kim-san?	คิมซัง?
+P0401-0415	พากย์ · speech_list_judge_main_c04	? (ช)		Who is this?	นี่ใคร
+P0401-0416	พากย์ · speech_list_judge_main_c04	? (ช)		And you're calling me... why?	แล้วโทรมาหาผมทำไม...?
+P0401-0417	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	And you're calling me because...?	แล้วนี่โทรมาเพราะอะไรกันแน่...?
+P0401-0418	พากย์ · speech_list_judge_main_c04	? (ช)	[ใช้ร่วม]	Kim-san? You okay?	คิมซัง? โอเคไหมครับ?
+P0401-0419	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Kim-san? Everything okay?	คิมซัง? เป็นอะไรรึเปล่า?
+P0401-0420	พากย์ · speech_list_judge_main_c04	? (ช)		That bastard...	ไอ้เวรนั่น...
+P0401-0421	พากย์ · speech_list_judge_main_c04	? (ช)		(Shintani's gonna have to wait.\nI need to go save Kim-san!)	(ชินทานิคงต้องรอไปก่อน\nตอนนี้ต้องรีบไปช่วยคิมซัง!)
+P0401-0422	พากย์ · speech_list_judge_main_c04	Honda (ช)		So this is our guy, huh?	นี่แหละเหรอไอ้หมอนี่ที่ว่า?
+P0401-0423	พากย์ · speech_list_judge_main_c04	Honda (ช)	[อีกแทร็ก]	So this is Yagami-san, huh?	นี่แหละเหรอยากามิซัง?
+P0401-0424	พากย์ · speech_list_judge_main_c04	? (ช)		I've heard a lot about you, Yagami-san.\nRumor has it you're a skilled little skullbuster.	ได้ยินเรื่องนายมาเยอะเลยนะ ยากามิซัง\nลือกันว่านายเป็นนักฟาดหัวฝีมือดี
+P0401-0425	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yagami-san! I've heard a lot about you.\nRumor has it you're a skilled little skullbuster.	ยากามิซัง! ได้ยินเรื่องนายมาเยอะเลย\nลือกันว่านายเป็นนักฟาดหัวฝีมือดี
+P0401-0426	พากย์ · speech_list_judge_main_c04	? (ช)		The name's Honda. Renji Honda,\nfrom the Keihin Gang. Pleased to meet ya.	ชื่อฮอนดะ เรนจิ ฮอนดะ\nจากแก๊งเคฮิน ยินดีที่ได้รู้จักนะ
+P0401-0427	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	The name's Honda. Renji Honda, from the\nKeihin Gang. Pleased to meet ya.	ชื่อฮอนดะ เรนจิ ฮอนดะ จาก\nแก๊งเคฮิน ยินดีที่ได้รู้จักนะ
+P0401-0428	พากย์ · speech_list_judge_main_c04	? (ช)		Help you?	ช่วยมึงเนี่ยนะ?
+P0401-0429	พากย์ · speech_list_judge_main_c04	? (ช)		I was lookin' forward to this fight.\nNot gonna waste it by just dogpilin' the guy.	ฉันรอคอยไฟต์นี้มานานแล้ว\nจะไม่ปล่อยให้เสียของด้วยการรุม มันหรอกนะ
+P0401-0430	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I was lookin' forward to this fight.\nIt'd be a waste to dogpile the guy.	ฉันรอคอยไฟต์นี้มานานแล้ว\nจะรุมมันก็เสียของเปล่า ๆ
+P0401-0431	พากย์ · speech_list_judge_main_c04	? (ช)		...Be glad to give you a taste\ntoo if you disagree.	...ถ้าใครไม่เห็นด้วย\nยินดีให้ลองชิมด้วยอีกคนนะ
+P0401-0432	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	...If you don't like it,\nI can give you a taste too.	...ถ้าใครไม่ชอบใจ\nฉันให้ลองชิมด้วยได้เหมือนกัน
+P0401-0433	พากย์ · speech_list_judge_main_c04	? (ช)		Just wanna fight you, that's all.	แค่อยากสู้กับนายเฉย ๆ แหละ
+P0401-0434	พากย์ · speech_list_judge_main_c04	? (ช)		That's the whole reason I joined the Keihin.\nLockin' fists with tough bastards like you.	นั่นแหละคือเหตุผลที่ฉันเข้าแก๊งเคฮิน\nได้ประลองหมัดกับพวกโหดอย่างนาย
+P0401-0435	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Whole reason I joined up was to\nlock fists with tough guys like you.	เหตุผลที่ฉันเข้าแก๊งนี้ก็เพื่อ\nได้ประลองหมัดกับพวกโหดอย่างนาย
+P0401-0436	พากย์ · speech_list_judge_main_c04	? (ช)		So c'mon, let's tango.	งั้นมาสิ ลุยกันเลย
+P0401-0437	พากย์ · speech_list_judge_main_c04	? (ช)		Fighting's the only thing that keeps the world\nspinning, Yagami-san. I know you agree.	การต่อสู้เท่านั้นแหละที่ทำให้โลกนี้\nยังหมุนต่อไปได้ ยากามิซัง นายก็รู้ดีใช่ไหม
+P0401-0438	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Come on, Yagami-san. You and I know fighting's\nthe only thing that keeps the world spinnin'. Right?	ไม่เอาน่า ยากามิซัง ทั้งนายและฉันก็รู้ดีว่าการต่อสู้\nเท่านั้นแหละที่ทำให้โลกนี้หมุน ต่อไปได้ ใช่ไหมล่ะ?
+P0401-0439	พากย์ · speech_list_judge_main_c04	? (ช)		Now enough talk.\nI'm ready for some fun!	พอพูดเถอะ\nฉันพร้อมสนุกแล้ว!
+P0401-0440	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Now, that's enough talking.\nI'm ready for some fun!	พอพูดกันได้แล้ว\nฉันพร้อมสนุกแล้ว!
+P0401-0441	พากย์ · speech_list_judge_main_c04	Kasai (ช)		Heh. I forgot how much you\npiss me off, know-it-all.	ฮึ ลืมไปเลยว่ามึงกวนตีนกู\nได้ขนาดไหน ไอ้จอมรู้ดี
+P0401-0442	พากย์ · speech_list_judge_main_c04	Kasai (ช)	[อีกแทร็ก]	I forgot how much you\npiss me off, know-it-all.	ลืมไปเลยว่ามึงกวนตีนกู\nได้ขนาดไหน ไอ้จอมรู้ดี
+P0401-0443	พากย์ · speech_list_judge_main_c04	? (ช)	[ใช้ร่วม]	What was that!?	ว่าไงนะ!?
+P0401-0444	พากย์ · speech_list_judge_main_c04	? (ช)		Honda! Shut up and help us\nkick his ass already!	ฮอนดะ! หุบปากแล้วมาช่วยกัน\nถล่มมันซะทีสิวะ!
+P0401-0445	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Honda! Shut up so we can\nkick his ass already!	ฮอนดะ! หุบปากไปเลยจะได้\nถล่มมันซะทีวะ!
+P0401-0446	พากย์ · speech_list_judge_main_c04	? (ช)		C'mon, boys!	ลุยเลยพวกเรา!
+P0401-0447	พากย์ · speech_list_judge_main_c04	? (ช)		Dude, Honda... What the fuck?	เฮ้ย ฮอนดะ... มึงบ้าไปแล้วเหรอ?
+P0401-0448	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	H-Honda... Why...?	ฮ-ฮอนดะ... ทำไมวะ...?
+P0401-0449	พากย์ · speech_list_judge_main_c04	Keihin (ช)		What the hell're you doing!?	มึงทำบ้าอะไรของมึงวะ!?
+P0401-0450	พากย์ · speech_list_judge_main_c04	Keihin (ช)	[อีกแทร็ก]	H-Hey, what the hell're you doing!?	เ-เฮ้ย มึงทำบ้าอะไรของมึงวะ!?
+P0401-0451	พากย์ · speech_list_judge_main_c04	Kim (ช)		Yagami-san... I'm so sorry.	ยากามิซัง... ผมขอโทษจริง ๆ ครับ
+P0401-0452	พากย์ · speech_list_judge_main_c04	Kim (ช)	[อีกแทร็ก]	Yagami-san... I'm sorry.	ยากามิซัง... ผมขอโทษครับ
+P0401-0453	พากย์ · speech_list_judge_main_c04	Yagami (ช)		Kim-san!	คิมซัง!
+P0401-0454	พากย์ · speech_list_judge_main_c04	? (ช)		And I forgot how dumb you look,\nso we might as well call it even.	แล้วผมก็ลืมไปเลยว่าหน้าตานาย มันโง่แค่ไหน\nงั้นถือว่าเราเสมอกันละกัน
+P0401-0455	พากย์ · speech_list_judge_main_c04	? (ช)		Uh, thanks?	เอ่อ ขอบคุณนะ?
+P0401-0456	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Well, thank you.	เอ่อ ขอบคุณล่ะกัน
+P0401-0457	พากย์ · speech_list_judge_main_c04	? (ช)		Hey, what's your deal?	เฮ้ นายมีปัญหาอะไรกันแน่?
+P0401-0458	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Hey. What's your deal, man?	เฮ้ นายมีปัญหาอะไรกันแน่เนี่ย?
+P0401-0459	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	...Huh?	...เอ๊ะ?
+P0401-0460	พากย์ · speech_list_judge_main_c04	? (ช)		Sorry, but I really don't\nhave time for this.	ขอโทษนะ แต่ผมไม่ค่อยมีเวลา\nมาเล่นแบบนี้หรอก
+P0401-0461	พากย์ · speech_list_judge_main_c04	Honda (ช)		Hahahaha, you're even beefier than\nI'd heard! This is freakin' great!	ฮ่าฮ่าฮ่า นายตัวใหญ่กว่าที่ได้ยินมาอีก!\nเจ๋งเป้งเลยว่ะ!
+P0401-0462	พากย์ · speech_list_judge_main_c04	Honda (ช)	[อีกแทร็ก]	Haha! You're even beefier than I'd heard!\nThis is freakin' great!	ฮ่าฮ่า! นายตัวใหญ่กว่าที่ได้ยินมาอีก!\nเจ๋งเป้งเลยว่ะ!
+P0401-0463	พากย์ · speech_list_judge_main_c04	? (ช)		Oh yeah? Looked like you were havin' fun to me.\nYou're a natural-born fistflinger!	งั้นเหรอ? ดูจากที่นายสู้ก็สนุกจะตายนี่\nนายมันนักชกโดยกำเนิดชัด ๆ!
+P0401-0464	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Oh yeah? Looked like you were havin' fun to me.\nYou're a natural-born warrior!	งั้นเหรอ? ดูจากที่นายสู้ก็สนุกจะตายนี่\nนายมันนักรบโดยกำเนิดชัด ๆ!
+P0401-0465	พากย์ · speech_list_judge_main_c04	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	But...	แต่...
+P0401-0466	พากย์ · speech_list_judge_main_c04	? (ช)		I think we're done here.	ผมว่าจบแค่นี้พอแล้วนะ
+P0401-0467	พากย์ · speech_list_judge_main_c04	? (ช)		Random bystander phoned the coppers on us.\nThey'll be here any second.	มีคนแถวนี้โทรแจ้งตำรวจแล้ว\nอีกไม่กี่วิก็มาถึงแน่
+P0401-0468	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Random bystander snitched on us.\nCops'll be here any second.	มีคนแถวนี้ไปฟ้องตำรวจแล้ว\nอีกไม่กี่วิก็มาถึงแน่
+P0401-0469	พากย์ · speech_list_judge_main_c04	? (ช)		...Go.	...ไปเถอะ
+P0401-0470	พากย์ · speech_list_judge_main_c04	? (ช)		Heh. Can't exactly fight you\nif you're rotting away behind bars.	ฮึ คงสู้กับนายไม่ได้แล้วละ\nถ้านายต้องไปนอนซังเตอยู่หลังลูกกรง
+P0401-0471	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Heh. Can't exactly fight you\nif you're rotting away behind bars!	ฮึ คงสู้กับนายไม่ได้แล้วละ\nถ้านายต้องไปนอนซังเตอยู่หลังลูกกรงนะ!
+P0401-0472	พากย์ · speech_list_judge_main_c04	? (ช)		Hey, that was a real hoot!\nLet's do it again sometime, Yagami-san!	เฮ้ สนุกจริง ๆ เลยว่ะ!\nไว้มาลุยกันใหม่นะ ยากามิซัง!
+P0401-0473	พากย์ · speech_list_judge_main_c04	Kim (ช)		Let's go, Yagami-san! Hurry!	ไปกันเถอะ ยากามิซัง! รีบหน่อย!
+P0401-0474	พากย์ · speech_list_judge_main_c04	Kim (ช)	[อีกแทร็ก]	Yagami-san! We need to go, now!	ยากามิซัง! ต้องไปเดี๋ยวนี้เลย!
+P0401-0475	พากย์ · speech_list_judge_main_c04	Yagami (ช)		I'm not too big on fighting\nfor no reason, though.	แต่ผมไม่ค่อยชอบสู้\nแบบไม่มีเหตุผลเท่าไหร่หรอกนะ
+P0401-0476	พากย์ · speech_list_judge_main_c04	? (ช)		What about your fight? I thought that's\nwhat keeps the world spinning.	แล้วการต่อสู้ของนายล่ะ? นึกว่านายบอกว่ามัน\nทำให้โลกหมุนต่อไปได้ซะอีก
+P0401-0477	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I thought fighting was the only thing\nkeeping the world spinning.	นึกว่าการต่อสู้เป็นสิ่งเดียว\nที่ทำให้โลกหมุนต่อไปได้ซะอีก
+P0401-0478	พากย์ · speech_list_judge_main_c04	? (ช)		Uh, okay.	เออ โอเค
+P0401-0479	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Uh, sure...	เอ่อ ได้สิ...
+P0401-0480	พากย์ · speech_list_judge_main_c04	Kim (ช)		Phew. We should be safe now.	เฮ้อ ตอนนี้น่าจะปลอดภัยแล้วครับ
+P0401-0481	พากย์ · speech_list_judge_main_c04	Kim (ช)	[อีกแทร็ก]	I think we should be all right now...	คิดว่าตอนนี้น่าจะปลอดภัยแล้วล่ะครับ...
+P0401-0482	พากย์ · speech_list_judge_main_c04	? (ช)		You do not know?	ไม่ทราบจริง ๆ เหรอครับ?
+P0401-0483	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You mean you don't know?	หมายความว่าไม่รู้จริง ๆ เหรอครับ?
+P0401-0484	พากย์ · speech_list_judge_main_c04	? (ช)		That was Honda.\nOne of the Keihin Four.	คนนั้นคือฮอนดะครับ\nหนึ่งในสี่เทพเคฮิน
+P0401-0485	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	That was Honda.\nI heard he's one of the Keihin Four.	คนนั้นคือฮอนดะครับ\nได้ยินว่าเป็นหนึ่งในสี่เทพเคฮิน
+P0401-0486	พากย์ · speech_list_judge_main_c04	? (ช)		It's what they call the four\nhighest ranking members of the Keihin Gang.	มันคือชื่อเรียกสี่คนที่มี ตำแหน่งสูงสุด\nในแก๊งเคฮินครับ
+P0401-0487	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yes! It's what they call the four highest\nranking members of the Keihin Gang.	ใช่ครับ! มันคือชื่อเรียกสี่คนที่มี ตำแหน่งสูงสุด\nในแก๊งเคฮิน
+P0401-0488	พากย์ · speech_list_judge_main_c04	? (ช)		Kasai, Honda, Sakakiba, and Koga.	คาไซ ฮอนดะ ซากากิบะ และโคกะครับ
+P0401-0489	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	There's Kasai and Honda.\nThen Sakakiba and Koga.	มีคาไซกับฮอนดะ\nแล้วก็ซากากิบะกับโคกะครับ
+P0401-0490	พากย์ · speech_list_judge_main_c04	? (ช)		Each of the Four has their own faction,\nand countless thugs doing their dirty work for them.	ทั้งสี่คนต่างก็มีกลุ่มของตัวเอง\nและมีลูกน้องอีกนับไม่ถ้วนคอย รับใช้ครับ
+P0401-0491	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Each of the Four has their own faction,\nand countless underlings to command.	ทั้งสี่คนต่างก็มีกลุ่มของตัวเอง\nและมีลูกน้องนับไม่ถ้วนไว้บงการครับ
+P0401-0492	พากย์ · speech_list_judge_main_c04	? (ช)		Yes, and I hear Koga's faction\nis the strongest of them all.	ใช่ครับ แล้วผมยังได้ยินมาว่ากลุ่มของโคกะ\nแข็งแกร่งที่สุดในบรรดาทั้งหมด
+P0401-0493	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	And there's more... I hear Koga's faction\nis the strongest of them all.	แล้วยังมีอีก... ผมได้ยินว่ากลุ่มของโคกะ\nแข็งแกร่งที่สุดในบรรดาทั้งหมด
+P0401-0494	พากย์ · speech_list_judge_main_c04	? (ช)		Word on the street is that they line their pockets\nselling weapons on the black market.	เขาลือกันว่าพวกเขาฟันกำไร เป็นกอบเป็นกำ\nจากการขายอาวุธในตลาดมืดครับ
+P0401-0495	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	People say they make millions, all from\nselling weapons on the black market.	คนเขาว่ากันว่าทำเงินเป็นล้าน ๆ\nจากการขายอาวุธในตลาดมืด
+P0401-0496	พากย์ · speech_list_judge_main_c04	? (ช)		Not even the yakuza are keeping up\nwith how powerful they've become.	แม้แต่ยากูซ่าเองก็ยังตามไม่ทัน\nกับอำนาจที่พวกเขามีตอนนี้ครับ
+P0401-0497	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	With that power, not even the yakuza\ncan match their might.	ด้วยอำนาจขนาดนั้น แม้แต่ยากูซ่า\nก็ยังสู้พวกเขาไม่ได้ครับ
+P0401-0498	พากย์ · speech_list_judge_main_c04	? (ช)		So sorry...	ขอโทษจริง ๆ ครับ...
+P0401-0499	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	I'm sorry...	ขอโทษนะ...
+P0401-0500	พากย์ · speech_list_judge_main_c04	? (ช)		I am afraid it's my fault\nthat they are coming after you.	ผมเกรงว่าเป็นความผิดของผม\nที่ทำให้พวกเขามาเล่นงานคุณครับ
+P0401-0501	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	If it wasn't for me... Yagami-san, you would\nnever have gotten wrapped up in this!	ถ้าไม่ใช่เพราะผม... ยากามิซังคงไม่ต้อง\nมาพัวพันกับเรื่องนี้เลยครับ!
+P0401-0502	พากย์ · speech_list_judge_main_c04	? (ช)		Please, just be careful, Yagami-san.	ได้โปรดระวังตัวด้วยนะครับ ยากามิซัง
+P0401-0503	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yagami-san... Please be careful.	ยากามิซัง... ระวังตัวด้วยนะครับ
+P0401-0504	พากย์ · speech_list_judge_main_c04	Yagami (ช)		Who was that guy, Kim-san?	คนเมื่อกี้ใครกันเหรอ คิมซัง?
+P0401-0505	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	...Kim-san, what was all that?\nWho was he?	...คิมซัง เมื่อกี้มันเรื่องอะไรกัน?\nเขาเป็นใคร?
+P0401-0506	พากย์ · speech_list_judge_main_c04	? (ช)		The... what?	สี่...อะไรนะ?
+P0401-0507	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Keihin Four?\nShould I know them?	สี่เทพเคฮินเหรอ?\nผมควรจะรู้จักพวกเขาด้วยเหรอ?
+P0401-0508	พากย์ · speech_list_judge_main_c04	? (ช)		So there are two more...	งั้นก็ยังมีอีกสองคน...
+P0401-0509	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So there's two more of those\nwhackjobs besides those guys?	งั้นนอกจากสองคนนี้ ยังมีไอ้บ้าอีก\nสองคนใช่ไหม?
+P0401-0510	พากย์ · speech_list_judge_main_c04	? (ช)		Well then let's hope this \nKoga guy stays far away from us.	งั้นก็หวังว่าไอ้โคกะคนนี้\nจะอยู่ห่าง ๆ เราไปเถอะ
+P0401-0511	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Koga, huh?\nLet's just hope he keeps his distance.	โคกะเหรอ...\nก็หวังว่าเขาจะอยู่ห่าง ๆ เราไปนะ
+P0401-0512	พากย์ · speech_list_judge_main_c04	? (ช)		It's all good.	ไม่เป็นไรหรอก
+P0401-0513	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Nah, it's fine.	ไม่ต้องห่วงหรอกน่า
+P0401-0514	พากย์ · speech_list_judge_main_c04	? (ช)		You too, Kim-san.	คิมซังก็เหมือนกันนะ
+P0401-0515	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I will. You too, Kim-san.	ผมจะระวังตัวครับ คิมซังก็เหมือนกันนะ
+P0401-0516	พากย์ · speech_list_judge_main_c04	? (ช)		(Glad that's over.\nNow for Shintani.)	(โล่งอกไปที\nต่อไปก็ต้องไปหาชินทานิ)
+P0401-0517	พากย์ · speech_list_judge_main_c04	Genda (ช)		You boys play nice, okay?  Business hasn't\nbeen booming like this for years.	เล่นกันดี ๆ นะ พวกนาย\nธุรกิจไม่ได้บูมขนาดนี้มาหลายปีแล้ว
+P0401-0518	พากย์ · speech_list_judge_main_c04	Genda (ช)	[อีกแทร็ก]	Hey, you boys play nice, okay?\nBusiness hasn't been booming like this for years.	เฮ้ เล่นกันดี ๆ นะพวกนาย\nธุรกิจไม่ได้บูมขนาดนี้มาหลายปีแล้ว
+P0401-0519	พากย์ · speech_list_judge_main_c04	Hoshino (ช)		I wonder what Shintani-sensei has to say...	ไม่รู้ว่าอาจารย์ชินทานิจะพูด อะไรเนี่ย...
+P0401-0520	พากย์ · speech_list_judge_main_c04	Hoshino (ช)	[อีกแทร็ก]	What's going on?\nShintani-sensei sounds serious...	เกิดอะไรขึ้นเนี่ย?\nอาจารย์ชินทานิเสียงจริงจังมากเลย...
+P0401-0521	พากย์ · speech_list_judge_main_c04	Saori (ญ)		If you're gonna fight, take it outside.\nDon't make Hoshino-kun clean up a mess.	จะทะเลาะกันก็ไปทะเลาะข้างนอกเถอะ\nอย่าให้โฮชิโนะคุงต้องมาตามเก็บกวาดนะ
+P0401-0522	พากย์ · speech_list_judge_main_c04	Saori (ญ)	[อีกแทร็ก]	Take it outside if you're going to fight.\nI'd feel bad if Hoshino-kun had to clean up your mess.	จะสู้กันก็ไปสู้ข้างนอกเถอะ\nฉันสงสารโฮชิโนะคุงถ้าต้องมาตาม เก็บกวาดให้
+P0401-0523	พากย์ · speech_list_judge_main_c04	? (ช)		Hmph, perfect timing.\nI've got a few words for you myself.	ฮึ่ม จังหวะกำลังดีเลย\nฉันเองก็มีเรื่องอยากพูดกับนาย เหมือนกัน
+P0401-0524	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Perfect timing. I've got a few\nwords for you myself.	จังหวะกำลังดีเลย ฉันเองก็มีเรื่อง\nอยากพูดกับนายเหมือนกัน
+P0401-0525	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[ใช้ร่วม]	Come on.	ไปกันเถอะ
+P0401-0526	พากย์ · speech_list_judge_main_c04	Yagami (ช)		You have a sec, Shintani-sensei?	อาจารย์ชินทานิ มีเวลาสักครู่ไหมครับ?
+P0401-0527	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	Shintani-sensei, you have a sec?	อาจารย์ชินทานิ ขอเวลาสักครู่ได้ไหม?
+P0401-0528	พากย์ · speech_list_judge_main_c04	? (ช)		There's something I need to\ntalk to you about.	มีเรื่องที่ผม\nอยากคุยด้วย
+P0401-0529	พากย์ · speech_list_judge_main_c04	Shintani (ช)		Sounds like Hamura's not too happy.\nWith you.	ฟังดูฮามุระไม่ค่อยพอใจเท่าไหร่นะ\nกับนายน่ะ
+P0401-0530	พากย์ · speech_list_judge_main_c04	Shintani (ช)	[อีกแทร็ก]	Sounds like Hamura's not too happy.\nSpecifically with you.	ฟังดูฮามุระไม่ค่อยพอใจเท่าไหร่\nโดยเฉพาะกับนายเลย
+P0401-0531	พากย์ · speech_list_judge_main_c04	? (ช)		He says to quit digging around.\nWe won the case. It's done.	เขาบอกให้เลิกขุดคุ้ยได้แล้ว\nเราชนะคดีไปแล้ว มันจบไปแล้ว
+P0401-0532	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	He says to quit digging around\nin a case that's already solved.	เขาบอกให้เลิกขุดคุ้ย\nคดีที่จบไปแล้วได้แล้ว
+P0401-0533	พากย์ · speech_list_judge_main_c04	? (ช)		And I've gotta say,\nI agree with him.	แล้วต้องบอกเลยว่า\nฉันเห็นด้วยกับเขานะ
+P0401-0534	พากย์ · speech_list_judge_main_c04	? (ช)		Or was my victory\nnot good enough for you?	หรือว่าชัยชนะของฉัน\nมันยังไม่ดีพอสำหรับนายรึไง?
+P0401-0535	พากย์ · speech_list_judge_main_c04	? (ช)		You heard me. I was the lawyer.\nMy victory.	ได้ยินแล้วนี่ ฉันเป็นทนาย\nมันคือชัยชนะของฉัน
+P0401-0536	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You heard me.\nI was the lawyer who won that case.	ได้ยินแล้วนี่\nฉันคือทนายที่ชนะคดีนั้น
+P0401-0537	พากย์ · speech_list_judge_main_c04	? (ช)		And thanks to that,\nwork's been just flooding in.	แล้วก็เพราะแบบนั้น\nงานเลยไหลเข้ามาไม่หยุดเลย
+P0401-0538	พากย์ · speech_list_judge_main_c04	? (ช)		It's over, Yagami.\nLet it die.	มันจบแล้ว ยากามิ\nปล่อยมันไปเถอะ
+P0401-0539	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	It's over, so just let it die.	มันจบไปแล้ว ปล่อยมันไปซะเถอะ
+P0401-0540	พากย์ · speech_list_judge_main_c04	? (ช)		This "Mole" you're dying to catch?	ไอ้ "ไอ้ตัวตุ่น" ที่นายอยากจับตัวมาให้ได้นั่นน่ะเหรอ?
+P0401-0541	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Hmph. And <font_kind=yakuza_italic>you're</font_kind> gonna catch this "Mole"?	ฮึ่ม แล้ว<font_kind=yakuza_italic>นาย</font_kind>จะไปจับไอ้ "ไอ้ตัวตุ่น" นั่นได้เองเหรอ?
+P0401-0542	พากย์ · speech_list_judge_main_c04	? (ช)		Well fuck right off! Your little detective\ngame has done enough damage!	ไปตายซะ! เกมนักสืบจอมปลอมของนาย\nสร้างความเสียหายมามากพอแล้ว!
+P0401-0543	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Time to back the fuck off!\nYou playing detective helps nobody!	ถึงเวลาที่นายต้องถอยได้แล้ว!\nนายเล่นเป็นนักสืบไม่ช่วยใครทั้งนั้น!
+P0401-0544	พากย์ · speech_list_judge_main_c04	? (ช)		Why don't you just leave this alone!?\nHuh!?	ทำไมนายไม่ยอมปล่อยเรื่องนี้ไปซะที!?\nฮะ!?
+P0401-0545	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Why won't you just leave this alone?\nHuh!?	ทำไมนายไม่ยอมปล่อยเรื่องนี้ไป?\nฮะ!?
+P0401-0546	พากย์ · speech_list_judge_main_c04	? (ช)		Hah! You talk big, but you're just a mouse,\nand Hamura's a hungry fucking cat.	ฮะ! ปากดีนักนะ แต่นายก็แค่หนูตัวหนึ่ง\nส่วนฮามุระคือแมวที่หิวโซ
+P0401-0547	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Hah! You can certainly talk a big game,\nbut all you're doing is running from him.	ฮะ! นายพูดจาเก่งจริง\nแต่สิ่งที่นายทำอยู่ก็แค่ วิ่งหนีเขาเท่านั้น
+P0401-0548	พากย์ · speech_list_judge_main_c04	? (ช)		Oh, your victory\nand yours alone, huh?	อ้อ ชัยชนะของนาย\nคนเดียวเลยสินะ?
+P0401-0549	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Your victory, huh?	ชัยชนะของนายเหรอ?
+P0401-0550	พากย์ · speech_list_judge_main_c04	? (ช)		Your work might be over,\nbut the murderer is still out there.	งานของนายอาจจะจบแล้ว\nแต่ฆาตกรตัวจริงยังลอยนวลอยู่
+P0401-0551	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Your work might be over in the courtroom,\nbut the murderer is still out there.	งานของนายในห้องพิจารณาคดีอาจจบแล้ว\nแต่ฆาตกรตัวจริงยังลอยนวลอยู่
+P0401-0552	พากย์ · speech_list_judge_main_c04	? (ช)		Hamura knows who the murderer is.\nHe hid it from us the whole trial.	ฮามุระรู้ว่าใครคือฆาตกรตัวจริง\nแล้วปิดบังเราไว้ตลอดการพิจารณาคดี
+P0401-0553	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	This whole time, Hamura's known the real murderer.\nHe hid it from us the whole trial.	ตลอดเวลาที่ผ่านมา ฮามุระรู้ตัวฆาตกรตัวจริงมาโดยตลอด\nแล้วปิดบังเราไว้ตลอดการพิจารณาคดี
+P0401-0554	พากย์ · speech_list_judge_main_c04	? (ช)		And that "innocent" verdict\nmade fools of us all.	แล้วคำตัดสิน "บริสุทธิ์" นั่น\nก็ทำให้เราทุกคนกลายเป็นตัวตลก
+P0401-0555	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	He made fools of us\nwith that verdict.	เขาทำให้เราทุกคนกลายเป็นตัวตลก\nด้วยคำตัดสินนั้น
+P0401-0556	พากย์ · speech_list_judge_main_c04	? (ช)		Maybe you're okay with that,\nbut I'm not about to give this up.	นายอาจจะรับได้กับเรื่องนั้น\nแต่ผมไม่มีทางยอมเลิกล้มหรอก
+P0401-0557	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Maybe that doesn't bother you...\nbut I'm not about to give this up.	นายอาจจะไม่รู้สึกอะไรกับมัน...\nแต่ผมไม่มีทางยอมเลิกล้มหรอก
+P0401-0558	พากย์ · speech_list_judge_main_c04	? (ช)		Funny, he's the one in hiding.	ตลกดีนะ เขาต่างหากที่ต้องหลบซ่อนตัวอยู่
+P0401-0559	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Last I heard,\nHamura's the one in hiding.	เท่าที่ได้ยินมาล่าสุด\nฮามุระต่างหากที่ต้องหลบซ่อนตัว
+P0401-0560	พากย์ · speech_list_judge_main_c04	? (ช)		The Kyorei are gunning for him.\nThat's what the shooting was about.	ตระกูลเคียวเรอิกำลังไล่ล่าเขาอยู่\nนั่นแหละคือสาเหตุของเหตุยิงกัน ครั้งนั้น
+P0401-0561	พากย์ · speech_list_judge_main_c04	Genda (ช)		Can you and Shintani at least try to get along,\nespecially in my office?	ยากามิคุงกับชินทานิพยายาม เข้ากันได้บ้างไหม\nโดยเฉพาะตอนอยู่ในสำนักงานผม?
+P0401-0562	พากย์ · speech_list_judge_main_c04	Genda (ช)	[อีกแทร็ก]	You and Shintani are always at each other's throats.\nCan't you two try to get along?	นายกับชินทานิทะเลาะกันตลอดเลย\nพยายามเข้ากันหน่อยไม่ได้เหรอ?
+P0401-0563	พากย์ · speech_list_judge_main_c04	? (ช)		Or do I need to drag you both\noutside and box your ears in?	หรือต้องให้ผมลากตัวทั้งคู่\nออกไปตบหูข้างนอกเลยดี?
+P0401-0564	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Keep a lid on it next time,\nor I might just knock you one myself.	คราวหน้าคุมอารมณ์กันหน่อย\nไม่งั้นผมอาจจะต้องซัดเองสักที
+P0401-0565	พากย์ · speech_list_judge_main_c04	Hoshino (ช)		You think Shintani-sensei knows something\nabout the Mole that he's keeping from us?	คุณว่าอาจารย์ชินทานิรู้อะไร เกี่ยวกับไอ้ตัวตุ่น\nแล้วปิดบังพวกเราอยู่รึเปล่าครับ?
+P0401-0566	พากย์ · speech_list_judge_main_c04	Hoshino (ช)	[อีกแทร็ก]	About Shintani-sensei... You think he\nknows something about the Mole?	เรื่องอาจารย์ชินทานิน่ะครับ... คุณว่าเขา\nรู้อะไรเกี่ยวกับไอ้ตัวตุ่นไหม?
+P0401-0567	พากย์ · speech_list_judge_main_c04	? (ช)		Nah, probably not.\nHe'd never shut up about it if he did.	ไม่หรอก คงไม่รู้อะไรหรอก\nถ้ารู้ป่านนี้คงพูดจนหูชาไปแล้ว
+P0401-0568	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I'm sure if he did,\nhe'd share it with us.	ถ้าเขารู้จริง ๆ\nผมว่าเขาคงบอกเราแล้วล่ะ
+P0401-0569	พากย์ · speech_list_judge_main_c04	Saori (ญ)		You know, Shintani-sensei has been talking\nto Hamura-san quite often lately.	รู้ไหมคะ ช่วงนี้อาจารย์ชินทานิ\nคุยกับฮามุระซังบ่อยเลย
+P0401-0570	พากย์ · speech_list_judge_main_c04	? (ญ)		Well... Mostly about how\nthey both hate your guts.	ก็... ส่วนใหญ่คุยกันว่า\nทั้งคู่เกลียดคุณเข้าไส้เลยค่ะ
+P0401-0571	พากย์ · speech_list_judge_main_c04	? (ญ)	[อีกแทร็ก]	Well... Mostly about how they\ncan't stand you.	ก็... ส่วนใหญ่คุยกันว่า\nทั้งคู่ทนคุณไม่ได้เลยค่ะ
+P0401-0572	พากย์ · speech_list_judge_main_c04	Yagami (ช)		About what exactly?	คุยเรื่องอะไรกันเหรอ?
+P0401-0573	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	About what?	เรื่องอะไร?
+P0401-0574	พากย์ · speech_list_judge_main_c04	? (ช)		Huh. Cool.	หืม เยี่ยมไปเลย
+P0401-0575	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Oh. Cool.	อ้อ เยี่ยมเลย
+P0401-0576	พากย์ · speech_list_judge_main_c04	Kaito (ช)		Yo, it's me.\nI'm out front of the Matsugane office.	โย่ ฉันเอง\nตอนนี้อยู่หน้าสำนักงานมัตสึกาเนะ
+P0401-0577	พากย์ · speech_list_judge_main_c04	Kaito (ช)	[อีกแทร็ก]	It's Kaito. I'm standing out front\nof the Matsugane office.	ไคโตะเอง กำลังยืนอยู่หน้า\nสำนักงานมัตสึกาเนะ
+P0401-0578	พากย์ · speech_list_judge_main_c04	? (ช)		Yup. Place is absolutely swarming with cops.\nKuroiwa's runnin' the investigation.	ใช่ ที่นี่ตำรวจเต็มไปหมดเลย\nคุโรอิวะเป็นคนคุมการสืบสวน
+P0401-0579	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yup. The place is like a big, blue swarm.\nKuroiwa's runnin' the investigation.	ใช่ ที่นี่เหมือนฝูงตำรวจสีน้ำเงิน บุกเลยว่ะ\nคุโรอิวะเป็นคนคุมการสืบสวน
+P0401-0580	พากย์ · speech_list_judge_main_c04	? (ช)		That's him.\nSpeaking of, Ayabe's here too.	ใช่เลย\nพูดถึงแล้ว อายาเบะก็อยู่ที่นี่ด้วยนะ
+P0401-0581	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	That's him.\nAyabe's actually here too.	ใช่เลยล่ะ\nที่จริงอายาเบะก็อยู่ที่นี่ด้วย
+P0401-0582	พากย์ · speech_list_judge_main_c04	? (ช)		Makes a convincing cop when he tries.	เวลาเขาตั้งใจ ก็ดูเป็นตำรวจได้แนบเนียนดีนะ
+P0401-0583	พากย์ · speech_list_judge_main_c04	? (ช)		I was actually thinking\nI'd invite him over to Tender.	ที่จริงผมกำลังคิดอยู่\nว่าจะชวนเขาไปที่เทนเดอร์
+P0401-0584	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Speaking of, I was thinking some\nmore police info might help us.	พูดถึงเรื่องนั้น ผมกำลังคิดอยู่ว่า\nข้อมูลจากตำรวจเพิ่มเติมอาจช่วยเราได้
+P0401-0585	พากย์ · speech_list_judge_main_c04	? (ช)		Try and get my hands on that\njuicy police info, y'know?	ลองหาทางเอาข้อมูลอร่อย ๆ\nจากตำรวจมาให้ได้ ประมาณนั้นแหละ
+P0401-0586	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I figured I'd invite him to Tender.	เลยคิดว่าจะชวนเขาไปที่เทนเดอร์
+P0401-0587	พากย์ · speech_list_judge_main_c04	? (ช)		You mind coming along?	นายจะไปด้วยกันไหม?
+P0401-0588	พากย์ · speech_list_judge_main_c04	Sugiura (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Hello?	ฮัลโหล?
+P0401-0589	พากย์ · speech_list_judge_main_c04	? (ช)		Looking into the shooting?	กำลังสืบเรื่องเหตุยิงกันอยู่เหรอ?
+P0401-0590	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Looking into last night's shooting?	กำลังสืบเรื่องเหตุยิงกัน เมื่อคืนอยู่เหรอ?
+P0401-0591	พากย์ · speech_list_judge_main_c04	? (ช)		Kuroiwa, Kuroiwa...\nYou mean Ayabe's boss?	คุโรอิวะ คุโรอิวะ...\nหมายถึงหัวหน้าของอายาเบะใช่ไหม?
+P0401-0592	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Kuroiwa...?\nOh yeah, you mean Ayabe's boss?	คุโรอิวะ...?\nอ๋อ หมายถึงหัวหน้าของอายาเบะสินะ?
+P0401-0593	พากย์ · speech_list_judge_main_c04	? (ช)		Not at all.\nSee you over there.	ไปสิ ไม่มีปัญหา\nเจอกันที่นั่นนะ
+P0401-0594	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Got it. See you at Tender.	โอเค เจอกันที่เทนเดอร์
+P0401-0595	พากย์ · speech_list_judge_main_c04	Ayabe (ช)		And it's all thanks to you.	แล้วก็ต้องขอบคุณนายเลยล่ะ
+P0401-0596	พากย์ · speech_list_judge_main_c04	? (ช)		Not too much, no.	ก็ไม่เชิงรู้เท่าไหร่หรอก
+P0401-0597	พากย์ · speech_list_judge_main_c04	? (ช)		But hey, I thought you got Higashi\nfor all your Matsugane needs now.	แต่เฮ้ นึกว่าตอนนี้นายมีฮิงาชิ\nคอยป้อนข้อมูลเรื่องมัตสึกาเนะ ให้แล้วซะอีก
+P0401-0598	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	But hey, I thought you had Higashi\nfor all your Matsugane needs now.	แต่เฮ้ นึกว่าตอนนี้นายมีฮิงาชิ\nไว้ใช้งานเรื่องมัตสึกาเนะแล้วซะอีก
+P0401-0599	พากย์ · speech_list_judge_main_c04	? (ช)		Kaito, just now.	ไคโตะ เมื่อกี้นี้เอง
+P0401-0600	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	That'd be... Kaito, just now.	ก็คือ... ไคโตะ เมื่อกี้นี้เอง
+P0401-0601	พากย์ · speech_list_judge_main_c04	? (ช)		What can I say? I'm a professional.	จะให้พูดว่าไงล่ะ? ผมมันมืออาชีพนี่นา
+P0401-0602	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	What can I say?\nI'm a pro.	จะให้พูดว่าไงดีล่ะ?\nผมมันมืออาชีพ
+P0401-0603	พากย์ · speech_list_judge_main_c04	? (ช)		If the shoe fits.	ก็ถ้ามันใช่ก็ต้องยอมรับ
+P0401-0604	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Phrasing, man!	ระวังคำพูดหน่อยพวก!
+P0401-0605	พากย์ · speech_list_judge_main_c04	? (ช)		But sorry.\nI really don't have much for you today.	แต่ขอโทษว่ะ\nวันนี้กูไม่มีข้อมูลอะไรให้มึงมากหรอก
+P0401-0606	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	But I really don't have much\nfor you today. Sorry.	แต่วันนี้กูไม่ค่อยมีอะไรให้มึง\nเท่าไหร่หรอกว่ะ ขอโทษด้วย
+P0401-0607	พากย์ · speech_list_judge_main_c04	? (ช)		What, are times too tough\nto buy a round?	ทำไม มึงจนขนาดออกเหล้า\nไม่ไหวแล้วเหรอวะ?
+P0401-0608	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Come on, that's a low blow.	ไม่เอาน่า พูดแบบนี้มันเจ็บนะแก
+P0401-0609	พากย์ · speech_list_judge_main_c04	? (ช)		Here, lemme at least repay\nyou for the booze.	เอาน่า อย่างน้อยกูขอตอบแทน\nค่าเหล้าให้มึงหน่อย
+P0401-0610	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Fine...\nI'll give you a drink's worth of intel.	ก็ได้ว่ะ...\nกูจะให้ข้อมูลมึงคุ้มค่าเหล้า ที่ซื้อให้ก็แล้วกัน
+P0401-0611	พากย์ · speech_list_judge_main_c04	? (ช)		Did you know Hamura's in hiding?\nHe's been outta the office ever since last night.	รู้ไหมว่าฮามุระหลบไปซ่อนตัวอยู่?\nมันหายไปจากออฟฟิศตั้งแต่เมื่อคืนแล้ว
+P0401-0612	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So Hamura's been in hiding since last night.\nMaybe you heard? Hasn't been seen in the office.	ฮามุระหลบซ่อนตัวมาตั้งแต่ เมื่อคืนแล้วนะ\nมึงคงได้ยินมาบ้างแหละมั้ง ไม่มีใครเห็นมันแวะออฟฟิศเลย
+P0401-0613	พากย์ · speech_list_judge_main_c04	? (ช)		Not even the cops can find the guy.	ขนาดตำรวจยังหาตัวมันไม่เจอเลย
+P0401-0614	พากย์ · speech_list_judge_main_c04	? (ช)		Okay, okay. Fine.	เอาก็เอา ก็ได้ว่ะ
+P0401-0615	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I get it, guys...	กูเข้าใจแล้วน่า พวกมึง...
+P0401-0616	พากย์ · speech_list_judge_main_c04	? (ช)		You want answers, go ahead and ask.\nEverything's on the house for tonight.	อยากรู้อะไรก็ถามมาเลย\nคืนนี้กูเลี้ยงหมดทุกอย่าง
+P0401-0617	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Whatever you wanna know, just ask.\nIt's on the house this time.	อยากรู้อะไรก็ถามมาได้เลย\nรอบนี้กูออกให้เอง
+P0401-0618	พากย์ · speech_list_judge_main_c04	? (ช)		I'd rather talk business\nthan sit here in silence anyway.	ยังไงกูก็อยากคุยเรื่องงาน\nมากกว่านั่งเงียบๆ แบบนี้อยู่ดี
+P0401-0619	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Sure beats the three of us\nsitting here bored and quiet.	ดีกว่าให้พวกเรา 3 คน\nนั่งเบื่อกันเงียบๆ แบบนี้เยอะ
+P0401-0620	พากย์ · speech_list_judge_main_c04	? (ช)		True. Compared to the Tojo's 25,000...\nThe Kyorei have a meager 1,000 at most.	จริงด้วย เทียบกับตระกูลโทโจที่มีคน 25,000...\nตระกูลเคียวเรอิมีอยู่แค่ราวๆ 1,000 คนเป็นอย่างมาก
+P0401-0621	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	True. Compared to the Tojo's 25,000,\nthe Kyorei have a meager 1,000 at most.	จริง เทียบกับ 25,000 คนของตระกูลโทโจแล้ว\nตระกูลเคียวเรอิมีมากสุดก็แค่ราวๆ 1,000 คนเอง
+P0401-0622	พากย์ · speech_list_judge_main_c04	? (ช)		Plus Kamurocho's not exactly\ntheir home turf.	แถมคามุโรโจก็ไม่ใช่\nถิ่นของพวกมันเลยด้วยซ้ำ
+P0401-0623	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Plus Kamurocho's not exactly\ntheir home turf. Not even close.	แถมคามุโรโจไม่ใช่ถิ่นของพวกมันเลย\nห่างไกลเลยด้วยซ้ำ
+P0401-0624	พากย์ · speech_list_judge_main_c04	? (?)		 And yet they've been here almost two years now.\nCrazy when you think about it.	แต่นี่มันก็อยู่มาเกือบ 2 ปีแล้วนะ\nคิดดูก็บ้าดีเหมือนกัน
+P0401-0625	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yeah. And somehow the Kyorei have still been\nin Kamurocho for about two years now.	ใช่ แล้วไม่รู้ทำไมตระกูลเคียวเรอิ ถึงยังปักหลักอยู่\nคามุโรโจมาได้เกือบ 2 ปีแล้ว
+P0401-0626	พากย์ · speech_list_judge_main_c04	? (ช)		Even the cops put money on the Tojo Clan\ncrushing them into dust.	ขนาดตำรวจเองยังคิดว่าตระกูลโทโจ\nจะบี้พวกมันจนแหลกเลย
+P0401-0627	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Everyone figured the Tojo would crush them.\nEven us cops were counting on it.	ใครๆ ก็คิดว่าตระกูลโทโจจะบดขยี้พวกมัน\nขนาดตำรวจอย่างกูยังคิดแบบนั้นเลย
+P0401-0628	พากย์ · speech_list_judge_main_c04	? (ช)		The Kyorei has the backing of the Kajihira Group.\nIn other words, a lot of fucking money.	ตระกูลเคียวเรอิมีกลุ่มคาจิฮิระ หนุนหลังอยู่\nพูดง่ายๆ คือมีเงินเยอะเป็นบ้า
+P0401-0629	พากย์ · speech_list_judge_main_c04	? (ช)		Yup. And one of his subsidiaries\nis the perfect Kyorei cover.	ใช่ แล้วบริษัทลูกของมันอันหนึ่ง\nก็เป็นฉากบังหน้าที่เพอร์เฟกต์ ให้เคียวเรอิเลย
+P0401-0630	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yup. And they've got a subsidiary\naround here. The perfect Kyorei front.	ใช่ แล้วพวกมันก็มีบริษัทลูกอยู่ แถวนี้ด้วย\nเป็นฉากบังหน้าที่เพอร์เฟกต์ให้ เคียวเรอิเลย
+P0401-0631	พากย์ · speech_list_judge_main_c04	? (ช)		I suppose you'd know\nit better as KJ Art.	หรือมึงอาจจะคุ้น\nชื่อ KJ Art มากกว่า
+P0401-0632	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You might know it as KJ Art.	มึงอาจจะรู้จักมันในชื่อ KJ Art มากกว่า
+P0401-0633	พากย์ · speech_list_judge_main_c04	? (ช)		Probably so he can expand east out of Kansai.\nThe real money's out here anyway.	คงเพราะอยากขยายกิจการออกจาก คันไซมาทางตะวันออกมั้ง\nเงินจริงๆ มันอยู่แถวนี้ทั้งนั้นแหละ
+P0401-0634	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Tokyo's valuable territory for expansion.\nNot for the Kyorei Clan. For Kajihira.	โตเกียวเป็นพื้นที่มีค่าสำหรับ ขยายกิจการ\nไม่ใช่เพื่อตระกูลเคียวเรอินะ แต่เพื่อคาจิฮิระต่างหาก
+P0401-0635	พากย์ · speech_list_judge_main_c04	? (ช)		From what I hear, he's got some big\nredevelopment plans for Tokyo.	เท่าที่กูได้ยินมา มันมีแผนพัฒนาที่ดินใหญ่โต\nในโตเกียวอยู่
+P0401-0636	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I hear he's got some big\nredevelopment plans for Tokyo.	กูได้ยินมาว่ามันมีแผนพัฒนา ที่ดินใหญ่โต\nในโตเกียว
+P0401-0637	พากย์ · speech_list_judge_main_c04	? (ช)		Not a clue. But if they're comin' from Kansai\nto do it, shit's gotta be important.	ไม่รู้เหมือนกันว่ะ แต่ถ้าต้องดึงคนจากคันไซ\nมาทำขนาดนี้ มันต้องสำคัญมากแน่ๆ
+P0401-0638	พากย์ · speech_list_judge_main_c04	? (ช)		And there's always dirty work\nwith those kinda jobs, y'know?	แล้วงานแบบนี้มันก็มีเรื่องสกปรก\nแฝงอยู่เสมอแหละ มึงก็รู้
+P0401-0639	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	And... those kind of projects bring\na lot of dirty work with them, huh?	แล้ว...งานพวกนั้นก็มาพร้อม\nเรื่องสกปรกเพียบเลยสินะ?
+P0401-0640	พากย์ · speech_list_judge_main_c04	? (ช)		Evictions. Land sharks.\nLaying the political groundwork.	ไล่คนออกจากที่ดิน ปล่อยเงินกู้นอกระบบ\nปูทางการเมือง
+P0401-0641	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Evictions, land sharks...\nPolitical groundwork, you know?	ไล่คนออกจากที่ดิน ปล่อยเงินกู้นอกระบบ...\nปูทางการเมืองด้วย มึงก็รู้นี่
+P0401-0642	พากย์ · speech_list_judge_main_c04	? (ช)		The Kyorei's handling all that shit for Kajihira.\nLeast that's the word on the street.	ตระกูลเคียวเรอิรับหน้าที่ จัดการเรื่องพวกนั้นให้คาจิฮิระ ทั้งหมด\nอย่างน้อยก็ข่าวที่กูได้ยินมานะ
+P0401-0643	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Kajihira's leaving all that shit to the Kyorei.\nLeast that's the rumor.	คาจิฮิระปล่อยให้เคียวเรอิ จัดการเรื่องสกปรกพวกนั้น ทั้งหมด\nอย่างน้อยก็ข่าวลือที่กูได้ยินมา
+P0401-0644	พากย์ · speech_list_judge_main_c04	? (ช)		Well what I know for sure is that the\nKajihira CEO's been up in Tokyo a lot lately.	แต่ที่กูรู้แน่ๆ คือ\nประธานคาจิฮิระแวะเวียนมา โตเกียวบ่อยมากช่วงหลังนี้
+P0401-0645	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	The chairman of Kajihira's been coming to\nTokyo for a while. That much I know.	ประธานคาจิฮิระแวะมาโตเกียว\nพักหนึ่งแล้ว แค่นั้นแหละที่กูรู้
+P0401-0646	พากย์ · speech_list_judge_main_c04	? (ช)		Schmoozing with politicians, government officials.\nEven Kazami, the head of the Ministry of Health.	ประจบประแจงนักการเมือง ข้าราชการระดับสูง\nขนาดคาซามิ หัวหน้ากระทรวงสาธารณสุขก็ยัง ตีสนิทด้วย
+P0401-0647	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Schmoozing with politicians, government officials.\nEven Minister Kazami, head of the Ministry of Health.	ตีสนิทกับนักการเมือง ข้าราชการระดับสูง\nขนาดรัฐมนตรีคาซามิ หัวหน้ากระทรวงสาธารณสุขก็ยังคบด้วย
+P0401-0648	พากย์ · speech_list_judge_main_c04	? (ช)		Beats me. Point is, the Kyorei\naren't here just for yakuza shit.	ไม่รู้เหมือนกันว่ะ แต่ประเด็นคือ เคียวเรอิ\nไม่ได้มาที่นี่เพื่อเรื่อง ยากูซ่าธรรมดาๆ หรอกนะ
+P0401-0649	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Beats me. But the Kyorei aren't just here\nfor yakuza shit. That's all I'm trying to say.	ไม่รู้เหมือนกันว่ะ แต่เคียวเรอิไม่ได้มาที่นี่\nแค่เพื่อเรื่องยากูซ่าหรอกนะ กูจะบอกแค่นี้แหละ
+P0401-0650	พากย์ · speech_list_judge_main_c04	? (ช)		It's way more complicated than that.	มันซับซ้อนกว่านั้นเยอะเลย
+P0401-0651	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	It's way more complicated\nthan that.	มันซับซ้อนกว่านั้น\nเยอะเลย
+P0401-0652	พากย์ · speech_list_judge_main_c04	? (ช)		Well, you already know\nabout the shooting.	ก็อย่างที่มึงรู้อยู่แล้ว\nเรื่องเหตุยิงกันน่ะ
+P0401-0653	พากย์ · speech_list_judge_main_c04	? (ช)		Their hands are tied\nwhile the cops are running the show.	ตอนนี้พวกมันขยับตัวอะไรไม่ได้เลย\nเพราะตำรวจคุมสถานการณ์อยู่
+P0401-0654	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Their hands are tied\nwhile the cops run the show.	พวกมันทำอะไรไม่ได้เลย\nตราบใดที่ตำรวจยังคุมเกมอยู่
+P0401-0655	พากย์ · speech_list_judge_main_c04	? (ช)		So, yeah.\nThey've been pretty quiet.	เอาเป็นว่า\nตอนนี้พวกมันค่อนข้างเงียบละกัน
+P0401-0656	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So yeah, they've been pretty quiet.	ก็เลยเงียบไปพักใหญ่แล้วละ
+P0401-0657	พากย์ · speech_list_judge_main_c04	? (ช)		Tense. And that shooting\nonly made things worse.	ตึงเครียดน่ะสิ แล้วเหตุยิงกัน\nก็ยิ่งซ้ำเติมให้แย่ลงไปอีก
+P0401-0658	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	After last night,\nthings have gotten real tense.	หลังจากเมื่อคืน\nทุกอย่างมันตึงเครียดขึ้นมาเลยจริงๆ
+P0401-0659	พากย์ · speech_list_judge_main_c04	? (ช)		Nobody knows when the next fight'll break out.\nOr where a stray bullet might end up.	ไม่มีใครรู้หรอกว่าเรื่องจะปะทุ ขึ้นอีกเมื่อไหร่\nหรือกระสุนหลงจะไปโดนใครที่ไหน
+P0401-0660	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Nobody knows when there'll be another fight\nor another stray bullet.	ไม่มีใครรู้ว่าจะมีเรื่องอีกเมื่อไหร่\nหรือกระสุนหลงนัดต่อไปจะไปโดนใคร
+P0401-0661	พากย์ · speech_list_judge_main_c04	? (ช)		Heh, you got that right.\nBy the way...	ฮึ่ม พูดถูกเผง\nเออ ว่าแต่...
+P0401-0662	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Heh. Ah, by the way...	ฮึ่ม เออ ว่าแต่...
+P0401-0663	พากย์ · speech_list_judge_main_c04	? (ช)		Hamura might've walked, but the cops're still\npretty fixated on this Mole case.	ฮามุระอาจจะรอดตัวไปแล้ว แต่ตำรวจยังปักใจอยู่\nกับคดีไอ้ตัวตุ่นนี่แหละ
+P0401-0664	พากย์ · speech_list_judge_main_c04	? (?)	[อีกแทร็ก]	That "Mole" nickname you cooked up?\nMade it into the police casefiles. 	ฉายา "ไอ้ตัวตุ่น" ที่มึงคิดขึ้นมาน่ะเหรอ?\nตอนนี้มันเข้าไปอยู่ในแฟ้มคดี ตำรวจแล้วนะ
+P0401-0665	พากย์ · speech_list_judge_main_c04	? (ช)		Even the public's wondering\nwho'll be next.	ขนาดคนทั่วไปยังลุ้นกันเลย\nว่าใครจะเป็นรายต่อไป
+P0401-0666	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Even the public's picking it up.	ขนาดคนทั่วไปก็เริ่มพูดถึง เรื่องนี้กันแล้ว
+P0401-0667	พากย์ · speech_list_judge_main_c04	? (ช)		Eh, anyone who knows that side of me\nain't exactly a saint either, y'know?	เอ่อ ใครก็ตามที่รู้ด้านนั้นของกู\nก็ไม่ใช่คนบริสุทธิ์ผุดผ่อง เหมือนกันหรอกนะ มึงก็รู้
+P0401-0668	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Way I see it, anyone who knows that side of me\nain't exactly a saint either, y'know?	กูมองว่านะ ใครก็ตามที่รู้ด้านนั้นของกู\nก็ไม่ใช่คนดีเลิศอะไรเหมือนกันแหละ มึงก็รู้
+P0401-0669	พากย์ · speech_list_judge_main_c04	? (ช)		That's the pot calling the kettle black.\nOr the kettle calling the pot black. Whatever.	นี่แหละที่เขาเรียกว่าหม้อด่าก้นกระทะ\nหรือจะกระทะด่าก้นหม้อก็ช่าง ไม่รู้ว่ะ
+P0401-0670	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So if they wanna call me a bad guy,\nwho are they to talk?	ฉะนั้นถ้าใครจะเรียกกูว่าคนเลว\nมันจะมีสิทธิ์อะไรมาว่ากูวะ?
+P0401-0671	พากย์ · speech_list_judge_main_c04	Kaito (ช)		Look, man. There's no point\nkeepin' stuff from Ayabe.	ฟังนะ ไม่มีประโยชน์อะไร\nที่จะปิดเรื่องนี้จากอายาเบะหรอก
+P0401-0672	พากย์ · speech_list_judge_main_c04	Kaito (ช)	[อีกแทร็ก]	Look, it's Ayabe.\nThere's no point keepin' stuff from him.	ฟังนะ ก็อายาเบะนี่นา\nไม่มีประโยชน์อะไรที่จะปิด เรื่องจากเขาหรอก
+P0401-0673	พากย์ · speech_list_judge_main_c04	? (ช)		Better to just tell him up front\nthan have him find out somewhere else.	บอกเขาไปตรง ๆ ตั้งแต่แรกดีกว่า\nปล่อยให้เขาไปรู้เอาจากที่อื่น
+P0401-0674	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Better to tell him up front\nthan let him dig it up.	บอกเขาไปตรง ๆ ตั้งแต่แรกดีกว่า\nปล่อยให้เขาไปขุดคุ้ยเอาเอง
+P0401-0675	พากย์ · speech_list_judge_main_c04	? (ช)		Say what? You telling me\nI bought you a drink for nothing?	อะไรนะ? แกจะบอกว่า\nฉันเสียเหล้าให้แกไปฟรีๆ งั้นเหรอ?
+P0401-0676	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Nothing!? I bought you a drink\nfor nothin' then?	ฟรีเหรอ!? งั้นฉันซื้อเหล้าให้แก\nไปเปล่าๆ เลยสิ?
+P0401-0677	พากย์ · speech_list_judge_main_c04	? (ช)		You charging us for this old news?\nI'm starting to wonder here...	แกจะคิดเงินฉันกับข่าวเก่าๆ แบบนี้เนี่ยนะ?\nฉันเริ่มสงสัยละนะ...
+P0401-0678	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Is that all a drink buys these days?\nAyabe, you're price gouging us.	แค่นี้เองเหรอที่ได้จากเหล้าหนึ่งแก้ว?\nอายาเบะ แกโก่งราคาเกินไปแล้วนะ
+P0401-0679	พากย์ · speech_list_judge_main_c04	? (ช)		'Cause they wanted turf in Tokyo, duh.	ก็เพราะอยากได้พื้นที่ในโตเกียวไง จะอะไรอีก
+P0401-0680	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Easy. 'Cause they wanted turf in Tokyo.	ง่ายจะตาย เพราะอยากได้พื้นที่ในโตเกียวไง
+P0401-0681	พากย์ · speech_list_judge_main_c04	? (ช)		Kajihira... Isn't he a construction bigwig?	คาจิฮิระ...เขาไม่ใช่เจ้าพ่อวงการก่อสร้างเหรอ?
+P0401-0682	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Kajihira? Construction company, right?	คาจิฮิระ? บริษัทก่อสร้างใช่ไหม?
+P0401-0683	พากย์ · speech_list_judge_main_c04	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Like what?	เช่นอะไรล่ะ?
+P0401-0684	พากย์ · speech_list_judge_main_c04	? (ช)		Yeah, thanks. These rumors of yours\nare gonna do us a ton of good.	เออ ขอบใจนะ ข่าวลือของแกนี่\nมีประโยชน์กับเรามากเลยว่ะ
+P0401-0685	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Well, rumor or not...\nThat was a helluva tip. Thanks a lot.	จะข่าวลือหรือไม่ก็เถอะ...\nข้อมูลนี้เจ๋งเป็นบ้าเลยนะ ขอบใจมากๆ
+P0401-0686	พากย์ · speech_list_judge_main_c04	? (ช)		Right. And our killer's only gone for yakuza so far,\nbut he could target anyone next.	ใช่ แล้วฆาตกรที่เราตามล่าอยู่ก็ เล่นงานแต่พวกยากูซ่ามาตลอด\nแต่ต่อไปมันอาจเล็งใครก็ได้
+P0401-0687	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Right. The Mole's only gone for yakuza so far,\nbut he could target anyone next.	ใช่ ไอ้ตัวตุ่นเล่นงานแต่พวกยากูซ่ามาตลอด\nแต่ต่อไปอาจจะเล็งเป้าใครก็ได้
+P0401-0688	พากย์ · speech_list_judge_main_c04	Yagami (ช)		You must be making a killing with the state this\ncity's in. Ain't that right, Ayabe?	เมืองยุ่งเหยิงขนาดนี้ นายคงฟันกำไร\nเป็นกอบเป็นกำเลยสินะ อายาเบะ?
+P0401-0689	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	With things this bad, you must be\nmaking a killing... Officer Ayabe.	สถานการณ์แย่ขนาดนี้ คุณคงฟันกำไร\nเป็นกอบเป็นกำเลยสินะ... คุณตำรวจอายาเบะ
+P0401-0690	พากย์ · speech_list_judge_main_c04	? (ช)		Do you know anything about\nthe Matsugane shooting last night?	รู้อะไรเกี่ยวกับเหตุยิงกัน\nที่ตระกูลมัตสึกาเนะเมื่อคืนบ้างไหม?
+P0401-0691	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So that Matsugane shooting last night...\nYou know anything?	เรื่องเหตุยิงกันที่มัตสึกาเนะ เมื่อคืนนี่...\nรู้อะไรบ้างไหม?
+P0401-0692	พากย์ · speech_list_judge_main_c04	? (ช)		...Word travels fast.\nWho told you that?	...ข่าวไปไวจริง\nใครบอกนาย?
+P0401-0693	พากย์ · speech_list_judge_main_c04	? (ช)		Huh? You forget how to keep a secret Kaito-san?\nOr are you trying to get your buddy killed?	ฮะ? ไคโตะซังลืมวิธีเก็บความลับไปแล้วเหรอ?\nหรือว่าอยากให้เพื่อนตัวเองโดน ฆ่ากันแน่?
+P0401-0694	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Huh? What were you thinking, Kaito-san?\nYou really want that getting out?	ฮะ? ไคโตะซังคิดอะไรอยู่?\nอยากให้เรื่องนี้หลุดออกไปจริง ๆ เหรอ?
+P0401-0695	พากย์ · speech_list_judge_main_c04	? (ช)		Higashi's screwed if Hamura\nfinds out he's been helping us.	ฮิงาชิซวยแน่ถ้าฮามุระ\nรู้ว่าเขาแอบช่วยพวกเรา
+P0401-0696	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	If Hamura finds out he's helping us,\nhe's good as dead.	ถ้าฮามุระรู้ว่าเขาช่วยพวกเรา\nเท่ากับตายทั้งเป็นแล้ว
+P0401-0697	พากย์ · speech_list_judge_main_c04	? (ช)		Sure, professional snitch.	ใช่สิ มืออาชีพด้านขายข่าว
+P0401-0698	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	A pro...?\nA professional snitch, maybe.	มืออาชีพเหรอ...?\nมืออาชีพด้านขายข่าวมั้ง
+P0401-0699	พากย์ · speech_list_judge_main_c04	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Go on.	ว่ามาเลย
+P0401-0700	พากย์ · speech_list_judge_main_c04	? (ช)		...Yeah, Higashi told us as much, actually.	...เออ จริงๆ ฮิงาชิก็บอกฉันมาแบบนั้นแหละ
+P0401-0701	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Higashi already gave us that.	เรื่องนี้ฮิงาชิบอกฉันมาก่อนแล้วล่ะ
+P0401-0702	พากย์ · speech_list_judge_main_c04	? (ช)		Sounds good to me.\nLemme think...	ได้เลย\nงั้นขอกูคิดดูก่อนนะ...
+P0401-0703	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Now there's a bargain.\nLet's see...	งั้นก็ถือว่าคุ้มดี\nขอกูคิดดูก่อน...
+P0401-0704	พากย์ · speech_list_judge_main_c04	? (ช)		Why are the Kyorei in Kamurocho to begin with?\nWhat's a Kansai group doing this far from home?	ทำไมตระกูลเคียวเรอิถึงมาอยู่ คามุโรโจตั้งแต่แรกล่ะ?\nกลุ่มจากคันไซมาไกลป่านนี้ทำไม
+P0401-0705	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I've been wondering. Why are the Kyorei\nin Kamurocho at all? They're Kansai-based.	ผมสงสัยมานานแล้ว ทำไมตระกูลเคียวเรอิ\nถึงมาอยู่คามุโรโจ ทั้งที่ฐานอยู่คันไซแท้ๆ
+P0401-0706	พากย์ · speech_list_judge_main_c04	? (ช)		Even if it meant war with the Tojo?	ต่อให้ต้องทำสงครามกับ ตระกูลโทโจเลยเหรอ?
+P0401-0707	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Even if it meant war\nwith the Tojo Clan?	ต่อให้ต้องรบ\nกับตระกูลโทโจเลยเหรอ?
+P0401-0708	พากย์ · speech_list_judge_main_c04	? (ช)		They couldn't have the numbers for that.	พวกมันไม่มีกำลังพลพอจะทำแบบนั้นหรอก
+P0401-0709	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	They don't have the numbers for that.	พวกมันไม่มีกำลังพลพอจะทำแบบนั้นหรอก
+P0401-0710	พากย์ · speech_list_judge_main_c04	? (ช)		By that logic,\nthey don't stand a chance.	ถ้าคิดตามตรรกะนี้\nพวกมันไม่มีทางสู้ได้เลยสิ
+P0401-0711	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	They shouldn't stand a chance.	พวกมันไม่น่าจะมีสิทธิ์ชนะเลย
+P0401-0712	พากย์ · speech_list_judge_main_c04	? (ช)		So what's the hold up then?	แล้วอะไรที่ทำให้มันยังไม่เกิดขึ้นวะ?
+P0401-0713	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So, why didn't that happen?	แล้วทำไมมันไม่เกิดขึ้นล่ะ?
+P0401-0714	พากย์ · speech_list_judge_main_c04	? (ช)		Yeah, we're familiar.	อือ เรารู้จักที่นั่นดี
+P0401-0715	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	I get it.	เข้าใจแล้ว
+P0401-0716	พากย์ · speech_list_judge_main_c04	? (ช)		<color=ｍonologue>(Makes sense. They'd never have made inroads in Kamurocho\nwithout some big time financial backing.)</color>	<color=ｍonologue>(ก็สมเหตุสมผลอยู่ พวกเขาคงไม่มีทางแทรกซึมเข้า คามุโรโจได้\nถ้าไม่มีใครหนุนหลังทางการเงิน ขนาดใหญ่ขนาดนี้)</color>
+P0401-0717	พากย์ · speech_list_judge_main_c04	? (ช)		What does Kajihira have to do with the Kyorei?\nWhy is he funding yakuza?	คาจิฮิระเกี่ยวอะไรกับเคียวเรอิวะ?\nทำไมมันต้องมาให้ทุนยากูซ่าด้วย?
+P0401-0718	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	What does Kajihira have to do with the Kyorei?\nWhat does he get out of funding yakuza?	คาจิฮิระเกี่ยวอะไรกับเคียวเรอิ?\nแล้วมันได้อะไรจากการให้ทุนยากูซ่า?
+P0401-0719	พากย์ · speech_list_judge_main_c04	? (ช)		What kinda plans are we talking?	แผนแบบไหนกันล่ะ?
+P0401-0720	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Redevelopment? What kind?	พัฒนาที่ดินเหรอ แบบไหนล่ะ?
+P0401-0721	พากย์ · speech_list_judge_main_c04	? (ช)		Why would a construction guy be talking to someone\nfrom the Health Ministry? What's the connection?	ทำไมพวกก่อสร้างต้องไปคุยกับคน\nจากกระทรวงสาธารณสุขด้วยล่ะ มันเกี่ยวข้องกันตรงไหน?
+P0401-0722	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	A construction guy kissing that kind of ass?\nWhat's he trying to accomplish?	พวกก่อสร้างไปประจบคนระดับนั้นทำไมวะ?\nมันต้องการอะไรกันแน่?
+P0401-0723	พากย์ · speech_list_judge_main_c04	? (ช)		How are things in the\nMatsugane Family?	ทางฝั่งตระกูล\nมัตสึกาเนะเป็นไงบ้างวะ?
+P0401-0724	พากย์ · speech_list_judge_main_c04	? (ช)		How's Kamurocho seemed to you lately?	ช่วงนี้คามุโรโจดูเป็นไงบ้างสำหรับคุณ?
+P0401-0725	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	As far as you can tell,\nhow's Kamurocho been in general?	เท่าที่คุณสังเกต\nคามุโรโจช่วงนี้เป็นยังไงบ้าง?
+P0401-0726	พากย์ · speech_list_judge_main_c04	? (ช)		Gunfights, a murderer on the loose...\nThis city's a mess.	ยิงกันก็มี ฆาตกรก็ยังลอยนวลอยู่...\nเมืองนี้มันวุ่นวายจริงๆ
+P0401-0727	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	We've got gunfights, a murderer on the loose...\nThis city's a mess.	เรามีทั้งเรื่องยิงกัน ทั้งฆาตกรที่ยังลอยนวล...\nเมืองนี้มันวุ่นวายเป็นบ้า
+P0401-0728	พากย์ · speech_list_judge_main_c04	? (ช)	[ใช้ร่วม]	...Huh.	...เอ๊ะ
+P0401-0729	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Niiice.	เยี่ยมมม
+P0401-0730	พากย์ · speech_list_judge_main_c04	? (ช)		Just wondering... How does it feel\nwhen people call you a dirty cop?	ก็แค่สงสัยน่ะ...เวลาคนเรียกคุณว่าตำรวจสกปรก\nคุณรู้สึกยังไงบ้าง?
+P0401-0731	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Not to make a thing of it, but... How does it\nfeel when people call you a dirty cop?	ไม่ได้จะซีเรียสอะไรหรอกนะ แต่...เวลาคนเรียกคุณว่าตำรวจสกปรก\nคุณรู้สึกยังไงบ้าง?
+P0401-0732	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	...I guess not.	...ก็คงงั้นแหละ
+P0401-0733	พากย์ · speech_list_judge_main_c04	? (ช)		Yeah, guess so.	เออ ดูเหมือนจะงั้น
+P0401-0734	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Ha, I'll give you that.	ฮ่า ยอมรับเลยละกัน
+P0401-0735	พากย์ · speech_list_judge_main_c04	Kaito (ช)		You good, Tak?	โอเคไหมทาคุ?
+P0401-0736	พากย์ · speech_list_judge_main_c04	? (ช)		What was Kuroiwa doin' there anyway?	แล้วคุโรอิวะไปทำอะไรตรงนั้นวะ?
+P0401-0737	พากย์ · speech_list_judge_main_c04	? (ช)		Hope not. I don't need that guy\nbreathin' down our necks.	หวังว่าจะไม่ใช่นะ ฉันไม่อยากให้ไอ้นั่น\nมาจับจ้องหายใจรดต้นคอเราหรอก
+P0401-0738	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I don't need that guy\nbreathin' down our necks.	ฉันไม่อยากให้ไอ้นั่น\nมาหายใจรดต้นคอเราเลยว่ะ
+P0401-0739	พากย์ · speech_list_judge_main_c04	? (ช)		Anyway, you wanna head home?	เอาละ อยากกลับบ้านกันหรือยัง?
+P0401-0740	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Anyway, you figure it's time\nto head home?	ยังไงก็เถอะ คิดว่าถึงเวลา\nกลับบ้านหรือยัง?
+P0401-0741	พากย์ · speech_list_judge_main_c04	? (ช)	[ใช้ร่วม]	Whaddya mean?	หมายความว่าไง?
+P0401-0742	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Huh? Whaddya mean?	หา? หมายความว่าไง?
+P0401-0743	พากย์ · speech_list_judge_main_c04	? (ช)		So you wanna figure out who\nthe "real" Kyorei is.	งั้นนายอยากรู้ว่า\nตัวตนที่แท้จริงของเคียวเรอิคือ ใครสินะ
+P0401-0744	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So you wanna figure out\nwhat the "real" Kyorei Clan's about.	งั้นนายอยากรู้\nว่าจริงๆ แล้วตระกูลเคียวเรอิคืออะไรกันแน่สินะ
+P0401-0745	พากย์ · speech_list_judge_main_c04	? (ช)		Not a bad idea...\nBut how're we gonna investigate 'em?	ก็ไม่เลวนะ...\nแต่เราจะสืบพวกมันยังไงล่ะ?
+P0401-0746	พากย์ · speech_list_judge_main_c04	? (ช)		You mean Murase?	นายหมายถึงมุราเสะเหรอ?
+P0401-0747	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	...Murase, you mean?	...มุราเสะน่ะเหรอ?
+P0401-0748	พากย์ · speech_list_judge_main_c04	Yagami (ช)		Yeah, I'm used to dealing\nwith assholes like that.	ใช่ ผมชินกับการรับมือ\nกับไอ้พวกสารเลวแบบนั้นแล้ว
+P0401-0749	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	Yeah. I'm used to dealing with\nassholes like that.	ใช่ ผมชินกับการรับมือกับ\nไอ้พวกสารเลวแบบนั้นแล้ว
+P0401-0750	พากย์ · speech_list_judge_main_c04	? (ช)		I bet he knows about\nAyabe's little side gig.	ผมว่าเขาต้องรู้\nเรื่องงานเสริมลับๆ ของอายาเบะแหละ
+P0401-0751	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	If I had to guess, he knows\nabout Ayabe's little side gig.	ถ้าให้เดา เขาก็คงรู้\nเรื่องงานเสริมลับๆ ของอายาเบะนั่นแหละ
+P0401-0752	พากย์ · speech_list_judge_main_c04	? (ช)		Probably came to keep him\nfrom chirping too much.	คงมาคุมไม่ให้มัน\nปากสว่างเกินไปมั้ง
+P0401-0753	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So, probably came to keep him\nfrom chirping too much.	งั้นก็คงมาคุมไม่ให้มัน\nปากสว่างเกินไปสินะ
+P0401-0754	พากย์ · speech_list_judge_main_c04	? (ช)		Or maybe he wanted to keep\nan eye on us.	หรือไม่ก็อยากจับตา\nดูพวกเราอยู่
+P0401-0755	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Either that, or he wanted to\nkeep an eye on us.	ไม่ก็อาจแค่อยากจับตา\nดูพวกเราอยู่
+P0401-0756	พากย์ · speech_list_judge_main_c04	? (ช)		Not yet. Something's bugging me\nabout the Kyorei Clan.	ยังก่อน มีอะไรกวนใจผม\nเกี่ยวกับตระกูลเคียวเรอิอยู่
+P0401-0757	พากย์ · speech_list_judge_main_c04	? (ช)		'Til today, I just thought they were here\nscouting out some new turf in Kamurocho.	จนถึงวันนี้ผมคิดว่าพวกมันมาที่นี่\nแค่สอดแนมหาพื้นที่ใหม่ ในคามุโรโจซะอีก
+P0401-0758	พากย์ · speech_list_judge_main_c04	? (ช)		But it turns out they've got a construction conglomerate\nbehind them, and they're involved in redevelopment, too.	แต่ที่ไหนได้ พวกมันมีกลุ่มบริษัทก่อสร้าง ใหญ่หนุนหลังอยู่\nแล้วยังพัวพันกับเรื่องพัฒนา ที่ดินอีกด้วย
+P0401-0759	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	But, turns out they've got a construction conglomerate\nbehind them, and redevelopment plans too.	แต่ที่ไหนได้ พวกมันมีกลุ่มบริษัทก่อสร้าง ใหญ่หนุนหลัง\nแล้วยังมีแผนพัฒนาที่ดินด้วย
+P0401-0760	พากย์ · speech_list_judge_main_c04	? (ช)		You don't remember?\nWe have a friend on the inside.	นายลืมแล้วเหรอ?\nเรามีเพื่อนที่แทรกซึมอยู่ข้างในไง
+P0401-0761	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Remember? We have a friend\non the inside.	จำได้ไหม เรามีเพื่อน\nที่แทรกซึมอยู่ข้างในนะ
+P0401-0762	พากย์ · speech_list_judge_main_c04	? (ช)		Oh yeah.\nC'mon, let's head to KJ Art.	อ๋อ ใช่สิ\nไปกันเถอะ ไป KJ Art กัน
+P0401-0763	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Murase's our guy. To KJ Art?	มุราเสะเป็นคนของเราเองนี่ ไป KJ Art เหรอ?
+P0401-0764	พากย์ · speech_list_judge_main_c04	Kaito (ช)		Hey Tak, we're getting close to KJ Art.	เฮ้ ทาคุ ใกล้ถึง KJ Art แล้วนะ
+P0401-0765	พากย์ · speech_list_judge_main_c04	Kaito (ช)	[อีกแทร็ก]	Tak. KJ Art's just over there.	ทาคุ KJ Art อยู่ตรงนั้นแหละ
+P0401-0766	พากย์ · speech_list_judge_main_c04	? (ช)		You wanna bust out the drone?\nSee what our old friend Murase's up to?	อยากเอาโดรนออกมาใช้ไหม?\nดูซิว่าเพื่อนเก่าของเราอย่าง มุราเสะกำลังทำอะไรอยู่
+P0401-0767	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	So, then. Wanna bust out the drone?\nSee what our old friend Murase's up to?	งั้น อยากเอาโดรนออกมาไหม?\nไปดูกันว่าเพื่อนเก่าอย่าง มุราเสะทำอะไรอยู่
+P0401-0768	พากย์ · speech_list_judge_main_c04	? (ช)		Heh. Right this way.	ฮึ่ม ทางนี้เลย
+P0401-0769	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Heh.\nRight this way.	ฮึ่ม\nทางนี้เลย
+P0401-0770	พากย์ · speech_list_judge_main_c04	Yagami (ช)		Yeah, should be pretty easy\nto find him this time.	เออ รอบนี้คงหาตัวเขา\nไม่ยากหรอก
+P0401-0771	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	Yeah. And we know the best view\nof the KJ Art building.	เออ แล้วเราก็รู้จุดมองเห็น\nตึก KJ Art ได้ดีที่สุดด้วย
+P0401-0772	พากย์ · speech_list_judge_main_c04	Kaito (ช)		All right, it's spy time.	เอาละ ได้เวลาสายลับแล้ว
+P0401-0773	พากย์ · speech_list_judge_main_c04	Yagami (ช)		Okay, I'll handle the flying.\nYou keep watch on anyone coming in or out.	โอเค ผมจัดการเรื่องบิน\nนายคอยดูคนเข้าออกก็แล้วกัน
+P0401-0774	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	Okay, I'll handle the pigeon.\nKaito-san, watch the doors.	โอเค ผมจัดการนกพิราบเอง\nไคโตะซัง ช่วยดูประตูด้วยนะ
+P0401-0775	พากย์ · speech_list_judge_main_c04	Higashi (ช)		Guys... What the hell were you\nthinking coming here?	พวกคุณ...คิดอะไรอยู่\nถึงได้มาที่นี่กัน?
+P0401-0776	พากย์ · speech_list_judge_main_c04	Higashi (ช)	[อีกแทร็ก]	Ugh, come on...\nWhat the hell are you all thinking?	โธ่ ไม่เอาน่า...\nพวกคุณคิดบ้าอะไรกันอยู่เนี่ย?
+P0401-0777	พากย์ · speech_list_judge_main_c04	? (ช)		No it's just...\nIf Captain Hamura saw you here, he'd...	เปล่าหรอก แค่ว่า...\nถ้ากัปตันฮามุระเห็นพวกคุณอยู่ที่นี่ เขาคง...
+P0401-0778	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	You know this shit's dangerous.\nIf the captain saw you here...	คุณก็รู้ว่าเรื่องนี้มันอันตราย\nถ้ากัปตันเห็นพวกคุณอยู่ตรงนี้...
+P0401-0779	พากย์ · speech_list_judge_main_c04	? (ช)		Yeah, but... Forget it.\nWho's your friend?	ก็ใช่...แต่ช่างเถอะ\nนี่เพื่อนคุณเหรอ?
+P0401-0780	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yeah, but still...\nAnd who's your friend?	ก็ใช่ แต่ถึงอย่างนั้น...\nนี่เพื่อนคุณคนนี้เป็นใคร?
+P0401-0781	พากย์ · speech_list_judge_main_c04	? (ช)		Hey, can you guys please take this shit elsewhere?	เฮ้ พวกคุณย้ายไปคุยเรื่องนี้ ที่อื่นได้ไหม?
+P0401-0782	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Hey. If you're gonna discuss this,\n<font_kind=yakuza_italic>please</font_kind> take it somewhere else.	เฮ้ ถ้าจะคุยเรื่องนี้กันต่อ\n<font_kind=yakuza_italic>รบกวน</font_kind>ไปคุยที่อื่นด้วยนะ
+P0401-0783	พากย์ · speech_list_judge_main_c04	Kaito (ช)		What, you don't want us around?	อะไรวะ ไม่อยากให้เรามาอยู่แถวนี้เหรอ?
+P0401-0784	พากย์ · speech_list_judge_main_c04	Kaito (ช)	[อีกแทร็ก]	What, you don't want us here?	อะไรวะ ไม่อยากให้เรามาอยู่ตรงนี้เหรอ?
+P0401-0785	พากย์ · speech_list_judge_main_c04	? (ช)		How's he gonna find us if he's off the grid?\nWhat are you worried about?	แล้วมันจะมาเจอพวกเราได้ยังไงใน เมื่อมันหลบซ่อนตัวอยู่?\nแกกลัวอะไรกันวะ?
+P0401-0786	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Captain Hamura's hidin' like the rat he is.\nWe'll be fine.	กัปตันฮามุระมันไปหมกตัวเหมือน หนูอยู่นั่นแหละ\nเราไม่เป็นไรหรอก
+P0401-0787	พากย์ · speech_list_judge_main_c04	? (ช)		That mask...	หน้ากากนั่น...
+P0401-0788	พากย์ · speech_list_judge_main_c04	? (ช)		Ain't that the symbol of some\nbig time burglary ring?	นั่นมันไม่ใช่สัญลักษณ์ของ\nแก๊งโจรกรรมกลุ่มใหญ่เหรอ?
+P0401-0789	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I know there's some masked burglary ring\nin Kamurocho. You one of their boys?	ผมรู้ว่ามีแก๊งโจรกรรมสวมหน้ากากอยู่\nในคามุโรโจ คุณเป็นพวกเดียวกับมันหรือเปล่า?
+P0401-0790	พากย์ · speech_list_judge_main_c04	? (ช)		You mean the guys backing the Kyorei Clan?	หมายถึงพวกที่หนุนหลัง ตระกูลเคียวเรอินั่นน่ะเหรอ?
+P0401-0791	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Kajihira? You mean the guys\nbacking the Kyorei Clan?	คาจิฮิระ? หมายถึงพวก\nที่หนุนหลังตระกูลเคียวเรอิใช่ไหม?
+P0401-0792	พากย์ · speech_list_judge_main_c04	? (ช)		What can I say.\nYou got a good eye, kid.	จะให้พูดว่าไงดีล่ะ\nเด็กคนนี้สายตาแม่นดีนี่
+P0401-0793	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Hey, you've got a good eye\nfor a kid your age, huh?	เฮ้ อายุปูนนี้สายตาแม่นดี\nนะเด็กคนนี้
+P0401-0794	พากย์ · speech_list_judge_main_c04	Sugiura (ช)		I'm Sugiura.\nFumiya Sugiura.	ผมซุกิอุระครับ\nฟุมิยะ ซุกิอุระ
+P0401-0795	พากย์ · speech_list_judge_main_c04	? (ช)		It is... but I bailed on that.\nI'm flying solo now.	ใช่ครับ...แต่ผมเลิกไปจากตรงนั้นแล้ว\nตอนนี้ทำคนเดียว
+P0401-0796	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Used to be, but not anymore.\nI run solo now.	เคยเป็นครับ แต่ตอนนี้ไม่แล้ว\nผมทำคนเดียวแล้วตอนนี้
+P0401-0797	พากย์ · speech_list_judge_main_c04	? (ช)		No, I just... don't know where to start.\nIt's kinda complicated.	เปล่าครับ แค่...ผมไม่รู้จะเริ่มตรงไหนดี\nมันค่อนข้างซับซ้อนน่ะครับ
+P0401-0798	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	No... I just don't know where to start.\nIt's kinda complicated.	เปล่าครับ...ผมแค่ไม่รู้จะเริ่มตรงไหนดี\nมันซับซ้อนน่ะครับ
+P0401-0799	พากย์ · speech_list_judge_main_c04	? (ช)		Okay, well. I used to work for the Kajihira Group.\nDown at their headquarters in Kansai.	ครับ คือว่าผมเคยทำงานให้กลุ่มคาจิฮิระ\nที่สำนักงานใหญ่ของพวกเขาในคันไซ
+P0401-0800	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Well... I used to work for the Kajihira Group.\nDown at their headquarters in Kansai.	คือ...ผมเคยทำงานให้กลุ่มคาจิฮิระ\nที่สำนักงานใหญ่ในคันไซครับ
+P0401-0801	พากย์ · speech_list_judge_main_c04	? (ช)		Yeah. I had a job doing IT work\nfor them for a bit.	ใช่ครับ ผมเคยทำงานด้านไอที\nให้พวกเขาอยู่พักหนึ่ง
+P0401-0802	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yeah.\nI did some IT work for them.	ใช่ครับ\nผมทำงานไอทีให้พวกเขาน่ะครับ
+P0401-0803	พากย์ · speech_list_judge_main_c04	? (ช)		Keeping their servers safe, that kinda stuff.\nI was their systems engineer.	ดูแลความปลอดภัยเซิร์ฟเวอร์ ประมาณนั้นครับ\nผมเป็นวิศวกรระบบให้พวกเขา
+P0401-0804	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Keeping their servers safe, that kinda stuff.\nI was practically their systems engineer.	ดูแลความปลอดภัยเซิร์ฟเวอร์ ประมาณนั้นครับ\nพูดง่ายๆ ผมก็เหมือนวิศวกรระบบให้พวกเขาเลยครับ
+P0401-0805	พากย์ · speech_list_judge_main_c04	? (ช)		Well, one day I noticed some accounting\ndata was off. They were cooking the books.	แล้ววันหนึ่งผมก็สังเกตเห็นว่า ข้อมูลบัญชี\nมันแปลกๆ พวกเขาตกแต่งบัญชีกันอยู่
+P0401-0806	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Well... One day, I noticed someone had been\ntampering with accounting numbers.	คือ...วันหนึ่งผมสังเกตเห็นว่ามีคน\nแอบแก้ไขตัวเลขบัญชี
+P0401-0807	พากย์ · speech_list_judge_main_c04	? (ช)		It turns out the top guys\nwere making a slush fund.	ปรากฏว่าพวกผู้บริหารระดับสูง\nกำลังสร้างกองทุนลับกันอยู่
+P0401-0808	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Turns out the top guys of the group\nwere making a slush fund.	ปรากฏว่าพวกผู้บริหารระดับสูง ของกลุ่มบริษัท\nกำลังสร้างกองทุนลับกันอยู่
+P0401-0809	พากย์ · speech_list_judge_main_c04	? (ช)		They stashed away millions, writing it all off\nas some vague business expense.	พวกเขาซุกเงินหลายล้านเอาไว้ แล้วก็บันทึกเป็น\nค่าใช้จ่ายทางธุรกิจที่ระบุไม่ชัดเจน
+P0401-0810	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	They stashed millions, citing it as some\nvague business expense.	พวกเขาซุกเงินหลายล้านเอาไว้ แล้วอ้างว่าเป็น\nค่าใช้จ่ายทางธุรกิจที่คลุมเครือ
+P0401-0811	พากย์ · speech_list_judge_main_c04	? (ช)		Digging it all up was kind of a thrill...\nUntil I got caught.	การขุดคุ้ยเรื่องนี้มันตื่นเต้น ดีนะครับ...\nจนกระทั่งผมถูกจับได้
+P0401-0812	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Man, digging into it was such a thrill...\nuntil I got caught, at least.	โห การขุดคุ้ยเรื่องนี้มันตื่นเต้นสุดๆ เลยครับ...\nอย่างน้อยก็จนกระทั่งผมถูกจับได้
+P0401-0813	พากย์ · speech_list_judge_main_c04	? (ช)		Everything happened\nso fast after that.	หลังจากนั้นทุกอย่าง\nมันเกิดขึ้นเร็วมากครับ
+P0401-0814	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Everything happened so fast\nafter that.	ทุกอย่างเกิดขึ้นเร็วมาก\nหลังจากนั้นครับ
+P0401-0815	พากย์ · speech_list_judge_main_c04	? (ช)		They accused me of embezzling company funds\nand threw me out on the street.	พวกเขากล่าวหาว่าผมยักยอกเงินบริษัท\nแล้วก็ไล่ผมออกมาเลย
+P0401-0816	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	They accused me of embezzling company funds\nand threw me out.	พวกเขากล่าวหาว่าผมยักยอกเงินบริษัท\nแล้วไล่ผมออกมา
+P0401-0817	พากย์ · speech_list_judge_main_c04	? (ช)		Nobody would believe a word I said.	ไม่มีใครเชื่อคำพูดของผมเลยสักคำ
+P0401-0818	พากย์ · speech_list_judge_main_c04	? (ช)		But I knew where the money was going.\nA group of yakuza known as the Kyorei Clan.	แต่ผมรู้ว่าเงินพวกนั้นไหลไปไหน\nไปที่กลุ่มยากูซ่าที่ชื่อว่า ตระกูลเคียวเรอิ
+P0401-0819	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	But I knew where the money was going.\nFunneled to a clan of yakuza known as the Kyorei.	แต่ผมรู้ว่าเงินพวกนั้นไหลไปไหน\nมันถูกส่งต่อไปให้กลุ่มยากูซ่า ที่ชื่อว่าเคียวเรอิ
+P0401-0820	พากย์ · speech_list_judge_main_c04	? (ช)		Specifically, a shell company called KJ Art.	พูดให้ชัดคือ บริษัทบังหน้าที่ชื่อ KJ Art
+P0401-0821	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Specifically, a shell company called KJ Art.\nIf I could prove everything I found out...	พูดให้ชัดคือ บริษัทบังหน้าที่ชื่อ KJ Art\nถ้าผมพิสูจน์ทุกอย่างที่ผมค้นพบได้...
+P0401-0822	พากย์ · speech_list_judge_main_c04	? (ช)		If I could just prove it, I'd be able to\nget back at the bastards who cheated me.	ถ้าผมพิสูจน์ได้ ผมก็จะเอาคืน\nไอ้พวกสารเลวที่โกงผมได้
+P0401-0823	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I'd get revenge on the bastards\nwho cheated me.	ผมจะแก้แค้น\nไอ้พวกสารเลวที่โกงผมซะ
+P0401-0824	พากย์ · speech_list_judge_main_c04	? (ช)		I've been keeping watch\nover there for a while now.	ผมคอยจับตาดู\nที่นั่นมาสักพักแล้วครับ
+P0401-0825	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I've been keeping watch over there\nfor a while now.	ผมคอยจับตาดูที่นั่น\nมาพักหนึ่งแล้วครับ
+P0401-0826	พากย์ · speech_list_judge_main_c04	? (ช)		I even saw you break in\nand beat the crap outta Murase.	ผมยังเห็นตอนที่พวกคุณบุกเข้าไป\nแล้วซ้อมมุราเสะจนน่วมเลยด้วยครับ
+P0401-0827	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I even saw you when you broke in\nand beat the crap outta Murase.	ผมยังเห็นตอนที่พวกคุณบุกเข้าไป\nซ้อมมุราเสะเละเลยครับ
+P0401-0828	พากย์ · speech_list_judge_main_c04	? (ช)		Remember when you asked\nto team up, Yagami-san?	จำตอนที่คุณชวนผม\nร่วมมือกันได้ไหมครับ ยากามิซัง?
+P0401-0829	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Yagami-san... Weren't you the one who\nsaid we should work together?	ยากามิซัง...คุณเป็นคนพูดเองไม่ใช่เหรอครับ\nว่าเราควรร่วมมือกัน?
+P0401-0830	พากย์ · speech_list_judge_main_c04	? (ช)		I thought about it...\nand it seems like a pretty good deal.	ผมลองคิดดูแล้ว...\nมันก็ดูเป็นข้อเสนอที่ดีทีเดียวครับ
+P0401-0831	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Well, I've decided that\nsounds like a good deal.	คือ ผมตัดสินใจแล้วว่า\nมันฟังดูเป็นข้อเสนอที่ดีครับ
+P0401-0832	พากย์ · speech_list_judge_main_c04	? (ช)		Might be worth putting our heads together\nfor a while. Me and the Yagami Detective Agency.	อาจจะคุ้มค่าที่จะร่วมมือกันสักพัก\nระหว่างผมกับสำนักงานนักสืบยากามิ
+P0401-0833	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Might be worth putting our heads together.\nYagami Detective Agency is the real deal.	อาจจะคุ้มค่าที่จะร่วมมือกัน\nสำนักงานนักสืบยากามิเป็นของจริงครับ
+P0401-0834	พากย์ · speech_list_judge_main_c04	? (ช)		Especially you, Kaito-san.	โดยเฉพาะคุณเลยครับ ไคโตะซัง
+P0401-0835	พากย์ · speech_list_judge_main_c04	? (ช)		No matter how many yakuza come to take you down,\nyou always have it handled. It's incredible.	ไม่ว่าจะมียากูซ่ามากี่คนพยายาม เล่นงานคุณ\nคุณก็จัดการได้ทุกครั้ง สุดยอดจริงๆ ครับ
+P0401-0836	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	No matter how many yakuza come at you,\nyou always have it handled. It's incredible.	ไม่ว่าจะมียากูซ่ามากี่คนมา หาเรื่องคุณ\nคุณก็จัดการได้ทุกทีเลย สุดยอดมากครับ
+P0401-0837	พากย์ · speech_list_judge_main_c04	? (ช)		So, whaddya say?	เอาไง ว่าไงล่ะ?
+P0401-0838	พากย์ · speech_list_judge_main_c04	? (ช)		I'm not saying we've gotta become best buddies,\nbut we can at least give each other a hand.	ฉันไม่ได้บอกว่าเราต้องมาเป็น เพื่อนซี้กันหรอกนะ\nแต่อย่างน้อยเราก็ช่วยเหลือกันได้
+P0401-0839	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I dunno if we'll ever be friends or anything,\nbut we can at least give each other a hand.	ฉันไม่รู้หรอกว่าเราจะกลาย เป็นเพื่อนกันได้ไหม\nแต่อย่างน้อยเราก็ช่วยกันได้
+P0401-0840	พากย์ · speech_list_judge_main_c04	? (ช)		You want your Mole.\nI want the Kyorei Clan.	คุณอยากได้ไอ้ตัวตุ่นของคุณ\nส่วนผมอยากได้ตระกูลเคียวเรอิ
+P0401-0841	พากย์ · speech_list_judge_main_c04	? (ช)		We might not be after the same thing,\nbut there's a lot of overlap.	เราอาจไม่ได้ตามหาสิ่งเดียวกัน\nแต่มันก็เกี่ยวข้องซ้อนทับกันเยอะครับ
+P0401-0842	พากย์ · speech_list_judge_main_c04	? (ช)	[ใช้ร่วม]	Will that work?	แบบนี้ใช้ได้ไหมครับ?
+P0401-0843	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	That'll work, right?	แบบนี้น่าจะใช้ได้ใช่ไหมครับ?
+P0401-0844	พากย์ · speech_list_judge_main_c04	? (ช)		I took your phone, remember?\nNot like I had to hack it or anything.	ผมเอาโทรศัพท์คุณไปแล้วไม่ใช่เหรอครับ\nก็เลยไม่ต้องแฮ็กอะไรเลย
+P0401-0845	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	I took your phone, remember?\nWasn't that hard to check it on the run.	ผมเอาโทรศัพท์คุณไปแล้วไม่ใช่เหรอครับ\nเช็คตอนวิ่งหนีก็ไม่ยากเท่าไหร่
+P0401-0846	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[ใช้ร่วม]	Good question.	คำถามดีนี่
+P0401-0847	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	What's your name?	นายชื่ออะไรเหรอ?
+P0401-0848	พากย์ · speech_list_judge_main_c04	? (ช)		This isn't the first time\nSugiura here's saved my neck.	ไม่ใช่ครั้งแรกหรอก\nที่ซุกิอุระช่วยชีวิตผมไว้
+P0401-0849	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	We've met before. Sugiura's helped me\nout of some tight spots.	เราเคยเจอกันมาก่อนน่ะ ซุกิอุระเคยช่วยผม\nออกจากสถานการณ์คับขันมาหลายครั้งแล้ว
+P0401-0850	พากย์ · speech_list_judge_main_c04	? (ช)		What were you doing\nover by KJ Art?	คุณไปทำอะไรอยู่\nแถว KJ Art?
+P0401-0851	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	What I'd like to know is...\nWhy were you around KJ Art?	สิ่งที่ผมอยากรู้คือ...\nทำไมคุณถึงไปวนเวียนแถว KJ Art?
+P0401-0852	พากย์ · speech_list_judge_main_c04	? (ช)		Don't wanna talk?	ไม่อยากพูดเหรอ?
+P0401-0853	พากย์ · speech_list_judge_main_c04	? (ช)		<color=ｍonologue>(An ex-Kajihira guy turned criminal, huh?)</color>	<color=ｍonologue>(อดีตพนักงานคาจิฮิระที่กลายมา เป็นอาชญากรงั้นเหรอ)</color>
+P0401-0854	พากย์ · speech_list_judge_main_c04	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Really?	จริงเหรอ?
+P0401-0855	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Tampering?	แก้ไขเหรอ?
+P0401-0856	พากย์ · speech_list_judge_main_c04	? (ช)		<color=ｍonologue>(So, Sugiura's got a grudge against the Kajihira Group...)</color>	<color=ｍonologue>(สรุปว่าซุกิอุระมีเรื่องแค้นกับ กลุ่มคาจิฮิระอยู่สินะ...)</color>
+P0401-0857	พากย์ · speech_list_judge_main_c04	? (ช)		Which is why you were\nstaking out the place.	นั่นแหละเลยเป็นเหตุผล\nที่คุณมาสอดแนมที่นี่
+P0401-0858	พากย์ · speech_list_judge_main_c04	? (ช)		Assuming all that's true,\nwhy did you rescue us?	ถ้าเรื่องทั้งหมดที่คุณพูดเป็นจริง\nแล้วทำไมคุณถึงช่วยเราไว้ล่ะ?
+P0401-0859	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Still, that doesn't explain\nwhy you rescued us.	แต่นั่นก็ยังไม่ได้อธิบาย\nว่าทำไมคุณถึงช่วยพวกเราไว้
+P0401-0860	พากย์ · speech_list_judge_main_c04	? (ช)		Don't let it go to your head.	อย่าให้มันทำเอาหัวโตนักเลยนะ
+P0401-0861	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Don't let it get to your head.	อย่าให้มันทำให้หัวโตไปเลยนะ
+P0401-0862	พากย์ · speech_list_judge_main_c04	? (ช)		How?	ยังไง?
+P0401-0863	พากย์ · speech_list_judge_main_c04	? (ช)		How can I get in touch with you?	ผมจะติดต่อคุณได้ยังไง?
+P0401-0864	พากย์ · speech_list_judge_main_c04	? (ช)		How the hell'd you do that?	คุณทำได้ยังไงเนี่ย?
+P0401-0865	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Where'd you get my number?	คุณเอาเบอร์ผมมาจากไหนกัน?
+P0401-0866	พากย์ · speech_list_judge_main_c04	? (ช)		Kids these days...	เด็กสมัยนี้...
+P0401-0867	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	What's his deal...?	เขาเป็นคนแบบไหนกันนะ...?
+P0401-0868	พากย์ · speech_list_judge_main_c04	Higashi (ช)		Look, I need to close up shop,  so you mind getting\noutta here? Not that you should've come to begin with.	นี่ ผมต้องปิดร้านแล้ว\nจะรังเกียจไหมถ้าออกไปก่อน... อันที่จริงตั้งแต่แรกก็ไม่ควรมา ด้วยซ้ำ
+P0401-0869	พากย์ · speech_list_judge_main_c04	Higashi (ช)	[อีกแทร็ก]	Come on, get out already. We're closing up.\nYou shouldn't have come to begin with.	เร็วเข้า ออกไปได้แล้ว ร้านจะปิดแล้ว\nตั้งแต่แรกก็ไม่ควรมาด้วยซ้ำ
+P0401-0870	พากย์ · speech_list_judge_main_c04	Kaito (ช)		Y'know, I kinda like this Sugiura kid.	รู้อะไรไหม ฉันชอบเจ้าซุกิอุระคนนี้เลยนะ
+P0401-0871	พากย์ · speech_list_judge_main_c04	Kaito (ช)	[อีกแทร็ก]	Sugiura-kun seems like\na pretty good kid.	ซุกิอุระคุงดูเป็น\nเด็กดีนะ
+P0401-0872	พากย์ · speech_list_judge_main_c04	? (ช)		It's not like I fully trust him yet, man.	ฉันยังไม่ได้ไว้ใจเขาเต็มร้อย หรอกนะเพื่อน
+P0401-0873	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Not saying I trust him yet.	ไม่ได้บอกว่าไว้ใจเขาแล้วนะ
+P0401-0874	พากย์ · speech_list_judge_main_c04	? (ช)		We scratch his back, he scratches ours.\nAs long as that's all he wants, I'm good.	แค่ต่างคนต่างช่วยเหลือกันไปมา\nถ้าเขาต้องการแค่นั้นจริงๆ ฉันก็โอเคนะ
+P0401-0875	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	We scratch his back, he scratches ours.\nThat seems fair enough.	ต่างคนต่างช่วยกันไปมา\nก็ดูจะแฟร์ดีนะ
+P0401-0876	พากย์ · speech_list_judge_main_c04	? (ช)		Cool. Later man.	เออ ไว้เจอกันว่ะ
+P0401-0877	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Sure.\nLater, man.	ได้เลย\nไว้เจอกันว่ะ
+P0401-0878	พากย์ · speech_list_judge_main_c04	Yagami (ช)		That little compliment\nreally won you over huh?	แค่คำชมนิดเดียว\nก็เอาชนะใจนายได้แล้วสินะ
+P0401-0879	พากย์ · speech_list_judge_main_c04	Yagami (ช)	[อีกแทร็ก]	All it takes is one compliment, huh?	แค่คำชมคำเดียวก็พอแล้วสินะ
+P0401-0880	พากย์ · speech_list_judge_main_c04	? (ช)		Agreed. Anyway,\nI'm gonna head back to the office.	เห็นด้วย เอาล่ะ\nผมจะกลับไปที่สำนักงานก่อนนะ
+P0401-0881	พากย์ · speech_list_judge_main_c04	? (ช)	[อีกแทร็ก]	Agreed. Anyway, that's enough for one night.\nI'm gonna head back to the office.	เห็นด้วย เอาล่ะ คืนนี้พอแค่นี้ก่อน\nผมจะกลับไปที่สำนักงานนะ
+P0401-0882	พากย์ · speech_list_judge_main_c04	Saori (ญ)		Yagami-san.\nUm, this is Saori.	ยากามิซังคะ\nอ่า นี่ซาโอริเองค่ะ
+P0401-0883	พากย์ · speech_list_judge_main_c04	Saori (ญ)	[อีกแทร็ก]	Yagami-san.\nUm... it's Shirosaki.	ยากามิซังคะ\nอ่า... ชิโรซากิเองค่ะ
+P0401-0884	พากย์ · speech_list_judge_main_c04	? (ช)		What's up, Saori-san?\nYou don't usually call me...	มีอะไรเหรอครับ ซาโอริซัง\nคุณไม่ค่อยโทรหาผมแบบนี้...
+P0401-0885	ตัวเลือก · M04_00800_select_01	Yagami (ตัวเลือก) (ช)		What's happening in the Matsugane Family right now?	ตอนนี้ตระกูลมัตสึกาเนะเป็นยังไงบ้าง?
+P0401-0886	ตัวเลือก · M04_00800_select_01	Yagami (ตัวเลือก) (ช)		How's it feel to be called a dirty cop?	โดนเรียกว่าตำรวจสายเน่ารู้สึก ยังไงบ้าง?
+P0401-0887	ตัวเลือก · M04_00800_select_01	Yagami (ตัวเลือก) (ช)		I should get going.	ผมควรไปได้แล้ว
+P0401-0888	ตัวเลือก · M04_00800_select_01	Yagami (ตัวเลือก) (ช)		How's Kamurocho been lately?	ช่วงนี้คามุโรโจเป็นยังไงบ้าง?
+P0401-0889	ตัวเลือก · M04_00800_select_01	Yagami (ตัวเลือก) (ช)		Why did the Kyorei Clan come to Kamurocho?	ทำไมตระกูลเคียวเรอิถึงมาคามุโรโจ?
+P0401-0890	เป้าหมายภารกิจ · judge_m_M04_00600	(ข้อความระบบ) (กลาง)	[ใช้ร่วม] [ซ้ำในบท x10]	Chapter 4: Skeletons in the Closet	บทที่ 4: โครงกระดูกในตู้เสื้อผ้า
+P0401-0891	เป้าหมายภารกิจ · judge_m_M04_00600	(ข้อความระบบ) (กลาง)		Warn Shintani	เตือนชินทานิ
+P0401-0892	เป้าหมายภารกิจ · judge_m_M04_00600	(ข้อความระบบ) (กลาง)		The Kyorei Clan might go after Hamura's lawyer, which was Shintani. I should warn him.	ตระกูลเคียวเรอิอาจไปตามล่าทนาย ของฮามุระ ซึ่งก็คือชินทานิ ผมควรไปเตือนเขา
+P0401-0893	เป้าหมายภารกิจ · judge_m_M04_00700	(ข้อความระบบ) (กลาง)		Leave Genda Law Office	ออกจากสำนักงานกฎหมายเก็นดะ
+P0401-0894	เป้าหมายภารกิจ · judge_m_M04_00700	(ข้อความระบบ) (กลาง)		This isn't just a turf war? What more does Shintani know about the Mole?	นี่ไม่ใช่แค่สงครามแย่งพื้นที่ งั้นเหรอ? ชินทานิรู้อะไรเกี่ยวกับ ไอ้ตัวตุ่นอีกบ้าง?
+P0401-0895	เป้าหมายภารกิจ · judge_m_M04_01000_10	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Head to KJ Art	ไปที่ KJ Art
+P0401-0896	เป้าหมายภารกิจ · judge_m_M04_01000_10	(ข้อความระบบ) (กลาง)		So the Kyorei Clan has backing from the Kajihira Group, some construction company with connections between its president and the Ministry of Health. I need to look into this.	งั้นตระกูลเคียวเรอิก็มี กลุ่มคาจิฮิระหนุนหลังอยู่ บริษัทก่อสร้างที่ประธานมี สายสัมพันธ์กับกระทรวงสาธารณสุข ผมต้องสืบเรื่องนี้ให้ลึกกว่านี้
+P0401-0897	เป้าหมายภารกิจ · judge_m_M04_01300	(ข้อความระบบ) (กลาง)	[ใช้ร่วม] [ซ้ำในบท x2]	Return to Yagami Detective Agency	กลับไปที่สำนักงานนักสืบยากามิ
+P0401-0898	เป้าหมายภารกิจ · judge_m_M04_01300	(ข้อความระบบ) (กลาง)		So, we have mutual interests, Fumiya Sugiura. He wants Kajihira, I want the Mole. That was enough for today, though...	งั้นเราก็มีผลประโยชน์ร่วมกันสินะ ฟูมิยะ ซุกิอุระ เขาต้องการคาจิฮิระ ผมต้องการไอ้ตัวตุ่น แต่วันนี้ก็คงพอแค่นี้แหละ...
+P0401-0899	เป้าหมายภารกิจ · judge_m_M04_01100	(ข้อความระบบ) (กลาง)		Scout Out KJ Art with the Drone	สำรวจ KJ Art ด้วยโดรน
+P0401-0900	เป้าหมายภารกิจ · judge_m_M04_01100	(ข้อความระบบ) (กลาง)		I'll use the drone to check the situation at KJ Art. If Murase's there, this'll be easier.	ผมจะใช้โดรนตรวจดูสถานการณ์ที่ KJ Art ถ้ามุราเสะอยู่ที่นั่น เรื่องนี้จะง่ายขึ้นเยอะ
+P0401-0901	เป้าหมายภารกิจ · judge_m_M04_00520	(ข้อความระบบ) (กลาง)		Head to the Beef Zone	ไปที่บีฟโซน
+P0401-0902	เป้าหมายภารกิจ · judge_m_M04_00520	(ข้อความระบบ) (กลาง)		How dare they take Kim-san hostage just to get to me!? I've literally got an office, guys. I've gotta hurry to Beef Zone on Nakamichi Street!	กล้าดียังไงจับคิมซังเป็น ตัวประกันแค่เพื่อไล่ล่าผม!? ผมมีออฟฟิศตั้งอยู่ตรงนั้นแท้ ๆ ผมต้องรีบไปที่บีฟโซนบนถนนนากามิจิ!
+P0401-0903	เป้าหมายภารกิจ · judge_m_M04_00800	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Head to Tender	ไปที่เทนเดอร์
+P0401-0904	เป้าหมายภารกิจ · judge_m_M04_00800	(ข้อความระบบ) (กลาง)		Kaito-san is working on getting what Ayabe knows. I'll meet them at Tender.	ไคโตะซังกำลังหาทางเค้นข้อมูล จากอายาเบะอยู่ ผมจะไปเจอพวกเขาที่เทนเดอร์
+P0401-0905	เป้าหมายภารกิจ · judge_m_M04_01400	(ข้อความระบบ) (กลาง)		Women sure love to keep secrets... Now I'm really tired.	ผู้หญิงนี่ชอบเก็บความลับกันจริง ๆ... ตอนนี้ผมเหนื่อยสุด ๆ เลย
+P0401-0906	เป้าหมายภารกิจ · judge_m_M04_00300_010	(ข้อความระบบ) (กลาง)	[ซ้ำในบท x2]	Meet with Higashi	ไปพบฮิงาชิ
+P0401-0907	เป้าหมายภารกิจ · judge_m_M04_00300_010	(ข้อความระบบ) (กลาง)	[ซ้ำในบท x2]	The Kyorei Clan is bound to retaliate against the Matsugane Family. This could erupt into a full-scale war. I should hit the streets to find out more.	ตระกูลเคียวเรอิต้องแก้แค้น ตระกูลมัตสึกาเนะแน่ ๆ เรื่องนี้อาจบานปลายเป็นสงคราม เต็มรูปแบบได้ ผมควรออกไปสืบข่าวตามท้องถนนดู

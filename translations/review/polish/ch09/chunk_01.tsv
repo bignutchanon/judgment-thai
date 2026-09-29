@@ -1,0 +1,972 @@
+id	ฉาก	ผู้พูด	หมายเหตุ	EN	TH
+P0901-0001	ทวนเรื่องเปิดบท · p09_00100	Narration (?)		The Mole was Hamura's\npersonal underworld assassin.	ไอ้ตัวตุ่นคือมือสังหาร\nส่วนตัวของฮามุระในโลกใต้ดิน
+P0901-0002	ทวนเรื่องเปิดบท · p09_00100	Narration (?)		With a mounting threat\nbehind them...	ด้วยภัยคุกคามที่ทวีความรุนแรง\nอยู่เบื้องหลังพวกเขา...
+P0901-0003	ทวนเรื่องเปิดบท · p09_00100	Narration (?)		Yagami and Kaito are forced\nto cut ties with Matsugane.	ยากามิและไคโตะจำต้อง\nตัดขาดจากตระกูลมัตสึกาเนะ
+P0901-0004	ทวนเรื่องเปิดบท · p09_00100	Narration (?)		And the two set foot\ndown a path of no return.	และทั้งสองก้าวเท้า\nเข้าสู่เส้นทางที่ไม่มีวันหวนกลับ
+P0901-0005	ทวนเรื่องเปิดบท · p09_00100	Narration (?)		Finally, the name of a mastermind\nbubbles to the surface.	ในที่สุด ชื่อของผู้บงการ\nก็ผุดขึ้นมาสู่ผิวน้ำ
+P0901-0006	ทวนเรื่องเปิดบท · p09_00100	Narration (?)		The man is an AD-9 researcher...	ชายคนนั้นคือนักวิจัยยา AD-9...
+P0901-0007	ทวนเรื่องเปิดบท · p09_00100	Narration (?)		Yoji Shono.	โยจิ โชโนะ
+P0901-0008	คัตซีน · a09_005	Yagami (ช)		I helped set a murderer loose\non the world. In other words...	ผมช่วยปล่อยฆาตกรออกไปเพ่นพ่าน ในโลกนี้\nพูดง่ายๆ ก็คือ...
+P0901-0009	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	I got a murderer acquitted.\nAnd then...	ผมช่วยให้ฆาตกรพ้นผิด\nแล้วก็...
+P0901-0010	คัตซีน · a09_005	Yagami (ช)		...Emi died because of me.	...เอมิตายเพราะผม
+P0901-0011	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	Emi Terasawa paid the price.	เอมิ เทราซาวะต้องจ่ายราคานั้นแทน
+P0901-0012	คัตซีน · a09_005	Kaito (ช)		I'm not gonna let you\ndo this to yourself!	ฉันไม่ยอมให้นาย\nทำแบบนี้กับตัวเองหรอกนะ!
+P0901-0013	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	Pull your head out of your ass!	ตั้งสติหน่อยสิวะ!
+P0901-0014	คัตซีน · a09_005	Kaito (ช)		Do you remember your dad's last case?\nMust have been almost 20 years ago. Do you Yagami?	นายจำคดีสุดท้ายของพ่อนายได้มั้ย?\nต้องเกือบยี่สิบปีมาแล้วมั้ง จำได้มั้ย ยากามิ?
+P0901-0015	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	Your father's last trial was\ntwenty years ago now... You remember it?	คดีสุดท้ายของพ่อนายเมื่อยี่สิบ ปีก่อนน่ะ...\nนายยังจำได้มั้ย?
+P0901-0016	คัตซีน · a09_005	Yagami (ช)		Yeah. No way I could forget.	เออ ยังไงก็ลืมไม่ลง
+P0901-0017	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	Yeah. I could never forget.	เออ ไม่มีทางลืมหรอก
+P0901-0018	คัตซีน · a09_005	Kaito (ช)		The defendant in that case raped and murdered\na 15-year old girl. At least that's what they said he did.	จำเลยในคดีนั้นข่มขืนแล้วฆ่า เด็กสาวอายุสิบห้า\nอย่างน้อยก็ตามที่คนเขาว่ากันนะ
+P0901-0019	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	Your father defended a monster who\nraped and strangled a fifteen-year-old girl.	พ่อนายแก้ต่างให้ปีศาจ\nที่ข่มขืนแล้วรัดคอเด็กสาวอายุ สิบห้าจนตาย
+P0901-0020	คัตซีน · a09_005	Kaito (ช)		Everyone in the damn country thought\nthat guy deserved to get executed. 	คนทั้งประเทศต่างคิดว่า\nไอ้นั่นสมควรโดนประหาร
+P0901-0021	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	The whole country wanted\nto see the man executed...	คนทั้งประเทศอยากเห็น\nมันถูกประหาร...
+P0901-0022	คัตซีน · a09_005	Kaito (ช)		No thoughts of innocence...\nExcept from your dad.	ไม่มีใครคิดว่ามันบริสุทธิ์เลย...\nยกเว้นพ่อนาย
+P0901-0023	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	But your father proved him innocent!	แต่พ่อนายพิสูจน์ได้ว่าเขาบริสุทธิ์!
+P0901-0024	คัตซีน · a09_005	Kaito (ช)		You know how it all went down after that.\nHe gave the prosecution what for.	นายก็รู้ว่าหลังจากนั้นมันเป็นยังไง\nพ่อนายจัดอัยการซะเละเลย
+P0901-0025	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	And after he won that case,\ndo you know what he said?	แล้วพอเขาชนะคดีนั้น\nนายรู้มั้ยว่าเขาพูดว่าไง?
+P0901-0026	คัตซีน · a09_005	Kaito (ช)		Your dad never compromised\nhis ideals, no matter what.	พ่อนายไม่เคยยอมเสียอุดมการณ์\nไม่ว่าจะเกิดอะไรขึ้น
+P0901-0027	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	"It's not the defense's job\nto uncover the truth."	"หน้าที่ของฝ่ายจำเลย\nไม่ใช่การเปิดโปงความจริง"
+P0901-0028	คัตซีน · a09_005	Kaito (ช)		He said a lawyer's job isn't discovering the truth. Or even knowing it.\nIt's proving the prosecution doesn't have enough evidence to convict.	เขาบอกว่าหน้าที่ทนายไม่ใช่การ ค้นหาความจริง หรือแม้แต่รู้ความจริงด้วยซ้ำ\nแต่คือการพิสูจน์ว่าอัยการมี หลักฐานไม่พอจะเอาผิดต่างหาก
+P0901-0029	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	"It's to challenge the prosecution\nto make an indisputable argument."	"หน้าที่คือท้าทายให้อัยการ\nหาข้อโต้แย้งที่ไม่มีใครเถียงได้"
+P0901-0030	คัตซีน · a09_005	Kaito (ช)		Do you understand?\nThat's how he saw the defense's role.	เข้าใจมั้ย?\nนั่นแหละคือมุมมองของเขาต่อ บทบาทฝ่ายจำเลย
+P0901-0031	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	He was proud to be an attorney.	เขาภูมิใจที่ได้เป็นทนายความ
+P0901-0032	คัตซีน · a09_005	Kaito (ช)		Takes some real guts to say that.	ต้องใจถึงจริงๆ ถึงจะพูดแบบนั้นได้
+P0901-0033	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	And he was brave to say that.	แล้วเขาก็กล้าหาญมากที่พูดแบบนั้น
+P0901-0034	คัตซีน · a09_005	Kaito (ช)		It's why you looked up to him. And you would've never\nbecome an attorney without his influence.	นั่นแหละคือเหตุผลที่นายศรัทธาเขา\nถ้าไม่มีเขา นายก็คงไม่มีวันได้เป็นทนายหรอก
+P0901-0035	คัตซีน · a09_005	Kaito (ช)	[อีกแทร็ก]	And isn't that strength what led you\nto put on your own attorney's badge?	แล้วความเข้มแข็งแบบนั้นแหละ\nที่ทำให้นายติดเข็มทนาย ของตัวเองใช่มั้ยล่ะ?
+P0901-0036	คัตซีน · a09_005	Yagami (ช)		In the beginning...\nSure I did.	ตอนแรกน่ะเหรอ...\nก็ใช่นะ
+P0901-0037	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	Yeah, that was the spark.	เออ นั่นแหละจุดเริ่มต้น
+P0901-0038	คัตซีน · a09_005	Yagami (ช)	[ใช้ร่วม]	But you know...	แต่รู้อะไรมั้ย...
+P0901-0039	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	But...	แต่...
+P0901-0040	คัตซีน · a09_005	Yagami (ช)		A lot happened afterward.\nWith my dad... And with me, too.	หลังจากนั้นก็มีเรื่องเกิดขึ้นเยอะ\nทั้งกับพ่อผม... แล้วก็กับผมด้วย
+P0901-0041	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	That trial was the catalyst for\na lot of things, and not just me.	คดีนั้นแหละคือจุดเริ่มของหลายๆ อย่าง\nไม่ใช่แค่กับผมคนเดียว
+P0901-0042	คัตซีน · a09_005	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	...Yeah.	...เออ
+P0901-0043	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	...Right.	...ใช่
+P0901-0044	คัตซีน · a09_005	Yagami (ช)		It's possible the defendant actually was guilty.\nRaped the girl... killed her in cold blood.	เป็นไปได้ว่าจำเลยคนนั้นผิดจริงๆ\nข่มขืนเด็กสาว... แล้วฆ่าเธอเลือดเย็น
+P0901-0045	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	The guy my dad defended was\nprobably guilty the whole time.	ไอ้คนที่พ่อผมแก้ต่างให้\nอาจจะผิดจริงมาตลอดก็ได้
+P0901-0046	คัตซีน · a09_005	Yagami (ช)		He disappeared almost\nimmediately after the trial.	มันหายตัวไปแทบจะทันที\nหลังคดีจบ
+P0901-0047	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	He went off the grid\nas soon as he got acquitted.	มันหายเข้ากลีบเมฆ\nทันทีที่พ้นผิด
+P0901-0048	คัตซีน · a09_005	Yagami (ช)		And so... All of the hatred.\nAll of the anger people felt...	แล้วก็เลย... ความเกลียดชังทั้งหมด\nความโกรธแค้นที่คนรู้สึก...
+P0901-0049	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	So public animosity shifted to\nthe next target in line, his lawyer.	ความเกลียดชังของคนทั้งประเทศ\nเลยหันไปหาเป้าต่อไป นั่นคือทนายของเขา
+P0901-0050	คัตซีน · a09_005	Yagami (ช)		...Was thrown onto my dad.	...มันเทมาลงที่พ่อผมหมด
+P0901-0051	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	And that's when my parents...	แล้วตอนนั้นเองที่พ่อกับแม่ผม...
+P0901-0052	คัตซีน · a09_005	Yagami (ช)		Not long after... He and my mom were killed.\nBy the victim's father.	ไม่นานหลังจากนั้น...\nพ่อกับแม่ผมก็ถูกฆ่า โดยพ่อของเหยื่อ
+P0901-0053	คัตซีน · a09_005	Yagami (ช)	[อีกแทร็ก]	...Were stabbed to death by\nthe father of the victim.	...ถูกพ่อของเหยื่อ\nแทงจนเสียชีวิต
+P0901-0054	คัตซีน · a09_010	Okubo (ช)		Long time no see...\nYagami-sensei.	ไม่เจอกันนานเลยนะครับ...\nอาจารย์ยากามิ
+P0901-0055	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	Long time no see... Yagami-sensei.	ไม่เจอกันนานเลยนะครับ... อาจารย์ยากามิ
+P0901-0056	คัตซีน · a09_010	Yagami (ช)		Yeah... It's been a while.	ครับ... ไม่เจอกันนานจริงๆ
+P0901-0057	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก]	Yeah. Been a while.	ครับ ไม่เจอกันนานเลย
+P0901-0058	คัตซีน · a09_010	Okubo (ช)		I apologize.	ผมต้องขอโทษด้วยครับ
+P0901-0059	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	Uh, sorry.　	เอ่อ... ขอโทษครับ
+P0901-0060	คัตซีน · a09_010	Okubo (ช)		I've been alone... all this time.	ผมอยู่คนเดียวมาตลอดเวลาที่ผ่านมา...
+P0901-0061	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	I don't talk much, so talking is...	ผมไม่ค่อยพูดเก่งเท่าไหร่ เพราะงั้นการพูดคุย...
+P0901-0062	คัตซีน · a09_010	Okubo (ช)		Talking is...	การพูดคุยมันก็...
+P0901-0063	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	...Hard.	...ยากสำหรับผม
+P0901-0064	คัตซีน · a09_010	Yagami (ช)		Don't worry.\nWe're not in a rush here.	ไม่ต้องห่วงครับ\nเราไม่ได้รีบอะไร
+P0901-0065	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก]	It's fine. Take your time.	ไม่เป็นไรครับ ค่อยๆ พูดก็ได้
+P0901-0066	คัตซีน · a09_010	Okubo (ช)		You look... so different.	คุณดูเปลี่ยนไป... เยอะเลยนะครับ
+P0901-0067	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	You look... different.	คุณดูเปลี่ยนไปนะครับ
+P0901-0068	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Yeah.	ใช่
+P0901-0069	คัตซีน · a09_010	Yagami (ช)		I haven't been back in the courtroom\nsince the last day of our case.	ผมไม่ได้กลับเข้าห้องพิจารณาคดีอีกเลย\nนับตั้งแต่วันสุดท้ายที่เรา สู้คดีด้วยกัน
+P0901-0070	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก]	You were the last guy\nI defended in court.	คุณคือคนสุดท้าย\nที่ผมว่าความให้ในศาล
+P0901-0071	คัตซีน · a09_010	Okubo (ช)		Meaning you're...\nnot a lawyer?	หมายความว่าคุณ...\nไม่ได้เป็นทนายแล้วเหรอครับ?
+P0901-0072	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	You quit?	เลิกเป็นทนายแล้วเหรอครับ?
+P0901-0073	คัตซีน · a09_010	Yagami (ช)		Not quite. I'm a detective.	ก็ไม่เชิงครับ ตอนนี้ผมเป็นนักสืบ
+P0901-0074	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก]	I'm a detective these days.　	เดี๋ยวนี้ผมเป็นนักสืบแล้วครับ
+P0901-0075	คัตซีน · a09_010	Yagami (ช)		In Kamurocho.\nIt pays the bills, you know?	อยู่แถวคามุโรโจ\nก็พอหาเลี้ยงชีพได้น่ะครับ
+P0901-0076	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก]	Based in Kamurocho.\nJust doing odd jobs here and there.	ประจำอยู่คามุโรโจครับ\nรับงานจิปาถะไปเรื่อยๆ
+P0901-0077	คัตซีน · a09_010	Okubo (ช)		And that's all my fault?	แล้วนั่นมันความผิดผมทั้งหมดเลย เหรอครับ?
+P0901-0078	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	Because of me?	เพราะผมเหรอ?
+P0901-0079	คัตซีน · a09_010	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Hey...	เฮ้ย...
+P0901-0080	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	No.	ไม่
+P0901-0081	คัตซีน · a09_010	Yagami (ช)		Sorry. This isn't what\nI came here to talk about today.	ขอโทษครับ นี่ไม่ใช่เรื่อง\nที่ผมตั้งใจมาคุยวันนี้
+P0901-0082	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก]	Sorry.\nI should probably get to the point.	ขอโทษครับ\nเข้าเรื่องเลยดีกว่า
+P0901-0083	คัตซีน · a09_010	Yagami (ช)		Three years ago... at the ADDC.	สามปีก่อน... ที่ ADDC
+P0901-0084	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก]	Three years ago, at the ADDC...	สามปีก่อน ที่ ADDC...
+P0901-0085	คัตซีน · a09_010	Okubo (ช)		Did you...	คุณ...
+P0901-0086	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	Our case...	คดีของเรา...
+P0901-0087	คัตซีน · a09_010	Yagami (ช)		Did you actually murder\nWaku-san or not?	คุณฆ่าวาคุซังจริง\nหรือเปล่าครับ?
+P0901-0088	คัตซีน · a09_010	Yagami (ช)	[อีกแทร็ก]	Did you do it or not?	คุณทำจริงหรือเปล่า?
+P0901-0089	คัตซีน · a09_010	Okubo (ช)	[ใช้ร่วม]	What...?	อะไรนะ...?
+P0901-0090	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Eh?	เอ๋?
+P0901-0091	คัตซีน · a09_010	Okubo (ช)		Yagami, I...	ยากามิ ผม...
+P0901-0092	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	What do you mean?	นายหมายความว่าไง?
+P0901-0093	คัตซีน · a09_010	Okubo (ช)		I don't understand.	ผมไม่เข้าใจเลยครับ
+P0901-0094	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	That's not even funny.	นั่นมันไม่ตลกเลยนะครับ
+P0901-0095	คัตซีน · a09_010	Okubo (ช)		You know I'm innocent.	คุณก็รู้ว่าผมบริสุทธิ์
+P0901-0096	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	I'm innocent.	ผมบริสุทธิ์
+P0901-0097	คัตซีน · a09_010	Okubo (ช)		I didn't murder Waku-san...\nor Emi-chan!	ผมไม่ได้ฆ่าวาคุซัง...\nหรือเอมิจังเลย!
+P0901-0098	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	The ADDC case and Emi's case too!	ทั้งคดี ADDC แล้วก็คดีของเอมิด้วย!
+P0901-0099	คัตซีน · a09_010	Okubo (ช)		Why won't you listen to me!?\nI've told you time and time again...	ทำไมไม่ยอมฟังผมเลย!?\nผมพูดซ้ำแล้วซ้ำเล่า...
+P0901-0100	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	I didn't do it!\nI said it over and over!	ผมไม่ได้ทำ!\nผมพูดซ้ำไปกี่ครั้งแล้ว!
+P0901-0101	คัตซีน · a09_010	Okubo (ช)		I didn't kill anyone!	ผมไม่ได้ฆ่าใครทั้งนั้น!
+P0901-0102	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	Weren't you listening!?	คุณไม่ได้ฟังเลยเหรอ!?
+P0901-0103	คัตซีน · a09_010	Okubo (ช)		Why won't people just believe me!?	ทำไมไม่มีใครยอมเชื่อผมเลย!?
+P0901-0104	คัตซีน · a09_010	Okubo (ช)	[อีกแทร็ก]	Why doesn't anyone believe me!?	ทำไมไม่มีใครเชื่อผมเลยสักคน!?
+P0901-0105	คัตซีน · a09_015	Dopey Cop (ช)		Goddammit!	บ้าเอ๊ย!
+P0901-0106	คัตซีน · a09_015	Dopey Cop (ช)	[อีกแทร็ก] [ใช้ร่วม]	Damn it!	ให้ตายสิ!
+P0901-0107	คัตซีน · a09_015	Okubo (ช)		I don't know what the hell\nI was thinking back then.	ตอนนั้นผมไม่รู้ว่า\nตัวเองคิดอะไรอยู่เหมือนกัน
+P0901-0108	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	I don't know what\nwent through my head...	ผมก็ไม่รู้ว่า\nตอนนั้นคิดอะไรอยู่...
+P0901-0109	คัตซีน · a09_015	Okubo (ช)		It all happened so fast.\nI opened the truck, and the body was there!	ทุกอย่างมันเกิดขึ้นเร็วมาก\nผมเปิดท้ายรถ แล้วก็เจอศพอยู่ตรงนั้น!
+P0901-0110	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	I wasn't expecting a corpse\nwhen I opened my truck's door!　	ผมไม่คิดเลยว่าจะเจอศพ\nตอนเปิดประตูรถบรรทุก!
+P0901-0111	คัตซีน · a09_015	Okubo (ช)		Naturally, I panicked. The police never would\nhave believed I didn't kill the guy.	ผมตกใจกลัวสุดขีดเป็นธรรมดา\nตำรวจไม่มีทางเชื่อหรอกว่าผม ไม่ได้ฆ่าเขา
+P0901-0112	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	But I knew the police wouldn't\nbelieve me for a second.	แต่ผมรู้ดีว่าตำรวจไม่มีทาง\nเชื่อผมแม้แต่วินาทีเดียว
+P0901-0113	คัตซีน · a09_015	Okubo (ช)		Course not.\nWhy would they?	ก็แน่นอนอยู่แล้ว\nจะเชื่อไปทำไม?
+P0901-0114	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	A guy with a criminal record?	คนที่มีประวัติอาชญากรรมแบบผมน่ะเหรอ?
+P0901-0115	คัตซีน · a09_015	Okubo (ช)		I already had a criminal record, too. 	ผมก็มีประวัติอาชญากรรมติดตัว อยู่แล้วด้วย
+P0901-0116	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	No one was going to\ntake my word for it...	ไม่มีใคร\nจะเชื่อคำพูดผมหรอก...
+P0901-0117	คัตซีน · a09_015	Okubo (ช)		I was a fool.	ผมมันโง่เอง
+P0901-0118	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	I remember thinking that...	ผมจำได้ว่าตอนนั้นคิดแบบนั้น...
+P0901-0119	คัตซีน · a09_015	Yagami (ช)	[ใช้ร่วม]	Okubo...	โอคุโบะ...
+P0901-0120	คัตซีน · a09_015	Yagami (ช)	[อีกแทร็ก]	I guess...　	ผมว่านะ...
+P0901-0121	คัตซีน · a09_015	Yagami (ช)		So you really were\ninnocent after all, huh?	งั้นคุณก็บริสุทธิ์\nจริงๆ สินะ?
+P0901-0122	คัตซีน · a09_015	Yagami (ช)	[อีกแทร็ก]	You really didn't do it, did you?	คุณไม่ได้ทำจริงๆ ใช่มั้ย?
+P0901-0123	คัตซีน · a09_015	Okubo (ช)		Do you even need to ask?	ยังต้องถามอีกเหรอครับ?
+P0901-0124	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	Isn't it obvious?	ไม่เห็นชัดอยู่แล้วเหรอครับ?
+P0901-0125	คัตซีน · a09_015	Yagami (ช)		I guess not.	ก็คงงั้นแหละ
+P0901-0126	คัตซีน · a09_015	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	I get it.	เข้าใจแล้ว
+P0901-0127	คัตซีน · a09_015	Okubo (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Thank you.	ขอบคุณ
+P0901-0128	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Thanks.	ขอบคุณ
+P0901-0129	คัตซีน · a09_015	Homeless Hamanaka (ช)	[ใช้ร่วม]	Yagami-san?	ยากามิซัง?
+P0901-0130	คัตซีน · a09_015	Okubo (ช)		Yagami-sensei!	อาจารย์ยากามิ!
+P0901-0131	คัตซีน · a09_015	Okubo (ช)		What about Emi?\nAren't you gonna ask me about her?	แล้วเอมิล่ะ?\nทนายไม่ถามผมเรื่องเธอบ้างเหรอ?
+P0901-0132	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	I... didn't kill Emi, either.	ผม... ไม่ได้ฆ่าเอมิเหมือนกัน
+P0901-0133	คัตซีน · a09_015	Okubo (ช)		I told you before I\nnever would have killed her!	ผมบอกไปแล้วไง\nว่าผมไม่มีวันฆ่าเธอแน่!
+P0901-0134	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	Aren't you going\nto ask about that?	ทนายจะไม่ถาม\nเรื่องนั้นบ้างเหรอ?
+P0901-0135	คัตซีน · a09_015	Yagami (ช)		I... I want to believe you.	ผม... ผมอยากจะเชื่อคุณนะ
+P0901-0136	คัตซีน · a09_015	Yagami (ช)	[อีกแทร็ก]	That's... That case is closed.	เรื่องนั้น... คดีนั้นปิดไปแล้ว
+P0901-0137	คัตซีน · a09_015	Yagami (ช)		I really do. But I already did everything I could.\nI searched nonstop for some kinda hint.	เชื่อจริงๆ นะ แต่ผมทำทุกอย่างที่ทำได้แล้ว\nตามหาเบาะแสไม่หยุดเลย
+P0901-0138	คัตซีน · a09_015	Yagami (ช)	[อีกแทร็ก]	I'd love to believe you're innocent,\nbut I did everything in my power three years ago.	ผมอยากเชื่อว่าคุณบริสุทธิ์นะ\nแต่เมื่อสามปีก่อนผมก็ทำ ทุกอย่างเท่าที่ทำได้แล้ว
+P0901-0139	คัตซีน · a09_015	Yagami (ช)		But a guy can only spend so long poring\nover burnt scraps of evidence.	แต่คนเรามันก็นั่งไล่ดู\nเศษหลักฐานที่ไหม้เกรียมได้แค่ ระดับหนึ่ง
+P0901-0140	คัตซีน · a09_015	Yagami (ช)	[อีกแทร็ก]	I looked over what little evidence\nthat didn't burn a thousand times.	หลักฐานน้อยนิดที่เหลือไม่ไหม้\nผมพลิกดูมาเป็นพันรอบแล้ว
+P0901-0141	คัตซีน · a09_015	Yagami (ช)		After three years...\nI'm not holding out much hope.	ผ่านมาสามปี...\nผมก็ไม่ได้หวังอะไรมากแล้ว
+P0901-0142	คัตซีน · a09_015	Yagami (ช)	[อีกแทร็ก]	You think something new is gonna\npop up after all this time?	คุณคิดว่าจะมีอะไรใหม่โผล่มา\nหลังผ่านมานานขนาดนี้เหรอ?
+P0901-0143	คัตซีน · a09_015	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	So.	เอาล่ะ
+P0901-0144	คัตซีน · a09_015	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Right...	อืม...
+P0901-0145	คัตซีน · a09_015	Okubo (ช)		Guess the real killer's still out there.\nJust biding his time. Waiting for my execution.	คงเป็นเพราะฆาตกรตัวจริงยังลอยนวลอยู่\nรอเวลาเฉยๆ รอวันที่ผมถูกประหาร
+P0901-0146	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	Then Emi's killer is just laughing,\nwaiting for me to die?	งั้นคนที่ฆ่าเอมิก็คงกำลังหัวเราะเยาะ\nรอดูผมตายอยู่สินะ?
+P0901-0147	คัตซีน · a09_015	Okubo (ช)		How are you and I gonna\nface Emi in the afterlife?	แล้วผมกับทนายจะไปเจอหน้าเอมิ\nที่ปรโลกกันยังไง?
+P0901-0148	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	I can't face Emi\nin the afterlife like this!	แบบนี้ผมไปเจอเอมิ\nที่ปรโลกไม่ได้หรอก!
+P0901-0149	คัตซีน · a09_015	Okubo (ช)		C'mon man, tell me how!	ช่วยบอกผมทีเถอะว่าจะทำยังไง!
+P0901-0150	คัตซีน · a09_015	Okubo (ช)	[อีกแทร็ก]	Not me, and not you!	ไม่ใช่ผม แล้วก็ไม่ใช่คุณด้วย!
+P0901-0151	คัตซีน · a09_030	Shono (ช)		Why are you two here?	ทำไมพวกคุณสองคนถึงมาอยู่ที่นี่?
+P0901-0152	คัตซีน · a09_030	Shono (ช)	[อีกแทร็ก] [ใช้ร่วม]	You two...	พวกนาย...
+P0901-0153	คัตซีน · a09_030	Yagami (ช)		Doctor Shono?\nWhat is it?	ด็อกเตอร์โชโนะ?\nมีอะไรเหรอ?
+P0901-0154	คัตซีน · a09_030	Yagami (ช)	[อีกแทร็ก]	Shono-sensei? What is it?	อาจารย์โชโนะ? มีอะไรเหรอ?
+P0901-0155	คัตซีน · a09_030	Shono (ช)		How did you get in here?	พวกคุณเข้ามาในนี้ได้ยังไง?
+P0901-0156	คัตซีน · a09_030	Shono (ช)	[อีกแทร็ก]	How'd you get in here!?	เข้ามาในนี้ได้ยังไง!?
+P0901-0157	คัตซีน · a09_030	Yagami (ช)		We just wanna ask you\na few questions, Dr. Shono.	เราแค่อยากถามคำถาม\nคุณหมอโชโนะสักหน่อยเท่านั้นเอง
+P0901-0158	คัตซีน · a09_030	Yagami (ช)	[อีกแทร็ก]	We've got a question\nthat really needs an answer.	เรามีคำถามที่\nต้องการคำตอบจริงๆ
+P0901-0159	คัตซีน · a09_030	Shono (ช)		Well, I don't have anything\nI can say to you.	ผมไม่มีอะไร\nจะพูดกับพวกคุณหรอก
+P0901-0160	คัตซีน · a09_030	Shono (ช)	[อีกแทร็ก]	There's nothing I can tell you!	ผมไม่มีอะไรจะบอกพวกคุณทั้งนั้น!
+P0901-0161	คัตซีน · a09_030	Shono (ช)		Apologies. I need you\nto handle this.	ขอโทษด้วย ช่วย\nจัดการเรื่องนี้แทนทีนะ
+P0901-0162	คัตซีน · a09_030	Shono (ช)	[อีกแทร็ก]	Apologies, but you'll have\nto handle the rest today.	ขอโทษนะ วันนี้คุณต้อง\nจัดการที่เหลือแทนผมแล้วละ
+P0901-0163	คัตซีน · a09_030	Shono (ช)		I have to go.	ผมต้องไปแล้ว
+P0901-0164	คัตซีน · a09_030	Shono (ช)	[อีกแทร็ก]	I need to go.	ผมต้องไปละ
+P0901-0165	คัตซีน · a09_030	Yagami (ช)		Where are you going?\nThis won't take long!	จะไปไหน?\nไม่นานหรอก!
+P0901-0166	คัตซีน · a09_030	Yagami (ช)	[อีกแทร็ก]	I promise we'll make this quick!	รับรองว่าเดี๋ยวเดียวจบแน่!
+P0901-0167	คัตซีน · a09_030	ADDC Staff (ช)		Sorry, I can't let you go any further.	ขอโทษด้วย ผมให้คุณผ่านไปมากกว่านี้ไม่ได้
+P0901-0168	คัตซีน · a09_030	ADDC Staff (ช)	[อีกแทร็ก]	Excuse me!\nYou need to stay where you are.	ขอโทษด้วย!\nคุณต้องอยู่ตรงนี้ก่อน
+P0901-0169	คัตซีน · a09_030	Shono (ช)		Call security.	เรียกยามมา
+P0901-0170	คัตซีน · a09_030	Shono (ช)	[อีกแทร็ก]	Call security!	เรียกยามมาเดี๋ยวนี้!
+P0901-0171	คัตซีน · a09_030	Yagami (ช)	[ใช้ร่วม]	Shono!	โชโนะ!
+P0901-0172	คัตซีน · a09_030	Honda (ช)	[ใช้ร่วม]	Let's go, Yagami-san!	ไปกันเถอะ ยากามิซัง!
+P0901-0173	คัตซีน · a09_030	Honda (ช)	[อีกแทร็ก]	Let's do it, Yagami-san!	ลุยกันเลย ยากามิซัง!
+P0901-0174	คัตซีน · a09_030	Honda (ช)		We can't let him get away!\nIt's our only chance!	ปล่อยให้มันหนีไปไม่ได้!\nนี่โอกาสเดียวของเราแล้ว!
+P0901-0175	คัตซีน · a09_030	Honda (ช)	[อีกแทร็ก]	Shono's gonna get away otherwise!	ไม่งั้นโชโนะหนีไปแน่!
+P0901-0176	คัตซีน · a09_040	Yagami (ช)		And once you made sure you\ncould pin the blame on Okubo...	แล้วพอมั่นใจแล้วว่า\nจะโยนความผิดให้โอคุโบะได้...
+P0901-0177	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	After you made it look\nlike Okubo did it...	หลังจากที่คุณทำให้ดูเหมือน\nว่าโอคุโบะเป็นคนก่อเรื่อง...
+P0901-0178	คัตซีน · a09_040	Yagami (ช)		You set fire to\nthe whole apartment.	คุณจุดไฟเผา\nอะพาร์ตเมนต์ทั้งหลัง
+P0901-0179	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	You set fire to the apartment.	คุณจุดไฟเผาอะพาร์ตเมนต์
+P0901-0180	คัตซีน · a09_040	Shono (ช)		What evidence do you have to—	คุณมีหลักฐานอะไรมา—
+P0901-0181	คัตซีน · a09_040	Shono (ช)	[อีกแทร็ก]	What are you basing any of this on!?	คุณเอาอะไรมาพูดแบบนี้!?
+P0901-0182	คัตซีน · a09_040	Yagami (ช)	[ใช้ร่วม]	Don't worry.	ไม่ต้องห่วง
+P0901-0183	คัตซีน · a09_040	Yagami (ช)		I can't prove it yet.	ตอนนี้ผมยังพิสูจน์ไม่ได้หรอก
+P0901-0184	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	I don't have any proof...	ผมยังไม่มีหลักฐาน...
+P0901-0185	คัตซีน · a09_040	Yagami (ช)		But I'm damn near positive\nI'm on the right track. 	แต่ผมค่อนข้างมั่นใจ\nว่ามาถูกทางแล้ว
+P0901-0186	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	But I'm not wrong\nabout it either.	แต่ผมก็ไม่ได้คิดผิด\nเรื่องนี้เหมือนกัน
+P0901-0187	คัตซีน · a09_040	Yagami (ช)		I can see it in your eyes.	ผมเห็นได้จากแววตาคุณ
+P0901-0188	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	Your eyes are a dead giveaway.  	แววตาคุณมันฟ้องหมดแล้ว
+P0901-0189	คัตซีน · a09_040	Yagami (ช)		Look. 	ฟังนะ
+P0901-0190	คัตซีน · a09_040	Yagami (ช)	[ซ้ำในบท x2]	I know what you're thinking.	ผมรู้ว่าคุณกำลังคิดอะไรอยู่
+P0901-0191	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	Tell me if I've got this right.	บอกผมทีว่าที่ผมคิดถูกรึเปล่า
+P0901-0192	คัตซีน · a09_040	Yagami (ช)		AD-9 will save countless people... Meaning there's\nno way you're not doing the right thing.	AD-9 จะช่วยชีวิตคนได้นับไม่ถ้วน...\nแปลว่าคุณไม่มีทางทำผิดอยู่แล้ว ใช่มั้ย
+P0901-0193	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	You're thinking once AD-9\nis finished, lives will be saved.	คุณคิดว่าพอ AD-9\nเสร็จสมบูรณ์ มันจะช่วยชีวิตคนได้
+P0901-0194	คัตซีน · a09_040	Yagami (ช)		We'll I'm sorry\nto break it to you, Shono...	ต้องขอโทษด้วยนะ\nที่ต้องบอกคุณตรงๆ โชโนะ...
+P0901-0195	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	So no matter what it costs now...	ดังนั้นไม่ว่าตอนนี้จะต้องแลก ด้วยอะไรก็ตาม...
+P0901-0196	คัตซีน · a09_040	Yagami (ช)		But that's just not true.	แต่นั่นมันไม่จริงเลย
+P0901-0197	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	I'm doing the right thing.	ผมกำลังทำสิ่งที่ถูกต้องอยู่
+P0901-0198	คัตซีน · a09_040	Yagami (ช)		You know, when someone thinks they're in the right...\nThat's when the real cruelty in people starts to come out.	รู้ไหม พอคนเราคิดว่าตัวเองถูกเมื่อไหร่...\nนั่นแหละคือตอนที่ความโหดร้าย ในตัวคนเริ่มเผยตัวออกมาจริงๆ
+P0901-0199	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	People are at their worst\nwhen they're sure they're in the right.	คนเรามักแย่ที่สุด\nตอนที่มั่นใจว่าตัวเองถูก
+P0901-0200	คัตซีน · a09_040	Yagami (ช)		So what do you say, Shono?	แล้วคุณจะว่ายังไง โชโนะ?
+P0901-0201	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	But is what you're doing...	แต่สิ่งที่คุณกำลังทำอยู่...
+P0901-0202	คัตซีน · a09_040	Yagami (ช)		Are you really right?	มันถูกต้องจริงๆ เหรอ?
+P0901-0203	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	...Really right?	...ถูกต้องจริงๆ น่ะเหรอ?
+P0901-0204	คัตซีน · a09_040	ADDC Staff (ช)		Just what is going on\nin here, dammit!?	นี่มัน\nเกิดอะไรขึ้นในนี้กันแน่!?
+P0901-0205	คัตซีน · a09_040	ADDC Staff (ช)	[อีกแทร็ก]	What's going on in here!?	เกิดอะไรขึ้นในนี้!?
+P0901-0206	คัตซีน · a09_040	Yagami (ช)		Oh, hey.\nWe were just heading out.	อ้าว ไง\nพอดีเรากำลังจะออกไปพอดีเลย
+P0901-0207	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	Oh, hi.\nWe were just on our way out.	อ้าว หวัดดี\nพอดีเรากำลังจะกลับพอดี
+P0901-0208	คัตซีน · a09_040	ADDC Staff (ช)		Why you...	ไอ้พวกนี้...
+P0901-0209	คัตซีน · a09_040	ADDC Staff (ช)	[อีกแทร็ก] [ใช้ร่วม]	You little...	แกนี่มัน...!
+P0901-0210	คัตซีน · a09_040	Yagami (ช)		And by the way...\nSo sorry to hear about AD-9.	แล้วก็อีกอย่างนะ...\nเสียใจด้วยจริงๆ เรื่อง AD-9
+P0901-0211	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	AD-9's not really doing so hot, is it?	AD-9 ท่าจะไปได้ไม่สวยเท่าไหร่เลยนะ?
+P0901-0212	คัตซีน · a09_040	Yagami (ช)		Maybe you, uh...\nneed a few more humans to test it on?	หรือว่าคุณ เอ่อ...\nต้องการหนูทดลองมนุษย์เพิ่มอีก สักหน่อย?
+P0901-0213	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	Think you'll need a few\nmore human guinea pigs?	คิดว่าจะต้องหา\nหนูทดลองมนุษย์เพิ่มอีกมั้ยล่ะ?
+P0901-0214	คัตซีน · a09_040	Yagami (ช)		Don't worry. Shono-san here\ndidn't tell us a damn thing.	ไม่ต้องห่วงหรอก คุณโชโนะ\nไม่ได้บอกอะไรเราเลยสักนิด
+P0901-0215	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	Don't worry.\nShono-san has kept his mouth shut.	ไม่ต้องห่วง\nคุณโชโนะปิดปากเงียบมาตลอด
+P0901-0216	คัตซีน · a09_040	Yagami (ช)		But hey.	แต่เอาเถอะนะ
+P0901-0217	คัตซีน · a09_040	Yagami (ช)		I'm gonna find out the truth.	ผมจะขุดความจริงออกมาให้ได้
+P0901-0218	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	I'm gonna expose everything.	ผมจะแฉทุกอย่างออกมาให้หมด
+P0901-0219	คัตซีน · a09_040	Yagami (ช)		Even if it's the last thing I do.	ต่อให้เป็นสิ่งสุดท้ายที่ผมทำก็ตาม
+P0901-0220	คัตซีน · a09_040	Yagami (ช)	[อีกแทร็ก]	And it'll be poetic coming from me.	และคงเหมาะเจาะดีที่เป็นผมเอง ที่จะทำแบบนี้
+P0901-0221	คัตซีน · a09_050	Interrogating Detective (ช)		Whoops. My foot slipped.	อุ๊ย เท้าลื่นไปหน่อยน่ะ
+P0901-0222	คัตซีน · a09_050	Interrogating Detective (ช)	[อีกแทร็ก]	Whoops, my bad. 	อุ๊ย พลาดไปหน่อย
+P0901-0223	คัตซีน · a09_050	Interrogating Detective (ช)		How clumsy of me.	ซุ่มซ่ามจริงๆ เรา
+P0901-0224	คัตซีน · a09_050	Interrogating Detective (ช)	[อีกแทร็ก]	My foot musta slipped.	เท้าคงลื่นไปเองมั้ง
+P0901-0225	คัตซีน · a09_050	Interrogating Detective (ช)		That hurt? Huh?	เจ็บเหรอ? หา?
+P0901-0226	คัตซีน · a09_050	Interrogating Detective (ช)	[อีกแทร็ก]	Did that hurt?	เจ็บมั้ยล่ะ?
+P0901-0227	คัตซีน · a09_050	Interrogating Detective (ช)		I asked you if it hurt!	ถามอยู่ว่าเจ็บมั้ยไง!
+P0901-0228	คัตซีน · a09_050	Okubo (ช)		Please...! I didn't kill her!	ขอร้อง...! ผมไม่ได้ฆ่าเธอ!
+P0901-0229	คัตซีน · a09_050	Okubo (ช)	[อีกแทร็ก]	I didn't do it...!	ผมไม่ได้ทำ...!
+P0901-0230	คัตซีน · a09_050	Okubo (ช)		You have to believe me!	พวกคุณต้องเชื่อผมสิ!
+P0901-0231	คัตซีน · a09_050	Okubo (ช)	[อีกแทร็ก]	I didn't do anything!	ผมไม่ได้ทำอะไรเลย!
+P0901-0232	คัตซีน · a09_050	Interrogating Detective (ช)		Crying's not gonna\nhelp you now, kid.	ร้องไห้ตอนนี้\nมันไม่ช่วยอะไรหรอกไอ้หนู
+P0901-0233	คัตซีน · a09_050	Interrogating Detective (ช)	[อีกแทร็ก]	You've got no right to cry.	แกไม่มีสิทธิ์มาร้องไห้หรอก
+P0901-0234	คัตซีน · a09_050	Interrogating Detective (ช)		Just like it didn't\nhelp Emi Terasawa.	เหมือนที่มันไม่ช่วยอะไร\nเอมิ เทราซาวะเลยไง
+P0901-0235	คัตซีน · a09_050	Interrogating Detective (ช)	[อีกแทร็ก]	Emi Terasawa was crying while you\nstabbed her over and over!	เอมิ เทราซาวะร้องไห้\nตอนที่แกแทงเธอซ้ำแล้วซ้ำเล่า!
+P0901-0236	คัตซีน · a09_050	Interrogating Detective (ช)		You still stabbed her in the fucking\nstomach didn't you, you little shit!	แกยังแทงเข้าที่ท้องเธอ\nซ้ำแล้วซ้ำเล่าไม่ใช่เหรอ ไอ้ระยำ!
+P0901-0237	คัตซีน · a09_050	Interrogating Detective (ช)	[อีกแทร็ก]	You're a monster!	แกมันปีศาจชัดๆ!
+P0901-0238	คัตซีน · a09_060	Yagami (ช)		Look, Okubo. I don't want to go\ngetting your hopes up just yet...	ฟังนะ โอคุโบะ ผมยังไม่อยากให้\nคุณหวังมากเกินไปตอนนี้...
+P0901-0239	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	Hey... Don't get your hopes\nup just yet, but...	เฮ้อ... อย่าเพิ่งหวังมาก\nเกินไปนะ แต่ว่า...
+P0901-0240	คัตซีน · a09_060	Okubo (ช)	[ใช้ร่วม]	But?	แต่อะไร?
+P0901-0241	คัตซีน · a09_060	Okubo (ช)	[อีกแทร็ก] [ใช้ร่วม]	Sorry?	ว่าไงนะ?
+P0901-0242	คัตซีน · a09_060	Yagami (ช)		Just listen.	ฟังก่อนเถอะ
+P0901-0243	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	You're...	คุณคือ...
+P0901-0244	คัตซีน · a09_060	Yagami (ช)		I was gonna say...\nI believe you.	ที่ผมจะพูดคือ...\nผมเชื่อคุณ
+P0901-0245	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	Innocent.	คุณบริสุทธิ์
+P0901-0246	คัตซีน · a09_060	Yagami (ช)		You didn't kill her.\nI can see that now.	คุณไม่ได้ฆ่าเธอ\nตอนนี้ผมมองออกแล้ว
+P0901-0247	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	I don't think you've killed anyone.	ผมไม่คิดว่าคุณเคยฆ่าใครเลย
+P0901-0248	คัตซีน · a09_060	Yagami (ช)		It'll all work out.	ทุกอย่างจะต้องเรียบร้อย
+P0901-0249	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	Which means I'm...	ก็แปลว่าผม...
+P0901-0250	คัตซีน · a09_060	Yagami (ช)		I'm gonna avenge Emi-chan.	ผมจะแก้แค้นให้เอมิจัง
+P0901-0251	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	I'm going to avenge Emi-chan.	ผมจะล้างแค้นให้เอมิจัง
+P0901-0252	คัตซีน · a09_060	Yagami (ช)		And I swear I'm gonna\nget you out of here.	และผมสาบานว่าจะ\nพาคุณออกไปจากที่นี่ให้ได้
+P0901-0253	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	And I'm going to get you out of here.	และผมจะพาคุณออกไปจากที่นี่
+P0901-0254	คัตซีน · a09_060	Yagami (ช)		I promise.	ผมสัญญา
+P0901-0255	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	I swear.	ผมขอสาบาน
+P0901-0256	คัตซีน · a09_060	Yagami (ช)		Sorry, I... I should have said\nthat to you a lot sooner.	ขอโทษนะ ผม... ผมน่าจะพูด\nแบบนี้กับคุณตั้งนานแล้ว
+P0901-0257	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	I know...\nI should have told you a lot sooner.	ผมรู้...\nผมน่าจะบอกคุณตั้งนานแล้ว
+P0901-0258	คัตซีน · a09_060	Yagami (ช)		What was I doing...? 	ผมมัวทำอะไรอยู่กันแน่...?
+P0901-0259	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	But for whatever reason...	แต่ด้วยเหตุผลอะไรก็ไม่รู้...
+P0901-0260	คัตซีน · a09_060	Yagami (ช)		These three years...	สามปีที่ผ่านมานี้...
+P0901-0261	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	For three years...	ตลอดสามปีที่ผ่านมา...
+P0901-0262	คัตซีน · a09_060	Yagami (ช)		I didn't do a damn thing\nto help you!	ผมไม่ได้ทำอะไร\nช่วยคุณเลยสักนิด!
+P0901-0263	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	I didn't do a damn thing!	ผมไม่ได้ทำอะไรเลยสักอย่าง!
+P0901-0264	คัตซีน · a09_060	Yagami (ช)		So, uh...	คือ เอ่อ...
+P0901-0265	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	So I'm asking...	ผมเลยอยากจะขอ...
+P0901-0266	คัตซีน · a09_060	Yagami (ช)		Will you give me another chance?	ทนายจะให้โอกาสผมอีกครั้งได้มั้ย?
+P0901-0267	คัตซีน · a09_060	Yagami (ช)	[อีกแทร็ก]	Will you give me a chance to make it right?	ทนายจะให้โอกาสผมแก้ตัวมั้ย?
+P0901-0268	คัตซีน · a09_060	Okubo (ช)		Of course I will.	ได้อยู่แล้วครับ
+P0901-0269	คัตซีน · a09_060	Okubo (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Of course.	ได้เลย
+P0901-0270	คัตซีน · a09_060	Okubo (ช)	[อีกแทร็ก]	It should be me...	ควรจะเป็นผมสิ...
+P0901-0271	คัตซีน · a09_060	Okubo (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Thank you so much!	ขอบคุณมากๆ เลย!
+P0901-0272	คัตซีน · a09_060	Okubo (ช)	[อีกแทร็ก]	...Begging you for this, Yagami-sensei!	...ที่ต้องมาขอร้องแบบนี้ อาจารย์ยากามิ!
+P0901-0273	ฉากพิเศษ · b09_010	Yagami (ช)		I'm sure Waku-san's death\ncame as a complete shock to you.	ผมมั่นใจว่าการตายของวาคุซัง\nคงทำให้คุณตกใจสุดขีด
+P0901-0274	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	Waku-san's death came as a\ncomplete shock to you, didn't it?	การตายของวาคุซังคงทำให้คุณ\nตกใจสุดขีดเลยใช่ไหม?
+P0901-0275	ฉากพิเศษ · b09_010	Yagami (ช)		But you didn't have time to panic.\nYou needed to hide the body, fast.	แต่คุณไม่มีเวลาตื่นตระหนก\nคุณต้องซ่อนศพให้เร็วที่สุด
+P0901-0276	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	But, in your panic,\nhiding the body sounded practically logical.	แต่ในความตื่นตระหนกของคุณ\nการซ่อนศพก็ฟังดูเป็นทางออกที่ เข้าท่าที่สุด
+P0901-0277	ฉากพิเศษ · b09_010	Yagami (ช)		So, you used the laundry cart\nto transport it without raising suspicion.	คุณจึงใช้รถเข็นผ้าปูที่นอน\nขนย้ายศพโดยไม่ให้ใครเอะใจ
+P0901-0278	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	And the laundry cart was\nthe perfect way to get him out.	และรถเข็นผ้าปูที่นอนก็เป็น\nวิธีที่สมบูรณ์แบบในการขนเขาออกไป
+P0901-0279	ฉากพิเศษ · b09_010	Yagami (ช)		You just needed to get it\nas far away as possible.	คุณแค่ต้องเอามันไปให้ไกล\nที่สุดเท่าที่จะทำได้
+P0901-0280	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	You just wanted to get him\nas far away as possible.	คุณแค่อยากพาเขาไปให้ไกล\nที่สุดเท่าที่จะทำได้
+P0901-0281	ฉากพิเศษ · b09_010	Yagami (ช)		Then, just before 8:00 AM, Shinpei Okubo\narrived at the hospital to gather the linens.	จากนั้น ก่อน 8 โมงเช้าเล็กน้อย ชินเป โอคุโบะ\nมาถึงโรงพยาบาลเพื่อเก็บผ้าปูที่นอน
+P0901-0282	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	Then Shinpei Okubo showed up at work\nto gather the sheets just before 8:00.	จากนั้นชินเป โอคุโบะก็มาทำงาน\nเพื่อเก็บผ้าปูที่นอนก่อน 8 โมงเล็กน้อย
+P0901-0283	ฉากพิเศษ · b09_010	Yagami (ช)		That was your chance. You waited for an opening.\nHid the body in his truck.	นั่นคือโอกาสของคุณ คุณรอจังหวะเหมาะ\nแล้วซ่อนศพไว้ในรถบรรทุกของเขา
+P0901-0284	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	It was your shot. You saw an opening\nand hid the body in his truck.	นั่นคือโอกาสของคุณ คุณเห็นช่องว่าง\nแล้วซ่อนศพไว้ในรถบรรทุกของเขา
+P0901-0285	ฉากพิเศษ · b09_010	Yagami (ช)		That wouldn't solve anything, though.	แต่นั่นก็ไม่ได้แก้ปัญหาอะไรเลย
+P0901-0286	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	Still... What would happen if Okubo\nfound him and called the cops?	แต่ถึงอย่างนั้น... จะเกิดอะไรขึ้นถ้าโอคุโบะ\nเจอเขาแล้วแจ้งตำรวจล่ะ?
+P0901-0287	ฉากพิเศษ · b09_010	Yagami (ช)		Okubo would find Waku-san,\nand of course call the cops.	โอคุโบะย่อมเจอวาคุซัง\nแล้วก็ต้องแจ้งตำรวจแน่นอน
+P0901-0288	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	Not much of a solution, was it?	ไม่ใช่ทางออกที่ดีนักใช่ไหมล่ะ?
+P0901-0289	ฉากพิเศษ · b09_010	Yagami (ช)		Naturally, they'd then search\nfor whoever stashed the body there.	เป็นธรรมดาที่พวกเขาจะสืบหาต่อ\nว่าใครเป็นคนซ่อนศพไว้ที่นั่น
+P0901-0290	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	They'd open a search for whoever\nstashed the body in the truck.	พวกเขาจะเปิดการสืบสวนเพื่อหาว่า\nใครเป็นคนซ่อนศพไว้ในรถบรรทุก
+P0901-0291	ฉากพิเศษ · b09_010	Yagami (ช)		But you didn't have\nany other choice, did you?	แต่คุณก็ไม่มี\nทางเลือกอื่นแล้วใช่ไหม?
+P0901-0292	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	But in your mind, you didn't\nhave much choice, did you?	แต่ในใจคุณ คุณคง\nไม่เหลือทางเลือกมากนักใช่ไหม?
+P0901-0293	ฉากพิเศษ · b09_010	Yagami (ช)		You had to take the risk.\nAnd somehow, it paid off.	คุณต้องเสี่ยง\nและมันก็ได้ผลจนได้
+P0901-0294	ฉากพิเศษ · b09_010	Yagami (ช)		Turned out Shinpei Okubo had a criminal record, and was\nworried the police would suspect he murdered Waku-san.	ปรากฏว่าชินเป โอคุโบะมีประวัติอาชญากรรม และ\nกลัวว่าตำรวจจะสงสัยว่าเขาฆ่าวาคุซัง
+P0901-0295	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	Turns out, Shinpei Okubo had a criminal record,\nand was worried <font_kind=yakuza_italic>he'd</font_kind> be the prime suspect.	ปรากฏว่าชินเป โอคุโบะมีประวัติอาชญากรรม\nและกลัวว่า<font_kind=yakuza_italic>ตัวเอง</font_kind> จะกลายเป็นผู้ต้องสงสัยหลัก
+P0901-0296	ฉากพิเศษ · b09_010	Yagami (ช)		So he didn't report it...	เขาจึงไม่แจ้งเรื่องนี้...
+P0901-0297	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	So instead...	แต่กลับ...
+P0901-0298	ฉากพิเศษ · b09_010	Yagami (ช)		Instead choosing to bury the body\ndeep in the Okutama mountains.	เลือกที่จะฝังศพ\nไว้ลึกในภูเขาโอคุทามะแทน
+P0901-0299	ฉากพิเศษ · b09_010	Yagami (ช)	[อีกแทร็ก]	He took Waku-san up to the\nmountains and buried him there.	เขาพาวาคุซังขึ้นไปบน\nภูเขาแล้วฝังไว้ที่นั่น
+P0901-0300	พากย์ · speech_list_judge_main_c09	? (ญ)		The apparent cause is a small explosion which\ntook place in a covert gambling hall not long ago.	สาเหตุเบื้องต้นคาดว่าเกิดจาก ระเบิดขนาดเล็กซึ่ง\nเกิดขึ้นในบ่อนพนันลับ เมื่อไม่นานมานี้
+P0901-0301	พากย์ · speech_list_judge_main_c09	? (ญ)	[อีกแทร็ก]	The apparent cause is a small explosion\nwhich took place in a covert gambling hall not long ago.	สาเหตุเบื้องต้นคาดว่าเกิดจาก ระเบิดขนาดเล็ก\nซึ่งเกิดขึ้นในบ่อนพนันลับ เมื่อไม่นานมานี้
+P0901-0302	พากย์ · speech_list_judge_main_c09	? (ญ)		Eyewitnesses claim they heard the sound of explosives\nbeing detonated in the establishment.	พยานที่อยู่ในเหตุการณ์ระบุว่า ได้ยินเสียงระเบิด\nดังขึ้นภายในร้าน
+P0901-0303	พากย์ · speech_list_judge_main_c09	? (ญ)	[อีกแทร็ก]	According to our sources, a grenade may have\nbeen detonated inside the building.	แหล่งข่าวของเราแจ้งว่าอาจมีการ จุดชนวน\nระเบิดมือภายในอาคาร
+P0901-0304	พากย์ · speech_list_judge_main_c09	? (ญ)		However, the building was deserted by the time firefighters\nand police arrived on the scene.	อย่างไรก็ตาม เมื่อเจ้าหน้าที่ดับเพลิงและตำรวจ\nมาถึงที่เกิดเหตุ อาคารดังกล่าวก็ไม่มีผู้ใดอยู่แล้ว
+P0901-0305	พากย์ · speech_list_judge_main_c09	? (ญ)	[อีกแทร็ก]	However, the structure was deserted by the time\nfirefighters and police arrived on the scene.	อย่างไรก็ตาม เมื่อเจ้าหน้าที่ดับเพลิงและ ตำรวจมาถึง\nที่เกิดเหตุ ตัวอาคารก็ไม่มีผู้ใดอยู่แล้ว
+P0901-0306	พากย์ · speech_list_judge_main_c09	? (ญ)		With the horror of gang violence still fresh in our minds,\nthe incident only raises tension across the city.	ท่ามกลางความหวาดผวาจากเหตุ รุนแรงของแก๊งอาชญากรที่ยังไม่ จางหาย\nเหตุการณ์นี้ยิ่งเพิ่ม ความตึงเครียดไปทั่วเมือง
+P0901-0307	พากย์ · speech_list_judge_main_c09	? (ญ)	[อีกแทร็ก]	With Kamurocho's gang violence still fresh in our minds,\ntension is high throughout the city.	ท่ามกลางความหวาดผวาจากเหตุ รุนแรงของแก๊งอาชญากร ในคามุโรโจที่ยังไม่จางหาย\nความตึงเครียดกำลังพุ่งสูงไปทั่วเมือง
+P0901-0308	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		Sounds like the plan didn't go so well.	ฟังดูเหมือนแผนจะไม่ค่อยราบรื่นนะ
+P0901-0309	พากย์ · speech_list_judge_main_c09	Hoshino (ช)	[อีกแทร็ก]	Yikes... Sounds like the plan\ndidn't go so well.	แย่จัง... ฟังดูเหมือนแผน\nจะไม่ค่อยราบรื่นเลยนะ
+P0901-0310	พากย์ · speech_list_judge_main_c09	? (ช)		Which is how you found out Shono is the one\ngiving him orders, right? Not Director Kido.	นั่นแหละที่ทำให้รู้ว่าคน สั่งการมันจริง ๆ คือโชโนะ\nใช่มั้ย ไม่ใช่ผู้อำนวยการคิโดะ?
+P0901-0311	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	And... that's how you found out Shono is the one\ngiving him orders, yes? Not Director Kido.	แล้ว... นั่นแหละที่ทำให้รู้ว่าคน สั่งการคือโชโนะ\nใช่มั้ย ไม่ใช่ผู้อำนวยการคิโดะ?
+P0901-0312	พากย์ · speech_list_judge_main_c09	? (ช)		You... can tell that just from a look?	นาย... ดูออกจากแค่สีหน้าเนี่ยนะ?
+P0901-0313	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	You... got that from a look?	นาย... รู้ได้จากแค่สีหน้าเนี่ยนะ?
+P0901-0314	พากย์ · speech_list_judge_main_c09	? (ช)		Well, I guess that look is all\nwe have to go off.	เอาเถอะ สีหน้านั้นคงเป็นเบาะแสเดียว\nที่เรามีตอนนี้
+P0901-0315	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, I guess that look\nis the best clue we have.	เอาเถอะ สีหน้านั้น\nคงเป็นเบาะแสที่ดีที่สุดที่เรามี
+P0901-0316	พากย์ · speech_list_judge_main_c09	? (ช)		Don't be mean, Yagami-san.\nOf course I came to help.	อย่าใจร้ายแบบนี้สิครับ ยากามิซัง\nผมมาช่วยจริง ๆ นะ
+P0901-0317	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Of course not. I came to help you,\nnot make fun of you.	เปล่าเลยครับ ผมมาช่วยคุณ\nไม่ได้มาแซวเล่นสักหน่อย
+P0901-0318	พากย์ · speech_list_judge_main_c09	? (ช)		I found someone who's an expert on AD-9.	ผมหาคนที่เชี่ยวชาญเรื่อง AD-9 เจอแล้วครับ
+P0901-0319	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I found someone who's an expert\non AD-9.	ผมหาผู้เชี่ยวชาญ\nเรื่อง AD-9 เจอแล้วครับ
+P0901-0320	พากย์ · speech_list_judge_main_c09	? (ช)		Looking into that research paper might be our\nbest shot at finding more leads.	การสืบเรื่องงานวิจัยฉบับนั้น อาจเป็นโอกาสที่ดีที่สุด\nที่จะหาเบาะแสเพิ่มได้ครับ
+P0901-0321	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If we want leads, it might be best\nif we focus on the research paper.	ถ้าอยากได้เบาะแสเพิ่ม เราน่าจะ\nโฟกัสที่งานวิจัยฉบับนั้นครับ
+P0901-0322	พากย์ · speech_list_judge_main_c09	? (ช)		And I don't know about you,\nbut I can't understand a word of what it says.	แล้วผมไม่รู้ว่ายากามิซังเป็นยังไง\nแต่ผมอ่านไม่รู้เรื่องเลยสักคำ
+P0901-0323	พากย์ · speech_list_judge_main_c09	? (ช)		But I found somebody who can.	แต่ผมหาคนที่อ่านออกเจอแล้ว
+P0901-0324	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But I think I've found someone\nwho can.	แต่ผมคิดว่าหาคนที่อ่านออก\nเจอแล้วนะครับ
+P0901-0325	พากย์ · speech_list_judge_main_c09	? (ช)		Just... don't get mad, okay?	แค่... อย่าเพิ่งโมโหนะครับ โอเคมั้ย?
+P0901-0326	พากย์ · speech_list_judge_main_c09	? (ช)		Well, that expert I found...\nIt's Hattori-san, that journalist you kinda hate.	คือว่า... ผู้เชี่ยวชาญที่ผมเจอน่ะครับ\nก็คือฮัตโตริซัง นักข่าวที่ยากามิซังไม่ค่อยชอบ นั่นแหละ
+P0901-0327	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That expert I found...\nIt's Hattori-san, the journalist.	ผู้เชี่ยวชาญที่ผมเจอน่ะครับ...\nก็คือฮัตโตริซัง นักข่าวคนนั้น
+P0901-0328	พากย์ · speech_list_judge_main_c09	? (ช)		Please, he's written a lot of articles on AD-9\nand has interviewed all the top medical researchers.	เชื่อเถอะครับ เขาเขียนบทความเรื่อง AD-9 มาเยอะมาก\nแล้วก็สัมภาษณ์นักวิจัย ทางการแพทย์ชั้นนำมาแล้วทุกคน
+P0901-0329	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Hattori-san's written a lot of articles on AD-9, and\nhe's interviewed all the top medicinal researchers.	ฮัตโตริซังเขียนบทความเรื่อง AD-9 มาเยอะมากครับ\nแล้วก็สัมภาษณ์นักวิจัยด้านยา ชั้นนำมาแล้วทุกคน
+P0901-0330	พากย์ · speech_list_judge_main_c09	? (ช)		He said he'd tell us what we want to know\nif you asked him nicely...	เขาบอกว่าจะเล่าให้ฟังเท่าที่ เราอยากรู้\nถ้ายากามิซังขอดี ๆ...
+P0901-0331	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	He said he'd tell us what we want to know\nif you asked him <font_kind=yakuza_italic>really</font_kind> nicely...	เขาบอกว่าจะเล่าให้ฟังเท่าที่ เราอยากรู้\nถ้ายากามิซังขอดี ๆ <font_kind=yakuza_italic>จริง ๆ</font_kind>...
+P0901-0332	พากย์ · speech_list_judge_main_c09	Hattori (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Yagami-san!	ยากามิซัง!
+P0901-0333	พากย์ · speech_list_judge_main_c09	? (ช)		That research could contain vital information\nfor this case we're building.	งานวิจัยนั้นอาจมีข้อมูลสำคัญ\nสำหรับคดีที่เรากำลังสร้างอยู่นะครับ
+P0901-0334	พากย์ · speech_list_judge_main_c09	? (ช)		This isn't an opportunity\nwe can afford to miss.	นี่ไม่ใช่โอกาส\nที่เราจะปล่อยผ่านไปได้ครับ
+P0901-0335	พากย์ · speech_list_judge_main_c09	? (ช)		Hattori-san's waiting for you at Kyushu No. 1 Star.\nApparently he's doing a story on them.	ฮัตโตริซังรอยากามิซังอยู่ที่ คิวชูนัมเบอร์วันสตาร์ครับ\nได้ยินว่าเขากำลังเขียนข่าว เกี่ยวกับร้านนี้อยู่
+P0901-0336	พากย์ · speech_list_judge_main_c09	? (ช)		Come on, Yagami-san.\nGet going.	เร็วเข้าครับ ยากามิซัง\nไปกันเถอะ
+P0901-0337	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Sound good?\nPlease, we need this.	โอเคมั้ยครับ?\nขอร้องละ เราต้องการมันจริง ๆ
+P0901-0338	พากย์ · speech_list_judge_main_c09	Yagami (ช)		They were desperate.\nStill, we did manage to talk to Hamura.	พวกมันจนตรอกกันจริง ๆ\nแต่ถึงอย่างนั้นเราก็ได้คุยกับ ฮามุระแล้ว
+P0901-0339	พากย์ · speech_list_judge_main_c09	? (ช)		Yup. At least, that's the\nlook he was giving us.	ใช่ อย่างน้อยก็จาก\nสีหน้าที่มันแสดงให้เราเห็น
+P0901-0340	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That's what I read from\nHamura's face, anyway.	ยังไงก็เถอะ นั่นคือสิ่งที่ผม\nอ่านได้จากสีหน้าของฮามุระ
+P0901-0341	พากย์ · speech_list_judge_main_c09	? (ช)		Gimme a break.\nI don't know how else to put it.	ขอทีเถอะ\nผมก็อธิบายได้แค่นี้แหละ
+P0901-0342	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Don't rub it in.\nI don't know how else to put it.	อย่าซ้ำเติมกันสิ\nผมก็อธิบายได้แค่นี้แหละ
+P0901-0343	พากย์ · speech_list_judge_main_c09	? (ช)		Did you come to taunt me or help me?	มาแซวผมหรือมาช่วยกันแน่?
+P0901-0344	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Oh yeah? Is that sarcasm?	อ๋อเหรอ? นั่นมันประชดใช่มั้ย?
+P0901-0345	พากย์ · speech_list_judge_main_c09	? (ช)		Help how?	ช่วยยังไง?
+P0901-0346	พากย์ · speech_list_judge_main_c09	? (ช)		Yup, same.	อือ เหมือนกัน
+P0901-0347	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Same.	เหมือนกัน
+P0901-0348	พากย์ · speech_list_judge_main_c09	? (ช)		I'm impressed.\nGood work, Hoshino-kun.	น่าประทับใจนี่\nทำได้ดีมาก โฮชิโนะคุง
+P0901-0349	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Whoa. Good work, Hoshino-kun.	โห ทำได้ดีมาก โฮชิโนะคุง
+P0901-0350	พากย์ · speech_list_judge_main_c09	? (ช)		Mad? Why would I get mad?	โมโห? ผมจะโมโหทำไมล่ะ?
+P0901-0351	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Why would I?	ผมจะไปโมโหทำไม?
+P0901-0352	พากย์ · speech_list_judge_main_c09	seiya_girl (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x4]	What?	อะไรนะ?
+P0901-0353	พากย์ · speech_list_judge_main_c09	? (ช)		That guy? Seriously?\nThis has gotta be some kind of joke.	ไอ้นั่นเหรอ? จริงจังปะเนี่ย?\nนี่มันต้องมุกอะไรสักอย่างแน่ ๆ
+P0901-0354	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That guy? Seriously?\nYou gotta be kidding.	ไอ้นั่นเหรอ? จริงจังปะเนี่ย?\nล้อเล่นใช่มั้ย
+P0901-0355	พากย์ · speech_list_judge_main_c09	? (ช)		Yeah, you know what? Let's drop it.\nI don't care about the paper.	รู้อะไรมั้ย? เลิกคุยเรื่องนี้เถอะ\nผมไม่สนงานวิจัยนั่นหรอก
+P0901-0356	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Nope. You know, I think we'll be fine without.\nI don't care about the paper.	ไม่เอาละ ผมว่าไม่มีมันก็ไม่เป็นไร\nผมไม่สนงานวิจัยนั่นหรอก
+P0901-0357	พากย์ · speech_list_judge_main_c09	seiya_girl (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	...What?	...ว่าไงนะ?
+P0901-0358	พากย์ · speech_list_judge_main_c09	? (ช)		But if we ask him for help now,\nhe's gonna want something in return later...	แต่ถ้าเราไปขอให้เขาช่วยตอนนี้\nเดี๋ยวมันก็ต้องเรียกร้องอะไร กลับมาทีหลังแน่ ๆ...
+P0901-0359	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yeah, but when you\nask the devil for a favor...	ใช่ครับ แต่เวลาไป\nขอความช่วยเหลือจากปีศาจ...
+P0901-0360	พากย์ · speech_list_judge_main_c09	Hattori (ช)		Hm? Oh, I didn't notice\nyou there, Yagami-san.	หืม? อ้อ ไม่ทันสังเกต\nเห็นว่ายากามิซังมาแล้ว
+P0901-0361	พากย์ · speech_list_judge_main_c09	Hattori (ช)	[อีกแทร็ก]	Hm? Oh, I didn't notice you\nthere, Yagami-san.	หืม? อ้อ ไม่ทันสังเกตว่ายากามิซัง\nยืนอยู่ตรงนั้น
+P0901-0362	พากย์ · speech_list_judge_main_c09	? (ช)		The resolution on these things is plenty high\nnowadays. You have a problem?	สมัยนี้ความละเอียดของกล้อง มือถือมันสูงจะตาย\nอยู่แล้ว มีปัญหาอะไรวะ?
+P0901-0363	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yes. The resolution on these things is plenty high nowadays.\nThat a problem?	ใช่ สมัยนี้ความละเอียดกล้องมือถือ มันสูงจะตายอยู่แล้ว\nมีปัญหาอะไรวะ?
+P0901-0364	พากย์ · speech_list_judge_main_c09	? (ช)		I only report on things that interest me.\nThat's my professional philosophy.	ฉันรายงานแค่เรื่องที่ฉันสนใจ เท่านั้นแหละ\nนั่นแหละหลักการทำงานของฉัน
+P0901-0365	พากย์ · speech_list_judge_main_c09	? (ช)		Don't worry,\nI'll be done soon.	ไม่ต้องห่วง\nเดี๋ยวก็เสร็จแล้ว
+P0901-0366	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I'll be done in a sec.	เดี๋ยวเสร็จแป๊บเดียว
+P0901-0367	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		Yes. Hattori-san is making\ntime especially for you.	ใช่ครับ ฮัตโตริซังสละเวลา\nให้ยากามิซังเป็นพิเศษเลยนะ
+P0901-0368	พากย์ · speech_list_judge_main_c09	Hoshino (ช)	[อีกแทร็ก]	Yes, he's making time\nespecially for you, Yagami-san.	ใช่ครับ เขาสละเวลา\nให้ยากามิซังเป็นพิเศษเลย
+P0901-0369	พากย์ · speech_list_judge_main_c09	? (ช)		There's no reason for me to come along.	ไม่มีเหตุผลอะไรที่ผมต้องไปด้วย เลยครับ
+P0901-0370	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	There's no reason for me\nto come along.	ไม่มีเหตุผลอะไรที่ผม\nต้องไปด้วยเลยครับ
+P0901-0371	พากย์ · speech_list_judge_main_c09	? (ช)		Just imagine you're going for a nice bowl of ramen.\nYou'll be done before you know it.	ลองคิดซะว่าไปกินราเมงอร่อย ๆ สักชามก็แล้วกันครับ\nเดี๋ยวก็เสร็จแล้ว
+P0901-0372	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If it helps, just imagine you're going to this\nKyushu No. 1 Star for a bowl of ramen? Yeah?	ถ้าช่วยได้ ลองคิดซะว่าจะไปกินราเมงที่คิวชู\nนัมเบอร์วันสตาร์เฉย ๆ ก็ได้ครับ ว่ามั้ย?
+P0901-0373	พากย์ · speech_list_judge_main_c09	? (ช)		Do I seriously have to go alone for this?	ผมต้องไปคนเดียวจริง ๆ เหรอเนี่ย?
+P0901-0374	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Hattori-san's bad enough,\nbut I have deal with him alone?	แค่ฮัตโตริซังก็แย่พออยู่แล้ว\nยังต้องรับมือคนเดียวอีกเหรอ?
+P0901-0375	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[ใช้ร่วม]	...Hattori-san.	...ฮัตโตริซัง
+P0901-0376	พากย์ · speech_list_judge_main_c09	? (ช)		Don't tell me you're using a phone camera\nto take pictures for your article.	อย่าบอกนะว่าใช้กล้องมือถือ\nถ่ายรูปลงบทความ
+P0901-0377	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Not really, no.	ก็ไม่หรอกครับ
+P0901-0378	พากย์ · speech_list_judge_main_c09	? (ช)		Just didn't know sensationalist\nfood columns were a thing.	แค่ไม่รู้ว่ามีคอลัมน์\nอาหารแนวขายข่าวฉาวด้วยแฮะ
+P0901-0379	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Turning into a gourmet reporter\nor something?	จะผันตัวมาเป็นนักข่าวสายกิน\nหรือไง?
+P0901-0380	พากย์ · speech_list_judge_main_c09	? (ช)		Well is it gonna take a while?\nI'm here to talk.	แล้วมันจะใช้เวลานานมั้ย?\nผมมาคุยธุระนะ
+P0901-0381	พากย์ · speech_list_judge_main_c09	Hattori (ช)		All right, I'm done.\nThanks for stopping by, Yagami-san.	เอาละ เสร็จแล้ว\nขอบคุณที่แวะมานะ ยากามิซัง
+P0901-0382	พากย์ · speech_list_judge_main_c09	Hattori (ช)	[อีกแทร็ก]	All right, I'm done.\nThanks for coming by.	เอาละ เสร็จแล้ว\nขอบคุณที่แวะมานะ
+P0901-0383	พากย์ · speech_list_judge_main_c09	Hattori (ช)		Kinda strange sharing a bowl\nof ramen with you.	รู้สึกแปลก ๆ ที่ต้องกิน\nราเมงชามเดียวกับนายแฮะ
+P0901-0384	พากย์ · speech_list_judge_main_c09	Hattori (ช)	[อีกแทร็ก]	Kinda strange, sharing a bowl\nof ramen with you.	รู้สึกแปลก ๆ ที่ได้กิน\nราเมงชามเดียวกับนายเนี่ย
+P0901-0385	พากย์ · speech_list_judge_main_c09	? (ช)		I thought the day would never come.	นึกว่าวันแบบนี้จะไม่มีวันมาถึงซะอีก
+P0901-0386	พากย์ · speech_list_judge_main_c09	? (ช)		Heh. Relax, Yagami-san.	เฮ่อ ใจเย็น ๆ สิยากามิซัง
+P0901-0387	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Heh. You can relax, Yagami-san.	เฮ่อ ใจเย็น ๆ ได้แล้วยากามิซัง
+P0901-0388	พากย์ · speech_list_judge_main_c09	? (ช)		I'm not sure I'd go that far.	ฉันว่าคงไม่ถึงขั้นนั้นหรอกมั้ง
+P0901-0389	พากย์ · speech_list_judge_main_c09	? (ช)		He just calls me in for favors every now and again.	แค่นาน ๆ ทีเขาก็เรียกใช้ฉันบ้างเท่านั้นแหละ
+P0901-0390	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	He just calls me in for favors\nevery now and again.	แค่นาน ๆ ทีเขาก็เรียกใช้ฉันบ้าง\nเท่านั้นแหละ
+P0901-0391	พากย์ · speech_list_judge_main_c09	? (ช)		Helps to be on good terms with the guy.\nFor my job, you know?	การรักษาความสัมพันธ์ที่ดีกับ เขาไว้ก็มีประโยชน์นะ\nกับงานของฉันน่ะ เข้าใจปะ?
+P0901-0392	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Helps to be on good terms with the guy.\nGoes hand-in-hand with the job.	การรักษาความสัมพันธ์ที่ดีกับ เขาไว้ก็มีประโยชน์นะ\nมันไปด้วยกันกับงานของฉันน่ะ
+P0901-0393	พากย์ · speech_list_judge_main_c09	? (ช)		It'd be nice to be close with you too, Yagami-san.	ถ้าได้สนิทกับยากามิซังบ้างก็คงดีนะ
+P0901-0394	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	It'd be nice to be close\nwith you too, Yagami-san.	ถ้าได้สนิทกับยากามิซัง\nบ้างก็คงดีนะ
+P0901-0395	พากย์ · speech_list_judge_main_c09	? (ช)		I heard you were the one who discovered\nShintani-sensei's corpse, after all.	ได้ยินมาว่ายากามิซังนี่แหละ\nที่เจอศพอาจารย์ชินทานิเป็นคนแรก
+P0901-0396	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	After all... I heard about Shintani-sensei's death.\nHow you were the one who found him.	ยังไงก็เถอะ... ฉันได้ยินเรื่องการตายของ อาจารย์ชินทานิมา\nว่ายากามิซังนี่แหละเป็นคนเจอศพ
+P0901-0397	พากย์ · speech_list_judge_main_c09	? (ช)		All right, all right.\nBut you'll owe me for this.	เอาละ เอาละ\nแต่นายติดหนี้บุญคุณฉันเรื่องนี้นะ
+P0901-0398	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Fine, I get it.\nBut... you'll owe me for this.	ก็ได้ เข้าใจแล้ว\nแต่... นายติดหนี้บุญคุณฉันเรื่องนี้นะ
+P0901-0399	พากย์ · speech_list_judge_main_c09	? (ช)		Generally, drug development starts with the discovery\nof a compound that can treat a given disease.	โดยทั่วไปแล้ว การพัฒนายาจะเริ่มจากการค้นพบ สารประกอบ\nที่สามารถรักษาโรคใดโรคหนึ่งได้
+P0901-0400	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Generally, when they develop new drugs, it's based on\nthe discovery of a compound that can treat a disease.	โดยทั่วไปแล้ว การพัฒนายาตัวใหม่จะเริ่มจาก\nการค้นพบสารประกอบที่สามารถ รักษาโรคได้
+P0901-0401	พากย์ · speech_list_judge_main_c09	? (ช)		That compound becomes the candidate for a drug.	สารประกอบตัวนั้นก็จะกลายเป็น ตัวเลือกสำหรับพัฒนาเป็นยา
+P0901-0402	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That compound becomes the\ncandidate for a drug.	สารประกอบตัวนั้นก็จะกลายเป็น\nตัวเลือกสำหรับพัฒนาเป็นยา
+P0901-0403	พากย์ · speech_list_judge_main_c09	? (ช)		They then test its effects on animals,\nafter which the drug heads to clinical trials.	จากนั้นก็ทดสอบฤทธิ์ของมันใน สัตว์ทดลอง\nก่อนที่ยาจะเข้าสู่ขั้นตอน การทดลองทางคลินิก
+P0901-0404	พากย์ · speech_list_judge_main_c09	? (ช)		Which is a nicer way of saying\nhuman experimentation, by the way.	ซึ่งก็คือคำเรียกให้ดูดี\nของการทดลองในมนุษย์นั่นแหละ พูดตามตรงนะ
+P0901-0405	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	"Clinical trials" being their diplomatic name\nfor human experimentation, of course.	"การทดลองทางคลินิก" ก็คือชื่อทางการทูต\nของการทดลองในมนุษย์นั่นแหละ
+P0901-0406	พากย์ · speech_list_judge_main_c09	? (ช)		As for the process...	ส่วนขั้นตอนนั้น...
+P0901-0407	พากย์ · speech_list_judge_main_c09	? (ช)		It can take years, sometimes even longer,\nto ensure a drug is truly safe for public consumption.	อาจใช้เวลาหลายปี หรือบางทีก็นานกว่านั้น\nกว่าจะมั่นใจได้ว่ายาปลอดภัย จริงสำหรับประชาชนทั่วไป
+P0901-0408	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, making a drug truly safe for public consumption\ntakes a lot of time. Years, or even longer.	การจะทำให้ยาปลอดภัยจริงสำหรับ ประชาชนทั่วไปนั้น\nใช้เวลานานมาก เป็นปี หรือนานกว่านั้น
+P0901-0409	พากย์ · speech_list_judge_main_c09	? (ช)		Before now, Alzheimer's drugs have only\nbeen able to slow the progress of the disease.	ก่อนหน้านี้ ยารักษาอัลไซเมอร์ทำได้แค่\nชะลอการลุกลามของโรคเท่านั้น
+P0901-0410	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Before now, we've had some drugs for Alzheimer's,\nbut they've only ever slowed the disease down.	ก่อนหน้านี้เรามี ยารักษาอัลไซเมอร์อยู่บ้าง\nแต่ก็ทำได้แค่ชะลอโรคเท่านั้น
+P0901-0411	พากย์ · speech_list_judge_main_c09	? (ช)		None can cure it completely.	ไม่มีตัวไหนรักษาให้หายขาดได้เลย
+P0901-0412	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	None of them have been able to\ncure it completely.	ไม่มีตัวไหน\nรักษาให้หายขาดได้เลย
+P0901-0413	พากย์ · speech_list_judge_main_c09	? (ช)		But Director Kido's AD-9 proved remarkably\neffective at doing just that when tested on mice.	แต่ AD-9 ของผู้อำนวยการคิโดะกลับได้ผลดี อย่างน่าทึ่ง\nในจุดนั้นเลย ตอนทดลองกับหนู
+P0901-0414	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But then Director Kido's AD-9 turned up.\nAnd it's worked perfectly in tests on mice, at least.	แต่แล้ว AD-9 ของผู้อำนวยการคิโดะก็โผล่มา\nแล้วก็ได้ผลดีเป๊ะเลยตอนทดลองกับหนู อย่างน้อยก็ในตอนนี้
+P0901-0415	พากย์ · speech_list_judge_main_c09	? (ช)		If it can work on humans as well...\nMaybe we can finally kiss Alzheimer's goodbye.	ถ้ามันได้ผลกับมนุษย์ด้วยละก็...\nบางทีเราอาจจะได้บอกลา โรคอัลไซเมอร์ไปเลยก็ได้
+P0901-0416	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If it can work on humans as well...\nmaybe we can finally kiss Alzheimer's goodbye.	ถ้ามันได้ผลกับมนุษย์ด้วยละก็...\nบางทีเราอาจจะได้บอกลา โรคอัลไซเมอร์ไปเลยเหมือนกันนะ
+P0901-0417	พากย์ · speech_list_judge_main_c09	? (ช)		At least, that's what the paper\nthey published a year ago claimed.	อย่างน้อยก็ตามที่งานวิจัย\nที่ตีพิมพ์เมื่อปีก่อนอ้างไว้
+P0901-0418	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That was the thesis of the paper, anyway...\nThe one you found, published a year ago.	นั่นแหละคือใจความของงานวิจัยฉบับนั้น...\nฉบับที่นายเจอ ตีพิมพ์เมื่อปีก่อน
+P0901-0419	พากย์ · speech_list_judge_main_c09	Hattori (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Yagami-san.	ยากามิซัง
+P0901-0420	พากย์ · speech_list_judge_main_c09	? (ช)		In this country, one in four people\nover the age of eighty is affected by dementia.	ในประเทศนี้ ผู้สูงอายุที่อายุเกินแปดสิบปี\nทุก 1 ใน 4 คนจะเป็นโรคสมองเสื่อม
+P0901-0421	พากย์ · speech_list_judge_main_c09	? (ช)		That means for a couple in their fifties,\nthere's a good chance that one of their parents has it.	หมายความว่าคู่สามีภรรยาวัยห้าสิบ\nมีโอกาสสูงที่พ่อแม่ ฝ่ายใดฝ่ายหนึ่งจะเป็นโรคนี้
+P0901-0422	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	By those numbers, for an average couple in their fifties,\nthere's a good chance that one of their parents has it.	ถ้าคิดตามตัวเลขนี้ คู่สามีภรรยาวัยห้าสิบทั่ว ๆ ไป\nก็มีโอกาสสูงที่พ่อแม่ ฝ่ายใดฝ่ายหนึ่งจะเป็นโรคนี้
+P0901-0423	พากย์ · speech_list_judge_main_c09	? (ช)		And the odds that one member of that couple will\ndevelop it themselves is 50-50.	และโอกาสที่คนใดคนหนึ่งในคู่นั้น\nจะเป็นโรคนี้เองก็อยู่ที่ห้าสิบห้าสิบ
+P0901-0424	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	And the odds that one member of that couple\nwill develop it themselves...? 50-50.	แล้วโอกาสที่คนใดคนหนึ่งในคู่นั้น\nจะเป็นโรคนี้เอง...? ห้าสิบห้าสิบ
+P0901-0425	พากย์ · speech_list_judge_main_c09	? (ช)		No matter how you look at it,\ndementia is an inescapable issue.	มองมุมไหนก็ตาม\nโรคสมองเสื่อมก็เป็นปัญหาที่หนีไม่พ้น
+P0901-0426	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	There's no denying that dementia\nis an inescapable issue.	ปฏิเสธไม่ได้เลยว่า\nโรคสมองเสื่อมเป็นปัญหาที่หนีไม่พ้น
+P0901-0427	พากย์ · speech_list_judge_main_c09	? (ช)		If I ever experienced symptoms myself,\nI'd go to the doctor straight away.	ถ้าผมมีอาการแบบนั้นขึ้นมาจริง ๆ\nผมคงรีบไปหาหมอทันที
+P0901-0428	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If I ever experienced symptoms myself...\nI'd go straight to the doctor.	ถ้าผมมีอาการแบบนั้นขึ้นมาจริง ๆ...\nผมคงรีบไปหาหมอเลย
+P0901-0429	พากย์ · speech_list_judge_main_c09	? (ช)		In some cases, they can slow the progress\nenough that you can even keep working.	บางกรณีก็สามารถชะลออาการได้มากพอ\nที่จะยังทำงานต่อไปได้
+P0901-0430	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	In some cases, the docs can slow the disease down.\nEnough that you can even keep working.	บางกรณีหมอก็สามารถชะลอโรคได้\nมากพอที่จะยังทำงานต่อไปได้เลยด้วยซ้ำ
+P0901-0431	พากย์ · speech_list_judge_main_c09	? (ช)		I guess my point is, dementia's not something\nto fear. It's a possibility to prepare for.	ฉันว่าประเด็นก็คือ โรคสมองเสื่อมไม่ใช่เรื่องที่ต้องกลัว\nแต่เป็นความเป็นไปได้ที่ต้อง เตรียมรับมือไว้
+P0901-0432	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	My point is, dementia's not some farfetched horror story.\nIt's a fact of life.	ประเด็นของฉันคือ โรคสมองเสื่อมไม่ใช่เรื่องสยอง ไกลตัวหรอกนะ\nมันคือความจริงของชีวิต
+P0901-0433	พากย์ · speech_list_judge_main_c09	? (ช)		Our biggest enemy is ignorance and apathy.\nKinda reminds me of someone.	ศัตรูตัวฉกาจที่สุดของเราคือ ความไม่รู้กับความเมินเฉย\nนึกถึงใครบางคนขึ้นมาเลยแฮะ
+P0901-0434	พากย์ · speech_list_judge_main_c09	? (?)	[อีกแทร็ก]	The way I see it... The real dangers here are\nignorance and apathy. Reminds me of someone... 	ในสายตาฉัน... อันตรายที่แท้จริงก็คือ ความไม่รู้กับความเมินเฉย นี่แหละ\nนึกถึงใครบางคนขึ้นมาเลย... 
+P0901-0435	พากย์ · speech_list_judge_main_c09	? (ช)		Good. I'd like to give you a rundown of what\nexactly Alzheimer's is, then. You interested?	ดี งั้นฉันจะเล่าคร่าว ๆ ให้ฟังว่า\nอัลไซเมอร์คืออะไรกันแน่ อยากรู้มั้ยล่ะ?
+P0901-0436	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I'd like to give you a rundown of what exactly\nAlzheimer's is, then. You interested?	งั้นฉันจะเล่าคร่าว ๆ ให้ฟังว่าอัลไซเมอร์คืออะไร\nกันแน่ อยากรู้มั้ยล่ะ?
+P0901-0437	พากย์ · speech_list_judge_main_c09	? (ช)		You bet I would.\nNow, let's begin.	แน่นอนอยู่แล้ว\nเอาละ เริ่มกันเลย
+P0901-0438	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	You bet.\nNow, let's begin.	แน่นอน\nเอาละ เริ่มกันเลย
+P0901-0439	พากย์ · speech_list_judge_main_c09	? (ช)		Out of all the diseases that can cause dementia,\nAlzheimer's accounts for roughly 70% of cases.	ในบรรดาโรคที่ทำให้เกิด ภาวะสมองเสื่อมทั้งหมด\nอัลไซเมอร์คิดเป็นสัดส่วนราว 70% ของผู้ป่วย
+P0901-0440	พากย์ · speech_list_judge_main_c09	? (ช)		It's believed to be brought about by build-up of\na protein called amyloid beta in the brain.	เชื่อกันว่าเกิดจากการสะสมของ โปรตีนชนิดหนึ่ง\nที่เรียกว่าอะไมลอยด์เบตาในสมอง
+P0901-0441	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	It's believed to be brought about by build-up\nof a protein called amyloid beta in the brain.	เชื่อกันว่าเกิดจากการสะสม\nของโปรตีนชนิดหนึ่งที่เรียกว่า อะไมลอยด์เบตาในสมอง
+P0901-0442	พากย์ · speech_list_judge_main_c09	? (ช)		When that happens, nerve cells start dying off\nand the brain begins to atrophy.	เมื่อเกิดเหตุนั้นขึ้น เซลล์ประสาทจะเริ่มตายไปเรื่อย ๆ\nและสมองก็เริ่มฝ่อลง
+P0901-0443	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Nerve cells start dying off,\nand the brain begins to atrophy.	เซลล์ประสาทจะเริ่มตายไปเรื่อย ๆ\nและสมองก็เริ่มฝ่อลง
+P0901-0444	พากย์ · speech_list_judge_main_c09	? (ช)		That's one way to put it, yes.	จะพูดแบบนั้นก็ได้ ใช่
+P0901-0445	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...To put it roughly, yes.	...พูดคร่าว ๆ ก็ใช่
+P0901-0446	พากย์ · speech_list_judge_main_c09	? (ช)		But even that is just a theory at this point.\nThere's still much to learn about Alzheimer's.	แต่ตอนนี้ก็ยังเป็นแค่ทฤษฎีเท่านั้นนะ\nยังมีอะไรอีกเยอะที่ต้องศึกษา เกี่ยวกับอัลไซเมอร์
+P0901-0447	พากย์ · speech_list_judge_main_c09	? (ช)		Your memory is impaired.	ความจำก็จะเสื่อมลง
+P0901-0448	พากย์ · speech_list_judge_main_c09	? (ช)		Let me explain. There are three processes\ninvolved in memory: encoding, storage, and retrieval.	อธิบายให้ฟังนะ ความจำมีสามขั้นตอนเกี่ยวข้อง\nคือการเข้ารหัส การจัดเก็บ และการดึงกลับมาใช้
+P0901-0449	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Let me explain. There are three processes involved\nin memory: encoding, storage, and retrieval.	อธิบายให้ฟังนะ ความจำมันมีอยู่สามขั้นตอน\nคือการเข้ารหัส การเก็บ และการดึงกลับมาใช้ครับ
+P0901-0450	พากย์ · speech_list_judge_main_c09	? (ช)		Alzheimer's impairs the first step, encoding.\nThis makes it near impossible to remember new things.	อัลไซเมอร์ไปทำลายขั้นแรกคือ การเข้ารหัส\nทำให้แทบจำเรื่องใหม่ ๆ ไม่ได้เลยครับ
+P0901-0451	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Usually the disease impairs the first step, encoding.\nThis makes it near impossible to remember new things.	ตามปกติโรคนี้จะไปทำลายขั้นแรก คือการเข้ารหัส\nทำให้แทบจำเรื่องใหม่ ๆ ไม่ได้เลยครับ
+P0901-0452	พากย์ · speech_list_judge_main_c09	? (ช)		I'll give you an example\nthat's stuck with me.	ขอยกตัวอย่างให้ฟัง\nเรื่องที่ติดอยู่ในหัวมาตลอดครับ
+P0901-0453	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I'll give you an example\nthat stuck with me.	ขอยกตัวอย่างให้ฟัง\nเรื่องที่ติดอยู่ในหัวครับ
+P0901-0454	พากย์ · speech_list_judge_main_c09	? (ช)		When doctors asked a dementia patient the date,\nthey had no problem producing the correct answer.	ตอนหมอถามผู้ป่วยภาวะสมองเสื่อม ว่าวันนี้วันที่เท่าไร\nตอบถูกได้แบบไม่มีปัญหาเลยครับ
+P0901-0455	พากย์ · speech_list_judge_main_c09	? (ช)		But when asked the year, the patient said "1952."\nTheir mind was stuck decades in the past.	แต่พอถามปีกลับตอบว่า "1952"\nใจยังติดอยู่ในอดีตเมื่อหลายสิบ ปีก่อนครับ
+P0901-0456	พากย์ · speech_list_judge_main_c09	? (ช)		You see, dementia not only inhibits new memories,\nbut jumbles the ones you already have as well.	เห็นไหม ภาวะสมองเสื่อมไม่ได้แค่ขวาง ความจำใหม่ ๆ\nแต่ยังทำให้ความจำเก่าที่มีอยู่ ปนกันมั่วไปหมดครับ
+P0901-0457	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	You see, dementia inhibits new memories\nand <font_kind=yakuza_italic>may</font_kind> jumble the ones you have.	เห็นไหม ภาวะสมองเสื่อมขวางความจำใหม่ ๆ\nและ<font_kind=yakuza_italic>อาจ</font_kind>ทำให้ความจำเก่าที่มีอยู่ปนกัน มั่วครับ
+P0901-0458	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	If you say so.	ถ้าว่าอย่างนั้นก็ได้
+P0901-0459	พากย์ · speech_list_judge_main_c09	Matugane (ช)	[ใช้ร่วม]	Good.	ดี
+P0901-0460	พากย์ · speech_list_judge_main_c09	? (ช)		According to their research,\nwhen they injected AD-9 into the test mice...	ตามงานวิจัยของพวกเขา\nตอนฉีด AD-9 เข้าไปในหนูทดลอง...
+P0901-0461	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well... according to their research,\nwhen they injected AD-9 into the test mice...	เอ่อ... ตามงานวิจัยของพวกเขา\nตอนฉีด AD-9 เข้าไปในหนูทดลอง...
+P0901-0462	พากย์ · speech_list_judge_main_c09	? (ช)		It brought about a process\nknown as autophagy.	มันก่อให้เกิดกระบวนการ\nที่เรียกว่าออโตฟาจีครับ
+P0901-0463	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...It brought about a process\nknown as autophagy.	...มันก่อให้เกิดกระบวนการ\nที่เรียกว่าออโตฟาจีครับ
+P0901-0464	พากย์ · speech_list_judge_main_c09	? (ช)		It's a Greek word that means "self-devouring."\nThat's what your body starts to do to its own proteins.	เป็นคำกรีกที่แปลว่า "กินตัวเอง"\nคือสิ่งที่ร่างกายเริ่มทำกับ โปรตีนของตัวมันเองครับ
+P0901-0465	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	It's a Greek word that means "self-devouring."\nThat's when your body consumes its own proteins.	เป็นคำกรีกที่แปลว่า "กินตัวเอง"\nคือตอนที่ร่างกายเริ่มกลืนกิน โปรตีนของตัวมันเองครับ
+P0901-0466	พากย์ · speech_list_judge_main_c09	? (ช)		In other words, all the amyloid beta built up\nin the mice's brains began to instantly break down.	พูดง่าย ๆ คืออะไมลอยด์เบตาที่สะสม\nอยู่ในสมองของหนูเริ่มสลายตัวไป ทันทีครับ
+P0901-0467	พากย์ · speech_list_judge_main_c09	? (ช)		Yes. And once it was all gone...	ใช่ แล้วพอมันหายไปหมดแล้ว...
+P0901-0468	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yes. And once the amyloid beta\nwas all gone...	ใช่ แล้วพออะไมลอยด์เบตา\nหายไปหมดแล้ว...
+P0901-0469	พากย์ · speech_list_judge_main_c09	? (ช)		Their Alzheimer's stopped\nprogressing entirely.	อัลไซเมอร์ของพวกมัน\nก็หยุดลุกลามไปเลยครับ
+P0901-0470	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...the mice's Alzheimer's stopped\nprogressing entirely.	...อัลไซเมอร์ของหนูพวกนั้น\nก็หยุดลุกลามไปเลยครับ
+P0901-0471	พากย์ · speech_list_judge_main_c09	? (ช)		The most shocking thing is that even brain cells\nwhich had lost function were able to recover.	ที่ช็อกที่สุดคือแม้แต่เซลล์สมอง\nที่เคยเสียหน้าที่ไปแล้วก็ยัง ฟื้นกลับมาได้ครับ
+P0901-0472	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The most shocking thing is even the deadened\nbrain cells were able to recover.	ที่ช็อกที่สุดคือแม้แต่เซลล์สมอง\nที่ตายไปแล้วก็ยังฟื้นกลับมาได้ครับ
+P0901-0473	พากย์ · speech_list_judge_main_c09	? (ช)		As one researcher put it, it's as though\nthe brain turns on a backup generator.	นักวิจัยคนหนึ่งเปรียบไว้ว่ามันเหมือน\nสมองเปิดเครื่องปั่นไฟสำรองขึ้นมาครับ
+P0901-0474	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	As one scientist put it, "It's like the brain's\nemergency power got turned on."	นักวิทยาศาสตร์คนหนึ่งพูดไว้ว่า "มันเหมือน\nระบบไฟฉุกเฉินของสมองถูกเปิดขึ้นมา" ครับ
+P0901-0475	พากย์ · speech_list_judge_main_c09	? (ช)		If they can bring about similar effects in humans...	ถ้าทำให้เกิดผลแบบเดียวกันในมนุษย์ได้...
+P0901-0476	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If they can bring about\nsimilar effects in humans...	ถ้าทำให้เกิด\nผลแบบเดียวกันในมนุษย์ได้...
+P0901-0477	พากย์ · speech_list_judge_main_c09	? (ช)		That's right. There are millions of patients worldwide,\nand that number is growing steadily every day.	ใช่แล้ว ทั่วโลกมีผู้ป่วยเป็นล้านคน\nและตัวเลขก็เพิ่มขึ้นทุกวัน อย่างต่อเนื่องครับ
+P0901-0478	พากย์ · speech_list_judge_main_c09	? (ช)		If they actually complete this drug,\nit could truly change the world as we know it.	ถ้าทำยาตัวนี้สำเร็จจริง ๆ\nมันอาจเปลี่ยนโลกที่เรารู้จักไป เลยก็ได้ครับ
+P0901-0479	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If they can actually perfect AD-9,\nit could truly change the world as we know it.	ถ้าพัฒนา AD-9 ให้สมบูรณ์แบบได้จริง ๆ\nมันอาจเปลี่ยนโลกที่เรารู้จักไป เลยก็ได้ครับ
+P0901-0480	พากย์ · speech_list_judge_main_c09	? (ช)		It's nothing short of a dream drug\nfor both buyers and sellers.	มันคือยาในฝันแบบเต็มตัว\nทั้งฝั่งคนซื้อและคนขายครับ
+P0901-0481	พากย์ · speech_list_judge_main_c09	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Excuse me?	ว่าไงนะ?
+P0901-0482	พากย์ · speech_list_judge_main_c09	? (ช)		What kind of secret are we talking?	ความลับแบบไหนกันครับ
+P0901-0483	พากย์ · speech_list_judge_main_c09	? (ช)		Oh, there's no chance of that.	อ๋อ แบบนั้นเป็นไปไม่ได้หรอกครับ
+P0901-0484	พากย์ · speech_list_judge_main_c09	? (ช)		Since the announcement of AD-9,\ncountless animal tests have proven successful.	ตั้งแต่ประกาศ AD-9 ออกมา\nการทดลองกับสัตว์นับไม่ถ้วนก็ พิสูจน์แล้วว่าได้ผลครับ
+P0901-0485	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	They've been doing successful tests of AD-9\non mice ever since it was first announced.	ทำการทดลอง AD-9\nกับหนูสำเร็จมาตลอดตั้งแต่ ประกาศครั้งแรกครับ
+P0901-0486	พากย์ · speech_list_judge_main_c09	? (ช)		It's no fabrication.	มันไม่ใช่เรื่องกุขึ้นมาครับ
+P0901-0487	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Those results are no fabrication.	ผลลัพธ์พวกนั้นไม่ใช่เรื่องกุ ขึ้นมาครับ
+P0901-0488	พากย์ · speech_list_judge_main_c09	? (ช)		One test after another,\nthey've proven its viability.	ทดลองครั้งแล้วครั้งเล่า\nพิสูจน์แล้วว่ามันใช้ได้จริงครับ
+P0901-0489	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	They've already scientifically proven\nit's a viable medicine.	พิสูจน์ทางวิทยาศาสตร์แล้วว่า\nมันเป็นยาที่ใช้ได้จริงครับ
+P0901-0490	พากย์ · speech_list_judge_main_c09	Emi (ญ)	[ใช้ร่วม] [ต้องกลางเพศ]	Yes.	ใช่
+P0901-0491	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Very sure.	มั่นใจมากครับ
+P0901-0492	พากย์ · speech_list_judge_main_c09	? (ช)		I'm of the mind they should push forward faster.\nEven if the paper was a little rough around the edges.	ส่วนตัวคิดว่าควรเร่งมือให้เร็ว กว่านี้\nถึงเปเปอร์จะยังหยาบไปหน่อยก็เถอะครับ
+P0901-0493	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Honestly, I think they should push forward faster,\neven if the paper was a little rough around the edges.	พูดตรง ๆ ก็คิดว่าควรเร่งมือให้เร็วกว่านี้\nถึงเปเปอร์จะยังหยาบไปหน่อยก็เถอะครับ
+P0901-0494	พากย์ · speech_list_judge_main_c09	? (ช)		After all, dementia drugs are being\ndeveloped all around the world.	ยังไงซะ ยารักษาภาวะสมองเสื่อม\nก็กำลังถูกพัฒนากันทั่วโลก อยู่แล้วครับ
+P0901-0495	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Dementia drugs are being\ndeveloped all around the world.	ยารักษาภาวะสมองเสื่อม\nกำลังถูกพัฒนากันทั่วโลกครับ
+P0901-0496	พากย์ · speech_list_judge_main_c09	? (ช)		It would be a shame if someone beat them\nto the punch. Both for the ADDC and for Japan.	จะน่าเสียดายมากถ้ามีคนแซงหน้าไปก่อน\nทั้งสำหรับ ADDC และสำหรับญี่ปุ่นเองครับ
+P0901-0497	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If someone beat them to the punch,\nit'd be a national shame.	ถ้ามีคนแซงหน้าไปก่อน\nจะเป็นความอับอายระดับชาติเลย ทีเดียวครับ
+P0901-0498	พากย์ · speech_list_judge_main_c09	? (ช)		Kido-san is far too cautious.\nThis is no time to be testing on animals.	คิโดะซังระวังตัวเกินไป\nป่านนี้ไม่ใช่เวลามัวทดลองกับ สัตว์แล้วครับ
+P0901-0499	พากย์ · speech_list_judge_main_c09	? (ช)		They need to move to clinical trials\nand get this thing out.	ต้องเข้าสู่การทดลองทางคลินิก\nแล้วปล่อยตัวยานี้ออกมาซะทีครับ
+P0901-0500	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	They need to get this into clinical trials.	ต้องพาตัวยานี้เข้าสู่การทดลอง ทางคลินิกให้ได้ครับ
+P0901-0501	พากย์ · speech_list_judge_main_c09	? (ช)		Experimenting on humans.	ทดลองในมนุษย์ครับ
+P0901-0502	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Bring in human subjects.	เอามนุษย์มาเป็นตัวทดลองครับ
+P0901-0503	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	What's wrong?	เป็นอะไรไปเหรอครับ?
+P0901-0504	พากย์ · speech_list_judge_main_c09	? (ช)		I guess there is an\ninteresting detail I noticed.	ก็มีรายละเอียดที่น่าสนใจ\nอยู่อย่างหนึ่งเหมือนกันนะครับ
+P0901-0505	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, let's see... I guess there <font_kind=yakuza_italic>is</font_kind> an\ninteresting detail.	เอ่อ ให้คิดดูก่อน... ก็<font_kind=yakuza_italic>มี</font_kind>รายละเอียด\nที่น่าสนใจอยู่อย่างหนึ่ง เหมือนกันนะครับ
+P0901-0506	พากย์ · speech_list_judge_main_c09	? (ช)		Kido-san is listed as the sole author\nof the AD-9 research.	คิโดะซังถูกระบุเป็นผู้เขียน เพียงคนเดียว\nของงานวิจัย AD-9 ครับ
+P0901-0507	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	On the paperwork for AD-9's research,\nKido-san is listed as the lead author.	ในเอกสารงานวิจัย AD-9\nคิโดะซังถูกระบุเป็นผู้เขียนหลักครับ
+P0901-0508	พากย์ · speech_list_judge_main_c09	? (ช)		But in truth, he only put his name\non the paper to lend it credibility.	แต่ความจริงเขาแค่เอาชื่อตัวเอง\nไปลงในเปเปอร์เพื่อเพิ่ม ความน่าเชื่อถือครับ
+P0901-0509	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But... his name was only on that paper\nto give it some industry credibility.	แต่... ชื่อเขาอยู่ในเปเปอร์นั้น\nแค่เพื่อเพิ่มความน่าเชื่อถือใน วงการครับ
+P0901-0510	พากย์ · speech_list_judge_main_c09	? (ช)		The key researcher was someone else entirely.\nA guy you know, too. Man by the name of Shono.	ตัวจริงที่เป็นนักวิจัยหลักคือ คนอื่นไปเลย\nคนที่นายก็รู้จักด้วย ชื่อโชโนะครับ
+P0901-0511	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The key researcher was someone else entirely.\nWell, maybe you know the guy. A researcher named Shono.	ตัวจริงที่เป็นนักวิจัยหลักคือ คนอื่นไปเลย\nเอ่อ นายอาจจะรู้จักคนนี้ นักวิจัยชื่อโชโนะครับ
+P0901-0512	พากย์ · speech_list_judge_main_c09	? (ช)		Seems so. The paper would never have gained such\nworldwide traction without Kido-san, though.	ดูจะเป็นงั้น แต่เปเปอร์นี้ก็คงไม่มีวันโด่งดัง\nไปทั่วโลกได้ถ้าไม่มีคิโดะซังครับ
+P0901-0513	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Seems so. But the paper would never have gained\nsuch worldwide traction without Kido-san.	ดูจะเป็นงั้น แต่เปเปอร์นี้คงไม่มีวันโด่งดัง\nไปทั่วโลกได้เลยถ้าไม่มีคิโดะซังครับ
+P0901-0514	พากย์ · speech_list_judge_main_c09	? (ช)		They needed a leading expert to rubberstamp\nthe research and make it seem more official.	ต้องมีผู้เชี่ยวชาญตัวท็อปมา ช่วยประทับตรารับรอง\nงานวิจัย ให้ดูเป็นทางการมากขึ้นครับ
+P0901-0515	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Naturally, they needed a leading expert to rubberstamp\nthe research, make it seem more official.	ก็แหงล่ะ ต้องมีผู้เชี่ยวชาญตัวท็อปมา ช่วยประทับตรา\nรับรองงานวิจัย ให้ดูเป็นทางการมากขึ้นครับ
+P0901-0516	พากย์ · speech_list_judge_main_c09	? (ช)		That kinda thing is pretty common,\nthough. Not really a cause for concern.	เรื่องแบบนี้ก็เจอกันบ่อย\nไม่ใช่เรื่องต้องกังวลอะไรหรอกครับ
+P0901-0517	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That kinda thing is pretty common.\nNot really a cause for concern.	เรื่องแบบนี้เจอกันบ่อย\nไม่ใช่เรื่องต้องกังวลอะไรหรอกครับ
+P0901-0518	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[ใช้ร่วม]	Can you not?	เลิกพูดได้ไหมเนี่ย?
+P0901-0519	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[อีกแทร็ก]	Can we skip this part?	ข้ามส่วนนี้ไปได้มั้ย?
+P0901-0520	พากย์ · speech_list_judge_main_c09	? (ช)		Are you still working for Kajihira?	ยังทำงานให้คาจิฮิระอยู่อีกเหรอ?
+P0901-0521	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	So? You still working for Chairman Kajihira?	ไงล่ะ? ยังทำงานให้ประธานคาจิฮิระอยู่อีกเหรอ?
+P0901-0522	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Uh-huh...	อื้อ-ฮึ...
+P0901-0523	พากย์ · speech_list_judge_main_c09	? (ช)		I'm here to talk AD-9.	ผมมาคุยเรื่อง AD-9
+P0901-0524	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I thought you called me here\nto talk about AD-9.	นึกว่านายเรียกผมมา\nคุยเรื่อง AD-9 ซะอีก
+P0901-0525	พากย์ · speech_list_judge_main_c09	? (ช)		If that's not what this is about,\nI'm not sticking around.	ถ้าไม่ใช่เรื่องนี้\nผมไม่อยู่ต่อแล้วนะ
+P0901-0526	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If not, I've got places to be.	ถ้าไม่ใช่ ผมมีธุระต้องไปที่อื่นนะ
+P0901-0527	พากย์ · speech_list_judge_main_c09	? (ช)		<color=ｍonologue>(Ugh. This is why I didn't\nwant to talk to him.)</color>	<color=ｍonologue>(เชอะ นี่แหละเหตุผลที่ผมไม่อยาก\nคุยกับมันตั้งแต่แรก)</color>
+P0901-0528	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x3]	Mmhm.	อือ
+P0901-0529	พากย์ · speech_list_judge_main_c09	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Uh-huh.	ใช่เลย
+P0901-0530	พากย์ · speech_list_judge_main_c09	? (ช)		Yeah, yeah.\nIt's tough, I get it.	ครับ ครับ\nรู้แล้วว่ามันยาก
+P0901-0531	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Sure, it's tough, I get it.	ครับ รู้แล้วว่ามันยาก
+P0901-0532	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Interesting.	น่าสนใจดีนะ
+P0901-0533	พากย์ · speech_list_judge_main_c09	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	I see.	เข้าใจแล้ว
+P0901-0534	พากย์ · speech_list_judge_main_c09	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x10]	Hm?	หืม?
+P0901-0535	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	...If you say so.	...ถ้านายว่างั้นก็ได้
+P0901-0536	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	I'm listening.	ฟังอยู่
+P0901-0537	พากย์ · speech_list_judge_main_c09	? (ช)		You're gonna even if I say no, right?	ต่อให้ผมบอกไม่อยากฟัง คุณก็จะเล่าอยู่ดีใช่มั้ย?
+P0901-0538	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	You'd do it even\nif I said no, right?	ต่อให้ผมบอกไม่\nก็จะเล่าอยู่ดีใช่มั้ย?
+P0901-0539	พากย์ · speech_list_judge_main_c09	? (ช)		So to put this in layman's terms...\nWaste buildup kind of shrinks the brain.	งั้นถ้าพูดง่าย ๆ...\nของเสียสะสมทำให้สมองหดตัวลงใช่มั้ย
+P0901-0540	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	So basically, with all that waste buildup in the brain...\nit starts to shrink?	งั้นพูดง่าย ๆ ก็คือ พอของเสียสะสมในสมอง...\nมันก็เริ่มหดตัวใช่มั้ย?
+P0901-0541	พากย์ · speech_list_judge_main_c09	? (ช)		And when your brain shrinks?	แล้วพอสมองหดตัวแล้วเป็นไง?
+P0901-0542	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	And what happens when\nyour brain shrinks?	แล้วเกิดอะไรขึ้น\nตอนที่สมองหดตัว?
+P0901-0543	พากย์ · speech_list_judge_main_c09	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Hm...	อืม...
+P0901-0544	พากย์ · speech_list_judge_main_c09	? (ช)		Think you can repeat that?\nI'm not sure I caught it all.	พูดซ้ำได้ไหมครับ\nผมไม่แน่ใจว่าจับใจความได้หมด
+P0901-0545	พากย์ · speech_list_judge_main_c09	? (ช)		I think I understand.	ผมว่าผมเข้าใจแล้วล่ะ
+P0901-0546	พากย์ · speech_list_judge_main_c09	? (ช)		So, how exactly does AD-9\ncure Alzheimer's?	แล้ว AD-9 มันรักษา\nอัลไซเมอร์ได้ยังไงกันแน่ครับ
+P0901-0547	พากย์ · speech_list_judge_main_c09	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Which is what?	อะไรล่ะ?
+P0901-0548	พากย์ · speech_list_judge_main_c09	? (ช)		Instantly...	ทันทีเลยเหรอ...
+P0901-0549	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Instantly...?	ทันทีเลยเหรอ...?
+P0901-0550	พากย์ · speech_list_judge_main_c09	? (ช)		They'll have a cure for Alzheimer's.	ก็เท่ากับมีทางรักษาอัลไซเมอร์
+P0901-0551	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	They'll have a cure for Alzheimer's?	ก็เท่ากับมีทางรักษาอัลไซเมอร์เหรอ
+P0901-0552	พากย์ · speech_list_judge_main_c09	? (ช)		<color=ｍonologue>(I see. If that's true, it really would be\na dream drug. But...)</color>	<color=ｍonologue>(เข้าใจแล้ว ถ้าเป็นแบบนั้นจริง มันก็คง\nเป็นยาในฝันจริง ๆ แต่ว่า...)</color>
+P0901-0553	พากย์ · speech_list_judge_main_c09	? (ช)		If you ask me...\nIt sounds too good to be true.	ถ้าถามผมนะ...\nมันดูดีเกินจริงไปหน่อย
+P0901-0554	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Can it really do everything they say?\nIt sounds too good to be true.	มันทำได้ทุกอย่างตามที่ว่าจริงเหรอ\nมันดูดีเกินจริงไปหน่อย
+P0901-0555	พากย์ · speech_list_judge_main_c09	? (ช)		I mean...	ก็คือ...
+P0901-0556	พากย์ · speech_list_judge_main_c09	? (ช)		The vice director of the ADDC suspected\nsomething fishy was going on with it.	รองผู้อำนวยการ ADDC สงสัยอยู่ว่า\nมีอะไรแปลก ๆ เกิดขึ้นกับมัน
+P0901-0557	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The vice director of the ADDC suspected\nsomething fishy was going on with AD-9.	รองผู้อำนวยการ ADDC สงสัยอยู่ว่า\nมีอะไรแปลก ๆ เกิดขึ้นกับ AD-9
+P0901-0558	พากย์ · speech_list_judge_main_c09	? (ช)		But when he started digging around...	แต่พอเริ่มขุดคุ้ยเรื่องนี้เข้าจริง ๆ...
+P0901-0559	พากย์ · speech_list_judge_main_c09	? (ช)		Someone offed him to keep their secret safe.\nMade it look like a brawl so nobody'd get suspicious.	มีคนเก็บเขาเพื่อรักษาความลับเอาไว้\nทำให้ดูเหมือนวิวาทกันเฉย ๆ จะได้ไม่มีใครสงสัย
+P0901-0560	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...Someone offed him to keep their secret safe.\nMade it look like a brawl so nobody'd get suspicious.	...มีคนเก็บเขาเพื่อรักษาความลับเอาไว้\nทำให้ดูเหมือนวิวาทกันเฉย ๆ จะได้ไม่มีใครสงสัย
+P0901-0561	พากย์ · speech_list_judge_main_c09	? (ช)		Like the drug's effects being falsified.	อย่างเช่นผลของตัวยาถูกปลอมแปลง ข้อมูลไง
+P0901-0562	พากย์ · speech_list_judge_main_c09	? (ช)		Huh? How do you know?	หา? รู้ได้ยังไง?
+P0901-0563	พากย์ · speech_list_judge_main_c09	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Hm? Why?	หืม? ทำไมล่ะ?
+P0901-0564	พากย์ · speech_list_judge_main_c09	? (ช)		And you're sure?	แน่ใจนะ?
+P0901-0565	พากย์ · speech_list_judge_main_c09	? (ช)		By which you mean...	หมายความว่า...
+P0901-0566	พากย์ · speech_list_judge_main_c09	? (ช)	[ซ้ำในบท x2]	Human experimentation.	การทดลองในมนุษย์
+P0901-0567	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Human testing, huh...?	การทดลองกับมนุษย์เลยเหรอเนี่ย...?
+P0901-0568	พากย์ · speech_list_judge_main_c09	Kaito (ช)	[ใช้ร่วม]	Wait...	เดี๋ยวก่อน...
+P0901-0569	พากย์ · speech_list_judge_main_c09	? (ช)		Oh, nothing. Just... are you absolutely\nsure there's nothing off about AD-9?	อ๋อ ไม่มีอะไรครับ แค่... แน่ใจแล้วจริง ๆ นะ\nว่าไม่มีอะไรผิดปกติกับ AD-9?
+P0901-0570	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Nothing. Just... are you absolutely sure\nthere's nothing off about AD-9?	ไม่มีอะไรครับ แค่... แน่ใจแล้วจริง ๆ นะ\nว่าไม่มีอะไรผิดปกติกับ AD-9?
+P0901-0571	พากย์ · speech_list_judge_main_c09	? (ช)		So you're saying...\nShono's the creator of AD-9?	หมายความว่า...\nโชโนะเป็นคนสร้าง AD-9 เหรอครับ?
+P0901-0572	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	So AD-9's actual architect... is Shono?	งั้นตัวจริงที่อยู่เบื้องหลัง AD-9... คือโชโนะเหรอ?
+P0901-0573	พากย์ · speech_list_judge_main_c09	? (ช)		Shono...\nWhat's your role in all of this?	โชโนะ...\nคุณมีบทบาทอะไรในเรื่องนี้กันแน่?
+P0901-0574	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yoji Shono... What's your role\nin all of this?	โยจิ โชโนะ... คุณมีบทบาทอะไร\nในเรื่องทั้งหมดนี้กันแน่?
+P0901-0575	พากย์ · speech_list_judge_main_c09	? (ช)		So the one I want... It's Shono, huh?	งั้นคนที่ผมต้องการตัว... ก็คือโชโนะสินะ
+P0901-0576	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Is it... really Shono?	ใช่... โชโนะจริง ๆ เหรอ?
+P0901-0577	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		How did things go with Hattori-san?\nDid you learn anything useful?	เป็นยังไงบ้างครับกับฮัตโตริซัง\nได้อะไรมีประโยชน์มาบ้างไหม?
+P0901-0578	พากย์ · speech_list_judge_main_c09	Kaito (ช)		Yo, welcome back.	เฮ้ กลับมาแล้วเหรอ
+P0901-0579	พากย์ · speech_list_judge_main_c09	Kaito (ช)	[อีกแทร็ก]	Yo. You miss us?	เฮ้ คิดถึงพวกเราไหมล่ะ
+P0901-0580	พากย์ · speech_list_judge_main_c09	Sugiura (ช)		Hey there, Yagami-san.	สวัสดีครับ ยากามิซัง
+P0901-0581	พากย์ · speech_list_judge_main_c09	Sugiura (ช)	[อีกแทร็ก] [ใช้ร่วม]	Hey there.	เฮ้ ว่าไง
+P0901-0582	พากย์ · speech_list_judge_main_c09	Yagami (ช)		The gang's all here, huh?	มากันพร้อมหน้าเลยนี่ครับ
+P0901-0583	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[อีกแทร็ก]	Whoa, the gang's all here.	โห มากันพร้อมหน้าเลย
+P0901-0584	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Yeah, I guess.	ครับ ก็จริง
+P0901-0585	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...Yeah, I guess.	...ครับ ก็จริง
+P0901-0586	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		You should go over what Hattori-san told you\nwhile everyone's here, Yagami-san.	ลองเล่าสิ่งที่ฮัตโตริซังบอกคุณ\nตอนที่ทุกคนอยู่พร้อมหน้ากัน แบบนี้เลยดีไหมครับ ยากามิซัง
+P0901-0587	พากย์ · speech_list_judge_main_c09	Hoshino (ช)	[อีกแทร็ก]	Yagami-san, as long as you've got everyone here,\nyou should go over your findings.	ยากามิซัง ในเมื่อทุกคนอยู่พร้อมหน้ากันแล้ว\nลองเล่าสิ่งที่คุณเจอมาให้ฟัง หน่อยดีไหมครับ
+P0901-0588	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Take a seat.	นั่งก่อนสิ
+P0901-0589	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		This is the first time I'm hearing about\nKido not really being involved, though.	แต่นี่เป็นครั้งแรกที่ผมได้ยินว่า\nคิโดะไม่ได้เกี่ยวข้องจริง ๆ นะ
+P0901-0590	พากย์ · speech_list_judge_main_c09	Hoshino (ช)	[อีกแทร็ก]	But... this is the first I've heard that\nKido might not be involved.	แต่... นี่เป็นครั้งแรกที่ผมได้ยินว่า\nคิโดะอาจไม่ได้เกี่ยวข้องเลย
+P0901-0591	พากย์ · speech_list_judge_main_c09	? (ช)		It's possible Shono's hiding\nthe truth from even him.	เป็นไปได้ว่าโชโนะปิดบัง\nความจริงจากเขาด้วยเหมือนกันครับ
+P0901-0592	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	It's possible Shono's hiding the truth\nfrom even him.	เป็นไปได้ว่าโชโนะปิดบังความจริง\nจากเขาด้วยเหมือนกัน
+P0901-0593	พากย์ · speech_list_judge_main_c09	? (ช)		Even if these people were test cases,\nwhy would Shono have to murder them?	ต่อให้คนพวกนี้เป็นแค่เคสทดลอง\nแล้วโชโนะจะต้องฆ่าพวกเขาไปทำไม ล่ะครับ?
+P0901-0594	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Even if these people <font_kind=yakuza_italic>were</font_kind> test cases,\nwhat reason would Shono have to murder them?	ต่อให้คนพวกนี้<font_kind=yakuza_italic>เป็น</font_kind>เคสทดลองจริง\nโชโนะจะมีเหตุผลอะไรที่ต้องฆ่า พวกเขาล่ะครับ?
+P0901-0595	พากย์ · speech_list_judge_main_c09	? (ช)		This is a dementia drug,\nnot some kind of chemical weapon.	นี่มันยารักษาภาวะสมองเสื่อม\nไม่ใช่อาวุธเคมีอะไรสักหน่อย
+P0901-0596	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	He's making a cure, not a virus.	เขากำลังสร้างยารักษา ไม่ใช่ไวรัสนะครับ
+P0901-0597	พากย์ · speech_list_judge_main_c09	? (ช)		It was perfectly fine when they\ntested it on mice, though.	แต่ตอนทดลองกับหนู\nมันก็ไม่มีปัญหาอะไรเลยนะครับ
+P0901-0598	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	It was perfectly fine\nwhen they tested it on mice, though.	มันก็ไม่มีปัญหาอะไรเลย\nตอนทดลองกับหนูนะครับ
+P0901-0599	พากย์ · speech_list_judge_main_c09	? (ช)		If it ended up killing someone, then...\nWait a sec...	ถ้าสุดท้ายมันฆ่าคนได้จริง...\nเดี๋ยวนะ...
+P0901-0600	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If it ended up killing a human,\nthen... Wait...	ถ้าสุดท้ายมันฆ่ามนุษย์ได้จริง...\nงั้น... เดี๋ยวนะ...
+P0901-0601	พากย์ · speech_list_judge_main_c09	? (ช)		What if AD-9 was completely harmless to mice...\nBut lethal when introduced into the human body?	ถ้า AD-9 ไม่มีอันตรายอะไรกับหนูเลย...\nแต่กลับถึงตายเมื่อเข้าสู่ ร่างกายมนุษย์ล่ะ?
+P0901-0602	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	What if AD-9 was completely harmless to mice...\nbut lethal when introduced into the human body?	ถ้า AD-9 ไม่มีอันตรายอะไรกับหนูเลย...\nแต่กลับถึงตายเมื่อเข้าสู่ ร่างกายมนุษย์ล่ะ?
+P0901-0603	พากย์ · speech_list_judge_main_c09	? (ช)		Actually, it says here that they test\nnew drugs on healthy humans as well.	จริง ๆ แล้วตรงนี้เขียนไว้ว่าจะทดลองยาใหม่\nกับคนที่แข็งแรงดีด้วยครับ
+P0901-0604	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Actually, it says here that they test new drugs\non healthy humans as well.	จริง ๆ แล้วตรงนี้เขียนไว้ว่าจะทดลองยา ใหม่กับ\nคนที่แข็งแรงดีด้วยเหมือนกันครับ
+P0901-0605	พากย์ · speech_list_judge_main_c09	? (ช)		They're the control group to make\nsure the drug is safe.	พวกเขาเป็นกลุ่มควบคุมเพื่อ\nยืนยันว่ายาปลอดภัยครับ
+P0901-0606	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	They're the control group\nto make sure the drug is safe.	พวกเขาเป็นกลุ่มควบคุม\nเพื่อยืนยันว่ายาปลอดภัยครับ
+P0901-0607	พากย์ · speech_list_judge_main_c09	? (ช)		We are taking this seriously!	พวกเราจริงจังอยู่นะครับ!
+P0901-0608	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	We <font_kind=yakuza_italic>are</font_kind> being serious!	พวกเรา<font_kind=yakuza_italic>จริงจัง</font_kind>กันอยู่นะครับ!
+P0901-0609	พากย์ · speech_list_judge_main_c09	? (ช)		The only dumbass here is the guy who can't\nconsider all the possible options!	คนโง่คนเดียวที่นี่คือคนที่ไม่ยอมมอง\nให้รอบด้านต่างหากครับ!
+P0901-0610	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Dumbasses!? The only <font_kind=yakuza_italic>dumbass</font_kind> here is the guy\nwho can't consider all the possible options!	โง่งั้นเหรอ!? คน<font_kind=yakuza_italic>โง่</font_kind>คนเดียวที่นี่คือคนที่\nไม่ยอมมองให้รอบด้านต่างหากครับ!
+P0901-0611	พากย์ · speech_list_judge_main_c09	? (ช)		Hey, I think you're onto something!	เฮ้ ฉันว่านายจับทางถูกแล้วนะ!
+P0901-0612	พากย์ · speech_list_judge_main_c09	? (ช)		True, it was only announced last year.	จริงครับ มันเพิ่งถูกประกาศออกมาเมื่อปี ที่แล้วเอง
+P0901-0613	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	True, AD-9 was only formally\nannounced last year.	จริงครับ AD-9 เพิ่งถูกประกาศ\nอย่างเป็นทางการเมื่อปีที่แล้วเอง
+P0901-0614	พากย์ · speech_list_judge_main_c09	? (ช)		But all the research that went into that paper\nwould have reached way further back.	แต่งานวิจัยทั้งหมดที่นำไปสู่ เปเปอร์นั้น\nต้องย้อนไปไกลกว่านั้นมากครับ
+P0901-0615	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	All the same, the research would have been\ngoing on much further back.	ยังไงก็ตาม งานวิจัยนั้นต้อง\nดำเนินมาก่อนหน้านั้นนานแล้วครับ
+P0901-0616	พากย์ · speech_list_judge_main_c09	? (ช)		It's hard to say for sure, but it's worth\nlooking into at the very least.	ยังบอกแน่ชัดไม่ได้หรอกครับ แต่ก็คุ้ม\nที่จะลองสืบดูอย่างน้อยที่สุด
+P0901-0617	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	It's hard to say for sure,\nbut it's worth looking into, at the very least.	ยังบอกแน่ชัดไม่ได้หรอกครับ\nแต่ก็คุ้มที่จะลองสืบดูอย่าง น้อยที่สุด
+P0901-0618	พากย์ · speech_list_judge_main_c09	Kaito (ช)		Which is?	ทางไหนล่ะ?
+P0901-0619	พากย์ · speech_list_judge_main_c09	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Go on.	ว่ามาเลย
+P0901-0620	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	Oh yeah?	งั้นเหรอ?
+P0901-0621	พากย์ · speech_list_judge_main_c09	? (ช)		Knock it off.	พอเถอะน่า
+P0901-0622	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Damn, kid.	โห ไอ้หนู
+P0901-0623	พากย์ · speech_list_judge_main_c09	? (ช)		You're... You're serious?	นาย... นายพูดจริงเหรอเนี่ย?
+P0901-0624	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Hold up a sec...\nYou're serious here?	เดี๋ยวก่อนนะ...\nนายพูดจริงเหรอเนี่ย?
+P0901-0625	พากย์ · speech_list_judge_main_c09	? (ช)		What, you think this guy Shono went out,\nhired an assassin, and started killing people?	อะไร นายคิดว่าไอ้โชโนะนี่ออกไป\nจ้างมือสังหารแล้วเริ่มฆ่าคนงั้นเหรอ?
+P0901-0626	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Then what? You think this guy Shono hired an assassin\nand started <font_kind=yakuza_italic>killing people</font_kind>?	แล้วไง? นายคิดว่าไอ้โชโนะนี่จ้างมือสังหาร\nแล้วเริ่ม<font_kind=yakuza_italic>ฆ่าคน</font_kind>งั้นเหรอ?
+P0901-0627	พากย์ · speech_list_judge_main_c09	? (ช)		Back it up. If they're testing a drug,\nwouldn't they wanna use it on an actual patient?	เดี๋ยวก่อน ถ้าจะทดลองยา\nไม่น่าจะอยากใช้กับคนไข้จริง ๆ เหรอ?
+P0901-0628	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Hold on. If they're testing a drug,\nwouldn't they wanna use it on an actual patient?	เดี๋ยวนะ ถ้าจะทดลองยา\nไม่น่าจะอยากใช้กับคนไข้จริง ๆ เหรอ?
+P0901-0629	พากย์ · speech_list_judge_main_c09	? (ช)		I mean, it's not like those Kyorei guys\nall had Alzheimer's or anything.	ก็คือ คนของเคียวเรอินั่น\nไม่ได้เป็นอัลไซเมอร์กันสักหน่อย
+P0901-0630	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I mean, it's not like all the Mole's victims\nhad Alzheimer's or anything.	ก็คือ เหยื่อของไอ้ตัวตุ่นทั้งหมด\nไม่ได้เป็นอัลไซเมอร์กันสักหน่อย
+P0901-0631	พากย์ · speech_list_judge_main_c09	? (ช)		Yeah, eventually. It wouldn't make any damn sense\nfor 'em to start on anyone but real patients, though.	ใช่ ในที่สุดก็ต้องเป็นงั้น แต่มันไม่มีเหตุผลบ้า ๆ\nที่จะเริ่มจากคนอื่นนอกจากคนไข้ จริงหรอกนะ
+P0901-0632	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I could see that after a while, sure.\nBut they gotta <font_kind=yakuza_italic>start</font_kind> with patients, right?	เข้าใจแหละว่าสุดท้ายต้องเป็นงั้น\nแต่ก็ต้อง<font_kind=yakuza_italic>เริ่ม</font_kind>จากคนไข้ก่อนไม่ใช่เหรอ?
+P0901-0633	พากย์ · speech_list_judge_main_c09	? (ช)		Just give it a rest.\nTry takin' this seriously for once.	พอเถอะน่า\nลองจริงจังกับเรื่องนี้กันบ้างสักที
+P0901-0634	พากย์ · speech_list_judge_main_c09	? (ช)		Says the dumbass kid who keeps spouting tinfoil hat shit\nabout goddamn human experiments!	พูดได้ไง ไอ้หนูโง่ ๆ ที่พล่ามทฤษฎีสมคบคิดบ้า ๆ\nเรื่องการทดลองมนุษย์บ้าบออยู่นี่!
+P0901-0635	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Serious about this crazy human experiment BS?\nYou dumbasses buying this whack job shit!?	จริงจังกับเรื่องทดลองมนุษย์บ้า ๆ นี่เนี่ยนะ?\nพวกนายเชื่อเรื่องเพี้ยน ๆ แบบนี้ได้ไงวะ!?
+P0901-0636	พากย์ · speech_list_judge_main_c09	? (ช)		Oh, is that right!?	โอ้ อย่างนั้นเหรอ!?
+P0901-0637	พากย์ · speech_list_judge_main_c09	? (ช)		Next you're gonna tell me they experimented\non old man Waku, too! Fuckin' idiots.	ต่อไปนายคงจะบอกว่าพวกเขาเอาลุงวาคุ\nไปทดลองด้วยสิท่า! บ้าเอ๊ยพวกโง่
+P0901-0638	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, hey, that Waku guy from the Center died too!\nHuman fuckin' experiments, right!?	อ้าว แต่ลุงวาคุจากศูนย์นั่นก็ตายไปจริง ๆ นะครับ\nการทดลองในมนุษย์บ้าบอนั่นแหละใช่ไหม!?
+P0901-0639	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	What is it now?	มีอะไรอีกล่ะ?
+P0901-0640	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Whaddya mean?	หมายความว่าไง?
+P0901-0641	พากย์ · speech_list_judge_main_c09	? (ช)		All right, cool your fuckin' jets.\nThat happened three years ago.	เอาล่ะ ใจเย็น ๆ ก่อนสิวะ\nเรื่องนั้นมันเกิดขึ้นเมื่อสาม ปีก่อนนะ
+P0901-0642	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	All right, cool your fuckin' jets.\nThat happened three years ago, right?	เอาล่ะ ใจเย็น ๆ ก่อนสิวะ\nเรื่องนั้นมันเกิดขึ้นเมื่อสาม ปีก่อนไม่ใช่เหรอ?
+P0901-0643	พากย์ · speech_list_judge_main_c09	? (ช)		AD-9 didn't even exist back then!	ตอนนั้น AD-9 ยังไม่มีตัวตนด้วยซ้ำ!
+P0901-0644	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Back then, I'm pretty sure AD-9\ndidn't even exist.	ตอนนั้นฉันค่อนข้างมั่นใจว่า AD-9\nยังไม่มีตัวตนด้วยซ้ำ
+P0901-0645	พากย์ · speech_list_judge_main_c09	? (ช)		Huh... Wait, are we really onto somethin'?	หืม... เดี๋ยวนะ เรามาถูกทางจริง ๆ เหรอเนี่ย?
+P0901-0646	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Huh...? Wait...\nSeriously? We're onto something?	หืม...? เดี๋ยวนะ...\nจริงดิ? เรามาถูกทางจริง ๆ เหรอ?
+P0901-0647	พากย์ · speech_list_judge_main_c09	Sugiura (ช)		Wait, are you saying there isn't\nactually anything up with AD-9?	เดี๋ยวนะ หมายความว่าจริง ๆ แล้ว\nไม่มีอะไรแปลกกับ AD-9 เลยเหรอ?
+P0901-0648	พากย์ · speech_list_judge_main_c09	Sugiura (ช)	[อีกแทร็ก]	What? So you think AD-9 might be legit\nafter all?	อะไรนะ งั้นนายคิดว่า AD-9 มันโอเค\nจริง ๆ เหรอ?
+P0901-0649	พากย์ · speech_list_judge_main_c09	? (ช)		Well that's gross. Side effects include bloating,\nblindness, and <font_kind=yakuza_italic>death</font_kind>, right?	โห แหวะเลยครับ ผลข้างเคียงมีทั้งตัวบวม\nตาบอด แล้วก็<font_kind=yakuza_italic>ตาย</font_kind>ใช่ไหมล่ะครับ
+P0901-0650	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, that's kinda gross. Makes me think of\nthe corpses with their eyes gouged out.	โห แหวะ ๆ อยู่นะครับ นึกถึงศพ\nที่โดนควักลูกตาออกเลยครับ
+P0901-0651	พากย์ · speech_list_judge_main_c09	? (ช)		Sorry, sorry. What's bothering you\nabout that, Yagami-san?	ขอโทษครับ ขอโทษ แล้วยากามิซังล่ะครับ\nมีอะไรกวนใจอยู่เหรอ?
+P0901-0652	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Anyhow, what's bothering you\nabout that?	ยังไงก็เถอะครับ มีอะไรกวนใจ\nยากามิซังอยู่เหรอ?
+P0901-0653	พากย์ · speech_list_judge_main_c09	? (ช)		No but, what if it really did have some\nkinda crazy side effects, though?	ไม่สิ แต่ถ้ามันมีผลข้างเคียง\nบ้า ๆ อะไรสักอย่างจริง ๆ ล่ะ?
+P0901-0654	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I know, but... what if it had\nsome kinda crazy side effects?	รู้ครับ แต่... ถ้ามันมีผลข้างเคียง\nบ้า ๆ อะไรสักอย่างล่ะ?
+P0901-0655	พากย์ · speech_list_judge_main_c09	? (ช)		Like, they didn't wanna kill the people,\nbut they ended up dying anyways.	อย่างเช่น พวกเขาไม่ได้ตั้งใจฆ่าใคร\nแต่สุดท้ายคนพวกนั้นก็ตายอยู่ดี
+P0901-0656	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Maybe they didn't actually\nmean to kill anyone.	บางทีพวกเขาอาจไม่ได้\nตั้งใจฆ่าใครจริง ๆ ก็ได้
+P0901-0657	พากย์ · speech_list_judge_main_c09	? (ช)		That incident three years ago at the ADDC.	เหตุการณ์เมื่อสามปีก่อนที่ ADDC นั่นเอง
+P0901-0658	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That was your case three years ago\nat the ADDC.	นั่นคือคดีของคุณเมื่อสามปีก่อน\nที่ ADDC เลยนี่ครับ
+P0901-0659	พากย์ · speech_list_judge_main_c09	? (ช)		The guy who died, Waku-san...\nDidn't he have Alzheimer's?	คนที่ตายไป วาคุซัง...\nเขาเป็นอัลไซเมอร์ไม่ใช่เหรอครับ?
+P0901-0660	พากย์ · speech_list_judge_main_c09	Yagami (ช)		That's what Hattori said, yeah.	ฮัตโตริพูดแบบนั้นแหละครับ
+P0901-0661	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[อีกแทร็ก]	That's what Hattori said.	ฮัตโตริพูดแบบนั้น
+P0901-0662	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Maybe.	ก็อาจจะ
+P0901-0663	พากย์ · speech_list_judge_main_c09	? (ช)		But first... one term in particular stuck\nwith me from my chat with Hattori-san.	แต่ก่อนอื่น... มีคำหนึ่งที่ติดอยู่ในหัวผม\nมาจากตอนคุยกับฮัตโตริซัง
+P0901-0664	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But first... one term in particular stuck with me\nfrom my chat with Hattori-san.	แต่ก่อนอื่น... มีคำหนึ่งที่ติดอยู่ในหัวผมมาก\nจากตอนคุยกับฮัตโตริซัง
+P0901-0665	พากย์ · speech_list_judge_main_c09	? (ช)		Apparently AD-9 is just about ready\nto be tested on real human subjects.	ดูเหมือน AD-9 จะพร้อมแล้ว\nสำหรับการทดลองกับมนุษย์จริง ๆ
+P0901-0666	พากย์ · speech_list_judge_main_c09	? (ช)		Well, it's just...	ก็แค่ว่า...
+P0901-0667	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, uh...	ก็ เอ่อ...
+P0901-0668	พากย์ · speech_list_judge_main_c09	? (ช)		I've just been thinking, what if all these murders\nwere secretly experimental trials for AD-9?	ผมแค่คิดอยู่ว่า ถ้าคดีฆาตกรรมพวกนี้\nที่จริงเป็นการทดลอง AD-9 แบบลับ ๆ ล่ะ?
+P0901-0669	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	With all the Mole's murders... If they were all just\nexperimental trials for AD-9, what would that mean?	คดีฆาตกรรมของไอ้ตัวตุ่นทั้งหมด... ถ้ามันเป็นแค่\nการทดลอง AD-9 ล่ะ มันจะหมายความว่าไง?
+P0901-0670	พากย์ · speech_list_judge_main_c09	? (ช)		If Shono's the one behind all this...	ถ้าโชโนะเป็นคนอยู่เบื้องหลัง เรื่องนี้ทั้งหมด...
+P0901-0671	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Just, if Shono's the one behind the Mole...	ก็แค่ว่า ถ้าโชโนะเป็นคนอยู่เบื้องหลัง ไอ้ตัวตุ่น...
+P0901-0672	พากย์ · speech_list_judge_main_c09	? (ช)		Guess it's a bit of a stretch, huh?	ก็นะ อาจจะฟังดูไกลตัวไปหน่อยสินะ
+P0901-0673	พากย์ · speech_list_judge_main_c09	? (ช)		Yeah, wait a sec is right.\nWe're on the same page here.	ใช่ครับ เดี๋ยวก่อนนั่นแหละถูกแล้ว\nเรากำลังคิดตรงกันพอดี
+P0901-0674	พากย์ · speech_list_judge_main_c09	? (ช)		If that was the case, they'd need to perform\na ton of experiments to make sure it was fixed.	ถ้าเป็นแบบนั้นจริง ก็ต้องทดลอง\nอีกเยอะเลยกว่าจะแก้ไขมันได้ครับ
+P0901-0675	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Right. They'd need to perform a ton of\nexperiments to make sure it was fixed.	ใช่ครับ ต้องทดลองอีกเยอะเลย\nกว่าจะมั่นใจได้ว่าแก้ไขมันแล้ว
+P0901-0676	พากย์ · speech_list_judge_main_c09	? (ช)		Which is why they killed all those Kyorei guys.	นั่นแหละคือเหตุผลที่พวกเขาฆ่า คนของเคียวเรอิไปทั้งหมด
+P0901-0677	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Maybe... that's why they killed\nall those Kyorei guys.	บางที... นั่นอาจเป็นเหตุผลที่พวกเขาฆ่า\nคนของเคียวเรอิไปทั้งหมด
+P0901-0678	พากย์ · speech_list_judge_main_c09	? (ช)		<color=ｍonologue>(If Shono needed to silence those yakuza,\nhe might have resorted to using the Mole...)</color>	<color=ｍonologue>(ถ้าโชโนะต้องปิดปากพวกยากูซ่านั่น\nเขาอาจใช้ไอ้ตัวตุ่นลงมือก็ได้...)</color>
+P0901-0679	พากย์ · speech_list_judge_main_c09	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	That's true...	ก็จริงนะ...
+P0901-0680	พากย์ · speech_list_judge_main_c09	? (ช)		Think about it, Kaito-san.	ลองคิดดูสิครับ ไคโตะซัง
+P0901-0681	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The victim in that case...	เหยื่อในคดีนั้น...
+P0901-0682	พากย์ · speech_list_judge_main_c09	? (ช)		Waku-san was an Alzheimer's\npatient at the Center.	วาคุซังเป็นผู้ป่วยอัลไซเมอร์\nที่ศูนย์นั่นครับ
+P0901-0683	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Waku-san was an Alzheimer's patient\nat the Center.	วาคุซังเป็นผู้ป่วยอัลไซเมอร์\nที่ศูนย์นั่นครับ
+P0901-0684	พากย์ · speech_list_judge_main_c09	? (ช)		We know for a fact that Okubo didn't kill him,\nbut they never tracked the real murderer down.	เรารู้แน่ชัดว่าโอคุโบะไม่ใช่คนฆ่าเขา\nแต่ก็ไม่เคยตามหาตัวฆาตกร ตัวจริงเจอเลย
+P0901-0685	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...This might be the answer.	...นี่อาจเป็นคำตอบก็ได้
+P0901-0686	พากย์ · speech_list_judge_main_c09	? (ช)		<color=ｍonologue>(What if the motivation for that murder\nwas a human experiment for AD-9?)</color>	<color=ｍonologue>(ถ้าแรงจูงใจของคดีฆาตกรรมนั้น\nคือการทดลอง AD-9 ในมนุษย์ล่ะ?)</color>
+P0901-0687	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		I have a few more thoughts about\nthis whole human experimentation theory.	ผมมีความคิดเพิ่มเติมอีกหน่อย\nเกี่ยวกับทฤษฎีการทดลองมนุษย์นี้
+P0901-0688	พากย์ · speech_list_judge_main_c09	Hoshino (ช)	[อีกแทร็ก]	About that human experimentation theory...\nI have some more ideas.	เรื่องทฤษฎีการทดลองมนุษย์นั่น...\nผมมีความคิดเพิ่มเติมอีกหน่อยครับ
+P0901-0689	พากย์ · speech_list_judge_main_c09	? (ช)		Mind if we continue?	ขอคุยเรื่องนี้ต่อได้ไหมครับ?
+P0901-0690	พากย์ · speech_list_judge_main_c09	Kaito (ช)		Y'know, I'm starting to see things\na little clearer now...	รู้อะไรไหม ฉันเริ่มมองเห็นภาพ\nชัดขึ้นมาหน่อยแล้วนะ...
+P0901-0691	พากย์ · speech_list_judge_main_c09	Kaito (ช)	[อีกแทร็ก]	Y'know, I'm coming around\non team whack job...	รู้อะไรไหม ฉันเริ่มจะเอนเอียง\nเข้าข้างทีมทฤษฎีเพี้ยน ๆ แล้วนะ...
+P0901-0692	พากย์ · speech_list_judge_main_c09	Sugiura (ช)		If AD-9's really what killed Waku-san\nthree years ago... the ADDC's finished.	ถ้า AD-9 เป็นตัวที่ฆ่าวาคุซัง\nเมื่อสามปีก่อนจริง ๆ... ADDC จบเห่แน่ครับ
+P0901-0693	พากย์ · speech_list_judge_main_c09	Sugiura (ช)	[อีกแทร็ก]	If that's really what killed Waku-san three years ago...\nAD-9 would be finished.	ถ้ามันเป็นตัวที่ฆ่าวาคุซัง เมื่อสามปีก่อนจริง ๆ...\nAD-9 ก็จบเห่ครับ
+P0901-0694	พากย์ · speech_list_judge_main_c09	? (ช)		Shit would be the scandal of the century.	บ้าเอ๊ย นี่คงเป็นเรื่องอื้อฉาวแห่ง ศตวรรษเลยล่ะ
+P0901-0695	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Shit would be the\nscandal of the century.	บ้าเอ๊ย คงเป็น\nเรื่องอื้อฉาวแห่งศตวรรษเลยล่ะ
+P0901-0696	พากย์ · speech_list_judge_main_c09	? (ช)		Actually, gimme a second.	เดี๋ยวก่อน ขอเวลาแป๊บนึง
+P0901-0697	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[ใช้ร่วม]	Sure, let's do it.	ได้ ลุยกันเลย
+P0901-0698	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		Okay, so...	โอเค เอาล่ะ...
+P0901-0699	พากย์ · speech_list_judge_main_c09	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	So...	เอาเป็นว่า...
+P0901-0700	พากย์ · speech_list_judge_main_c09	? (ช)		Let's say Shono did experiment on Waku-san.\nWhy would he do that?	สมมติว่าโชโนะทดลองกับวาคุซังจริง\nแล้วทำไมเขาถึงต้องทำแบบนั้นล่ะ?
+P0901-0701	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Let's say Shono <font_kind=yakuza_italic>did</font_kind> experiment on Waku-san.\nWhy would he go that far?	สมมติว่าโชโนะ<font_kind=yakuza_italic>ทดลอง</font_kind>กับวาคุซังจริง\nแล้วทำไมเขาถึงต้องทำถึงขนาดนั้นล่ะ?
+P0901-0702	พากย์ · speech_list_judge_main_c09	? (ช)		They normally do a lot more to ensure a drug\nis safe before it enters clinical trials.	ปกติแล้วต้องทำอะไรมากกว่านี้เยอะ\nเพื่อยืนยันว่ายาปลอดภัยก่อน เข้าสู่การทดลองทางคลินิกครับ
+P0901-0703	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	They normally do a lot more to ensure a drug is safe\nbefore it enters clinical trials.	ปกติแล้วต้องทำอะไรมากกว่านี้ เยอะเพื่อยืนยันว่า\nยาปลอดภัยก่อนเข้าสู่การทดลอง ทางคลินิกครับ
+P0901-0704	พากย์ · speech_list_judge_main_c09	? (ช)		What was his motive for testing it then?	แล้วแรงจูงใจของเขาในการทดลอง ครั้งนี้คืออะไรกัน?
+P0901-0705	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Why would Shono test it this way?	ทำไมโชโนะถึงต้องทดลองแบบนี้ล่ะ?
+P0901-0706	พากย์ · speech_list_judge_main_c09	? (ช)		That's possible.	เป็นไปได้ครับ
+P0901-0707	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I suppose...	ก็คงงั้นแหละ...
+P0901-0708	พากย์ · speech_list_judge_main_c09	? (ช)		I guess Shono was surrounded\nby dementia patients.	ผมว่าโชโนะคงแวดล้อมไปด้วย\nผู้ป่วยภาวะสมองเสื่อมอยู่แล้วครับ
+P0901-0709	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Shono <font_kind=yakuza_italic>was</font_kind> perpetually surrounded\nby dementia patients.	โชโนะ<font_kind=yakuza_italic>แวดล้อม</font_kind>ไปด้วยผู้ป่วย\nภาวะสมองเสื่อมอยู่ตลอดเวลาครับ
+P0901-0710	พากย์ · speech_list_judge_main_c09	? (?)		One little test wouldn't be a big deal,\nand if it succeeded, his drug would save the world.  	การทดลองเล็ก ๆ ครั้งเดียวคงไม่ใช่เรื่องใหญ่\nและถ้าสำเร็จ ยาของเขาก็จะช่วยโลกได้เลยครับ 
+P0901-0711	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	One little test wouldn't raise any eyebrows,\nbut it could potentially save the world.	การทดลองเล็ก ๆ ครั้งเดียวคงไม่ทำให้ใครสงสัย\nแต่มันอาจช่วยโลกได้เลยก็ได้ครับ
+P0901-0712	พากย์ · speech_list_judge_main_c09	? (ช)		If it meant curing Alzheimer's sooner,\nhe might've been okay accepting the risk.	ถ้ามันหมายถึงการรักษา อัลไซเมอร์ได้เร็วขึ้น\nเขาอาจยอมรับความเสี่ยงนั้นได้ครับ
+P0901-0713	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If it meant curing Alzheimer's sooner,\nhe might've been okay with the risk.	ถ้ามันหมายถึงการรักษา อัลไซเมอร์ได้เร็วขึ้น\nเขาอาจโอเคกับความเสี่ยงนั้นก็ได้ครับ
+P0901-0714	พากย์ · speech_list_judge_main_c09	Kaito (ช)		It's startin' to make sense...	เริ่มเข้าเค้าแล้วสิ...
+P0901-0715	พากย์ · speech_list_judge_main_c09	Kaito (ช)	[อีกแทร็ก]	Makes some sense.	ก็พอเข้าเค้าอยู่นะ
+P0901-0716	พากย์ · speech_list_judge_main_c09	Yagami (ช)		<color=ｍonologue>(Let me think. Why would Shono have broken protocol\nand experimented on Waku?)</color>	<color=ｍonologue>(คิดดูสิ ทำไมโชโนะถึงต้องฝ่าฝืนขั้นตอน\nแล้วทดลองกับวาคุ?)</color>
+P0901-0717	พากย์ · speech_list_judge_main_c09	? (ช)		Maybe he wanted to try his groundbreaking new drug\non a real live human as soon as possible.	บางทีเขาอาจอยากลองยาตัวใหม่ที่ ปฏิวัติวงการ\nกับมนุษย์จริง ๆ ให้เร็วที่สุดครับ
+P0901-0718	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Mm... Maybe... he wanted to try his groundbreaking new drug\non a real live human as soon as possible.	อืม... บางที... เขาอาจอยากลองยาตัวใหม่\nที่ปฏิวัติวงการกับมนุษย์จริง ๆ ให้เร็วที่สุดครับ
+P0901-0719	พากย์ · speech_list_judge_main_c09	? (ช)		If it worked, he'd have the cure.	ถ้ามันได้ผล เขาก็จะได้ตัวยารักษาไปเลยครับ
+P0901-0720	พากย์ · speech_list_judge_main_c09	? (ช)		And he'd have it without dealing with all the red tape\nthese things go through. It would've saved him years.	แถมไม่ต้องยุ่งกับขั้นตอนราชการ ยุ่งยาก\nที่ต้องผ่านด้วย ประหยัดเวลาไปได้หลายปีเลยครับ
+P0901-0721	พากย์ · speech_list_judge_main_c09	? (ช)		But instead of doing what it was meant to do,\nAD-9 had a horrible side effect. Death.	แต่แทนที่จะทำในสิ่งที่ควรจะเป็น\nAD-9 กลับมีผลข้างเคียงร้ายแรง คือความตาย
+P0901-0722	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But Shono's plan backfired in the worst way.\nIts potential doesn't matter if the side effect is death.	แต่แผนของโชโนะกลับกลายเป็นผลร้ายสุด ๆ\nศักยภาพของมันไม่มีความหมายเลย ถ้าผลข้างเคียงคือความตาย
+P0901-0723	พากย์ · speech_list_judge_main_c09	? (ช)		The more I think about it, the more it feels\nlike this is how it all went down.	ยิ่งคิดไปเรื่อย ๆ ก็ยิ่งรู้สึกว่า\nเรื่องมันน่าจะเป็นแบบนี้จริง ๆ
+P0901-0724	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The more I think about the case three years ago,\nthe more it feels like this is how it all went down.	ยิ่งคิดถึงคดีเมื่อสามปีก่อนไปเรื่อย ๆ\nก็ยิ่งรู้สึกว่าเรื่องมัน น่าจะเป็นแบบนี้จริง ๆ
+P0901-0725	พากย์ · speech_list_judge_main_c09	? (ช)		But now, even though he knows the risks...\nHe's still experimenting, and using the Mole to do it.	แต่ตอนนี้ ถึงเขาจะรู้ความเสี่ยงแล้ว...\nเขาก็ยังทดลองต่อ แถมใช้ไอ้ตัวตุ่นลงมือให้ด้วย
+P0901-0726	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But now, since he knows the risks of his\nexperiments... he's using the Mole.	แต่ตอนนี้ เพราะเขารู้ความเสี่ยง\nของการทดลองแล้ว... เขาเลยใช้ไอ้ตัวตุ่นลงมือแทน
+P0901-0727	พากย์ · speech_list_judge_main_c09	? (ช)		I know this is all just a theory...\nBut the pieces all seem to fit together.	ผมรู้ว่านี่เป็นแค่ทฤษฎี...\nแต่ทุกอย่างมันต่อกันได้พอดีเลยครับ
+P0901-0728	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I know this is all just a theory...\nbut the pieces all seem to fit together.	ผมรู้ว่านี่เป็นแค่ทฤษฎี...\nแต่ทุกอย่างมันต่อกันได้พอดีเลยครับ
+P0901-0729	พากย์ · speech_list_judge_main_c09	Kaito (ช)		Quit it, Sugiura.\nWe'll get to that later.	พอเถอะ ซุกิอุระ\nเดี๋ยวเราค่อยพูดเรื่องนั้นทีหลัง
+P0901-0730	พากย์ · speech_list_judge_main_c09	Sugiura (ช)		Going down that path, Yagami-san.\nThat means Okubo really was innocent, yeah?	ถ้าเป็นแบบนั้นจริง ยากามิซัง\nก็แปลว่าโอคุโบะบริสุทธิ์จริง ๆ ใช่ไหมครับ?
+P0901-0731	พากย์ · speech_list_judge_main_c09	Sugiura (ช)	[อีกแทร็ก]	Going down that path, Yagami-san.\nThat'd mean Okubo really <font_kind=yakuza_italic>is</font_kind> innocent, yeah?	ถ้าเป็นแบบนั้นจริง ยากามิซัง\nก็แปลว่าโอคุโบะ<font_kind=yakuza_italic>บริสุทธิ์</font_kind>จริง ๆ ใช่ไหมครับ?
+P0901-0732	พากย์ · speech_list_judge_main_c09	? (ช)		But he murdered his girlfriend right after.\nI mean, that's why he's on death row.	แต่เขาก็ฆ่าแฟนสาวตัวเองในเวลาต่อมา\nก็เพราะงี้แหละเขาถึงติดคุกรอ ประหารอยู่ไง
+P0901-0733	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But if I recall, he murdered his girlfriend right after.\nThat's why he's on death row.	แต่ถ้าผมจำไม่ผิด เขาก็ฆ่าแฟนสาวตัวเองในเวลาต่อมา\nนั่นแหละคือเหตุผลที่เขาติดคุก รอประหารอยู่
+P0901-0734	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Hrgh.	อึก...
+P0901-0735	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		So to summarize our theory so far...	งั้นสรุปทฤษฎีของเราตอนนี้ก็คือ...
+P0901-0736	พากย์ · speech_list_judge_main_c09	? (ช)		It all started three years ago, when Shono accidentally\nkilled a patient during an AD-9 test.	ทุกอย่างเริ่มต้นเมื่อสามปีก่อน ตอนที่โชโนะ\nเผลอฆ่าคนไข้ระหว่างการทดลอง AD-9
+P0901-0737	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	It all started three years ago, when Shono performed\na test of AD-9... accidentally killing a patient.	ทุกอย่างเริ่มต้นเมื่อสามปีก่อน ตอนที่โชโนะ\nทำการทดลอง AD-9... แล้วเผลอฆ่าคนไข้ไป
+P0901-0738	พากย์ · speech_list_judge_main_c09	? (ช)		But those tests are still ongoing.\nThat's why Hamura had all those Kyorei guys killed.	แต่การทดลองนั้นยังดำเนินต่อมา จนถึงตอนนี้\nนั่นแหละคือเหตุผลที่ฮามุระสั่ง ฆ่าคนของเคียวเรอิทั้งหมด
+P0901-0739	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But similar tests are still ongoing even now.\nThat's why Hamura had all those Kyorei guys killed.	แต่การทดลองแบบเดียวกันยัง ดำเนินต่อมาจนถึงตอนนี้\nนั่นแหละคือเหตุผลที่ฮามุระสั่ง ฆ่าคนของเคียวเรอิทั้งหมด
+P0901-0740	พากย์ · speech_list_judge_main_c09	? (ช)		I'm not so sure about that, Yagami-san.	ผมว่าไม่แน่ใจนะครับ ยากามิซัง
+P0901-0741	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	No, I'm not so sure...	ไม่ครับ ผมว่าไม่แน่ใจ...
+P0901-0742	พากย์ · speech_list_judge_main_c09	? (ช)		Think about it. The murdered Kyorei yakuza\nare Kajihira's men.	ลองคิดดูสิครับ ยากูซ่าตระกูลเคียวเรอิที่ถูกฆ่า\nเป็นคนของคาจิฮิระทั้งนั้น
+P0901-0743	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The Mole's victims have mostly been Kyorei.\nThey're already on Kajihira's side.	เหยื่อของไอ้ตัวตุ่นส่วนใหญ่เป็นคน ตระกูลเคียวเรอิ\nซึ่งเป็นฝ่ายเดียวกับคาจิฮิระอยู่แล้ว
+P0901-0744	พากย์ · speech_list_judge_main_c09	? (ช)		Besides, there's no evidence of any\nconnection between him and Shono.	แล้วก็ไม่มีหลักฐานอะไรเลย\nที่เชื่อมโยงเขากับโชโนะด้วย
+P0901-0745	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Besides, there's no evidence of any connection\nbetween him and Shono.	แล้วก็ไม่มีหลักฐานความเชื่อมโยง\nระหว่างเขากับโชโนะเลยครับ
+P0901-0746	พากย์ · speech_list_judge_main_c09	? (ช)		Hm... I suppose the minister\nwould have enough power.	อืม... ก็จริงที่รัฐมนตรี\nน่าจะมีอำนาจพอครับ
+P0901-0747	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Hm... I suppose the minister <font_kind=yakuza_italic>would</font_kind>\nhave enough power.	อืม... ก็จริงที่รัฐมนตรี<font_kind=yakuza_italic>น่าจะ</font_kind>\nมีอำนาจพอครับ
+P0901-0748	พากย์ · speech_list_judge_main_c09	? (ช)		But I'm not sure he has the motive.\nEspecially not for such a risky move.	แต่ผมไม่แน่ใจว่าเขามีแรงจูงใจ\nโดยเฉพาะเรื่องเสี่ยงขนาดนี้
+P0901-0749	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But I don't know if he'd be willing\nto take that kind of political risk.	แต่ผมไม่รู้ว่าเขาจะยอม\nเสี่ยงทางการเมืองขนาดนั้นไหม
+P0901-0750	พากย์ · speech_list_judge_main_c09	? (ช)		Oh, I see what you mean!	อ๋อ เข้าใจที่พูดแล้วครับ!
+P0901-0751	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...Interesting.	...น่าสนใจนี่
+P0901-0752	พากย์ · speech_list_judge_main_c09	? (ช)		Kido would have access to ADDC funding.	คิโดะเข้าถึงเงินทุนของ ADDC ได้
+P0901-0753	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Kido <font_kind=yakuza_italic>would</font_kind> have access to ADDC funding.	คิโดะ<font_kind=yakuza_italic>น่าจะ</font_kind>เข้าถึงเงินทุนของ ADDC ได้
+P0901-0754	พากย์ · speech_list_judge_main_c09	? (ช)		There's even been talk of him having\nties to the yakuza somehow, right?	แล้วก็มีข่าวลือด้วยว่าเขามี\nสายสัมพันธ์กับยากูซ่า ไม่ทางใดก็ทางหนึ่ง ใช่ไหมครับ?
+P0901-0755	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	There's even been talk of him having ties\nto the yakuza somehow, right?	แล้วก็มีข่าวลือด้วยว่าเขามี สายสัมพันธ์\nกับยากูซ่าไม่ทางใดก็ทางหนึ่ง ใช่ไหมครับ?
+P0901-0756	พากย์ · speech_list_judge_main_c09	? (ช)		I think you've cracked it,\nYagami-san! It had to be Kido!	ผมว่ายากามิซังไขได้แล้วละครับ!\nต้องเป็นคิโดะแน่ๆ!
+P0901-0757	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Of course! It had to be Kido!	ใช่เลย! ต้องเป็นคิโดะแน่ๆ!
+P0901-0758	พากย์ · speech_list_judge_main_c09	? (ช)		Hm, then maybe he was only told about the\nexperiments after the conference took place.	อืม งั้นเขาอาจเพิ่งรู้เรื่องการทดลอง\nหลังจากงานแถลงข่าวจบไปแล้วก็ได้
+P0901-0759	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Then... maybe he found out about the experiments\nlater. After the conference took place.	งั้น... เขาอาจมารู้เรื่องการทดลอง\nทีหลัง หลังงานแถลงข่าวจบไปแล้ว
+P0901-0760	พากย์ · speech_list_judge_main_c09	? (ช)		That would still make sense, right?	แบบนั้นก็ยังฟังขึ้นอยู่ดี ใช่ไหมครับ?
+P0901-0761	พากย์ · speech_list_judge_main_c09	? (ช)		First, Shono gets Kido to sign off on the AD-9\npaper and publicly gives him all the credit.	แรกสุด โชโนะให้คิโดะเซ็นรับรองงานวิจัย AD-9\nแล้วยกความดีความชอบให้เขา ทั้งหมดต่อหน้าสาธารณะ
+P0901-0762	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	For Shono's first move, he gets Kido to sign off on the\nAD-9 paper, and lets him take the public credit.	ก้าวแรกของโชโนะคือให้คิโดะเซ็นรับรอง\nงานวิจัย AD-9 แล้วปล่อยให้เขารับหน้าเสื่อใน ที่สาธารณะ
+P0901-0763	พากย์ · speech_list_judge_main_c09	? (ช)		Thrilled about the possibilities, Kido proudly\npresents the research at that press conference.	คิโดะตื่นเต้นกับความเป็นไปได้ เลยภูมิใจ\nนำเสนองานวิจัยในงานแถลงข่าวครั้งนั้น
+P0901-0764	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Thrilled about the possibilities, Kido proudly presents\nthe research at that press conference.	คิโดะตื่นเต้นกับความเป็นไปได้\nจึงภูมิใจนำเสนองานวิจัยในงาน แถลงข่าวครั้งนั้น
+P0901-0765	พากย์ · speech_list_judge_main_c09	? (ช)		There's no turning back after that,\neven if he found out about the experiments.	หลังจากนั้นก็ถอยกลับไม่ได้แล้ว\nต่อให้เขามารู้เรื่องการทดลอง ทีหลังก็ตาม
+P0901-0766	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That way, even if he found out about the experiments,\nthere'd be no turning back for him.	แบบนั้นแล้ว ต่อให้เขามารู้เรื่องการทดลอง\nทีหลัง เขาก็ถอยกลับไม่ได้อีกแล้ว
+P0901-0767	พากย์ · speech_list_judge_main_c09	? (ช)		That's probably how\nShono got Kido on his side.	นั่นคงเป็นวิธีที่\nโชโนะดึงคิโดะมาเป็นพวกได้
+P0901-0768	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I'd guess that's probably how\nShono got Kido on his side.	ผมว่านั่นคงเป็นวิธี\nที่โชโนะดึงคิโดะมาเป็นพวกได้
+P0901-0769	พากย์ · speech_list_judge_main_c09	? (ช)		He then used Kido's funding and connections\nto bring in Hamura and the Mole.	จากนั้นเขาก็ใช้เงินทุนและ สายสัมพันธ์ของคิโดะ\nดึงฮามุระกับไอ้ตัวตุ่นเข้ามาร่วมด้วย
+P0901-0770	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	He then used Kido's funding and connections,\npulling in Hamura and the Mole.	จากนั้นเขาก็ใช้เงินทุนและ สายสัมพันธ์ของคิโดะ\nลากฮามุระกับไอ้ตัวตุ่นเข้ามาร่วมด้วย
+P0901-0771	พากย์ · speech_list_judge_main_c09	? (ช)		It feels like all the pieces\nare falling into place.	รู้สึกเหมือนทุกชิ้นส่วน\nกำลังต่อกันติดพอดีเลยครับ
+P0901-0772	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	It sounds plausible. All the pieces\nare falling into place.	ฟังดูเข้าเค้านะครับ ทุกชิ้นส่วน\nกำลังต่อกันติดพอดี
+P0901-0773	พากย์ · speech_list_judge_main_c09	? (ช)		Right. Shono is behind everything.	ใช่ครับ โชโนะอยู่เบื้องหลังทุกอย่าง
+P0901-0774	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Right. Shono is behind the Mole\nand everything else.	ใช่ครับ โชโนะอยู่เบื้องหลังไอ้ตัวตุ่น\nและทุกอย่างที่เหลือ
+P0901-0775	พากย์ · speech_list_judge_main_c09	? (ช)		But that was probably an accident, right?\nHe didn't mean for Waku-san to die.	แต่นั่นน่าจะเป็นอุบัติเหตุนะครับ\nเขาไม่ได้ตั้งใจให้คุณวาคุตาย
+P0901-0776	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But everything points to that death being an accident.\nHe didn't <font_kind=yakuza_italic>mean</font_kind> for Waku-san to die.	แต่ทุกอย่างชี้ว่าการตาย ครั้งนั้นเป็นอุบัติเหตุครับ\nเขาไม่ได้<font_kind=yakuza_italic>ตั้งใจ</font_kind>ให้คุณวาคุตาย
+P0901-0777	พากย์ · speech_list_judge_main_c09	? (ช)		In other words,\nhe wouldn't need the Mole.	พูดอีกอย่างคือ\nเขาไม่จำเป็นต้องใช้ไอ้ตัวตุ่นเลยครับ
+P0901-0778	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	He wouldn't need the Mole for that.	เรื่องนั้นเขาไม่จำเป็นต้องใช้ ไอ้ตัวตุ่นเลยครับ
+P0901-0779	พากย์ · speech_list_judge_main_c09	? (ช)	[ซ้ำในบท x2]	The man in the black raincoat.\nHe's the Mole?	ชายเสื้อกันฝนสีดำ\nเขาคือไอ้ตัวตุ่นงั้นเหรอ?
+P0901-0780	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	So that leaves the man in the black raincoat.\nHe's the Mole?	งั้นก็เหลือแต่ชายเสื้อกันฝนสีดำ\nเขาคือไอ้ตัวตุ่นงั้นเหรอ?
+P0901-0781	พากย์ · speech_list_judge_main_c09	? (ช)		Hm. What about Hashiki's death, then?	อืม แล้วเรื่องฮาชิกิตายล่ะครับ?
+P0901-0782	พากย์ · speech_list_judge_main_c09	? (ช)		Shono has an alibi for the night\nHashiki was beat to death.	โชโนะมีพยานที่อยู่สำหรับคืน\nที่ฮาชิกิถูกทำร้ายจนตาย
+P0901-0783	พากย์ · speech_list_judge_main_c09	? (ช)		If he didn't hire somebody to do it...	ถ้าเขาไม่ได้จ้างใครมาลงมือ...
+P0901-0784	พากย์ · speech_list_judge_main_c09	? (ช)		Maybe it really was\njust a random passerby.	อาจเป็นแค่คนเดินผ่านไปมา\nที่ไม่เกี่ยวอะไรเลยก็ได้
+P0901-0785	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...Maybe Hashiki's death really was\njust the fault of a random passerby?	...การตายของฮาชิกิอาจเป็นแค่ความผิด\nของคนเดินผ่านไปมาจริงๆ ก็ได้?
+P0901-0786	พากย์ · speech_list_judge_main_c09	? (ช)		Yeah and if he had, that would have been\nthe end of the line for Shono.	ใช่ครับ แล้วถ้าเขารู้จริง นั่นคงเป็น\nจุดจบของโชโนะเลย
+P0901-0787	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yes. It would have spelled\nthe end for Shono.	ใช่ครับ นั่นคงเป็น\nจุดจบของโชโนะเลย
+P0901-0788	พากย์ · speech_list_judge_main_c09	? (ช)		Seems like a plausible motive to me.	ฟังดูเป็นแรงจูงใจที่เข้าท่าดี นะสำหรับผม
+P0901-0789	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Seems like a plausible motive\nto kill Hashiki.	ฟังดูเป็นแรงจูงใจที่เข้าท่า\nสำหรับการฆ่าฮาชิกิ
+P0901-0790	พากย์ · speech_list_judge_main_c09	center_uketsuke (ญ)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Yes?	อะไรเหรอ?
+P0901-0791	พากย์ · speech_list_judge_main_c09	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	Yeah?	ว่าไง?
+P0901-0792	พากย์ · speech_list_judge_main_c09	? (ช)		I can try.\nLet me get in touch with the prison.	ผมลองดูได้ครับ\nขอผมติดต่อทางเรือนจำก่อน
+P0901-0793	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[ใช้ร่วม]	All right.	ได้
+P0901-0794	พากย์ · speech_list_judge_main_c09	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Got it.	ได้เลย
+P0901-0795	พากย์ · speech_list_judge_main_c09	Kaito (ช)		Kid's got a point.	ที่พูดมามันก็มีเหตุผลนะ
+P0901-0796	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Yeah, yeah.	เออๆ
+P0901-0797	พากย์ · speech_list_judge_main_c09	? (ช)		Let's say you're right.\nWhen did Shono start usin' this guy?	เอาเป็นว่านายพูดถูก\nแล้วโชโนะเริ่มใช้ไอ้หมอนี่ ตั้งแต่เมื่อไหร่?
+P0901-0798	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, let's say you're right.\nWhen did Shono start usin' this assassin?	เอาเป็นว่านายพูดถูกละกัน\nแล้วโชโนะเริ่มใช้มือสังหารคน นี้ตั้งแต่เมื่อไหร่?
+P0901-0799	พากย์ · speech_list_judge_main_c09	? (ช)		When was the Mole's first murder?	ฆาตกรรมครั้งแรกของไอ้ตัวตุ่น เกิดขึ้นเมื่อไหร่?
+P0901-0800	พากย์ · speech_list_judge_main_c09	? (ช)		Well? When was it?	แล้วไงล่ะ? เป็นตอนไหนกันแน่?
+P0901-0801	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	So when was it?	สรุปเป็นตอนไหน?
+P0901-0802	พากย์ · speech_list_judge_main_c09	? (ช)		And why do you say that?	ทำไมถึงว่างั้นล่ะ?
+P0901-0803	พากย์ · speech_list_judge_main_c09	? (ช)		Well that's pretty damn recent.	นั่นก็เพิ่งจะไม่นานมานี้เองนี่หว่า
+P0901-0804	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Pretty damn recent.	เพิ่งจะไม่นานมานี้เองนี่หว่า
+P0901-0805	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Can't argue with that.	เถียงไม่ได้เลยครับ
+P0901-0806	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Seems right... Told you that myself.	ก็ดูจะใช่นะ... ฉันเองก็เพิ่งพูดไปแบบนั้น
+P0901-0807	พากย์ · speech_list_judge_main_c09	? (ช)		Yup. Already proved that in court, remember?	ใช่ ก็พิสูจน์กันไปแล้วในศาล จำได้ไหม?
+P0901-0808	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yup. Guy's innocent.\nAlready proved that in court, remember?	ใช่ ไอ้หมอนั่นบริสุทธิ์\nพิสูจน์กันไปแล้วในศาล จำได้ไหม?
+P0901-0809	พากย์ · speech_list_judge_main_c09	? (ช)		Enough, Sugiura! You're way outta line,\nand you don't know shit!	พอได้แล้ว ซุกิอุระ! แกพูดเลยเถิดไปมาก\nแล้วแกก็ไม่รู้อะไรเลยสักนิด!
+P0901-0810	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That's enough, Sugiura!\nLearn to shut the fuck up!	พอได้แล้ว ซุกิอุระ!\nหุบปากบ้างเถอะ!
+P0901-0811	พากย์ · speech_list_judge_main_c09	? (ช)		Are you?	จริงเหรอ?
+P0901-0812	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Say what?	พูดว่าไงนะ?
+P0901-0813	พากย์ · speech_list_judge_main_c09	? (ช)		And how're you suggesting we do that?	แล้วนายจะให้ทำยังไงล่ะ?
+P0901-0814	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Just like that?\nWhat're we s'posed to do?	แค่นั้นเองเหรอ?\nแล้วเราต้องทำไง?
+P0901-0815	พากย์ · speech_list_judge_main_c09	? (ช)		...Well?	...แล้วไง?
+P0901-0816	พากย์ · speech_list_judge_main_c09	Sugiura (ช)		But wait. How would a guy like Shono\nget wrapped up with yakuza and assassins?	แต่เดี๋ยวนะ ไอ้โชโนะแบบนั้นจะไปพัวพัน\nกับยากูซ่าและมือสังหารได้ยังไงกัน?
+P0901-0817	พากย์ · speech_list_judge_main_c09	? (ช)		Your run-of-the-mill researcher wouldn't have\nthe cash or connections for that shit.	นักวิจัยธรรมดา ๆ ที่ไหนจะมีทั้งเงิน\nและคอนเนกชันพอสำหรับเรื่องบ้า ๆ นั้นวะ
+P0901-0818	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Your run-of-the-mill researcher wouldn't have\nthe cash or connections.	นักวิจัยธรรมดาๆ ไม่มีเงิน\nหรือคอนเนกชันขนาดนั้นหรอก
+P0901-0819	พากย์ · speech_list_judge_main_c09	? (ช)		Someone Shono knows who's got yakuza ties?\nThe hell could that be?	คนรู้จักของโชโนะที่มี สายสัมพันธ์กับยากูซ่า?\nจะเป็นใครได้ล่ะเนี่ย
+P0901-0820	พากย์ · speech_list_judge_main_c09	? (ช)		Well we can rule Kajihira out.\nWho was Shono's go-between, then?	งั้นก็ตัดคาจิฮิระออกไปได้\nแล้วใครเป็นคนกลางของโชโนะล่ะ?
+P0901-0821	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, there's gotta be some connection between\nShono and Hamura. Question is, who?	ยังไงก็ต้องมีอะไรเชื่อมโยง\nโชโนะกับฮามุระอยู่ คำถามคือใคร
+P0901-0822	พากย์ · speech_list_judge_main_c09	? (ช)		You think an active cabinet member\nis out hooking Shono up with yakuza? Seriously?	ยากามิซังคิดว่ารัฐมนตรีที่ยัง ทำงานอยู่\nจะไปช่วยโชโนะติดต่อยากูซ่าเนี่ยนะ จริงดิ?
+P0901-0823	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	An active cabinet member, out\nhooking Shono up with yakuza? Seriously?	รัฐมนตรีที่ยังทำงานอยู่\nไปช่วยโชโนะติดต่อยากูซ่าเนี่ยนะ จริงดิ?
+P0901-0824	พากย์ · speech_list_judge_main_c09	? (ช)		Someone who could get\nHamura and Shono in touch...	คนที่พอจะทำให้\nฮามุระกับโชโนะติดต่อกันได้...
+P0901-0825	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Someone who could get Hamura\nand Shono in touch... Let's see...	คนที่พอจะทำให้ฮามุระ\nกับโชโนะติดต่อกันได้... ขอดูซิ...
+P0901-0826	พากย์ · speech_list_judge_main_c09	? (ช)		Uh, I dunno if that's really true.	เอ่อ ผมไม่รู้ว่าจริงรึเปล่านะ
+P0901-0827	พากย์ · speech_list_judge_main_c09	? (ช)		Think back to the AD-9 press conference.\nYou remember the look on Kido's face?	นึกถึงงานแถลงข่าว AD-9 สิ\nจำหน้าคิโดะตอนนั้นได้ไหม?
+P0901-0828	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, think back. Remember the AD-9 press conference?\nDid you look at Kido's face?	ลองนึกดูสิ จำงานแถลงข่าว AD-9 ได้ไหม?\nเห็นหน้าคิโดะตอนนั้นรึเปล่า?
+P0901-0829	พากย์ · speech_list_judge_main_c09	? (ช)		He was so proud. Innocent, even.	หน้าเขาภูมิใจสุดๆ ดูบริสุทธิ์ด้วยซ้ำ
+P0901-0830	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The guy was practically beaming, wasn't he?	หน้าเขายิ้มแป้นแทบทั้งงานเลยนะ ใช่ไหมล่ะ?
+P0901-0831	พากย์ · speech_list_judge_main_c09	? (ช)		But if he knew about all this human experiment\nshit? No way he'd look like that.	แต่ถ้าเขารู้เรื่องการทดลองในมนุษย์\nบ้าบอนี่? หน้าตาแบบนั้นไม่มีทาง
+P0901-0832	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But if he knew about all this human experiment shit?\nNo way Kido would be so peppy.	แต่ถ้าเขารู้เรื่อง การทดลองในมนุษย์บ้าบอนี่?\nคิโดะไม่มีทางร่าเริงขนาดนั้น
+P0901-0833	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Uh...	เอ่อ...
+P0901-0834	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Hmmm...	อืมมม...
+P0901-0835	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Then, the man in the black raincoat?\nHe's the Mole?	งั้นชายเสื้อกันฝนสีดำ?\nเป็นไอ้ตัวตุ่นเหรอ?
+P0901-0836	พากย์ · speech_list_judge_main_c09	? (ช)		That must've been his first job, huh?	นั่นคงเป็นงานแรกของมันสินะ?
+P0901-0837	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Man, that must've been his\nfirst assignment.	โห นั่นคงเป็นงานแรก\nของมันแน่ๆ
+P0901-0838	พากย์ · speech_list_judge_main_c09	? (ช)		So what, everything just... makes sense?	แล้วไงต่อ ทุกอย่างมัน... เข้าเค้าหมดเลยเหรอ?
+P0901-0839	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	So what, everything just makes sense?	แล้วไง ทุกอย่างมันเข้าเค้าหมดเลยเหรอ?
+P0901-0840	พากย์ · speech_list_judge_main_c09	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	I dunno...	ไม่รู้สิ...
+P0901-0841	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Man, I dunno...	โห ไม่รู้สิ...
+P0901-0842	พากย์ · speech_list_judge_main_c09	? (ช)		I mean... this is still\njust a theory, right?	ก็คือ... นี่มันก็ยัง\nเป็นแค่ทฤษฎีเฉยๆ ใช่ไหมครับ?
+P0901-0843	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	We came up with plenty of theories,\nbut they're still just theories.	เราคิดทฤษฎีมาตั้งเยอะ\nแต่มันก็ยังเป็นแค่ทฤษฎีอยู่ดีครับ
+P0901-0844	พากย์ · speech_list_judge_main_c09	? (ช)		It all sounds almost too convenient.	มันฟังดูสะดวกเกินไปหน่อยนะครับ
+P0901-0845	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If you ask me, all your guesses\nsound <font_kind=yakuza_italic>too</font_kind> convenient.	ถ้าให้ผมพูด การเดาทั้งหมดของยากามิซัง\nฟังดู<font_kind=yakuza_italic>สะดวก</font_kind>เกินไปหน่อย
+P0901-0846	พากย์ · speech_list_judge_main_c09	? (ช)		If Shono killed Waku-san\nat the ADDC three years ago...	ถ้าโชโนะฆ่าคุณวาคุ\nที่ ADDC เมื่อสามปีก่อนจริง...
+P0901-0847	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If Shono killed Waku-san at the ADDC\nthree years ago...	ถ้าโชโนะฆ่าคุณวาคุที่ ADDC\nเมื่อสามปีก่อนจริง...
+P0901-0848	พากย์ · speech_list_judge_main_c09	? (ช)		Then Okubo, the primary suspect in the case,\nwould be totally in the clear.	งั้นโอคุโบะ ผู้ต้องสงสัยหลักของคดีนี้\nก็จะพ้นผิดโดยสิ้นเชิง
+P0901-0849	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Well, Okubo would be totally in the clear.\nHe'd be cleared of all suspicion.	งั้นโอคุโบะก็จะพ้นผิดโดยสิ้นเชิง\nไม่มีข้อสงสัยอะไรเหลือเลย
+P0901-0850	พากย์ · speech_list_judge_main_c09	? (ช)		But Okubo, he...\nHe killed his girlfriend right after.	แต่ไอ้โอคุโบะนั่น...\nมันฆ่าแฟนตัวเองทันทีหลังจากนั้น
+P0901-0851	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But Okubo, he... He killed\nhis girlfriend right after.	แต่ไอ้โอคุโบะนั่น... มันฆ่า\nแฟนตัวเองทันทีหลังจากนั้น
+P0901-0852	พากย์ · speech_list_judge_main_c09	? (ช)		He stabbed her over and over.\nEven set the place on fire.	มันแทงเธอซ้ำแล้วซ้ำเล่า\nยังจุดไฟเผาที่นั่นด้วยซ้ำ
+P0901-0853	พากย์ · speech_list_judge_main_c09	? (ช)		Reeked of booze too,\neven though he was supposed to be dry.	ตัวยังเหม็นเหล้าด้วย\nทั้งที่มันควรจะเลิกเหล้าไปแล้ว
+P0901-0854	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Reeked of booze too, even though\nhe was supposed to be dry.	ตัวยังเหม็นเหล้าด้วย ทั้งที่\nมันควรจะเลิกเหล้าไปแล้ว
+P0901-0855	พากย์ · speech_list_judge_main_c09	? (ช)		Defend him all you want,\nbut the guy's a murderer.	แกจะปกป้องมันแค่ไหนก็ได้\nแต่ไอ้นี่มันคือฆาตกร
+P0901-0856	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Defend him all you want...\nbut the guy's a murderer.	แกจะปกป้องมันแค่ไหนก็ตาม...\nแต่ไอ้นี่มันคือฆาตกร
+P0901-0857	พากย์ · speech_list_judge_main_c09	? (ช)		That's why the whole thing was such a big deal.\nEveryone realized the court made a mistake.	เพราะงี้มันถึงกลายเป็นเรื่องใหญ่\nทุกคนถึงได้รู้ว่าศาลตัดสินผิด
+P0901-0858	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Isn't that why everyone freaked out?\nThey realized the court made a mistake.	นั่นแหละเหตุผลที่ทุกคนช็อกกันหมด\nพวกเขารู้ว่าศาลตัดสินผิด
+P0901-0859	พากย์ · speech_list_judge_main_c09	? (ช)		It took the death of an innocent girl for them\nto realize that Okubo probably did it after all.	ต้องรอให้ผู้หญิงบริสุทธิ์ตาย\nถึงได้มารู้ว่าโอคุโบะเป็นคนทำจริงๆ
+P0901-0860	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	After all that, Okubo probably\nwas the real murderer.	สรุปแล้วโอคุโบะน่าจะ\nเป็นฆาตกรตัวจริงนั่นแหละ
+P0901-0861	พากย์ · speech_list_judge_main_c09	? (ช)		Yet here you are, claiming the court\ngot it right. Claiming Okubo's innocent.	แต่แกก็ยังมายืนยันว่าศาล\nตัดสินถูก บอกว่าโอคุโบะบริสุทธิ์
+P0901-0862	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yet here you are, claiming the court got it right\nand Okubo's innocent.	แต่แกก็ยังมายืนยันว่าศาลตัดสินถูก\nแล้วโอคุโบะก็บริสุทธิ์
+P0901-0863	พากย์ · speech_list_judge_main_c09	? (ช)		But you just don't want to feel responsible\nfor Emi Terasawa's death. That's it, isn't it?	แต่จริงๆ แกก็แค่ไม่อยากรู้สึกผิด\nที่ทำให้เอมิ เทราซาวะต้องตาย ใช่ไหมล่ะ?
+P0901-0864	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But Emi Terasawa's still dead. And you just can't\nface the fact that it was your fault. Right?	แต่เอมิ เทราซาวะก็ยังตายอยู่ดี แล้วแกก็แค่\nยอมรับไม่ได้ว่ามันเป็นความผิดของแก ใช่ไหมล่ะ?
+P0901-0865	พากย์ · speech_list_judge_main_c09	? (ช)		...Look, I know I get swept up in\nmy emotions pretty easily sometimes.	...ฟังนะครับ ผมรู้ว่าตัวเองมักจะ\nปล่อยให้อารมณ์พาไปง่ายๆ บ่อยครั้ง
+P0901-0866	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...Look, I get it. I know it's easy for me\nto get swept up in my emotions.	...ฟังนะครับ ผมเข้าใจ ผมรู้ว่าตัวเองปล่อยให้\nอารมณ์พาไปได้ง่ายๆ
+P0901-0867	พากย์ · speech_list_judge_main_c09	? (ช)		All the same,\nI'm trying to be fair here.	ถึงอย่างนั้น\nผมก็พยายามจะเป็นธรรมอยู่นะครับ
+P0901-0868	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That's why I'm trying\nto be fair here.	เพราะงั้นผมถึงพยายาม\nจะเป็นธรรมอยู่นะครับ
+P0901-0869	พากย์ · speech_list_judge_main_c09	? (ช)		So, if we wanna treat Yagami-san's\ntheory like it's the truth...	งั้น ถ้าเราจะถือว่าทฤษฎีของยากามิซัง\nเป็นเรื่องจริง...
+P0901-0870	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If we wanna treat Yagami-san's theory\nlike it's the truth...	ถ้าเราจะถือว่าทฤษฎีของยากามิซัง\nเป็นเรื่องจริง...
+P0901-0871	พากย์ · speech_list_judge_main_c09	? (ช)		Then we'll have to figure out whether or not\nOkubo is innocent. If he actually killed Waku-san.	เราก็ต้องหาให้ได้ว่า\nโอคุโบะบริสุทธิ์จริงไหม เขาฆ่าคุณวาคุจริงรึเปล่า
+P0901-0872	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	...Then we'll have to know if Okubo's really innocent.\nOr that he did kill Waku-san back at the ADDC.	...เราก็ต้องรู้ให้ได้ว่าโอคุโบะ บริสุทธิ์จริงไหม\nหรือว่าเขาฆ่าคุณวาคุที่ ADDC จริงๆ
+P0901-0873	พากย์ · speech_list_judge_main_c09	? (ช)		It's simple.	ง่ายมาก
+P0901-0874	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	We talk to Okubo.	เราไปคุยกับโอคุโบะ
+P0901-0875	พากย์ · speech_list_judge_main_c09	? (ช)		We just go to Okubo\nand ask if he did it.	เราแค่ไปหาโอคุโบะ\nแล้วถามว่าเขาทำจริงรึเปล่า
+P0901-0876	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	We go to him and ask\nif he's really innocent.	เราไปหาเขาแล้วถาม\nว่าเขาบริสุทธิ์จริงรึเปล่า
+P0901-0877	พากย์ · speech_list_judge_main_c09	? (ช)		A lawyer like you should have\nno problem setting that up. Right?	ทนายอย่างยากามิซังคง\nจัดการเรื่องนี้ได้สบายๆ ใช่ไหมครับ?
+P0901-0878	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	A lawyer like you could still\nset that meeting up. Right?	ทนายอย่างยากามิซังน่าจะ\nจัดนัดเจอแบบนี้ได้อยู่แล้วใช่ไหมครับ?
+P0901-0879	พากย์ · speech_list_judge_main_c09	? (ช)		Fine, but that's a pretty weak excuse\nfor not going to talk to him now.	ก็ได้ครับ แต่นั่นก็เป็นข้ออ้างที่อ่อนไปหน่อย\nสำหรับการไม่ไปคุยกับเขาตอนนี้
+P0901-0880	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	All the same... that's no reason\nnot to talk to him now.	ถึงอย่างนั้น... มันก็ไม่ใช่เหตุผล\nที่จะไม่ไปคุยกับเขาตอนนี้
+P0901-0881	พากย์ · speech_list_judge_main_c09	? (ช)		If you really wanna pursue this case,\nyou don't have a choice, Yagami-san.	ถ้ายากามิซังตั้งใจจะสืบคดีนี้ ต่อจริงๆ\nก็ไม่มีทางเลือกอื่นแล้วครับ
+P0901-0882	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yagami-san... If you want to solve this,\nyou don't have a choice.	ยากามิซัง... ถ้าอยากไขคดีนี้ให้ได้\nก็ไม่มีทางเลือกอื่นแล้วครับ
+P0901-0883	พากย์ · speech_list_judge_main_c09	Yagami (ช)		But what if someone close to him did?	แต่ถ้าคนใกล้ตัวเขามีล่ะ?
+P0901-0884	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[อีกแทร็ก]	Doesn't have to be Shono himself.\nMaybe someone close to him.	ไม่จำเป็นต้องเป็นโชโนะเอง\nอาจเป็นคนใกล้ตัวเขาก็ได้
+P0901-0885	พากย์ · speech_list_judge_main_c09	? (ช)		Shigeru Kajihira, chairman of the Kajihira Group.	ชิเงรุ คาจิฮิระ ประธานกลุ่มคาจิฮิระ
+P0901-0886	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The contact between Shono and Hamura must be...\nShigeru Kajihira, chairman of the Kajihira Group.	คนกลางระหว่างโชโนะกับฮามุระต้องเป็น...\nชิเงรุ คาจิฮิระ ประธานกลุ่มคาจิฮิระ
+P0901-0887	พากย์ · speech_list_judge_main_c09	? (ช)		I guess you have a point there...	ก็มีเหตุผลอยู่เหมือนกันนะ...
+P0901-0888	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That's true. I guess you have\na point there...	ก็จริง มีเหตุผล\nอยู่เหมือนกัน...
+P0901-0889	พากย์ · speech_list_judge_main_c09	? (ช)		The Minister of Health, Naohisa Kazami.	รัฐมนตรีสาธารณสุข นาโอฮิสะ คาซามิ
+P0901-0890	พากย์ · speech_list_judge_main_c09	? (ช)		Who else do we have, then?	แล้วยังเหลือใครอีก?
+P0901-0891	พากย์ · speech_list_judge_main_c09	? (ช)		Ryusuke Kido, director of the ADDC.	ริวสึเกะ คิโดะ ผู้อำนวยการ ADDC
+P0901-0892	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Director of the ADDC. Ryusuke Kido.	ผู้อำนวยการ ADDC ริวสึเกะ คิโดะ
+P0901-0893	พากย์ · speech_list_judge_main_c09	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Why?	ทำไมล่ะ?
+P0901-0894	พากย์ · speech_list_judge_main_c09	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Why not?	ทำไมล่ะ?
+P0901-0895	พากย์ · speech_list_judge_main_c09	? (ช)		That means...\nKido's not actually the one in charge.	แปลว่า...\nคิโดะไม่ใช่คนคุมเกมตัวจริง
+P0901-0896	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	That means... Kido's not actually\nthe one in charge.	แปลว่า... คิโดะไม่ใช่\nคนคุมเกมตัวจริง
+P0901-0897	พากย์ · speech_list_judge_main_c09	? (ช)		<color=ｍonologue>(The first time Shono actually used an assassin\nwould have to be...)</color>	<color=ｍonologue>(ครั้งแรกที่โชโนะใช้มือสังหารจริงๆ\nคงต้องเป็น...)</color>
+P0901-0898	พากย์ · speech_list_judge_main_c09	? (ช)		Shono murdered a patient, Waku-san, three years ago.\nHe and the Mole may have started working together then.	โชโนะฆ่าคนไข้คนหนึ่ง คุณวาคุ เมื่อสามปีก่อน\nเขากับไอ้ตัวตุ่นอาจเริ่มร่วมมือกัน ตั้งแต่ตอนนั้น
+P0901-0899	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Three years ago, Shono murdered that patient.\nMaybe he got in contact with the Mole around then.	สามปีก่อน โชโนะฆ่าคนไข้คนนั้น\nเขาอาจติดต่อกับไอ้ตัวตุ่นตั้งแต่ ช่วงนั้นก็ได้
+P0901-0900	พากย์ · speech_list_judge_main_c09	? (ช)		Oh, right.\nMaybe it was a different time, then.	อ้อ จริงด้วย\nงั้นอาจเป็นช่วงอื่นก็ได้
+P0901-0901	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Oh, right. Then... maybe the\ntiming was different.	อ้อ จริงด้วย งั้น...\nช่วงเวลาอาจไม่ใช่ตอนนั้นก็ได้
+P0901-0902	พากย์ · speech_list_judge_main_c09	? (ช)		Probably Hashiki's death six months ago.	คงเป็นตอนที่ฮาชิกิตายเมื่อหก เดือนก่อน
+P0901-0903	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Probably when the Mole murdered\nHashiki six months ago.	คงเป็นตอนที่ไอ้ตัวตุ่นฆ่า\nฮาชิกิเมื่อหกเดือนก่อน
+P0901-0904	พากย์ · speech_list_judge_main_c09	? (ช)		Hashiki inching closer to the truth about AD-9\nwas a serious problem for Shono.	ฮาชิกิเข้าใกล้ความจริงเรื่อง AD-9 ขึ้นเรื่อยๆ\nนั่นเป็นปัญหาใหญ่สำหรับโชโนะ
+P0901-0905	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	Shono had to silence him. He couldn't let Hashiki\nget closer to the truth of AD-9.	โชโนะต้องปิดปากเขา จะปล่อยให้ฮาชิกิ\nเข้าใกล้ความจริงของ AD-9 ต่อไปไม่ได้
+P0901-0906	พากย์ · speech_list_judge_main_c09	? (ช)		But as we know,\nShono was in a taxi at the time of the beating.	แต่เท่าที่รู้กัน\nโชโนะอยู่ในแท็กซี่ตอนเกิดเหตุ ทำร้ายร่างกาย
+P0901-0907	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But as we know, Shono's alibi placed him in a taxi\nat the time of the beating.	แต่เท่าที่รู้กัน พยานที่อยู่ของโชโนะระบุว่า\nเขาอยู่ในแท็กซี่ตอนเกิดเหตุ ทำร้ายร่างกาย
+P0901-0908	พากย์ · speech_list_judge_main_c09	? (ช)		Meaning someone else must have been\nresponsible for Hashiki's death.	แปลว่าต้องมีคนอื่น\nที่เป็นคนลงมือกับฮาชิกิ
+P0901-0909	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	If we know that's true, someone else must have\nbeen responsible for Hashiki's death.	ถ้าเรื่องนั้นเป็นจริง ก็ต้องมีคนอื่น\nที่เป็นคนลงมือกับฮาชิกิ
+P0901-0910	พากย์ · speech_list_judge_main_c09	? (ช)		When those Kyorei guys started\ngetting their eyes gouged out.	ตอนที่พวกเคียวเรอิเริ่ม\nโดนควักลูกตา
+P0901-0911	พากย์ · speech_list_judge_main_c09	? (ช)		That would make the most sense.	แบบนั้นสมเหตุสมผลที่สุดแล้ว
+P0901-0912	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	The timing checks out.	ช่วงเวลาก็ตรงกันพอดี
+P0901-0913	พากย์ · speech_list_judge_main_c09	? (ช)		No, that doesn't fit\nwith the rest of the story.	ไม่ใช่หรอก มันไม่เข้ากับ\nเรื่องราวส่วนที่เหลือเลย
+P0901-0914	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	No, that doesn't fit with the\nrest of the story.	ไม่ใช่หรอก มันไม่เข้ากับ\nเรื่องราวส่วนที่เหลือเลย
+P0901-0915	พากย์ · speech_list_judge_main_c09	? (ช)		Hashiki inching closer to the truth about\nAD-9 was a serious problem for Shono.	ฮาชิกิเข้าใกล้ความจริงเรื่อง\nAD-9 ขึ้นเรื่อยๆ นั่นเป็นปัญหาใหญ่สำหรับโชโนะ
+P0901-0916	พากย์ · speech_list_judge_main_c09	? (ช)		So, Shono hired someone to off him.	โชโนะเลยจ้างคนมาเก็บเขา
+P0901-0917	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	So... to get Hashiki out of the picture...\nhe hired the Mole.	ดังนั้น... เพื่อกำจัดฮาชิกิให้พ้นทาง...\nเขาจึงจ้างไอ้ตัวตุ่น
+P0901-0918	พากย์ · speech_list_judge_main_c09	? (ช)		Yeah. Only the best of the best assassins would have\nthe skill to do what they did to Hashiki.	ใช่ มีแต่มือสังหารระดับเทพเท่านั้นแหละ\nที่จะมีฝีมือทำแบบนั้นกับฮาชิกิได้
+P0901-0919	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Yeah. Judging by how he was beaten,\nthe killer had real skills.	ใช่ ดูจากสภาพที่เขาถูกทำร้าย\nฆาตกรคนนี้ฝีมือไม่ธรรมดาเลย
+P0901-0920	พากย์ · speech_list_judge_main_c09	? (ช)		Who knows how close Hashiki was to finding out about\nthe human experimentation before he died.	ไม่รู้เลยว่าฮาชิกิเข้าใกล้การ รู้เรื่อง\nการทดลองในมนุษย์แค่ไหนก่อนตาย
+P0901-0921	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Who knows how close Hashiki was to finding out\nabout the human experimentation before he died.	ไม่รู้เลยว่าฮาชิกิเข้าใกล้การ รู้เรื่องการทดลอง\nในมนุษย์แค่ไหนก่อนตาย
+P0901-0922	พากย์ · speech_list_judge_main_c09	? (ช)		<color=ｍonologue>(Looks like Sugiura still isn't\ntotally on board.)</color>	<color=ｍonologue>(ท่าทางซุกิอุระจะยัง\nไม่ปักใจเชื่อเต็มที่)</color>
+P0901-0923	พากย์ · speech_list_judge_main_c09	? (ช)		If you have something to say,\nsay it.	มีอะไรจะพูดก็พูดมา\nเลยสิ
+P0901-0924	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Got something to say? Go ahead.	มีอะไรจะพูดใช่ไหม พูดมาเลย
+P0901-0925	พากย์ · speech_list_judge_main_c09	? (ช)	[ใช้ร่วม]	Hm...?	หืม...?
+P0901-0926	พากย์ · speech_list_judge_main_c09	? (ช)		You wanna talk to him face-to-face?\nMeeting with a death row inmate isn't that easy.	นายจะไปคุยกับมันต่อหน้าเลยเหรอ?\nการเจอนักโทษประหารมันไม่ง่าย ขนาดนั้นนะ
+P0901-0927	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	You wanna talk to Okubo face-to-face?\nBut he's on death row, so...	นายจะไปคุยกับโอคุโบะต่อหน้าเลยเหรอ?\nแต่เขาอยู่แดนประหารนะ ก็เลย...
+P0901-0928	พากย์ · speech_list_judge_main_c09	? (ช)		<color=ｍonologue>(Shinpei Okubo is still in jail.\nI could meet him, but...)</color>	<color=ｍonologue>(ชินเป โอคุโบะยังอยู่ในคุก\nผมไปเจอเขาได้ แต่...)</color>
+P0901-0929	พากย์ · speech_list_judge_main_c09	? (ช)		...He can't stand me, though.	...แต่เขาคงทนหน้าผมไม่ได้
+P0901-0930	พากย์ · speech_list_judge_main_c09	? (ช)		From day one, Okubo insisted he was innocent.\nThat he didn't kill Emi.	ตั้งแต่แรกเริ่ม โอคุโบะยืนกรานว่าตัวเองบริสุทธิ์\nว่าเขาไม่ได้ฆ่าเอมิ
+P0901-0931	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Okubo's insisted from day one that he\ndidn't kill Emi Terasawa.	โอคุโบะยืนกรานตั้งแต่แรกเริ่มว่าเขา\nไม่ได้ฆ่าเอมิ เทราซาวะ
+P0901-0932	พากย์ · speech_list_judge_main_c09	? (ช)		But I... I abandoned him.\nTold him he'd be better off just giving up.	แต่ผม... ผมทิ้งเขาไป\nบอกเขาว่ายอมแพ้ไปเสียยังจะดีกว่า
+P0901-0933	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	But I... I abandoned him.\nTold him he should give up.	แต่ผม... ผมทิ้งเขาไป\nบอกเขาว่าควรยอมแพ้ไปซะ
+P0901-0934	พากย์ · speech_list_judge_main_c09	? (ช)		Hoshino-kun...	โฮชิโนะคุง...
+P0901-0935	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Hoshino-kun.	โฮชิโนะคุง
+P0901-0936	พากย์ · speech_list_judge_main_c09	? (ช)		Let's go talk to Okubo.\nThink you can arrange that for me?	ไปคุยกับโอคุโบะกันเถอะ\nช่วยจัดการให้ผมได้ไหม?
+P0901-0937	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I wanna talk to Shinpei Okubo.\nSo... can you arrange that?	ผมอยากคุยกับชินเป โอคุโบะ\nช่วยจัดการให้หน่อยได้ไหม?
+P0901-0938	พากย์ · speech_list_judge_main_c09	? (ช)		Thanks.\nI'll be at Genda's if you wanna find me.	ขอบใจนะ\nถ้าจะหาผม ผมอยู่ที่ออฟฟิศเก็นดะ
+P0901-0939	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	In the meantime, I'm gonna review\nthe Okubo case files again.	ระหว่างนี้ ผมจะไปทบทวน\nแฟ้มคดีโอคุโบะอีกรอบ
+P0901-0940	พากย์ · speech_list_judge_main_c09	? (ช)		Looking over the old case files.	กำลังทบทวนแฟ้มคดีเก่า
+P0901-0941	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I'll be over at Genda-sensei's.	ผมจะไปอยู่ที่ออฟฟิศอาจารย์เก็นดะ
+P0901-0942	พากย์ · speech_list_judge_main_c09	Hoshino (ช)		I'll let you know once I've made the arrangements\nto get you in to see him.	ผมจะแจ้งให้ทราบทันทีที่จัดการ\nให้ยากามิซังเข้าไปเจอเขาได้
+P0901-0943	พากย์ · speech_list_judge_main_c09	Hoshino (ช)	[อีกแทร็ก]	Once I've made arrangements to see Okubo,\nI'll get in contact with you.	พอผมจัดการนัดเจอโอคุโบะเรียบร้อย\nจะติดต่อยากามิซังทันทีครับ
+P0901-0944	พากย์ · speech_list_judge_main_c09	Kaito (ช)		Goin' to see Okubo, huh?\nWon't be easy for you... but you can do it, man.	จะไปเจอโอคุโบะสินะ?\nคงไม่ง่ายสำหรับนายหรอก... แต่นายทำได้น่า
+P0901-0945	พากย์ · speech_list_judge_main_c09	Kaito (ช)	[อีกแทร็ก]	Goin' to see Okubo, huh...?\nSounds like it ain't gonna be easy on you.	จะไปเจอโอคุโบะสินะ...?\nฟังดูไม่ง่ายสำหรับนายเลยนะ
+P0901-0946	พากย์ · speech_list_judge_main_c09	Sugiura (ช)		Guess I was pretty harsh earlier.\nSorry about that.	เมื่อกี้ผมดุแรงไปหน่อยสินะ\nขอโทษนะ
+P0901-0947	พากย์ · speech_list_judge_main_c09	Sugiura (ช)	[อีกแทร็ก]	Guess I was kinda\nharsh earlier... Sorry.	เมื่อกี้ผมแรงไปหน่อย\nสินะ... ขอโทษนะ
+P0901-0948	พากย์ · speech_list_judge_main_c09	Genda (ช)		Oh, Yagami.\nYou need something?	อ้าว ยากามิ\nต้องการอะไรเหรอ?
+P0901-0949	พากย์ · speech_list_judge_main_c09	Genda (ช)	[อีกแทร็ก]	Oh... Need something, Yagami?	อ้าว... ต้องการอะไรเหรอ ยากามิ?
+P0901-0950	พากย์ · speech_list_judge_main_c09	? (ช)		Huh? What do you mean,\nyou're seeing Okubo?	หา? หมายความว่าไง\nจะไปเจอโอคุโบะ?
+P0901-0951	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	Huh? What's all this about now?	หา? นี่มันเรื่องอะไรกันเนี่ย?
+P0901-0952	พากย์ · speech_list_judge_main_c09	Saori (ญ)		Hold on, I'll go pull the documents up.	เดี๋ยวนะ ฉันจะไปหยิบเอกสารมาให้
+P0901-0953	พากย์ · speech_list_judge_main_c09	Saori (ญ)	[อีกแทร็ก]	Understood. I'll go pull\nthe documents up.	เข้าใจแล้ว ฉันจะไปหยิบ\nเอกสารมาให้
+P0901-0954	พากย์ · speech_list_judge_main_c09	Yagami (ช)		Mind if I look over a case file?\nThe ADDC one, from three years ago.	ขอผมดูแฟ้มคดีหน่อยได้ไหม\nแฟ้มคดี ADDC เมื่อสามปีก่อนน่ะ
+P0901-0955	พากย์ · speech_list_judge_main_c09	? (ช)		I'm seeing Okubo soon.	อีกไม่นานผมจะไปเจอโอคุโบะ
+P0901-0956	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I'm going to see Shinpei Okubo soon.	อีกไม่นานผมจะไปเจอชินเป โอคุโบะ
+P0901-0957	พากย์ · speech_list_judge_main_c09	? (ช)		Thanks, Saori-san.	ขอบใจนะ ซาโอริซัง
+P0901-0958	พากย์ · speech_list_judge_main_c09	Saori (ญ)		How's it going, Yagami-san?	เป็นไงบ้างคะ ยากามิซัง?
+P0901-0959	พากย์ · speech_list_judge_main_c09	Saori (ญ)	[อีกแทร็ก]	Will these do, Yagami-san?	แบบนี้พอใช้ได้ไหมคะ ยากามิซัง?
+P0901-0960	พากย์ · speech_list_judge_main_c09	? (ญ)		The files for Emi Terasawa's case.\nI thought they might be useful, too.	แฟ้มคดีของเอมิ เทราซาวะค่ะ\nคิดว่าน่าจะเป็นประโยชน์ด้วยเหมือนกัน
+P0901-0961	พากย์ · speech_list_judge_main_c09	? (ญ)	[อีกแทร็ก]	The files for Emi Terasawa's case.\nI thought they could be useful, too.	แฟ้มคดีของเอมิ เทราซาวะค่ะ\nคิดว่าน่าจะมีประโยชน์ด้วยเหมือนกัน
+P0901-0962	พากย์ · speech_list_judge_main_c09	? (ญ)		Yagami-san. I think you should look them over\nif you're going to talk to Okubo.	ยากามิซังคะ ฉันว่าคุณควรดูให้ครบ\nถ้าจะไปคุยกับโอคุโบะ
+P0901-0963	พากย์ · speech_list_judge_main_c09	? (ญ)	[อีกแทร็ก]	I think you should look them over\nif you're going to see Okubo.	ฉันว่าคุณควรดูให้ครบ\nถ้าจะไปเจอโอคุโบะ
+P0901-0964	พากย์ · speech_list_judge_main_c09	? (?)		If you really don't need them, just leave them here.\nI'll put everything back later. 	ถ้าจริงๆ แล้วไม่ต้องใช้ ก็วางไว้ตรงนี้ได้เลยค่ะ\nเดี๋ยวฉันเก็บเข้าที่เองทีหลัง 
+P0901-0965	พากย์ · speech_list_judge_main_c09	Yagami (ช)		Oh, not bad.	โอ้ ใช้ได้เลยนะ
+P0901-0966	พากย์ · speech_list_judge_main_c09	Yagami (ช)	[อีกแทร็ก]	Mm? Oh, thanks.	อืม? อ้อ ขอบใจนะ
+P0901-0967	พากย์ · speech_list_judge_main_c09	? (ช)		...What do you have there?	...นั่นถืออะไรมาอีกล่ะ?
+P0901-0968	พากย์ · speech_list_judge_main_c09	Kido (ช)	[ใช้ร่วม]	Well, er...	เอ่อ ก็...
+P0901-0969	พากย์ · speech_list_judge_main_c09	? (ช)	[อีกแทร็ก]	I don't know if...	ไม่รู้สิว่า...
+P0901-0970	พากย์ · speech_list_judge_main_c09	Emi (ญ)		Okubo-san is not a violent person.	คุณโอคุโบะไม่ใช่คนที่ใช้ความรุนแรง
+P0901-0971	พากย์ · speech_list_judge_main_c09	Emi (ญ)	[อีกแทร็ก] [ใช้ร่วม]	Okubo-san isn't some\nkind of violent criminal.	โอคุโบะซังไม่ใช่อาชญากร\nที่ใช้ความรุนแรงแบบนั้นเลยค่ะ

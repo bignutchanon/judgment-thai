@@ -1,0 +1,737 @@
+[
+{
+"id": "P0601-0750",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าดักต่อจากบรรทัดก่อน"
+},
+{
+"id": "P0601-0755",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าไม่ยอมแพ้"
+},
+{
+"id": "P0601-0756",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าไม่ยอมแพ้"
+},
+{
+"id": "P0601-0757",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าไม่ยอมแพ้"
+},
+{
+"id": "P0601-0758",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าไม่ยอมแพ้"
+},
+{
+"id": "P0601-0759",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าไม่ยอมแพ้"
+},
+{
+"id": "P0601-0760",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าไม่ยอมแพ้"
+},
+{
+"id": "P0601-0763",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "พูดกับทาคุ เรียกมาฟุยุจัง"
+},
+{
+"id": "P0601-0764",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "พูดกับทาคุ เรียกมาฟุยุจัง"
+},
+{
+"id": "P0601-0765",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "พูดกับทาคุ เรียกมาฟุยุจัง"
+},
+{
+"id": "P0601-0766",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "พูดกับทาคุ เรียกมาฟุยุจัง"
+},
+{
+"id": "P0601-0767",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "พูดกับทาคุ เรียกมาฟุยุจัง"
+},
+{
+"id": "P0601-0768",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "พูดกับทาคุ เรียกมาฟุยุจัง"
+},
+{
+"id": "P0601-0769",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "พูดกับทาคุ เรียกมาฟุยุจัง"
+},
+{
+"id": "P0601-0770",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "พูดกับทาคุ เรียกมาฟุยุจัง"
+},
+{
+"id": "P0601-0774",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ฝากไคโตะ รีบตามมาฟุยุ"
+},
+{
+"id": "P0601-0775",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ฝากไคโตะ รีบตามมาฟุยุ"
+},
+{
+"id": "P0601-0776",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ฝากไคโตะ รีบตามมาฟุยุ"
+},
+{
+"id": "P0601-0777",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ฝากไคโตะ รีบตามมาฟุยุ"
+},
+{
+"id": "P0601-0784",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานทางโทรศัพท์"
+},
+{
+"id": "P0601-0785",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานทางโทรศัพท์"
+},
+{
+"id": "P0601-0786",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานทางโทรศัพท์"
+},
+{
+"id": "P0601-0787",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานทางโทรศัพท์"
+},
+{
+"id": "P0601-0791",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "เตือนยากูซ่ากำลังมา"
+},
+{
+"id": "P0601-0792",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ฝากซุกิอุระดูมาฟุยุ"
+},
+{
+"id": "P0601-0794",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0795",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0796",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0797",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0798",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0799",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0800",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0801",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0802",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0803",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0804",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0805",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0806",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0807",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0808",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0809",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "มาฟุยุสงสัยว่าทำไมถูกตาม"
+},
+{
+"id": "P0601-0810",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "low",
+"why": "ถามถึงยากูซ่า"
+},
+{
+"id": "P0601-0811",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "low",
+"why": "ถามถึงยากูซ่า"
+},
+{
+"id": "P0601-0813",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0814",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0815",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0816",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0817",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0818",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0819",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0820",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0821",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0822",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0823",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0824",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0825",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0826",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0827",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0828",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0829",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0830",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0831",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0832",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "med",
+"why": "คุยกับยากามิคุงหลังเหตุการณ์"
+},
+{
+"id": "P0601-0836",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "สะกดรอยรถตู้ รายงานโทรศัพท์"
+},
+{
+"id": "P0601-0837",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "สะกดรอยรถตู้ รายงานโทรศัพท์"
+},
+{
+"id": "P0601-0839",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานเคียวเรอิ เรียกยากามิซัง"
+},
+{
+"id": "P0601-0840",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานเคียวเรอิ เรียกยากามิซัง"
+},
+{
+"id": "P0601-0841",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานเคียวเรอิ เรียกยากามิซัง"
+},
+{
+"id": "P0601-0842",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานเคียวเรอิ เรียกยากามิซัง"
+},
+{
+"id": "P0601-0843",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานเคียวเรอิ เรียกยากามิซัง"
+},
+{
+"id": "P0601-0844",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานเคียวเรอิ เรียกยากามิซัง"
+},
+{
+"id": "P0601-0846",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0847",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0848",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ให้ขอบคุณไคโตะ"
+},
+{
+"id": "P0601-0849",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ขอเวลารับสาย"
+},
+{
+"id": "P0601-0850",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับซุกิอุระทางโทรศัพท์"
+},
+{
+"id": "P0601-0851",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับซุกิอุระทางโทรศัพท์"
+},
+{
+"id": "P0601-0852",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับซุกิอุระทางโทรศัพท์"
+},
+{
+"id": "P0601-0853",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับซุกิอุระทางโทรศัพท์"
+},
+{
+"id": "P0601-0854",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับซุกิอุระทางโทรศัพท์"
+},
+{
+"id": "P0601-0855",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับซุกิอุระทางโทรศัพท์"
+},
+{
+"id": "P0601-0856",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับซุกิอุระทางโทรศัพท์"
+},
+{
+"id": "P0601-0857",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "วิเคราะห์เหตุที่เคียวเรอิตามมาฟุยุ"
+},
+{
+"id": "P0601-0858",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "วิเคราะห์เหตุที่เคียวเรอิตามมาฟุยุ"
+},
+{
+"id": "P0601-0859",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "วิเคราะห์เหตุที่เคียวเรอิตามมาฟุยุ"
+},
+{
+"id": "P0601-0860",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "วิเคราะห์เหตุที่เคียวเรอิตามมาฟุยุ"
+},
+{
+"id": "P0601-0861",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "วิเคราะห์เหตุที่เคียวเรอิตามมาฟุยุ"
+},
+{
+"id": "P0601-0862",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0863",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0864",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0865",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0866",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0867",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0868",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0869",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0870",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0871",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0872",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0873",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0874",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0875",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0876",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0877",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0878",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+},
+{
+"id": "P0601-0879",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ยากามิหรือไคโตะ ไม่ชัด"
+}
+]

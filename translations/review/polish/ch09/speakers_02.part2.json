@@ -1,0 +1,2438 @@
+[
+ {
+  "id": "P0902-0001",
+  "speaker": "Emi",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อฉากเอมิท้ายชิ้น 01 พูดถึงโอคุโบะ"
+ },
+ {
+  "id": "P0902-0002",
+  "speaker": "Emi",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อฉากเอมิท้ายชิ้น 01 พูดถึงโอคุโบะ"
+ },
+ {
+  "id": "P0902-0004",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิห้ามไปพบโอคุโบะ"
+ },
+ {
+  "id": "P0902-0005",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิห้ามไปพบโอคุโบะ"
+ },
+ {
+  "id": "P0902-0006",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิห้ามไปพบโอคุโบะ"
+ },
+ {
+  "id": "P0902-0007",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิห้ามไปพบโอคุโบะ"
+ },
+ {
+  "id": "P0902-0008",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับเก็นดะ อ้ำอึ้ง"
+ },
+ {
+  "id": "P0902-0009",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิว่าโทษตัวเองไหม"
+ },
+ {
+  "id": "P0902-0012",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0013",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0014",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0015",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0016",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0017",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0018",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0019",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0020",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0021",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0022",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0023",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0024",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0025",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง"
+ },
+ {
+  "id": "P0902-0026",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง"
+ },
+ {
+  "id": "P0902-0027",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง"
+ },
+ {
+  "id": "P0902-0028",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง"
+ },
+ {
+  "id": "P0902-0029",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง"
+ },
+ {
+  "id": "P0902-0030",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง"
+ },
+ {
+  "id": "P0902-0031",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ้ำอึ้ง ต่อบทยากามิ"
+ },
+ {
+  "id": "P0902-0032",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0033",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0034",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0035",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0036",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0037",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0038",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0039",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0040",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0041",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0042",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0043",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0044",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0045",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0046",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0047",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0048",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ"
+ },
+ {
+  "id": "P0902-0051",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0052",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0053",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0054",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0055",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0056",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0057",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0058",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0059",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0060",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0061",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0062",
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ"
+ },
+ {
+  "id": "P0902-0065",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "นัดโอคุโบะ เจอกันที่ป้ายแท็กซี่"
+ },
+ {
+  "id": "P0902-0066",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0067",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0068",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0069",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0070",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0071",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0072",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0073",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0074",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด"
+ },
+ {
+  "id": "P0902-0075",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับสาย ยากามิพูด"
+ },
+ {
+  "id": "P0902-0076",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับสาย ยากามิพูด"
+ },
+ {
+  "id": "P0902-0079",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกอาจารย์เก็นดะ ยืนยันหาความจริง"
+ },
+ {
+  "id": "P0902-0080",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกอาจารย์เก็นดะ ยืนยันหาความจริง"
+ },
+ {
+  "id": "P0902-0081",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกอาจารย์เก็นดะ ยืนยันหาความจริง"
+ },
+ {
+  "id": "P0902-0082",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกอาจารย์เก็นดะ ยืนยันหาความจริง"
+ },
+ {
+  "id": "P0902-0089",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวโฮชิโนะ สำนักงานเก็นดะ"
+ },
+ {
+  "id": "P0902-0090",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวโฮชิโนะ สำนักงานเก็นดะ"
+ },
+ {
+  "id": "P0902-0091",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวโฮชิโนะ สำนักงานเก็นดะ"
+ },
+ {
+  "id": "P0902-0092",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามโอคุโบะอยากรู้ฆาตกรไหม"
+ },
+ {
+  "id": "P0902-0093",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามโอคุโบะอยากรู้ฆาตกรไหม"
+ },
+ {
+  "id": "P0902-0096",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม"
+ },
+ {
+  "id": "P0902-0097",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม"
+ },
+ {
+  "id": "P0902-0098",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม"
+ },
+ {
+  "id": "P0902-0099",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม"
+ },
+ {
+  "id": "P0902-0100",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม"
+ },
+ {
+  "id": "P0902-0101",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม"
+ },
+ {
+  "id": "P0902-0102",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม"
+ },
+ {
+  "id": "P0902-0103",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม"
+ },
+ {
+  "id": "P0902-0104",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง"
+ },
+ {
+  "id": "P0902-0105",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง"
+ },
+ {
+  "id": "P0902-0106",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง"
+ },
+ {
+  "id": "P0902-0107",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง"
+ },
+ {
+  "id": "P0902-0108",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง"
+ },
+ {
+  "id": "P0902-0109",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง"
+ },
+ {
+  "id": "P0902-0110",
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง"
+ },
+ {
+  "id": "P0902-0113",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0114",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0115",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0116",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0117",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0118",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0119",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0120",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0121",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0122",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0123",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0124",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0125",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0126",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0127",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0128",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0129",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0130",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0131",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0132",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ"
+ },
+ {
+  "id": "P0902-0133",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะกลับสำนักงานเก็นดะ ถามยากามิ"
+ },
+ {
+  "id": "P0902-0134",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะกลับสำนักงานเก็นดะ ถามยากามิ"
+ },
+ {
+  "id": "P0902-0135",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "เรียกยากามิ ก่อนยากามิตอบ"
+ },
+ {
+  "id": "P0902-0137",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ What's up"
+ },
+ {
+  "id": "P0902-0138",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม"
+ },
+ {
+  "id": "P0902-0139",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม"
+ },
+ {
+  "id": "P0902-0140",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม"
+ },
+ {
+  "id": "P0902-0141",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม"
+ },
+ {
+  "id": "P0902-0142",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม"
+ },
+ {
+  "id": "P0902-0143",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม"
+ },
+ {
+  "id": "P0902-0144",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม"
+ },
+ {
+  "id": "P0902-0147",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบโต้ตอนถูกเผชิญหน้า"
+ },
+ {
+  "id": "P0902-0149",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0150",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0151",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0152",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0153",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0154",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0155",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0156",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0157",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0158",
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ"
+ },
+ {
+  "id": "P0902-0161",
+  "speaker": "Stick",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้บุกโจมตี ตะโกนใส่ยากามิ"
+ },
+ {
+  "id": "P0902-0162",
+  "speaker": "Stick",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้บุกโจมตี ตะโกนใส่ยากามิ"
+ },
+ {
+  "id": "P0902-0163",
+  "speaker": "Stick",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้บุกโจมตี ตะโกนใส่ยากามิ"
+ },
+ {
+  "id": "P0902-0164",
+  "speaker": "Stick",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้บุกโจมตี ตะโกนใส่ยากามิ"
+ },
+ {
+  "id": "P0902-0167",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด"
+ },
+ {
+  "id": "P0902-0168",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด"
+ },
+ {
+  "id": "P0902-0169",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด"
+ },
+ {
+  "id": "P0902-0170",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด"
+ },
+ {
+  "id": "P0902-0171",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด"
+ },
+ {
+  "id": "P0902-0172",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด"
+ },
+ {
+  "id": "P0902-0173",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เผชิญหน้าผู้บุกโจมตี"
+ },
+ {
+  "id": "P0902-0174",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เผชิญหน้าผู้บุกโจมตี"
+ },
+ {
+  "id": "P0902-0175",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เผชิญหน้าผู้บุกโจมตี"
+ },
+ {
+  "id": "P0902-0176",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เผชิญหน้าผู้บุกโจมตี"
+ },
+ {
+  "id": "P0902-0177",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป"
+ },
+ {
+  "id": "P0902-0178",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป"
+ },
+ {
+  "id": "P0902-0179",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป"
+ },
+ {
+  "id": "P0902-0180",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป"
+ },
+ {
+  "id": "P0902-0181",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป"
+ },
+ {
+  "id": "P0902-0184",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คาดว่าเป็นลูกน้องฮามุระ"
+ },
+ {
+  "id": "P0902-0185",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คาดว่าเป็นลูกน้องฮามุระ"
+ },
+ {
+  "id": "P0902-0186",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องได้ยินมา ลงท้ายครับ"
+ },
+ {
+  "id": "P0902-0187",
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องได้ยินมา ลงท้ายครับ"
+ },
+ {
+  "id": "P0902-0191",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0192",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0193",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0194",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0195",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0196",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0197",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0198",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0199",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art"
+ },
+ {
+  "id": "P0902-0203",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเกือบโดนฆ่า"
+ },
+ {
+  "id": "P0902-0204",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเกือบโดนฆ่า"
+ },
+ {
+  "id": "P0902-0205",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0206",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0207",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0208",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0209",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0210",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0211",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0212",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0213",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0214",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ"
+ },
+ {
+  "id": "P0902-0215",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชวนไปกัน"
+ },
+ {
+  "id": "P0902-0222",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบโฮชิโนะ ประหม่าเหมือนกัน"
+ },
+ {
+  "id": "P0902-0223",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบโฮชิโนะ ประหม่าเหมือนกัน"
+ },
+ {
+  "id": "P0902-0228",
+  "speaker": "kj_monban",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยามหน้า KJ Art แจ้งไคโตะมาถึง"
+ },
+ {
+  "id": "P0902-0229",
+  "speaker": "kj_monban",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยามหน้า KJ Art แจ้งไคโตะมาถึง"
+ },
+ {
+  "id": "P0902-0230",
+  "speaker": "kj_monban",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยามหน้า KJ Art แจ้งไคโตะมาถึง"
+ },
+ {
+  "id": "P0902-0232",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "พูดถึงนัดหมายโชโนะ คิโดะ"
+ },
+ {
+  "id": "P0902-0233",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "พูดถึงนัดหมายโชโนะ คิโดะ"
+ },
+ {
+  "id": "P0902-0234",
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับสั้น ๆ ไม่มีเบาะแส"
+ },
+ {
+  "id": "P0902-0237",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก"
+ },
+ {
+  "id": "P0902-0238",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก"
+ },
+ {
+  "id": "P0902-0239",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก"
+ },
+ {
+  "id": "P0902-0240",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก"
+ },
+ {
+  "id": "P0902-0241",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก"
+ },
+ {
+  "id": "P0902-0242",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "เพิ่งรู้ผลเรื่องโอคุโบะจากยากามิ"
+ },
+ {
+  "id": "P0902-0244",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสำนวนกันเอง อาสาซุ่มดัก"
+ },
+ {
+  "id": "P0902-0245",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสำนวนกันเอง อาสาซุ่มดัก"
+ },
+ {
+  "id": "P0902-0246",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสำนวนกันเอง อาสาซุ่มดัก"
+ },
+ {
+  "id": "P0902-0247",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสำนวนกันเอง อาสาซุ่มดัก"
+ },
+ {
+  "id": "P0902-0250",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มุราเสะขอโทษ พูดถึงประธานคาจิฮิระ"
+ },
+ {
+  "id": "P0902-0251",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มุราเสะขอโทษ พูดถึงประธานคาจิฮิระ"
+ },
+ {
+  "id": "P0902-0252",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มุราเสะขอโทษ พูดถึงประธานคาจิฮิระ"
+ },
+ {
+  "id": "P0902-0253",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มุราเสะขอโทษ พูดถึงประธานคาจิฮิระ"
+ },
+ {
+  "id": "P0902-0254",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ปฏิเสธข้อเสนอมุราเสะ"
+ },
+ {
+  "id": "P0902-0255",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ปฏิเสธข้อเสนอมุราเสะ"
+ },
+ {
+  "id": "P0902-0256",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "med",
+  "why": "เชิญนั่งพัก"
+ },
+ {
+  "id": "P0902-0258",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร"
+ },
+ {
+  "id": "P0902-0259",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร"
+ },
+ {
+  "id": "P0902-0260",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร"
+ },
+ {
+  "id": "P0902-0261",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร"
+ },
+ {
+  "id": "P0902-0262",
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร"
+ },
+ {
+  "id": "P0902-0264",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "จะร่วมทัวร์ ADDC"
+ },
+ {
+  "id": "P0902-0265",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "จะร่วมทัวร์ ADDC"
+ },
+ {
+  "id": "P0902-0266",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เตือนไคโตะ อย่าเพลิน"
+ },
+ {
+  "id": "P0902-0267",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เตือนไคโตะ อย่าเพลิน"
+ },
+ {
+  "id": "P0902-0268",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องปฏิกิริยา ลงท้ายครับ"
+ },
+ {
+  "id": "P0902-0269",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องปฏิกิริยา ลงท้ายครับ"
+ },
+ {
+  "id": "P0902-0270",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องปฏิกิริยา ลงท้ายครับ"
+ },
+ {
+  "id": "P0902-0271",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องปฏิกิริยา ลงท้ายครับ"
+ },
+ {
+  "id": "P0902-0272",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เลี่ยงตอบ พูดถึงคนกลัวยากูซ่า"
+ },
+ {
+  "id": "P0902-0273",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เลี่ยงตอบ พูดถึงคนกลัวยากูซ่า"
+ },
+ {
+  "id": "P0902-0274",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เลี่ยงตอบ พูดถึงคนกลัวยากูซ่า"
+ },
+ {
+  "id": "P0902-0275",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เลี่ยงตอบ พูดถึงคนกลัวยากูซ่า"
+ },
+ {
+  "id": "P0902-0276",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วางแผนดักโชโนะที่ล็อบบี้"
+ },
+ {
+  "id": "P0902-0277",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วางแผนดักโชโนะที่ล็อบบี้"
+ },
+ {
+  "id": "P0902-0278",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วางแผนดักโชโนะที่ล็อบบี้"
+ },
+ {
+  "id": "P0902-0279",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วางแผนดักโชโนะที่ล็อบบี้"
+ },
+ {
+  "id": "P0902-0280",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ"
+ },
+ {
+  "id": "P0902-0281",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ"
+ },
+ {
+  "id": "P0902-0282",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ"
+ },
+ {
+  "id": "P0902-0283",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ"
+ },
+ {
+  "id": "P0902-0284",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ"
+ },
+ {
+  "id": "P0902-0285",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ"
+ },
+ {
+  "id": "P0902-0286",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับ ไปกัน"
+ },
+ {
+  "id": "P0902-0287",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับ ไปกัน"
+ },
+ {
+  "id": "P0902-0290",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าโชโนะกลับหรือยัง"
+ },
+ {
+  "id": "P0902-0291",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าโชโนะกลับหรือยัง"
+ },
+ {
+  "id": "P0902-0292",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าโชโนะกลับหรือยัง"
+ },
+ {
+  "id": "P0902-0295",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ให้ใจเย็น รอโชโนะ"
+ },
+ {
+  "id": "P0902-0296",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ให้ใจเย็น รอโชโนะ"
+ },
+ {
+  "id": "P0902-0298",
+  "speaker": "center_uketsuke",
+  "gender": "female",
+  "conf": "med",
+  "why": "พนักงานต้อนรับ ADDC ตอบเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0299",
+  "speaker": "center_uketsuke",
+  "gender": "female",
+  "conf": "med",
+  "why": "พนักงานต้อนรับ ADDC ตอบเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0300",
+  "speaker": "center_uketsuke",
+  "gender": "female",
+  "conf": "med",
+  "why": "ถามว่ามีนัดหรือไม่"
+ },
+ {
+  "id": "P0902-0301",
+  "speaker": "center_uketsuke",
+  "gender": "female",
+  "conf": "med",
+  "why": "ถามว่ามีนัดหรือไม่"
+ },
+ {
+  "id": "P0902-0303",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามหาโชโนะทีม AD-9"
+ },
+ {
+  "id": "P0902-0304",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามหาโชโนะทีม AD-9"
+ },
+ {
+  "id": "P0902-0307",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "high",
+  "why": "แนะนำตัวฮาชิโมโตะ"
+ },
+ {
+  "id": "P0902-0308",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "high",
+  "why": "แนะนำตัวฮาชิโมโตะ"
+ },
+ {
+  "id": "P0902-0309",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "high",
+  "why": "แนะนำตัวฮาชิโมโตะ"
+ },
+ {
+  "id": "P0902-0310",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "high",
+  "why": "แนะนำตัวฮาชิโมโตะ"
+ },
+ {
+  "id": "P0902-0313",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชี้ตำแหน่งโชโนะ"
+ },
+ {
+  "id": "P0902-0315",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป"
+ },
+ {
+  "id": "P0902-0316",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป"
+ },
+ {
+  "id": "P0902-0317",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป"
+ },
+ {
+  "id": "P0902-0318",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป"
+ },
+ {
+  "id": "P0902-0319",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป"
+ },
+ {
+  "id": "P0902-0320",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป"
+ },
+ {
+  "id": "P0902-0323",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ"
+ },
+ {
+  "id": "P0902-0324",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ"
+ },
+ {
+  "id": "P0902-0325",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ"
+ },
+ {
+  "id": "P0902-0326",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ"
+ },
+ {
+  "id": "P0902-0327",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ"
+ },
+ {
+  "id": "P0902-0330",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0331",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0332",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0333",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0334",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0335",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0336",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0337",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0338",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0339",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา"
+ },
+ {
+  "id": "P0902-0341",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามต่อว่าเราจะทำยังไงดี"
+ },
+ {
+  "id": "P0902-0342",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามต่อว่าเราจะทำยังไงดี"
+ },
+ {
+  "id": "P0902-0345",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "low",
+  "why": "พบหน้ายากามิอีกครั้ง"
+ },
+ {
+  "id": "P0902-0346",
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "low",
+  "why": "พบหน้ายากามิอีกครั้ง"
+ },
+ {
+  "id": "P0902-0347",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ทักรองปลัด จำได้จากวันก่อน"
+ },
+ {
+  "id": "P0902-0348",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ทักรองปลัด จำได้จากวันก่อน"
+ },
+ {
+  "id": "P0902-0349",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ทักรองปลัด จำได้จากวันก่อน"
+ },
+ {
+  "id": "P0902-0352",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0353",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0354",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0355",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0356",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0357",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0358",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0359",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0360",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ"
+ },
+ {
+  "id": "P0902-0362",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบฮาชิโมโตะ จำรอบเช้า"
+ },
+ {
+  "id": "P0902-0363",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบฮาชิโมโตะ จำรอบเช้า"
+ },
+ {
+  "id": "P0902-0366",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา"
+ },
+ {
+  "id": "P0902-0367",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา"
+ },
+ {
+  "id": "P0902-0368",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา"
+ },
+ {
+  "id": "P0902-0369",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา"
+ },
+ {
+  "id": "P0902-0370",
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา"
+ },
+ {
+  "id": "P0902-0372",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามทางเข้า หลังซุกิอุระ"
+ },
+ {
+  "id": "P0902-0373",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามทางเข้า หลังซุกิอุระ"
+ },
+ {
+  "id": "P0902-0376",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "นึกได้ว่าโชโนะทำเหมือนสามปีก่อน"
+ },
+ {
+  "id": "P0902-0377",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "นึกได้ว่าโชโนะทำเหมือนสามปีก่อน"
+ },
+ {
+  "id": "P0902-0379",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC"
+ },
+ {
+  "id": "P0902-0380",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC"
+ },
+ {
+  "id": "P0902-0381",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC"
+ },
+ {
+  "id": "P0902-0382",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC"
+ },
+ {
+  "id": "P0902-0383",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC"
+ },
+ {
+  "id": "P0902-0384",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC"
+ },
+ {
+  "id": "P0902-0385",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC"
+ },
+ {
+  "id": "P0902-0389",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อคำอธิบายแผนที่"
+ },
+ {
+  "id": "P0902-0390",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อคำอธิบายแผนที่"
+ },
+ {
+  "id": "P0902-0391",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชอบแผนทางโรงจอดรถ"
+ },
+ {
+  "id": "P0902-0392",
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชอบแผนทางโรงจอดรถ"
+ },
+ {
+  "id": "P0902-0393",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0394",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0395",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0396",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0397",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0398",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0399",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0400",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0401",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0402",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0403",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0404",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0405",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0406",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู"
+ },
+ {
+  "id": "P0902-0411",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ."
+ },
+ {
+  "id": "P0902-0412",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ."
+ },
+ {
+  "id": "P0902-0413",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ."
+ },
+ {
+  "id": "P0902-0414",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ."
+ },
+ {
+  "id": "P0902-0415",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ."
+ },
+ {
+  "id": "P0902-0416",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ."
+ },
+ {
+  "id": "P0902-0421",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ารองปลัดสั่ง คนเยอะ"
+ },
+ {
+  "id": "P0902-0422",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ารองปลัดสั่ง คนเยอะ"
+ },
+ {
+  "id": "P0902-0423",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ารองปลัดสั่ง คนเยอะ"
+ },
+ {
+  "id": "P0902-0424",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ารองปลัดสั่ง คนเยอะ"
+ },
+ {
+  "id": "P0902-0427",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้"
+ },
+ {
+  "id": "P0902-0428",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้"
+ },
+ {
+  "id": "P0902-0429",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้"
+ },
+ {
+  "id": "P0902-0430",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้"
+ },
+ {
+  "id": "P0902-0431",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้"
+ },
+ {
+  "id": "P0902-0432",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้"
+ },
+ {
+  "id": "P0902-0433",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้"
+ },
+ {
+  "id": "P0902-0434",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้"
+ },
+ {
+  "id": "P0902-0436",
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "low",
+  "why": "อุทานเมื่อถูกซักถาม"
+ },
+ {
+  "id": "P0902-0438",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซักมาชิโกะเรื่องอาวุธ"
+ },
+ {
+  "id": "P0902-0439",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซักมาชิโกะเรื่องอาวุธ"
+ },
+ {
+  "id": "P0902-0440",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซักมาชิโกะเรื่องอาวุธ"
+ },
+ {
+  "id": "P0902-0441",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซักมาชิโกะเรื่องอาวุธ"
+ },
+ {
+  "id": "P0902-0445",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ขอบคุณรองปลัดแบบประชด"
+ },
+ {
+  "id": "P0902-0446",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ขอบคุณรองปลัดแบบประชด"
+ }
+]

@@ -1,0 +1,3754 @@
+{
+ "P0401-0250": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบยากามิถามว่ารู้จักไหม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0251": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0250",
+  "file": "speakers_01.json"
+ },
+ "P0401-0252": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ค้านคำเคลมคนร้ายของไคโตะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0253": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "อ้างฮิงาชิบอก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0254": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิหลังเรื่องเกือบถูกยิง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0255": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0254",
+  "file": "speakers_01.json"
+ },
+ "P0401-0256": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "รายงานตามที่ฮิงาชิบอก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0257": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0256",
+  "file": "speakers_01.json"
+ },
+ "P0401-0258": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อเนื่องจาก 0256",
+  "file": "speakers_01.json"
+ },
+ "P0401-0259": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "วิเคราะห์ความหมายการฆ่า",
+  "file": "speakers_01.json"
+ },
+ "P0401-0260": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0259",
+  "file": "speakers_01.json"
+ },
+ "P0401-0261": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คาดการณ์สงครามลุกลาม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0262": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0261",
+  "file": "speakers_01.json"
+ },
+ "P0401-0263": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบรับ อ้างฮิงาชิในแทร็กคู่",
+  "file": "speakers_01.json"
+ },
+ "P0401-0264": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "So Higashi says",
+  "file": "speakers_01.json"
+ },
+ "P0401-0265": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่ารู้จักไหม ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0266": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0265",
+  "file": "speakers_01.json"
+ },
+ "P0401-0267": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าข่าวจับคนร้าย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0268": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0267",
+  "file": "speakers_01.json"
+ },
+ "P0401-0269": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยืนยัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0270": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผมเกือบถูกยิง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0271": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0270",
+  "file": "speakers_01.json"
+ },
+ "P0401-0272": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามเหตุผล",
+  "file": "speakers_01.json"
+ },
+ "P0401-0273": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "สรุปเคียวเรอิต้องการสงคราม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0274": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0273",
+  "file": "speakers_01.json"
+ },
+ "P0401-0277": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "ห่วงยากามิ ต่อจากโทรของเก็นดะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0278": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "ฮามุระโทรมาบ่น",
+  "file": "speakers_01.json"
+ },
+ "P0401-0279": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0278",
+  "file": "speakers_01.json"
+ },
+ "P0401-0280": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถ่ายทอดคำฮามุระ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0281": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0280",
+  "file": "speakers_01.json"
+ },
+ "P0401-0282": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "แค่ห่วงว่ายังสบายดี",
+  "file": "speakers_01.json"
+ },
+ "P0401-0283": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0282",
+  "file": "speakers_01.json"
+ },
+ "P0401-0284": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "บ่นเมืองดุขึ้นทุกวัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0285": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0284",
+  "file": "speakers_01.json"
+ },
+ "P0401-0288": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อจากฮิงาชิเรียกยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0289": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0288",
+  "file": "speakers_01.json"
+ },
+ "P0401-0290": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "กลัวกัปตันฮามุระรู้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0291": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0290",
+  "file": "speakers_01.json"
+ },
+ "P0401-0292": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อบทสนทนาเดียวกัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0293": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0292",
+  "file": "speakers_01.json"
+ },
+ "P0401-0294": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "พูดถึงฮามุระตกที่นั่ง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0295": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าฮามุระหายตัว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0296": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0295",
+  "file": "speakers_01.json"
+ },
+ "P0401-0297": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าฮามุระหลบหนี",
+  "file": "speakers_01.json"
+ },
+ "P0401-0298": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0297",
+  "file": "speakers_01.json"
+ },
+ "P0401-0299": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิต่อ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0300": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0299",
+  "file": "speakers_01.json"
+ },
+ "P0401-0301": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อบทสนทนาฮิงาชิ เชิญนั่ง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0302": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0301",
+  "file": "speakers_01.json"
+ },
+ "P0401-0303": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อบทสนทนาฮิงาชิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0304": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0303",
+  "file": "speakers_01.json"
+ },
+ "P0401-0307": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบรับคำโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0308": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบคำถามยากามิ ลงท้ายครับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0309": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อจาก 0308",
+  "file": "speakers_01.json"
+ },
+ "P0401-0310": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0309",
+  "file": "speakers_01.json"
+ },
+ "P0401-0312": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อจากไคโตะเล่าเรื่องฮิงาชิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0313": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0312",
+  "file": "speakers_01.json"
+ },
+ "P0401-0317": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "ต่อจากซาโอริ ลงท้าย ค่ะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0318": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0317",
+  "file": "speakers_01.json"
+ },
+ "P0401-0319": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "med",
+  "why": "อีกแทร็กคือ ค่ะ ตอบยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0320": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "ลงท้าย ค่ะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0323": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบซาโอริ ไม่รู้จักคนตาย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0324": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0323",
+  "file": "speakers_01.json"
+ },
+ "P0401-0325": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าห่วงผมจริงเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0326": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0325",
+  "file": "speakers_01.json"
+ },
+ "P0401-0327": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ประชดหลังซาโอริปฏิเสธ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0328": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0327",
+  "file": "speakers_01.json"
+ },
+ "P0401-0329": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามโฮชิโนะเรื่องชินทานิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0330": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0329",
+  "file": "speakers_01.json"
+ },
+ "P0401-0331": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ขอโทษหลังสนทนาโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0332": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0331",
+  "file": "speakers_01.json"
+ },
+ "P0401-0333": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำขอโทษ ลงท้ายครับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0334": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0333",
+  "file": "speakers_01.json"
+ },
+ "P0401-0335": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าเหตุยิง ต่อโทรศัพท์ไคโตะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0336": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0335",
+  "file": "speakers_01.json"
+ },
+ "P0401-0337": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในวงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0338": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในวงเล็บ เรียกโฮชิโนะคุง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0342": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยืนยัน ฮิงาชิตอบ ใช่เลย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0345": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "จะไปสำนักงาน ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0346": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0345",
+  "file": "speakers_01.json"
+ },
+ "P0401-0347": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "เสริมแนวป้องกันของตระกูล",
+  "file": "speakers_01.json"
+ },
+ "P0401-0348": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0347",
+  "file": "speakers_01.json"
+ },
+ "P0401-0349": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทั้งตระกูลเข้าเวร",
+  "file": "speakers_01.json"
+ },
+ "P0401-0350": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายเหตุตระกูลตื่นตัว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0351": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0350",
+  "file": "speakers_01.json"
+ },
+ "P0401-0352": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าชิโอยะมาจากคันไซ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0353": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0352",
+  "file": "speakers_01.json"
+ },
+ "P0401-0354": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "แนะนำชิโอยะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0355": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0354",
+  "file": "speakers_01.json"
+ },
+ "P0401-0356": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใช้ ฉัน ในแทร็กคู่ วิเคราะห์เป้าหมาย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0357": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กใช้ ฉัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0358": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ให้ดูภาพศพ ใช้ ฉัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0359": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0358",
+  "file": "speakers_01.json"
+ },
+ "P0401-0360": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชี้เสื้อผ้าในภาพ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0361": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0360",
+  "file": "speakers_01.json"
+ },
+ "P0401-0362": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าแจ็คเก็ตกัปตัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0363": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0362",
+  "file": "speakers_01.json"
+ },
+ "P0401-0364": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อข้อสรุปเดียวกัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0365": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0364",
+  "file": "speakers_01.json"
+ },
+ "P0401-0366": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สรุปว่ากัปตันรู้ตัว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0367": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0366",
+  "file": "speakers_01.json"
+ },
+ "P0401-0368": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักยากามิว่าไม่ห่วง เรียก นาย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0369": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0368",
+  "file": "speakers_01.json"
+ },
+ "P0401-0370": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ให้เหตุผลว่าทำไมยากามิเสี่ยง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0371": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0370",
+  "file": "speakers_01.json"
+ },
+ "P0401-0372": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ห่วงชินทานิแทนตัวเอง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0373": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อจาก 0372",
+  "file": "speakers_01.json"
+ },
+ "P0401-0374": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0373",
+  "file": "speakers_01.json"
+ },
+ "P0401-0375": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อจาก 0373",
+  "file": "speakers_01.json"
+ },
+ "P0401-0376": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0375",
+  "file": "speakers_01.json"
+ },
+ "P0401-0377": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "แนะนำให้เตือนชินทานิ ฉัน/นาย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0378": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0377",
+  "file": "speakers_01.json"
+ },
+ "P0401-0381": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮิงาชิเรื่องเคียวเรอิ ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0382": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0381",
+  "file": "speakers_01.json"
+ },
+ "P0401-0383": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบว่าเคียวเรอิเงียบมาตลอด",
+  "file": "speakers_01.json"
+ },
+ "P0401-0384": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0383",
+  "file": "speakers_01.json"
+ },
+ "P0401-0385": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าคนในภาพคือใคร",
+  "file": "speakers_01.json"
+ },
+ "P0401-0386": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0385",
+  "file": "speakers_01.json"
+ },
+ "P0401-0387": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าสั่งยิงหรือไม่",
+  "file": "speakers_01.json"
+ },
+ "P0401-0388": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0387",
+  "file": "speakers_01.json"
+ },
+ "P0401-0389": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามเหตุผลข้อสรุปของไคโตะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0390": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0389",
+  "file": "speakers_01.json"
+ },
+ "P0401-0391": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบสนองต่อภาพศพ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0392": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0391",
+  "file": "speakers_01.json"
+ },
+ "P0401-0393": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามเรื่องเสื้อผ้าที่ไคโตะชี้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0395": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในวงเล็บ monologue",
+  "file": "speakers_01.json"
+ },
+ "P0401-0396": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อความคิดเรื่องฮามุระซ่อนตัว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0397": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0396",
+  "file": "speakers_01.json"
+ },
+ "P0401-0398": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ประชดหลังได้ข้อสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0401-0399": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0398",
+  "file": "speakers_01.json"
+ },
+ "P0401-0400": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าจะมาเล่นงานผมไหม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0401": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0400",
+  "file": "speakers_01.json"
+ },
+ "P0401-0407": {
+  "speaker": "Kasai",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวว่าคาไซ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0408": {
+  "speaker": "Kasai",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0407",
+  "file": "speakers_01.json"
+ },
+ "P0401-0409": {
+  "speaker": "Kasai",
+  "gender": "male",
+  "conf": "med",
+  "why": "ข่มขู่ให้มาช่วยคิม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0410": {
+  "speaker": "Kasai",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0409",
+  "file": "speakers_01.json"
+ },
+ "P0401-0415": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับสายถามว่าใคร",
+  "file": "speakers_01.json"
+ },
+ "P0401-0416": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าโทรมาทำไม ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0417": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0416",
+  "file": "speakers_01.json"
+ },
+ "P0401-0418": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกคิมซัง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0419": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0418",
+  "file": "speakers_01.json"
+ },
+ "P0401-0420": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "สบถหลังรู้คิมถูกจับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0421": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดวงเล็บ ต้องไปช่วยคิม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0424": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวต่อเนื่องจาก 0422",
+  "file": "speakers_01.json"
+ },
+ "P0401-0425": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0424",
+  "file": "speakers_01.json"
+ },
+ "P0401-0426": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำชื่อฮอนดะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0427": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0426",
+  "file": "speakers_01.json"
+ },
+ "P0401-0428": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบว่าช่วยอะไรมึงเนี่ยนะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0429": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "รอคอยไฟต์ ไม่รุมยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0430": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0429",
+  "file": "speakers_01.json"
+ },
+ "P0401-0431": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "ท้าใครไม่เห็นด้วย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0432": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0431",
+  "file": "speakers_01.json"
+ },
+ "P0401-0433": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "แค่อยากสู้กับยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0434": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เหตุผลเข้าแก๊งเคฮิน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0435": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0434",
+  "file": "speakers_01.json"
+ },
+ "P0401-0436": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนสู้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0437": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปรัชญาการต่อสู้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0438": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0437",
+  "file": "speakers_01.json"
+ },
+ "P0401-0439": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "พร้อมสนุก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0440": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0439",
+  "file": "speakers_01.json"
+ },
+ "P0401-0443": {
+  "speaker": "Kasai",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบฮอนดะที่ปฏิเสธช่วย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0444": {
+  "speaker": "Kasai",
+  "gender": "male",
+  "conf": "med",
+  "why": "สั่งฮอนดะให้ช่วยรุม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0445": {
+  "speaker": "Kasai",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0444",
+  "file": "speakers_01.json"
+ },
+ "P0401-0446": {
+  "speaker": "Kasai",
+  "gender": "male",
+  "conf": "med",
+  "why": "ปลุกลูกน้องลุย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0447": {
+  "speaker": "Keihin",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตกใจที่ฮอนดะไม่ช่วย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0448": {
+  "speaker": "Keihin",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0447",
+  "file": "speakers_01.json"
+ },
+ "P0401-0454": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอกกลับคาไซ ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0455": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบคำชมของฮอนดะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0456": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0455",
+  "file": "speakers_01.json"
+ },
+ "P0401-0457": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮอนดะว่าเป็นอะไร",
+  "file": "speakers_01.json"
+ },
+ "P0401-0458": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0457",
+  "file": "speakers_01.json"
+ },
+ "P0401-0460": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ปฏิเสธการสู้ ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0463": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชมยากามิเป็นนักสู้โดยกำเนิด",
+  "file": "speakers_01.json"
+ },
+ "P0401-0464": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0463",
+  "file": "speakers_01.json"
+ },
+ "P0401-0465": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เริ่มโต้ก่อนขอยุติ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0466": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ขอยุติ ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0467": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนว่าตำรวจกำลังมา",
+  "file": "speakers_01.json"
+ },
+ "P0401-0468": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0467",
+  "file": "speakers_01.json"
+ },
+ "P0401-0469": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ให้ยากามิไป",
+  "file": "speakers_01.json"
+ },
+ "P0401-0470": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกว่าสู้ไม่ได้ถ้ายากามิติดคุก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0471": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0470",
+  "file": "speakers_01.json"
+ },
+ "P0401-0472": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนสู้ใหม่ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0476": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ย้อนคำฮอนดะเรื่องโลกหมุน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0477": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0476",
+  "file": "speakers_01.json"
+ },
+ "P0401-0478": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำย้อนของยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0479": {
+  "speaker": "Honda",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0478",
+  "file": "speakers_01.json"
+ },
+ "P0401-0482": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "med",
+  "why": "ลงท้ายครับ ตกใจที่ไม่รู้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0483": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0482",
+  "file": "speakers_01.json"
+ },
+ "P0401-0484": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายว่าฮอนดะคือใคร",
+  "file": "speakers_01.json"
+ },
+ "P0401-0485": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0484",
+  "file": "speakers_01.json"
+ },
+ "P0401-0486": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายสี่เทพเคฮิน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0487": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0486",
+  "file": "speakers_01.json"
+ },
+ "P0401-0488": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "รายชื่อสี่เทพ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0489": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0488",
+  "file": "speakers_01.json"
+ },
+ "P0401-0490": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกลุ่มของสี่เทพ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0491": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0490",
+  "file": "speakers_01.json"
+ },
+ "P0401-0492": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าเรื่องกลุ่มโคกะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0493": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0492",
+  "file": "speakers_01.json"
+ },
+ "P0401-0494": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าขายอาวุธตลาดมืด",
+  "file": "speakers_01.json"
+ },
+ "P0401-0495": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0494",
+  "file": "speakers_01.json"
+ },
+ "P0401-0496": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าอำนาจเหนือยากูซ่า",
+  "file": "speakers_01.json"
+ },
+ "P0401-0497": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0496",
+  "file": "speakers_01.json"
+ },
+ "P0401-0498": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอโทษยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0499": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0498",
+  "file": "speakers_01.json"
+ },
+ "P0401-0500": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทษตัวเองที่ยากามิถูกเล่นงาน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0501": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0500",
+  "file": "speakers_01.json"
+ },
+ "P0401-0502": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้ยากามิระวังตัว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0503": {
+  "speaker": "Kim",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0502",
+  "file": "speakers_01.json"
+ },
+ "P0401-0506": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามสี่เทพเคฮิน ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0507": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0506",
+  "file": "speakers_01.json"
+ },
+ "P0401-0508": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สรุปว่ามีอีกสองคน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0509": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0508",
+  "file": "speakers_01.json"
+ },
+ "P0401-0510": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "หวังไม่เจอโคกะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0511": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0510",
+  "file": "speakers_01.json"
+ },
+ "P0401-0512": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบคำขอโทษของคิม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0513": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0512",
+  "file": "speakers_01.json"
+ },
+ "P0401-0514": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบคิม ผมจะระวังตัว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0515": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0514",
+  "file": "speakers_01.json"
+ },
+ "P0401-0516": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในวงเล็บ ต่อไปหาชินทานิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0523": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบยากามิที่ขอคุยด้วย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0524": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0523",
+  "file": "speakers_01.json"
+ },
+ "P0401-0528": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอคุยกับชินทานิ ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0531": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถ่ายทอดคำฮามุระ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0532": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0531",
+  "file": "speakers_01.json"
+ },
+ "P0401-0533": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "เห็นด้วยกับฮามุระ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0534": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "หมายถึงชัยชนะของตน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0535": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ฉันเป็นทนายที่ชนะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0536": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0535",
+  "file": "speakers_01.json"
+ },
+ "P0401-0537": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "งานไหลเข้าเพราะชนะคดี",
+  "file": "speakers_01.json"
+ },
+ "P0401-0538": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกให้ยากามิปล่อยเรื่อง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0539": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0538",
+  "file": "speakers_01.json"
+ },
+ "P0401-0540": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ดูถูกการจับตัวตุ่น",
+  "file": "speakers_01.json"
+ },
+ "P0401-0541": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0540",
+  "file": "speakers_01.json"
+ },
+ "P0401-0542": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ด่าเกมนักสืบของยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0543": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0542",
+  "file": "speakers_01.json"
+ },
+ "P0401-0544": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตะคอกให้ปล่อยเรื่อง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0545": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0544",
+  "file": "speakers_01.json"
+ },
+ "P0401-0546": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "เปรียบยากามิเป็นหนู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0547": {
+  "speaker": "Shintani",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0546",
+  "file": "speakers_01.json"
+ },
+ "P0401-0548": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ย้อนคำว่าชัยชนะของนาย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0549": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0548",
+  "file": "speakers_01.json"
+ },
+ "P0401-0550": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "แย้งว่าฆาตกรยังลอยนวล",
+  "file": "speakers_01.json"
+ },
+ "P0401-0551": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0550",
+  "file": "speakers_01.json"
+ },
+ "P0401-0552": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ฮามุระปิดบังคดี",
+  "file": "speakers_01.json"
+ },
+ "P0401-0553": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0552",
+  "file": "speakers_01.json"
+ },
+ "P0401-0554": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "คำตัดสินทำให้เราเป็นตัวตลก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0555": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0554",
+  "file": "speakers_01.json"
+ },
+ "P0401-0556": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไม่ยอมเลิก ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0557": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0556",
+  "file": "speakers_01.json"
+ },
+ "P0401-0558": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ย้อนว่าฮามุระต่างหากหลบซ่อน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0559": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0558",
+  "file": "speakers_01.json"
+ },
+ "P0401-0560": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายเหตุยิงกัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0563": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อจากเก็นดะ ผม ตบหู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0564": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0563",
+  "file": "speakers_01.json"
+ },
+ "P0401-0567": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบโฮชิโนะเรื่องชินทานิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0568": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0567",
+  "file": "speakers_01.json"
+ },
+ "P0401-0570": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "ลงท้ายค่ะ ต่อจากซาโอริ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0571": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0570",
+  "file": "speakers_01.json"
+ },
+ "P0401-0574": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบประชดหลังซาโอริ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0575": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0574",
+  "file": "speakers_01.json"
+ },
+ "P0401-0578": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรบอกอยู่หน้าสำนักงาน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0579": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0578",
+  "file": "speakers_01.json"
+ },
+ "P0401-0580": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันคุโรอิวะ อายาเบะอยู่ด้วย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0581": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0580",
+  "file": "speakers_01.json"
+ },
+ "P0401-0582": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "วิจารณ์อายาเบะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0583": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชวนอายาเบะ ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0584": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็ก ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0585": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อยากได้ข้อมูลตำรวจ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0586": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0583",
+  "file": "speakers_01.json"
+ },
+ "P0401-0587": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชวนไคโตะไปด้วย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0589": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามไคโตะเรื่องเหตุยิง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0590": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0589",
+  "file": "speakers_01.json"
+ },
+ "P0401-0591": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าคุโรอิวะหัวหน้าอายาเบะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0592": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0591",
+  "file": "speakers_01.json"
+ },
+ "P0401-0593": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบรับคำชวนไปเทนเดอร์",
+  "file": "speakers_01.json"
+ },
+ "P0401-0594": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0593",
+  "file": "speakers_01.json"
+ },
+ "P0401-0596": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบยากามิ ต่อจาก 0595",
+  "file": "speakers_01.json"
+ },
+ "P0401-0597": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามเรื่องฮิงาชิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0598": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0597",
+  "file": "speakers_01.json"
+ },
+ "P0401-0599": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบว่าไคโตะบอก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0600": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบว่าใครบอก คือไคโตะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0601": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบว่าเป็นมืออาชีพ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0602": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0601",
+  "file": "speakers_01.json"
+ },
+ "P0401-0603": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยอมรับคำประชดว่าขายข่าว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0604": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0603",
+  "file": "speakers_01.json"
+ },
+ "P0401-0605": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "กู/มึง ไม่มีข้อมูลวันนี้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0606": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0605",
+  "file": "speakers_01.json"
+ },
+ "P0401-0607": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "กระแนะกระแหนเรื่องเลี้ยงเหล้า",
+  "file": "speakers_01.json"
+ },
+ "P0401-0608": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใช้ แก แย้งว่าเจ็บ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0609": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะตอบแทนค่าเหล้า กู/มึง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0610": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0609",
+  "file": "speakers_01.json"
+ },
+ "P0401-0611": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขายข่าวฮามุระหลบซ่อน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0612": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0611",
+  "file": "speakers_01.json"
+ },
+ "P0401-0613": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อข่าวเดียวกัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0614": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยอมเล่า กู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0615": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0614",
+  "file": "speakers_01.json"
+ },
+ "P0401-0616": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เลี้ยงเหล้าคืนนี้ กู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0617": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0616",
+  "file": "speakers_01.json"
+ },
+ "P0401-0618": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อยากคุยงานมากกว่านั่งเงียบ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0619": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0618",
+  "file": "speakers_01.json"
+ },
+ "P0401-0620": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าตัวเลขกำลังคนของเคียวเรอิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0621": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0620",
+  "file": "speakers_01.json"
+ },
+ "P0401-0622": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อข้อมูลเดียวกัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0623": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0622",
+  "file": "speakers_01.json"
+ },
+ "P0401-0624": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อข้อมูลเดียวกัน เพศระบุไม่ได้ในป้าย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0625": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0624",
+  "file": "speakers_01.json"
+ },
+ "P0401-0626": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตำรวจอย่างกู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0627": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็ก ตำรวจอย่างกู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0628": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าแบ็กคาจิฮิระ กู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0629": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อเรื่องบริษัทลูก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0630": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0629",
+  "file": "speakers_01.json"
+ },
+ "P0401-0631": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "บอกชื่อ KJ Art",
+  "file": "speakers_01.json"
+ },
+ "P0401-0632": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0631",
+  "file": "speakers_01.json"
+ },
+ "P0401-0633": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายเหตุขยายมาโตเกียว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0634": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0633",
+  "file": "speakers_01.json"
+ },
+ "P0401-0635": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าแผนพัฒนาที่ดิน กู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0636": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0635",
+  "file": "speakers_01.json"
+ },
+ "P0401-0637": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบไม่รู้เหมือนกัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0638": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "มึงก็รู้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0639": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0638",
+  "file": "speakers_01.json"
+ },
+ "P0401-0640": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยกตัวอย่างงานสกปรก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0641": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0640",
+  "file": "speakers_01.json"
+ },
+ "P0401-0642": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "กูได้ยินมา",
+  "file": "speakers_01.json"
+ },
+ "P0401-0643": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0642",
+  "file": "speakers_01.json"
+ },
+ "P0401-0644": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ที่กูรู้แน่ๆ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0645": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0644",
+  "file": "speakers_01.json"
+ },
+ "P0401-0646": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าประธานคาจิฮิระประจบ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0647": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0646",
+  "file": "speakers_01.json"
+ },
+ "P0401-0648": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไม่รู้เหมือนกันว่ะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0649": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "กูจะบอกแค่นี้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0650": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ต่อบทสนทนาเดียวกัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0651": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0650",
+  "file": "speakers_01.json"
+ },
+ "P0401-0652": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรื่องเหตุยิงที่มึงรู้แล้ว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0653": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตำรวจคุมสถานการณ์",
+  "file": "speakers_01.json"
+ },
+ "P0401-0654": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0653",
+  "file": "speakers_01.json"
+ },
+ "P0401-0655": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เคียวเรอิเงียบ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0656": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0655",
+  "file": "speakers_01.json"
+ },
+ "P0401-0657": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าความตึงเครียด",
+  "file": "speakers_01.json"
+ },
+ "P0401-0658": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0657",
+  "file": "speakers_01.json"
+ },
+ "P0401-0659": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไม่มีใครรู้เรื่องจะปะทุ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0660": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0659",
+  "file": "speakers_01.json"
+ },
+ "P0401-0661": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เออ ว่าแต่ เปลี่ยนเรื่อง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0662": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0661",
+  "file": "speakers_01.json"
+ },
+ "P0401-0663": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าตำรวจสนใจคดีตัวตุ่น",
+  "file": "speakers_01.json"
+ },
+ "P0401-0664": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็ก มึงคิดฉายา",
+  "file": "speakers_01.json"
+ },
+ "P0401-0665": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ประชาชนลุ้นรายต่อไป",
+  "file": "speakers_01.json"
+ },
+ "P0401-0666": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0665",
+  "file": "speakers_01.json"
+ },
+ "P0401-0667": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ด้านสกปรกของกู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0668": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0667",
+  "file": "speakers_01.json"
+ },
+ "P0401-0669": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "หม้อด่ากระทะ ตอบเรื่องตำรวจสกปรก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0670": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็ก ใครมาว่ากู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0673": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อจากไคโตะ บอกอายาเบะตรงๆ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0674": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0673",
+  "file": "speakers_01.json"
+ },
+ "P0401-0675": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้เลี้ยงเหล้า ใช้ ฉัน/แก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0676": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0675",
+  "file": "speakers_01.json"
+ },
+ "P0401-0677": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "บ่นอายาเบะคิดเงินข่าวเก่า",
+  "file": "speakers_01.json"
+ },
+ "P0401-0678": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0677",
+  "file": "speakers_01.json"
+ },
+ "P0401-0679": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบว่าเพราะอยากได้พื้นที่",
+  "file": "speakers_01.json"
+ },
+ "P0401-0680": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0679",
+  "file": "speakers_01.json"
+ },
+ "P0401-0681": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามเรื่องคาจิฮิระ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0682": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0681",
+  "file": "speakers_01.json"
+ },
+ "P0401-0683": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามงานสกปรกอะไรบ้าง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0684": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ประชดข่าวลือ ใช้ แก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0685": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0684",
+  "file": "speakers_01.json"
+ },
+ "P0401-0686": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เตือนฆาตกรอาจเล็งใครก็ได้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0687": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0686",
+  "file": "speakers_01.json"
+ },
+ "P0401-0690": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามอายาเบะเรื่องเหตุยิง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0691": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0690",
+  "file": "speakers_01.json"
+ },
+ "P0401-0692": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามใครบอก ข่าวไปไว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0693": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตำหนิไคโตะที่ปากโป้ง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0694": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0693",
+  "file": "speakers_01.json"
+ },
+ "P0401-0695": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ห่วงฮิงาชิถ้าฮามุระรู้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0696": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0695",
+  "file": "speakers_01.json"
+ },
+ "P0401-0697": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ประชดสายข่าวขายข่าว",
+  "file": "speakers_01.json"
+ },
+ "P0401-0698": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0697",
+  "file": "speakers_01.json"
+ },
+ "P0401-0699": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เร่งให้เล่าต่อ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0700": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใช้ ฉัน ฮิงาชิบอกมาก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0701": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0700",
+  "file": "speakers_01.json"
+ },
+ "P0401-0702": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอกูคิดก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0703": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0702",
+  "file": "speakers_01.json"
+ },
+ "P0401-0704": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามทำไมเคียวเรอิมาคามุโรโจ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0705": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ใช้ ผม อีกแทร็ก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0706": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามต่อเรื่องสงครามโทโจ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0707": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0706",
+  "file": "speakers_01.json"
+ },
+ "P0401-0708": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบว่ากำลังพลไม่พอ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0709": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0708",
+  "file": "speakers_01.json"
+ },
+ "P0401-0710": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อตรรกะว่าไม่มีทางสู้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0711": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0710",
+  "file": "speakers_01.json"
+ },
+ "P0401-0712": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าอะไรยังไม่เกิด",
+  "file": "speakers_01.json"
+ },
+ "P0401-0713": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0712",
+  "file": "speakers_01.json"
+ },
+ "P0401-0714": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบว่ารู้จัก KJ Art",
+  "file": "speakers_01.json"
+ },
+ "P0401-0715": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0714",
+  "file": "speakers_01.json"
+ },
+ "P0401-0716": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในวงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0717": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามคาจิฮิระเกี่ยวอะไร ใช้ วะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0718": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0717",
+  "file": "speakers_01.json"
+ },
+ "P0401-0719": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามแผนแบบไหน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0720": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0719",
+  "file": "speakers_01.json"
+ },
+ "P0401-0721": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "สงสัยความเชื่อมก่อสร้างกับกระทรวง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0722": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0721",
+  "file": "speakers_01.json"
+ },
+ "P0401-0723": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามข่าวฝั่งมัตสึกาเนะ มึง/วะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0724": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามอายาเบะ เรียก คุณ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0725": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0724",
+  "file": "speakers_01.json"
+ },
+ "P0401-0726": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบว่าเมืองวุ่นวาย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0727": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0726",
+  "file": "speakers_01.json"
+ },
+ "P0401-0728": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบสนองสั้นๆ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0729": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0728",
+  "file": "speakers_01.json"
+ },
+ "P0401-0730": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามอายาเบะ เรียก คุณ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0731": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0730",
+  "file": "speakers_01.json"
+ },
+ "P0401-0732": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "low",
+  "why": "ยอมรับหลังถูกถามตำรวจสกปรก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0733": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยอมรับว่าจริง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0734": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0733",
+  "file": "speakers_01.json"
+ },
+ "P0401-0736": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามต่อจากไคโตะเรื่องคุโรอิวะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0737": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใช้ ฉัน ไม่อยากให้คุโรอิวะจับตา",
+  "file": "speakers_01.json"
+ },
+ "P0401-0738": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0737",
+  "file": "speakers_01.json"
+ },
+ "P0401-0739": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชวนยากามิกลับบ้าน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0740": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0739",
+  "file": "speakers_01.json"
+ },
+ "P0401-0741": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามยากามิหมายความว่าไง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0742": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0741",
+  "file": "speakers_01.json"
+ },
+ "P0401-0743": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สรุปเป้าหมายให้ยากามิ เรียก นาย",
+  "file": "speakers_01.json"
+ },
+ "P0401-0744": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0743",
+  "file": "speakers_01.json"
+ },
+ "P0401-0745": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามวิธีสืบเคียวเรอิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0746": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าหมายถึงมุราเสะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0747": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0746",
+  "file": "speakers_01.json"
+ },
+ "P0401-0750": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เดาเรื่องคุโรอิวะ ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0751": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0750",
+  "file": "speakers_01.json"
+ },
+ "P0401-0752": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เดาต่อเนื่อง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0753": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0752",
+  "file": "speakers_01.json"
+ },
+ "P0401-0754": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เดาต่อเนื่อง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0755": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0754",
+  "file": "speakers_01.json"
+ },
+ "P0401-0756": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธกลับบ้าน ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0757": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ใช้ ผม เรื่องเคียวเรอิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0758": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ใช้ ผม เรื่องแบ็กก่อสร้าง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0759": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0758",
+  "file": "speakers_01.json"
+ },
+ "P0401-0760": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "เตือนว่ามีเพื่อนข้างใน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0761": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0760",
+  "file": "speakers_01.json"
+ },
+ "P0401-0762": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "นึกออกว่ามุราเสะเป็นคนของเรา",
+  "file": "speakers_01.json"
+ },
+ "P0401-0763": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0762",
+  "file": "speakers_01.json"
+ },
+ "P0401-0766": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชวนใช้โดรน ต่อจาก 0764",
+  "file": "speakers_01.json"
+ },
+ "P0401-0767": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0766",
+  "file": "speakers_01.json"
+ },
+ "P0401-0768": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "นำทางไปจุดปล่อยโดรน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0769": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0768",
+  "file": "speakers_01.json"
+ },
+ "P0401-0777": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "กลัวกัปตันฮามุระเห็น",
+  "file": "speakers_01.json"
+ },
+ "P0401-0778": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0777",
+  "file": "speakers_01.json"
+ },
+ "P0401-0779": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าเพื่อนคุณเป็นใคร",
+  "file": "speakers_01.json"
+ },
+ "P0401-0780": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0779",
+  "file": "speakers_01.json"
+ },
+ "P0401-0781": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้ไปคุยที่อื่น",
+  "file": "speakers_01.json"
+ },
+ "P0401-0782": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0781",
+  "file": "speakers_01.json"
+ },
+ "P0401-0785": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกฮิงาชิว่า แก ฉัน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0786": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "เยาะฮามุระเหมือนหนู",
+  "file": "speakers_01.json"
+ },
+ "P0401-0787": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "low",
+  "why": "สังเกตหน้ากากของซุกิอุระ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0788": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามเรื่องแก๊งหน้ากาก เรียก คุณ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0789": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็ก ผม/คุณ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0790": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามเรื่องผู้หนุนหลังเคียวเรอิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0791": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0790",
+  "file": "speakers_01.json"
+ },
+ "P0401-0792": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชมซุกิอุระว่าสายตาดี",
+  "file": "speakers_01.json"
+ },
+ "P0401-0793": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0792",
+  "file": "speakers_01.json"
+ },
+ "P0401-0795": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าประวัติตัวเอง ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0796": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0795",
+  "file": "speakers_01.json"
+ },
+ "P0401-0797": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เริ่มเล่าเรื่อง ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0798": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0797",
+  "file": "speakers_01.json"
+ },
+ "P0401-0799": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เคยทำงานให้คาจิฮิระ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0800": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0799",
+  "file": "speakers_01.json"
+ },
+ "P0401-0801": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ทำงานไอที",
+  "file": "speakers_01.json"
+ },
+ "P0401-0802": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0801",
+  "file": "speakers_01.json"
+ },
+ "P0401-0803": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "วิศวกรระบบ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0804": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0803",
+  "file": "speakers_01.json"
+ },
+ "P0401-0805": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "พบบัญชีผิดปกติ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0806": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0805",
+  "file": "speakers_01.json"
+ },
+ "P0401-0807": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่ากองทุนลับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0808": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0807",
+  "file": "speakers_01.json"
+ },
+ "P0401-0809": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าซุกเงิน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0810": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0809",
+  "file": "speakers_01.json"
+ },
+ "P0401-0811": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขุดคุ้ยจนถูกจับได้",
+  "file": "speakers_01.json"
+ },
+ "P0401-0812": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0811",
+  "file": "speakers_01.json"
+ },
+ "P0401-0813": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าต่อเนื่อง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0814": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0813",
+  "file": "speakers_01.json"
+ },
+ "P0401-0815": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถูกกล่าวหายักยอก",
+  "file": "speakers_01.json"
+ },
+ "P0401-0816": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0815",
+  "file": "speakers_01.json"
+ },
+ "P0401-0817": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไม่มีใครเชื่อผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0818": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "รู้ว่าเงินไหลไปเคียวเรอิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0819": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0818",
+  "file": "speakers_01.json"
+ },
+ "P0401-0820": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "บริษัทบังหน้า KJ Art",
+  "file": "speakers_01.json"
+ },
+ "P0401-0821": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0820",
+  "file": "speakers_01.json"
+ },
+ "P0401-0822": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อยากเอาคืนคนโกง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0823": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0822",
+  "file": "speakers_01.json"
+ },
+ "P0401-0824": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "จับตา KJ Art มานาน",
+  "file": "speakers_01.json"
+ },
+ "P0401-0825": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0824",
+  "file": "speakers_01.json"
+ },
+ "P0401-0826": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เห็นพวกคุณซ้อมมุราเสะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0827": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0826",
+  "file": "speakers_01.json"
+ },
+ "P0401-0828": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ทวงข้อเสนอร่วมมือ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0829": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0828",
+  "file": "speakers_01.json"
+ },
+ "P0401-0830": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตกลงข้อเสนอ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0831": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0830",
+  "file": "speakers_01.json"
+ },
+ "P0401-0832": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอร่วมมือกับสำนักงานยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0833": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0832",
+  "file": "speakers_01.json"
+ },
+ "P0401-0834": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชมไคโตะซัง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0835": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชมไคโตะซัง ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0836": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0835",
+  "file": "speakers_01.json"
+ },
+ "P0401-0837": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าตกลงไหม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0838": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใช้ ฉัน รับข้อเสนอแบบไม่สนิท",
+  "file": "speakers_01.json"
+ },
+ "P0401-0839": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0838",
+  "file": "speakers_01.json"
+ },
+ "P0401-0840": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผมอยากได้เคียวเรอิ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0841": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ผลประโยชน์ซ้อนทับ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0842": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามว่าใช้ได้ไหมครับ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0843": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0842",
+  "file": "speakers_01.json"
+ },
+ "P0401-0844": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "เอาโทรศัพท์คุณไป",
+  "file": "speakers_01.json"
+ },
+ "P0401-0845": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0844",
+  "file": "speakers_01.json"
+ },
+ "P0401-0848": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ซุกิอุระเคยช่วยผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0849": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0848",
+  "file": "speakers_01.json"
+ },
+ "P0401-0850": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามซุกิอุระทำไมอยู่แถวนั้น",
+  "file": "speakers_01.json"
+ },
+ "P0401-0851": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็ก ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0852": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าไม่อยากพูดเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0853": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในวงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0854": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบสนองต่อเรื่องเล่า",
+  "file": "speakers_01.json"
+ },
+ "P0401-0855": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0854",
+  "file": "speakers_01.json"
+ },
+ "P0401-0856": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในวงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0857": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "สรุปเหตุที่ซุกิอุระสอดแนม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0858": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามทำไมช่วยเรา",
+  "file": "speakers_01.json"
+ },
+ "P0401-0859": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0858",
+  "file": "speakers_01.json"
+ },
+ "P0401-0860": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เตือนอย่าหัวโต",
+  "file": "speakers_01.json"
+ },
+ "P0401-0861": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0860",
+  "file": "speakers_01.json"
+ },
+ "P0401-0862": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามสั้นๆ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0863": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามช่องทางติดต่อ ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0864": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เบอร์ผม ทำได้ยังไง",
+  "file": "speakers_01.json"
+ },
+ "P0401-0865": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็ก เบอร์ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0866": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "บ่นหลังซุกิอุระไป",
+  "file": "speakers_01.json"
+ },
+ "P0401-0867": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0866",
+  "file": "speakers_01.json"
+ },
+ "P0401-0872": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบไคโตะ ยังไม่ไว้ใจ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0873": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0872",
+  "file": "speakers_01.json"
+ },
+ "P0401-0874": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยอมช่วยกันไปมา",
+  "file": "speakers_01.json"
+ },
+ "P0401-0875": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0874",
+  "file": "speakers_01.json"
+ },
+ "P0401-0876": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ลาก่อน ว่ะ",
+  "file": "speakers_01.json"
+ },
+ "P0401-0877": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0876",
+  "file": "speakers_01.json"
+ },
+ "P0401-0880": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "กลับสำนักงาน ใช้ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0401-0881": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของ 0880",
+  "file": "speakers_01.json"
+ },
+ "P0401-0884": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ทักซาโอริซัง ใช้ ผม",
+  "file": "speakers_01.json"
+ }
+}

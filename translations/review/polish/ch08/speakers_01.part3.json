@@ -1,0 +1,933 @@
+[
+{
+"id": "P0801-0630",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "med",
+"why": "อีกแทร็กของ 0629 ฮิงาชิโทร"
+},
+{
+"id": "P0801-0632",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "โทรถามฮิงาชิ ขอบใจฮิงาชิ"
+},
+{
+"id": "P0801-0633",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "โทรถามฮิงาชิ ขอบใจฮิงาชิ"
+},
+{
+"id": "P0801-0634",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "โทรถามฮิงาชิ ขอบใจฮิงาชิ"
+},
+{
+"id": "P0801-0635",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "โทรถามฮิงาชิ ขอบใจฮิงาชิ"
+},
+{
+"id": "P0801-0641",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0642",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0643",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0644",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0645",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0646",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0647",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0648",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0649",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0650",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0651",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0652",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0653",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0654",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว"
+},
+{
+"id": "P0801-0657",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "med",
+"why": "ตอบยากามิ ใช้ร่วม"
+},
+{
+"id": "P0801-0658",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ออกความเห็นเรื่องร้าน"
+},
+{
+"id": "P0801-0661",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบมัตสึกาเนะ"
+},
+{
+"id": "P0801-0662",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบมัตสึกาเนะ"
+},
+{
+"id": "P0801-0663",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาฮามุระ ถามที่เรียกมา"
+},
+{
+"id": "P0801-0664",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาฮามุระ ถามที่เรียกมา"
+},
+{
+"id": "P0801-0665",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาฮามุระ ถามที่เรียกมา"
+},
+{
+"id": "P0801-0666",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาฮามุระ ถามที่เรียกมา"
+},
+{
+"id": "P0801-0667",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาฮามุระ ถามที่เรียกมา"
+},
+{
+"id": "P0801-0668",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาฮามุระ ถามที่เรียกมา"
+},
+{
+"id": "P0801-0673",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0674",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0675",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0676",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0677",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0678",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0679",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0680",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0681",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0682",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0683",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0684",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0685",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0686",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0687",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0688",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0689",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0690",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0691",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0692",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0693",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0694",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0695",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "เล่าเรื่องมือปืนของฮามุระ"
+},
+{
+"id": "P0801-0697",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "ในฐานะหัวหน้าตระกูล"
+},
+{
+"id": "P0801-0698",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "ในฐานะหัวหน้าตระกูล"
+},
+{
+"id": "P0801-0699",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "ในฐานะหัวหน้าตระกูล"
+},
+{
+"id": "P0801-0700",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "ในฐานะหัวหน้าตระกูล"
+},
+{
+"id": "P0801-0701",
+"speaker": "Matsugane",
+"gender": "male",
+"conf": "high",
+"why": "ในฐานะหัวหน้าตระกูล"
+},
+{
+"id": "P0801-0702",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามมัตสึกาเนะเรื่องนักฆ่า"
+},
+{
+"id": "P0801-0703",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามมัตสึกาเนะเรื่องนักฆ่า"
+},
+{
+"id": "P0801-0704",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามมัตสึกาเนะเรื่องนักฆ่า"
+},
+{
+"id": "P0801-0705",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามมัตสึกาเนะเรื่องนักฆ่า"
+},
+{
+"id": "P0801-0706",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามมัตสึกาเนะเรื่องนักฆ่า"
+},
+{
+"id": "P0801-0707",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบมัตสึกาเนะ ใช้ร่วม"
+},
+{
+"id": "P0801-0709",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0710",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0711",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0712",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0713",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0714",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0715",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0716",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0717",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0718",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0719",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0720",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกมัตสึกาเนะซัง ขอบคุณ"
+},
+{
+"id": "P0801-0723",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0724",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0725",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0726",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0727",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0728",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0729",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0730",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0731",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0732",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'"
+},
+{
+"id": "P0801-0734",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผน โทรหาซุกิอุระ"
+},
+{
+"id": "P0801-0735",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผน โทรหาซุกิอุระ"
+},
+{
+"id": "P0801-0736",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผน โทรหาซุกิอุระ"
+},
+{
+"id": "P0801-0737",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผน โทรหาซุกิอุระ"
+},
+{
+"id": "P0801-0738",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผน โทรหาซุกิอุระ"
+},
+{
+"id": "P0801-0741",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบต่อจากยากามิบ่น"
+},
+{
+"id": "P0801-0742",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบต่อจากยากามิบ่น"
+},
+{
+"id": "P0801-0743",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบต่อจากยากามิบ่น"
+},
+{
+"id": "P0801-0744",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "'ผมเข้าใจ นายอยากติดเครื่อง'"
+},
+{
+"id": "P0801-0745",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "'ผมเข้าใจ นายอยากติดเครื่อง'"
+},
+{
+"id": "P0801-0746",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บของยากามิ"
+},
+{
+"id": "P0801-0747",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คัดค้านแผนไคโตะ"
+},
+{
+"id": "P0801-0748",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คัดค้านแผนไคโตะ"
+},
+{
+"id": "P0801-0749",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คัดค้านแผนไคโตะ"
+},
+{
+"id": "P0801-0750",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คัดค้านแผนไคโตะ"
+},
+{
+"id": "P0801-0751",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คัดค้านแผนไคโตะ"
+},
+{
+"id": "P0801-0752",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "'Me?' ถูกสั่งไปหาอุปกรณ์"
+},
+{
+"id": "P0801-0753",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "'Me?' ถูกสั่งไปหาอุปกรณ์"
+},
+{
+"id": "P0801-0755",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บของยากามิ"
+},
+{
+"id": "P0801-0758",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0759",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0760",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0761",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0762",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0763",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0764",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0765",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0766",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0767",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0768",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0769",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0770",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0771",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0772",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0773",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ตอบยากามิ เรียก Yagami-shi"
+},
+{
+"id": "P0801-0776",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0777",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0778",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0779",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0780",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0781",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0782",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0783",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0784",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้สึคุโมะหาเครื่องดักฟัง"
+},
+{
+"id": "P0801-0786",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "อีกแทร็กของ 0785"
+},
+{
+"id": "P0801-0787",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามราคาสึคุโมะ"
+},
+{
+"id": "P0801-0788",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามราคาสึคุโมะ"
+},
+{
+"id": "P0801-0789",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามราคาสึคุโมะ"
+}
+]

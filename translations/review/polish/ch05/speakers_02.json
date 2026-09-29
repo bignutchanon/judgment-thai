@@ -1,0 +1,4223 @@
+[
+{
+"id": "P0502-0001",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "พนักงานตอบเรื่องผู้ป่วยตอนเช้า ญ"
+},
+{
+"id": "P0502-0002",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "พนักงานตอบเรื่องผู้ป่วยตอนเช้า ญ"
+},
+{
+"id": "P0502-0003",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "พนักงานตอบเรื่องผู้ป่วยตอนเช้า ญ"
+},
+{
+"id": "P0502-0004",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "พนักงานตอบเรื่องผู้ป่วยตอนเช้า ญ"
+},
+{
+"id": "P0502-0006",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0007",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0008",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0009",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0010",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0011",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0012",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0013",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0014",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เรียกยากามิตรง ๆ พูดถึงพยาน"
+},
+{
+"id": "P0502-0017",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ขอคุยพยาน ถามต่อชินทานิ"
+},
+{
+"id": "P0502-0018",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ขอคุยพยาน ถามต่อชินทานิ"
+},
+{
+"id": "P0502-0019",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ขอคุยพยาน ถามต่อชินทานิ"
+},
+{
+"id": "P0502-0020",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ขอคุยพยาน ถามต่อชินทานิ"
+},
+{
+"id": "P0502-0021",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "สรุปเวลาสุดท้ายที่เห็นเหยื่อ"
+},
+{
+"id": "P0502-0022",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "สรุปเวลาสุดท้ายที่เห็นเหยื่อ"
+},
+{
+"id": "P0502-0023",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในใจ เหน็บชินทานิ"
+},
+{
+"id": "P0502-0024",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เสนอพาไปดูห้องวาคุซัง"
+},
+{
+"id": "P0502-0025",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เสนอพาไปดูห้องวาคุซัง"
+},
+{
+"id": "P0502-0028",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เกลี้ยกล่อมยากามิ เรื่องชื่อเสียงอาจารย์"
+},
+{
+"id": "P0502-0029",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เกลี้ยกล่อมยากามิ เรื่องชื่อเสียงอาจารย์"
+},
+{
+"id": "P0502-0030",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เกลี้ยกล่อมยากามิ เรื่องชื่อเสียงอาจารย์"
+},
+{
+"id": "P0502-0031",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เกลี้ยกล่อมยากามิ เรื่องชื่อเสียงอาจารย์"
+},
+{
+"id": "P0502-0032",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เกลี้ยกล่อมยากามิ เรื่องชื่อเสียงอาจารย์"
+},
+{
+"id": "P0502-0033",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เกลี้ยกล่อมยากามิ เรื่องชื่อเสียงอาจารย์"
+},
+{
+"id": "P0502-0034",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เกลี้ยกล่อมยากามิ เรื่องชื่อเสียงอาจารย์"
+},
+{
+"id": "P0502-0035",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เกลี้ยกล่อมยากามิ เรื่องชื่อเสียงอาจารย์"
+},
+{
+"id": "P0502-0037",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สัญญากับลูกความ ตอบชินทานิ"
+},
+{
+"id": "P0502-0038",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สัญญากับลูกความ ตอบชินทานิ"
+},
+{
+"id": "P0502-0039",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สัญญากับลูกความ ตอบชินทานิ"
+},
+{
+"id": "P0502-0040",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สัญญากับลูกความ ตอบชินทานิ"
+},
+{
+"id": "P0502-0041",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สัญญากับลูกความ ตอบชินทานิ"
+},
+{
+"id": "P0502-0042",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สัญญากับลูกความ ตอบชินทานิ"
+},
+{
+"id": "P0502-0043",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สัญญากับลูกความ ตอบชินทานิ"
+},
+{
+"id": "P0502-0046",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิว่ายังดูห้องอยู่"
+},
+{
+"id": "P0502-0047",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิว่ายังดูห้องอยู่"
+},
+{
+"id": "P0502-0049",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "ถามเรื่องโทษ ต่อจากบรรทัดเอมิ"
+},
+{
+"id": "P0502-0050",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "ถามเรื่องโทษ ต่อจากบรรทัดเอมิ"
+},
+{
+"id": "P0502-0051",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "ถามเรื่องโทษ ต่อจากบรรทัดเอมิ"
+},
+{
+"id": "P0502-0053",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "แทร็กอื่นของบรรทัดเอมิ"
+},
+{
+"id": "P0502-0055",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "low",
+"why": "ตอบยากามิ สั้น ๆ"
+},
+{
+"id": "P0502-0056",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "เล่าเรื่องวาคุ พยาบาลหอผู้ป่วย"
+},
+{
+"id": "P0502-0057",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "เล่าเรื่องวาคุ พยาบาลหอผู้ป่วย"
+},
+{
+"id": "P0502-0058",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "เล่าเรื่องวาคุ พยาบาลหอผู้ป่วย"
+},
+{
+"id": "P0502-0059",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "เล่าเรื่องวาคุ พยาบาลหอผู้ป่วย"
+},
+{
+"id": "P0502-0062",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0063",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0064",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0065",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0066",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0067",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0068",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0069",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0070",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0071",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0072",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0073",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0074",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0075",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0076",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0077",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0078",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0079",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0080",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0081",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0082",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0083",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิเรื่องโทษ/คดี ผมครับ"
+},
+{
+"id": "P0502-0086",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0087",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0088",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0089",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0090",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0091",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0092",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0093",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0094",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0095",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0096",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0097",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0098",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0099",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0100",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0101",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0102",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0103",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0104",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0105",
+"speaker": "Okubo",
+"gender": "male",
+"conf": "high",
+"why": "ลูกความ ปฏิเสธ ขอให้เชื่อ"
+},
+{
+"id": "P0502-0108",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เล่นบทอัยการซักโอคุโบะ แล้วเล่าให้ยากามิ"
+},
+{
+"id": "P0502-0109",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เล่นบทอัยการซักโอคุโบะ แล้วเล่าให้ยากามิ"
+},
+{
+"id": "P0502-0110",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เล่นบทอัยการซักโอคุโบะ แล้วเล่าให้ยากามิ"
+},
+{
+"id": "P0502-0111",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เล่นบทอัยการซักโอคุโบะ แล้วเล่าให้ยากามิ"
+},
+{
+"id": "P0502-0112",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เล่นบทอัยการซักโอคุโบะ แล้วเล่าให้ยากามิ"
+},
+{
+"id": "P0502-0113",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เล่นบทอัยการซักโอคุโบะ แล้วเล่าให้ยากามิ"
+},
+{
+"id": "P0502-0114",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เล่นบทอัยการซักโอคุโบะ แล้วเล่าให้ยากามิ"
+},
+{
+"id": "P0502-0115",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "เล่นบทอัยการซักโอคุโบะ แล้วเล่าให้ยากามิ"
+},
+{
+"id": "P0502-0116",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบโต้ชินทานิ สั้น ๆ"
+},
+{
+"id": "P0502-0117",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบโต้ชินทานิ สั้น ๆ"
+},
+{
+"id": "P0502-0118",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายอาการสมองเสื่อม ถามโอคุโบะ"
+},
+{
+"id": "P0502-0119",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายอาการสมองเสื่อม ถามโอคุโบะ"
+},
+{
+"id": "P0502-0120",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายอาการสมองเสื่อม ถามโอคุโบะ"
+},
+{
+"id": "P0502-0121",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายอาการสมองเสื่อม ถามโอคุโบะ"
+},
+{
+"id": "P0502-0122",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายอาการสมองเสื่อม ถามโอคุโบะ"
+},
+{
+"id": "P0502-0123",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายอาการสมองเสื่อม ถามโอคุโบะ"
+},
+{
+"id": "P0502-0124",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายอาการสมองเสื่อม ถามโอคุโบะ"
+},
+{
+"id": "P0502-0125",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายอาการสมองเสื่อม ถามโอคุโบะ"
+},
+{
+"id": "P0502-0126",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโอคุโบะ หยอกยากามิ"
+},
+{
+"id": "P0502-0127",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโอคุโบะ หยอกยากามิ"
+},
+{
+"id": "P0502-0128",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโอคุโบะ หยอกยากามิ"
+},
+{
+"id": "P0502-0129",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโอคุโบะ หยอกยากามิ"
+},
+{
+"id": "P0502-0130",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโอคุโบะ หยอกยากามิ"
+},
+{
+"id": "P0502-0131",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโอคุโบะ หยอกยากามิ"
+},
+{
+"id": "P0502-0132",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโอคุโบะ หยอกยากามิ"
+},
+{
+"id": "P0502-0133",
+"speaker": "Shintani",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโอคุโบะ หยอกยากามิ"
+},
+{
+"id": "P0502-0135",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0136",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0137",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0138",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0139",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0140",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0141",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0142",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0143",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0144",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0145",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไล่เส้นเวลาวันเกิดเหตุกับโอคุโบะ"
+},
+{
+"id": "P0502-0146",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ชินทานิ เรียกนาย"
+},
+{
+"id": "P0502-0147",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ชินทานิ เรียกนาย"
+},
+{
+"id": "P0502-0148",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ชินทานิ เรียกนาย"
+},
+{
+"id": "P0502-0149",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ชินทานิ เรียกนาย"
+},
+{
+"id": "P0502-0150",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0151",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0152",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0153",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0154",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0155",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0156",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0157",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0158",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักโอคุโบะ แล้วคุยเรื่องเทราซาวะ"
+},
+{
+"id": "P0502-0161",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากบรรทัดเก็นดะ ตอบยากามิ"
+},
+{
+"id": "P0502-0162",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากบรรทัดเก็นดะ ตอบยากามิ"
+},
+{
+"id": "P0502-0163",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากบรรทัดเก็นดะ ตอบยากามิ"
+},
+{
+"id": "P0502-0164",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากบรรทัดเก็นดะ ตอบยากามิ"
+},
+{
+"id": "P0502-0168",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะเรื่องซาโอริ"
+},
+{
+"id": "P0502-0169",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะเรื่องซาโอริ"
+},
+{
+"id": "P0502-0170",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะเรื่องซาโอริ"
+},
+{
+"id": "P0502-0171",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะเรื่องซาโอริ"
+},
+{
+"id": "P0502-0172",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0173",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0174",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0175",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0176",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0177",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0178",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0179",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0180",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0181",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามถึงมาฟุยุ เพื่อนหญิงยากามิ"
+},
+{
+"id": "P0502-0182",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบ ซาโอริ/เก็นดะ ว่ายังไม่เป็นทางการ"
+},
+{
+"id": "P0502-0183",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบ ซาโอริ/เก็นดะ ว่ายังไม่เป็นทางการ"
+},
+{
+"id": "P0502-0184",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบ ซาโอริ/เก็นดะ ว่ายังไม่เป็นทางการ"
+},
+{
+"id": "P0502-0185",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบ ซาโอริ/เก็นดะ ว่ายังไม่เป็นทางการ"
+},
+{
+"id": "P0502-0186",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบ ซาโอริ/เก็นดะ ว่ายังไม่เป็นทางการ"
+},
+{
+"id": "P0502-0187",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบ ซาโอริ/เก็นดะ ว่ายังไม่เป็นทางการ"
+},
+{
+"id": "P0502-0188",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบ ซาโอริ/เก็นดะ ว่ายังไม่เป็นทางการ"
+},
+{
+"id": "P0502-0189",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบ ซาโอริ/เก็นดะ ว่ายังไม่เป็นทางการ"
+},
+{
+"id": "P0502-0192",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0193",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0194",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0195",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0196",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0197",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0198",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0199",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0200",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0201",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ต่อบรรทัดเก็นดะ ซักแผนยากามิ"
+},
+{
+"id": "P0502-0202",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเก็นดะเรื่องโอคุโบะยอมรับ"
+},
+{
+"id": "P0502-0203",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเก็นดะเรื่องโอคุโบะยอมรับ"
+},
+{
+"id": "P0502-0204",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ท้วงว่าต้องมีหลักฐาน"
+},
+{
+"id": "P0502-0205",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ท้วงว่าต้องมีหลักฐาน"
+},
+{
+"id": "P0502-0206",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาหลักฐานพยานที่อยู่"
+},
+{
+"id": "P0502-0207",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาหลักฐานพยานที่อยู่"
+},
+{
+"id": "P0502-0208",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาหลักฐานพยานที่อยู่"
+},
+{
+"id": "P0502-0209",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0210",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0211",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0212",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0213",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0214",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0215",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0216",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0217",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0218",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านต่อ ไล่ข้อกล่าวหา"
+},
+{
+"id": "P0502-0219",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาหลักฐานอื่นจากรถ"
+},
+{
+"id": "P0502-0220",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาหลักฐานอื่นจากรถ"
+},
+{
+"id": "P0502-0221",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามหาหลักฐานอื่นจากรถ"
+},
+{
+"id": "P0502-0222",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่ายากามิจะสื่ออะไร เห็นชินทานิ"
+},
+{
+"id": "P0502-0223",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่ายากามิจะสื่ออะไร เห็นชินทานิ"
+},
+{
+"id": "P0502-0224",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่ายากามิจะสื่ออะไร เห็นชินทานิ"
+},
+{
+"id": "P0502-0225",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่ายากามิจะสื่ออะไร เห็นชินทานิ"
+},
+{
+"id": "P0502-0226",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่ายากามิจะสื่ออะไร เห็นชินทานิ"
+},
+{
+"id": "P0502-0227",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่ายากามิจะสื่ออะไร เห็นชินทานิ"
+},
+{
+"id": "P0502-0230",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตะโกนไล่ตามชินทานิ"
+},
+{
+"id": "P0502-0231",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกอาจารย์ รายงานเก็นดะ"
+},
+{
+"id": "P0502-0232",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกอาจารย์ รายงานเก็นดะ"
+},
+{
+"id": "P0502-0233",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกอาจารย์ รายงานเก็นดะ"
+},
+{
+"id": "P0502-0236",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบเก็นดะ สั้น ๆ"
+},
+{
+"id": "P0502-0237",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0238",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0239",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0240",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0241",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0242",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0243",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0244",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0245",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0246",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0247",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0248",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0249",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0250",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0251",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0252",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0253",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0254",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0255",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0256",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0257",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0258",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0259",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0260",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0261",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0262",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0263",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0264",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0265",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0266",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0267",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0268",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0269",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0270",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0271",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0272",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0273",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0274",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0275",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0276",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0277",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0278",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0279",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0280",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0281",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0282",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0283",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0284",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0285",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0286",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0287",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0288",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0289",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0290",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0291",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0292",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายหลักฐานห้องพักวาคุ ผมครับ"
+},
+{
+"id": "P0502-0295",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "ถูกลวนลาม ร้องช่วย"
+},
+{
+"id": "P0502-0296",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "ถูกลวนลาม ร้องช่วย"
+},
+{
+"id": "P0502-0299",
+"speaker": "justice_chinpira",
+"gender": "male",
+"conf": "high",
+"why": "ตะโกนต่อว่าคนลวนลาม"
+},
+{
+"id": "P0502-0300",
+"speaker": "justice_chinpira",
+"gender": "male",
+"conf": "med",
+"why": "ตะโกนต่อว่า ต่อเนื่องบรรทัดชินปิระ"
+},
+{
+"id": "P0502-0302",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เจอเอมิ หลังเสียงผู้หญิง"
+},
+{
+"id": "P0502-0303",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เจอเอมิ หลังเสียงผู้หญิง"
+},
+{
+"id": "P0502-0304",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เจอเอมิ หลังเสียงผู้หญิง"
+},
+{
+"id": "P0502-0308",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0309",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0310",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0311",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0312",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0313",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0314",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0315",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0316",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0317",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0318",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0319",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0320",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0321",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0322",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0323",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0324",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0325",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0326",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0327",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0328",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0329",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0330",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0331",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0332",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "high",
+"why": "เล่าเรื่องโชโนะและพยาบาล ค่ะ ญ"
+},
+{
+"id": "P0502-0335",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0336",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0337",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0338",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0339",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0340",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0341",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0342",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0343",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0344",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0345",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0346",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0347",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0348",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0349",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0350",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0351",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0352",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0353",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0354",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเอมิ สัญญาเก็บความลับ"
+},
+{
+"id": "P0502-0355",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "วิจารณ์คำให้การโชโนะ ค่ะ ญ"
+},
+{
+"id": "P0502-0356",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "วิจารณ์คำให้การโชโนะ ค่ะ ญ"
+},
+{
+"id": "P0502-0357",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "low",
+"why": "พยานของเรา ฝั่งอัยการ"
+},
+{
+"id": "P0502-0358",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0359",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0360",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0361",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0362",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0363",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0364",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0365",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0366",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0367",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0368",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0369",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0370",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0371",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0372",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0373",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0374",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0375",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0376",
+"speaker": "Emi Terasawa",
+"gender": "female",
+"conf": "med",
+"why": "อธิบายวิธีตรวจห้องผู้ป่วย พยาบาล"
+},
+{
+"id": "P0502-0378",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "low",
+"why": "ต่อจากคำถามอิซุมิดะ"
+},
+{
+"id": "P0502-0379",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0380",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0381",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0382",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0383",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0384",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0385",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0386",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0387",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0388",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0389",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการซักโชโนะ จบด้วยไม่มีคำถาม"
+},
+{
+"id": "P0502-0390",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0391",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0392",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0393",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0394",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0395",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0396",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0397",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0398",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0399",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0400",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0401",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0402",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0403",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0404",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0405",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0406",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0407",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0408",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0409",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ยากามิ ถามหลักฐาน"
+},
+{
+"id": "P0502-0412",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "low",
+"why": "พยานตอบคำถาม สั้น ๆ"
+},
+{
+"id": "P0502-0413",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "low",
+"why": "พยานตอบคำถาม สั้น ๆ"
+},
+{
+"id": "P0502-0416",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0417",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0418",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0419",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0420",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0421",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0422",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0423",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0424",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0425",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0426",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0427",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0428",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0429",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0430",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0431",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0432",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0433",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0434",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0435",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานให้การเรื่องเดินตรวจตอนเช้า"
+},
+{
+"id": "P0502-0436",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0437",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0438",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0439",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0440",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0441",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0442",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0443",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0444",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0445",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0446",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0447",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0448",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0449",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าเอมิขอให้การ ซักถามเธอ"
+},
+{
+"id": "P0502-0450",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0451",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0452",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0453",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0454",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0455",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0456",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0457",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0458",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0459",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0460",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0461",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0462",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0463",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0464",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0465",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0466",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0467",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0468",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0469",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0470",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0471",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอหลักฐานในศาล ผมครับ"
+},
+{
+"id": "P0502-0472",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการอึกอักหลังยากามิสรุป"
+},
+{
+"id": "P0502-0473",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการอึกอักหลังยากามิสรุป"
+},
+{
+"id": "P0502-0474",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0475",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0476",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0477",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0478",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0479",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0480",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0481",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0482",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0483",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0484",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0485",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0486",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0487",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0488",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0489",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0490",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0491",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เริ่มใหม่ ชี้โชโนะเป็นฆาตกร"
+},
+{
+"id": "P0502-0492",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0493",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0494",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0495",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0496",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0497",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0498",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0499",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0500",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0501",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0502",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0503",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0504",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0505",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0506",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0507",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0508",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0509",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0510",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0511",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0512",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0513",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักเอมิ สรุปกรอบเวลา ขอเรียกโชโนะ"
+},
+{
+"id": "P0502-0516",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0517",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0518",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0519",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0520",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0521",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0522",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0523",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0524",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0525",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0526",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0527",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0528",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0529",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0530",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0531",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0532",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0533",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0534",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0535",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0536",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0537",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0538",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0539",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0540",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0541",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0542",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0543",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการโต้ ยกย่องโชโนะ ขุดประวัติ"
+},
+{
+"id": "P0502-0545",
+"speaker": "Saibancho",
+"gender": "male",
+"conf": "med",
+"why": "ผู้พิพากษารับคำคัดค้าน เตือนให้นั่ง"
+},
+{
+"id": "P0502-0546",
+"speaker": "Saibancho",
+"gender": "male",
+"conf": "med",
+"why": "ผู้พิพากษารับคำคัดค้าน เตือนให้นั่ง"
+},
+{
+"id": "P0502-0547",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานตอบตะกุกตะกัก ผมครับ"
+},
+{
+"id": "P0502-0548",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานตอบตะกุกตะกัก ผมครับ"
+},
+{
+"id": "P0502-0549",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานตอบตะกุกตะกัก ผมครับ"
+},
+{
+"id": "P0502-0550",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานตอบตะกุกตะกัก ผมครับ"
+},
+{
+"id": "P0502-0551",
+"speaker": "Shouno",
+"gender": "male",
+"conf": "med",
+"why": "พยานตอบตะกุกตะกัก ผมครับ"
+},
+{
+"id": "P0502-0553",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0554",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0555",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0556",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0557",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0558",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0559",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0560",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0561",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0562",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0563",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0564",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0565",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0566",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0567",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0568",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0569",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0570",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0571",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0572",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0573",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0574",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0575",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0576",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0577",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0578",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0579",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0580",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0581",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0582",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0583",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0584",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0585",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0586",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0587",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0588",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0589",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0590",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0591",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0592",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ซักค้านโชโนะ กล่าวปิดต่ออัยการ"
+},
+{
+"id": "P0502-0593",
+"speaker": "Kido",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรองปลัด ทักยากามิ ผู้อำนวยการ"
+},
+{
+"id": "P0502-0594",
+"speaker": "Kido",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรองปลัด ทักยากามิ ผู้อำนวยการ"
+},
+{
+"id": "P0502-0595",
+"speaker": "Kido",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรองปลัด ทักยากามิ ผู้อำนวยการ"
+},
+{
+"id": "P0502-0596",
+"speaker": "Kido",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรองปลัด ทักยากามิ ผู้อำนวยการ"
+},
+{
+"id": "P0502-0597",
+"speaker": "Kido",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรองปลัด ทักยากามิ ผู้อำนวยการ"
+},
+{
+"id": "P0502-0598",
+"speaker": "Kido",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรองปลัด ทักยากามิ ผู้อำนวยการ"
+},
+{
+"id": "P0502-0599",
+"speaker": "Kido",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรองปลัด ทักยากามิ ผู้อำนวยการ"
+},
+{
+"id": "P0502-0600",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการถามธุระยากามิ"
+},
+{
+"id": "P0502-0601",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการถามธุระยากามิ"
+},
+{
+"id": "P0502-0603",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0604",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0605",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0606",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0607",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0608",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0609",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0610",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0611",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0612",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0613",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ทักคิโดะ แนะนำตัวเป็นนักสืบ"
+},
+{
+"id": "P0502-0616",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0617",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0618",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0619",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0620",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0621",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0622",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0623",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0624",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0625",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0626",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0627",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0628",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0629",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0630",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0631",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0632",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0633",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ผู้อำนวยการตอบเรื่องสายชินทานิ"
+},
+{
+"id": "P0502-0638",
+"speaker": "Kuroiwa",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำตัวเป็นตำรวจ ขอคุยยากามิ"
+},
+{
+"id": "P0502-0639",
+"speaker": "Kuroiwa",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำตัวเป็นตำรวจ ขอคุยยากามิ"
+},
+{
+"id": "P0502-0640",
+"speaker": "Kuroiwa",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำตัวเป็นตำรวจ ขอคุยยากามิ"
+},
+{
+"id": "P0502-0641",
+"speaker": "Kuroiwa",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำตัวเป็นตำรวจ ขอคุยยากามิ"
+},
+{
+"id": "P0502-0642",
+"speaker": "Kuroiwa",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำตัวเป็นตำรวจ ขอคุยยากามิ"
+},
+{
+"id": "P0502-0643",
+"speaker": "Kuroiwa",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำตัวเป็นตำรวจ ขอคุยยากามิ"
+},
+{
+"id": "P0502-0645",
+"speaker": "Kuroiwa",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่าโชโนะคนเดียวกับที่เพิ่งคุย"
+},
+{
+"id": "P0502-0646",
+"speaker": "Kuroiwa",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่าโชโนะคนเดียวกับที่เพิ่งคุย"
+},
+{
+"id": "P0502-0647",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0648",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0649",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0650",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0651",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0652",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0653",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0654",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0655",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0656",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0657",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0658",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+},
+{
+"id": "P0502-0659",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามคิโดะเรื่องสายและคดีตัวตุ่น"
+}
+]

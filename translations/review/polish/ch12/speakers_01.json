@@ -1,0 +1,4692 @@
+[
+{
+"id": "P1201-0001",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่อง"
+},
+{
+"id": "P1201-0002",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่อง"
+},
+{
+"id": "P1201-0003",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่อง"
+},
+{
+"id": "P1201-0004",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่อง"
+},
+{
+"id": "P1201-0005",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่อง"
+},
+{
+"id": "P1201-0006",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่อง"
+},
+{
+"id": "P1201-0007",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่อง"
+},
+{
+"id": "P1201-0291",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0292",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0293",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0315",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0316",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0319",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0320",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0321",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0322",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0333",
+"speaker": "Shimazu",
+"gender": "male",
+"conf": "low",
+"why": "ตามป้าย Shimazu ช"
+},
+{
+"id": "P1201-0340",
+"speaker": "Thug (unnamed)",
+"gender": "male",
+"conf": "med",
+"why": "คนร้ายจับเวลาเยาะเย้ย"
+},
+{
+"id": "P1201-0341",
+"speaker": "Thug (unnamed)",
+"gender": "male",
+"conf": "med",
+"why": "คนร้ายจับเวลาเยาะเย้ย"
+},
+{
+"id": "P1201-0342",
+"speaker": "Thug (unnamed)",
+"gender": "male",
+"conf": "med",
+"why": "คนร้ายจับเวลาเยาะเย้ย"
+},
+{
+"id": "P1201-0343",
+"speaker": "Thug (unnamed)",
+"gender": "male",
+"conf": "med",
+"why": "คนร้ายจับเวลาเยาะเย้ย"
+},
+{
+"id": "P1201-0344",
+"speaker": "Thug (unnamed)",
+"gender": "male",
+"conf": "med",
+"why": "คนร้ายจับเวลาเยาะเย้ย"
+},
+{
+"id": "P1201-0345",
+"speaker": "Thug (unnamed)",
+"gender": "male",
+"conf": "med",
+"why": "คนร้ายจับเวลาเยาะเย้ย"
+},
+{
+"id": "P1201-0347",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากซุกิอุระบรรทัดก่อน"
+},
+{
+"id": "P1201-0348",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากซุกิอุระบรรทัดก่อน"
+},
+{
+"id": "P1201-0349",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากซุกิอุระบรรทัดก่อน"
+},
+{
+"id": "P1201-0350",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากซุกิอุระบรรทัดก่อน"
+},
+{
+"id": "P1201-0352",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบคำเตือนซุกิอุระ"
+},
+{
+"id": "P1201-0353",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ขอบคุณ/เรียกยากามิซัง"
+},
+{
+"id": "P1201-0354",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ขอบคุณ/เรียกยากามิซัง"
+},
+{
+"id": "P1201-0355",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ขอบคุณ/เรียกยากามิซัง"
+},
+{
+"id": "P1201-0356",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ขอบคุณ/เรียกยากามิซัง"
+},
+{
+"id": "P1201-0358",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผู้เหยียบแอ่งน้ำ ไม่ชัด"
+},
+{
+"id": "P1201-0359",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผู้เหยียบแอ่งน้ำ ไม่ชัด"
+},
+{
+"id": "P1201-0360",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผู้เหยียบแอ่งน้ำ ไม่ชัด"
+},
+{
+"id": "P1201-0361",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผู้เหยียบแอ่งน้ำ ไม่ชัด"
+},
+{
+"id": "P1201-0362",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผู้เหยียบแอ่งน้ำ ไม่ชัด"
+},
+{
+"id": "P1201-0363",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผู้เหยียบแอ่งน้ำ ไม่ชัด"
+},
+{
+"id": "P1201-0364",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ/เรียกซุกิอุระ"
+},
+{
+"id": "P1201-0365",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ/เรียกซุกิอุระ"
+},
+{
+"id": "P1201-0366",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ/เรียกซุกิอุระ"
+},
+{
+"id": "P1201-0367",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ/เรียกซุกิอุระ"
+},
+{
+"id": "P1201-0368",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ/เรียกซุกิอุระ"
+},
+{
+"id": "P1201-0369",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ/เรียกซุกิอุระ"
+},
+{
+"id": "P1201-0370",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ/เรียกซุกิอุระ"
+},
+{
+"id": "P1201-0371",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบขอบคุณของซุกิอุระ"
+},
+{
+"id": "P1201-0372",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบขอบคุณของซุกิอุระ"
+},
+{
+"id": "P1201-0373",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ฉากต่อสู้ ไม่ชัด"
+},
+{
+"id": "P1201-0374",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ฉากต่อสู้ ไม่ชัด"
+},
+{
+"id": "P1201-0375",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ฉากต่อสู้ ไม่ชัด"
+},
+{
+"id": "P1201-0376",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ฉากต่อสู้ ไม่ชัด"
+},
+{
+"id": "P1201-0377",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ฉากต่อสู้ ไม่ชัด"
+},
+{
+"id": "P1201-0380",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ทนายจำเลยพูดต่อ"
+},
+{
+"id": "P1201-0381",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ทนายจำเลยพูดต่อ"
+},
+{
+"id": "P1201-0384",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการอ้างหลักฐานกระสุน"
+},
+{
+"id": "P1201-0385",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการอ้างหลักฐานกระสุน"
+},
+{
+"id": "P1201-0386",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการอ้างหลักฐานกระสุน"
+},
+{
+"id": "P1201-0387",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการอ้างหลักฐานกระสุน"
+},
+{
+"id": "P1201-0388",
+"speaker": "Izumida",
+"gender": "male",
+"conf": "med",
+"why": "อัยการอ้างหลักฐานกระสุน"
+},
+{
+"id": "P1201-0391",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อดีตทนายอธิบายขั้นตอนศาล"
+},
+{
+"id": "P1201-0392",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อดีตทนายอธิบายขั้นตอนศาล"
+},
+{
+"id": "P1201-0393",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อดีตทนายอธิบายขั้นตอนศาล"
+},
+{
+"id": "P1201-0394",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อดีตทนายอธิบายขั้นตอนศาล"
+},
+{
+"id": "P1201-0395",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อดีตทนายอธิบายขั้นตอนศาล"
+},
+{
+"id": "P1201-0396",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อดีตทนายอธิบายขั้นตอนศาล"
+},
+{
+"id": "P1201-0397",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อดีตทนายอธิบายขั้นตอนศาล"
+},
+{
+"id": "P1201-0398",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อดีตทนายอธิบายขั้นตอนศาล"
+},
+{
+"id": "P1201-0401",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "รับข้อมูลคุโรอิวะ"
+},
+{
+"id": "P1201-0402",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "รับข้อมูลคุโรอิวะ"
+},
+{
+"id": "P1201-0403",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "รับข้อมูลคุโรอิวะ"
+},
+{
+"id": "P1201-0404",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "รับข้อมูลคุโรอิวะ"
+},
+{
+"id": "P1201-0405",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0406",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0407",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0408",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0409",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0410",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0411",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0412",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0413",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0414",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0415",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0416",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0417",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0418",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0419",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0420",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0421",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0422",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0423",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0424",
+"speaker": "Ayabe",
+"gender": "male",
+"conf": "low",
+"why": "ตำรวจเล่าเรื่องวงใน"
+},
+{
+"id": "P1201-0427",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "low",
+"why": "ถามต่อจากเรื่องเล่า"
+},
+{
+"id": "P1201-0428",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "low",
+"why": "ถามต่อจากเรื่องเล่า"
+},
+{
+"id": "P1201-0430",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ผู้ฟัง ไม่ชัด"
+},
+{
+"id": "P1201-0431",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ผู้ฟัง ไม่ชัด"
+},
+{
+"id": "P1201-0432",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "อุทานตามเรื่องเล่า"
+},
+{
+"id": "P1201-0433",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ลงท้ายครับ เรียกยากามิซัง"
+},
+{
+"id": "P1201-0435",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ลงท้ายครับ เรียกยากามิซัง"
+},
+{
+"id": "P1201-0436",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ลงท้ายครับ เรียกยากามิซัง"
+},
+{
+"id": "P1201-0439",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ปิดวัน ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0440",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ปิดวัน ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0443",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0444",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0445",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0446",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0447",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0448",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0449",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0450",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0451",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0452",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0453",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0455",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "อีกแทร็กของไคโตะ 0454"
+},
+{
+"id": "P1201-0456",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0457",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0458",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0459",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0460",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0461",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0462",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0463",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0464",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0465",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0466",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0467",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0468",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0469",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0470",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0471",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0472",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0473",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0474",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0475",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0476",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0477",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0478",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0479",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0480",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0481",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0482",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0483",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0484",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าวส่งสารคาจิฮิระ"
+},
+{
+"id": "P1201-0486",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "ยากามิเรียกฮัตโตริก่อนหน้า"
+},
+{
+"id": "P1201-0487",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามฮัตโตริหลังทัก"
+},
+{
+"id": "P1201-0488",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามฮัตโตริหลังทัก"
+},
+{
+"id": "P1201-0489",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามฮัตโตริหลังทัก"
+},
+{
+"id": "P1201-0490",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามฮัตโตริหลังทัก"
+},
+{
+"id": "P1201-0491",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปเหยื่อ AD-9"
+},
+{
+"id": "P1201-0492",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปเหยื่อ AD-9"
+},
+{
+"id": "P1201-0493",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปเหยื่อ AD-9"
+},
+{
+"id": "P1201-0494",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปเหยื่อ AD-9"
+},
+{
+"id": "P1201-0495",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "low",
+"why": "ตอบยากามิ"
+},
+{
+"id": "P1201-0496",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "low",
+"why": "ตอบยากามิ"
+},
+{
+"id": "P1201-0497",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามกลับ"
+},
+{
+"id": "P1201-0498",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "low",
+"why": "ตอบยากามิ"
+},
+{
+"id": "P1201-0499",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ทวนชื่อร้าน"
+},
+{
+"id": "P1201-0502",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ไคโตะชงกาแฟ ชวนดื่ม"
+},
+{
+"id": "P1201-0503",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ไคโตะชงกาแฟ ชวนดื่ม"
+},
+{
+"id": "P1201-0504",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามถึงนักข่าว"
+},
+{
+"id": "P1201-0505",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0506",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0507",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0508",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0509",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0510",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0511",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0512",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0513",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0514",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0515",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0516",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0517",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0518",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0519",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0520",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0521",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แค้นมัตสึกาเนะ ห้วน ๆ"
+},
+{
+"id": "P1201-0524",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บอกฮัตโตริแวะมา"
+},
+{
+"id": "P1201-0525",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บอกฮัตโตริแวะมา"
+},
+{
+"id": "P1201-0526",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บอกฮัตโตริแวะมา"
+},
+{
+"id": "P1201-0527",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บอกฮัตโตริแวะมา"
+},
+{
+"id": "P1201-0531",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ต่อบทสนทนา"
+},
+{
+"id": "P1201-0532",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ต่อบทสนทนา"
+},
+{
+"id": "P1201-0533",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามไคโตะกลับ"
+},
+{
+"id": "P1201-0534",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามไคโตะกลับ"
+},
+{
+"id": "P1201-0535",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ตอบ Damn right"
+},
+{
+"id": "P1201-0536",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ตอบ Damn right"
+},
+{
+"id": "P1201-0538",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0539",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0540",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0541",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0542",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0543",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0544",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0545",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0546",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0547",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0548",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0549",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0550",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0551",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0552",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0553",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0554",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0555",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0556",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0557",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0558",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0559",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0560",
+"speaker": "Hattori",
+"gender": "male",
+"conf": "med",
+"why": "นักข่าว แนะล่อคิโดะ"
+},
+{
+"id": "P1201-0563",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักฮัตโตริห้วน ๆ"
+},
+{
+"id": "P1201-0564",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักฮัตโตริห้วน ๆ"
+},
+{
+"id": "P1201-0565",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักฮัตโตริห้วน ๆ"
+},
+{
+"id": "P1201-0566",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักฮัตโตริห้วน ๆ"
+},
+{
+"id": "P1201-0567",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักฮัตโตริห้วน ๆ"
+},
+{
+"id": "P1201-0568",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักฮัตโตริห้วน ๆ"
+},
+{
+"id": "P1201-0569",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักฮัตโตริห้วน ๆ"
+},
+{
+"id": "P1201-0570",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักฮัตโตริห้วน ๆ"
+},
+{
+"id": "P1201-0573",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0574",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0575",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0576",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0577",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0578",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0579",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0580",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0581",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0582",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0583",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0584",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0585",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0586",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0587",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0588",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0589",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0590",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0591",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0592",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0593",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0594",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0595",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0596",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0597",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0598",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0599",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0600",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0601",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0602",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0603",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0604",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0605",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0606",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0607",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0608",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0609",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0610",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0611",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0612",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0613",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0614",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0615",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0616",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0617",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0618",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0619",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0620",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0621",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0622",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0623",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0624",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0625",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0626",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0627",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0628",
+"speaker": "Kajihira",
+"gender": "male",
+"conf": "med",
+"why": "ประธานคาจิฮิระต้อนรับ"
+},
+{
+"id": "P1201-0631",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0632",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0633",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0634",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0635",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0636",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0637",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0638",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0639",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0640",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0641",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0642",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0643",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0644",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0645",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0646",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0647",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0648",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0649",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0650",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0651",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0652",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0653",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0654",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0655",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0656",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0657",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0658",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0659",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0660",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0661",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0662",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0663",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "คุยกับคาจิฮิระ/ประเมินแผน"
+},
+{
+"id": "P1201-0666",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "วางแผนดึงคิโดะ"
+},
+{
+"id": "P1201-0667",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "วางแผนดึงคิโดะ"
+},
+{
+"id": "P1201-0668",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ไคโตะพูดต่อ/ลากลับ"
+},
+{
+"id": "P1201-0669",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ไคโตะพูดต่อ/ลากลับ"
+},
+{
+"id": "P1201-0670",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ไคโตะพูดต่อ/ลากลับ"
+},
+{
+"id": "P1201-0671",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ไคโตะพูดต่อ/ลากลับ"
+},
+{
+"id": "P1201-0674",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำแนะนำฮัตโตริ"
+},
+{
+"id": "P1201-0675",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำแนะนำฮัตโตริ"
+},
+{
+"id": "P1201-0676",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำแนะนำฮัตโตริ"
+},
+{
+"id": "P1201-0677",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำแนะนำฮัตโตริ"
+},
+{
+"id": "P1201-0678",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำแนะนำฮัตโตริ"
+},
+{
+"id": "P1201-0679",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สรุปคำแนะนำฮัตโตริ"
+},
+{
+"id": "P1201-0682",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ไม่ชัด"
+},
+{
+"id": "P1201-0683",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถูกขอเรื่องกับดักน้ำผึ้ง"
+},
+{
+"id": "P1201-0684",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถูกขอเรื่องกับดักน้ำผึ้ง"
+},
+{
+"id": "P1201-0685",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถูกขอเรื่องกับดักน้ำผึ้ง"
+},
+{
+"id": "P1201-0686",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถูกขอเรื่องกับดักน้ำผึ้ง"
+},
+{
+"id": "P1201-0687",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถูกขอเรื่องกับดักน้ำผึ้ง"
+},
+{
+"id": "P1201-0688",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถูกขอเรื่องกับดักน้ำผึ้ง"
+},
+{
+"id": "P1201-0691",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้ซาโอริวางกับดัก"
+},
+{
+"id": "P1201-0692",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้ซาโอริวางกับดัก"
+},
+{
+"id": "P1201-0693",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้ซาโอริวางกับดัก"
+},
+{
+"id": "P1201-0694",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้ซาโอริวางกับดัก"
+},
+{
+"id": "P1201-0695",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้ซาโอริวางกับดัก"
+},
+{
+"id": "P1201-0696",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้ซาโอริวางกับดัก"
+},
+{
+"id": "P1201-0697",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอให้ซาโอริวางกับดัก"
+},
+{
+"id": "P1201-0700",
+"speaker": "Genda",
+"gender": "male",
+"conf": "low",
+"why": "เรียกซาโอริคุง/ยากามิ"
+},
+{
+"id": "P1201-0701",
+"speaker": "Genda",
+"gender": "male",
+"conf": "low",
+"why": "เรียกซาโอริคุง/ยากามิ"
+},
+{
+"id": "P1201-0702",
+"speaker": "Genda",
+"gender": "male",
+"conf": "low",
+"why": "เรียกซาโอริคุง/ยากามิ"
+},
+{
+"id": "P1201-0703",
+"speaker": "Genda",
+"gender": "male",
+"conf": "low",
+"why": "เรียกซาโอริคุง/ยากามิ"
+},
+{
+"id": "P1201-0704",
+"speaker": "Genda",
+"gender": "male",
+"conf": "low",
+"why": "เรียกซาโอริคุง/ยากามิ"
+},
+{
+"id": "P1201-0705",
+"speaker": "Genda",
+"gender": "male",
+"conf": "low",
+"why": "เรียกซาโอริคุง/ยากามิ"
+},
+{
+"id": "P1201-0706",
+"speaker": "Genda",
+"gender": "male",
+"conf": "low",
+"why": "เรียกซาโอริคุง/ยากามิ"
+},
+{
+"id": "P1201-0709",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ค้านต่อเรื่องไปนอนกับ"
+},
+{
+"id": "P1201-0710",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ค้านต่อเรื่องไปนอนกับ"
+},
+{
+"id": "P1201-0711",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบโต้โฮชิโนะ"
+},
+{
+"id": "P1201-0712",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0713",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0714",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0715",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0716",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0717",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0718",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0719",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0720",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0721",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0722",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0723",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0724",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0725",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0726",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ห่วงซาโอริ ลงท้ายครับ"
+},
+{
+"id": "P1201-0727",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0728",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0729",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0730",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0731",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0732",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0733",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0734",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0736",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตอบรับแผน"
+},
+{
+"id": "P1201-0740",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ห้ามโฮชิโนะ"
+},
+{
+"id": "P1201-0741",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ห้ามโฮชิโนะ"
+},
+{
+"id": "P1201-0742",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ห้ามโฮชิโนะ"
+},
+{
+"id": "P1201-0743",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ห้ามโฮชิโนะ"
+},
+{
+"id": "P1201-0744",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ห้ามโฮชิโนะ"
+},
+{
+"id": "P1201-0745",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ห้ามโฮชิโนะ"
+},
+{
+"id": "P1201-0746",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ห้ามโฮชิโนะ"
+},
+{
+"id": "P1201-0747",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "low",
+"why": "ตอบยากามิ"
+},
+{
+"id": "P1201-0748",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "low",
+"why": "ตอบยากามิ"
+},
+{
+"id": "P1201-0749",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "บอกซาโอริว่ามีแผน"
+},
+{
+"id": "P1201-0750",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "บอกซาโอริว่ามีแผน"
+},
+{
+"id": "P1201-0751",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "บอกซาโอริว่ามีแผน"
+},
+{
+"id": "P1201-0752",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "บอกซาโอริว่ามีแผน"
+},
+{
+"id": "P1201-0753",
+"speaker": "Saori",
+"gender": "female",
+"conf": "low",
+"why": "ขอบคุณยากามิ"
+},
+{
+"id": "P1201-0754",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ย้อนโฮชิโนะ 'เรา'"
+},
+{
+"id": "P1201-0755",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ย้อนโฮชิโนะ 'เรา'"
+},
+{
+"id": "P1201-0756",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ย้อนโฮชิโนะ 'เรา'"
+},
+{
+"id": "P1201-0757",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ย้อนโฮชิโนะ 'เรา'"
+},
+{
+"id": "P1201-0758",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0759",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0760",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0761",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0762",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0763",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0764",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0765",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0766",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0767",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0768",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0769",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0770",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนนักข่าวให้ซาโอริ"
+},
+{
+"id": "P1201-0773",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0774",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0775",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0776",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0777",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0778",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0779",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0780",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0781",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0782",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0783",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0784",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ประหม่าเรื่องซาโอริ"
+},
+{
+"id": "P1201-0785",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ความคิด/ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0786",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ความคิด/ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0787",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ความคิด/ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0788",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ความคิด/ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0789",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ความคิด/ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0790",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ความคิด/ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0791",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ความคิด/ตอบโฮชิโนะ"
+},
+{
+"id": "P1201-0794",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0795",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0796",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0797",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0798",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0799",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0800",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0801",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0802",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0803",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ชมซาโอริ ห่วงคิโดะ"
+},
+{
+"id": "P1201-0806",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0807",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0808",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0809",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0810",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0811",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0812",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0813",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0814",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0815",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0816",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0817",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "พร้อมลุย/ขอบคุณโฮชิโนะ"
+},
+{
+"id": "P1201-0820",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ไม่ชัด"
+},
+{
+"id": "P1201-0821",
+"speaker": "center_uketsuke",
+"gender": "female",
+"conf": "high",
+"why": "ปฏิเสธไม่มีนัด"
+},
+{
+"id": "P1201-0822",
+"speaker": "center_uketsuke",
+"gender": "female",
+"conf": "high",
+"why": "ปฏิเสธไม่มีนัด"
+},
+{
+"id": "P1201-0823",
+"speaker": "center_uketsuke",
+"gender": "female",
+"conf": "high",
+"why": "ปฏิเสธไม่มีนัด"
+},
+{
+"id": "P1201-0824",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ตื๊อพนักงาน"
+},
+{
+"id": "P1201-0825",
+"speaker": "center_uketsuke",
+"gender": "female",
+"conf": "high",
+"why": "ปฏิเสธไม่มีนัด"
+},
+{
+"id": "P1201-0826",
+"speaker": "center_uketsuke",
+"gender": "female",
+"conf": "high",
+"why": "ปฏิเสธไม่มีนัด"
+},
+{
+"id": "P1201-0827",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ขอร้องคิโดะ"
+},
+{
+"id": "P1201-0828",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ขอร้องคิโดะ"
+},
+{
+"id": "P1201-0831",
+"speaker": "Kido",
+"gender": "male",
+"conf": "high",
+"why": "แนะนำตัวผอ.ศูนย์"
+},
+{
+"id": "P1201-0832",
+"speaker": "Kido",
+"gender": "male",
+"conf": "high",
+"why": "แนะนำตัวผอ.ศูนย์"
+},
+{
+"id": "P1201-0833",
+"speaker": "Kido",
+"gender": "male",
+"conf": "high",
+"why": "แนะนำตัวผอ.ศูนย์"
+},
+{
+"id": "P1201-0834",
+"speaker": "Kido",
+"gender": "male",
+"conf": "high",
+"why": "แนะนำตัวผอ.ศูนย์"
+},
+{
+"id": "P1201-0835",
+"speaker": "Kido",
+"gender": "male",
+"conf": "high",
+"why": "แนะนำตัวผอ.ศูนย์"
+},
+{
+"id": "P1201-0836",
+"speaker": "Kido",
+"gender": "male",
+"conf": "high",
+"why": "แนะนำตัวผอ.ศูนย์"
+},
+{
+"id": "P1201-0839",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0840",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0841",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0842",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0843",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0844",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0845",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0846",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0847",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0848",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0849",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0850",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0851",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0852",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0853",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0854",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0855",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "ถามแผนกับยากามิ"
+},
+{
+"id": "P1201-0856",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรับ"
+},
+{
+"id": "P1201-0857",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรับ"
+},
+{
+"id": "P1201-0858",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ขอสัมภาษณ์คิโดะ"
+},
+{
+"id": "P1201-0859",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ขอสัมภาษณ์คิโดะ"
+},
+{
+"id": "P1201-0860",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "แนะนำตัวนักข่าวชิโรซากิ"
+},
+{
+"id": "P1201-0861",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "แนะนำตัวนักข่าวชิโรซากิ"
+},
+{
+"id": "P1201-0862",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "แนะนำตัวนักข่าวชิโรซากิ"
+},
+{
+"id": "P1201-0863",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "แนะนำตัวนักข่าวชิโรซากิ"
+},
+{
+"id": "P1201-0864",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "แนะนำตัวนักข่าวชิโรซากิ"
+},
+{
+"id": "P1201-0865",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ขอพบคิโดะ"
+},
+{
+"id": "P1201-0866",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ขอพบคิโดะ"
+},
+{
+"id": "P1201-0867",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ขอพบคิโดะ"
+},
+{
+"id": "P1201-0868",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ขอพบคิโดะ"
+},
+{
+"id": "P1201-0869",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ขอพบคิโดะ"
+},
+{
+"id": "P1201-0870",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ขอพบคิโดะ"
+},
+{
+"id": "P1201-0871",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "อุทานไม่ชัด"
+},
+{
+"id": "P1201-0872",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ชิโรซากิ พบคิโดะ"
+},
+{
+"id": "P1201-0873",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ชิโรซากิ พบคิโดะ"
+},
+{
+"id": "P1201-0874",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ชิโรซากิ พบคิโดะ"
+},
+{
+"id": "P1201-0875",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ชิโรซากิ พบคิโดะ"
+},
+{
+"id": "P1201-0876",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ชิโรซากิ พบคิโดะ"
+},
+{
+"id": "P1201-0879",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0880",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0881",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0882",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0883",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0884",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0885",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0886",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0887",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0888",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0889",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0890",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0891",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0892",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0893",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0894",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0895",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0896",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0897",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0898",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0899",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0900",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0901",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0902",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0903",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0904",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0905",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0906",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0907",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0908",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0909",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0910",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0911",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งงานผ่านหูฟัง"
+},
+{
+"id": "P1201-0914",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0915",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0916",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0917",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0918",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0919",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0920",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0921",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0922",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0923",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0924",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0925",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0926",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0927",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0928",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0929",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0930",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0931",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0932",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0933",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0934",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0935",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0936",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0937",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0938",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0939",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0940",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0941",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0942",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0943",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0944",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0945",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0946",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0947",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0948",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0949",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0950",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0951",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0952",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0953",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0954",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0955",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0956",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0957",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0958",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0959",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0960",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0961",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0962",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0963",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0964",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0965",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0966",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0967",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0968",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0969",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0970",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0971",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0972",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0973",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0974",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0975",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0976",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0977",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0978",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0979",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0980",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0981",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0982",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0983",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0984",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0985",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0986",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0987",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0988",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0989",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0990",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0991",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0993",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0994",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0995",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0996",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0997",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0998",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-0999",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ต้อนรับ/จีบนักข่าว"
+},
+{
+"id": "P1201-1002",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1003",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1004",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1005",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1006",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1007",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1008",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1009",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1010",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1011",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1012",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1013",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1014",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1015",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1016",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1017",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1018",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1019",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1020",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1021",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1022",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1023",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1024",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1025",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1026",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1027",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1028",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1029",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1030",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1031",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1032",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1033",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1034",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1036",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1037",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1038",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1039",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1040",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1041",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1042",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1043",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1044",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1045",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1046",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1047",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1048",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1049",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1050",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1051",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1052",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1053",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1054",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1055",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1056",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1057",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1058",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1059",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1060",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1061",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1062",
+"speaker": "Saori",
+"gender": "female",
+"conf": "high",
+"why": "ปั่นคิโดะ ดิฉัน/ค่ะ"
+},
+{
+"id": "P1201-1035",
+"speaker": "Kido",
+"gender": "male",
+"conf": "med",
+"why": "ฉากห้องคิโดะ ป้าย Ichinose น่าจะผิด"
+}
+]

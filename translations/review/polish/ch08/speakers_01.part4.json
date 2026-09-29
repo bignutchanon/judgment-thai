@@ -1,0 +1,877 @@
+[
+{
+"id": "P0801-0790",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "อีกแทร็กของ 0789"
+},
+{
+"id": "P0801-0791",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "'All right' ใช้ร่วม"
+},
+{
+"id": "P0801-0792",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตกลงจ่ายเงินสึคุโมะ"
+},
+{
+"id": "P0801-0795",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว"
+},
+{
+"id": "P0801-0796",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว"
+},
+{
+"id": "P0801-0797",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว"
+},
+{
+"id": "P0801-0798",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว"
+},
+{
+"id": "P0801-0799",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว"
+},
+{
+"id": "P0801-0800",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว"
+},
+{
+"id": "P0801-0801",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว"
+},
+{
+"id": "P0801-0804",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "'ผมจะเอาเงินมาให้'"
+},
+{
+"id": "P0801-0805",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "'ผมจะเอาเงินมาให้'"
+},
+{
+"id": "P0801-0807",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ยื่นเงินให้สึคุโมะ"
+},
+{
+"id": "P0801-0808",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตกลง ใช้ร่วม"
+},
+{
+"id": "P0801-0809",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตกลง ใช้ร่วม"
+},
+{
+"id": "P0801-0810",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ลังเลเรื่องเงิน ใช้ ผม"
+},
+{
+"id": "P0801-0811",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ลังเลเรื่องเงิน ใช้ ผม"
+},
+{
+"id": "P0801-0814",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "รอที่ร้านประจำ"
+},
+{
+"id": "P0801-0815",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "รอที่ร้านประจำ"
+},
+{
+"id": "P0801-0816",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบสึคุโมะ ใช้ ผม/นาย"
+},
+{
+"id": "P0801-0817",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบสึคุโมะ ใช้ ผม/นาย"
+},
+{
+"id": "P0801-0818",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบรับนัดสึคุโมะ"
+},
+{
+"id": "P0801-0819",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบรับนัดสึคุโมะ"
+},
+{
+"id": "P0801-0822",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0823",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0824",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0825",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0826",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0827",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0828",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0829",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0830",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0831",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0832",
+"speaker": "Tsukumo",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายเครื่องดักฟัง เฮ่ๆ"
+},
+{
+"id": "P0801-0835",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอบใจสึคุโมะ ใช้ ผม"
+},
+{
+"id": "P0801-0836",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอบใจสึคุโมะ ใช้ ผม"
+},
+{
+"id": "P0801-0837",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอบใจสึคุโมะ ใช้ ผม"
+},
+{
+"id": "P0801-0838",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ขอบใจสึคุโมะ ใช้ ผม"
+},
+{
+"id": "P0801-0841",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ตอบยากามิที่ถามเครื่องดักฟัง"
+},
+{
+"id": "P0801-0844",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ถูกลากมา เรียกไคโตะว่า 'เขา'"
+},
+{
+"id": "P0801-0845",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ถูกลากมา เรียกไคโตะว่า 'เขา'"
+},
+{
+"id": "P0801-0849",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปว่าซวย 'it is what it is'"
+},
+{
+"id": "P0801-0850",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "สรุปว่าซวย 'it is what it is'"
+},
+{
+"id": "P0801-0851",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "วางแผนปลอมตัว เรียก Tak"
+},
+{
+"id": "P0801-0852",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "วางแผนปลอมตัว เรียก Tak"
+},
+{
+"id": "P0801-0853",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "วางแผนปลอมตัว เรียก Tak"
+},
+{
+"id": "P0801-0854",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "วางแผนปลอมตัว เรียก Tak"
+},
+{
+"id": "P0801-0855",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "วางแผนปลอมตัว เรียก Tak"
+},
+{
+"id": "P0801-0856",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "วางแผนปลอมตัว เรียก Tak"
+},
+{
+"id": "P0801-0859",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ"
+},
+{
+"id": "P0801-0860",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ"
+},
+{
+"id": "P0801-0861",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ"
+},
+{
+"id": "P0801-0862",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ"
+},
+{
+"id": "P0801-0863",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ"
+},
+{
+"id": "P0801-0864",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ"
+},
+{
+"id": "P0801-0867",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ตอบโต้ 'Kaito-san'"
+},
+{
+"id": "P0801-0868",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ตอบโต้ 'Kaito-san'"
+},
+{
+"id": "P0801-0869",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ตอบโต้ 'Kaito-san'"
+},
+{
+"id": "P0801-0870",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ตอบโต้ 'Kaito-san'"
+},
+{
+"id": "P0801-0873",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0874",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0875",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0876",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0877",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0878",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0879",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0880",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0881",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0882",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0883",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0884",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0885",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0886",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0887",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0888",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0889",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน"
+},
+{
+"id": "P0801-0891",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "'Good idea' ใช้ร่วม"
+},
+{
+"id": "P0801-0892",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ฝากงานให้ซุกิอุระ/ยากามิ"
+},
+{
+"id": "P0801-0894",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0895",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0896",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0897",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0898",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0899",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0900",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0901",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0902",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0903",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม"
+},
+{
+"id": "P0801-0904",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ถามกลับเมื่อโดนชม"
+},
+{
+"id": "P0801-0905",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ถามกลับเมื่อโดนชม"
+},
+{
+"id": "P0801-0906",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรับสั้นๆ ใช้ร่วม"
+},
+{
+"id": "P0801-0907",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรับสั้นๆ ใช้ร่วม"
+},
+{
+"id": "P0801-0908",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไปหา 'this Tashiro-kun'"
+},
+{
+"id": "P0801-0909",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ไปหา 'this Tashiro-kun'"
+},
+{
+"id": "P0801-0911",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "'Sup?' ต่อเนื่อง บอกที่ทาชิโระทำงาน"
+},
+{
+"id": "P0801-0912",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "'Sup?' ต่อเนื่อง บอกที่ทาชิโระทำงาน"
+},
+{
+"id": "P0801-0913",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "'Sup?' ต่อเนื่อง บอกที่ทาชิโระทำงาน"
+},
+{
+"id": "P0801-0917",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถามหาทาชิโระ เรียกไคโตะ"
+},
+{
+"id": "P0801-0918",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถามหาทาชิโระ เรียกไคโตะ"
+},
+{
+"id": "P0801-0919",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถามหาทาชิโระ เรียกไคโตะ"
+},
+{
+"id": "P0801-0920",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถามหาทาชิโระ เรียกไคโตะ"
+},
+{
+"id": "P0801-0921",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถามหาทาชิโระ เรียกไคโตะ"
+},
+{
+"id": "P0801-0922",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ถามหาทาชิโระ เรียกไคโตะ"
+},
+{
+"id": "P0801-0925",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0926",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0927",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0928",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0929",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0930",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0931",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0932",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0933",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0934",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0935",
+"speaker": "emerald_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านตอบยากามิ"
+},
+{
+"id": "P0801-0937",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0938",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0939",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0940",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0941",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0942",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0943",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0944",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0945",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0946",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ถามลูกน้อง เรียก Tak"
+},
+{
+"id": "P0801-0949",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ต่อจากยากามิขอเวลา"
+}
+]

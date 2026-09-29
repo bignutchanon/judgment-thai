@@ -5,9 +5,9 @@
 
 | ตัวชี้วัด | ค่า |
 |---|---|
-| ข้อความ EN ที่รู้เพศผู้พูด (ทุกแหล่ง) | 41,344 |
-| ในจำนวนนี้อยู่ใน master_th | 41,251 |
-| master_th ที่แปลระบุเพศไว้ (ครับ/ค่ะ/ผม/ฉัน) | 14,579 |
+| ข้อความ EN ที่รู้เพศผู้พูด (ทุกแหล่ง) | 41,381 |
+| ในจำนวนนี้อยู่ใน master_th | 41,288 |
+| master_th ที่แปลระบุเพศไว้ (ครับ/ค่ะ/ผม/ฉัน) | 14,705 |
 | บรรทัดที่คำแปลขัดกับหลักฐาน (ต้องแก้) | **11** |
 | ฉากคัตซีนที่ทีมระบุผู้พูดแล้ว | 102 / 102 (2,374 แถว) |
 
@@ -15,9 +15,9 @@
 
 | เพศ | จำนวน |
 |---|---|
-| ชาย | 34,976 |
-| หญิง | 5,645 |
-| ใช้ร่วมสองเพศ (ต้องกลาง) | 266 |
+| ชาย | 35,004 |
+| หญิง | 5,648 |
+| ใช้ร่วมสองเพศ (ต้องกลาง) | 272 |
 | บรรยาย/ป้าย | 132 |
 | ไม่ยืนยัน | 232 |
 
@@ -27,9 +27,9 @@
 |---|---|
 | talk | 16,352 |
 | cue | 15,283 |
+| speech | 11,974 |
 | cinema | 4,175 |
 | pov | 4,121 |
-| speech | 3,520 |
 | chat | 1,516 |
 | popup | 369 |
 | mahjong | 257 |
@@ -39,8 +39,8 @@
 | bin | ตรง | ขัดกัน | ไม่มีหลักฐาน |
 |---|---|---|---|
 | talk.bin | 7322 | 4 | 123 |
-| sound_auth.bin | 4565 | 1 | 24 |
-| auth.bin | 1001 | 0 | 0 |
+| sound_auth.bin | 4682 | 1 | 9 |
+| auth.bin | 1025 | 0 | 0 |
 | pause_message.bin | 838 | 6 | 0 |
 | mission_mission_kind.bin | 286 | 0 | 0 |
 | scene_scenario_explanation.bin | 105 | 0 | 0 |
@@ -69,7 +69,7 @@
 
 | bin | เพศจริง | EN | TH ปัจจุบัน |
 |---|---|---|---|
-| sound_auth.bin | male | By Hashiki's estimation, looking at the facts, / it was all too convenient to be | ตามที่ฮาชิกิคาดคะเน จากข้อเท็จจริงที่มี / มันดูสะดวกเกินไปจนไม่น่าจะ เป็นเรื่องบ |
+| sound_auth.bin | male | By Hashiki's estimation, looking at the facts, / it was all too convenient to be | ตามที่ฮาชิกิคาดคะเน จากข้อเท็จจริงที่มี / มันประจวบเหมาะเกินไป จนไม่น่าจะเป็นเรื |
 | pause_message.bin | mixed | The name's Takayuki Yagami. Could you come to the Yagami Detective Agency in Nak | ผมชื่อทาคายูกิ ยากามิ มาที่สำนักงานนักสืบยากามิ ในตรอกนากามิจิได้ไหมครับ |
 | pause_message.bin | mixed | I'll go as soon as I get the chance. | มีโอกาสเมื่อไหร่ผมจะรีบไปเลย |
 | pause_message.bin | mixed | Make me some more next time. | ครั้งหน้าทำให้ผมกินอีกนะ |

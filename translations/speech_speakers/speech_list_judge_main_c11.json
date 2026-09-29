@@ -1,0 +1,2035 @@
+{
+ "table": "speech_list_judge_main_c11",
+ "rows": {
+  "294": {
+   "speaker": "honmaru_matsu",
+   "gender": "male",
+   "conf": "med",
+   "why": "ลูกน้องมัตสึกาเนะขอให้ปล่อยกัปตัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "298": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกยากามิว่า Tak แบบมัตสึกาเนะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "15": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "ประชดข้อสรุปของยากามิ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "35": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "ปฏิเสธเรื่องสามปีก่อน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "3": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "4": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "6": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "7": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "8": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "10": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "12": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "13": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "14": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "17": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "19": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "20": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "21": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "24": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "26": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "27": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "28": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "30": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "31": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "32": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "33": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "34": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "36": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "38": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "39": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "41": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "42": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "44": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "45": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "46": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "47": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "48": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "49": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "50": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "56": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ผู้สอบปากคำฮามุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "72": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "75": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "77": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "78": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "80": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "81": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "82": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "83": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "85": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "86": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "87": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "88": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "89": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "92": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "93": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "94": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "95": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "97": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "98": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "99": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "100": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "102": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "103": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "105": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "106": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "107": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "111": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "112": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "114": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "117": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "118": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "119": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "120": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "122": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "123": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "125": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพเรื่องไอ้ตัวตุ่น ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "71": {
+   "speaker": "Shioya",
+   "gender": "male",
+   "conf": "med",
+   "why": "พูดถึงเครื่องมือทรมาน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "73": {
+   "speaker": "Shioya",
+   "gender": "male",
+   "conf": "med",
+   "why": "พูดถึงเครื่องมือทรมาน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "68": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักฮามุระ บอกมาว่าไอ้ตัวตุ่นคือใคร",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "74": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักถามต่อเนื่อง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "76": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักถามต่อเนื่อง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "84": {
+   "speaker": "Shioya",
+   "gender": "male",
+   "conf": "med",
+   "why": "ขู่ใช้เครื่องมือ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "90": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "91": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "108": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "110": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "113": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "115": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "116": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "121": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "124": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "131": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "อธิบายสถาบันการแพทย์ ใช้ มัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "132": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "อธิบายสถาบันการแพทย์ ใช้ มัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "133": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "อธิบายสถาบันการแพทย์ ใช้ มัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "134": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "อธิบายสถาบันการแพทย์ ใช้ มัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "135": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "อธิบายสถาบันการแพทย์ ใช้ มัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "138": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "อธิบายสถาบันการแพทย์ ใช้ มัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "139": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "อธิบายสถาบันการแพทย์ ใช้ มัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "140": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "อธิบายสถาบันการแพทย์ ใช้ มัน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "127": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ทวนความคิดตัวเอง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "129": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ทวนความคิดตัวเอง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "136": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามต่อ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "148": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "149": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "151": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "152": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "154": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "155": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "157": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "158": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "159": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "160": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "162": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "172": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "179": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "182": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "186": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "190": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "192": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "193": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "195": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "196": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "197": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "202": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "203": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "205": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "206": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "207": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "208": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "212": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "213": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "215": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "216": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "218": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "220": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "221": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "สารภาพต่อเนื่อง ใช้ กู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "175": {
+   "speaker": "Shioya",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตวาดยากามิ ใช้ มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "184": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "185": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "147": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "153": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบรับคำถาม",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "156": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและยกหลักฐาน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "163": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและยกหลักฐาน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "165": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและยกหลักฐาน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "167": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและยกหลักฐาน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "168": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและยกหลักฐาน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "169": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและยกหลักฐาน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "170": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "171": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "173": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "174": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "176": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "177": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "178": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คู่ 0744",
+   "source": "polish/ch11/speakers_51.json"
+  },
+  "180": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "181": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "187": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยกหลักฐานให้ฮามุระดู",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "222": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "188": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "189": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "191": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "194": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "198": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "200": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "201": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "204": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "209": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "211": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "214": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "217": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "219": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักลำดับคดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "228": {
+   "speaker": "Mitsugu Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกทาคุ ชมยากามิ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "224": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "อนุมาน ชุดวิเคราะห์คดี",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "226": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "235": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "238": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "240": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "242": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "232": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "233": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "234": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "236": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "237": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "239": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "241": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "243": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "244": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "245": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "246": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "247": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "248": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ชุดวิเคราะห์เหตุการณ์คุเมะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "253": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "รับว่าเป็นความผิดตัวเอง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "251": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักเรื่องชินทานิ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "252": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักเรื่องชินทานิ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "258": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "259": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "261": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "262": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "264": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "265": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "266": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "268": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "269": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "272": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "274": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "275": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "276": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "278": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "279": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "281": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "282": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "283": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "287": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "288": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "289": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "291": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "292": {
+   "speaker": "Kyohei Hamura",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องชินทานิ ใช้ กู/มึง",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "263": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "267": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "270": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "271": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "286": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "290": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักและคิดในใจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "313": {
+   "speaker": "Mitsuru Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกฟูจิอิว่าท่านอัยการ ตำรวจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "315": {
+   "speaker": "Mitsuru Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกฟูจิอิว่าท่านอัยการ ตำรวจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "317": {
+   "speaker": "Mitsuru Kuroiwa",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกฟูจิอิว่าท่านอัยการ ตำรวจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "306": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "บทเป็น ญ ยืนกรานพาไปโรงพยาบาล",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "308": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "บทเป็น ญ ยืนกรานพาไปโรงพยาบาล",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "312": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "บทเป็น ญ ยืนกรานพาไปโรงพยาบาล",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "314": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "บทเป็น ญ ยืนกรานพาไปโรงพยาบาล",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "316": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "บทเป็น ญ ยืนกรานพาไปโรงพยาบาล",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "318": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "med",
+   "why": "บทเป็น ญ ยืนกรานพาไปโรงพยาบาล",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "307": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ทวนชื่อคุโรอิวะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "319": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยอมไปกับตำรวจ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "330": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "331": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "333": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "334": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "336": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "337": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "338": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "340": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "341": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "342": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "343": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "345": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "แนะนำตัวเป็นโคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "324": {
+   "speaker": "koga_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เด็กส่งของขวัญ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "326": {
+   "speaker": "koga_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เด็กส่งของขวัญ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "327": {
+   "speaker": "koga_boy",
+   "gender": "male",
+   "conf": "high",
+   "why": "เด็กส่งของขวัญ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "328": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโต้โคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "335": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโต้โคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "344": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโต้โคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "347": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยอมแพ้ ถอนตัว",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "349": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยอมแพ้ ถอนตัว",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "350": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยอมแพ้ ถอนตัว",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "351": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยอมแพ้ ถอนตัว",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "353": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยอมแพ้ ถอนตัว",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "354": {
+   "speaker": "Matsuhisa Koga",
+   "gender": "male",
+   "conf": "high",
+   "why": "ยอมแพ้ ถอนตัว",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "352": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโต้โคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "355": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโต้โคกะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "360": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "มาแจ้งเรื่องไคโตะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "362": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "มาแจ้งเรื่องไคโตะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "363": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "มาแจ้งเรื่องไคโตะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "365": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "มาแจ้งเรื่องไคโตะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "367": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "มาแจ้งเรื่องไคโตะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "369": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "มาแจ้งเรื่องไคโตะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "370": {
+   "speaker": "Fumiya Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "มาแจ้งเรื่องไคโตะ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "359": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยกับซุกิอุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "361": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยกับซุกิอุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "364": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยกับซุกิอุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "366": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยกับซุกิอุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "368": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยกับซุกิอุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "371": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คุยกับซุกิอุระ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "375": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "โทรแจ้งข่าว",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "377": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "โทรแจ้งข่าว",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "374": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "รับโทรศัพท์",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "378": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "รับโทรศัพท์",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "381": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "ระบุเหยื่อ ถามเรื่องเมื่อคืน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "383": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "ระบุเหยื่อ ถามเรื่องเมื่อคืน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "387": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "ระบุเหยื่อ ถามเรื่องเมื่อคืน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "388": {
+   "speaker": "Mafuyu",
+   "gender": "female",
+   "conf": "high",
+   "why": "ระบุเหยื่อ ถามเรื่องเมื่อคืน",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "382": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "384": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "386": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "390": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "392": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "395": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "396": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "397": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "399": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  },
+  "400": {
+   "speaker": "Takayuki Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เล่าเรื่องคุโรอิวะให้มาฟุยุ",
+   "source": "polish/ch11/speakers_01.json"
+  }
+ }
+}

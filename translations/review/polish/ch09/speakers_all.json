@@ -1,0 +1,7765 @@
+{
+ "P0901-0300": {
+  "speaker": "caster",
+  "gender": "female",
+  "conf": "med",
+  "why": "ข่าวทีวี ผู้ประกาศหญิง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0301": {
+  "speaker": "caster",
+  "gender": "female",
+  "conf": "med",
+  "why": "ข่าวทีวี ผู้ประกาศหญิง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0302": {
+  "speaker": "caster",
+  "gender": "female",
+  "conf": "med",
+  "why": "ข่าวทีวี ผู้ประกาศหญิง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0303": {
+  "speaker": "caster",
+  "gender": "female",
+  "conf": "med",
+  "why": "ข่าวทีวี ผู้ประกาศหญิง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0304": {
+  "speaker": "caster",
+  "gender": "female",
+  "conf": "med",
+  "why": "ข่าวทีวี ผู้ประกาศหญิง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0305": {
+  "speaker": "caster",
+  "gender": "female",
+  "conf": "med",
+  "why": "ข่าวทีวี ผู้ประกาศหญิง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0306": {
+  "speaker": "caster",
+  "gender": "female",
+  "conf": "med",
+  "why": "ข่าวทีวี ผู้ประกาศหญิง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0307": {
+  "speaker": "caster",
+  "gender": "female",
+  "conf": "med",
+  "why": "ข่าวทีวี ผู้ประกาศหญิง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0310": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องสืบฮามุระ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0311": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องสืบฮามุระ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0312": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องสืบฮามุระ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0313": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องสืบฮามุระ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0314": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบโฮชิโนะเรื่องสีหน้า",
+  "file": "speakers_01.json"
+ },
+ "P0901-0315": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบโฮชิโนะเรื่องสีหน้า",
+  "file": "speakers_01.json"
+ },
+ "P0901-0316": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0317": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0318": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0319": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0320": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0321": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0322": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0323": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0324": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0325": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0326": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0327": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0328": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0329": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0330": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0331": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำฮัตโตริ เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0333": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนไปพบฮัตโตริ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0334": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนไปพบฮัตโตริ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0335": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนไปพบฮัตโตริ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0336": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนไปพบฮัตโตริ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0337": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ชวนไปพบฮัตโตริ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0339": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0340": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0341": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0342": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0343": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0344": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0345": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0346": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0347": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0348": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0349": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0350": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0351": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โต้ตอบโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0352": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ปฏิกิริยาต่อยากามิ ป้ายเดิมผิด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0353": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไม่พอใจที่ผู้เชี่ยวชาญคือฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0354": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไม่พอใจที่ผู้เชี่ยวชาญคือฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0355": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไม่พอใจที่ผู้เชี่ยวชาญคือฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0356": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไม่พอใจที่ผู้เชี่ยวชาญคือฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0357": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ปฏิกิริยาต่อยากามิ ป้ายเดิมผิด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0358": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไม่อยากขอความช่วยเหลือฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0359": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไม่อยากขอความช่วยเหลือฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0362": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถ่ายรูปมือถือ ตอบยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0363": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถ่ายรูปมือถือ ตอบยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0364": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถ่ายรูปมือถือ ตอบยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0365": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถ่ายรูปมือถือ ตอบยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0366": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถ่ายรูปมือถือ ตอบยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0369": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ปลอบให้ไปพบฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0370": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ปลอบให้ไปพบฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0371": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ปลอบให้ไปพบฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0372": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ครับ ปลอบให้ไปพบฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0373": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "บ่นต้องไปหาฮัตโตริคนเดียว",
+  "file": "speakers_01.json"
+ },
+ "P0901-0374": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "บ่นต้องไปหาฮัตโตริคนเดียว",
+  "file": "speakers_01.json"
+ },
+ "P0901-0376": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ประชดฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0377": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ประชดฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0378": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ประชดฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0379": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ประชดฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0380": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ประชดฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0385": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบฮัตโตริเรื่องแบ่งราเมง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0386": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0387": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0388": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0389": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0390": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0391": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0392": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0393": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0394": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0395": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0396": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0397": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0398": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0399": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0400": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0401": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0402": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0403": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0404": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0405": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0406": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0407": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0408": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0409": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0410": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0411": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0412": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0413": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0414": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0415": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0416": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0417": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0418": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0420": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0421": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0422": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0423": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0424": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0425": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0426": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0427": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0428": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0429": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0430": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0431": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0432": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0433": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0434": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0435": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0436": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบาย AD-9 ให้ยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0437": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำถามฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0438": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำถามฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0439": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายอัลไซเมอร์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0440": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายอัลไซเมอร์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0441": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายอัลไซเมอร์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0442": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "สรุปย้อนถามฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0443": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "สรุปย้อนถามฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0444": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับรองคำสรุปของยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0445": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับรองคำสรุปของยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0446": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับรองคำสรุปของยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0447": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "สรุปอาการต่อ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0448": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0449": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0450": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0451": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0452": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0453": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0454": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0455": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0456": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0457": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายกระบวนการความจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0458": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับแบบสงสัย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0459": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "low",
+  "why": "ป้ายเดิม Matugane ผิด ฉากร้านราเมง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0460": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0461": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0462": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0463": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0464": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0465": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0466": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0467": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0468": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0469": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0470": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0471": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0472": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0473": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0474": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0475": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0476": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0477": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0478": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0479": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0480": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "อธิบายงานวิจัย AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0481": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยคำว่าคนซื้อคนขาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0482": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยคำว่าคนซื้อคนขาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0483": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันผลทดลองไม่ได้กุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0484": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันผลทดลองไม่ได้กุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0485": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันผลทดลองไม่ได้กุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0486": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันผลทดลองไม่ได้กุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0487": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันผลทดลองไม่ได้กุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0488": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันผลทดลองไม่ได้กุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0489": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "ยืนยันผลทดลองไม่ได้กุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0490": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ป้าย Emi(ญ) มาจากคีย์ Yes. ที่ใช้ร่วม · ฉากนี้เป็นฮัตโตริยืนยัน (อีกแทร็ก 'มั่นใจมากครับ')",
+  "file": "speakers_51.json"
+ },
+ "P0901-0491": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0492": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0493": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0494": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0495": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0496": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0497": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0498": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0499": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0500": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0501": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0502": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "high",
+  "why": "เสนอเร่งทดลองในมนุษย์",
+  "file": "speakers_01.json"
+ },
+ "P0901-0503": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0504": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0505": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0506": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0507": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0508": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0509": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0510": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0511": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0512": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0513": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0514": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0515": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0516": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0517": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิ ก่อนเล่าเรื่องผู้เขียน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0520": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามฮัตโตริเรื่องคาจิฮิระ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0521": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามฮัตโตริเรื่องคาจิฮิระ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0522": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำถามยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0523": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "มาคุยเรื่อง AD-9 ไม่อยากคุย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0524": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "มาคุยเรื่อง AD-9 ไม่อยากคุย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0525": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "มาคุยเรื่อง AD-9 ไม่อยากคุย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0526": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "มาคุยเรื่อง AD-9 ไม่อยากคุย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0527": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "มาคุยเรื่อง AD-9 ไม่อยากคุย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0529": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำอธิบายฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0530": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำอธิบายฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0531": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำอธิบายฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0532": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำอธิบายฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0533": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับคำอธิบายฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0534": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "รีแอคชันสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0535": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฟังฮัตโตริ ถามสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0901-0536": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฟังฮัตโตริ ถามสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0901-0537": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฟังฮัตโตริ ถามสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0901-0538": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฟังฮัตโตริ ถามสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0901-0539": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฟังฮัตโตริ ถามสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0901-0540": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฟังฮัตโตริ ถามสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0901-0541": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฟังฮัตโตริ ถามสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0901-0542": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฟังฮัตโตริ ถามสรุป",
+  "file": "speakers_01.json"
+ },
+ "P0901-0543": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "รีแอคชันสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0544": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามและทวนคำอธิบาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0545": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามและทวนคำอธิบาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0546": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามและทวนคำอธิบาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0547": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามและทวนคำอธิบาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0548": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามและทวนคำอธิบาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0549": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามและทวนคำอธิบาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0550": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามและทวนคำอธิบาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0551": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามและทวนคำอธิบาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0552": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0553": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0554": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0555": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0556": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0557": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0558": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0559": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0560": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0561": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คิดและสรุปทฤษฎีรองผอ.",
+  "file": "speakers_01.json"
+ },
+ "P0901-0562": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามยากามิว่ารู้ได้ไง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0563": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามยากามิว่ารู้ได้ไง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0564": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามยืนยัน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0565": {
+  "speaker": "Hattori",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามความหมาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0566": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบ human experimentation",
+  "file": "speakers_01.json"
+ },
+ "P0901-0567": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบ human experimentation",
+  "file": "speakers_01.json"
+ },
+ "P0901-0569": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮัตโตริเรื่องโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0570": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮัตโตริเรื่องโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0571": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮัตโตริเรื่องโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0572": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮัตโตริเรื่องโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0573": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮัตโตริเรื่องโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0574": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮัตโตริเรื่องโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0575": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮัตโตริเรื่องโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0576": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามฮัตโตริเรื่องโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0584": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบยากามิ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0585": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบยากามิ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0588": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชวนนั่ง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0591": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เล่าข้อสังเกตต่อโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0592": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เล่าข้อสังเกตต่อโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0593": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยต่อจากบรรทัดโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0594": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยต่อจากบรรทัดโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0595": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยต่อจากบรรทัดโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0596": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยต่อจากบรรทัดโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0597": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยต่อจากบรรทัดโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0598": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยต่อจากบรรทัดโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0599": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งข้อสงสัยต่อจากบรรทัดโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0600": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากบรรทัดโฮชิโนะ ตั้งสมมติฐาน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0601": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากบรรทัดโฮชิโนะ ตั้งสมมติฐาน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0602": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากบรรทัดโฮชิโนะ ตั้งสมมติฐาน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0603": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ่านเอกสาร โต้กลับคำเยาะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0604": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ่านเอกสาร โต้กลับคำเยาะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0605": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ่านเอกสาร โต้กลับคำเยาะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0606": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ่านเอกสาร โต้กลับคำเยาะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0607": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ่านเอกสาร โต้กลับคำเยาะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0608": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ่านเอกสาร โต้กลับคำเยาะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0609": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ่านเอกสาร โต้กลับคำเยาะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0610": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ่านเอกสาร โต้กลับคำเยาะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0611": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ชมยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0612": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อธิบายวันประกาศ AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0613": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อธิบายวันประกาศ AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0614": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อธิบายวันประกาศ AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0615": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อธิบายวันประกาศ AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0616": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อธิบายวันประกาศ AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0617": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อธิบายวันประกาศ AD-9",
+  "file": "speakers_01.json"
+ },
+ "P0901-0619": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไคโตะแทรก ไอ้หนู",
+  "file": "speakers_01.json"
+ },
+ "P0901-0620": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไคโตะแทรก ไอ้หนู",
+  "file": "speakers_01.json"
+ },
+ "P0901-0621": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไคโตะแทรก ไอ้หนู",
+  "file": "speakers_01.json"
+ },
+ "P0901-0622": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไคโตะแทรก ไอ้หนู",
+  "file": "speakers_01.json"
+ },
+ "P0901-0623": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0624": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0625": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0626": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0627": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0628": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0629": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0630": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0631": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0632": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ฉัน/นาย ไอ้โชโนะ คัดค้านทฤษฎี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0633": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ขอให้ไคโตะจริงจัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0634": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอกกลับ ไอ้หนูโง่ พวกนาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0635": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอกกลับ ไอ้หนูโง่ พวกนาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0636": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบโต้ไคโตะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0637": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ประชดเรื่องลุงวาคุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0638": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ประชดเรื่องลุงวาคุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0639": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใจเย็นก่อนสิวะ สามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0640": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใจเย็นก่อนสิวะ สามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0641": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใจเย็นก่อนสิวะ สามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0642": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใจเย็นก่อนสิวะ สามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0643": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใจเย็นก่อนสิวะ สามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0644": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใจเย็นก่อนสิวะ สามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0645": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใจเย็นก่อนสิวะ สามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0646": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ใจเย็นก่อนสิวะ สามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0649": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ผลข้างเคียงยา ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0650": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ผลข้างเคียงยา ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0651": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ผลข้างเคียงยา ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0652": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ผลข้างเคียงยา ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0653": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ผลข้างเคียงยา ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0654": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ผลข้างเคียงยา ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0655": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ผลข้างเคียงยา ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0656": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ผลข้างเคียงยา ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0657": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามเรื่องคดีสามปีก่อน ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0658": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามเรื่องคดีสามปีก่อน ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0659": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามเรื่องคดีสามปีก่อน ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0662": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "คำตอบสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0663": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0664": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0665": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0666": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0667": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0668": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0669": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0670": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0671": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0672": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เล่าคำที่ติดใจจากฮัตโตริ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0673": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "เห็นด้วยกับทฤษฎี ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0674": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "เห็นด้วยกับทฤษฎี ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0675": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "เห็นด้วยกับทฤษฎี ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0676": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "เห็นด้วยกับทฤษฎี ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0677": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "เห็นด้วยกับทฤษฎี ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0678": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ วงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0679": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "คำตอบสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0680": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชี้ให้ไคโตะคิด เรื่องวาคุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0681": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชี้ให้ไคโตะคิด เรื่องวาคุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0682": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชี้ให้ไคโตะคิด เรื่องวาคุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0683": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชี้ให้ไคโตะคิด เรื่องวาคุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0684": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชี้ให้ไคโตะคิด เรื่องวาคุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0685": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชี้ให้ไคโตะคิด เรื่องวาคุ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0686": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ วงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0689": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ขอคุยต่อ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0694": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "บ้าเอ๊ย ฉาวแห่งศตวรรษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0695": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "บ้าเอ๊ย ฉาวแห่งศตวรรษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0696": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ขอเวลาก่อนพูดต่อ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0699": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งคำถามแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0700": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งคำถามแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0701": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งคำถามแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0702": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งคำถามแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0703": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งคำถามแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0704": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งคำถามแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0705": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตั้งคำถามแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0706": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "คาดเดาแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0707": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "คาดเดาแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0708": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "คาดเดาแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0709": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "คาดเดาแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0710": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "คาดเดาแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0711": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "คาดเดาแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0712": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "คาดเดาแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0713": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "คาดเดาแรงจูงใจโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0717": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0718": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0719": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0720": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0721": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0722": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0723": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0724": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0725": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0726": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อจากความคิดในใจยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0727": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสั่งหยุดหลังบรรทัดนี้",
+  "file": "speakers_01.json"
+ },
+ "P0901-0728": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสั่งหยุดหลังบรรทัดนี้",
+  "file": "speakers_01.json"
+ },
+ "P0901-0732": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "แย้งว่าโอคุโบะฆ่าแฟน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0733": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "แย้งว่าโอคุโบะฆ่าแฟน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0734": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "แย้งว่าโอคุโบะฆ่าแฟน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0736": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "สรุปทฤษฎี ตามคำขอโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0737": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "สรุปทฤษฎี ตามคำขอโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0738": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "สรุปทฤษฎี ตามคำขอโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0739": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "สรุปทฤษฎี ตามคำขอโฮชิโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0740": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0741": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0742": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0743": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0744": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0745": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0746": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0747": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0748": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0749": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เห็นด้วย เรียกยากามิซัง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0750": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0751": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0752": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0753": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0754": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0755": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0756": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0757": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0758": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0759": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0760": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0761": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0762": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0763": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0764": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0765": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0766": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0767": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0768": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0769": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0770": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0771": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0772": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0773": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0774": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0775": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0776": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0777": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0778": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0779": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0780": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0781": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0782": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0783": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0784": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0785": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0786": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0787": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0788": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0789": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "โต้ทฤษฎีคิโดะ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0790": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ป้ายเดิม center_uketsuke ผิด อีกแทร็กเป็นไคโตะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0792": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "ติดต่อเรือนจำ ครับ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0794": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของยากามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0796": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0797": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0798": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0799": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0800": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0801": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0802": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0803": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0804": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0805": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0806": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะถามเวลาฆาตกรรมแรก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0807": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "พิสูจน์ในศาลแล้ว",
+  "file": "speakers_01.json"
+ },
+ "P0901-0808": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "พิสูจน์ในศาลแล้ว",
+  "file": "speakers_01.json"
+ },
+ "P0901-0809": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สั่งซุกิอุระหยุด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0810": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สั่งซุกิอุระหยุด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0811": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สั่งซุกิอุระหยุด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0812": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สั่งซุกิอุระหยุด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0813": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สั่งซุกิอุระหยุด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0814": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สั่งซุกิอุระหยุด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0815": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "สั่งซุกิอุระหยุด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0817": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ต่อคำถามซุกิอุระ ไอ้ ห้วน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0818": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามคนกลางโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0819": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามคนกลางโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0820": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามคนกลางโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0821": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามคนกลางโชโนะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0822": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามยากามิซัง ไม่เชื่อรัฐมนตรี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0823": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามยากามิซัง ไม่เชื่อรัฐมนตรี",
+  "file": "speakers_01.json"
+ },
+ "P0901-0824": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "คิดหาคนกลาง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0825": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "คิดหาคนกลาง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0826": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่แน่ใจ ผม",
+  "file": "speakers_01.json"
+ },
+ "P0901-0827": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "นึกถึงสีหน้าคิโดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0828": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "นึกถึงสีหน้าคิโดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0829": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "นึกถึงสีหน้าคิโดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0830": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "นึกถึงสีหน้าคิโดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0831": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "นึกถึงสีหน้าคิโดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0832": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "นึกถึงสีหน้าคิโดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0833": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "รีแอคชันสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0834": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "รีแอคชันสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0835": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าทุกอย่างเข้าเค้าหมดเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0836": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าทุกอย่างเข้าเค้าหมดเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0837": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าทุกอย่างเข้าเค้าหมดเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0838": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าทุกอย่างเข้าเค้าหมดเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0839": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าทุกอย่างเข้าเค้าหมดเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0840": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าทุกอย่างเข้าเค้าหมดเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0841": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าทุกอย่างเข้าเค้าหมดเหรอ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0842": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0843": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0844": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0845": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0846": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0847": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0848": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0849": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0850": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0851": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0852": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0853": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0854": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0855": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0856": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0857": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0858": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0859": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0860": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0861": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0862": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0863": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0864": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0865": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0866": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0867": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0868": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0869": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0870": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0871": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0872": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0873": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0874": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0875": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0876": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0877": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0878": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0879": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0880": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0881": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0882": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซุกิอุระโต้เดือดแล้วขอโทษ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0885": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ระบุตัวคาจิฮิระคนกลาง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0886": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ระบุตัวคาจิฮิระคนกลาง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0887": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ระบุตัวคาจิฮิระคนกลาง",
+  "file": "speakers_01.json"
+ },
+ "P0901-0888": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ยอมรับเหตุผล",
+  "file": "speakers_01.json"
+ },
+ "P0901-0889": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ระบุรัฐมนตรีคาซามิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0890": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าเหลือใครอีก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0891": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ระบุคิโดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0892": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ระบุคิโดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0893": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "ถามสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0894": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "ถามสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0895": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "สรุปว่าคิโดะไม่ใช่คนคุม",
+  "file": "speakers_01.json"
+ },
+ "P0901-0896": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "สรุปว่าคิโดะไม่ใช่คนคุม",
+  "file": "speakers_01.json"
+ },
+ "P0901-0897": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ วงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0898": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะฆ่าคนไข้เมื่อสามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0899": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะฆ่าคนไข้เมื่อสามปีก่อน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0900": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "จริงด้วย อาจเป็นช่วงอื่น",
+  "file": "speakers_01.json"
+ },
+ "P0901-0901": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "จริงด้วย อาจเป็นช่วงอื่น",
+  "file": "speakers_01.json"
+ },
+ "P0901-0902": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0903": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0904": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0905": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0906": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0907": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0908": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0909": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0910": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0911": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0912": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์ช่วงเวลาฮาชิกิ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0913": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เข้ากับเรื่องส่วนที่เหลือ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0914": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ไม่เข้ากับเรื่องส่วนที่เหลือ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0915": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์เหตุจ้างมือสังหาร",
+  "file": "speakers_01.json"
+ },
+ "P0901-0916": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์เหตุจ้างมือสังหาร",
+  "file": "speakers_01.json"
+ },
+ "P0901-0917": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์เหตุจ้างมือสังหาร",
+  "file": "speakers_01.json"
+ },
+ "P0901-0918": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์เหตุจ้างมือสังหาร",
+  "file": "speakers_01.json"
+ },
+ "P0901-0919": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์เหตุจ้างมือสังหาร",
+  "file": "speakers_01.json"
+ },
+ "P0901-0920": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์เหตุจ้างมือสังหาร",
+  "file": "speakers_01.json"
+ },
+ "P0901-0921": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วิเคราะห์เหตุจ้างมือสังหาร",
+  "file": "speakers_01.json"
+ },
+ "P0901-0922": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ วงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0923": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ให้ซุกิอุระพูด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0924": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ให้ซุกิอุระพูด",
+  "file": "speakers_01.json"
+ },
+ "P0901-0925": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "รีแอคชันสั้นใช้ร่วมหลายคน",
+  "file": "speakers_01.json"
+ },
+ "P0901-0926": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไปคุยกับโอคุโบะไม่ง่าย นาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0927": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไปคุยกับโอคุโบะไม่ง่าย นาย",
+  "file": "speakers_01.json"
+ },
+ "P0901-0928": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ วงเล็บ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0929": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "รู้สึกผิดต่อโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0930": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "รู้สึกผิดต่อโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0931": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "รู้สึกผิดต่อโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0932": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "รู้สึกผิดต่อโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0933": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "รู้สึกผิดต่อโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0934": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "รู้สึกผิดต่อโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0935": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "รู้สึกผิดต่อโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0936": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้โฮชิโนะนัดโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0937": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้โฮชิโนะนัดโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0938": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้โฮชิโนะนัดโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0939": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้โฮชิโนะนัดโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0940": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้โฮชิโนะนัดโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0941": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอให้โฮชิโนะนัดโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0950": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิถึงเรื่องโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0951": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิถึงเรื่องโอคุโบะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0955": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอดูแฟ้มคดีที่สำนักงานเก็นดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0956": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอดูแฟ้มคดีที่สำนักงานเก็นดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0957": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ขอดูแฟ้มคดีที่สำนักงานเก็นดะ",
+  "file": "speakers_01.json"
+ },
+ "P0901-0960": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "med",
+  "why": "ค่ะ เอาแฟ้มมาให้",
+  "file": "speakers_01.json"
+ },
+ "P0901-0961": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "med",
+  "why": "ค่ะ เอาแฟ้มมาให้",
+  "file": "speakers_01.json"
+ },
+ "P0901-0962": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "med",
+  "why": "ค่ะ เอาแฟ้มมาให้",
+  "file": "speakers_01.json"
+ },
+ "P0901-0963": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "med",
+  "why": "ค่ะ เอาแฟ้มมาให้",
+  "file": "speakers_01.json"
+ },
+ "P0901-0964": {
+  "speaker": "Saori",
+  "gender": "female",
+  "conf": "med",
+  "why": "ค่ะ เอาแฟ้มมาให้",
+  "file": "speakers_01.json"
+ },
+ "P0901-0967": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่าถืออะไร",
+  "file": "speakers_01.json"
+ },
+ "P0901-0968": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ป้ายเดิม Kido ผิด ตอบอึกอัก",
+  "file": "speakers_01.json"
+ },
+ "P0901-0969": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ป้ายเดิม Kido ผิด ตอบอึกอัก",
+  "file": "speakers_01.json"
+ },
+ "P0902-0001": {
+  "speaker": "Emi",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อฉากเอมิท้ายชิ้น 01 พูดถึงโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0002": {
+  "speaker": "Emi",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อฉากเอมิท้ายชิ้น 01 พูดถึงโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0004": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิห้ามไปพบโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0005": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิห้ามไปพบโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0006": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิห้ามไปพบโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0007": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิห้ามไปพบโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0008": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับเก็นดะ อ้ำอึ้ง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0009": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิว่าโทษตัวเองไหม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0012": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0013": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0014": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0015": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0016": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0017": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0018": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0019": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0020": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0021": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0022": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0023": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0024": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0025": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่แฟ้มคดีเทราซาวะต่อเนื่อง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0026": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0027": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0028": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0029": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0030": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบเก็นดะ จะไปหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0031": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "อ้ำอึ้ง ต่อบทยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0032": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0033": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0034": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0035": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0036": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0037": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0038": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0039": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0040": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0041": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0042": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0043": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0044": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0045": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0046": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0047": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0048": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเคยแก้ต่างให้โอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0051": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0052": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0053": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0054": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0055": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0056": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0057": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0058": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0059": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0060": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0061": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0062": {
+  "speaker": "Genda",
+  "gender": "male",
+  "conf": "high",
+  "why": "เก็นดะปลอบ เรียกยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0065": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "นัดโอคุโบะ เจอกันที่ป้ายแท็กซี่",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0066": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0067": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0068": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0069": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0070": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0071": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0072": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0073": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0074": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ตอบอาจารย์เก็นดะ แย้งเรื่องความผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0075": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับสาย ยากามิพูด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0076": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "รับสาย ยากามิพูด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0079": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกอาจารย์เก็นดะ ยืนยันหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0080": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกอาจารย์เก็นดะ ยืนยันหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0081": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกอาจารย์เก็นดะ ยืนยันหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0082": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เรียกอาจารย์เก็นดะ ยืนยันหาความจริง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0089": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวโฮชิโนะ สำนักงานเก็นดะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0090": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวโฮชิโนะ สำนักงานเก็นดะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0091": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวโฮชิโนะ สำนักงานเก็นดะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0092": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามโอคุโบะอยากรู้ฆาตกรไหม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0093": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามโอคุโบะอยากรู้ฆาตกรไหม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0096": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0097": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0098": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0099": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0100": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0101": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0102": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0103": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "high",
+  "why": "โอคุโบะตอบโต้ทนายเดิม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0104": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0105": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0106": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0107": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0108": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0109": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0110": {
+  "speaker": "Okubo",
+  "gender": "male",
+  "conf": "med",
+  "why": "โอคุโบะพูดถึงรถบรรทุกตัวเอง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0113": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0114": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0115": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0116": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0117": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0118": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0119": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0120": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0121": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0122": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0123": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0124": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0125": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0126": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0127": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0128": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0129": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0130": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0131": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0132": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายทฤษฎี AD-9 ต่อโอคุโบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0133": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะกลับสำนักงานเก็นดะ ถามยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0134": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะกลับสำนักงานเก็นดะ ถามยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0135": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "เรียกยากามิ ก่อนยากามิตอบ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0137": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ What's up",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0138": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0139": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0140": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0141": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0142": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0143": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0144": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "จะแวะเทนเดอร์ อยากดื่ม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0147": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบโต้ตอนถูกเผชิญหน้า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0149": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0150": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0151": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0152": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0153": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0154": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0155": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0156": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0157": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0158": {
+  "speaker": "Kuroiwa",
+  "gender": "male",
+  "conf": "high",
+  "why": "คุโรอิวะเสียดสียากามิเรื่องอายาเบะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0161": {
+  "speaker": "Stick",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้บุกโจมตี ตะโกนใส่ยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0162": {
+  "speaker": "Stick",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้บุกโจมตี ตะโกนใส่ยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0163": {
+  "speaker": "Stick",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้บุกโจมตี ตะโกนใส่ยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0164": {
+  "speaker": "Stick",
+  "gender": "male",
+  "conf": "med",
+  "why": "ผู้บุกโจมตี ตะโกนใส่ยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0167": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0168": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0169": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0170": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0171": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0172": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ปฏิเสธคุโรอิวะ อายาเบะไม่ผิด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0173": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เผชิญหน้าผู้บุกโจมตี",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0174": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เผชิญหน้าผู้บุกโจมตี",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0175": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เผชิญหน้าผู้บุกโจมตี",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0176": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เผชิญหน้าผู้บุกโจมตี",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0177": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0178": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0179": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0180": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0181": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เตือนโฮชิโนะถอยไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0184": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คาดว่าเป็นลูกน้องฮามุระ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0185": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "คาดว่าเป็นลูกน้องฮามุระ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0186": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องได้ยินมา ลงท้ายครับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0187": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องได้ยินมา ลงท้ายครับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0191": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0192": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0193": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0194": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0195": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0196": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0197": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0198": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0199": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะตอบโทรศัพท์ ชวนไป KJ Art",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0203": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเกือบโดนฆ่า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0204": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "เล่าว่าเกือบโดนฆ่า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0205": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0206": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0207": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0208": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0209": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0210": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0211": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0212": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0213": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0214": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "โทรเตือนไคโตะ เรื่องไปคลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0215": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชวนไปกัน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0222": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบโฮชิโนะ ประหม่าเหมือนกัน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0223": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบโฮชิโนะ ประหม่าเหมือนกัน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0228": {
+  "speaker": "kj_monban",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยามหน้า KJ Art แจ้งไคโตะมาถึง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0229": {
+  "speaker": "kj_monban",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยามหน้า KJ Art แจ้งไคโตะมาถึง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0230": {
+  "speaker": "kj_monban",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยามหน้า KJ Art แจ้งไคโตะมาถึง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0232": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "พูดถึงนัดหมายโชโนะ คิโดะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0233": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "พูดถึงนัดหมายโชโนะ คิโดะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0234": {
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับสั้น ๆ ไม่มีเบาะแส",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0237": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0238": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0239": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0240": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0241": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะพูดกับมุราเสะ ฉัน แก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0242": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "เพิ่งรู้ผลเรื่องโอคุโบะจากยากามิ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0244": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสำนวนกันเอง อาสาซุ่มดัก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0245": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสำนวนกันเอง อาสาซุ่มดัก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0246": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสำนวนกันเอง อาสาซุ่มดัก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0247": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสำนวนกันเอง อาสาซุ่มดัก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0250": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มุราเสะขอโทษ พูดถึงประธานคาจิฮิระ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0251": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มุราเสะขอโทษ พูดถึงประธานคาจิฮิระ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0252": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มุราเสะขอโทษ พูดถึงประธานคาจิฮิระ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0253": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "มุราเสะขอโทษ พูดถึงประธานคาจิฮิระ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0254": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ปฏิเสธข้อเสนอมุราเสะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0255": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ปฏิเสธข้อเสนอมุราเสะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0256": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "med",
+  "why": "เชิญนั่งพัก",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0258": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0259": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0260": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0261": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0262": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "high",
+  "why": "ถามยากามิว่าไอ้หนุ่มคือใคร",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0264": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "จะร่วมทัวร์ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0265": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "จะร่วมทัวร์ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0266": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เตือนไคโตะ อย่าเพลิน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0267": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เตือนไคโตะ อย่าเพลิน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0268": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องปฏิกิริยา ลงท้ายครับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0269": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องปฏิกิริยา ลงท้ายครับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0270": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องปฏิกิริยา ลงท้ายครับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0271": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบเรื่องปฏิกิริยา ลงท้ายครับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0272": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เลี่ยงตอบ พูดถึงคนกลัวยากูซ่า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0273": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เลี่ยงตอบ พูดถึงคนกลัวยากูซ่า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0274": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เลี่ยงตอบ พูดถึงคนกลัวยากูซ่า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0275": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "เลี่ยงตอบ พูดถึงคนกลัวยากูซ่า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0276": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วางแผนดักโชโนะที่ล็อบบี้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0277": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วางแผนดักโชโนะที่ล็อบบี้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0278": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วางแผนดักโชโนะที่ล็อบบี้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0279": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "วางแผนดักโชโนะที่ล็อบบี้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0280": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0281": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0282": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0283": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0284": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0285": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "สั่งไคโตะอยู่เฝ้า โฮชิโนะกลับ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0286": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับ ไปกัน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0287": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตอบรับ ไปกัน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0290": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าโชโนะกลับหรือยัง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0291": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าโชโนะกลับหรือยัง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0292": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่าโชโนะกลับหรือยัง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0295": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ให้ใจเย็น รอโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0296": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ให้ใจเย็น รอโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0298": {
+  "speaker": "center_uketsuke",
+  "gender": "female",
+  "conf": "med",
+  "why": "พนักงานต้อนรับ ADDC ตอบเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0299": {
+  "speaker": "center_uketsuke",
+  "gender": "female",
+  "conf": "med",
+  "why": "พนักงานต้อนรับ ADDC ตอบเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0300": {
+  "speaker": "center_uketsuke",
+  "gender": "female",
+  "conf": "med",
+  "why": "ถามว่ามีนัดหรือไม่",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0301": {
+  "speaker": "center_uketsuke",
+  "gender": "female",
+  "conf": "med",
+  "why": "ถามว่ามีนัดหรือไม่",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0303": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามหาโชโนะทีม AD-9",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0304": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามหาโชโนะทีม AD-9",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0307": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "high",
+  "why": "แนะนำตัวฮาชิโมโตะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0308": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "high",
+  "why": "แนะนำตัวฮาชิโมโตะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0309": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "high",
+  "why": "แนะนำตัวฮาชิโมโตะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0310": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "high",
+  "why": "แนะนำตัวฮาชิโมโตะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0313": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชี้ตำแหน่งโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0315": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0316": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0317": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0318": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0319": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0320": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ทักฮาชิโมโตะ ขอตัวไป",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0323": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0324": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0325": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0326": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0327": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดตอนหาโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0330": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0331": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0332": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0333": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0334": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0335": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0336": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0337": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0338": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0339": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "high",
+  "why": "รองปลัดขู่ ยื่นร้องเรียนสภา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0341": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามต่อว่าเราจะทำยังไงดี",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0342": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามต่อว่าเราจะทำยังไงดี",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0345": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "low",
+  "why": "พบหน้ายากามิอีกครั้ง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0346": {
+  "speaker": "Ichinose",
+  "gender": "male",
+  "conf": "low",
+  "why": "พบหน้ายากามิอีกครั้ง",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0347": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ทักรองปลัด จำได้จากวันก่อน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0348": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ทักรองปลัด จำได้จากวันก่อน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0349": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ทักรองปลัด จำได้จากวันก่อน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0352": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0353": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0354": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0355": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0356": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0357": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0358": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0359": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0360": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ เล่าเรื่องโชโนะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0362": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบฮาชิโมโตะ จำรอบเช้า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0363": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบฮาชิโมโตะ จำรอบเช้า",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0366": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0367": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0368": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0369": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0370": {
+  "speaker": "Hashimoto",
+  "gender": "female",
+  "conf": "med",
+  "why": "ต่อบทฮาชิโมโตะ ขอตัวลา",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0372": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามทางเข้า หลังซุกิอุระ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0373": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามทางเข้า หลังซุกิอุระ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0376": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "นึกได้ว่าโชโนะทำเหมือนสามปีก่อน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0377": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "นึกได้ว่าโชโนะทำเหมือนสามปีก่อน",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0379": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0380": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0381": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0382": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0383": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0384": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0385": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ ADDC",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0389": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อคำอธิบายแผนที่",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0390": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ต่อคำอธิบายแผนที่",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0391": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชอบแผนทางโรงจอดรถ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0392": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "low",
+  "why": "ชอบแผนทางโรงจอดรถ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0393": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0394": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0395": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0396": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0397": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0398": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0399": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0400": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0401": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0402": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0403": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0404": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0405": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0406": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อธิบายแผนที่ตึกวิจัย ประตู",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0411": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ.",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0412": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ.",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0413": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ.",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0414": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ.",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0415": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ.",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0416": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "high",
+  "why": "แนะนำตัวมาชิโกะ หัวหน้ารปภ.",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0421": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ารองปลัดสั่ง คนเยอะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0422": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ารองปลัดสั่ง คนเยอะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0423": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ารองปลัดสั่ง คนเยอะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0424": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามว่ารองปลัดสั่ง คนเยอะ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0427": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0428": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0429": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0430": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0431": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0432": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0433": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0434": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไล่ออกแล้วท้าสู้",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0436": {
+  "speaker": "Mashiko",
+  "gender": "male",
+  "conf": "low",
+  "why": "อุทานเมื่อถูกซักถาม",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0438": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซักมาชิโกะเรื่องอาวุธ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0439": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซักมาชิโกะเรื่องอาวุธ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0440": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซักมาชิโกะเรื่องอาวุธ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0441": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ซักมาชิโกะเรื่องอาวุธ",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0445": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ขอบคุณรองปลัดแบบประชด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0446": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ขอบคุณรองปลัดแบบประชด",
+  "file": "speakers_02.part2.json"
+ },
+ "P0902-0452": {
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "อุทานสั้น ไม่มีเบาะแส",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0453": {
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "อุทานสั้น ไม่มีเบาะแส",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0455": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบซุกิอุระ จุดสูบบุหรี่ของตัวเอง",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0456": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบซุกิอุระ จุดสูบบุหรี่ของตัวเอง",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0459": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องต่อรอง เรียกนาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0460": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องต่อรอง เรียกนาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0461": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องต่อรอง เรียกนาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0462": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องต่อรอง เรียกนาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0465": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0466": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0467": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0468": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0469": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0470": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0471": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0472": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0473": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0474": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0476": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของเห็นด้วย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0477": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายตำรวจสรุปว่าโอคุโบะผิด",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0478": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายตำรวจสรุปว่าโอคุโบะผิด",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0479": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายตำรวจสรุปว่าโอคุโบะผิด",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0480": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายตำรวจสรุปว่าโอคุโบะผิด",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0481": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0482": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0483": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0484": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0485": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0486": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0487": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0488": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0489": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0490": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0491": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0492": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0493": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0494": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0495": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0498": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0499": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0500": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0501": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0502": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0503": {
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่านั่นอะไร ไม่มีเบาะแส",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0504": {
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่านั่นอะไร ไม่มีเบาะแส",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0505": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0506": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0507": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0508": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0509": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0510": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0511": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0512": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0513": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0514": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0515": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0516": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0517": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0518": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0519": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0520": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0521": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0522": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0523": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0524": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0525": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0526": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0527": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0528": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0529": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0531": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะไล่ผู้บุกรุก",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0532": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะไล่ผู้บุกรุก",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0533": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะไล่ผู้บุกรุก",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0535": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0536": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0537": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0538": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0539": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0544": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0545": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0546": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0547": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0548": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0549": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0550": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0551": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0552": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0553": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0554": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0555": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0556": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0557": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0558": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0559": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น",
+  "file": "speakers_02.part3.json"
+ },
+ "P0902-0560": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0561": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0562": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0563": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0564": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0565": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0566": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0567": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0568": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0569": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0570": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0571": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0572": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0573": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเผชิญหน้าโชโนะ เรื่องไอ้ตัวตุ่น",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0575": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะถามกลับ ปฏิเสธข้อกล่าวหา",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0576": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะถามกลับ ปฏิเสธข้อกล่าวหา",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0577": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะถามกลับ ปฏิเสธข้อกล่าวหา",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0578": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะถามกลับ ปฏิเสธข้อกล่าวหา",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0579": {
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะถามกลับ ปฏิเสธข้อกล่าวหา",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0582": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ห้ามยากามิ ผิดคน ลงท้ายครับ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0583": {
+  "speaker": "Sugiura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ห้ามยากามิ ผิดคน ลงท้ายครับ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0586": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0587": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0588": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0589": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0590": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0591": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0592": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0593": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0594": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0595": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0596": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0597": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0598": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0599": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิเปิดโปงโชโนะ ใส่ร้ายโอคุโบะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0600": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชี้ตัวเหยื่อ ต่อบทยากามิ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0601": {
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "อุทานสั้น ไม่มีเบาะแส",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0602": {
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "อุทานสั้น ไม่มีเบาะแส",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0603": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0604": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0605": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0606": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0607": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0608": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0609": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0610": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0611": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0612": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0613": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0614": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0615": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0616": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0617": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0618": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0619": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0620": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0621": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0622": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิไล่เรียงวิธีของโชโนะ",
+  "file": "speakers_02.part4.json"
+ },
+ "P0902-0078": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "อีกแทร็กของยากามิ Got it",
+  "file": "speakers_02.part5.json"
+ },
+ "P0902-0190": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "ตกใจตอนยากามิบอกว่าถูกลอบฆ่า",
+  "file": "speakers_02.part5.json"
+ },
+ "P0902-0218": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ประหม่าตอนเข้าที่ตั้งเคียวเรอิ",
+  "file": "speakers_02.part5.json"
+ },
+ "P0902-0219": {
+  "speaker": "Hoshino",
+  "gender": "male",
+  "conf": "med",
+  "why": "ประหม่าตอนเข้าที่ตั้งเคียวเรอิ",
+  "file": "speakers_02.part5.json"
+ },
+ "P0902-0257": {
+  "speaker": "Murase",
+  "gender": "male",
+  "conf": "med",
+  "why": "เชิญนั่งพัก ต่อบทมุราเสะ",
+  "file": "speakers_02.part5.json"
+ },
+ "P0902-0378": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "ตอบสั้น ๆ ใช้ร่วมหลายผู้พูด",
+  "file": "speakers_02.part5.json"
+ },
+ "P0902-0420": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "ตอบสั้น ๆ ใช้ร่วมหลายผู้พูด",
+  "file": "speakers_02.part5.json"
+ },
+ "P0902-0463": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "ตอบสั้น ๆ ใช้ร่วมหลายผู้พูด",
+  "file": "speakers_02.part5.json"
+ },
+ "P0901-0129": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "ป้าย Homeless Hamanaka มาจากคีย์ใช้ร่วม ไม่ใช่ตัวละครในฉากเรือนจำ a09_015",
+  "file": "speakers_51.json"
+ }
+}

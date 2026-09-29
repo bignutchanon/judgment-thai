@@ -1,0 +1,3187 @@
+[
+{
+"id": "P1001-0116",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "alt track ถัดไปเป็นยากามิ"
+},
+{
+"id": "P1001-0119",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ งัดกุญแจ"
+},
+{
+"id": "P1001-0120",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ประชดตอบซูงิอุระเรื่องไฟ"
+},
+{
+"id": "P1001-0121",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "alt track บรรทัดก่อน"
+},
+{
+"id": "P1001-0124",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "สนทนาต่อจากเก็นดะถามยากามิ"
+},
+{
+"id": "P1001-0125",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "alt track บรรทัดก่อน"
+},
+{
+"id": "P1001-0126",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ตอบเก็นดะ ชมยากามิ"
+},
+{
+"id": "P1001-0127",
+"speaker": "Genda",
+"gender": "male",
+"conf": "med",
+"why": "เรียก kid ปรามซูงิอุระ"
+},
+{
+"id": "P1001-0128",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ตอบคำถามเก็นดะ ไปคนเดียว"
+},
+{
+"id": "P1001-0129",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "เล่าเหตุผลยากามิให้เก็นดะ"
+},
+{
+"id": "P1001-0130",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "เตือนเก็นดะ sensei"
+},
+{
+"id": "P1001-0131",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "alt track บรรทัดก่อน"
+},
+{
+"id": "P1001-0132",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "พูดถึงยากามิซังต่อเนื่อง"
+},
+{
+"id": "P1001-0133",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "alt track บรรทัดก่อน"
+},
+{
+"id": "P1001-0134",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "พูดต่อเรื่องพิสูจน์บริสุทธิ์"
+},
+{
+"id": "P1001-0135",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "alt track บรรทัดก่อน"
+},
+{
+"id": "P1001-0136",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ชมยากามิเป็นตำนาน"
+},
+{
+"id": "P1001-0137",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "alt track บรรทัดก่อน"
+},
+{
+"id": "P1001-0142",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "สนทนาวงเดียวกัน"
+},
+{
+"id": "P1001-0143",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรับสั้น ๆ วงเดียวกัน"
+},
+{
+"id": "P1001-0144",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ครับ สุภาพ วงเดียวกัน"
+},
+{
+"id": "P1001-0145",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "alt track บรรทัดก่อน"
+},
+{
+"id": "P1001-0146",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ไม่มีเบาะแสผู้พูด"
+},
+{
+"id": "P1001-0147",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "alt track ไม่ทราบผู้พูด"
+},
+{
+"id": "P1001-0148",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "ไม่มีเบาะแสผู้พูด"
+},
+{
+"id": "P1001-0149",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "alt track ไม่ทราบผู้พูด"
+},
+{
+"id": "P1001-0150",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "หงุดหวิดในรถ นาย ห้วน"
+},
+{
+"id": "P1001-0151",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "หงุดหวิดในรถ นาย ห้วน"
+},
+{
+"id": "P1001-0154",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ฟังเครื่องดักฟังอยู่"
+},
+{
+"id": "P1001-0155",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ฟังเครื่องดักฟังอยู่"
+},
+{
+"id": "P1001-0156",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ถามเรื่องฮามุระ น้ำเสียงเดียวกัน"
+},
+{
+"id": "P1001-0157",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ถามเรื่องฮามุระ น้ำเสียงเดียวกัน"
+},
+{
+"id": "P1001-0160",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ถามเรื่องฮามุระ น้ำเสียงเดียวกัน"
+},
+{
+"id": "P1001-0158",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ใช้ แก ต่อว่าซูงิอุระ"
+},
+{
+"id": "P1001-0159",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ใช้ แก ต่อว่าซูงิอุระ"
+},
+{
+"id": "P1001-0161",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บ่นบุหรี่ในรถซูงิอุระ"
+},
+{
+"id": "P1001-0162",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บ่นบุหรี่ในรถซูงิอุระ"
+},
+{
+"id": "P1001-0163",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "เจ้าของรถโดนบ่น"
+},
+{
+"id": "P1001-0164",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "เจ้าของรถโดนบ่น"
+},
+{
+"id": "P1001-0165",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักซูงิอุระเรื่องฮามุระ"
+},
+{
+"id": "P1001-0166",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักซูงิอุระเรื่องฮามุระ"
+},
+{
+"id": "P1001-0168",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักซูงิอุระเรื่องฮามุระ"
+},
+{
+"id": "P1001-0169",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ซักซูงิอุระเรื่องฮามุระ"
+},
+{
+"id": "P1001-0170",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "รับคำสั้น ๆ ในรถ"
+},
+{
+"id": "P1001-0171",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "รับคำสั้น ๆ ในรถ"
+},
+{
+"id": "P1001-0172",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "พูดถึงตัวตุ่นและอายาเบะ"
+},
+{
+"id": "P1001-0173",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "พูดถึงตัวตุ่นและอายาเบะ"
+},
+{
+"id": "P1001-0174",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "พูดถึงตัวตุ่นและอายาเบะ"
+},
+{
+"id": "P1001-0175",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "พูดถึงตัวตุ่นและอายาเบะ"
+},
+{
+"id": "P1001-0176",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ผม ครับ เสนอส่งโดรน"
+},
+{
+"id": "P1001-0177",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ผม ครับ เสนอส่งโดรน"
+},
+{
+"id": "P1001-0178",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ผม ครับ เสนอส่งโดรน"
+},
+{
+"id": "P1001-0179",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ผม ครับ เสนอส่งโดรน"
+},
+{
+"id": "P1001-0184",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บ่นขาเมื่อยในรถ"
+},
+{
+"id": "P1001-0185",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บ่นขาเมื่อยในรถ"
+},
+{
+"id": "P1001-0186",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "บ่นขาเมื่อยในรถ"
+},
+{
+"id": "P1001-0189",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "คุยเรื่องไอ้นั่นในรถ"
+},
+{
+"id": "P1001-0190",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "คุยเรื่องไอ้นั่นในรถ"
+},
+{
+"id": "P1001-0191",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม ครับ ค้างในรถคนเดียว"
+},
+{
+"id": "P1001-0192",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม ครับ ค้างในรถคนเดียว"
+},
+{
+"id": "P1001-0194",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม ครับ ค้างในรถคนเดียว"
+},
+{
+"id": "P1001-0195",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม ครับ ค้างในรถคนเดียว"
+},
+{
+"id": "P1001-0196",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "แยกตามฮิงาชิ"
+},
+{
+"id": "P1001-0197",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "แยกตามฮิงาชิ"
+},
+{
+"id": "P1001-0199",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ ตามฮิงาชิ"
+},
+{
+"id": "P1001-0200",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ ตามฮิงาชิ"
+},
+{
+"id": "P1001-0201",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ ตามฮิงาชิ"
+},
+{
+"id": "P1001-0202",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0203",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0204",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0205",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0206",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0207",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0208",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0209",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0210",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ทาคุ · ตีกันที่ร้าน"
+},
+{
+"id": "P1001-0215",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรับข้อเสนอโชโนะ"
+},
+{
+"id": "P1001-0216",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอเดินเข้าไปถามฮิงาชิ"
+},
+{
+"id": "P1001-0217",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอเดินเข้าไปถามฮิงาชิ"
+},
+{
+"id": "P1001-0218",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เสนอเดินเข้าไปถามฮิงาชิ"
+},
+{
+"id": "P1001-0222",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0223",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0224",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0225",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0226",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0227",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0228",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0229",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0232",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0233",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0234",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0235",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0236",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0237",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0238",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "high",
+"why": "ผม ครับ พวกคุณ ฮิงาชิหนี"
+},
+{
+"id": "P1001-0230",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ถามซัด ฮิงาชิ ใช้ แก"
+},
+{
+"id": "P1001-0231",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ถามซัด ฮิงาชิ ใช้ แก"
+},
+{
+"id": "P1001-0241",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ปฏิเสธคำเตือนฮิงาชิ"
+},
+{
+"id": "P1001-0242",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ปฏิเสธคำเตือนฮิงาชิ"
+},
+{
+"id": "P1001-0243",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ปฏิเสธคำเตือนฮิงาชิ"
+},
+{
+"id": "P1001-0244",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ปฏิเสธคำเตือนฮิงาชิ"
+},
+{
+"id": "P1001-0245",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0246",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0247",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0248",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0249",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0250",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0251",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0252",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0253",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0254",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0255",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0256",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0257",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "วางแผนล่อเหยื่อ ให้ยากามิ"
+},
+{
+"id": "P1001-0258",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "กดดันฮิงาชิ/ล้อเล่น"
+},
+{
+"id": "P1001-0265",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "กดดันฮิงาชิ/ล้อเล่น"
+},
+{
+"id": "P1001-0266",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "กดดันฮิงาชิ/ล้อเล่น"
+},
+{
+"id": "P1001-0267",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "กดดันฮิงาชิ/ล้อเล่น"
+},
+{
+"id": "P1001-0268",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "กดดันฮิงาชิ/ล้อเล่น"
+},
+{
+"id": "P1001-0269",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "กดดันฮิงาชิ/ล้อเล่น"
+},
+{
+"id": "P1001-0259",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกไคโตะซัง ห้ามใจเย็น"
+},
+{
+"id": "P1001-0260",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกไคโตะซัง ห้ามใจเย็น"
+},
+{
+"id": "P1001-0261",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกไคโตะซัง ห้ามใจเย็น"
+},
+{
+"id": "P1001-0262",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกไคโตะซัง ห้ามใจเย็น"
+},
+{
+"id": "P1001-0263",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกไคโตะซัง ห้ามใจเย็น"
+},
+{
+"id": "P1001-0264",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "เรียกไคโตะซัง ห้ามใจเย็น"
+},
+{
+"id": "P1001-0270",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "เตือนความเสี่ยง ถามมั่นใจ"
+},
+{
+"id": "P1001-0271",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "เตือนความเสี่ยง ถามมั่นใจ"
+},
+{
+"id": "P1001-0272",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "เตือนความเสี่ยง ถามมั่นใจ"
+},
+{
+"id": "P1001-0273",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "เตือนความเสี่ยง ถามมั่นใจ"
+},
+{
+"id": "P1001-0274",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "เตือนความเสี่ยง ถามมั่นใจ"
+},
+{
+"id": "P1001-0275",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "เตือนความเสี่ยง ถามมั่นใจ"
+},
+{
+"id": "P1001-0276",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "รับมุกเรื่องควักตา"
+},
+{
+"id": "P1001-0277",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "รับมุกเรื่องควักตา"
+},
+{
+"id": "P1001-0278",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผม รับปากแผนเหยื่อ"
+},
+{
+"id": "P1001-0279",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผม รับปากแผนเหยื่อ"
+},
+{
+"id": "P1001-0280",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ผม รับปากแผนเหยื่อ"
+},
+{
+"id": "P1001-0283",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ฉันคอยหนุนหลัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0284",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ฉันคอยหนุนหลัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0285",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ฉันคอยหนุนหลัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0286",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ฉันคอยหนุนหลัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0290",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ล้อยากามิเป็นลูกแกะ"
+},
+{
+"id": "P1001-0291",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ล้อยากามิเป็นลูกแกะ"
+},
+{
+"id": "P1001-0292",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ล้อยากามิเป็นลูกแกะ"
+},
+{
+"id": "P1001-0293",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "high",
+"why": "ล้อยากามิเป็นลูกแกะ"
+},
+{
+"id": "P1001-0294",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าดูอยู่"
+},
+{
+"id": "P1001-0295",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่าดูอยู่"
+},
+{
+"id": "P1001-0296",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิระหว่างล่อ"
+},
+{
+"id": "P1001-0297",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิระหว่างล่อ"
+},
+{
+"id": "P1001-0298",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิระหว่างล่อ"
+},
+{
+"id": "P1001-0299",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิระหว่างล่อ"
+},
+{
+"id": "P1001-0300",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0301",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0302",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0303",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0304",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0305",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0306",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0307",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0308",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0309",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0310",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0311",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0312",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0313",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0314",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0315",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิผ่านหูฟัง เรียก ทาคุ"
+},
+{
+"id": "P1001-0318",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบไคโตะ ขอบใจที่บอก"
+},
+{
+"id": "P1001-0319",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบไคโตะ ขอบใจที่บอก"
+},
+{
+"id": "P1001-0320",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบไคโตะ ขอบใจที่บอก"
+},
+{
+"id": "P1001-0321",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบไคโตะ ขอบใจที่บอก"
+},
+{
+"id": "P1001-0322",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0323",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0324",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0325",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0326",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0327",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0328",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0329",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0330",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0331",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0332",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0333",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0336",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบโต้ไคโตะ ผมไม่เป็นไร"
+},
+{
+"id": "P1001-0334",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิ ล่อเหยื่อ"
+},
+{
+"id": "P1001-0335",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิ ล่อเหยื่อ"
+},
+{
+"id": "P1001-0337",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิ ล่อเหยื่อ"
+},
+{
+"id": "P1001-0338",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิ ล่อเหยื่อ"
+},
+{
+"id": "P1001-0339",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิ ล่อเหยื่อ"
+},
+{
+"id": "P1001-0340",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "แนะนำยากามิ ล่อเหยื่อ"
+},
+{
+"id": "P1001-0342",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ผม จะแวะเทนเดอร์"
+},
+{
+"id": "P1001-0343",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ผม จะแวะเทนเดอร์"
+},
+{
+"id": "P1001-0344",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ผม จะแวะเทนเดอร์"
+},
+{
+"id": "P1001-0345",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ผม จะแวะเทนเดอร์"
+},
+{
+"id": "P1001-0348",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ตำหนิยากามิเรื่องภารกิจ"
+},
+{
+"id": "P1001-0349",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ตำหนิยากามิเรื่องภารกิจ"
+},
+{
+"id": "P1001-0350",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบไคโตะ เสนอบุกสำนักงาน"
+},
+{
+"id": "P1001-0351",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบไคโตะ เสนอบุกสำนักงาน"
+},
+{
+"id": "P1001-0352",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0353",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0354",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0355",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0356",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0357",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0358",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0359",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0360",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0363",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0364",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เสนอไปร้านมัตสึกาเนะล่อฮามุระ"
+},
+{
+"id": "P1001-0361",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ผม โต้ ไคโตะบอกให้ไปเมา"
+},
+{
+"id": "P1001-0362",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ผม โต้ ไคโตะบอกให้ไปเมา"
+},
+{
+"id": "P1001-0365",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "โต้แผนไคโตะ"
+},
+{
+"id": "P1001-0366",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "โต้แผนไคโตะ"
+},
+{
+"id": "P1001-0367",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "โต้แผนไคโตะ"
+},
+{
+"id": "P1001-0368",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "โต้แผนไคโตะ"
+},
+{
+"id": "P1001-0369",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตกลงแผน ผมไปเดี๋ยวนี้"
+},
+{
+"id": "P1001-0370",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตกลงแผน ผมไปเดี๋ยวนี้"
+},
+{
+"id": "P1001-0371",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตกลงแผน ผมไปเดี๋ยวนี้"
+},
+{
+"id": "P1001-0372",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตกลงแผน ผมไปเดี๋ยวนี้"
+},
+{
+"id": "P1001-0375",
+"speaker": "alvin_boy",
+"gender": "male",
+"conf": "med",
+"why": "คนถูกรีดไถ ต่อเนื่อง alvin_boy"
+},
+{
+"id": "P1001-0376",
+"speaker": "alvin_boy",
+"gender": "male",
+"conf": "med",
+"why": "คนถูกรีดไถ ต่อเนื่อง alvin_boy"
+},
+{
+"id": "P1001-0379",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0380",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0381",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0382",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0383",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0384",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0385",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0386",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0407",
+"speaker": "alvin_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะรีดไถ ใช้ มึง"
+},
+{
+"id": "P1001-0389",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ยุยากามิให้ช่วยคนถูกรีด"
+},
+{
+"id": "P1001-0390",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ยุยากามิให้ช่วยคนถูกรีด"
+},
+{
+"id": "P1001-0391",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ยุยากามิให้ช่วยคนถูกรีด"
+},
+{
+"id": "P1001-0394",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "ตอบยากามิ ดูท่าจะเป็นงั้น"
+},
+{
+"id": "P1001-0395",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ไคโตะซัง ตำหนิเสียงไม่สนใจ"
+},
+{
+"id": "P1001-0396",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เรียก ไคโตะซัง ตำหนิเสียงไม่สนใจ"
+},
+{
+"id": "P1001-0397",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ตอบยากามิ เออ ๆ"
+},
+{
+"id": "P1001-0398",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เผชิญลูกน้อง ผม คุณ"
+},
+{
+"id": "P1001-0399",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เผชิญลูกน้อง ผม คุณ"
+},
+{
+"id": "P1001-0400",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เผชิญลูกน้อง ผม คุณ"
+},
+{
+"id": "P1001-0401",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เผชิญลูกน้อง ผม คุณ"
+},
+{
+"id": "P1001-0402",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เผชิญลูกน้อง ผม คุณ"
+},
+{
+"id": "P1001-0403",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เผชิญลูกน้อง ผม คุณ"
+},
+{
+"id": "P1001-0404",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เผชิญลูกน้อง ผม คุณ"
+},
+{
+"id": "P1001-0405",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เผชิญลูกน้อง ผม คุณ"
+},
+{
+"id": "P1001-0410",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ไล่รายชื่อร้านมัตสึกาเนะ"
+},
+{
+"id": "P1001-0411",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ไล่รายชื่อร้านมัตสึกาเนะ"
+},
+{
+"id": "P1001-0412",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ไล่รายชื่อร้านมัตสึกาเนะ"
+},
+{
+"id": "P1001-0414",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งลูกน้องไปบอกฮามุระ"
+},
+{
+"id": "P1001-0415",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งลูกน้องไปบอกฮามุระ"
+},
+{
+"id": "P1001-0416",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งลูกน้องไปบอกฮามุระ"
+},
+{
+"id": "P1001-0417",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งลูกน้องไปบอกฮามุระ"
+},
+{
+"id": "P1001-0418",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งลูกน้องไปบอกฮามุระ"
+},
+{
+"id": "P1001-0419",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สั่งลูกน้องไปบอกฮามุระ"
+},
+{
+"id": "P1001-0420",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เรียกไคโตะซัง ผมจะลองแวะ"
+},
+{
+"id": "P1001-0421",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เรียกไคโตะซัง ผมจะลองแวะ"
+},
+{
+"id": "P1001-0422",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เรียกไคโตะซัง ผมจะลองแวะ"
+},
+{
+"id": "P1001-0425",
+"speaker": "billow_boy",
+"gender": "male",
+"conf": "low",
+"why": "พนักงานสวีทบิลโลว์ตอบยากามิ"
+},
+{
+"id": "P1001-0426",
+"speaker": "billow_boy",
+"gender": "male",
+"conf": "low",
+"why": "พนักงานสวีทบิลโลว์ตอบยากามิ"
+},
+{
+"id": "P1001-0427",
+"speaker": "billow_boy",
+"gender": "male",
+"conf": "low",
+"why": "พนักงานสวีทบิลโลว์ตอบยากามิ"
+},
+{
+"id": "P1001-0430",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เรียก ทาคุ สั่งให้ไปถาม"
+},
+{
+"id": "P1001-0432",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0433",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0434",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0435",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0436",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0437",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0438",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0439",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0440",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0441",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0442",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม สอบถามพนักงานร้าน"
+},
+{
+"id": "P1001-0443",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ"
+},
+{
+"id": "P1001-0446",
+"speaker": "Renkan",
+"gender": "male",
+"conf": "low",
+"why": "คนเรียกลูกค้าพูดต่อเนื่อง"
+},
+{
+"id": "P1001-0447",
+"speaker": "Renkan",
+"gender": "male",
+"conf": "low",
+"why": "คนเรียกลูกค้าพูดต่อเนื่อง"
+},
+{
+"id": "P1001-0448",
+"speaker": "Renkan",
+"gender": "male",
+"conf": "low",
+"why": "คนเรียกลูกค้าตกใจยากามิ"
+},
+{
+"id": "P1001-0449",
+"speaker": "Renkan",
+"gender": "male",
+"conf": "low",
+"why": "คนเรียกลูกค้าตกใจยากามิ"
+},
+{
+"id": "P1001-0450",
+"speaker": "?",
+"gender": "male",
+"conf": "low",
+"why": "พนักงานร้านโรแมนซ์ ชาย"
+},
+{
+"id": "P1001-0451",
+"speaker": "?",
+"gender": "male",
+"conf": "low",
+"why": "พนักงานร้านโรแมนซ์ ชาย"
+},
+{
+"id": "P1001-0455",
+"speaker": "?",
+"gender": "male",
+"conf": "low",
+"why": "พนักงานร้านโรแมนซ์ ชาย"
+},
+{
+"id": "P1001-0453",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ถามพนักงานร้าน"
+},
+{
+"id": "P1001-0454",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ถามพนักงานร้าน"
+},
+{
+"id": "P1001-0456",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ถามพนักงานร้าน"
+},
+{
+"id": "P1001-0457",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ถามพนักงานร้าน"
+},
+{
+"id": "P1001-0458",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ถามพนักงานร้าน"
+},
+{
+"id": "P1001-0459",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ถามพนักงานร้าน"
+},
+{
+"id": "P1001-0461",
+"speaker": "fanta_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านต้อนรับ ขอโทษ"
+},
+{
+"id": "P1001-0462",
+"speaker": "fanta_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านต้อนรับ ขอโทษ"
+},
+{
+"id": "P1001-0463",
+"speaker": "fanta_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านต้อนรับ ขอโทษ"
+},
+{
+"id": "P1001-0464",
+"speaker": "fanta_boy",
+"gender": "male",
+"conf": "med",
+"why": "พนักงานร้านต้อนรับ ขอโทษ"
+},
+{
+"id": "P1001-0467",
+"speaker": "fanta_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะทวงส่วย"
+},
+{
+"id": "P1001-0468",
+"speaker": "fanta_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะทวงส่วย"
+},
+{
+"id": "P1001-0469",
+"speaker": "fanta_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะทวงส่วย"
+},
+{
+"id": "P1001-0471",
+"speaker": "fanta_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะทวงส่วย"
+},
+{
+"id": "P1001-0472",
+"speaker": "fanta_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะทวงส่วย"
+},
+{
+"id": "P1001-0473",
+"speaker": "fanta_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะทวงส่วย"
+},
+{
+"id": "P1001-0474",
+"speaker": "fanta_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะทวงส่วย"
+},
+{
+"id": "P1001-0475",
+"speaker": "fanta_matsu",
+"gender": "male",
+"conf": "med",
+"why": "ลูกน้องมัตสึกาเนะทวงส่วย"
+},
+{
+"id": "P1001-0478",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ยุยากามิแนะนำตัว"
+},
+{
+"id": "P1001-0479",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "ยุยากามิแนะนำตัว"
+},
+{
+"id": "P1001-0483",
+"speaker": "?",
+"gender": "male",
+"conf": "low",
+"why": "รับคำสั้น ไม่มีเบาะแส"
+},
+{
+"id": "P1001-0484",
+"speaker": "?",
+"gender": "male",
+"conf": "low",
+"why": "รับคำสั้น ไม่มีเบาะแส"
+},
+{
+"id": "P1001-0485",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0486",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0487",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0488",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0489",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0490",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0494",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0495",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0496",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0497",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม เข้าร้าน ถามหาฮามุระ"
+},
+{
+"id": "P1001-0500",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0501",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0502",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0503",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0510",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0511",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0512",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0513",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0514",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "โค้ชยากามิ เรียก ทาคุ"
+},
+{
+"id": "P1001-0504",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรับแผนไคโตะ"
+},
+{
+"id": "P1001-0505",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบรับแผนไคโตะ"
+},
+{
+"id": "P1001-0516",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ตอบรับไปย่านแชมเปี้ยน"
+},
+{
+"id": "P1001-0517",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ตอบรับไปย่านแชมเปี้ยน"
+},
+{
+"id": "P1001-0521",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "หนีไล่ตาม เล่าเหตุการณ์"
+},
+{
+"id": "P1001-0522",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "หนีไล่ตาม เล่าเหตุการณ์"
+},
+{
+"id": "P1001-0523",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "หนีไล่ตาม เล่าเหตุการณ์"
+},
+{
+"id": "P1001-0524",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "หนีไล่ตาม เล่าเหตุการณ์"
+},
+{
+"id": "P1001-0525",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม นั่งดักฟังในรถตู้"
+},
+{
+"id": "P1001-0526",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม นั่งดักฟังในรถตู้"
+},
+{
+"id": "P1001-0527",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม นั่งดักฟังในรถตู้"
+},
+{
+"id": "P1001-0528",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม นั่งดักฟังในรถตู้"
+},
+{
+"id": "P1001-0529",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม นั่งดักฟังในรถตู้"
+},
+{
+"id": "P1001-0530",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม นั่งดักฟังในรถตู้"
+},
+{
+"id": "P1001-0531",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ผม นั่งดักฟังในรถตู้"
+},
+{
+"id": "P1001-0532",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "รับคำสั้น ๆ"
+},
+{
+"id": "P1001-0534",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "รับคำสั้น ๆ"
+},
+{
+"id": "P1001-0535",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0536",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0537",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0538",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0539",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0540",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0541",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0542",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0543",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0544",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซูงิอุระ ตามหาไคโตะ"
+},
+{
+"id": "P1001-0547",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามว่าไคโตะอยู่ในตึกไหม"
+},
+{
+"id": "P1001-0548",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ถามว่าไคโตะอยู่ในตึกไหม"
+},
+{
+"id": "P1001-0549",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "เสนอบุกตึก สังเกตหน้าตึก"
+},
+{
+"id": "P1001-0550",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "เสนอบุกตึก สังเกตหน้าตึก"
+},
+{
+"id": "P1001-0553",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "เสนอบุกตึก สังเกตหน้าตึก"
+},
+{
+"id": "P1001-0554",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "เสนอบุกตึก สังเกตหน้าตึก"
+},
+{
+"id": "P1001-0557",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ยากามิซัง ครับ ถามพร้อม"
+},
+{
+"id": "P1001-0558",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ยากามิซัง ครับ ถามพร้อม"
+},
+{
+"id": "P1001-0559",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ยากามิซัง ครับ ถามพร้อม"
+},
+{
+"id": "P1001-0560",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ยากามิซัง ครับ ถามพร้อม"
+},
+{
+"id": "P1001-0562",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ยากามิซัง ครับ ถามพร้อม"
+},
+{
+"id": "P1001-0561",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "low",
+"why": "ตอบสั้น ๆ ในบริบทเดียวกัน"
+},
+{
+"id": "P1001-0565",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบว่ายังไม่พร้อม"
+},
+{
+"id": "P1001-0568",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "เสียงสั้นไม่มีเบาะแส"
+},
+{
+"id": "P1001-0576",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "เสียงสั้นไม่มีเบาะแส"
+},
+{
+"id": "P1001-0577",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "เสียงสั้นไม่มีเบาะแส"
+},
+{
+"id": "P1001-0582",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "เสียงสั้นไม่มีเบาะแส"
+},
+{
+"id": "P1001-0585",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "เสียงสั้นไม่มีเบาะแส"
+},
+{
+"id": "P1001-0634",
+"speaker": "?",
+"gender": "unknown",
+"conf": "low",
+"why": "เสียงสั้นไม่มีเบาะแส"
+},
+{
+"id": "P1001-0569",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ขู่ตัวตุ่น เรียก โอยาบุน"
+},
+{
+"id": "P1001-0570",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ขู่ตัวตุ่น เรียก โอยาบุน"
+},
+{
+"id": "P1001-0571",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ขู่ตัวตุ่น เรียก โอยาบุน"
+},
+{
+"id": "P1001-0572",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ขู่ตัวตุ่น เรียก โอยาบุน"
+},
+{
+"id": "P1001-0573",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ขู่ตัวตุ่น เรียก โอยาบุน"
+},
+{
+"id": "P1001-0574",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ขู่ตัวตุ่น เรียก โอยาบุน"
+},
+{
+"id": "P1001-0575",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ขู่ตัวตุ่น เรียก โอยาบุน"
+},
+{
+"id": "P1001-0578",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ถูกสอบปากคำ ท้าให้ยิง"
+},
+{
+"id": "P1001-0579",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ถูกสอบปากคำ ท้าให้ยิง"
+},
+{
+"id": "P1001-0580",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ถูกสอบปากคำ ท้าให้ยิง"
+},
+{
+"id": "P1001-0581",
+"speaker": "Hamura",
+"gender": "male",
+"conf": "med",
+"why": "ถูกสอบปากคำ ท้าให้ยิง"
+},
+{
+"id": "P1001-0588",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เจ็บแต่ดื้อ ฉัน"
+},
+{
+"id": "P1001-0589",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เจ็บแต่ดื้อ ฉัน"
+},
+{
+"id": "P1001-0590",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "med",
+"why": "เจ็บแต่ดื้อ ฉัน"
+},
+{
+"id": "P1001-0592",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0593",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0594",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0595",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0596",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0599",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0600",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0601",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0657",
+"speaker": "Matugane",
+"gender": "male",
+"conf": "med",
+"why": "ประมุขมัตสึกาเนะ สำนึกผิด"
+},
+{
+"id": "P1001-0597",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "เร่งออกจากที่นั่น"
+},
+{
+"id": "P1001-0598",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "เร่งออกจากที่นั่น"
+},
+{
+"id": "P1001-0602",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "low",
+"why": "ร่วมวงพูดสรุป"
+},
+{
+"id": "P1001-0603",
+"speaker": "Higashi",
+"gender": "male",
+"conf": "low",
+"why": "ร่วมวงพูดสรุป"
+},
+{
+"id": "P1001-0606",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ครับ ถามไคโตะ รถตู้"
+},
+{
+"id": "P1001-0607",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ครับ ถามไคโตะ รถตู้"
+},
+{
+"id": "P1001-0610",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ครับ ถามไคโตะ รถตู้"
+},
+{
+"id": "P1001-0613",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ครับ ถามไคโตะ รถตู้"
+},
+{
+"id": "P1001-0614",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ครับ ถามไคโตะ รถตู้"
+},
+{
+"id": "P1001-0615",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ครับ ถามไคโตะ รถตู้"
+},
+{
+"id": "P1001-0608",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "แซวไคโตะที่ยังเก๊ก"
+},
+{
+"id": "P1001-0609",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "แซวไคโตะที่ยังเก๊ก"
+},
+{
+"id": "P1001-0616",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ผม ฝากพาไคโตะไปหาหมอ"
+},
+{
+"id": "P1001-0617",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "เรียก โอยาบุน สื่อเจ็บ"
+},
+{
+"id": "P1001-0618",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "เรียก โอยาบุน สื่อเจ็บ"
+},
+{
+"id": "P1001-0619",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "เรียกร้องคำตอบจากฮามุระ"
+},
+{
+"id": "P1001-0620",
+"speaker": "Kaito",
+"gender": "male",
+"conf": "low",
+"why": "เรียกร้องคำตอบจากฮามุระ"
+},
+{
+"id": "P1001-0621",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0622",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0623",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0624",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0625",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0626",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0628",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0629",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0630",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0631",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0632",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0635",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0636",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0638",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0639",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0640",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0641",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0642",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0643",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0644",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0645",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0646",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "สอบสวนฮามุระ ผม นาย"
+},
+{
+"id": "P1001-0627",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในวงเล็บ"
+},
+{
+"id": "P1001-0637",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "ครับ ถามเรื่องมัตสึกาเนะ"
+},
+{
+"id": "P1001-0653",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0654",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0655",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0656",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0658",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0659",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0660",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0661",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0662",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0663",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0664",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0665",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0668",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0669",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0670",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0671",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0677",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0678",
+"speaker": "Shioya",
+"gender": "male",
+"conf": "med",
+"why": "ตระกูลเคียวเรอิ ใช้ มึง กู"
+},
+{
+"id": "P1001-0667",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ตอบชิโอยะ ขอคุ้มกัน"
+},
+{
+"id": "P1001-0672",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ต่อกรชิโอยะ มาฟุยุ"
+},
+{
+"id": "P1001-0673",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ต่อกรชิโอยะ มาฟุยุ"
+},
+{
+"id": "P1001-0674",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ต่อกรชิโอยะ มาฟุยุ"
+},
+{
+"id": "P1001-0675",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ต่อกรชิโอยะ มาฟุยุ"
+},
+{
+"id": "P1001-0676",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ผม ต่อกรชิโอยะ มาฟุยุ"
+}
+]

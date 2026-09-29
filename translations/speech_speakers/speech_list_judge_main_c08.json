@@ -1,0 +1,3302 @@
+{
+ "table": "speech_list_judge_main_c08",
+ "rows": {
+  "2": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0410",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "8": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "'representing me' ผู้ต้องหา",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "12": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0418",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "13": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0420",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "21": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องปืนตัวเอง",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "25": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0424",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "26": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0426",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "28": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0428",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "29": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "'my gun'",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "31": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0432",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "32": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "'set me up'",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "35": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเหตุการณ์คืนนั้น",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "36": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0438",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "38": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อยู่ต่อหลังพวกนายกลับ",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "39": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0441",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "41": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถูกตีหัว",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "43": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "45": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0445",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "47": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0447",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "48": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "'when I came to'",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "51": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "52": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "'my fucking gun' ต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "53": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "'my gun'",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "56": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0453",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "58": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0455",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "59": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0457",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "61": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "63": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0460",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "66": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0462",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "69": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0464",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "75": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0466",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "76": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 0468",
+   "source": "polish/ch08/speakers_01.part1.json"
+  },
+  "77": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้ต้องหาเล่าเรื่องปืนตนเอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "78": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้ต้องหาเล่าเรื่องปืนตนเอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "79": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้ต้องหาเล่าเรื่องปืนตนเอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "82": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้ต้องหาเล่าเรื่องปืนตนเอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "84": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้ต้องหาเล่าเรื่องปืนตนเอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "86": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้ต้องหาเล่าเรื่องปืนตนเอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "87": {
+   "speaker": "Ayabe",
+   "gender": "male",
+   "conf": "high",
+   "why": "ผู้ต้องหาเล่าเรื่องปืนตนเอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "14": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ทนายรุ่นน้องถามอายาเบะ/ยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "15": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ทนายรุ่นน้องถามอายาเบะ/ยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "17": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ทนายรุ่นน้องถามอายาเบะ/ยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "22": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ทนายรุ่นน้องถามอายาเบะ/ยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "24": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ทนายรุ่นน้องถามอายาเบะ/ยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "30": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียก Shintani-sensei เชิงสุภาพ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "62": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียก Shintani-sensei เชิงสุภาพ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "7": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "แนะนำโฮชิโนะ/ตอบโฮชิโนะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "9": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "แนะนำโฮชิโนะ/ตอบโฮชิโนะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "10": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "แนะนำโฮชิโนะ/ตอบโฮชิโนะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "16": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "แนะนำโฮชิโนะ/ตอบโฮชิโนะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "18": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในวงเล็บของยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "20": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องปืน",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "33": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในวงเล็บของยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "37": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องคืนเกิดเหตุ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "42": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องคืนเกิดเหตุ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "44": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องคืนเกิดเหตุ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "46": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องคืนเกิดเหตุ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "49": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องคืนเกิดเหตุ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "50": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องคืนเกิดเหตุ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "55": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องปืน",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "60": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะเรื่องกระสุน",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "64": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในวงเล็บของยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "65": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "67": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "68": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "70": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "71": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "73": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "74": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "80": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "85": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ซักอายาเบะต่อเนื่อง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "94": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามยากามิเรื่องไอ้ตัวตุ่น",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "90": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโฮชิโนะ วางแผนสืบ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "92": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโฮชิโนะ วางแผนสืบ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "93": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโฮชิโนะ วางแผนสืบ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "95": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโฮชิโนะ วางแผนสืบ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "96": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบโฮชิโนะ วางแผนสืบ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "99": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามยากามิเรื่องฮามุระ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "104": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "กลับไปรายงานเก็นดะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "105": {
+   "speaker": "Hoshino",
+   "gender": "male",
+   "conf": "med",
+   "why": "กลับไปรายงานเก็นดะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "108": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยามหน้าสำนักงานไล่ยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "109": {
+   "speaker": "Kengo",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยามหน้าสำนักงานไล่ยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "101": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "อยากไปถามมัตสึกาเนะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "102": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "อยากไปถามมัตสึกาเนะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "107": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "อยากไปถามมัตสึกาเนะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "113": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "บอกไม่รู้ที่ซ่อน จะโทรหา",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "119": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "บอกไม่รู้ที่ซ่อน จะโทรหา",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "120": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "บอกไม่รู้ที่ซ่อน จะโทรหา",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "123": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "บอกไม่รู้ที่ซ่อน จะโทรหา",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "124": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "บอกไม่รู้ที่ซ่อน จะโทรหา",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "117": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจากไคโตะบอกให้ใช้สมอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "118": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจากไคโตะบอกให้ใช้สมอง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "121": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ขอให้ไคโตะติดต่อ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "122": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ขอให้ไคโตะติดต่อ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "114": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามถึงมัตสึกาเนะ เรียกไคโตะซัง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "116": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามถึงมัตสึกาเนะ เรียกไคโตะซัง",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "127": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจากไคโตะเล่าเรื่องอายาเบะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "130": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ต่อจากไคโตะเล่าเรื่องอายาเบะ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "129": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "สรุปแผนต่อจากยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "131": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "สรุปแผนต่อจากยากามิ",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "135": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "โทรนัดที่ร้าน หลังฮิงาชิโทรมา",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "136": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "โทรนัดที่ร้าน หลังฮิงาชิโทรมา",
+   "source": "polish/ch08/speakers_01.part2.json"
+  },
+  "138": {
+   "speaker": "Higashi",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0629 ฮิงาชิโทร",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "134": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "โทรถามฮิงาชิ ขอบใจฮิงาชิ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "137": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "โทรถามฮิงาชิ ขอบใจฮิงาชิ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "142": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "143": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "146": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "150": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "152": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "154": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "157": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "158": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เรียกทาคุ พูดถึงฮามุระและครอบครัว",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "147": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบยากามิ ใช้ร่วม",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "156": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามหาฮามุระ ถามที่เรียกมา",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "159": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามหาฮามุระ ถามที่เรียกมา",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "160": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามหาฮามุระ ถามที่เรียกมา",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "163": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "165": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "166": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "168": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "169": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "171": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "173": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "175": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "176": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "178": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "179": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "181": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "เล่าเรื่องมือปืนของฮามุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "188": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ในฐานะหัวหน้าตระกูล",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "189": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ในฐานะหัวหน้าตระกูล",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "190": {
+   "speaker": "Matsugane",
+   "gender": "male",
+   "conf": "high",
+   "why": "ในฐานะหัวหน้าตระกูล",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "164": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามมัตสึกาเนะเรื่องนักฆ่า",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "167": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามมัตสึกาเนะเรื่องนักฆ่า",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "170": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามมัตสึกาเนะเรื่องนักฆ่า",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "180": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกมัตสึกาเนะซัง ขอบคุณ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "184": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกมัตสึกาเนะซัง ขอบคุณ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "186": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกมัตสึกาเนะซัง ขอบคุณ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "187": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกมัตสึกาเนะซัง ขอบคุณ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "191": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกมัตสึกาเนะซัง ขอบคุณ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "192": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เรียกมัตสึกาเนะซัง ขอบคุณ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "197": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "199": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "200": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "202": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "203": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "สรุปคำใบ้โอยาบุน ใช้ 'ฉัน'",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "209": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "วางแผน โทรหาซุกิอุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "211": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "วางแผน โทรหาซุกิอุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "213": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "วางแผน โทรหาซุกิอุระ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "204": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "'ผมเข้าใจ นายอยากติดเครื่อง'",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "206": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในวงเล็บของยากามิ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "207": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คัดค้านแผนไคโตะ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "208": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คัดค้านแผนไคโตะ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "210": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "คัดค้านแผนไคโตะ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "215": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในวงเล็บของยากามิ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "220": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบยากามิ เรียก Yagami-shi",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "222": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบยากามิ เรียก Yagami-shi",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "224": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบยากามิ เรียก Yagami-shi",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "226": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบยากามิ เรียก Yagami-shi",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "228": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบยากามิ เรียก Yagami-shi",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "230": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบยากามิ เรียก Yagami-shi",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "232": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบยากามิ เรียก Yagami-shi",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "234": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบยากามิ เรียก Yagami-shi",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "218": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขอให้สึคุโมะหาเครื่องดักฟัง",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "219": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขอให้สึคุโมะหาเครื่องดักฟัง",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "221": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขอให้สึคุโมะหาเครื่องดักฟัง",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "223": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขอให้สึคุโมะหาเครื่องดักฟัง",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "225": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขอให้สึคุโมะหาเครื่องดักฟัง",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "229": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามราคาสึคุโมะ",
+   "source": "polish/ch08/speakers_01.part3.json"
+  },
+  "231": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0789",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "233": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตกลงจ่ายเงินสึคุโมะ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "237": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "239": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "241": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "242": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขายเครื่องดักฟัง ฮึๆ ประจำตัว",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "238": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "'ผมจะเอาเงินมาให้'",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "240": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ยื่นเงินให้สึคุโมะ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "244": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ลังเลเรื่องเงิน ใช้ ผม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "248": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "รอที่ร้านประจำ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "247": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบสึคุโมะ ใช้ ผม/นาย",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "249": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบรับนัดสึคุโมะ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "252": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายเครื่องดักฟัง เฮ่ๆ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "253": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายเครื่องดักฟัง เฮ่ๆ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "254": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายเครื่องดักฟัง เฮ่ๆ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "256": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายเครื่องดักฟัง เฮ่ๆ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "257": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายเครื่องดักฟัง เฮ่ๆ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "259": {
+   "speaker": "Tsukumo",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายเครื่องดักฟัง เฮ่ๆ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "255": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขอบใจสึคุโมะ ใช้ ผม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "258": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ขอบใจสึคุโมะ ใช้ ผม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "264": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบยากามิที่ถามเครื่องดักฟัง",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "261": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถูกลากมา เรียกไคโตะว่า 'เขา'",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "271": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "สรุปว่าซวย 'it is what it is'",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "274": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "วางแผนปลอมตัว เรียก Tak",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "275": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "วางแผนปลอมตัว เรียก Tak",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "277": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "วางแผนปลอมตัว เรียก Tak",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "268": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "269": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "270": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ปฏิเสธแอบเข้า ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "272": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบโต้ 'Kaito-san'",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "273": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ตอบโต้ 'Kaito-san'",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "282": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "283": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "285": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "286": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "289": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "290": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "294": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "296": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "297": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "อธิบายทาชิโระ ขัดคำสั่งโอยาบุน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "292": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ฝากงานให้ซุกิอุระ/ยากามิ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "280": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "284": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "288": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "291": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "293": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถูกให้แต่งตัวเป็นทาชิโระ ใช้ ผม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "295": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามกลับเมื่อโดนชม",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "299": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ไปหา 'this Tashiro-kun'",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "303": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "'Sup?' ต่อเนื่อง บอกที่ทาชิโระทำงาน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "304": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "'Sup?' ต่อเนื่อง บอกที่ทาชิโระทำงาน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "306": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "'Sup?' ต่อเนื่อง บอกที่ทาชิโระทำงาน",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "302": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถามหาทาชิโระ เรียกไคโตะ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "305": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถามหาทาชิโระ เรียกไคโตะ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "307": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถามหาทาชิโระ เรียกไคโตะ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "313": {
+   "speaker": "emerald_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานร้านตอบยากามิ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "315": {
+   "speaker": "emerald_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานร้านตอบยากามิ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "317": {
+   "speaker": "emerald_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานร้านตอบยากามิ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "320": {
+   "speaker": "emerald_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานร้านตอบยากามิ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "321": {
+   "speaker": "emerald_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานร้านตอบยากามิ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "324": {
+   "speaker": "emerald_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานร้านตอบยากามิ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "329": {
+   "speaker": "emerald_boy",
+   "gender": "male",
+   "conf": "med",
+   "why": "พนักงานร้านตอบยากามิ",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "316": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถามลูกน้อง เรียก Tak",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "318": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถามลูกน้อง เรียก Tak",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "322": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถามลูกน้อง เรียก Tak",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "325": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถามลูกน้อง เรียก Tak",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "327": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ถามลูกน้อง เรียก Tak",
+   "source": "polish/ch08/speakers_01.part4.json"
+  },
+  "311": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ขอถามพนักงาน สุภาพ ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "314": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ขอถามพนักงาน สุภาพ ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "323": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ถามพนักงาน ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "326": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "'ผม...นาย' แซวไคโตะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "328": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ขอบคุณพนักงาน ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "342": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ใช้ 'แก' กับทาชิโระ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "343": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ใช้ 'แก' กับทาชิโระ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "346": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ใช้ 'แก' กับทาชิโระ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "350": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "ใช้ 'แก' กับทาชิโระ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "332": {
+   "speaker": "Tashiro",
+   "gender": "male",
+   "conf": "med",
+   "why": "ด่าตาแก่ แล้วจำยากามิได้",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "335": {
+   "speaker": "Tashiro",
+   "gender": "male",
+   "conf": "med",
+   "why": "ด่าตาแก่ แล้วจำยากามิได้",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "336": {
+   "speaker": "Tashiro",
+   "gender": "male",
+   "conf": "med",
+   "why": "ด่าตาแก่ แล้วจำยากามิได้",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "347": {
+   "speaker": "Tashiro",
+   "gender": "male",
+   "conf": "high",
+   "why": "หวงเสื้อผ้าตัวเอง",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "349": {
+   "speaker": "Tashiro",
+   "gender": "male",
+   "conf": "high",
+   "why": "หวงเสื้อผ้าตัวเอง",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "353": {
+   "speaker": "Tashiro",
+   "gender": "male",
+   "conf": "high",
+   "why": "หวงเสื้อผ้าตัวเอง",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "348": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ขอยืมเสื้อ สัญญาคืน",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "351": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ข่มขู่ให้ถอดเสื้อ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "352": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ข่มขู่ให้ถอดเสื้อ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "356": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "358": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "360": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "361": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "363": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "365": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "367": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "368": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "370": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "ค้นเสื้อผ้า เรียก Tak",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "357": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ห้ามเอาเงิน ฝากไคโตะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "359": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ห้ามเอาเงิน ฝากไคโตะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "362": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ห้ามเอาเงิน ฝากไคโตะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "364": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ห้ามเอาเงิน ฝากไคโตะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "366": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ห้ามเอาเงิน ฝากไคโตะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "371": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบไคโตะที่กำชับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "373": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุดยากามิ 'ฉัน'",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "375": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุดยากามิ 'ฉัน'",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "380": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "สวมรอยทาชิโระ ตอบสุภาพ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "381": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุด ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "383": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุด ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "385": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุด ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "387": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุด ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "388": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุด ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "390": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุด ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "392": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "หัวเราะชุด ใช้ ผม/ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "396": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "ห้ามยากามิเข้า ครับ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "398": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "เร่งให้ใส่ชุด ใช้ 'นาย'",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "400": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "อีกแทร็กของ 1061",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "379": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เร่งซุกิอุระที่หัวเราะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "382": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เร่งซุกิอุระที่หัวเราะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "384": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "เร่งซุกิอุระที่หัวเราะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "391": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "พร้อมแล้ว รำคาญเสียงหัวเราะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "393": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "พร้อมแล้ว รำคาญเสียงหัวเราะ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "394": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "ตอบซุกิอุระว่ายังไม่พร้อม",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "401": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในวงเล็บ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "403": {
+   "speaker": "Matsugane subordinate (unnamed)",
+   "gender": "male",
+   "conf": "high",
+   "why": "ทักทาชิโระ (ยากามิปลอมตัว)",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "406": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในวงเล็บ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "408": {
+   "speaker": "matsugane_touban",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อจาก 'Hey, Tashiro' ยามสำนักงาน",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "409": {
+   "speaker": "matsugane_touban",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อจาก 'Hey, Tashiro' ยามสำนักงาน",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "410": {
+   "speaker": "matsugane_touban",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อจาก 'Hey, Tashiro' ยามสำนักงาน",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "411": {
+   "speaker": "matsugane_touban",
+   "gender": "male",
+   "conf": "high",
+   "why": "ต่อจาก 'Hey, Tashiro' ยามสำนักงาน",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "413": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิดในวงเล็บ",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "415": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "ความคิด <color=monologue>",
+   "source": "polish/ch08/speakers_01.part5.json"
+  },
+  "416": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "417": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "418": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "419": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "420": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "421": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "422": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "423": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "424": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "425": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "426": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "427": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "428": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "429": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "430": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "431": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "432": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "433": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "434": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "435": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "436": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "bug planting monologue in Matsugane office",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "441": {
+   "speaker": "matsugane_touban",
+   "gender": "male",
+   "conf": "med",
+   "why": "guard scolds disguised Tashiro",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "442": {
+   "speaker": "matsugane_touban",
+   "gender": "male",
+   "conf": "med",
+   "why": "guard scolds disguised Tashiro",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "446": {
+   "speaker": "Unnamed henchman",
+   "gender": "male",
+   "conf": "med",
+   "why": "henchman threatens intruder Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "447": {
+   "speaker": "Unnamed henchman",
+   "gender": "male",
+   "conf": "med",
+   "why": "henchman threatens intruder Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "445": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thought after being caught",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "451": {
+   "speaker": "Unnamed henchman",
+   "gender": "male",
+   "conf": "med",
+   "why": "retorts to Yagami's law remark",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "453": {
+   "speaker": "Unnamed henchman",
+   "gender": "male",
+   "conf": "med",
+   "why": "retorts to Yagami's law remark",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "450": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Yagami escape barks",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "452": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Yagami escape barks",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "454": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "Yagami escape barks",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "457": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "cut breaker; ครับ after 0050",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "459": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "high",
+   "why": "cut breaker; ครับ after 0050",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "458": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "thanks Sugiura by name",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "464": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "monitors bugs, reports call",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "466": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "monitors bugs, reports call",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "467": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "monitors bugs, reports call",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "469": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "monitors bugs, reports call",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "470": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "monitors bugs, reports call",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "471": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks about cho-han hall",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "472": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks about cho-han hall",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "475": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "suggests casino under Koi Bride",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "477": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "suggests casino under Koi Bride",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "463": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Sugiura about bugs",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "468": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "asks Sugiura about bugs",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "473": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "proposes asking a gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "474": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "proposes asking a gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "476": {
+   "speaker": "Sugiura",
+   "gender": "male",
+   "conf": "med",
+   "why": "proposes asking a gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "478": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "thanks Sugiura, will handle rest",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "480": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "thanks Sugiura, will handle rest",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "482": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "thought about finding cho-han",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "487": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino patron, wants intro to woman",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "489": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino patron, wants intro to woman",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "490": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino patron, wants intro to woman",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "492": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino patron, wants intro to woman",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "494": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino patron, wants intro to woman",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "497": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino patron, wants intro to woman",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "499": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino patron, wants intro to woman",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "501": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino patron, wants intro to woman",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "516": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "518": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "520": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "522": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "526": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "528": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "530": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "533": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "535": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "539": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "541": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "543": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "547": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "casino gamblers answering Yagami",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "486": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks patrons about cho-han",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "488": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks patrons about cho-han",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "491": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks patrons about cho-han",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "493": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacts to patron's wingman request",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "496": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacts to patron's wingman request",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "498": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacts to patron's wingman request",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "500": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "reacts to patron's wingman request",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "510": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talks to begging gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "517": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talks to begging gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "519": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talks to begging gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "527": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talks to begging gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "529": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talks to begging gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "532": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talks to begging gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "534": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talks to begging gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "536": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "talks to begging gambler",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "538": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "hands over 100k, comments",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "540": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "hands over 100k, comments",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "542": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "asks about cho-han again",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "546": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "refuses gambler, asks cho-han",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "554": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "refuses gambler, asks cho-han",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "555": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "refuses gambler, asks cho-han",
+   "source": "polish/ch08/speakers_02.part1.json"
+  },
+  "559": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "raincheck to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "485": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "502": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "504": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "513": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "521": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "523": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "531": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "537": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "545": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "550": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "551": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "thoughts sizing up patrons",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "563": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "chats up woman, buys drink",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "566": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "chats up woman, buys drink",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "569": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "chats up woman, buys drink",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "571": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "chats up woman, buys drink",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "573": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "chats up woman, buys drink",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "578": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "chats up woman, buys drink",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "568": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "chats up woman, buys drink",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "584": {
+   "speaker": "Gambling woman (unnamed)",
+   "gender": "female",
+   "conf": "med",
+   "why": "woman about to play poker",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "602": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "patron gives password directions",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "604": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "patron gives password directions",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "606": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "patron gives password directions",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "607": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "patron gives password directions",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "609": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "patron gives password directions",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "610": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "patron gives password directions",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "612": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "patron gives password directions",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "614": {
+   "speaker": "lamant_guest",
+   "gender": "male",
+   "conf": "med",
+   "why": "patron gives password directions",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "616": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "confused by patron's remark",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "592": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "accepts her drink offer",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "594": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "takes loss (ผม in alt)",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "599": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "arranges drink, hands off to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "601": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "arranges drink, hands off to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "603": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "arranges drink, hands off to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "605": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "arranges drink, hands off to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "608": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "arranges drink, hands off to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "611": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "arranges drink, hands off to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "613": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "arranges drink, hands off to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "615": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "arranges drink, hands off to patron",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "617": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls him Tak; 0291 labeled Kaito",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "619": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls him Tak; 0291 labeled Kaito",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "620": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls him Tak; 0291 labeled Kaito",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "622": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls him Tak; 0291 labeled Kaito",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "624": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls him Tak; 0291 labeled Kaito",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "625": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls him Tak; 0291 labeled Kaito",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "629": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "high",
+   "why": "calls him Tak; 0291 labeled Kaito",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "621": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "answers Kaito about Hamura",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "623": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "answers Kaito about Hamura",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "626": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0304",
+   "source": "polish/ch08/speakers_52.json"
+  },
+  "627": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "answers Kaito about Hamura",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "628": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "อีกแทร็กของ 0308",
+   "source": "polish/ch08/speakers_52.json"
+  },
+  "630": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "med",
+   "why": "answers Kaito about Hamura",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "633": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "634": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "637": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "639": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "644": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "646": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "654": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "656": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "662": {
+   "speaker": "Kaito",
+   "gender": "male",
+   "conf": "med",
+   "why": "doubts hideout, calls Tak",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "641": {
+   "speaker": "Gambling den doorman",
+   "gender": "male",
+   "conf": "med",
+   "why": "voice behind shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "651": {
+   "speaker": "Gambling den doorman",
+   "gender": "male",
+   "conf": "med",
+   "why": "voice behind shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "661": {
+   "speaker": "Gambling den doorman",
+   "gender": "male",
+   "conf": "med",
+   "why": "voice behind shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "638": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "640": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "643": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "645": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "647": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "648": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "649": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "650": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "653": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "655": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "657": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "658": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "659": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "660": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "663": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "635": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "642": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  },
+  "652": {
+   "speaker": "Yagami",
+   "gender": "male",
+   "conf": "high",
+   "why": "fumbles password at shutter",
+   "source": "polish/ch08/speakers_02.part2.json"
+  }
+ }
+}

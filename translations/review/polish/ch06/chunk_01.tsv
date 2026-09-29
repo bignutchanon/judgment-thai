@@ -1,0 +1,1002 @@
+id	ฉาก	ผู้พูด	หมายเหตุ	EN	TH
+P0601-0001	ทวนเรื่องเปิดบท · p06_00100	Narration (?)		The Mole's latest victim\nwas the lawyer, Shintani.	เหยื่อรายล่าสุดของไอ้ตัวตุ่น\nคือทนายความชินทานิ
+P0601-0002	ทวนเรื่องเปิดบท · p06_00100	Narration (?)		The last call he made brings the case that ruined\nYagami three years ago back to the surface.	โทรศัพท์สายสุดท้ายที่เขาโทรออก ดึงคดีที่เคยทำลาย\nชีวิตยากามิเมื่อสามปีก่อนกลับ ขึ้นมาอีกครั้ง
+P0601-0003	ทวนเรื่องเปิดบท · p06_00100	Narration (?)		A patient was taken from a hospital\nand found buried in the mountains.	ผู้ป่วยรายหนึ่งถูกพาตัวออกจาก โรงพยาบาล\nและถูกพบว่าถูกฝังไว้บนภูเขา
+P0601-0004	ทวนเรื่องเปิดบท · p06_00100	Narration (?)		Yagami defended the suspect, Shinpei Okubo,\nand got an acquittal, but one month later...	ยากามิแก้ต่างให้ผู้ต้องสงสัย ชินเป โอคุโบะ\nจนพ้นผิด แต่หนึ่งเดือนต่อมา...
+P0601-0005	ทวนเรื่องเปิดบท · p06_00100	Narration (?)		He murdered his girlfriend, Emi Terasawa,\nwith a kitchen knife and burned the remains.	เขาฆ่าแฟนสาวของตัวเอง เอมิ เทราซาวะ\nด้วยมีดทำครัวแล้วเผาศพทิ้ง
+P0601-0006	คัตซีน · a06_010	Mafuyu (ญ)		Hey, what are you—	เฮ้ นี่คุณจะ—
+P0601-0007	คัตซีน · a06_010	Mafuyu (ญ)	[อีกแทร็ก]	Stop! What are you—	หยุดนะ! คุณจะ—
+P0601-0008	คัตซีน · a06_010	Mafuyu (ญ)		Let go! Get off me!	ปล่อยนะ! ออกไปจากตัวฉัน!
+P0601-0009	คัตซีน · a06_010	Mafuyu (ญ)	[อีกแทร็ก]	No, stop it!　	ไม่นะ หยุดเถอะ! 
+P0601-0010	คัตซีน · a06_010	Mafuyu (ญ)	[ใช้ร่วม]	Let me go!	ปล่อยฉันนะ!
+P0601-0011	คัตซีน · a06_010	Tashiro (ช)	[ใช้ร่วม]	Shut up!	หุบปาก!
+P0601-0012	คัตซีน · a06_010	Mafuyu (ญ)	[ใช้ร่วม]	Yagami-kun!	ยากามิคุง!
+P0601-0013	คัตซีน · a06_010	Kyorei thug (ช)	[ใช้ร่วม]	Oh shit!	โอ๊ย ฉิบหาย!
+P0601-0014	คัตซีน · a06_010	Kyorei thug (ช)	[อีกแทร็ก] [ใช้ร่วม]	Shit!	เชี่ย!
+P0601-0015	คัตซีน · a06_010	Yagami (ช)		Get back.	ถอยไปนะ
+P0601-0016	คัตซีน · a06_010	Yagami (ช)	[อีกแทร็ก]	Stay back.	อยู่ห่างๆ ไว้
+P0601-0017	คัตซีน · a06_010	Mafuyu (ญ)		What, why? Let's go!	อะไร? ทำไม? ไปกันเถอะ!
+P0601-0018	คัตซีน · a06_010	Mafuyu (ญ)	[อีกแทร็ก]	What!? No!	อะไรนะ!? ไม่เอา!
+P0601-0019	คัตซีน · a06_010	Tashiro (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Huh!?	หา!?
+P0601-0020	คัตซีน · a06_010	Tashiro (ช)		Hold on a minute!	เดี๋ยวก่อน!
+P0601-0021	คัตซีน · a06_010	Tashiro (ช)	[อีกแทร็ก]	Hey, hold on!	เฮ้ เดี๋ยวก่อนสิ!
+P0601-0022	คัตซีน · a06_010	Tashiro (ช)		Yagami, you're going down!	ยากามิ มึงต้องจบเห่แน่!
+P0601-0023	คัตซีน · a06_010	Tashiro (ช)	[อีกแทร็ก]	Yagami... You son of a bitch!	ยากามิ...ไอ้สารเลว!
+P0601-0024	คัตซีน · a06_020	Yagami (ช)		Why am I not surprised?	ทำไมผมถึงไม่แปลกใจเลยนะ
+P0601-0025	คัตซีน · a06_020	Yagami (ช)	[อีกแทร็ก]	So it was you.	เป็นนายนี่เอง
+P0601-0026	คัตซีน · a06_020	Yagami (ช)		Shioya.	ชิโอยะ
+P0601-0027	คัตซีน · a06_020	Shioya (ช)		I know how to make\nan entrance, don't I?	กูรู้วิธีเปิดตัว\nเจ๋งๆ แบบนี้แหละว่ะ
+P0601-0028	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	Ya busted down the front door...	นายพังประตูหน้าเข้ามาซะงั้น...
+P0601-0029	คัตซีน · a06_020	Shioya (ช)		It's damn good to see ya, Yagami.	ดีใจจริงๆ ว่ะที่ได้เจอมึง ยากามิ
+P0601-0030	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	You're the real deal, Yagami.	มึงเป็นของจริงว่ะ ยากามิ
+P0601-0031	คัตซีน · a06_020	Shioya (ช)		A cryin' shame these idiots\nwere so goddamn useless, though.	น่าสมเพชจริงๆ ว่ะ ที่ไอ้พวกงี่เง่านี่\nมันไร้น้ำยาซะขนาดนี้
+P0601-0032	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	Then you've got this\nscrubfest I call a clan...	แล้วก็มีไอ้กลุ่มกากๆ\nที่กูเรียกมันว่าตระกูลนี่อีก...
+P0601-0033	คัตซีน · a06_020	Shioya (ช)		Guess strength in numbers ain't\nall it's chalked up to be.	เห็นทีว่าจำนวนคนเยอะ\nก็ไม่ได้ช่วยอะไรเลยว่ะ
+P0601-0034	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	They couldn't do shit even\nwith strength in numbers!	รุมกันตั้งหลายคน\nยังทำอะไรไม่ได้เลยว่ะ!
+P0601-0035	คัตซีน · a06_020	Shioya (ช)		Pansies. You all trying to get your\nfingers chopped off tonight, huh?	ไอ้พวกขี้ขลาด อยากให้ตัด\nนิ้วทิ้งคืนนี้กันหมดหรือไง?
+P0601-0036	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	Boys, how many fingers we\ngonna chop off tonight, huh!?	พวกมึง คืนนี้จะโดนตัดนิ้ว\nกันไปกี่นิ้วเนี่ย!?
+P0601-0037	คัตซีน · a06_020	Yagami (ช)		You tried to kidnap Mafuyu.	นายพยายามลักพาตัวมาฟุยุ
+P0601-0038	คัตซีน · a06_020	Yagami (ช)	[อีกแทร็ก]	You're the one who\ntried to kidnap Mafuyu?	นายนี่แหละที่พยายาม\nลักพาตัวมาฟุยุใช่ไหม?
+P0601-0039	คัตซีน · a06_020	Shioya (ช)		Girls.	พวกสาวๆ
+P0601-0040	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	Go.	ไปเร็ว
+P0601-0041	คัตซีน · a06_020	Yagami (ช)		You should've just told me if you wanted to fight.\nWould've been glad to do it at my place.	ถ้าอยากสู้ก็บอกผมตรงๆ ก็ได้\nผมยินดีจัดให้ที่ร้านผมเลยนะ
+P0601-0042	คัตซีน · a06_020	Yagami (ช)	[อีกแทร็ก]	If all you wanted was to continue our fight,\nyou could have just swung by.	ถ้าแค่อยากสู้กันต่อให้จบ\nนายก็แค่แวะมาหาผมก็ได้
+P0601-0043	คัตซีน · a06_020	Yagami (ช)		What is it you want?	นายต้องการอะไรกันแน่?
+P0601-0044	คัตซีน · a06_020	Yagami (ช)	[อีกแทร็ก]	What are you after?	คุณต้องการอะไรกันแน่?
+P0601-0045	คัตซีน · a06_020	Shioya (ช)		Well, I've got a little job\nI need done. You boys in?	เอางี้ กูมีงานเล็กๆ\nอยากให้ทำหน่อยว่ะ พวกมึงจะรับไหม?
+P0601-0046	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	I have a job I wanna ask you to do.	กูมีงานอยากให้พวกมึงช่วยทำหน่อย
+P0601-0047	คัตซีน · a06_020	Yagami (ช)		What job?	งานอะไรวะ?
+P0601-0048	คัตซีน · a06_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	A job?	งานเหรอ?
+P0601-0049	คัตซีน · a06_020	Shioya (ช)		I'm not in the business of being refused,\nso I needed to take out an insurance policy.	กูไม่ใช่คนที่ชอบให้ใครปฏิเสธ\nเลยต้องหาตัวประกันไว้เผื่อเหนียว
+P0601-0050	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	But there's no point in asking\nif you could just refuse it.	แต่มันจะมีประโยชน์อะไร ถ้าขอแล้ว\nพวกมึงปฏิเสธได้ง่ายๆ
+P0601-0051	คัตซีน · a06_020	Shioya (ช)		That's why I decided to give that\ngirlfriend of yours a little ride.	เพราะงั้นกูเลยตัดสินใจ\nพาแฟนสาวของพวกมึงไปเที่ยวหน่อย
+P0601-0052	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	I figured the lady might've made\na good bargaining chip. 	กูคิดว่าผู้หญิงคนนั้น\nน่าจะเอามาต่อรองได้ดี 
+P0601-0053	คัตซีน · a06_020	Kaito (ช)		Fuck off.	ไปตายซะ
+P0601-0054	คัตซีน · a06_020	Kaito (ช)	[อีกแทร็ก]	What a dumbass.	โง่ฉิบหายว่ะ
+P0601-0055	คัตซีน · a06_020	Shioya (ช)		We would've done it for next to nothing.\nAlmost no questions asked.	จะให้ช่วยฟรีๆ แทบไม่มีค่าใช้จ่ายก็ยังได้\nแทบไม่ต้องถามอะไรเลยด้วยซ้ำว่ะ
+P0601-0056	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	If the price was right,\nthere's no job we'd turn down.	ถ้าราคาโอเค\nงานอะไรพวกกูก็รับหมดว่ะ
+P0601-0057	คัตซีน · a06_020	Kaito (ช)		We're that desperate?	ขนาดนั้นเลยเหรอวะ?
+P0601-0058	คัตซีน · a06_020	Kaito (ช)	[อีกแทร็ก]	Hey, we're not <font_kind=yakuza_italic>that</font_kind> desperate...	เฮ้ พวกกูไม่ได้ถึงขนาด<font_kind=yakuza_italic>นั้น</font_kind>หรอกน่า...
+P0601-0059	คัตซีน · a06_020	Yagami (ช)	[ใช้ร่วม]	Damn right.	ใช่เลย
+P0601-0060	คัตซีน · a06_020	Yagami (ช)	[อีกแทร็ก]	That said...	แต่ว่านะ...
+P0601-0061	คัตซีน · a06_020	Shioya (ช)		But now this asshole went and hit Mafuyu-chan,\nso we're never gonna help him, no matter what he says.	แต่เพราะไอ้เวรนี่ดันไปทำร้าย มาฟุยุจัง\nพวกกูเลยไม่มีทางช่วยมันหรอก ไม่ว่ามันจะพูดอะไรก็ตาม
+P0601-0062	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	Now that you've laid a hand on Mafuyu-chan,\nyou could never pay us enough.	ในเมื่อมึงแตะต้องมาฟุยุจังแล้ว\nต่อให้จ่ายเท่าไหร่พวกกูก็ไม่รับหรอก
+P0601-0063	คัตซีน · a06_020	Kaito (ช)		And even if Tak ends up on board,\nI'll still kick your ass.	ต่อให้ทาคุยอมเข้าร่วมด้วย\nกูก็จะยังอัดมึงอยู่ดี
+P0601-0064	คัตซีน · a06_020	Kaito (ช)	[อีกแทร็ก]	Even if you could buy off Tak,\nI'd still fuckin' pound you.	ต่อให้มึงซื้อตัวทาคุได้\nกูก็จะยังซัดมึงหนักๆ อยู่ดีว่ะ
+P0601-0065	คัตซีน · a06_020	Shioya (ช)		Have a little faith, eh?	เชื่อใจกูหน่อยสิว่ะ?
+P0601-0066	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	Give me a little credit...	ให้เกียรติกูหน่อยเหอะ...
+P0601-0067	คัตซีน · a06_020	Yagami (ช)		A couple of comedians, huh?	เป็นตัวตลกคู่หูกันเลยนะเนี่ย?
+P0601-0068	คัตซีน · a06_020	Yagami (ช)	[อีกแทร็ก]	What a couple of comedians!	โคตรตัวตลกคู่นี้เลยว่ะ!
+P0601-0069	คัตซีน · a06_020	Shioya (ช)		Fuck it. Looks like I'm just gonna have to bust\nyour pathetic skulls myself. Easier that way.	ช่างแม่งเถอะ ดูท่าทางกูคงต้องเดินไปทุบ\nกะโหลกน่าสมเพชของพวกมึงเองซะแล้ว ง่ายกว่าเยอะ
+P0601-0070	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	But I've gotta settle the score,\nor we'll be havin' a pretty dull chat.	แต่กูก็ต้องเคลียร์บัญชีให้จบ\nไม่งั้นคุยกันไปก็จืดชืดว่ะ
+P0601-0071	คัตซีน · a06_020	Yagami (ช)	[ใช้ร่วม]	Yeah?	ว่าไง?
+P0601-0072	คัตซีน · a06_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Right?	ใช่มั้ยล่ะ?
+P0601-0073	คัตซีน · a06_020	Shioya (ช)		Now go. Break their fucking faces!	ไปเลย จัดการอัดหน้าพวกมันซะ!
+P0601-0074	คัตซีน · a06_020	Shioya (ช)	[อีกแทร็ก]	Alright. Fuck 'em up, boys!	เอาล่ะ จัดการพวกมันให้เละเลย ไอ้พวกมึง!
+P0601-0075	คัตซีน · a06_030	Umazuki (ช)	[ใช้ร่วม]	What the...	อะไรกันเนี่ย...
+P0601-0076	คัตซีน · a06_030	Umazuki (ช)	[อีกแทร็ก]	What the?	อะไรเนี่ย?
+P0601-0077	คัตซีน · a06_030	Yagami (ช)		Hey. Look who it is.	เฮ้ ดูสิใครมา
+P0601-0078	คัตซีน · a06_030	Yagami (ช)	[อีกแทร็ก]	Hey. Isn't that guy in the back...	เฮ้ ไอ้คนข้างหลังนั่นมันไม่ใช่...
+P0601-0079	คัตซีน · a06_030	Umazuki (ช)		Your ol' buddy Hattori, isn't it?	เพื่อนเก่ามึงไง ฮัตโตริ ใช่ปะ?
+P0601-0080	คัตซีน · a06_030	Umazuki (ช)	[อีกแทร็ก]	...That journalist, Hattori?	...นักข่าวคนนั้น ฮัตโตริเหรอ?
+P0601-0081	คัตซีน · a06_030	Umazuki (ช)		Great. And who's the old man?	เยี่ยมเลย แล้วคุณลุงคนนั้นเป็นใคร?
+P0601-0082	คัตซีน · a06_030	Umazuki (ช)	[อีกแทร็ก]	And who's the old guy?	แล้วคุณลุงคนนั้นเป็นใครกัน?
+P0601-0083	คัตซีน · a06_030	Yagami (ช)		Well well. Never thought I'd be\nrunning into him here...	โอ้โห ไม่คิดเลยว่าจะ\nมาเจอเขาที่นี่...
+P0601-0084	คัตซีน · a06_030	Yagami (ช)	[อีกแทร็ก]	Never figured I'd be meeting him here.	ไม่คิดเลยว่าจะได้เจอเขาที่นี่
+P0601-0085	คัตซีน · a06_030	Umazuki (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x11]	Huh?	หา?
+P0601-0086	คัตซีน · a06_030	Yagami (ช)	[ใช้ร่วม]	So.	เอาล่ะ
+P0601-0087	คัตซีน · a06_030	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Hey.	นี่
+P0601-0088	คัตซีน · a06_030	Hattori (ช)		You're the ones from the\nYagami Detective Agency.	พวกคุณคือคนจาก\nสำนักงานนักสืบยากามิสินะ
+P0601-0089	คัตซีน · a06_030	Hattori (ช)	[อีกแทร็ก]	So you're the Yagami Detective Agency.	ถ้างั้นพวกคุณก็คือ สำนักงานนักสืบยากามิ
+P0601-0090	คัตซีน · a06_030	Hattori (ช)		That "old man" is the person responsible\nfor all 10,000 employees in the Kajihira Group...	ไอ้ "คุณลุง" คนนั้นน่ะ คือคนที่รับผิดชอบ\nพนักงานทั้งหมดหนึ่งหมื่นคนของ กลุ่มคาจิฮิระ...
+P0601-0091	คัตซีน · a06_030	Hattori (ช)	[อีกแทร็ก]	The old dude is the head of Kajihira Group...\nand its 10,000 employees.	ไอ้ลุงคนนั้นคือหัวหน้ากลุ่มคาจิฮิระ...\nที่มีพนักงานหนึ่งหมื่นคน
+P0601-0092	คัตซีน · a06_030	Sugiura (ช)	[ใช้ร่วม]	Shigeru Kajihira.	ชิเงรุ คาจิฮิระ
+P0601-0093	คัตซีน · a06_030	Sugiura (ช)	[อีกแทร็ก] [ใช้ร่วม]	Chairman Shigeru Kajihira.	ท่านประธานชิเงรุ คาจิฮิระ
+P0601-0094	คัตซีน · a06_030	Kaito (ช)	[ใช้ร่วม]	So he's the guy...	งั้นเขาคือคนนั้นเอง...
+P0601-0095	คัตซีน · a06_030	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	For real?	เอาจริงดิ?
+P0601-0096	พากย์ · speech_list_judge_main_c06	honmaru_dance (ช)		It's Yagami! Get him!	นี่มันยากามิ! จัดการมัน!
+P0601-0097	พากย์ · speech_list_judge_main_c06	honmaru_dance (ช)	[อีกแทร็ก]	Hey, that's Yagami!\nFuckin' take him out!	เฮ้ นั่นมันยากามิ!\nฆ่ามันซะวะ!
+P0601-0098	พากย์ · speech_list_judge_main_c06	honmaru_gaya (ช)	[ใช้ร่วม]	Yes sir!	รับทราบ!
+P0601-0099	พากย์ · speech_list_judge_main_c06	honmaru_girl (ช)		Who are you!?	มึงเป็นใครวะ!?
+P0601-0100	พากย์ · speech_list_judge_main_c06	honmaru_tebyousi (ช)		Hey, you're outta step, dumbass!	เฮ้ นายเต้นผิดจังหวะนะ ไอ้โง่!
+P0601-0101	พากย์ · speech_list_judge_main_c06	honmaru_tebyousi (ช)	[อีกแทร็ก]	You! You're out of step, dumbass!	นาย! นายเต้นผิดจังหวะนะ ไอ้โง่!
+P0601-0102	พากย์ · speech_list_judge_main_c06	? (ช)		You're never gonna get any laughs with moves\nlike that! Gimme some fire, chuckleheads!	ท่าเต้นแบบนั้นไม่มีวันได้ เสียงหัวเราะหรอก!\nใส่พลังหน่อยสิ พวกตัวตลก!
+P0601-0103	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	How're you gonna get laughs with moves like that!?\nGive this your fucking all!	เต้นแบบนั้นแล้วจะได้ เสียงหัวเราะได้ยังไง!?\nทุ่มสุดตัวหน่อยสิวะ!
+P0601-0104	พากย์ · speech_list_judge_main_c06	? (ช)		Now...\nUn! Deux! Trois! Un! Deux! Trois!	เอาละ...\nUn! Deux! Trois! Un! Deux! Trois!
+P0601-0105	พากย์ · speech_list_judge_main_c06	? (ช)		Heh, we've got him right where we want him.\nBoys! Don't let him leave here alive!	เฮ้อ ในที่สุดก็ได้ตัวมันแล้ว\nไอ้พวกมึง! อย่าปล่อยให้มันออกไปเป็นๆ!
+P0601-0106	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Heh, like a fuckin' moth to the fire.\nGet him, boys! He won't leave alive!	เฮ้อ เหมือนผีเสื้อบินเข้ากองไฟเป๊ะๆ\nจัดการมัน! อย่าให้มันรอดออกไปเป็นๆ!
+P0601-0107	พากย์ · speech_list_judge_main_c06	honmaru_zako (ช)		Aniki! It's Yagami!	ลูกพี่! ยากามิมาแล้ว!
+P0601-0108	พากย์ · speech_list_judge_main_c06	Kaito (ช)		What the shit is this?	นี่มันบ้าอะไรกันวะ?
+P0601-0109	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	Tak!	ทาคุ!
+P0601-0110	พากย์ · speech_list_judge_main_c06	? (ช)		Trust us next time, man.	เชื่อใจเราหน่อยสิ คราวหน้า
+P0601-0111	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Didn't I tell you it'd be fine?	บอกแล้วไงว่าไม่มีปัญหา?
+P0601-0112	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Whatever it is,\nit's killing the mood...	ไม่ว่าจะเป็นอะไรก็ตาม\nมันทำลายบรรยากาศชะมัด...
+P0601-0113	พากย์ · speech_list_judge_main_c06	? (ช)		Told ya!	บอกแล้วไง!
+P0601-0114	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	'Course we are!	แน่นอนอยู่แล้ว!
+P0601-0115	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[ใช้ร่วม]	What the...?	อะไรกันวะ...?
+P0601-0116	พากย์ · speech_list_judge_main_c06	? (ช)		Another gun!?\nYou know those are illegal, right!?	ปืนอีกกระบอกเหรอ!?\nรู้ใช่ไหมว่าของพวกนี้มันผิดกฎหมาย!?
+P0601-0117	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Oh, come on...\nYou know we've got gun laws, right!?	ไม่เอาน่า...\nรู้ใช่ไหมว่าประเทศนี้มีกฎหมาย เรื่องปืน!?
+P0601-0118	พากย์ · speech_list_judge_main_c06	? (ช)		Kaito-san. Sugiura.\nYou made it.	ไคโตะซัง ซุกิอุระ\nมาถึงจนได้นะ
+P0601-0119	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Kaito-san. Sugiura, too!\nYou're safe.	ไคโตะซัง แล้วก็ซุกิอุระด้วย!\nปลอดภัยดีนะ
+P0601-0120	พากย์ · speech_list_judge_main_c06	? (ช)		Right. Let's get going!	เอาละ ไปกันเถอะ!
+P0601-0121	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Heh... Then let's go!	เฮ้อ... งั้นไปกันเลย!
+P0601-0122	พากย์ · speech_list_judge_main_c06	? (ช)		Officer, is this interview voluntary, or?	คุณตำรวจครับ การสัมภาษณ์ครั้งนี้เป็นไป โดยสมัครใจหรือเปล่าครับ?
+P0601-0123	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Detective...\nMay I assume this interview is voluntary?	คุณนักสืบ...\nขอถือว่าการสัมภาษณ์นี้เป็นไป โดยสมัครใจได้ไหมครับ?
+P0601-0124	พากย์ · speech_list_judge_main_c06	? (ช)		It's your call, Yagami-san.	แล้วแต่คุณตัดสินใจเลยครับ ยากามิซัง
+P0601-0125	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yagami-san?\nWhat's your call?	ยากามิซัง?\nคุณจะว่ายังไงครับ?
+P0601-0126	พากย์ · speech_list_judge_main_c06	? (ช)		You have your answer, sir.\nYou can go now.	คุณได้คำตอบแล้วนะครับ\nกลับได้แล้วครับ
+P0601-0127	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You have your answer, sir.\nNow please leave.	คุณได้คำตอบแล้วนะครับ\nกรุณากลับไปได้แล้วครับ
+P0601-0128	พากย์ · speech_list_judge_main_c06	? (ช)		Your empty threats don't\nmean much to a lawyer.	คำขู่ลอย ๆ แบบนั้น\nไม่มีความหมายอะไรกับทนายความหรอกครับ
+P0601-0129	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Threaten all you like,\nbut Yagami-san knows the law.	จะขู่ยังไงก็เชิญ\nแต่ยากามิซังรู้กฎหมายดีครับ
+P0601-0130	พากย์ · speech_list_judge_main_c06	Kido (ช)		Can you take this elsewhere?\nI really must be—	ช่วยเอาเรื่องนี้ไปคุยที่อื่น ได้ไหมครับ\nผมมีธุระต้อง—
+P0601-0131	พากย์ · speech_list_judge_main_c06	Kido (ช)	[อีกแทร็ก]	Excuse me, can you take this somewhere else?\nI really must be—	ขอโทษนะครับ ช่วยเอาเรื่องนี้ไปคุยที่อื่นได้ไหม\nผมมีธุระต้อง—
+P0601-0132	พากย์ · speech_list_judge_main_c06	? (ช)		Enough!\nGet the hell out of my office!	พอกันที!\nออกไปจากห้องทำงานของผมเดี๋ยวนี้!
+P0601-0133	พากย์ · speech_list_judge_main_c06	? (ช)		You too. Out!	พวกคุณด้วย ออกไป!
+P0601-0134	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	That includes you two.	รวมถึงพวกคุณสองคนด้วย
+P0601-0135	พากย์ · speech_list_judge_main_c06	? (ช)		Listen, I already told you, he doesn't know.\nGet it through your skull.	ฟังนะ ผมบอกไปแล้วว่าเขาไม่รู้\nเข้าใจสักทีเถอะ
+P0601-0136	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I already told you, Shono doesn't know!\nDo you understand?	ผมบอกไปแล้วว่าโชโนะไม่รู้!\nเข้าใจไหม?
+P0601-0137	พากย์ · speech_list_judge_main_c06	? (ช)		Now. Please leave.	เอาล่ะ กรุณาออกไปได้แล้ว
+P0601-0138	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	Now please leave.	กรุณาออกไปได้แล้ว
+P0601-0139	พากย์ · speech_list_judge_main_c06	? (ช)		...It is.	...ใช่
+P0601-0140	พากย์ · speech_list_judge_main_c06	Emi (ญ)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x4]	Yes.	ใช่
+P0601-0141	พากย์ · speech_list_judge_main_c06	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Excuse me?	ว่าไงนะ?
+P0601-0142	พากย์ · speech_list_judge_main_c06	seiya_girl (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x4]	What?	อะไรนะ?
+P0601-0143	พากย์ · speech_list_judge_main_c06	? (ช)		You can make this easier if you come now.\nNext time it won't be voluntary.	จะให้เรื่องนี้ง่ายขึ้นก็มากับ ผมตอนนี้เลย\nครั้งหน้าจะไม่ให้เลือกแบบ สมัครใจแล้วนะ
+P0601-0144	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You're better off coming with me now, let me tell you.\nThis won't be voluntary next time.	บอกไว้เลยว่ามากับผมตอนนี้ดีกว่านะ\nครั้งหน้าจะไม่ใช่แบบสมัครใจแล้ว
+P0601-0145	พากย์ · speech_list_judge_main_c06	? (ช)		Too bad he's not a lawyer\nanymore then.	น่าเสียดายที่เขาไม่ใช่ทนายความ\nอีกต่อไปแล้วนี่สิ
+P0601-0146	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Good thing he's not a lawyer anymore.	โชคดีที่เขาไม่ใช่ทนายความ อีกต่อไปแล้ว
+P0601-0147	พากย์ · speech_list_judge_main_c06	? (ช)		Your friend's nothing now.	เพื่อนคุณตอนนี้ไม่มีค่าอะไรแล้ว
+P0601-0148	พากย์ · speech_list_judge_main_c06	? (ช)		Just come along quietly. I'll come back\nwith a warrant if I have to.	มาแต่โดยดีเถอะ ไม่งั้นผมจะกลับมาใหม่\nพร้อมหมายจับก็ได้นะ
+P0601-0149	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Just come along quietly.\nIf I have to, I'll be more than happy to get a warrant.	มาแต่โดยดีเถอะ\nถ้าจำเป็น ผมยินดีไปขอหมายมาเลยด้วยซ้ำ
+P0601-0150	พากย์ · speech_list_judge_main_c06	? (ช)		I can come up with a few good ones.	ผมคิดเหตุผลดี ๆ ได้อีกหลายข้อเลยนะ
+P0601-0151	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I can always make one.	จะสร้างเหตุผลขึ้นมาก็ยังได้
+P0601-0152	พากย์ · speech_list_judge_main_c06	? (ช)		You'll regret this, Yagami.	คุณจะต้องเสียใจภายหลัง ยากามิ
+P0601-0153	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You'll regret this.	คุณจะต้องเสียใจภายหลัง
+P0601-0154	พากย์ · speech_list_judge_main_c06	Sakuraba (ช)		Kuroiwa-san!	คุณคุโรอิวะ!
+P0601-0155	พากย์ · speech_list_judge_main_c06	Sakuraba (ช)	[อีกแทร็ก]	Kuroiwa-san.	คุณคุโรอิวะ
+P0601-0156	พากย์ · speech_list_judge_main_c06	Yagami (ช)		I think I'll pass.	คิดว่าขอผ่านดีกว่า
+P0601-0157	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	I'll pass.	ไม่ล่ะ
+P0601-0158	พากย์ · speech_list_judge_main_c06	? (ช)		I'd like to see you try.	อยากเห็นคุณลองดูเหมือนกันครับ
+P0601-0159	พากย์ · speech_list_judge_main_c06	? (ช)		Why do you suspect me, anyway?\nI bet you don't even have a reason.	ทำไมถึงสงสัยผมกันแน่ครับ?\nผมพนันได้เลยว่าคุณไม่มีเหตุผลด้วยซ้ำ
+P0601-0160	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Why do you suspect me?\nDo you even have a reason?	ทำไมถึงสงสัยผมล่ะครับ?\nคุณมีเหตุผลด้วยหรือเปล่า?
+P0601-0161	พากย์ · speech_list_judge_main_c06	? (ช)		Before we go, can we speak\nto Shono-san for a sec?	ก่อนจะไป ขอคุยกับโชโนะซัง\nสักครู่ได้ไหมครับ?
+P0601-0162	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	One thing first. Any chance we could\nstill talk to Shono-san?	มีเรื่องหนึ่งก่อนนะครับ พอจะมีโอกาส\nได้คุยกับโชโนะซังไหม?
+P0601-0163	พากย์ · speech_list_judge_main_c06	? (ช)		We need to know why\nShintani called him.	เราต้องรู้ว่าทำไม\nชินทานิถึงโทรหาเขา
+P0601-0164	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	We need to know why Shintani called him.\nThat's all.	เราแค่ต้องรู้ว่าทำไมชินทานิถึง โทรหาเขา\nแค่นั้นเองครับ
+P0601-0165	พากย์ · speech_list_judge_main_c06	? (ช)		No problem.\nWe'll let you get back to work.	ไม่มีปัญหาครับ\nพวกเราจะปล่อยให้คุณกลับไปทำงานต่อ
+P0601-0166	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I get it.\nWe'll let you get back to your work.	เข้าใจแล้วครับ\nพวกเราจะปล่อยให้คุณกลับไปทำงานต่อ
+P0601-0167	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		This is really getting out\nof hand, don't you think?	เรื่องนี้เริ่มจะบานปลาย\nไปกันใหญ่แล้วนะครับ ว่าไหม?
+P0601-0168	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	All this is... starting to\nget out of hand.	เรื่องทั้งหมดนี้... เริ่มจะ\nบานปลายไปกันใหญ่แล้ว
+P0601-0169	พากย์ · speech_list_judge_main_c06	? (ช)		I can't believe that detective\nthinks you're a material witness.	ไม่อยากจะเชื่อเลยว่านักสืบคนนั้น\nคิดว่าคุณเป็นพยานปากสำคัญ
+P0601-0170	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You hear that detective? I can't believe he said\nyou're a material witness, Yagami-san.	ได้ยินนักสืบคนนั้นไหมครับ? ไม่อยากเชื่อเลยว่าเขาพูด\nว่าคุณเป็นพยานปากสำคัญ ยากามิซัง
+P0601-0171	พากย์ · speech_list_judge_main_c06	? (ช)		That's a good point.\nHow would the police know we were here?	จุดนี้น่าสนใจนะครับ\nตำรวจรู้ได้ยังไงว่าเราอยู่ที่นี่?
+P0601-0172	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Good point. How would the police\nknow we were here?	จุดนี้น่าสนใจครับ ตำรวจรู้ได้ยังไง\nว่าเราอยู่ที่นี่?
+P0601-0173	พากย์ · speech_list_judge_main_c06	? (ช)		Agreed. Let's see if the\nreceptionist can help us.	เห็นด้วยครับ ลองไปดูกันว่า\nพนักงานต้อนรับจะช่วยอะไรเราได้บ้าง
+P0601-0174	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Agreed.\nLet's see if the receptionist can help us.	เห็นด้วยครับ\nลองไปดูว่าพนักงานต้อนรับจะช่วย อะไรได้บ้าง
+P0601-0175	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Yeah, I dunno what\nhe's talking about.	ครับ ผมก็ไม่รู้เหมือนกัน\nว่าเขาพูดเรื่องอะไร
+P0601-0176	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Yeah. I dunno what he's\ntalking about.	ครับ ผมไม่รู้\nว่าเขาพูดเรื่องอะไร
+P0601-0177	พากย์ · speech_list_judge_main_c06	? (ช)		But what I'm more interested in\nis how he even knew where to find me.	แต่สิ่งที่ผมสนใจมากกว่านั้น\nคือเขารู้ได้ยังไงว่าจะมาหาผมที่นี่
+P0601-0178	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	That aside, what I'm more interested in is\nhow he even knew where to find me.	เรื่องนั้นช่างเถอะ สิ่งที่ผมสนใจมากกว่านั้นคือ\nเขารู้ได้ยังไงว่าจะมาหาผมที่นี่
+P0601-0179	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	Beats me.	ไม่รู้เหมือนกัน
+P0601-0180	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	No clue.	ไม่รู้เหมือนกัน
+P0601-0181	พากย์ · speech_list_judge_main_c06	? (ช)		For now let's focus on Shono, though. It would be\na waste coming here and not talking to him.	ตอนนี้เอาเรื่องโชโนะก่อนดีกว่าครับ จะเสียแรงเปล่า\nถ้ามาถึงที่นี่แล้วไม่ได้คุยกับเขา
+P0601-0182	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	For now, let's focus on Shono.\nIt'd be a waste, coming here and not talking to him.	ตอนนี้เอาเรื่องโชโนะก่อนดีกว่า\nจะเสียแรงเปล่าถ้ามาแล้วไม่ได้ คุยกับเขา
+P0601-0183	พากย์ · speech_list_judge_main_c06	center_uketsuke (ญ)	[ใช้ร่วม] [ต้องกลางเพศ]	Can I help you?	มีอะไรให้ช่วยมั้ย?
+P0601-0184	พากย์ · speech_list_judge_main_c06	center_uketsuke (ญ)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Welcome, sir.	ยินดีต้อนรับ
+P0601-0185	พากย์ · speech_list_judge_main_c06	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Um...	เอ่อ...
+P0601-0186	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	...Huh?	...เอ๊ะ?
+P0601-0187	พากย์ · speech_list_judge_main_c06	? (ญ)		Oh, of course!\nDid you forget something, sir?	อ๋อ จริงด้วยค่ะ!\nลืมอะไรไว้หรือเปล่าคะ?
+P0601-0188	พากย์ · speech_list_judge_main_c06	? (ญ)		Let me see, that should be the research wing.\nI believe he's in the protein abnormalities lab.	ขอดูก่อนนะคะ น่าจะเป็นตึกฝ่ายวิจัยค่ะ\nคิดว่าเขาอยู่ที่แล็บโปรตีนผิดปกติค่ะ
+P0601-0189	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Let me see... That should be the research wing.\nI believe he's in the protein abnormalities lab.	ขอดูก่อนนะคะ... น่าจะเป็นตึกฝ่ายวิจัยค่ะ\nคิดว่าเขาอยู่ที่แล็บโปรตีนผิดปกติค่ะ
+P0601-0190	พากย์ · speech_list_judge_main_c06	? (ญ)		That's correct, sir. I should be able to lend\nyou one with the director's approval, though.	ถูกต้องค่ะ ดิฉันน่าจะยืมให้คุณได้\nถ้าได้รับอนุมัติจากผู้อำนวยการค่ะ
+P0601-0191	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Yes. But I should be able to lend you one\nwith the director's approval.	ค่ะ แต่ดิฉันน่าจะยืมให้คุณได้\nถ้าได้รับอนุมัติจากผู้อำนวยการ
+P0601-0192	พากย์ · speech_list_judge_main_c06	? (ญ)		Just give me a moment to ask.\nCould you tell me your name, sir?	รอสักครู่นะคะ ดิฉันจะไปถามให้\nขอทราบชื่อคุณหน่อยได้ไหมคะ?
+P0601-0193	พากย์ · speech_list_judge_main_c06	? (ญ)		Are you sure, sir...?	แน่ใจนะคะ...?
+P0601-0194	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก] [ใช้ร่วม]	Are you sure...?	แน่ใจนะคะ...?
+P0601-0195	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		Good call. There's no chance\nKido-san would let us in.	ตัดสินใจถูกแล้วครับ คิโดะซัง\nไม่มีทางยอมให้เราเข้าไปแน่ ๆ
+P0601-0196	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	There's no way he's\ngonna let us through.	ไม่มีทางที่เขา\nจะยอมให้เราผ่านเข้าไปหรอก
+P0601-0197	พากย์ · speech_list_judge_main_c06	? (ช)		Yeah. I wonder if there's a map\naround here somewhere...	ครับ สงสัยว่าแถวนี้จะมีแผนที่\nอยู่บ้างไหมนะ...
+P0601-0198	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yeah.\nIs there a map around here...?	ครับ\nแถวนี้มีแผนที่บ้างไหมนะ...?
+P0601-0199	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Actually, I've already been here.\nI was just with Director Kido, remember?	ที่จริงผมมาแล้วครับ\nเพิ่งอยู่กับผู้อำนวยการคิโดะมา จำได้ไหมครับ?
+P0601-0200	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Actually, I was just here asking\nabout the Director...	ที่จริงผมเพิ่งมาถามเรื่อง\nผู้อำนวยการอยู่พอดี...
+P0601-0201	พากย์ · speech_list_judge_main_c06	? (ช)		Not exactly. I'd actually like to speak\nto Shono-san, the AD-9 researcher.	ไม่เชิงครับ ที่จริงผมอยากคุย\nกับโชโนะซัง นักวิจัย AD-9 ครับ
+P0601-0202	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Well, I've got another question. I'd like to speak to\nShono-san, the AD-9 researcher.	จริง ๆ แล้วผมมีคำถามอีกข้อครับ ผมอยากคุยกับ\nโชโนะซัง นักวิจัย AD-9
+P0601-0203	พากย์ · speech_list_judge_main_c06	? (ช)		Where would I be able to find him?	ผมจะไปหาเขาได้ที่ไหนครับ?
+P0601-0204	พากย์ · speech_list_judge_main_c06	? (ช)		Probably need a gold keycard\nto get in there, huh?	คงต้องใช้คีย์การ์ดสีทอง\nถึงจะเข้าไปได้สินะครับ?
+P0601-0205	พากย์ · speech_list_judge_main_c06	? (ช)		Actually, uh... never mind.\nKido-san seemed pretty busy earlier.	เอ่อ ที่จริง... ไม่เป็นไรครับ\nเมื่อกี้คิโดะซังดูยุ่งอยู่พอดี
+P0601-0206	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Uh, actually... never mind.\nKido-san seemed pretty busy earlier.	เอ่อ ที่จริง... ไม่เป็นไรครับ\nคิโดะซังดูยุ่งอยู่พอดี
+P0601-0207	พากย์ · speech_list_judge_main_c06	? (ช)		I'll try back later.	เดี๋ยวผมลองกลับมาใหม่ครับ
+P0601-0208	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'll come back later.	เดี๋ยวจะกลับมาใหม่
+P0601-0209	พากย์ · speech_list_judge_main_c06	? (ช)		At least now we know where Shono is.	อย่างน้อยตอนนี้เราก็รู้แล้วว่า โชโนะอยู่ที่ไหน
+P0601-0210	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Still, at least we know where Shono is.	ถึงอย่างนั้น อย่างน้อยเราก็รู้แล้วว่าโชโนะ อยู่ที่ไหน
+P0601-0211	พากย์ · speech_list_judge_main_c06	? (ช)		<color=ｍonologue>(The research wing.)</color>	<color=ｍonologue>(ตึกฝ่ายวิจัยสินะ)</color>
+P0601-0212	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		The receptionist said he would be\nin the protein abnormalities lab, right?	พนักงานต้อนรับบอกว่าเขาน่าจะอยู่\nที่แล็บโปรตีนผิดปกติใช่ไหมครับ?
+P0601-0213	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	According to the receptionist, he'll be in\nthe protein abnormalities lab, right?	ตามที่พนักงานต้อนรับบอก เขาน่าจะอยู่\nที่แล็บโปรตีนผิดปกติใช่ไหม?
+P0601-0214	พากย์ · speech_list_judge_main_c06	? (ช)		Huh. Well, I guess that's not on this map.	อือ เอาล่ะ ดูเหมือนจะไม่มีในแผนที่นี้นะ
+P0601-0215	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	From the looks of it,\nthat's not marked on this map.	จากที่เห็น\nไม่มีทำเครื่องหมายไว้ในแผนที่นี้เลย
+P0601-0216	พากย์ · speech_list_judge_main_c06	Yagami (ช)		This is where we are now.\nThe ADDC lobby.	นี่คือจุดที่เราอยู่ตอนนี้\nล็อบบี้ของ ADDC
+P0601-0217	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Here's where we are right now.\nThe Center's main lobby.	นี่คือจุดที่เราอยู่ตอนนี้\nล็อบบี้หลักของศูนย์
+P0601-0218	พากย์ · speech_list_judge_main_c06	? (ช)		This goes over to the hospital.\nI think Waku-san was up on the 4th floor.	ตรงนี้ไปทางโรงพยาบาล\nวาคุซังน่าจะอยู่ชั้น 4
+P0601-0219	พากย์ · speech_list_judge_main_c06	? (ช)		The service entrance parking lot. All the delivery\npeople come in and out through here.	ลานจอดรถทางเข้าฝ่ายบริการ\nพนักงานส่งของทุกคนเข้าออกทางนี้
+P0601-0220	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	A service parking lot... or the entrance to it, anyway.\nAll delivery people come in and out through here.	ลานจอดรถฝ่ายบริการ... หรืออย่างน้อยก็ทางเข้าของมัน\nพนักงานส่งของทุกคนเข้าออกทางนี้
+P0601-0221	พากย์ · speech_list_judge_main_c06	? (ช)		This is where Okubo's truck\nwas parked three years ago.	ตรงนี้คือจุดที่รถบรรทุกของโอคุโบะ\nเคยจอดไว้เมื่อสามปีก่อน
+P0601-0222	พากย์ · speech_list_judge_main_c06	? (ช)		Director Kido's office.\nWe were just in there.	ห้องทำงานของผู้อำนวยการคิโดะ\nเราเพิ่งอยู่ในนั้นมา
+P0601-0223	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The Director's office.\nWe were just in there to see Kido.	ห้องทำงานของผู้อำนวยการ\nเราเพิ่งเข้าไปพบคิโดะมา
+P0601-0224	พากย์ · speech_list_judge_main_c06	? (ช)		This leads to the research wing.	ตรงนี้นำไปสู่ตึกฝ่ายวิจัย
+P0601-0225	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The research wing... There.	ตึกฝ่ายวิจัย... อยู่ตรงนั้น
+P0601-0226	พากย์ · speech_list_judge_main_c06	? (ช)		The research wing.\nShould be able to find Shono here.	ตึกฝ่ายวิจัย\nน่าจะเจอโชโนะได้ที่นี่
+P0601-0227	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The research wing.\nSounds like Shono works in that building.	ตึกฝ่ายวิจัย\nฟังดูเหมือนโชโนะทำงานอยู่ในตึกนั้น
+P0601-0228	พากย์ · speech_list_judge_main_c06	? (ช)		Some kinda security gate, huh?\nThe research wing must be just past there.	ประตูรักษาความปลอดภัยอะไรสัก อย่างสินะ?\nตึกฝ่ายวิจัยต้องอยู่ถัดจากตรงนั้นแน่ ๆ
+P0601-0229	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	A security gate...?\nThe research wing must be just past there.	ประตูรักษาความปลอดภัยเหรอ...?\nตึกฝ่ายวิจัยต้องอยู่ถัดจากตรงนั้นแน่ ๆ
+P0601-0230	พากย์ · speech_list_judge_main_c06	? (ช)		(I need to figure out where the research wing is\nand how to get there.)	(ต้องหาให้เจอว่าตึกฝ่ายวิจัย อยู่ตรงไหน\nแล้วจะไปถึงได้ยังไง)
+P0601-0231	พากย์ · speech_list_judge_main_c06	center_uketsuke (ญ)	[ใช้ร่วม] [ต้องกลางเพศ]	Um, excuse me.	เอ่อ ขอโทษนะ
+P0601-0232	พากย์ · speech_list_judge_main_c06	center_uketsuke (ญ)	[อีกแทร็ก]	Ah... Excuse me.	อ้าว... ขอโทษนะคะ
+P0601-0233	พากย์ · speech_list_judge_main_c06	? (ญ)		This is one of Shono-san's researchers.\nShe was just about to return to the lab.	นี่คือนักวิจัยคนหนึ่งของโชโนะซังค่ะ\nเธอกำลังจะกลับไปที่แล็บพอดีเลย
+P0601-0234	พากย์ · speech_list_judge_main_c06	? (ญ)		Wonderful. Hashimoto-san just happened\nto be passing through.	เยี่ยมไปเลยค่ะ พอดีฮาชิโมโตะซัง\nเดินผ่านมาพอดีเลย
+P0601-0235	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Wonderful. Lucky for you Hashimoto-san\nwas passing through.	เยี่ยมไปเลยค่ะ โชคดีที่ฮาชิโมโตะซัง\nเดินผ่านมาพอดี
+P0601-0236	พากย์ · speech_list_judge_main_c06	Hashimoto (ญ)		My name's Hashimoto. I can show you\ninto Dr. Shono's lab if you'd like.	ดิฉันชื่อฮาชิโมโตะค่ะ ถ้าต้องการ ดิฉันพาคุณ\nเข้าไปในแล็บของ ดร.โชโนะได้นะคะ
+P0601-0237	พากย์ · speech_list_judge_main_c06	Hashimoto (ญ)	[อีกแทร็ก]	My name's Hashimoto.\nI can show you to Dr. Shono's lab if you'd like.	ดิฉันชื่อฮาชิโมโตะค่ะ\nถ้าต้องการ ดิฉันพาไปที่แล็บของ ดร.โชโนะได้นะคะ
+P0601-0238	พากย์ · speech_list_judge_main_c06	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Of course.	ได้เลย
+P0601-0239	พากย์ · speech_list_judge_main_c06	Emi (ญ)	[ใช้ร่วม]	Right this way.	เชิญทางนี้เลยค่ะ
+P0601-0240	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		Yes, ma'am?	ครับ มีอะไรหรือครับ?
+P0601-0241	พากย์ · speech_list_judge_main_c06	center_uketsuke (ญ)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Yes?	อะไรเหรอ?
+P0601-0242	พากย์ · speech_list_judge_main_c06	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Oh?	งั้นเหรอ?
+P0601-0243	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	Are you sure?	แน่ใจไหม
+P0601-0244	พากย์ · speech_list_judge_main_c06	? (ช)		Great, we'll take you up on that.	เยี่ยมเลยครับ ขอรบกวนด้วยนะครับ
+P0601-0245	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	We'll take you up on that.	ขอรบกวนด้วยนะครับ
+P0601-0246	พากย์ · speech_list_judge_main_c06	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Thank you.	ขอบคุณ
+P0601-0247	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	Thanks.	ขอบคุณ
+P0601-0248	พากย์ · speech_list_judge_main_c06	Hashimoto (ญ)		Oh, don't mention it. I'm glad to help\na guest of Director Kido's.	ไม่เป็นไรค่ะ ดิฉันยินดีช่วยเหลือ\nแขกของผู้อำนวยการคิโดะอยู่แล้วค่ะ
+P0601-0249	พากย์ · speech_list_judge_main_c06	Hashimoto (ญ)	[อีกแทร็ก]	Of course. I'm glad to help\na guest of the Director's.	ยินดีค่ะ ดิฉันยินดีช่วยเหลือ\nแขกของท่านผู้อำนวยการอยู่แล้ว
+P0601-0250	พากย์ · speech_list_judge_main_c06	? (ญ)		This place is so massive, you practically\nneed a tour guide to get around.	ที่นี่กว้างใหญ่มากจริง ๆ ค่ะ แทบจะ\nต้องมีไกด์นำทางถึงจะเดินไปไหน มาไหนได้
+P0601-0251	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	This place is so massive,\nyou practically need a tour guide.	ที่นี่กว้างใหญ่มากจริง ๆ ค่ะ\nแทบจะต้องมีไกด์นำทางเลย
+P0601-0252	พากย์ · speech_list_judge_main_c06	? (ญ)		I hope you're okay with walking!	หวังว่าคงไม่ว่าอะไรที่ต้องเดินไปนะ
+P0601-0253	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	I hope it hasn't been\nan inconvenience.	หวังว่าคง\nไม่ทำให้ลำบากนะ
+P0601-0254	พากย์ · speech_list_judge_main_c06	? (ญ)		The research wing. He's working\nin the protein abnormalities lab.	ปีกวิจัยน่ะ เขาทำงานอยู่\nในห้องแล็บวิจัยความผิดปกติของโปรตีน
+P0601-0255	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	The research wing.\nHe's working in the protein abnormalities lab.	ปีกวิจัยน่ะ\nเขาทำงานอยู่ในห้องแล็บวิจัย ความผิดปกติของโปรตีน
+P0601-0256	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		And I'm Hoshino, from the Genda Law Office.	และผมชื่อโฮชิโนะ จากสำนักงานกฎหมายเก็นดะครับ
+P0601-0257	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	And I'm Hoshino from the\nGenda Law Office.	และผมชื่อโฮชิโนะ จาก\nสำนักงานกฎหมายเก็นดะครับ
+P0601-0258	พากย์ · speech_list_judge_main_c06	? (ช)		Thank you for doing this.	ขอบคุณมากนะครับที่ช่วยเรื่องนี้
+P0601-0259	พากย์ · speech_list_judge_main_c06	? (ช)		Oh, that's totally okay.	อ๋อ ไม่เป็นไรเลยครับ
+P0601-0260	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Oh, not at all.	อ๋อ ไม่เลยครับ
+P0601-0261	พากย์ · speech_list_judge_main_c06	? (ช)		Oh and, by the way,\nwe'll be meeting Shono-san in the...	อ้อ ว่าแต่ เดี๋ยวเราจะไปเจอ\nโชโนะซังที่...
+P0601-0262	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	By the way, we'll be meeting Shono-san\nin the... ah...?	ว่าแต่ เราจะไปเจอโชโนะซัง\nที่... เอ่อ...?
+P0601-0263	พากย์ · speech_list_judge_main_c06	? (ช)		You work on developing new drugs?\nWow, that's really something.	คุณทำงานพัฒนายาตัวใหม่เหรอ\nโห นี่มันสุดยอดเลยนะ
+P0601-0264	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You develop new drugs?\nWow, that's incredible...	คุณพัฒนายาตัวใหม่เหรอ\nว้าว นี่มันเหลือเชื่อเลย...
+P0601-0265	พากย์ · speech_list_judge_main_c06	Yagami (ช)		I really appreciate this,\nHashimoto-san. I'm Yagami.	ขอบคุณมากจริง ๆ ครับ\nฮาชิโมโตะซัง ผมชื่อยากามิครับ
+P0601-0266	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	I really appreciate this.\nThe name's Yagami.	ขอบคุณมากจริง ๆ ครับ\nผมชื่อยากามิครับ
+P0601-0267	พากย์ · speech_list_judge_main_c06	? (ช)		I take it you guys research\npharmaceuticals and cures?	งั้นพวกคุณก็วิจัย\nเรื่องยาและวิธีรักษาสินะ
+P0601-0268	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Hashimoto-san, do you work there\nas well?	ฮาชิโมโตะซัง คุณก็ทำงาน\nอยู่ที่นั่นด้วยเหรอ
+P0601-0269	พากย์ · speech_list_judge_main_c06	Hashimoto (ญ)		I'm part of the team developing AD-9.	เป็นส่วนหนึ่งของทีมพัฒนา AD-9 น่ะ
+P0601-0270	พากย์ · speech_list_judge_main_c06	? (ญ)		Dr. Shono is the head of that team,\nbut I'm pretty new around here.	ดร.โชโนะเป็นหัวหน้าทีมนั้น\nแต่ตัวเองยังใหม่อยู่มากเลย
+P0601-0271	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Dr. Shono is our unit's leader...\nBut I'm pretty new around here.	ดร.โชโนะเป็นหัวหน้าหน่วยเรา...\nแต่ตัวเองยังใหม่อยู่มากเลย
+P0601-0272	พากย์ · speech_list_judge_main_c06	? (ญ)		Well, the "AD" comes from\nthe name of the Center.	เอ่อ "AD" มาจาก\nชื่อของศูนย์น่ะ
+P0601-0273	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	The "AD" comes from the name\nof the Center.	"AD" มาจากชื่อ\nของศูนย์น่ะ
+P0601-0274	พากย์ · speech_list_judge_main_c06	? (ญ)		The Advanced Drug Development Center, ADDC.	ศูนย์พัฒนายาขั้นสูง หรือ ADDC
+P0601-0275	พากย์ · speech_list_judge_main_c06	? (ญ)		And it's the 9th drug\nour department's developed.	และมันคือยาตัวที่ 9\nที่แผนกเราพัฒนาขึ้นมา
+P0601-0276	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	And it was the 9th drug\ndeveloped here.	และมันเป็นยาตัวที่ 9\nที่พัฒนาขึ้นที่นี่
+P0601-0277	พากย์ · speech_list_judge_main_c06	? (ญ)		That's right. Do you know how many dementia\npatients there are in Japan alone?	ใช่แล้ว คุณรู้ไหมว่าแค่ในญี่ปุ่นที่เดียว\nมีผู้ป่วยโรคสมองเสื่อมกี่คน
+P0601-0278	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	That's right. Do you know how many dementia patients\nthere are in Japan alone?	ใช่แล้ว คุณรู้ไหมว่าแค่ในญี่ปุ่นที่เดียว\nมีผู้ป่วยโรคสมองเสื่อมอยู่กี่คน
+P0601-0279	พากย์ · speech_list_judge_main_c06	? (ญ)		Right. As of 2012, there were 4.62 million.	ใช่เลย ณ ปี 2012 มีอยู่ 4.62 ล้านคน
+P0601-0280	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Yes. As of 2012, there were 4.62 million.	ใช่ ณ ปี 2012 มีอยู่ 4.62 ล้านคน
+P0601-0281	พากย์ · speech_list_judge_main_c06	? (ญ)		By 2025 that number will increase to at least 7 million,\npotentially up to 13 million including at-risk patients.	ภายในปี 2025 ตัวเลขนี้จะเพิ่มเป็นอย่างน้อย 7 ล้านคน\nและอาจสูงถึง 13 ล้านคนถ้านับรวมกลุ่มเสี่ยงด้วย
+P0601-0282	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	By 2025 that number will increase to at least 7 million.\nPotentially up to 13 million, including at-risk patients.	ภายในปี 2025 ตัวเลขนี้จะเพิ่มเป็นอย่างน้อย 7 ล้านคน\nและอาจสูงถึง 13 ล้านคน ถ้านับรวมกลุ่มเสี่ยงด้วย
+P0601-0283	พากย์ · speech_list_judge_main_c06	? (ญ)		That's one in every nine people.	นั่นคือ 1 ใน 9 คนเลยทีเดียว
+P0601-0284	พากย์ · speech_list_judge_main_c06	? (ญ)		However, as a nation we're already at capacity\nin caring for these patients.	แต่ในฐานะประเทศ เราก็รองรับ\nการดูแลผู้ป่วยเหล่านี้ได้เต็ม ขีดจำกัดแล้ว
+P0601-0285	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	But our nation has reached its capacity\nto accommodate them.	แต่ประเทศเราถึงขีดจำกัด\nในการรองรับพวกเขาแล้ว
+P0601-0286	พากย์ · speech_list_judge_main_c06	? (ญ)		In many cases, people over 60 are stuck looking\nafter their dementia-struck parents in their own homes.	หลายกรณี คนอายุ 60 ปีขึ้นไปต้องติดอยู่กับการดูแล\nพ่อแม่ที่ป่วยเป็นโรคสมองเสื่อม อยู่ที่บ้านเอง
+P0601-0287	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Many over 60 are stuck looking after their\ndementia-struck parents in their own homes.	คนอายุ 60 ปีขึ้นไปหลายคนต้องติดอยู่กับการดูแล\nพ่อแม่ที่ป่วยเป็นโรคสมองเสื่อม อยู่ที่บ้านเอง
+P0601-0288	พากย์ · speech_list_judge_main_c06	? (ญ)		Worldwide, it's estimated that there will be 135 \nmillion patients by the year 2050. It's staggering.	ทั่วโลก คาดว่าจะมีผู้ป่วยถึง 135\nล้านคนภายในปี 2050 เป็นตัวเลขที่น่าตกใจมาก
+P0601-0289	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	As for the worldwide number, by the year 2050,\nthere will be an estimated 135 million patients.	ส่วนตัวเลขทั่วโลก ภายในปี 2050\nคาดว่าจะมีผู้ป่วยราว 135 ล้านคน
+P0601-0290	พากย์ · speech_list_judge_main_c06	? (ญ)		In other words, AD-9 could save the world.\nThis could be a real miracle.	พูดง่าย ๆ คือ AD-9 อาจช่วยโลกไว้ได้\nนี่อาจเป็นปาฏิหาริย์ตัวจริงเลยก็ได้
+P0601-0291	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Simply put, the goal of AD-9 is to save our future.\nThe very world's future.	พูดง่าย ๆ เป้าหมายของ AD-9 คือการช่วยอนาคตของเรา\nอนาคตของทั้งโลกใบนี้เลย
+P0601-0292	พากย์ · speech_list_judge_main_c06	? (ญ)		Director Kido will go down in history\nif we achieve this.	ถ้าเราทำสำเร็จ ผู้อำนวยการคิโดะ\nจะได้จารึกชื่อไว้ในประวัติศาสตร์เลย
+P0601-0293	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Director Kido helped us achieve this.\nHis name will go down in history.	ผู้อำนวยการคิโดะเป็นคนที่ทำให้ เราไปถึงจุดนี้ได้\nชื่อของเขาจะถูกจารึกไว้ใน ประวัติศาสตร์
+P0601-0294	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		Speaking of,\nwhat exactly does AD-9 stand for?	พูดถึงเรื่องนี้\nAD-9 นี่ย่อมาจากอะไรกันแน่เหรอ
+P0601-0295	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	Speaking of, what exactly does\nAD-9 stand for?	พูดถึงเรื่องนี้ AD-9 นี่\nย่อมาจากอะไรกันแน่เหรอ
+P0601-0296	พากย์ · speech_list_judge_main_c06	? (ช)		It'll be the first dementia-curing\ndrug on the market, right?	มันจะเป็นยารักษาโรคสมองเสื่อม\nตัวแรกที่ออกสู่ตลาดใช่ไหม
+P0601-0297	พากย์ · speech_list_judge_main_c06	? (?)	[อีกแทร็ก]	From what I heard, it'll be the first\ncure for dementia on the market.　	เท่าที่ผมได้ยินมา มันจะเป็น\nยารักษาโรคสมองเสื่อมตัวแรกที่ ออกสู่ตลาด
+P0601-0298	พากย์ · speech_list_judge_main_c06	? (ช)		Seems like it's really getting\nfast-tracked 'cause of that.	ดูเหมือนเรื่องนี้จะทำให้มันถูกเร่ง\nดำเนินการเป็นพิเศษเลยสินะ
+P0601-0299	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Seems like that's really\nput it on the fast track.	ดูเหมือนเรื่องนี้จะทำให้มันถูก\nเร่งดำเนินการเป็นพิเศษเลยสินะ
+P0601-0300	พากย์ · speech_list_judge_main_c06	? (ช)		But there's a lot riding on this one, right?\nIt could finally cure Alzheimer's disease.	แต่ก็มีอะไรเดิมพันเยอะเลยใช่ไหม\nมันอาจรักษาโรคอัลไซเมอร์ได้จริง ๆ ก็ได้
+P0601-0301	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	But that's because there's a lot riding on AD-9, right?\nIt may finally be a cure for Alzheimer's.	แต่นั่นก็เพราะ AD-9 มีอะไรเดิมพันเยอะใช่ไหม\nมันอาจเป็นยารักษาอัลไซเมอร์ตัว แรกก็ได้
+P0601-0302	พากย์ · speech_list_judge_main_c06	? (ช)		A couple hundred thousand, at least.\nMaybe even in the millions?	อย่างน้อยก็หลายแสนคนได้มั้ง\nหรืออาจจะเป็นล้านเลยก็ได้
+P0601-0303	พากย์ · speech_list_judge_main_c06	? (ช)		Yikes...	โอ้โห...
+P0601-0304	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Wow...	โห...
+P0601-0305	พากย์ · speech_list_judge_main_c06	? (ช)		I gotta say, this is making me feel kinda bad\nabout how we treated Kido-san back there.	ต้องบอกเลยว่าฟังแล้วรู้สึกแย่ขึ้นมา\nกับที่เราปฏิบัติกับคิโดะซังเมื่อกี้
+P0601-0306	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	After hearing all that, I feel bad about how we\ntreated Kido-san. He's done so much...	พอฟังแบบนี้แล้วรู้สึกแย่กับที่เรา\nปฏิบัติกับคิโดะซัง เขาทำมาเยอะขนาดนี้...
+P0601-0307	พากย์ · speech_list_judge_main_c06	? (ช)		Be nice!	พูดดี ๆ หน่อยสิ!
+P0601-0308	พากย์ · speech_list_judge_main_c06	Yagami (ช)		So, Hashimoto-san. What kind\nof work do you yourself do here?	ว่าแต่ ฮาชิโมโตะซัง แล้วตัวคุณเอง\nทำงานอะไรที่นี่เหรอ
+P0601-0309	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Hashimoto-san, what kind\nof work do you do here?	ฮาชิโมโตะซัง คุณทำงาน\nอะไรที่นี่เหรอ
+P0601-0310	พากย์ · speech_list_judge_main_c06	? (ช)		Oh, that was surprisingly easy.	โอ้ ง่ายกว่าที่คิดไว้ซะอีก
+P0601-0311	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Hence AD-9.	เลยกลายเป็น AD-9 น่ะสิ
+P0601-0312	พากย์ · speech_list_judge_main_c06	? (ช)		That many...?	มากขนาดนั้นเลยเหรอ...?
+P0601-0313	พากย์ · speech_list_judge_main_c06	? (ช)		A lot's changed in three years.\nThe bastard's really made a name for himself.	สามปีเปลี่ยนไปเยอะจริง ๆ\nไอ้นั่นสร้างชื่อให้ตัวเอง ได้ขนาดนี้เลยเหรอ
+P0601-0314	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	A lot's changed in three years.\nNo wonder he was such a bastard.	สามปีเปลี่ยนไปเยอะจริง ๆ\nมิน่าล่ะถึงได้นิสัยแบบนั้น
+P0601-0315	พากย์ · speech_list_judge_main_c06	Hashimoto (ญ)		Dr. Shono is right over there.	ดร.โชโนะอยู่ตรงนั้นเลย
+P0601-0316	พากย์ · speech_list_judge_main_c06	Hashimoto (ญ)	[อีกแทร็ก]	Dr. Shono's right over there.	ดร.โชโนะอยู่ตรงนั้นเอง
+P0601-0317	พากย์ · speech_list_judge_main_c06	? (ญ)		Well, if you'll excuse me.	เอาล่ะ ขอตัวก่อนนะ
+P0601-0318	พากย์ · speech_list_judge_main_c06	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Well then, I'll be off now.	งั้นขอตัวไปก่อนนะ
+P0601-0319	พากย์ · speech_list_judge_main_c06	Ichinose (ช)	[ใช้ร่วม]	Is there a problem?	มีปัญหาอะไรหรือเปล่า
+P0601-0320	พากย์ · speech_list_judge_main_c06	? (ช)		I've never heard you\nraise your voice, Shono-san.	ไม่เคยได้ยินคุณ\nตะโกนแบบนี้มาก่อนเลยนะ โชโนะซัง
+P0601-0321	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I don't think I've ever heard you\nshout like that, Shono-san.	ไม่คิดว่าเคยได้ยินคุณ\nตะโกนแบบนั้นมาก่อนเลยนะ โชโนะซัง
+P0601-0322	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	My name is Ichinose.	ผมชื่ออิจิโนเสะ
+P0601-0323	พากย์ · speech_list_judge_main_c06	? (ช)		I'm here from the Ministry of Health,\noffering political support to AD-9's development.	ผมมาจากกระทรวงสาธารณสุข\nมาให้การสนับสนุนทางการเมืองต่อ การพัฒนา AD-9
+P0601-0324	พากย์ · speech_list_judge_main_c06	? (ช)		I'm sorry, but I'm going to have\nto ask you to leave.	ต้องขอโทษด้วย แต่ผมต้อง\nขอให้คุณออกไปจากที่นี่
+P0601-0325	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Shono-san doesn't want you here.\nYou'll have to leave.	โชโนะซังไม่ต้องการให้คุณอยู่ที่นี่\nคุณต้องออกไป
+P0601-0326	พากย์ · speech_list_judge_main_c06	? (ช)		So I see.	เข้าใจแล้ว
+P0601-0327	พากย์ · speech_list_judge_main_c06	? (ช)		I'll be filing a complaint with the bar association,\nunder the Minister's name.	ผมจะยื่นเรื่องร้องเรียนไปที่ สภาทนายความ\nในนามของท่านรัฐมนตรี
+P0601-0328	พากย์ · speech_list_judge_main_c06	Kido (ช)		What the...\nWhat are you doing here!?	อะไรกัน...\nมาทำอะไรที่นี่!?
+P0601-0329	พากย์ · speech_list_judge_main_c06	Kido (ช)	[อีกแทร็ก] [ใช้ร่วม]	What the hell are you doing here!?	มาทำบ้าอะไรที่นี่!?
+P0601-0330	พากย์ · speech_list_judge_main_c06	? (ช)		I believe I told you to leave.\nWhat about that didn't you understand!?	ผมว่าผมบอกให้คุณไปแล้วนะ\nตรงไหนที่คุณไม่เข้าใจ!?
+P0601-0331	พากย์ · speech_list_judge_main_c06	? (ช)		About which I already said\nShono doesn't know anything.	เรื่องนั้นผมบอกไปแล้ว\nว่าโชโนะไม่รู้อะไรเลย
+P0601-0332	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I already said Shono\ndoesn't know anything!	ผมบอกไปแล้วว่าโชโนะ\nไม่รู้อะไรเลย!
+P0601-0333	พากย์ · speech_list_judge_main_c06	? (ช)		Enough. Call security.	พอได้แล้ว เรียกยามมา
+P0601-0334	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Get security over here.	เรียกยามมาที่นี่เดี๋ยวนี้
+P0601-0335	พากย์ · speech_list_judge_main_c06	? (ช)		That's right. Minister Kazami\nexpects great things from AD-9.	ใช่แล้ว รัฐมนตรีคาซามิ\nฝากความหวังไว้กับ AD-9 มาก
+P0601-0336	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	That's right.\nMinister Kazami expects great things from AD-9.	ใช่แล้ว\nรัฐมนตรีคาซามิฝากความหวังไว้กับ AD-9 มาก
+P0601-0337	พากย์ · speech_list_judge_main_c06	? (ช)		And he won't tolerate distractions\nfrom your ilk.	และท่านจะไม่ทนกับสิ่งกวนใจ\nจากคนแบบคุณแน่
+P0601-0338	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	He won't be happy to hear\nabout your disruptions.	ท่านคงไม่พอใจแน่\nถ้าได้ยินว่าคุณป่วนงานแบบนี้
+P0601-0339	พากย์ · speech_list_judge_main_c06	Shouno (ช)		Yagami-san?\nBut... how did you get in here!?	ยากามิซัง?\nแต่... คุณเข้ามาในนี้ได้ยังไง!?
+P0601-0340	พากย์ · speech_list_judge_main_c06	? (ช)		I can't do that. Kido-san doesn't know\nyou're here, does he!?	ทำแบบนั้นไม่ได้ คิโดะซังยังไม่รู้\nด้วยซ้ำว่าคุณมาที่นี่ ใช่ไหม!?
+P0601-0341	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	No, I can't do that!\nDoes the Director know you're here!?	ไม่ได้ ทำแบบนั้นไม่ได้!\nผู้อำนวยการรู้ไหมว่าคุณมาที่นี่!?
+P0601-0342	พากย์ · speech_list_judge_main_c06	? (ช)		Ah, Ichinose-san. Well, um...	อ้อ อิจิโนเสะซัง เอ่อ...
+P0601-0343	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Ichinose-san?\nWell, um...	อิจิโนเสะซัง?\nเอ่อ...
+P0601-0344	พากย์ · speech_list_judge_main_c06	? (ช)		I already told you, I can't.\nNot without Kido-san here...	บอกไปแล้วไงว่าทำไม่ได้\nถ้าคิโดะซังไม่อยู่ด้วย...
+P0601-0345	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I told you, I can't\nwithout the Director here...	บอกไปแล้วว่าทำไม่ได้\nถ้าผู้อำนวยการไม่อยู่ด้วย...
+P0601-0346	พากย์ · speech_list_judge_main_c06	? (ช)		Shintani? I've never heard\nthat name in my life.	ชินทานิเหรอ? ผมไม่เคยได้ยิน\nชื่อนี้มาก่อนในชีวิตเลย
+P0601-0347	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	But I... I've never even heard\nof a Shintani!	แต่ผม... ผมไม่เคยได้ยินชื่อ\nชินทานิด้วยซ้ำ!
+P0601-0348	พากย์ · speech_list_judge_main_c06	? (ช)		Please, I don't!	ขอร้องละ ผมไม่รู้จริง ๆ!
+P0601-0349	พากย์ · speech_list_judge_main_c06	? (ช)		Now get out of here.	ไปได้แล้ว ออกไปจากที่นี่
+P0601-0350	พากย์ · speech_list_judge_main_c06	? (ช)		I'm calling Director Kido.	ผมจะโทรหาผู้อำนวยการคิโดะ
+P0601-0351	พากย์ · speech_list_judge_main_c06	? (ช)		Of course I am.\nIt's all over the news.	รู้อยู่แล้ว\nมันออกข่าวทั่วบ้านทั่วเมือง
+P0601-0352	พากย์ · speech_list_judge_main_c06	? (ช)		No, I don't!\nNow please let me get back to work.	ไม่รู้จริง ๆ!\nขอกลับไปทำงานต่อเถอะ
+P0601-0353	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I really don't know. Now please\nlet me get back to work.	ผมไม่รู้จริง ๆ ขอผม\nกลับไปทำงานต่อเถอะ
+P0601-0354	พากย์ · speech_list_judge_main_c06	? (ช)		Well, given how much tax money is going into the development of AD-9...	ก็... ด้วยเงินภาษีจำนวนมากที่ทุ่มลง ไปกับการพัฒนา AD-9...
+P0601-0355	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	AD-9's development requires resources.\nPeople's taxes are paying for it.	การพัฒนา AD-9 ต้องใช้ทรัพยากรมาก\nเงินภาษีของประชาชนคือตัวจ่าย ให้มันน่ะ
+P0601-0356	พากย์ · speech_list_judge_main_c06	? (ช)		...it's become quite a political matter.	...มันเลยกลายเป็นเรื่องการเมืองไปแล้ว
+P0601-0357	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	It's become quite a political matter.	มันกลายเป็นเรื่องการเมืองไป พอสมควรแล้ว
+P0601-0358	พากย์ · speech_list_judge_main_c06	? (ช)		As such, the director is being extremely cautious about leaks.	ด้วยเหตุนี้ ผู้อำนวยการเลยระมัดระวังเรื่อง ข้อมูลรั่วไหลเป็นพิเศษ
+P0601-0359	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	So we can't afford a leak. The director\nhas to control the information.	เราจึงปล่อยให้ข้อมูลรั่วไหลไม่ได้ ผู้อำนวยการ\nต้องควบคุมข้อมูลเอาไว้
+P0601-0360	พากย์ · speech_list_judge_main_c06	? (ช)		And I already told you, I don't know.\nNow please let me get back to work.	แล้วผมก็บอกไปแล้วว่าไม่รู้\nขอกลับไปทำงานต่อเถอะ
+P0601-0361	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I already told you, I don't know.\nNow please let me get back to work.	บอกไปแล้วไงว่าไม่รู้\nขอกลับไปทำงานต่อเถอะ
+P0601-0362	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	And?	แล้วไง?
+P0601-0363	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Your point being?	แล้วจะสื่ออะไร?
+P0601-0364	พากย์ · speech_list_judge_main_c06	? (ช)		I already told you,\nI don't know who this "Shintani" even is!	บอกไปแล้วไง\nว่าไม่รู้จัก "ชินทานิ" คนนี้ด้วยซ้ำ!
+P0601-0365	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I told you, I don't know\nwho you're talking about!	บอกไปแล้วว่าไม่รู้\nว่าคุณพูดถึงใคร!
+P0601-0366	พากย์ · speech_list_judge_main_c06	? (ช)		If you want to talk money,\nKido-san's the one to ask.	ถ้าอยากคุยเรื่องเงิน\nต้องไปถามคิโดะซัง
+P0601-0367	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The Director's the one\nwho handles our finances.	ผู้อำนวยการเป็นคน\nดูแลเรื่องการเงินของเรา
+P0601-0368	พากย์ · speech_list_judge_main_c06	? (ช)		Now please let me get back to work.	ตอนนี้ขอกลับไปทำงานต่อเถอะ
+P0601-0369	พากย์ · speech_list_judge_main_c06	? (ช)		Kido-san...	คิโดะซัง...
+P0601-0370	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Director...	ผู้อำนวยการ...
+P0601-0371	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[ใช้ร่วม]	Shono-san.	โชโนะซัง
+P0601-0372	พากย์ · speech_list_judge_main_c06	? (ช)		Calm down. I just want to talk.	ใจเย็น ๆ ผมแค่อยากคุยด้วย
+P0601-0373	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I just need you to answer\na couple questions.	ผมแค่อยากให้คุณ\nตอบคำถามสักสองสามข้อ
+P0601-0374	พากย์ · speech_list_judge_main_c06	? (ช)		Aren't you... the guy from the lobby?	คุณ... ไม่ใช่คนที่ล็อบบี้เหรอ?
+P0601-0375	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You're... I recognize you\nfrom the lobby.	คุณ... ผมจำได้\nว่าเจอที่ล็อบบี้
+P0601-0376	พากย์ · speech_list_judge_main_c06	? (ช)		Kido-san called you "Vice Minister".	คิโดะซังเรียกคุณว่า "ท่านรองปลัด"
+P0601-0377	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Kido-san called you "Vice Minister."	คิโดะซังเรียกคุณว่า "ท่านรองปลัด"
+P0601-0378	พากย์ · speech_list_judge_main_c06	? (ช)		Pretty lofty for a Vice Minister.	ท่าทางใหญ่โตดีนะสำหรับรองปลัด
+P0601-0379	พากย์ · speech_list_judge_main_c06	? (ช)		You can boss scientists around,\nbut I'm not biting.	คุณจะสั่งพวกนักวิทยาศาสตร์ยังไงก็ได้\nแต่ผมไม่ยอมง่าย ๆ หรอก
+P0601-0380	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You can boss around the\nscientists all you like, but not me.	คุณจะสั่งพวกนักวิทยาศาสตร์\nยังไงก็ได้ตามใจ แต่ไม่ใช่กับผม
+P0601-0381	พากย์ · speech_list_judge_main_c06	? (ช)		Shono-san, please.\nI just need a few minutes to talk.	โชโนะซัง ขอร้องละ\nผมแค่ขอเวลาคุยแป๊บเดียว
+P0601-0382	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Shono-san...\nWe just need a few minutes.	โชโนะซัง...\nเราแค่ขอเวลาสักครู่
+P0601-0383	พากย์ · speech_list_judge_main_c06	? (ช)		We'll leave right after we're done, promise.	พอคุยเสร็จเราจะไปทันที สัญญาเลย
+P0601-0384	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	We'll leave right after we're done.	พอคุยเสร็จเราจะไปทันที
+P0601-0385	พากย์ · speech_list_judge_main_c06	? (ช)		I need you to tell me.\nWhy did Shintani call you?	ผมอยากให้คุณบอกผม\nทำไมชินทานิถึงโทรหาคุณ
+P0601-0386	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I need to know why Shintani\ncalled you.	ผมอยากรู้ว่าทำไมชินทานิ\nถึงโทรหาคุณ
+P0601-0387	พากย์ · speech_list_judge_main_c06	? (ช)		This is important, Shono.\nYou have to have some idea.	เรื่องนี้สำคัญนะ โชโนะ\nคุณต้องพอนึกออกบ้างสิ
+P0601-0388	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	This is important.\nYou have to have some idea.	เรื่องนี้สำคัญ\nคุณต้องพอนึกออกบ้างสิ
+P0601-0389	พากย์ · speech_list_judge_main_c06	? (ช)		Do what you want.\nJust let me ask you one thing first.	จะทำอะไรก็เชิญ\nแต่ขอถามอะไรสักอย่างก่อน
+P0601-0390	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Fine, but...\nJust one more question, then.	ได้ แต่...\nขอถามอีกคำถามเดียวก็พอ
+P0601-0391	พากย์ · speech_list_judge_main_c06	? (ช)		After Shintani was murdered,\nthe killer gouged out both of his eyes.	หลังชินทานิถูกฆ่า\nฆาตกรควักลูกตาทั้งสองข้างของเขาออก
+P0601-0392	พากย์ · speech_list_judge_main_c06	? (ช)		Three other near-identical murders\nhave taken place in Kamurocho recently.	มีคดีฆาตกรรมลักษณะใกล้เคียงกัน อีกสามคดี\nเกิดขึ้นในคามุโรโจเมื่อไม่นานมานี้
+P0601-0393	พากย์ · speech_list_judge_main_c06	? (ช)		Are you aware of that, Shono-san?	คุณรู้เรื่องนี้ไหม โชโนะซัง?
+P0601-0394	พากย์ · speech_list_judge_main_c06	? (ช)		And you still have no idea\nwhy Shintani called you? Nothing at all?	แล้วคุณก็ยังไม่รู้เลย\nว่าทำไมชินทานิโทรหาคุณ ไม่รู้อะไรเลยเหรอ?
+P0601-0395	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	And you still have no idea why Shintani called you?\nNothing at all?	แล้วคุณก็ยังไม่รู้เลยว่าทำไม ชินทานิโทรหาคุณ?\nไม่รู้อะไรเลยเหรอ?
+P0601-0396	พากย์ · speech_list_judge_main_c06	? (ช)		You seem awfully deferent towards Kido-san.	คุณดูจะเกรงใจคิโดะซังมากเป็นพิเศษนะ
+P0601-0397	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You seem almost overly\nreliant on Kido-san.	คุณดูจะพึ่งพา\nคิโดะซังมากเกินไปหน่อยนะ
+P0601-0398	พากย์ · speech_list_judge_main_c06	? (ช)		I mean, you won't even talk to me if the guy's not here.	หมายถึง คุณไม่ยอมคุยกับผมด้วยซ้ำถ้าเขา ไม่อยู่
+P0601-0399	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You really need the\ndirector's permission to talk?	ต้องขออนุญาต\nผู้อำนวยการก่อนถึงจะคุยได้เลยเหรอ
+P0601-0400	พากย์ · speech_list_judge_main_c06	? (ช)		So... why are you so afraid of him?	แล้ว... ทำไมคุณถึงกลัวเขาขนาดนั้น?
+P0601-0401	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I have to wonder why you're\nso afraid of him.	ผมอดสงสัยไม่ได้ว่าทำไมคุณ\nถึงกลัวเขาขนาดนั้น
+P0601-0402	พากย์ · speech_list_judge_main_c06	? (ช)		But I'm not here to talk about AD-9.	แต่ผมไม่ได้มาคุยเรื่อง AD-9
+P0601-0403	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	But that's not what I'm here for.\nI'm not asking anything about AD-9.	แต่นั่นไม่ใช่เหตุผลที่ผมมา\nผมไม่ได้ถามอะไรเกี่ยวกับ AD-9 เลย
+P0601-0404	พากย์ · speech_list_judge_main_c06	? (ช)		I need to know why Shintani called you.	ผมอยากรู้ว่าทำไมชินทานิถึงโทรหาคุณ
+P0601-0405	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	What I need to know is why\nShintani called you.	สิ่งที่ผมอยากรู้คือทำไม\nชินทานิถึงโทรหาคุณ
+P0601-0406	พากย์ · speech_list_judge_main_c06	? (ช)		AD-9 is a pretty revolutionary drug, huh?	AD-9 นี่เป็นยาที่ปฏิวัติวงการเลยนะ
+P0601-0407	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Sounds like AD-9 is a\npretty revolutionary drug, huh?	ฟังดูเหมือน AD-9 จะเป็นยา\nที่ปฏิวัติวงการเลยนะ
+P0601-0408	พากย์ · speech_list_judge_main_c06	? (ช)		I heard the Ministry of Health is even funding a new wing here.\nSounds like there's a lot of money getting thrown around.	ได้ยินว่ากระทรวงสาธารณสุข ถึงกับทุ่มทุนสร้างตึกใหม่ ที่นี่\nฟังดูเหมือนมีเงินสะพัดเยอะเลยนะ
+P0601-0409	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I heard the Ministry of Health is even funding a new wing here.\nSounds like a lot of money getting thrown around.	ได้ยินว่ากระทรวงสาธารณสุข ถึงกับทุ่มทุนสร้างตึกใหม่ ที่นี่\nฟังดูเหมือนมีเงินสะพัดเยอะเลย
+P0601-0410	พากย์ · speech_list_judge_main_c06	? (ช)		You're sitting here knee-deep in government cash.\nShintani tries to contact you, then is found dead hours later.	คุณนั่งอยู่ท่ามกลางเงินจาก รัฐบาลท่วมตัวขนาดนี้\nชินทานิพยายามติดต่อคุณ แล้วก็ถูกพบว่าตายในอีกไม่กี่ ชั่วโมงต่อมา
+P0601-0411	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You're sitting here knee-deep in government cash.\nShintani tries to contact you, and he's found dead.	คุณนั่งอยู่ท่ามกลางเงินจาก รัฐบาลท่วมตัวขนาดนี้\nชินทานิพยายามติดต่อคุณ แล้วก็ถูกพบว่าตาย
+P0601-0412	พากย์ · speech_list_judge_main_c06	? (ช)		Pretty suspicious if you ask me.	ถ้าถามผมนะ มันน่าสงสัยมากเลย
+P0601-0413	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Sounds pretty suspicious\nif you ask me.	ถ้าถามผมนะ ฟังดู\nน่าสงสัยมากเลย
+P0601-0414	พากย์ · speech_list_judge_main_c06	? (ช)		I wanted to ask about Shintani's call.	ผมแค่อยากถามเรื่องที่ชินทานิโทรหา
+P0601-0415	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I needed to ask about Shintani's call.	ผมจำเป็นต้องถามเรื่องที่ชินทานิโทรหา
+P0601-0416	พากย์ · speech_list_judge_main_c06	? (ช)		And I needed to hear that from him,\nnot you.	แต่ผมอยากได้ยินคำนั้นจากปากเขา\nไม่ใช่จากคุณ
+P0601-0417	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I wanted to hear him say that himself.	ผมอยากได้ยินเขาพูดเองน่ะ
+P0601-0418	พากย์ · speech_list_judge_main_c06	? (ช)		We were just leaving.	เรากำลังจะไปพอดี
+P0601-0419	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	We're leaving.	เราจะไปแล้ว
+P0601-0420	พากย์ · speech_list_judge_main_c06	? (ช)		Come on, Hoshino-kun.	ไปกันเถอะ โฮชิโนะคุง
+P0601-0421	พากย์ · speech_list_judge_main_c06	? (ช)		The Minister? Of Health?	รัฐมนตรี? กระทรวงสาธารณสุขเหรอ?
+P0601-0422	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The Minister?\nOf Health?	รัฐมนตรี?\nกระทรวงสาธารณสุขเหรอ?
+P0601-0423	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		I feel like we came up empty-handed.	รู้สึกเหมือนเรามาเปล่าเลยครับ
+P0601-0424	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	After all that, we came up empty.	ทำไปตั้งเยอะ สุดท้ายก็ได้อะไรกลับมาเปล่าเลยครับ
+P0601-0425	พากย์ · speech_list_judge_main_c06	? (ช)		Why would Shintani-sensei\nhave called Shono-san...?	ทำไมอาจารย์ชินทานิ\nถึงโทรหาโชโนะซังนะ...?
+P0601-0426	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	Yagami-san?	ยากามิซัง?
+P0601-0427	พากย์ · speech_list_judge_main_c06	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Really?	จริงเหรอ?
+P0601-0428	พากย์ · speech_list_judge_main_c06	? (ช)		I wouldn't even begin to know, but...	ผมไม่รู้เลยสักนิดเลยครับ แต่...
+P0601-0429	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'm not the right person to ask.	ผมคงไม่ใช่คนที่ควรถามครับ
+P0601-0430	พากย์ · speech_list_judge_main_c06	? (ช)		I know for sure I've never heard the two\nof you discuss anything like that in the office.	ผมมั่นใจว่าไม่เคยได้ยินสองคนนั้น\nคุยเรื่องแบบนั้นกันที่ออฟฟิศเลยครับ
+P0601-0431	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	But at least during my time in the office,\nI never heard you two talking about that.	แต่อย่างน้อยตอนที่ผมอยู่ที่ออฟฟิศ\nก็ไม่เคยได้ยินคุณสองคนคุย เรื่องนั้นเลยครับ
+P0601-0432	พากย์ · speech_list_judge_main_c06	? (ช)		I dunno. Have you even seen her lately, though,\nYagami-san? I thought, you know.	ไม่รู้สิครับ แต่ช่วงนี้ยากามิซัง\nได้เจอเธอบ้างหรือเปล่าครับ ผมแค่คิดว่านะ
+P0601-0433	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Maybe... But Yagami-san, have you\nseen her that recently? In Kamurocho?	อาจจะนะครับ... แต่ยากามิซัง\nช่วงนี้ได้เจอเธอที่คามุโรโจ บ้างไหมครับ?
+P0601-0434	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	Huh...	หา...
+P0601-0435	พากย์ · speech_list_judge_main_c06	? (ช)		That's true. Do you think it has\nto do with our case somehow?	ก็จริง คุณว่ามันเกี่ยวกับ\nคดีของเราด้วยหรือเปล่านะ?
+P0601-0436	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	It does seem a little strange.\nDo you think it has to do with our case?	มันก็ดูแปลก ๆ อยู่นะ\nคุณว่ามันเกี่ยวกับคดีของเราไหม?
+P0601-0437	พากย์ · speech_list_judge_main_c06	? (ช)		In that case, maybe our Kajihira\nexpert can help us out with that.	งั้นก็ลองให้ผู้เชี่ยวชาญเรื่อง คาจิฮิระ\nของเราช่วยดูหน่อยดีกว่า
+P0601-0438	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	In that case... maybe our Kajihira expert\ncan help us out with that.	งั้น... ลองให้ผู้เชี่ยวชาญเรื่องคาจิฮิระ\nของเราช่วยดูหน่อยดีกว่า
+P0601-0439	พากย์ · speech_list_judge_main_c06	? (ช)		Sugiura-san. He used to work\nfor them, remember?	ซุกิอุระซังไง เขาเคยทำงาน\nให้บริษัทนั้นมาก่อน จำได้ไหม?
+P0601-0440	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Sugiura-san, of course.\nHe used to work for them, remember?	ซุกิอุระซังนั่นไง\nเขาเคยทำงานให้บริษัทนั้นมาก่อน จำได้ไหม?
+P0601-0441	พากย์ · speech_list_judge_main_c06	? (ช)		That wasn't the first time\nI've heard about Minister Kazami.	นั่นไม่ใช่ครั้งแรก\nที่ผมได้ยินชื่อรัฐมนตรีคาซามิ
+P0601-0442	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I feel like I was just talking about Minister Kazami.\nWith someone back in Kamurocho, I mean.	รู้สึกเหมือนเพิ่งคุยเรื่อง รัฐมนตรีคาซามิไปหมาด ๆ\nกับใครสักคนที่คามุโรโจนี่แหละ
+P0601-0443	พากย์ · speech_list_judge_main_c06	? (ช)		When was it, though?	แต่มันตอนไหนกันนะ?
+P0601-0444	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	When was that, though?	แต่ตอนไหนกันนะ?
+P0601-0445	พากย์ · speech_list_judge_main_c06	? (ช)		Who was talking to me about\nthe Ministry of Health?	ใครกันนะที่คุยกับผม\nเรื่องกระทรวงสาธารณสุข?
+P0601-0446	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Who was talking to me\nabout the Ministry of Health?	ใครกันนะที่คุยกับผมเรื่อง\nกระทรวงสาธารณสุข?
+P0601-0447	พากย์ · speech_list_judge_main_c06	? (ช)		Maybe it was Genda-sensei?	หรือจะเป็นอาจารย์เก็นดะนะ?
+P0601-0448	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Was it when I was talking to Genda-sensei?	หรือตอนที่คุยกับอาจารย์เก็นดะกันแน่?
+P0601-0449	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	In that case...	ถ้าอย่างนั้น...
+P0601-0450	พากย์ · speech_list_judge_main_c06	? (ช)		Maybe it was Mafuyu?	หรือจะเป็นมาฟุยุนะ?
+P0601-0451	พากย์ · speech_list_judge_main_c06	? (ช)		Yeah, it's been a while.\nSo that means...	เออ ไม่ได้เจอกันนานเลย\nงั้นก็แปลว่า...
+P0601-0452	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Recently...? Well, not in a while, no.\nIn that case...	ช่วงนี้เหรอ...? ก็ไม่ได้เจอกันนานแล้วนะ\nถ้างั้น...
+P0601-0453	พากย์ · speech_list_judge_main_c06	? (ช)		It must have been Ayabe.\nWhen we were drinking over at Tender.	ต้องเป็นอายาเบะแน่ ๆ\nตอนที่กินเหล้ากันอยู่ที่เทนเดอร์
+P0601-0454	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	It must have been Ayabe.\nOver at Tender.	ต้องเป็นอายาเบะแน่ ๆ\nที่เทนเดอร์นั่นแหละ
+P0601-0455	พากย์ · speech_list_judge_main_c06	? (ช)		I definitely remember him\nmentioning Minister Kazami.	ผมจำได้แน่ ๆ ว่าเขา\nพูดถึงรัฐมนตรีคาซามิ
+P0601-0456	พากย์ · speech_list_judge_main_c06	? (ช)		We were talking about how the Kyorei Clan\nended up in Kamurocho.	เรากำลังคุยกันว่าตระกูลเคียวเรอิ\nมาอยู่คามุโรโจได้ยังไง
+P0601-0457	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Specifically, we were talking about why\nthe Kyorei came from Kansai to Kamurocho.	พูดให้ชัดคือ เรากำลังคุยกันว่าทำไม\nเคียวเรอิถึงย้ายจากคันไซมาคามุโรโจ
+P0601-0458	พากย์ · speech_list_judge_main_c06	? (ช)		Apparently they're being used as muscle for a\nconstruction company called the Kajihira Group.	ดูเหมือนพวกเขาถูกใช้เป็นกำลังคน\nให้บริษัทก่อสร้างที่ชื่อ กลุ่มคาจิฮิระ
+P0601-0459	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Apparently, the Kyorei are being used as muscle\nfor a construction company called the Kajihira Group.	ดูเหมือนเคียวเรอิจะถูกใช้เป็นกำลังคน\nให้บริษัทก่อสร้างที่ชื่อ กลุ่มคาจิฮิระ
+P0601-0460	พากย์ · speech_list_judge_main_c06	? (ช)		A while back, Chairman Kajihira himself was going around\nlaying the political groundwork for a Tokyo revamp project.	ก่อนหน้านี้ ประธานคาจิฮิระเดินสาย\nวางฐานการเมืองให้โครง การปรับปรุงโตเกียวด้วยตัวเอง
+P0601-0461	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	And Chairman Kajihira himself has been laying\nthe groundwork for a Tokyo revamp for a while now.	และประธานคาจิฮิระก็เดินสาย\nวางฐานให้โครงการปรับปรุง โตเกียวมาพักหนึ่งแล้ว
+P0601-0462	พากย์ · speech_list_judge_main_c06	? (ช)		And one of the people he met with...\nwas Naohisa Kazami from the Ministry of Health.	และหนึ่งในคนที่เขาไปพบ...\nก็คือนาโอฮิสะ คาซามิ จากกระทรวงสาธารณสุข
+P0601-0463	พากย์ · speech_list_judge_main_c06	? (ช)		You'd think he'd go to the Ministry of Land, though.\nHis project has nothing to do with health.	แต่น่าจะไปหากระทรวงที่ดิน มากกว่านะครับ\nโครงการเขาไม่เกี่ยวกับสาธารณสุขเลย
+P0601-0464	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Though... you'd think he'd go to the Ministry of Land.\nHis project has nothing to do with health.	แต่ก็นะ... น่าจะไปหากระทรวงที่ดินมากกว่า\nโครงการเขาไม่เกี่ยวกับสาธารณสุขเลย
+P0601-0465	พากย์ · speech_list_judge_main_c06	? (ช)		What would he gain from meeting Kazami?	แล้วเขาจะได้อะไรจากการไปพบ คาซามิล่ะครับ?
+P0601-0466	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	What would he gain from Kazami?	แล้วเขาจะได้อะไรจากคาซามิล่ะครับ?
+P0601-0467	พากย์ · speech_list_judge_main_c06	? (ช)		<color=ｍonologue>(Minister Kazami's name won't stop coming up.\nIs that just coincidence, or something more...?)</color>	<color=ｍonologue>(ชื่อรัฐมนตรีคาซามิโผล่มาไม่หยุดเลย\nนี่มันเรื่องบังเอิญ หรือมีอะไรมากกว่านั้นกันแน่...?)</color>
+P0601-0468	พากย์ · speech_list_judge_main_c06	? (ช)		I don't know. Depends on what\nthe two of them were talking about.	ผมก็ไม่รู้เหมือนกันครับ ขึ้นอยู่กับว่า\nทั้งสองคนคุยอะไรกัน
+P0601-0469	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Not sure. Depends on what Kajihira and Kazami\nwere talking about.	ไม่แน่ใจครับ ขึ้นอยู่กับว่าคาจิฮิระกับคาซามิ\nคุยอะไรกัน
+P0601-0470	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[ใช้ร่วม]	Who?	ใครล่ะ?
+P0601-0471	พากย์ · speech_list_judge_main_c06	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x8]	Hm?	หืม?
+P0601-0472	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	Oh yeah!	เย้!
+P0601-0473	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	There we go.	เอาล่ะ เรียบร้อย
+P0601-0474	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		So you wanna know how\nKajihira and Kazami are connected?	อยากรู้ว่าคาจิฮิระกับคาซามิ\nเกี่ยวข้องกันยังไงใช่ไหมครับ?
+P0601-0475	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	I get the picture. So, you wanna know\nhow Kajihira and Kazami are connected?	เข้าใจแล้วครับ งั้นอยากรู้ว่า\nคาจิฮิระกับคาซามิเกี่ยวข้องกัน ยังไงใช่ไหม?
+P0601-0476	พากย์ · speech_list_judge_main_c06	? (ช)		Not really sure, but I'll give it a shot.	ไม่แน่ใจเหมือนกัน แต่จะลองดูครับ
+P0601-0477	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Not really sure,\nbut I'll give it a shot.	ไม่แน่ใจเหมือนกัน\nแต่จะลองดูครับ
+P0601-0478	พากย์ · speech_list_judge_main_c06	? (ช)		You're still at the ADDC, yeah?\nJust gimme some time. I'll call you if I find anything.	ยังอยู่ที่ ADDC ใช่ไหมครับ?\nขอเวลาหน่อยนะ เจออะไรจะโทรบอก
+P0601-0479	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Yeah. Any way you can find that out?	ใช่ พอจะหาคำตอบให้ได้ไหม?
+P0601-0480	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Yup. Any way you can\nfind that out?	ใช่เลย พอจะหาคำตอบ\nให้ได้ไหม?
+P0601-0481	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[ซ้ำในบท x2]	Oh, Yagami-san.	อ้อ ยากามิซัง
+P0601-0482	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Um... Yagami-san?	เอ่อ...ยากามิซัง?
+P0601-0483	พากย์ · speech_list_judge_main_c06	? (ช)		Um, I'm going to head back to the office.\nI just got an email from Saori-san.	เอ่อ ผมจะกลับไปที่ออฟฟิศก่อนนะครับ\nเพิ่งได้อีเมลจากซาโอริซัง
+P0601-0484	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'm, uh... going to head back to the office.\nI just got an email from Saori-san.	ผมจะ เอ่อ... กลับไปที่ออฟฟิศก่อนนะครับ\nเพิ่งได้อีเมลจากซาโอริซัง
+P0601-0485	พากย์ · speech_list_judge_main_c06	? (ช)		Apparently a journalist named Hattori barged\ninto the office. Says he wants to interview you.	ได้ยินว่ามีนักข่าวชื่อฮัตโตริบุก\nเข้ามาที่ออฟฟิศ บอกว่าอยากสัมภาษณ์ยากามิซัง
+P0601-0486	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Just now, a journalist named Hattori barged into the office.\nSaid he was looking for you, Yagami-san.	เมื่อกี้มีนักข่าวชื่อฮัตโตริ บุกเข้ามาที่ออฟฟิศ\nบอกว่ากำลังตามหายากามิซังอยู่
+P0601-0487	พากย์ · speech_list_judge_main_c06	? (ช)		It sounds like he's looking\ninto Shintani-sensei's murder, too.	ฟังดูเหมือนเขากำลังสืบ\nคดีฆาตกรรมอาจารย์ชินทานิอยู่ด้วยครับ
+P0601-0488	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	He must be looking into\nShintani-sensei's murder, too.	เขาต้องกำลังสืบ\nคดีฆาตกรรมอาจารย์ชินทานิอยู่แน่ ๆ ครับ
+P0601-0489	พากย์ · speech_list_judge_main_c06	? (ช)		At least that's what Saori-san said.	อย่างน้อยซาโอริซังก็บอกแบบนั้นครับ
+P0601-0490	พากย์ · speech_list_judge_main_c06	? (ช)		Anyway, I'll go ahead and drive him off.	ยังไงก็เถอะ ผมจะไปไล่เขาออกไปก่อนนะครับ
+P0601-0491	พากย์ · speech_list_judge_main_c06	? (ช)		Nah, I don't know if I'm\nready for that. Honestly.	ไม่หรอกครับ ผมไม่รู้ว่าตัวเอง\nพร้อมกับตำแหน่งนั้นหรือเปล่า พูดตรง ๆ นะ
+P0601-0492	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Ah... No way.\nHonestly, I'd rather not.	เอ่อ... ไม่เอาหรอกครับ\nพูดตรง ๆ ผมไม่อยากเป็นเลย
+P0601-0493	พากย์ · speech_list_judge_main_c06	? (ช)		Too much responsibility\nfor a guy my age, you know?	มันเป็นความรับผิดชอบที่หนักเกินไป\nสำหรับคนอายุเท่าผมนะครับ
+P0601-0494	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I mean, it's too much responsibility\nfor a guy like me.	หมายถึง มันเป็นความรับผิดชอบ\nที่หนักเกินไปสำหรับคนอย่างผม
+P0601-0495	พากย์ · speech_list_judge_main_c06	? (ช)		I think I make a much better\nsidekick for now.	ตอนนี้ผมว่าตัวเองเหมาะกับการเป็น\nลูกมือมากกว่าครับ
+P0601-0496	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I think I make a much\nbetter sidekick for now.	ตอนนี้ผมว่าตัวเองเป็น\nลูกมือได้ดีกว่าครับ
+P0601-0497	พากย์ · speech_list_judge_main_c06	? (ช)		I don't know that it will.	ผมว่าคงไม่มีวันนั้นหรอกครับ
+P0601-0498	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I don't know that it ever will.	ผมว่ามันคงไม่มีวันเป็นแบบนั้น หรอกครับ
+P0601-0499	พากย์ · speech_list_judge_main_c06	? (ช)		Being a professional sidekick\nfor the rest of my life sounds okay to me.	เป็นลูกมืออาชีพ\nไปตลอดชีวิตก็ฟังดูดีนะครับ สำหรับผม
+P0601-0500	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Being a professional sidekick for the\nrest of my life sounds okay to me.	เป็นลูกมืออาชีพไปตลอด\nชีวิตก็ฟังดูโอเคนะครับ สำหรับผม
+P0601-0501	พากย์ · speech_list_judge_main_c06	? (ช)		I'll see you later!	แล้วเจอกันนะครับ!
+P0601-0502	พากย์ · speech_list_judge_main_c06	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	I should be going.	ขอตัวไปก่อนนะ
+P0601-0503	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	Me?	ผมเหรอ?
+P0601-0504	พากย์ · speech_list_judge_main_c06	? (ช)		You'll be Genda-sensei's ace attorney\nbefore you know it.	อีกไม่นานคุณคงได้เป็นทนายมือหนึ่ง\nของอาจารย์เก็นดะแน่ ๆ
+P0601-0505	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You'll be Genda-sensei's ace attorney\nbefore you know it, Hoshino-kun.	อีกไม่นานคุณคงได้เป็นทนายมือหนึ่ง\nของอาจารย์เก็นดะแน่ ๆ โฮชิโนะคุง
+P0601-0506	พากย์ · speech_list_judge_main_c06	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Why?	ทำไมล่ะ?
+P0601-0507	พากย์ · speech_list_judge_main_c06	? (ช)		Okay, but when that gets old?	โอเค แต่ถ้ามันเริ่มน่าเบื่อขึ้นมาล่ะ?
+P0601-0508	พากย์ · speech_list_judge_main_c06	? (ช)		<color=ｍonologue>(Guess I'm on standby 'til\nSugiura gets in touch with me.)</color>	<color=ｍonologue>(คงต้องรอ\nจนกว่าซุกิอุระจะติดต่อมาแล้วล่ะ)</color>
+P0601-0509	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[ซ้ำในบท x2]	Yagami-san? It's Sugiura.	ยากามิซัง? นี่ซุกิอุระเองครับ
+P0601-0510	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Hello? It's Sugiura.	ฮัลโหล? นี่ซุกิอุระเองครับ
+P0601-0511	พากย์ · speech_list_judge_main_c06	? (ช)		Wanna meet up and talk Kajihira?\nHeard of a place called Koi Bride?	อยากมาเจอกันคุยเรื่องคาจิฮิระไหมครับ?\nรู้จักร้านที่ชื่อโคอิไบรด์บ้างไหม?
+P0601-0512	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I did some digging, found stuff on Kajihira.\nWe can meet up. Know a place called Koi Bride?	ผมลองขุดข้อมูลดู เจอเรื่องเกี่ยวกับคาจิฮิระครับ\nมาเจอกันได้นะ รู้จักร้านที่ชื่อโคอิไบรด์ไหม?
+P0601-0513	พากย์ · speech_list_judge_main_c06	? (ช)		Just gotta have connections?\nAnyway, I'll see you there.	แค่ต้องมีเส้นสายก็พอเหรอครับ?\nเอาล่ะ เดี๋ยวเจอกันที่นั่นนะครับ
+P0601-0514	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Only if you've got the connections.\nAnyways, I'll see you there.	ต้องมีเส้นสายถึงจะเข้าได้ครับ\nเอาล่ะ เดี๋ยวเจอกันที่นั่นนะครับ
+P0601-0515	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Unfortunately, yeah.\nHow do you all know this place?	รู้จักสิ น่าเสียดาย\nพวกคุณรู้จักร้านนี้กันได้ยังไง?
+P0601-0516	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Unfortunately, yeah.\nIs it really that famous?	รู้จักสิ น่าเสียดาย\nร้านนี้มันดังขนาดนั้นเลยเหรอ?
+P0601-0517	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		You got here faster than I thought\nyou would, Yagami-san.	มาถึงเร็วกว่าที่ผมคิดไว้เลยนะครับ\nยากามิซัง
+P0601-0518	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	You're faster than I thought, Yagami-san.	เร็วกว่าที่ผมคิดไว้เลยนะครับ ยากามิซัง
+P0601-0519	พากย์ · speech_list_judge_main_c06	? (ช)		Heh, just a couple of rumors, really.	เอ่อ... ก็แค่ข่าวลือนิดหน่อยครับ
+P0601-0520	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Heh... just a couple of rumors.	เอ่อ... แค่ข่าวลือนิดหน่อยครับ
+P0601-0521	พากย์ · speech_list_judge_main_c06	? (ช)		Fine, you got me. You know that meeting they had?\nTurns out it was about the ADDC.	โอเค จับได้ซะแล้ว การประชุมที่ทั้งสองคนมีกันน่ะครับ\nที่จริงเป็นเรื่องเกี่ยวกับ ADDC
+P0601-0522	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yeah. See, Kajihira and Kazami? They had a\nnice little meeting about the ADDC.	ครับ คือคาจิฮิระกับคาซามิน่ะ\nมีการประชุมลับๆ กันเรื่อง ADDC
+P0601-0523	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Well, how'd it go?\nFind anything between Kajihira and Kazami?	เป็นไงบ้าง?\nเจออะไรเกี่ยวกับคาจิฮิระกับคาซามิไหม?
+P0601-0524	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Sure. How'd it go?\nFind anything between Kajihira and Kazami?	อือ เป็นไงบ้าง?\nเจออะไรเกี่ยวกับคาจิฮิระกับคาซามิไหม?
+P0601-0525	พากย์ · speech_list_judge_main_c06	? (ช)		Then what's with that grin?	แล้วยิ้มแบบนั้นทำไมล่ะ?
+P0601-0526	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	And yet you're grinning.	แต่ทำไมถึงยิ้มแบบนั้นล่ะ?
+P0601-0527	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	What...?	อะไรนะ...?
+P0601-0528	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		For years now, the Kajihira Group has been secretly\nplanning an absolutely massive redevelopment project.	หลายปีมาแล้วที่กลุ่มคาจิฮิระ แอบวางแผน\nโปรเจกต์พัฒนาที่ดินขนาดมหึมาอยู่
+P0601-0529	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	For years now, the Kajihira Group has been secretly planning\nan absolutely massive redevelopment project.	หลายปีมาแล้วที่กลุ่มคาจิฮิระ แอบวางแผนเรื่องนี้\nโปรเจกต์พัฒนาที่ดินขนาดมหึมา
+P0601-0530	พากย์ · speech_list_judge_main_c06	? (ช)		And where were they planning it?\nThis plot of land right here.	แล้วพวกเขาวางแผนจะทำที่ไหนล่ะ?\nที่ดินผืนนี้เลยครับ
+P0601-0531	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Up in the city. A huge plot of land...\nCheck it out.	อยู่ในเมืองนี่เอง ที่ดินผืนใหญ่มาก...\nลองดูสิครับ
+P0601-0532	พากย์ · speech_list_judge_main_c06	? (ช)		Yup. The area around it, too.	ใช่ครับ พื้นที่รอบๆ ด้วย
+P0601-0533	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Not just their building.\nThe whole damn area.	ไม่ใช่แค่ตึกของพวกเขา\nทั้งย่านเลยครับ
+P0601-0534	พากย์ · speech_list_judge_main_c06	? (ช)		To be precise, Kajihira wanted all the land\nbelonging to the Medical Institute.	พูดให้ชัดคือ คาจิฮิระต้องการที่ดินทั้งหมด\nที่เป็นของสถาบันการแพทย์ครับ
+P0601-0535	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Kajihira wanted all the land belonging to\nthe Medical Device Development Institute.	คาจิฮิระต้องการที่ดินทั้งหมด\nที่เป็นของสถาบันพัฒนาอุปกรณ์การแพทย์
+P0601-0536	พากย์ · speech_list_judge_main_c06	? (ช)		Which, as you know, is managed by none\nother than the Ministry of Health.	ซึ่งอย่างที่รู้กัน ดูแลโดย\nกระทรวงสาธารณสุขเลยล่ะครับ
+P0601-0537	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	And, they're managed by none other\nthan the Ministry of Health.	แล้วก็ดูแลโดยกระทรวงสาธารณสุข\nไม่ใช่ใครที่ไหนครับ
+P0601-0538	พากย์ · speech_list_judge_main_c06	? (ช)		That explains why Kajihira\nneeded to talk to Minister Kazami.	อ๋อ นี่เองที่ทำให้คาจิฮิระ\nต้องไปคุยกับรัฐมนตรีคาซามิ
+P0601-0539	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	So for Kajihira's plan to work,\nhe needed to go through Minister Kazami.	งั้นแผนของคาจิฮิระจะสำเร็จได้\nก็ต้องผ่านรัฐมนตรีคาซามิสินะ
+P0601-0540	พากย์ · speech_list_judge_main_c06	? (ช)		If they want to go forward with the redevelopment,\nthey'll have to shut the Institute down. Including the ADDC.	ถ้าจะเดินหน้าโครงการพัฒนาที่ดินนี้\nก็ต้องปิดสถาบันลง รวมถึง ADDC ด้วยครับ
+P0601-0541	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	If they want to redevelop, they'll have to\nshut the Institute down. And the ADDC with it.	ถ้าจะพัฒนาที่ดินนี้ ก็ต้อง\nปิดสถาบันลง แล้วก็ ADDC ไปด้วยครับ
+P0601-0542	พากย์ · speech_list_judge_main_c06	? (ช)		It is in this case. Apparently Kazami was already\nplanning to shut the center down.	กรณีนี้ใช่เลยครับ ดูเหมือนคาซามิ\nวางแผนจะปิดศูนย์นี้อยู่แล้วด้วย
+P0601-0543	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	It is in this case.\nApparently Kazami was already planning to shut it down.	กรณีนี้ใช่เลยครับ\nดูเหมือนคาซามิวางแผนจะปิดมันอยู่แล้ว
+P0601-0544	พากย์ · speech_list_judge_main_c06	? (ช)		See, the Institute was created with the goal of addressing Japan's\naging population problem. Too many seniors, not enough babies, all that.	คือสถาบันนี้ตั้งขึ้นมาเพื่อแก้ ปัญหาสังคมผู้สูงอายุ\nของญี่ปุ่นครับ ผู้สูงวัยเยอะ เด็กเกิดใหม่น้อย ประมาณนั้น
+P0601-0545	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	See, the Institute was created for the specific purpose\nof addressing Japan's aging population.	คือสถาบันนี้ตั้งขึ้นมาโดยมี จุดประสงค์เฉพาะ\nคือแก้ปัญหาสังคมผู้สูงอายุของ ญี่ปุ่นครับ
+P0601-0546	พากย์ · speech_list_judge_main_c06	? (ช)		But for the past ten years,\nthe money's been going into a black hole.	แต่สิบปีที่ผ่านมา\nเงินก็หายลงหลุมดำไปเรื่อยๆ ครับ
+P0601-0547	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	But over the past ten years it's been\nnothing but a black hole.	แต่สิบปีที่ผ่านมามันก็เป็น\nแค่หลุมดำกลืนเงินเท่านั้นเองครับ
+P0601-0548	พากย์ · speech_list_judge_main_c06	? (ช)		People even call it a tax scam.	ถึงขั้นมีคนเรียกมันว่าเป็น การโกงภาษีเลยครับ
+P0601-0549	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	People even started calling them tax thieves.	ถึงขั้นมีคนเริ่มเรียกพวกเขาว่า โจรภาษีเลยครับ
+P0601-0550	พากย์ · speech_list_judge_main_c06	? (ช)		I mean, they're not wrong. Management's just\na buncha crusty government types.	ก็คือพวกเขาไม่ผิดหรอกครับ ผู้บริหารก็แค่\nพวกข้าราชการเก่าๆ หัวโบราณกลุ่มหนึ่ง
+P0601-0551	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	And hey, management's mostly old ex-government\nofficials. So not too far off.	แล้วผู้บริหารส่วนใหญ่ก็ เป็นอดีตข้าราชการ\nเก่าๆ ครับ เลยไม่ผิดไปจากที่คิดเท่าไหร่
+P0601-0552	พากย์ · speech_list_judge_main_c06	? (ช)		Bye bye, ADDC, hello giant plot of land.	บาย ADDC สวัสดีที่ดินผืนใหญ่
+P0601-0553	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	They'd tear it down in a heartbeat.	พวกเขาก็จะรื้อทิ้งทันทีเลยครับ
+P0601-0554	พากย์ · speech_list_judge_main_c06	? (ช)		Maybe, but I doubt he'd mind so long\nas he got a nice kickback from it.	อาจจะครับ แต่ผมว่าเขาคงไม่สนหรอก\nตราบใดที่ได้เงินใต้โต๊ะงามๆ จากมัน
+P0601-0555	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	As long as he gets a kickback,\nwould he even care?	ตราบใดที่ได้เงินใต้โต๊ะ\nเขาจะสนใจไปทำไมล่ะครับ?
+P0601-0556	พากย์ · speech_list_judge_main_c06	? (ช)		And that's exactly what Kajihira put on the table.\nI'm sure it was enough to cover the damage.	แล้วนั่นก็คือสิ่งที่คาจิฮิระ ยื่นให้พอดีเลยครับ\nผมมั่นใจว่ามันคุ้มพอจะชดเชย ความเสียหาย
+P0601-0557	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	So yeah, Kajihira found the Minister,\nand gave him exactly what he wanted.	ก็คือคาจิฮิระไปหารัฐมนตรี\nแล้วยื่นสิ่งที่เขาต้องการให้ พอดีเลยครับ
+P0601-0558	พากย์ · speech_list_judge_main_c06	? (ช)		A big ol' bribe, basically.	พูดง่ายๆ ก็คือสินบนก้อนโตนั่นแหละ
+P0601-0559	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Straight-up bribery.	สินบนดีๆ นี่เอง
+P0601-0560	พากย์ · speech_list_judge_main_c06	? (ช)		On top of that, Kajihira bought up all the land\naround the Center years back to avoid rising prices.	ยิ่งไปกว่านั้น คาจิฮิระยังกว้านซื้อที่ดิน\nรอบศูนย์นั้นไว้ตั้งแต่หลายปีก่อน เพื่อเลี่ยงราคาที่จะขึ้น
+P0601-0561	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	On top of that, Kajihira bought up all the land\naround the Center years back, to avoid rising prices.	ยิ่งไปกว่านั้น คาจิฮิระยังกว้านซื้อที่ดิน\nรอบศูนย์นั้นไว้หลายปีก่อน เพื่อไม่ให้ราคาขึ้น
+P0601-0562	พากย์ · speech_list_judge_main_c06	? (ช)		Yup, But as luck would have it...\nIt just wasn't meant to be.	ใช่ครับ แต่โชคชะตาก็เล่นตลก...\nมันไม่ได้เป็นไปตามแผน
+P0601-0563	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yup. Still, I guess it just\nwasn't meant to be.	ใช่ครับ แต่ยังไงก็เถอะ\nมันก็ไม่ได้เป็นไปตามที่หวัง
+P0601-0564	พากย์ · speech_list_judge_main_c06	? (ช)		One day, Kajihira's redevelopment project\nsuddenly got flushed down the drain.	แล้ววันหนึ่ง โครงการพัฒนาที่ดินของคาจิฮิระ\nก็จู่ๆ ก็ล่มไม่เป็นท่า
+P0601-0565	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	One day, Kajihira's redevelopment project\nsuddenly went down the drain.	แล้ววันหนึ่ง โครงการพัฒนาที่ดินของคาจิฮิระ\nก็จู่ๆ ก็พังไม่เป็นท่า
+P0601-0566	พากย์ · speech_list_judge_main_c06	? (ช)		Something happened preventing\nthe ADDC from closing.	มีบางอย่างเกิดขึ้น\nจนทำให้ ADDC ไม่ถูกปิด
+P0601-0567	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The ADDC was suddenly\ntoo big to shut down.	จู่ๆ ADDC ก็กลายเป็น\nองค์กรที่ใหญ่เกินจะปิดไปได้
+P0601-0568	พากย์ · speech_list_judge_main_c06	? (ช)		And it's all thanks to this guy.	แล้วทั้งหมดนี้ก็ต้องขอบคุณ ผู้ชายคนนี้แหละครับ
+P0601-0569	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	All thanks to this.	ต้องขอบคุณเรื่องนี้เลยครับ
+P0601-0570	พากย์ · speech_list_judge_main_c06	? (ช)		Yup, you don't just shut down a dementia drug\nthat could change the world.	ใช่ครับ จะปิดยารักษาโรคสมองเสื่อม\nที่อาจเปลี่ยนโลกได้ ก็ไม่ใช่เรื่องง่าย
+P0601-0571	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yeah. Can't shut down a dementia drug\nthat might change the world.	ครับ ปิดยารักษาโรคสมองเสื่อม\nที่อาจเปลี่ยนโลกได้ไม่ได้หรอก
+P0601-0572	พากย์ · speech_list_judge_main_c06	? (ช)		So, Kazami started singing AD-9's praises to anyone\nwho'd listen. And you know how it ends.	คาซามิเลยเริ่มยกยอ AD-9 ให้ทุกคน\nที่ยอมฟัง แล้วก็รู้ๆ กันอยู่ว่าจบยังไง
+P0601-0573	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	So Kazami started singing AD-9's praises\nto anyone who'd listen.	คาซามิเลยเริ่มยกยอ AD-9\nให้ใครก็ตามที่ยอมฟัง
+P0601-0574	พากย์ · speech_list_judge_main_c06	? (ช)		The ADDC stayed in business, the money kept flowing,\nthe research kept going.	ADDC เลยได้ไปต่อ เงินก็ยังไหลเข้า\nงานวิจัยก็ยังดำเนินต่อไป
+P0601-0575	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Naturally, they decided to keep\nthe ADDC up and running.	แน่นอนว่าพวกเขาเลยตัดสินใจ\nให้ ADDC เปิดดำเนินการต่อไป
+P0601-0576	พากย์ · speech_list_judge_main_c06	? (ช)		Kazami brushed the whole deal under the rug.	คาซามิเลยกวาดเรื่องดีลนั้นไป ซุกไว้ใต้พรมซะเลย
+P0601-0577	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	They pretended the deal with Kajihira\nnever even happened.	พวกเขาแกล้งทำเป็นว่าดีลกับคาจิฮิระ\nไม่เคยเกิดขึ้นเลยด้วยซ้ำ
+P0601-0578	พากย์ · speech_list_judge_main_c06	? (ช)		Yup. Guy must've lost billions in the process.\nWonder what that feels like?	ใช่ครับ เขาต้องเสียเงินไปเป็นพันๆ ล้าน\nไม่รู้จะรู้สึกยังไงนะ
+P0601-0579	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yup. He must have invested billions.\nSo much for mutual benefit, right?	ใช่ครับ เขาต้องลงทุนไปเป็นพันๆ ล้าน\nแล้วสุดท้ายได้อะไรกลับมาบ้างล่ะ
+P0601-0580	พากย์ · speech_list_judge_main_c06	? (ช)		I'd guess he's not too happy with this AD-9 business.	เดาว่าเขาคงไม่ปลื้มเรื่อง AD-9 นี้เท่าไหร่
+P0601-0581	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'd guess he's not too happy\nwith this AD-9 stuff.	เดาว่าเขาคงไม่ปลื้ม\nเรื่อง AD-9 นี้เท่าไหร่หรอก
+P0601-0582	พากย์ · speech_list_judge_main_c06	? (ช)		Ah, you wanna look behind the curtain, huh?	อ๋อ อยากรู้เบื้องหลังใช่ไหมครับ
+P0601-0583	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Ah...\nGuess I should tell you, huh?	อ่า...\nคงต้องบอกนายสินะครับ
+P0601-0584	พากย์ · speech_list_judge_main_c06	? (ช)		It's not that impressive.\nIt was all published online last year.	จริงๆ ก็ไม่ได้เก่งอะไรหรอกครับ\nมันถูกเผยแพร่ออนไลน์ตั้งแต่ปีที่แล้ว
+P0601-0585	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	All that stuff I just told you was actually published\nin an article online, last year.	เรื่องทั้งหมดที่บอกไปเมื่อกี้ จริงๆ ก็ถูกตีพิมพ์\nในบทความออนไลน์ตั้งแต่ปีที่แล้วครับ
+P0601-0586	พากย์ · speech_list_judge_main_c06	? (ช)		It was a pretty gripping article,\nbut they couldn't substantiate their claims.	เป็นบทความที่น่าติดตามทีเดียว\nแต่พิสูจน์ข้อกล่าวหาไม่ได้ครับ
+P0601-0587	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	It made some pretty hefty claims,\nbut nothing it could substantiate, of course.	มันกล่าวหาไว้ค่อนข้างหนักเลย\nแต่ก็พิสูจน์ไม่ได้เหมือนเดิมครับ
+P0601-0588	พากย์ · speech_list_judge_main_c06	? (ช)		Everyone wrote it off as tabloid nonsense.	ทุกคนเลยมองว่าเป็นแค่ข่าวไร้สาระ
+P0601-0589	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Everyone just wrote it off as gossip.	ทุกคนเลยมองว่าเป็นแค่เรื่องซุบซิบ
+P0601-0590	พากย์ · speech_list_judge_main_c06	? (ช)		What, why?	หา ทำไมล่ะ?
+P0601-0591	พากย์ · speech_list_judge_main_c06	? (ช)		What, you know him?	หา นายรู้จักเขาด้วยเหรอ?
+P0601-0592	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You know him?	นายรู้จักเขาเหรอ?
+P0601-0593	พากย์ · speech_list_judge_main_c06	? (ช)		Huh!? Doesn't that mean\nyou can ask him yourself?	หา!? งั้นก็แปลว่านาย\nไปถามเขาเองได้เลยสิ?
+P0601-0594	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Huh...? Hey, so you can go ask him yourself!	หา...? เฮ้ งั้นนายก็ไปถามเขาเองได้เลยสิ!
+P0601-0595	พากย์ · speech_list_judge_main_c06	? (ช)		You better get a move on!	รีบไปเถอะ!
+P0601-0596	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You'd better get going.	นายรีบไปซะดีกว่า
+P0601-0597	พากย์ · speech_list_judge_main_c06	Yagami (ช)		That's the ADDC.	นั่นมัน ADDC นี่นา
+P0601-0598	พากย์ · speech_list_judge_main_c06	? (ช)		<color=ｍonologue>(So Kajihira's redevelopment plan was premised on\ngetting land from the Ministry of Health...)</color>	<color=ｍonologue>(แผนพัฒนาที่ดินของคาจิฮิระเลย ตั้งอยู่บนเงื่อนไข\nที่ต้องได้ที่ดินจากกระทรวงสาธารณสุข...)</color>
+P0601-0599	พากย์ · speech_list_judge_main_c06	? (ช)		But is getting just one bigwig\non board with the project enough?	แต่แค่ดึงคนใหญ่คนโตคนเดียว\nมาเห็นด้วยกับโครงการนี้ ก็พอแล้วเหรอ?
+P0601-0600	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	And that's all he needs?\nTo convince this one guy?	แค่นั้นเลยเหรอที่ต้องทำ?\nแค่โน้มน้าวหมอนี่คนเดียว?
+P0601-0601	พากย์ · speech_list_judge_main_c06	? (ช)		I see. So if the Minister of Health\nsays that time's up...	เข้าใจละ งั้นถ้ารัฐมนตรีสาธารณสุข\nประกาศว่าหมดเวลาแล้ว...
+P0601-0602	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I see. So, if the Minister of Health\nsays their time's up...	เข้าใจละ งั้นถ้ารัฐมนตรีสาธารณสุข\nบอกว่าถึงเวลาของพวกเขาแล้ว...
+P0601-0603	พากย์ · speech_list_judge_main_c06	? (ช)		Wouldn't that reflect poorly on Kazami, though?	แต่แบบนั้นจะไม่ทำให้ภาพลักษณ์ ของคาซามิเสียเหรอ?
+P0601-0604	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Wouldn't that reflect poorly on the Minister?	แต่แบบนั้นจะไม่ทำให้ภาพลักษณ์ ของรัฐมนตรีเสียเหรอ?
+P0601-0605	พากย์ · speech_list_judge_main_c06	? (ช)		<color=ｍonologue>(All he needed was the Ministry of Health's\ngo ahead.)</color>	<color=ｍonologue>(สิ่งเดียวที่เขาต้องการก็แค่ไฟเขียว\nจากกระทรวงสาธารณสุขเท่านั้น)</color>
+P0601-0606	พากย์ · speech_list_judge_main_c06	? (ช)		They're not even trying to hide it.	นี่ไม่คิดจะปิดบังด้วยซ้ำ
+P0601-0607	พากย์ · speech_list_judge_main_c06	? (ช)		Kido and his AD-9 research.	คิโดะกับงานวิจัย AD-9 ของเขาครับ
+P0601-0608	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	They announced AD-9's development.	พวกเขาประกาศการพัฒนา AD-9 ครับ
+P0601-0609	พากย์ · speech_list_judge_main_c06	? (ช)		And pulled it right out from under Kajihira.	แล้วก็ชักมันหลุดมือคาจิฮิระไปเฉยเลย
+P0601-0610	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Kajihira...\nMinister Kazami really screwed him, huh.	คาจิฮิระ...\nรัฐมนตรีคาซามิเล่นงานเขาซะ ไม่มีชิ้นดีเลยสินะ
+P0601-0611	พากย์ · speech_list_judge_main_c06	? (ช)		Right. How'd you get all this, anyway?	เออ แล้วนายไปขุดเรื่องพวกนี้มาจากไหนกัน?
+P0601-0612	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Guess not.\nBy the way, how'd you dig all this up?	คงไม่หรอก\nว่าแต่นายไปขุดเรื่องพวกนี้ มาจากไหนกัน?
+P0601-0613	พากย์ · speech_list_judge_main_c06	? (ช)		I literally asked you today.	ผมเพิ่งขอให้นายช่วยดูวันนี้เองนะ
+P0601-0614	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I only just asked you today.	ผมเพิ่งจะขอให้นายช่วยดูวันนี้เอง
+P0601-0615	พากย์ · speech_list_judge_main_c06	? (ช)		I think they might've been right.	แต่ผมว่ามันอาจจะพูดถูกก็ได้นะครับ
+P0601-0616	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	If you ask me...\nthey might've been right.	ถ้าถามผมนะ...\nมันอาจจะพูดถูกก็ได้
+P0601-0617	พากย์ · speech_list_judge_main_c06	? (ช)		The piece is by Ko Hattori.	บทความนี้เขียนโดยโค ฮัตโตริครับ
+P0601-0618	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	This was written by a journalist\nnamed Hattori.	เรื่องนี้เขียนโดยนักข่าว\nชื่อฮัตโตริครับ
+P0601-0619	พากย์ · speech_list_judge_main_c06	? (ช)		And he's an asshole.	แล้วไอ้นั่นก็เป็นไอ้สารเลวตัว พ่อเลยด้วย
+P0601-0620	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Not exactly reputable.	ไม่ค่อยน่าเชื่อถือเท่าไหร่ครับ
+P0601-0621	พากย์ · speech_list_judge_main_c06	? (ช)		Yeah, we go back. And apparently he stormed\nGenda's office today looking for an interview.	ใช่ รู้จักกันมานานแล้ว แล้วได้ยินว่าวันนี้เขาบุก\nเข้าไปที่สำนักงานเก็นดะเพื่อขอ สัมภาษณ์ด้วย
+P0601-0622	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yeah. Apparently he stormed into\nGenda's office earlier, too.	ใช่ ได้ยินว่าเขาบุกเข้าไป\nที่สำนักงานเก็นดะเมื่อครู่นี้ด้วย
+P0601-0623	พากย์ · speech_list_judge_main_c06	? (ช)		Guess I'll have to.	งั้นก็คงต้องไปแล้วล่ะ
+P0601-0624	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	...Eh, fine.\nDon't have much choice.	...เอาก็เอา\nไม่มีทางเลือกอื่นแล้วนี่นา
+P0601-0625	พากย์ · speech_list_judge_main_c06	? (ช)		<color=ｍonologue>(Kajihira has lost a ton of money\nbecause of this ADDC business.)</color>	<color=ｍonologue>(คาจิฮิระเสียเงินไปมหาศาล\nเพราะเรื่อง ADDC นี้...)</color>
+P0601-0626	พากย์ · speech_list_judge_main_c06	? (ช)		<color=ｍonologue>(Does that have anything to do with\nwhy Shintani and those Kyorei guys got murdered?)</color>	<color=ｍonologue>(มันเกี่ยวอะไรกับสาเหตุที่ชินทานิ\nกับพวกเคียวเรอิถูกฆ่าหรือเปล่านะ?)</color>
+P0601-0627	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		Oh hey, Yagami-san.	อ้าว สวัสดีครับ ยากามิซัง
+P0601-0628	พากย์ · speech_list_judge_main_c06	? (ช)		No, he actually left a while ago.	ไม่อยู่ครับ เขากลับไปสักพักแล้ว
+P0601-0629	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	He already left some time ago.	เขากลับไปก่อนหน้านี้แล้วล่ะครับ
+P0601-0630	พากย์ · speech_list_judge_main_c06	? (ช)		More like he couldn't handle Saori-san\nstaring into his soul.	จริงๆ แล้วเขาคงทนสายตา\nที่ซาโอริซังจ้องทะลุใจไม่ไหวมากกว่า
+P0601-0631	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Not exactly... He couldn't handle\nSaori-san staring into his soul.	ไม่เชิงครับ... เขาทนสายตา\nที่ซาโอริซังจ้องทะลุใจไม่ไหวต่างหาก
+P0601-0632	พากย์ · speech_list_judge_main_c06	? (ช)		By the way, um...	ว่าแต่ เอ่อ...
+P0601-0633	พากย์ · speech_list_judge_main_c06	Mafuyu (ญ)		I came to offer condolences\nfor Shintani-sensei.	ดิฉันมาแสดงความเสียใจ\nเรื่องอาจารย์ชินทานิค่ะ
+P0601-0634	พากย์ · speech_list_judge_main_c06	Mafuyu (ญ)	[อีกแทร็ก]	I came to offer my condolences for\nShintani-sensei.	ดิฉันมาแสดงความเสียใจ\nกับการจากไปของอาจารย์ชินทานิค่ะ
+P0601-0635	พากย์ · speech_list_judge_main_c06	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Right...	อืม...
+P0601-0636	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Okay.	ตกลง
+P0601-0637	พากย์ · speech_list_judge_main_c06	Saori (ญ)		That's not the only reason.\nTell Yagami-san straight.	นั่นไม่ใช่เหตุผลเดียวหรอกนะ\nบอกยากามิซังตรงๆ ไปเลยสิ
+P0601-0638	พากย์ · speech_list_judge_main_c06	Saori (ญ)	[อีกแทร็ก]	That's not the only reason you're here, is it?\nYou should just tell Yagami-san directly.	เธอมาที่นี่ไม่ได้มีแค่เหตุผล นั้นใช่ไหม\nบอกยากามิซังไปตรงๆ เลยเถอะ
+P0601-0639	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Is Hattori still here?	ฮัตโตริยังอยู่ที่นี่ไหม?
+P0601-0640	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Where's Hattori?	ฮัตโตริอยู่ไหน?
+P0601-0641	พากย์ · speech_list_judge_main_c06	? (ช)		Oh yeah? You really did scare\nhim off then, huh?	งั้นเหรอ?\nนี่ทำเอาเขากลัวจนหนีไปเลยสินะ?
+P0601-0642	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Really. Guess you really did\nscare him off, huh?	จริงดิ?\nงั้นก็เท่ากับทำเอาเขากลัวจนหนี ไปเลยนี่นา
+P0601-0643	พากย์ · speech_list_judge_main_c06	? (ช)		Who can?	ใครจะทนไหวล่ะ?
+P0601-0644	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Makes sense... Who could?	ก็จริงนะ... ใครจะทนไหวกัน?
+P0601-0645	พากย์ · speech_list_judge_main_c06	? (ช)		Mafuyu?	มาฟุยุ?
+P0601-0646	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Mafuyu!	มาฟุยุ!
+P0601-0647	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		I guess Genda-sensei\ntook the day off today.	คิดว่าอาจารย์เก็นดะ\nคงหยุดงานวันนี้ครับ
+P0601-0648	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	Well... It seems Genda-sensei\ntook the day off today.	เอ่อ... ดูเหมือนอาจารย์เก็นดะ\nจะหยุดงานวันนี้ครับ
+P0601-0649	พากย์ · speech_list_judge_main_c06	? (ช)		He must be taking Shintani-sensei's\ndeath pretty hard...	ท่านคงรับเรื่องการจากไปของ\nอาจารย์ชินทานิหนักน่าดูเลยครับ...
+P0601-0650	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	He must be taking Shintani-sensei's death\npretty hard...	ท่านคงรับเรื่องที่ อาจารย์ชินทานิจากไป\nได้หนักมากเลยครับ...
+P0601-0651	พากย์ · speech_list_judge_main_c06	Mafuyu (ญ)		Yes, well...	อ๋อ คือว่า...
+P0601-0652	พากย์ · speech_list_judge_main_c06	? (ญ)		Izumida wants to take you in, Yagami-kun.\nFor Shintani-sensei's murder.	อิซุมิดะอยากจะจับตัวคุณไป ยากามิคุง\nข้อหาฆาตกรรมอาจารย์ชินทานิ
+P0601-0653	พากย์ · speech_list_judge_main_c06	? (ญ)		What is going on, Yagami-kun?	เกิดอะไรขึ้นกันแน่ ยากามิคุง?
+P0601-0654	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	What's going on here?	นี่มันเรื่องอะไรกัน?
+P0601-0655	พากย์ · speech_list_judge_main_c06	? (ญ)		Just to be sure...\nYou didn't do it, did you?	ขอถามให้ชัวร์ก่อนนะ...\nคุณไม่ได้ทำใช่ไหม?
+P0601-0656	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Just to be sure, Yagami-kun...\nYou didn't do it, did you?	ขอถามให้ชัวร์ก่อนนะ ยากามิคุง...\nคุณไม่ได้เป็นคนทำใช่ไหม?
+P0601-0657	พากย์ · speech_list_judge_main_c06	? (ญ)		I'm a prosecutor, remember?\nDoubting people is my job.	อย่าลืมสิว่าดิฉันเป็นอัยการ\nการสงสัยคนคืองานของดิฉัน
+P0601-0658	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	I can't help it—I'm a prosecutor.\nIt's my job to doubt people.	ก็ช่วยไม่ได้นี่นา ดิฉันเป็นอัยการ\nหน้าที่ของดิฉันคือสงสัยคนอื่น
+P0601-0659	พากย์ · speech_list_judge_main_c06	? (ญ)		I'm not sure. They're leaving me out of the loop\non purpose I think. But even Morita-san suspects you.	ดิฉันก็ไม่แน่ใจ คิดว่าพวกเขาจงใจ\nกันดิฉันออกจากเรื่องนี้ แต่แม้แต่โมริตะซังก็สงสัยคุณ เหมือนกัน
+P0601-0660	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	I'm not sure. They kind of left me out of the loop.\nBut from the sounds of it, even Morita-san suspects you.	ดิฉันก็ไม่แน่ใจ พวกเขากันดิฉัน\nออกจากเรื่องนี้เหมือนกัน แต่ฟังดูแล้วแม้แต่โมริตะซังก็ สงสัยคุณ
+P0601-0661	พากย์ · speech_list_judge_main_c06	? (ญ)		I don't think they can charge you with a murder\non the grounds of "not liking you", Yagami-kun.	ดิฉันว่าเขาคงเอาผิดข้อหาฆาตกรรมคุณ\nด้วยเหตุผลแค่ "ไม่ชอบหน้า" ไม่ได้หรอกนะ ยากามิคุง
+P0601-0662	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	I don't think they would suspect you of murder\nbecause of something so simple as "not liking you".	ดิฉันว่าเขาคงไม่สงสัยว่าคุณเป็นฆาตกร\nด้วยเหตุผลง่ายๆ แค่ "ไม่ชอบหน้า" หรอกนะ
+P0601-0663	พากย์ · speech_list_judge_main_c06	? (ญ)		Well, either way,\nI'm glad you didn't kill anyone.	ยังไงก็เถอะ\nดีใจนะที่คุณไม่ได้ฆ่าใคร
+P0601-0664	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Either way,\nI'm glad you didn't do it, Yagami-kun.	ยังไงก็เถอะ\nดีใจนะที่คุณไม่ได้ทำ ยากามิคุง
+P0601-0665	พากย์ · speech_list_judge_main_c06	? (ญ)		But if anything comes up...\nfeel free to get in touch.	แต่ถ้ามีอะไรเข้ามาอีก...\nติดต่อดิฉันได้เลยนะ
+P0601-0666	พากย์ · speech_list_judge_main_c06	? (ญ)		If it's within my power,\nI'll do what I can to help.	ถ้าอยู่ในความสามารถของดิฉัน\nจะช่วยเท่าที่ทำได้เลย
+P0601-0667	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	I would be happy to help if I can.	ถ้าช่วยได้ ดิฉันยินดีช่วยเต็มที่ค่ะ
+P0601-0668	พากย์ · speech_list_judge_main_c06	? (ญ)		See you later. Say goodbye\nto Genda-sensei for me.	แล้วเจอกันนะ ฝากบอกลา\nอาจารย์เก็นดะให้ฉันด้วย
+P0601-0669	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Time to go.\nSay hi to Genda-sensei for me.	ฉันไปก่อนนะ\nฝากทักทายอาจารย์เก็นดะให้ฉันด้วย
+P0601-0670	พากย์ · speech_list_judge_main_c06	Saori (ญ)		Go talk to Mafuyu.	ไปคุยกับมาฟุยุสิ
+P0601-0671	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Something you needed to say?	มีอะไรอยากจะพูดเหรอ?
+P0601-0672	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	You wanted to say something?	อยากพูดอะไรหรือเปล่า?
+P0601-0673	พากย์ · speech_list_judge_main_c06	? (ช)		Does he? A detective by the name of Kuroiwa\nsaid I was a material witness, too.	งั้นเหรอ? นักสืบชื่อคุโรอิวะ\nก็บอกว่าผมเป็นแค่พยานสำคัญเหมือนกัน
+P0601-0674	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Aha. A detective by the name of Kuroiwa\nwas trying to say I'm a material witness, too.	อ๋อ นักสืบที่ชื่อคุโรอิวะ\nก็พยายามบอกว่าผมเป็นแค่พยาน สำคัญเหมือนกัน
+P0601-0675	พากย์ · speech_list_judge_main_c06	? (ช)		Hey, I could ask you the same thing.	เฮ้ ผมก็อยากถามคุณเหมือนกันนะ
+P0601-0676	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You're asking me?\nI'd like to know the same thing.	จะมาถามผมทำไม\nผมเองก็อยากรู้เหมือนกัน
+P0601-0677	พากย์ · speech_list_judge_main_c06	? (ช)		Me, kill Shintani?	ผมน่ะเหรอ ฆ่าชินทานิ?
+P0601-0678	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Me, kill Shintani!?	ผมฆ่าชินทานิงั้นเหรอ!?
+P0601-0679	พากย์ · speech_list_judge_main_c06	? (ช)		Of course I didn't.\nHow could you even ask?	ไม่ทำอยู่แล้ว\nจะมาถามแบบนั้นได้ยังไง?
+P0601-0680	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Of course I didn't.\nI'm offended you'd even ask.	ไม่ทำอยู่แล้ว\nแค่ถามก็เจ็บใจแล้วนะเนี่ย
+P0601-0681	พากย์ · speech_list_judge_main_c06	? (ช)		So. Why's Izumida suspect me?\nDoes he even have anything to go on?	งั้น ทำไมอิซุมิดะถึงสงสัยผม?\nเขามีหลักฐานอะไรหรือเปล่า?
+P0601-0682	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	So. Why does Izumida suspect me?\nDoes he have any evidence?	งั้น ทำไมอิซุมิดะถึงสงสัยผม?\nเขามีหลักฐานอะไรบ้างไหม?
+P0601-0683	พากย์ · speech_list_judge_main_c06	? (ช)		They really don't like me, huh?	พวกเขาไม่ชอบผมเอาซะเลยสินะ?
+P0601-0684	พากย์ · speech_list_judge_main_c06	? (ช)		Thanks, Mafuyu.	ขอบใจนะ มาฟุยุ
+P0601-0685	พากย์ · speech_list_judge_main_c06	? (ช)		(Guess I should hear what\nMafuyu has to say.)	(คงต้องไปฟังว่ามาฟุยุ\nจะพูดอะไรสักหน่อย)
+P0601-0686	พากย์ · speech_list_judge_main_c06	Hoshino (ช)		Did Sugiura-san end up finding anything?\nWhat's the latest?	ซุกิอุระซังเจออะไรบ้างไหมครับ?\nความคืบหน้าเป็นยังไงบ้าง?
+P0601-0687	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	What about Sugiura-san? Any word?\nDid he find anything?	แล้วซุกิอุระซังล่ะครับ? มีข่าวอะไรไหม?\nเขาเจออะไรบ้างหรือเปล่า?
+P0601-0688	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Wait, what!?	เดี๋ยวนะ อะไรนะ!?
+P0601-0689	พากย์ · speech_list_judge_main_c06	Hoshino (ช)	[อีกแทร็ก]	Hm...? What!?	หืม...? อะไรนะ!?
+P0601-0690	พากย์ · speech_list_judge_main_c06	? (ช)		Wait a second... That means he's connected\ndirectly to the ADDC!	เดี๋ยวก่อนนะ... นั่นแปลว่าเขาเชื่อมโยง\nกับ ADDC โดยตรงเลยสิ!
+P0601-0691	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Wait... Then Kajihira and the ADDC—\nThey've been connected this whole time!?	เดี๋ยวนะ... งั้นคาจิฮิระกับ ADDC—\nมีสายสัมพันธ์กันมาตลอดเลยเหรอ!?
+P0601-0692	พากย์ · speech_list_judge_main_c06	? (ช)		Hattori-san wrote about it?	ฮัตโตริซังเป็นคนเขียนเหรอครับ?
+P0601-0693	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Hattori-san...? He was just here.	ฮัตโตริซัง...? เขาเพิ่งมาที่นี่เองนะครับ
+P0601-0694	พากย์ · speech_list_judge_main_c06	? (ช)		So he hangs around when you don't want him,\nand then when you need him he's nowhere in sight...	เวลาไม่อยากให้อยู่ก็อยู่ไม่ไปไหน\nแต่พอต้องการตัวจริงๆ กลับหายเงียบเลยสินะครับ...
+P0601-0695	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I see! Guess he's only ever around\nwhen you don't want him to be.	อ๋อ! สรุปว่าเขาจะโผล่มา\nก็แต่ตอนที่ไม่อยากให้อยู่นี่เอง
+P0601-0696	พากย์ · speech_list_judge_main_c06	Yagami (ช)		He did.	เจอแล้วล่ะ
+P0601-0697	พากย์ · speech_list_judge_main_c06	? (ช)		Apparently Kajihira was trying to get\nKazami to close down the ADDC.	ดูเหมือนคาจิฮิระพยายาม\nให้คาซามิสั่งปิด ADDC
+P0601-0698	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Apparently Kajihira tried to get Kazami\nto close the ADDC.	ดูเหมือนคาจิฮิระพยายามให้คาซามิ\nสั่งปิด ADDC
+P0601-0699	พากย์ · speech_list_judge_main_c06	? (ช)		He wanted to use the Center's land\nfor his redevelopment project.	เขาต้องการใช้ที่ดินของศูนย์นั้น\nสำหรับโครงการพัฒนาที่ดินของตัวเอง
+P0601-0700	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Kajihira wanted the Center's land for his\nredevelopment project.	คาจิฮิระต้องการที่ดินของศูนย์นั้น\nสำหรับโครงการพัฒนาที่ดินของตัวเอง
+P0601-0701	พากย์ · speech_list_judge_main_c06	? (ช)		But then the AD-9 research came out and threw a wrench\ninto things. Kajihira lost a lot of money.	แต่แล้วงานวิจัย AD-9 ก็ออกมาป่วนแผน\nทั้งหมด คาจิฮิระเลยเสียเงินไปเยอะมาก
+P0601-0702	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	But the AD-9 research coming out threw a wrench\nin things. Kajihira lost a lot of money.	แต่การเปิดตัวงานวิจัย AD-9 ก็มาป่วนแผน\nทั้งหมด คาจิฮิระเลยเสียเงินไปเยอะ
+P0601-0703	พากย์ · speech_list_judge_main_c06	? (ช)		According to Hattori's article, at least.	อย่างน้อยก็ตามบทความของฮัตโตริน่ะนะ
+P0601-0704	พากย์ · speech_list_judge_main_c06	? (ช)		That's why I stopped by.\nI wanted to ask him about it in person.	เพราะงั้นผมถึงแวะมา\nอยากถามเขาโดยตรงเลยน่ะ
+P0601-0705	พากย์ · speech_list_judge_main_c06	? (ช)		Guy's the worst, seriously.	ไอ้หมอนั่นแย่จริงๆ เลย
+P0601-0706	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Seriously, that guy's the worst.	พูดจริงนะ ไอ้หมอนั่นแย่สุดๆ
+P0601-0707	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Yagami-san?\nIt's Sugiura.	ยากามิซังครับ?\nผมซุกิอุระนะครับ
+P0601-0708	พากย์ · speech_list_judge_main_c06	? (ช)		Uh, did a woman just leave that\noffice you hang around in?	เอ่อ มีผู้หญิงเพิ่งเดินออกจาก\nสำนักงานที่นายอยู่บ่อยๆ หรือเปล่าครับ?
+P0601-0709	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Hey, did a woman just leave\nthe Genda office?	เฮ้ มีผู้หญิงเพิ่งเดินออกจาก\nสำนักงานเก็นดะหรือเปล่าครับ?
+P0601-0710	พากย์ · speech_list_judge_main_c06	? (ช)		Oh, I didn't know her name.\nShe's pretty though.	อ๋อ ไม่รู้ชื่อเขาหรอกครับ\nแต่สวยดีนะ
+P0601-0711	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Not sure what her name is.\nGirl's pretty, though.	ไม่รู้ชื่อเธอหรอกครับ\nแต่สวยดีเลยนะ
+P0601-0712	พากย์ · speech_list_judge_main_c06	? (ช)		I'll tell you later. I'd worry more about\nall the yakuza tailing Mafuyu-san.	เดี๋ยวค่อยเล่าให้ฟังครับ ตอนนี้น่าห่วงกว่าคือ\nพวกยากูซ่าที่กำลังตามมาฟุยุซังอยู่
+P0601-0713	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'll tell you later. Right now, what matters is\nthe yakuza tailing Mafuyu-san.	เดี๋ยวค่อยเล่าให้ฟังครับ ตอนนี้เรื่องสำคัญคือ\nพวกยากูซ่าที่กำลังตามมาฟุยุซังอยู่
+P0601-0714	พากย์ · speech_list_judge_main_c06	? (ช)		Yeah, it's like four yakuza, maybe more.	ครับ มีประมาณสี่คนได้ อาจจะมากกว่านั้นด้วย
+P0601-0715	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Looks like four yakuza goons.\nCould be more nearby.	ดูเหมือนจะมีนักเลงยากูซ่าสี่คน\nอาจมีมากกว่านั้นอยู่แถวนั้นด้วยครับ
+P0601-0716	พากย์ · speech_list_judge_main_c06	? (ช)		What should I do?\nWe should do something, right?	ผมควรทำยังไงดี?\nต้องรีบทำอะไรสักอย่างแล้วใช่ไหม?
+P0601-0717	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	What should I do?\nWe have to do <font_kind=yakuza_italic>something</font_kind>, right?	ผมควรทำยังไงดี?\nต้องรีบทำ<font_kind=yakuza_italic>อะไรสักอย่าง</font_kind>แล้วใช่ไหม?
+P0601-0718	พากย์ · speech_list_judge_main_c06	? (ช)		Head straight to Theater Square\nonce you're down.	พอลงมาแล้วให้ตรงไป\nที่เธียเตอร์สแควร์เลยครับ
+P0601-0719	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Head to Theater Avenue once you\nstep out of the office.	พอออกจากสำนักงานแล้ว\nให้ไปที่เธียเตอร์อเวนิวเลยครับ
+P0601-0720	พากย์ · speech_list_judge_main_c06	? (ช)		And be quick about it, yeah?\nI can't take 'em all by myself, Yagami-san!	แล้วรีบหน่อยนะครับ\nผมสู้พวกนี้คนเดียวไม่ไหวหรอกนะ ยากามิซัง!
+P0601-0721	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	And do it quick, Yagami-san.\nI can't handle this on my own!	รีบหน่อยนะครับ ยากามิซัง\nผมรับมือคนเดียวไม่ไหวจริงๆ!
+P0601-0722	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Hello?	ฮัลโหล?
+P0601-0723	พากย์ · speech_list_judge_main_c06	? (ช)		Hm? Oh, you must mean Mafuyu.	หืม? อ๋อ นายคงหมายถึงมาฟุยุสินะ
+P0601-0724	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Hm?\nOh, you must mean Mafuyu.	หืม?\nอ๋อ นายคงหมายถึงมาฟุยุสินะ
+P0601-0725	พากย์ · speech_list_judge_main_c06	? (ช)		Wait, does that mean you've been\nfollowing me?	เดี๋ยวนะ นั่นแปลว่านาย\nแอบตามผมอยู่ใช่ไหม?
+P0601-0726	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	What's going on...?\nAre you following me?	นี่มันเรื่องอะไรกัน...?\nนายแอบตามผมอยู่เหรอ?
+P0601-0727	พากย์ · speech_list_judge_main_c06	? (ช)		I'll be right there.\nWhere are you?	ผมจะรีบไปเดี๋ยวนี้\nนายอยู่ไหน?
+P0601-0728	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		You coming, Yagami-san?\nWhere are you?	จะมาไหมครับ ยากามิซัง?\nตอนนี้อยู่ไหนแล้ว?
+P0601-0729	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Yagami-san, you coming?\nWhere are you?	ยากามิซัง จะมาไหมครับ?\nตอนนี้อยู่ไหนแล้ว?
+P0601-0730	พากย์ · speech_list_judge_main_c06	? (ช)		Fine for now... but maybe not much longer.\nThose yakuza are getting closer by the minute.	ตอนนี้ยังปลอดภัยอยู่... แต่คงอีกไม่นานหรอกครับ\nพวกยากูซ่ากำลังเข้าใกล้ขึ้นเรื่อยๆ
+P0601-0731	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Fine for now... but maybe not much longer.\nThey're getting closer to Mafuyu-san by the minute.	ตอนนี้ยังปลอดภัยอยู่... แต่คงอีกไม่นานหรอกครับ\nพวกมันกำลังเข้าใกล้มาฟุยุซัง ขึ้นเรื่อยๆ
+P0601-0732	พากย์ · speech_list_judge_main_c06	? (ช)		You've gotta hurry, Yagami-san.\nShe's just about to cross Theater Square.	รีบหน่อยนะครับ ยากามิซัง\nเธอกำลังจะข้ามเธียเตอร์สแควร์แล้ว
+P0601-0733	พากย์ · speech_list_judge_main_c06	Yagami (ช)		I just left Genda's office.\nHow's Mafuyu?	ผมเพิ่งออกจากสำนักงานเก็นดะ\nมาฟุยุเป็นไงบ้าง?
+P0601-0734	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Just left Genda's office.\nHow's Mafuyu?	เพิ่งออกจากสำนักงานเก็นดะมา\nมาฟุยุเป็นไงบ้าง?
+P0601-0735	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Are you there, Yagami-san?\nMafuyu just went left down Theater Avenue.	อยู่หรือยังครับ ยากามิซัง?\nมาฟุยุเพิ่งเลี้ยวซ้ายเข้า เธียเตอร์อเวนิวไป
+P0601-0736	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Are you there, Yagami-san?\nMafuyu just hung a left down Theater Avenue.	ถึงหรือยังครับ ยากามิซัง?\nมาฟุยุเพิ่งเลี้ยวซ้ายเข้า เธียเตอร์อเวนิวไป
+P0601-0737	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[ใช้ร่วม]	Got it, thanks.	เข้าใจแล้ว ขอบใจนะ
+P0601-0738	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Okay, got it.	โอเค เข้าใจแล้ว
+P0601-0739	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		She's got even more yakuza on her tail now.\nIt's way more than four by my count.	ตอนนี้มียากูซ่าตามเธออยู่ มากกว่าเดิมอีก\nนับดูแล้วมากกว่าสี่คนเยอะเลยครับ
+P0601-0740	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	But she's got even more yakuza on her tail now.\nIt's not just four anymore.	แต่ตอนนี้มียากูซ่าตามเธออยู่ มากกว่าเดิม\nไม่ใช่แค่สี่คนแล้วครับ
+P0601-0741	พากย์ · speech_list_judge_main_c06	? (ช)		I haven't figured that out.\nBetter to just get over to her, quick!	ผมยังหาคำตอบไม่ได้เลยครับ\nรีบไปหาเธอดีกว่า เร็วเข้า!
+P0601-0742	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I can't tell yet.\nJust hurry up and get over here!	ยังบอกไม่ได้เลยครับ\nรีบมาที่นี่เถอะ!
+P0601-0743	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Are they on her about some yakuza related case?\nWhat family are they from?	พวกมันตามล่าเธอเพราะคดียากูซ่า อะไรหรือเปล่า?\nเป็นตระกูลไหนกัน?
+P0601-0744	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Yakuza following a prosecutor?\nWhat family are they from?	ยากูซ่าตามล่าอัยการงั้นเหรอ?\nเป็นตระกูลไหนกัน?
+P0601-0745	พากย์ · speech_list_judge_main_c06	bougai_yakuza (ช)		Yo, road's closed, pal.	เฮ้ย ถนนปิดว่ะเพื่อน
+P0601-0746	พากย์ · speech_list_judge_main_c06	bougai_yakuza (ช)	[อีกแทร็ก]	Hey, hold it right there, pal!	เฮ้ย หยุดอยู่ตรงนั้นแหละเพื่อน!
+P0601-0747	พากย์ · speech_list_judge_main_c06	? (ช)		You're Yagami, yeah?	มึงคือยากามิใช่ไหม?
+P0601-0748	พากย์ · speech_list_judge_main_c06	? (ช)		Afraid that's not your call. We've got an appointment\nwith the lady prosecutor, y'see.	เสียใจด้วยนะ มึงไม่มีสิทธิ์ตัดสิน พวกกูมีนัด\nกับอัยการสาวคนนั้นอยู่ว่ะ
+P0601-0749	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	That ain't a decision you get to make.\nWe got an appointment with that prosecutor broad.	นั่นไม่ใช่เรื่องที่มึงจะมาตัดสินหรอก\nพวกกูมีนัดกับอีอัยการนั่นอยู่ว่ะ
+P0601-0750	พากย์ · speech_list_judge_main_c06	? (ช)		You heard me, asshole.\nNow step the fuck back, or else!	ได้ยินที่กูพูดแล้วนี่ ไอ้สารเลว\nถอยไปซะ ไม่งั้นมึงได้เจ็บแน่!
+P0601-0751	พากย์ · speech_list_judge_main_c06	Yagami (ช)		I don't have time for this!	ผมไม่มีเวลามาเสียกับเรื่องนี้หรอกนะ!
+P0601-0752	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	I don't have time for this.	ผมไม่มีเวลากับเรื่องนี้จริงๆ
+P0601-0753	พากย์ · speech_list_judge_main_c06	bougai_yakuza (ช)		Hrgh... Dammit!	อึก... บ้าเอ๊ย!
+P0601-0754	พากย์ · speech_list_judge_main_c06	bougai_yakuza (ช)	[อีกแทร็ก]	Hrgh...\nDammit!	อึก...\nบ้าเอ๊ย!
+P0601-0755	พากย์ · speech_list_judge_main_c06	? (ช)		Heh, don't think we're givin'\nup that easy!	ฮึ อย่าคิดว่าพวกกู\nจะยอมแพ้ง่ายๆ แบบนั้นสิ!
+P0601-0756	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	It ain't over yet...\nWe're not givin' up!	ยังไม่จบหรอกนะ...\nพวกกูยังไม่ยอมแพ้!
+P0601-0757	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	What the hell!?	อะไรวะเนี่ย!?
+P0601-0758	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Wh-What!?	อ-อะไรนะ!?
+P0601-0759	พากย์ · speech_list_judge_main_c06	? (ช)		Sonuvabitch!	ไอ้สารเลว!
+P0601-0760	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	You bastard...	ไอ้สารเลว...
+P0601-0761	พากย์ · speech_list_judge_main_c06	Kaito (ช)		Yo! Need a hand, Tak?	โย่! ต้องการมือช่วยไหม ทาคุ?
+P0601-0762	พากย์ · speech_list_judge_main_c06	Kaito (ช)	[อีกแทร็ก]	Yo. Need a hand, Tak?	โย่ ต้องการมือช่วยหน่อยไหม ทาคุ?
+P0601-0763	พากย์ · speech_list_judge_main_c06	? (ช)		I'm kinda bummed you started the party\nwithout me, man. I'm raring to go.	รู้สึกหงุดหงิดนิดหน่อยนะที่ เริ่มปาร์ตี้\nโดยไม่มีฉันว่ะ ทั้งที่ฉันพร้อมลุยสุดๆ
+P0601-0764	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'm kinda bummed you started the party without me, man.\nI'm raring to go.	หงุดหงิดนิดหน่อยเลยนะที่เริ่ม ปาร์ตี้โดยไม่มีฉันว่ะ\nทั้งที่ฉันพร้อมจะลุยสุดๆ อยู่แล้ว
+P0601-0765	พากย์ · speech_list_judge_main_c06	? (ช)		Mafuyu-chan?\nShe's not in trouble is she?	มาฟุยุจังเหรอ?\nไม่ได้มีเรื่องเดือดร้อนอะไรใช่ไหม?
+P0601-0766	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Mafuyu-chan?\nWho're these chumps?	มาฟุยุจังเหรอ?\nแล้วไอ้พวกนี้มันใครกัน?
+P0601-0767	พากย์ · speech_list_judge_main_c06	? (ช)		I get it.\nYou guys are tailing Mafuyu-chan.	เข้าใจล่ะ\nพวกมึงตามมาฟุยุจังอยู่นี่เอง
+P0601-0768	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I get it now.\nYou guys are tailin' Mafuyu-chan, huh?	อ๋อ เข้าใจล่ะ\nพวกมึงตามมาฟุยุจังอยู่สินะ?
+P0601-0769	พากย์ · speech_list_judge_main_c06	? (ช)		I can't exactly let that\nkinda shit slide, assholes.	งั้นกูจะปล่อยผ่าน\nเรื่องแบบนี้ไปเฉยๆ ไม่ได้หรอกว่ะ ไอ้พวกสารเลว
+P0601-0770	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I can't exactly let that kinda shit\nslide, y'know.	เรื่องแบบนี้กูจะปล่อยผ่าน\nไปเฉยๆ ไม่ได้หรอกว่ะ
+P0601-0771	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Who are you?\nAnd why are you following Mafuyu!?	พวกนายเป็นใครกัน?\nแล้วทำไมถึงตามมาฟุยุ!?
+P0601-0772	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[ใช้ร่วม]	Kaito-san.	ไคโตะซัง
+P0601-0773	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Oh, Kaito-san.	อ้าว ไคโตะซัง
+P0601-0774	พากย์ · speech_list_judge_main_c06	? (ช)		Not a second too late. Mind taking care\nof these guys? I've gotta get after Mafuyu.	มาทันเวลาพอดีเลย ช่วยจัดการ\nพวกนี้หน่อยได้ไหม ผมต้องรีบไปตามมาฟุยุ
+P0601-0775	พากย์ · speech_list_judge_main_c06	? (?)	[อีกแทร็ก]	Right on time. You handle these guys.\nI've gotta go save Mafuyu. 	มาถูกเวลาพอดี นายจัดการพวกนี้ทีนะ\nผมต้องรีบไปช่วยมาฟุยุ 
+P0601-0776	พากย์ · speech_list_judge_main_c06	? (ช)		Handle it, please! See ya.	ฝากจัดการทีนะ! เดี๋ยวเจอกัน
+P0601-0777	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Just do it! See you soon!	จัดการเลยนะ! แล้วเจอกัน!
+P0601-0778	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Can you hear me, Yagami-san?\nAre you still coming?	ได้ยินผมไหม ยากามิซัง?\nยังมาอยู่ใช่ไหม?
+P0601-0779	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Hey, Yagami-san, you hear me?\nAre you still coming?	เฮ้ ยากามิซัง ได้ยินไหม?\nยังมาอยู่ใช่ไหม?
+P0601-0780	พากย์ · speech_list_judge_main_c06	Yagami (ช)		I'm coming. How's Mafuyu?	ผมกำลังไป มาฟุยุเป็นไงบ้าง?
+P0601-0781	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Sugiura!\nMafuyu still okay?	ซุกิอุระ!\nมาฟุยุยังปลอดภัยดีไหม?
+P0601-0782	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Safe. Over on Nakamichi Street now.\nHer and, uh... four more yakuza.	ปลอดภัยครับ ตอนนี้อยู่แถวถนนนากามิจิ\nเธอกับ... เอ่อ ยากูซ่าอีกสี่คน
+P0601-0783	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Yeah. She's over on Nakamichi Street now.\nHer and, uh... four more yakuza.	ครับ ตอนนี้เธออยู่แถวถนนนากามิจิ\nเธอกับ... เอ่อ ยากูซ่าอีกสี่คน
+P0601-0784	พากย์ · speech_list_judge_main_c06	? (ช)		I dunno if I can take 'em on my own.	ผมไม่แน่ใจว่าจะรับมือพวกนั้น คนเดียวไหวไหม
+P0601-0785	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I dunno if I can take 'em\non my own.	ผมไม่แน่ใจว่าจะรับมือพวกนั้น\nคนเดียวไหวไหม
+P0601-0786	พากย์ · speech_list_judge_main_c06	? (ช)		Hurry, okay?	รีบมานะครับ?
+P0601-0787	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Hurry.	รีบมาด้วย
+P0601-0788	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Got it.\nI'm turning onto Nakamichi Street now.	รับทราบ\nผมกำลังเลี้ยวเข้าถนนนากามิจิแล้ว
+P0601-0789	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Watch your back, Yagami-san!\nLooks like the yakuza are onto you!	ระวังหลังด้วย ยากามิซัง!\nดูเหมือนพวกยากูซ่าจะจับตาคุณอยู่!
+P0601-0790	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Hey, Yagami-san, watch out!\nThe yakuza noticed you!	เฮ้ ยากามิซัง ระวังด้วย!\nพวกยากูซ่าเห็นคุณแล้ว!
+P0601-0791	พากย์ · speech_list_judge_main_c06	? (ช)		All four of 'em are heading your way!	ทั้งสี่คนกำลังมาทางคุณแล้ว!
+P0601-0792	พากย์ · speech_list_judge_main_c06	? (ช)		Got it.\nKeep an eye on Mafuyu for me.	รับทราบ\nช่วยจับตาดูมาฟุยุให้ผมด้วย
+P0601-0793	พากย์ · speech_list_judge_main_c06	Mafuyu (ญ)		Yeah... I think so.	ค่ะ... น่าจะใช่
+P0601-0794	พากย์ · speech_list_judge_main_c06	? (ญ)		Who were they?	พวกนั้นเป็นใครกัน?
+P0601-0795	พากย์ · speech_list_judge_main_c06	? (ญ)		I don't understand, though.\nWhy would the yakuza come after me?	แต่ฉันก็ยังไม่เข้าใจอยู่ดี\nทำไมยากูซ่าถึงต้องมาตามล่าฉัน?
+P0601-0796	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	But I... Why would the yakuza come after <font_kind=yakuza_italic>me</font_kind>?\nWhat was that?	แต่ฉัน... ทำไมยากูซ่าถึงต้องมาตามล่า<font_kind=yakuza_italic>ฉัน</font_kind>?\nนั่นมันอะไรกัน?
+P0601-0797	พากย์ · speech_list_judge_main_c06	? (ญ)		Hello, Izumida-san?\nThis is Fujii.	ฮัลโหล อิซุมิดะซังคะ?\nฟูจิอิเองค่ะ
+P0601-0798	พากย์ · speech_list_judge_main_c06	? (ญ)		I'll be fine, don't worry.	ฉันไม่เป็นไรหรอก ไม่ต้องห่วง
+P0601-0799	พากย์ · speech_list_judge_main_c06	? (ญ)		Izumida-san says he'll send\nsome officers over for me.	อิซุมิดะซังบอกว่าจะส่ง\nเจ้าหน้าที่มารับฉันเอง
+P0601-0800	พากย์ · speech_list_judge_main_c06	? (ญ)		The Kyorei Clan is a Kansai-based group, yes?\nThey're the ones who were harassing me?	ตระกูลเคียวเรอิเป็นแก๊งจาก คันไซใช่ไหม?\nพวกนั้นแหละที่มาป่วนฉัน?
+P0601-0801	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	...Aren't the Kyorei Clan based in Kansai?\nYou said that was them back there?	...ตระกูลเคียวเรอิมีฐานอยู่คันไซ ไม่ใช่เหรอ?\nคุณบอกว่าเมื่อกี้เป็นพวกนั้นใช่ไหม?
+P0601-0802	พากย์ · speech_list_judge_main_c06	? (ญ)		But if that's their reason...\nwhy would they come after me?	แต่ถ้านั่นคือเหตุผลของพวกมัน...\nทำไมถึงต้องมาตามล่าฉัน?
+P0601-0803	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Wait... If that's their reasoning,\nwhy target me?	เดี๋ยวนะ... ถ้านั่นคือเหตุผล\nทำไมต้องเล็งเป้ามาที่ฉัน?
+P0601-0804	พากย์ · speech_list_judge_main_c06	? (ญ)		Aren't there other people\nwho would make more sense?	ไม่มีคนอื่นที่\nสมเหตุสมผลกว่านี้เหรอ?
+P0601-0805	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Aren't there other people who would\nmake more sense?	ไม่มีคนอื่นที่จะ\nสมเหตุสมผลกว่านี้เหรอ?
+P0601-0806	พากย์ · speech_list_judge_main_c06	? (ญ)		Uh, what? That is ridiculous!	เอ๊ะ อะไรนะ? มันไร้สาระสิ้นดี!
+P0601-0807	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Um, what? That's not...	เอ่อ อะไรนะ? มันไม่ใช่...
+P0601-0808	พากย์ · speech_list_judge_main_c06	? (ญ)		Yeah, it's still a little fresh...	ใช่ มันยังสดๆ ร้อนๆ อยู่เลย...
+P0601-0809	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Ah... yeah. I guess not.	อ้อ... ใช่ คงไม่ใช่เวลาสินะ
+P0601-0810	พากย์ · speech_list_judge_main_c06	? (ญ)		What are you doing messing with yakuza?	เธอไปยุ่งกับยากูซ่าทำไมกัน?
+P0601-0811	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	You're mixed up with\nKamurocho yakuza...?	เธอไปพัวพันกับ\nยากูซ่าคามุโรโจเหรอ...?
+P0601-0812	พากย์ · speech_list_judge_main_c06	Higashi (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	What is it?	มีอะไรเหรอ?
+P0601-0813	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Uh... what's wrong?	เอ่อ... เป็นอะไรไป?
+P0601-0814	พากย์ · speech_list_judge_main_c06	? (ญ)		Uh... No.	เอ่อ... ไม่เป็นไรหรอก
+P0601-0815	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Ah... yeah.	อ้อ... ไม่เป็นไร
+P0601-0816	พากย์ · speech_list_judge_main_c06	? (ญ)		You can't!\nThat's not safe!	ไม่ได้นะ!\nมันอันตรายเกินไป!
+P0601-0817	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	You can't.\nIt's not safe.	ไม่ได้หรอก\nมันไม่ปลอดภัย
+P0601-0818	พากย์ · speech_list_judge_main_c06	? (ญ)		Don't worry about me, okay?\nI'll stay far away from Kamurocho for a while.	ไม่ต้องห่วงฉันหรอกนะ?\nฉันจะอยู่ให้ห่างจากคามุโรโจสักพัก
+P0601-0819	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	I'll be fine, really. I'll stay as far away\nfrom Kamurocho as I can.	ฉันไม่เป็นไรจริงๆ ฉันจะอยู่ให้ห่างจาก\nคามุโรโจให้มากที่สุดเท่าที่จะทำได้
+P0601-0820	พากย์ · speech_list_judge_main_c06	? (ญ)		In fact, maybe you should come with me,\nYagami-kun. Lay low for a while.	เอาจริงๆ นายน่าจะไปกับฉันด้วยนะ\nยากามิคุง หลบพักสักพัก
+P0601-0821	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Honestly, Yagami-kun, maybe it'd be better\nif you came with me.	พูดตรงๆ นะ ยากามิคุง มันน่าจะดีกว่า\nถ้านายไปกับฉัน
+P0601-0822	พากย์ · speech_list_judge_main_c06	? (ญ)		Why though?	แต่ทำไมล่ะ?
+P0601-0823	พากย์ · speech_list_judge_main_c06	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Why not?	ทำไมล่ะ?
+P0601-0824	พากย์ · speech_list_judge_main_c06	? (ญ)		That would mean...\nThe Shinpei Okubo case?	นั่นก็แปลว่า...\nคดีชินเป โอคุโบะน่ะเหรอ?
+P0601-0825	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	Three years ago...?\nThe Shinpei Okubo case?	สามปีก่อนเหรอ...?\nคดีชินเป โอคุโบะน่ะเหรอ?
+P0601-0826	พากย์ · speech_list_judge_main_c06	? (ญ)		That's all you have?	มีแค่นี้เองเหรอ?
+P0601-0827	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก] [ใช้ร่วม]	...That's it?	...แค่นี้เหรอ?
+P0601-0828	พากย์ · speech_list_judge_main_c06	? (ญ)		You know, it's been three years\nsince I've seen you this worked up.	รู้ไหม สามปีแล้วนะ\nที่ฉันไม่เห็นนายเอาจริงเอาจังขนาดนี้
+P0601-0829	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	You know, it's been three years since\nI've seen you this worked up, Yagami-kun.	รู้ไหม สามปีแล้วนะที่ฉัน\nไม่เห็นนายเอาจริงเอาจังขนาดนี้ ยากามิคุง
+P0601-0830	พากย์ · speech_list_judge_main_c06	? (ญ)		It's kinda refreshing, actually.	มันทำให้รู้สึกสดชื่นขึ้นมาเลยนะ
+P0601-0831	พากย์ · speech_list_judge_main_c06	? (ญ)		You just look so... alive.	นายดูมีชีวิตชีวาขึ้นมาก...
+P0601-0832	พากย์ · speech_list_judge_main_c06	? (ญ)	[อีกแทร็ก]	You look like you're alive again.	นายดูเหมือนกลับมามีชีวิต อีกครั้งเลยนะ
+P0601-0833	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Are you okay, Yagami-san?\nHow's your friend?	คุณไม่เป็นไรใช่ไหมครับ ยากามิซัง?\nเพื่อนคุณเป็นยังไงบ้าง?
+P0601-0834	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Yagami-san, you okay?\nHow's your friend?	ยากามิซัง คุณไม่เป็นไรใช่ไหม?\nเพื่อนคุณเป็นยังไงบ้าง?
+P0601-0835	พากย์ · speech_list_judge_main_c06	? (ช)	[ใช้ร่วม]	Glad to hear it.	ดีใจที่ได้ยินแบบนั้น
+P0601-0836	พากย์ · speech_list_judge_main_c06	? (ช)		By the way, I'm tailing that van\nthat tried to nab her.	อ้อ อีกอย่าง ผมกำลังสะกดรอยรถตู้คันนั้น\nที่พยายามจับตัวเธออยู่ครับ
+P0601-0837	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	And just so you know,\nI'm tailing that van now.	แล้วก็ ให้คุณรู้ไว้\nตอนนี้ผมกำลังสะกดรอยรถตู้คันนั้นอยู่
+P0601-0838	พากย์ · speech_list_judge_main_c06	Kaito (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Right.	ใช่
+P0601-0839	พากย์ · speech_list_judge_main_c06	? (ช)		Oh yeah, Yagami-san.\nThose yakuza... were Kyorei.	อ๋อ ใช่ครับ ยากามิซัง\nยากูซ่าพวกนั้น... เป็นตระกูลเคียวเรอิ
+P0601-0840	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yagami-san. About those yakuza...\nThey were Kyorei Clan.	ยากามิซัง เรื่องยากูซ่าพวกนั้น...\nเป็นตระกูลเคียวเรอิครับ
+P0601-0841	พากย์ · speech_list_judge_main_c06	? (ช)		I recognized a few of them from KJ Art.	ผมจำได้ว่าบางคนเคยเห็นที่ KJ Art
+P0601-0842	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I recognized a few of them\nfrom KJ Art.	ผมจำได้ว่าบางคนเคยเห็น\nที่ KJ Art
+P0601-0843	พากย์ · speech_list_judge_main_c06	? (ช)		We might be better off asking them that in person.\nThink you can head over now?	เราน่าจะไปถามพวกมันเองต่อหน้าดีกว่า\nนายไปได้เลยตอนนี้ไหม?
+P0601-0844	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Well, maybe we better ask them in person.\nThink you can head over now?	เอาเถอะ ไปถามพวกมันเองต่อหน้าดีกว่ามั้ง\nนายไปได้เลยตอนนี้ไหม?
+P0601-0845	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	You okay?	เป็นอะไรไหม?
+P0601-0846	พากย์ · speech_list_judge_main_c06	? (ช)		Not a clue. I'm only here\n'cause a friend tipped me off.	ไม่รู้เลย ฉันมาที่นี่\nเพราะเพื่อนบอกข่าวมาแค่นั้นเอง
+P0601-0847	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Sorry, not a clue.\nI'm only here 'cause a friend tipped me off.	ขอโทษที ไม่รู้เลยจริงๆ\nฉันมาที่นี่เพราะเพื่อนบอกข่าวมา
+P0601-0848	พากย์ · speech_list_judge_main_c06	? (ช)		Kaito-san helped, too.\nDon't forget to thank him later.	ไคโตะซังก็ช่วยด้วยครับ\nอย่าลืมไปขอบคุณเขาทีหลังนะครับ
+P0601-0849	พากย์ · speech_list_judge_main_c06	? (ช)		Sorry, gimme a second.	ขอโทษที ขอเวลาแป๊บนึง
+P0601-0850	พากย์ · speech_list_judge_main_c06	? (ช)		She's okay thanks to you, Sugiura.	เธอปลอดภัยดีก็เพราะคุณนี่แหละ ซุกิอุระ
+P0601-0851	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Sugiura... She's okay,\nthanks to you.	ซุกิอุระ... เธอปลอดภัยดี\nก็เพราะคุณ
+P0601-0852	พากย์ · speech_list_judge_main_c06	? (ช)		Great. We'll need to figure out\nwhere it was going.	เยี่ยม เราต้องหาให้ได้\nว่ามันมุ่งหน้าไปไหน
+P0601-0853	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Van...? The one they tried to\nshove Mafuyu into?	รถตู้เหรอ...? คันที่พวกมัน\nพยายามยัดมาฟุยุขึ้นไปน่ะเหรอ?
+P0601-0854	พากย์ · speech_list_judge_main_c06	? (ช)		Why would the Kyorei go after Mafuyu?	ทำไมตระกูลเคียวเรอิถึงต้องมา ตามล่ามาฟุยุ?
+P0601-0855	พากย์ · speech_list_judge_main_c06	? (ช)		No, I need to make sure Mafuyu gets home\nsafe first. I'll call you later.	ไม่ ผมต้องดูให้แน่ใจก่อนว่ามาฟุยุ\nถึงบ้านปลอดภัย เดี๋ยวโทรกลับไปนะ
+P0601-0856	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	No, I need to make sure she gets home safe first.\nI'll call you later.	ไม่ ผมต้องดูให้แน่ใจก่อนว่าเธอถึง บ้านปลอดภัย\nเดี๋ยวโทรกลับไปนะ
+P0601-0857	พากย์ · speech_list_judge_main_c06	? (ช)		Looks like it.\nAs for why...	ดูเหมือนจะใช่\nส่วนเหตุผลน่ะเหรอ...
+P0601-0858	พากย์ · speech_list_judge_main_c06	? (ช)		It was probably to get revenge\non the justice system.	คงเป็นเพราะอยากแก้แค้น\nกระบวนการยุติธรรมมั้ง
+P0601-0859	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	To get revenge on\nthe justice system.	อยากแก้แค้น\nกระบวนการยุติธรรมน่ะ
+P0601-0860	พากย์ · speech_list_judge_main_c06	? (ช)		The guy who killed three of their men is still at large,\nwandering the streets of Kamurocho waiting to strike again.	ไอ้คนที่ฆ่าพวกมันไปสามคนยัง ลอยนวลอยู่\nเดินเพ่นพ่านอยู่แถวคามุโรโจ รอจังหวะลงมืออีกครั้ง
+P0601-0861	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The Mole killed three of their guys, right?\nBut he's still out there somewhere.	ไอ้ตัวตุ่นฆ่าพวกมันไปสามคนใช่ไหม?\nแต่เขาก็ยังลอยนวลอยู่ที่ไหนสักแห่ง
+P0601-0862	พากย์ · speech_list_judge_main_c06	? (ช)		Yeah, I guess you're right.\nI should think before I speak.	เออ นายพูดถูกนะ\nฉันน่าจะคิดก่อนพูด
+P0601-0863	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Huh. Maybe you're right...\nI guess not.	เออ นายอาจจะพูดถูก...\nคงไม่มั้ง
+P0601-0864	พากย์ · speech_list_judge_main_c06	? (ช)		I bet they just thought you were cute.	ฉันว่าพวกมันคงแค่คิดว่าเธอ น่ารักน่ะแหละ
+P0601-0865	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Oh, I bet they just thought\nyou were cute.	เอ่อ ฉันว่าพวกมันคงแค่คิดว่า\nเธอน่ารักน่ะแหละ
+P0601-0866	พากย์ · speech_list_judge_main_c06	? (ช)		Er, I shouldn't be making\njokes right now. Sorry.	เอ่อ ฉันไม่ควรมา\nพูดเล่นตอนนี้ ขอโทษที
+P0601-0867	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Sorry. This isn't the time\nto be joking around.	ขอโทษที นี่ไม่ใช่เวลา\nที่จะมาพูดเล่นเลย
+P0601-0868	พากย์ · speech_list_judge_main_c06	? (ช)		I think it was probably to get to me.	ฉันว่ามันคงเป็นเพราะอยาก เล่นงานฉันมากกว่า
+P0601-0869	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Maybe because you know me.\nMy bad.	อาจเพราะเธอรู้จักฉันนี่แหละ\nขอโทษด้วยนะ
+P0601-0870	พากย์ · speech_list_judge_main_c06	? (ช)		I got kinda...\ninvolved with the Kyorei Clan.	ฉันดันไป...\nพัวพันกับตระกูลเคียวเรอิเข้า
+P0601-0871	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The Kyorei aren't too happy with me.	ตระกูลเคียวเรอิคงไม่ค่อยพอใจ ฉันเท่าไหร่
+P0601-0872	พากย์ · speech_list_judge_main_c06	? (ช)		That's gotta have something\nto do with this.	นั่นแหละคงเกี่ยวข้อง\nกับเรื่องนี้แน่ๆ
+P0601-0873	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	So... that might be\nthe root of all this.	งั้น... นั่นอาจเป็น\nต้นเหตุของเรื่องทั้งหมดนี้
+P0601-0874	พากย์ · speech_list_judge_main_c06	? (ช)		I saw them hit you earlier.\nAre you hurt?	ฉันเห็นพวกมันตีเธอเมื่อกี้\nเจ็บไหม?
+P0601-0875	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Back there, it looked like they hit you.\nAre you okay?	เมื่อกี้ดูเหมือนพวกมันจะตีเธอนะ\nไม่เป็นไรใช่ไหม?
+P0601-0876	พากย์ · speech_list_judge_main_c06	? (ช)		I'm going to make sure\nthis never happens again.	ฉันจะทำให้แน่ใจว่า\nเรื่องแบบนี้จะไม่เกิดขึ้นอีก
+P0601-0877	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'll make sure that never\nhappens again.	ฉันจะทำให้แน่ใจว่าเรื่องแบบนี้\nจะไม่เกิดขึ้นอีก
+P0601-0878	พากย์ · speech_list_judge_main_c06	? (ช)		I'll sort this out with those Kyorei guys.	ฉันจะไปจัดการเรื่องนี้กับพวก เคียวเรอิเอง
+P0601-0879	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'm gonna have a chat\nwith the Kyorei Clan.	ฉันจะไปคุย\nกับตระกูลเคียวเรอิเอง
+P0601-0880	พากย์ · speech_list_judge_main_c06	? (ช)		Your carriage awaits.\nYou gonna be okay?	รถม้าของนายมาแล้ว\nจะไหวไหมล่ะ?
+P0601-0881	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Looks like your friends are here.\nYou gonna be okay?	ดูเหมือนเพื่อนนายมาถึงแล้วนะ\nจะไหวไหมล่ะ?
+P0601-0882	พากย์ · speech_list_judge_main_c06	? (ช)		I'm sorry, but I can't leave now.\nNot yet.	ขอโทษนะ แต่ผมไปตอนนี้ไม่ได้\nยังไม่ได้
+P0601-0883	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Sorry, but I can't leave Kamurocho\nright now.	ขอโทษนะ แต่ผมออกจากคามุโรโจ\nตอนนี้ไม่ได้
+P0601-0884	พากย์ · speech_list_judge_main_c06	? (ช)		It looks like the killer we're after now is somehow\nconnected to the murder three years ago.	ดูเหมือนฆาตกรที่เรากำลังตามล่า อยู่ตอนนี้\nจะเกี่ยวข้องกับคดีฆาตกรรมเมื่อ สามปีก่อน
+P0601-0885	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I've been chasing the Mole's trail.\nHe's connected to the case three years ago.	ผมกำลังตามรอยไอ้ตัวตุ่นอยู่\nเขาเกี่ยวข้องกับคดีเมื่อสามปีก่อน
+P0601-0886	พากย์ · speech_list_judge_main_c06	? (ช)		Yeah. Right before Shintani was killed,\nhe tried to contact a researcher named Shono at the ADDC.	ครับ ก่อนชินทานิจะถูกฆ่าไม่นาน\nเขาพยายามติดต่อนักวิจัยชื่อโชโนะที่ ADDC
+P0601-0887	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yeah. Right before the Mole got him,\nShintani tried to contact a "Shono" at the ADDC.	ครับ ก่อนไอ้ตัวตุ่นจะเล่นงานเขาไม่นาน\nชินทานิพยายามติดต่อ "โชโนะ" ที่ ADDC
+P0601-0888	พากย์ · speech_list_judge_main_c06	? (ช)		The same Shono who testified\nagainst Okubo in the trial.	โชโนะคนเดียวกับที่เคยขึ้นให้การ\nปรักปรำโอคุโบะในการพิจารณาคดี
+P0601-0889	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	The same Shono who testified against\nOkubo back in the day.	โชโนะคนเดียวกับที่เคยให้การ\nปรักปรำโอคุโบะเมื่อก่อน
+P0601-0890	พากย์ · speech_list_judge_main_c06	? (ช)		I'm still trying to piece\neverything together.	ผมยังพยายามปะติดปะต่อ\nทุกอย่างเข้าด้วยกันอยู่
+P0601-0891	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	I'm still trying to put all the\npuzzle pieces together.	ผมยังพยายามต่อจิ๊กซอว์\nทุกชิ้นเข้าด้วยกันอยู่
+P0601-0892	พากย์ · speech_list_judge_main_c06	? (ช)		But I have to keep going until\nthis puzzle is solved.	แต่ผมต้องเดินหน้าต่อไปจนกว่า\nจะไขปริศนานี้ได้
+P0601-0893	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	But until I can solve it,\nI have to keep going.	แต่จนกว่าผมจะไขมันได้\nผมต้องเดินหน้าต่อไป
+P0601-0894	พากย์ · speech_list_judge_main_c06	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Eh?	เอ๋?
+P0601-0895	พากย์ · speech_list_judge_main_c06	? (ช)		Maybe I am.\nSee you later.	อาจจะจริงก็ได้\nแล้วเจอกันนะ
+P0601-0896	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	...See you later.	...แล้วเจอกัน
+P0601-0897	พากย์ · speech_list_judge_main_c06	? (ช)		Hey, it's Yagami. I'm free now.\nWhere are you?	เฮ้ ยากามินะ ตอนนี้ผมว่างแล้ว\nนายอยู่ไหน?
+P0601-0898	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Sugiura? It's Yagami.\nYou wanna meet up? I'm free now.	ซุกิอุระเหรอ ยากามินะ\nอยากนัดเจอกันไหม ตอนนี้ผมว่างแล้ว
+P0601-0899	พากย์ · speech_list_judge_main_c06	Kaito (ช)		Tak, it's Kaito.	ทาคุ ฉันไคโตะเอง
+P0601-0900	พากย์ · speech_list_judge_main_c06	Kaito (ช)	[อีกแทร็ก]	Tak. It's Kaito.	ทาคุ นี่ฉันไคโตะ
+P0601-0901	พากย์ · speech_list_judge_main_c06	? (ช)		Right out front.\nSugiura's here too.	อยู่หน้าร้านนี่แหละ\nซุกิอุระก็อยู่ด้วย
+P0601-0902	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Right out front.\nSugiura's here, too.	อยู่หน้าร้านนี่แหละ\nซุกิอุระอยู่ด้วยเหมือนกัน
+P0601-0903	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Turns out the van never even left Kamurocho.\nThey all got out at some sketchy cabaret.	ปรากฏว่ารถตู้คันนั้นไม่เคย ออกจากคามุโรโจเลย\nพวกมันลงกันที่คาบาเรต์น่าสงสัย แห่งหนึ่ง
+P0601-0904	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Turns out the van never even left Kamurocho.\nThey all got out at some sketch cabaret.	ปรากฏว่ารถตู้คันนั้นไม่เคย ออกจากคามุโรโจเลย\nพวกมันลงกันที่คาบาเรต์แปลกๆ แห่งหนึ่ง
+P0601-0905	พากย์ · speech_list_judge_main_c06	? (ช)		Place called Honmaruen\non Park Boulevard.	ร้านชื่อฮนมารุเอ็น\nอยู่แถวถนนปาร์คบูเลอวาร์ด
+P0601-0906	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	It's on Park Boulevard.\n"Honmaruen."	อยู่แถวถนนปาร์คบูเลอวาร์ด\n"ฮนมารุเอ็น" ครับ
+P0601-0907	พากย์ · speech_list_judge_main_c06	? (ช)		Kaito-san's heading over, too.	ไคโตะซังก็กำลังไปด้วยครับ
+P0601-0908	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Honmaruen...	ฮนมารุเอ็น...
+P0601-0909	พากย์ · speech_list_judge_main_c06	? (ช)		Gotcha. I'll be there ASAP.	รับทราบ ผมจะรีบไปให้เร็วที่สุด
+P0601-0910	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Okay, got it.\nOn my way.	โอเค รับทราบ\nกำลังไป
+P0601-0911	พากย์ · speech_list_judge_main_c06	? (ช)		Hey, where are you?\nI'm almost to the cabaret.	เฮ้ นายอยู่ไหน?\nฉันใกล้จะถึงคาบาเรต์แล้ว
+P0601-0912	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Hey. I'm almost at the cabaret.\nWhere are you?	เฮ้ ฉันใกล้จะถึงคาบาเรต์แล้ว\nนายอยู่ไหน?
+P0601-0913	พากย์ · speech_list_judge_main_c06	? (ช)		Okay, I'll be there in a sec.	โอเค เดี๋ยวไปเลย
+P0601-0914	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Got it. I'll be there in a sec.	รับทราบ เดี๋ยวไปเลย
+P0601-0915	พากย์ · speech_list_judge_main_c06	Kaito (ช)		Over here, Tak.	ทางนี้ ทาคุ
+P0601-0916	พากย์ · speech_list_judge_main_c06	Kaito (ช)	[อีกแทร็ก]	This way, Tak.	ทางนี้เลย ทาคุ
+P0601-0917	พากย์ · speech_list_judge_main_c06	Kaito (ช)		Wouldn't be surprised. Who knows how many\nof the bastards are gonna be in there.	ไม่แปลกใจเลย ใครจะไปรู้ว่าไอ้พวกนั้น\nจะมีอยู่ในนั้นกี่คน
+P0601-0918	พากย์ · speech_list_judge_main_c06	Kaito (ช)	[อีกแทร็ก]	Yeah, safe bet. Who knows how many\nare gonna be in there.	เออ เดาไม่ผิดหรอก ใครจะไปรู้ว่า\nจะมีอยู่ในนั้นกี่คน
+P0601-0919	พากย์ · speech_list_judge_main_c06	? (ช)		But are you ready to find out?	แต่นายพร้อมจะเข้าไปดูให้รู้ไหมล่ะ?
+P0601-0920	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	You ready to find out?	พร้อมจะเข้าไปดูให้รู้หรือยัง?
+P0601-0921	พากย์ · speech_list_judge_main_c06	? (ช)		Better make it quick.	รีบๆ หน่อยละกัน
+P0601-0922	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	We'll wait.	เราจะรอ
+P0601-0923	พากย์ · speech_list_judge_main_c06	? (ช)		You ready to move, Tak?	พร้อมลุยหรือยัง ทาคุ?
+P0601-0924	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Tak. You ready to move?	ทาคุ พร้อมลุยหรือยัง?
+P0601-0925	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Look.\nThat's the van we tracked.	ดูสิ\nนั่นรถตู้ที่เราตามรอยมา
+P0601-0926	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Look.\nThe van from before.	ดูสิ\nรถตู้คันเมื่อกี้
+P0601-0927	พากย์ · speech_list_judge_main_c06	? (ช)		Does that mean this is another Kyorei hideout?	แปลว่าที่นี่เป็นอีกหนึ่ง ที่ซ่อนของเคียวเรอิเหรอ?
+P0601-0928	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Think this is another Kyorei hideout?	คิดว่าที่นี่เป็นอีกที่ซ่อนของ เคียวเรอิไหม?
+P0601-0929	พากย์ · speech_list_judge_main_c06	? (ช)		Yeah, let's roll.	เออ ไปกันเลย
+P0601-0930	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Yeah. Let's do it.	ใช่ ไปกันเลย
+P0601-0931	พากย์ · speech_list_judge_main_c06	? (ช)		Actually... give me a few more minutes.	เอ่อ... ขอเวลาอีกสักครู่นะ
+P0601-0932	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	No... Give me a minute.	ไม่ล่ะ... ขอเวลาแป๊บนึง
+P0601-0933	พากย์ · speech_list_judge_main_c06	Kaito (ช)		Doesn't matter how many there are.	จะมีกี่คนก็ไม่สำคัญหรอก
+P0601-0934	พากย์ · speech_list_judge_main_c06	? (ช)		C'mon man. You think he's gonna let 'em\nslide after they hit his girl?	ไม่เอาน่า นายคิดว่าเขาจะปล่อยพวกมันไป\nง่ายๆ หลังจากที่ทำร้ายผู้หญิงของเขาเหรอ?
+P0601-0935	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Can't you tell?\nThey were dumb enough to hurt Mafuyu-chan.	ดูไม่ออกเหรอ?\nพวกมันโง่พอที่จะไปทำร้ายมาฟุยุ จังเข้า
+P0601-0936	พากย์ · speech_list_judge_main_c06	? (ช)		Alright, it's all you Tak.\nYou get to take point on this one.	เอาละ ตานายแล้ว ทาคุ\nรอบนี้นายได้บุกนำเลย
+P0601-0937	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	All right, go ahead, Tak.\nI'll let you take the first swing.	เอาละ ลุยเลย ทาคุ\nฉันจะให้นายได้ลงมือคนแรก
+P0601-0938	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Huh? Hey, do you guys even have a plan!?	หา? เฮ้ พวกนายมีแผนกันบ้างไหมเนี่ย!?
+P0601-0939	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	Uh, hey... you guys have a plan?	เอ่อ นี่... พวกนายมีแผนกันไหม?
+P0601-0940	พากย์ · speech_list_judge_main_c06	? (ช)		What!? But there could be\na freaking army in there!	อะไรนะ!? แต่ในนั้นอาจจะมี\nกองทัพเลยก็ได้นะ!
+P0601-0941	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Huh!? But there could be\na freaking army in there!	หา!? แต่ในนั้นอาจจะมี\nกองทัพเลยก็ได้นะ!
+P0601-0942	พากย์ · speech_list_judge_main_c06	? (ช)		Why not!?	ทำไมล่ะ!?
+P0601-0943	พากย์ · speech_list_judge_main_c06	? (ช)		You guys are freakin' nuts...	พวกนายนี่มันบ้าไปแล้วจริงๆ...
+P0601-0944	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Ugh... Dude...	อุ๊ย... เพื่อนเอ๊ย...
+P0601-0945	พากย์ · speech_list_judge_main_c06	Yagami (ช)		Don't need one.	ไม่ต้องมีก็ได้
+P0601-0946	พากย์ · speech_list_judge_main_c06	? (ช)		Yeah, I don't really care.\nBesides, I'm not in the mood for strategizing.	เออ ฉันไม่สนหรอก\nอีกอย่าง ฉันไม่มีอารมณ์มานั่งวางแผนด้วย
+P0601-0947	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Agreed.\nI'm not in the mood for strategizing.	เห็นด้วย\nฉันไม่มีอารมณ์มานั่งวางแผน
+P0601-0948	พากย์ · speech_list_judge_main_c06	Kaito (ช)		We wanna talk to the big boys.	กูอยากคุยกับหัวโจกน่ะ
+P0601-0949	พากย์ · speech_list_judge_main_c06	Kaito (ช)	[อีกแทร็ก]	We want the boss,\nnot the trash.	กูอยากคุยกับเจ้านาย\nไม่ใช่กับพวกขยะ
+P0601-0950	พากย์ · speech_list_judge_main_c06	mihari_yakuza (ช)		Club's rented out, asshole.\nCan't you fuckin' read?	ร้านนี้เขาเช่าเหมาแล้ว ไอ้เวร\nอ่านป้ายไม่ออกหรือไงวะ?
+P0601-0951	พากย์ · speech_list_judge_main_c06	mihari_yakuza (ช)	[อีกแทร็ก]	Hey, store's rented out, asshole.\nOr did you miss the sign?	เฮ้ ร้านนี้เช่าเหมาแล้ว ไอ้เวร\nหรือมึงมองป้ายไม่เห็นวะ?
+P0601-0952	พากย์ · speech_list_judge_main_c06	? (ช)		Wait, aren't you...\nIt's Yagami!	เดี๋ยวนะ มึงไม่ใช่...\nนี่มันยากามิ!
+P0601-0953	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Mm? Wait, you're... Yagami!	อืม? เดี๋ยว มึงคือ... ยากามิ!
+P0601-0954	พากย์ · speech_list_judge_main_c06	? (ช)		Stop where you are!	หยุดอยู่ตรงนั้นนะ!
+P0601-0955	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Not another step!	ห้ามขยับอีกก้าวเดียว!
+P0601-0956	พากย์ · speech_list_judge_main_c06	? (ช)		What's it matter?	มันสำคัญตรงไหนวะ?
+P0601-0957	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	What's it to you?	มันเกี่ยวอะไรกับมึงวะ?
+P0601-0958	พากย์ · speech_list_judge_main_c06	? (ช)		Shut it! But fine. If you wanna fight...\nBring it on, asshole!	หุบปาก! แต่ก็ได้ ถ้าอยากสู้...\nลองมาสิวะ ไอ้เวร!
+P0601-0959	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Shut the fuck up! Fine, then.\nIf you wanna fight, bring it on!	หุบปากซะ! เอางั้นก็ได้\nถ้าอยากสู้ก็ลองมาเลยวะ!
+P0601-0960	พากย์ · speech_list_judge_main_c06	Sugiura (ช)		Yeah, what he said.	เออ... ตามที่เขาว่าเลย
+P0601-0961	พากย์ · speech_list_judge_main_c06	Sugiura (ช)	[อีกแทร็ก]	What he said.	ตามที่เขาว่า
+P0601-0962	พากย์ · speech_list_judge_main_c06	Yagami (ช)		So. This is where you were gonna\ndrag Mafuyu-chan, huh?	อ้อ ที่นี่เองที่พวกแกจะ\nลากตัวมาฟุยุจังมาสินะ?
+P0601-0963	พากย์ · speech_list_judge_main_c06	Yagami (ช)	[อีกแทร็ก]	Hey, guys. So this is where\nyou were gonna bring Mafuyu?	เฮ้พวกนาย ที่นี่เองที่\nพวกแกจะพามาฟุยุมาสินะ?
+P0601-0964	พากย์ · speech_list_judge_main_c06	? (ช)		Who gave the order!? Was it Murase?\nOr maybe it was Shioya.	ใครสั่งการ!? มุราเสะหรือเปล่า?\nหรือไม่ก็ชิโอยะ
+P0601-0965	พากย์ · speech_list_judge_main_c06	? (ช)	[อีกแทร็ก]	Who gave the order?\nWas it Murase? Or maybe Shioya?	ใครสั่งการกันแน่?\nมุราเสะหรือชิโอยะ?
+P0601-0966	บทพูดเดิน · judge_main_c06	Barker (?)		I just saw Kaito-san in Nakamichi Alley, but he was in a really good mood.	เมื่อกี้เห็นไคโตะซังอยู่แถวซอย นากามิจิพอดีเลย เขาอารมณ์ดีสุด ๆ เลยนะ
+P0601-0967	บทพูดเดิน · judge_main_c06	Barker (?)		Was that his friend with him? I've never seen that guy so happy.	คนที่อยู่ด้วยนั่นเพื่อนเขารึเปล่านะ ไม่เคยเห็นไอ้หมอนั่นยิ้มแก้มปริ ขนาดนี้มาก่อนเลย
+P0601-0968	บทพูดเดิน · judge_main_c06	Homeless Man (?)		Hm? Something wrong? You guys must have time to kill at Yagami Detective Agency.	หืม? มีอะไรเหรอ? สำนักงานนักสืบยากามิคงจะว่างมา กสินะพวกนาย
+P0601-0969	บทพูดเดิน · judge_main_c06	Homeless Man (?)		Kaito-san was cruisin' hard through Nakamichi Alley. You'll see when you get there.	ไคโตะซังเดินเท่ผ่านซอยนากามิจิ ไปเลยนะ ไปดูเองก็รู้
+P0601-0970	ตัวเลือก · M06_01000_select_01	Yagami (ตัวเลือก) (ช)		Are you scared of the director?	กลัวท่านผู้อำนวยการเหรอ?
+P0601-0971	ตัวเลือก · M06_01000_select_01	Yagami (ตัวเลือก) (ช)		There's a lot of money behind AD-9, huh?	มีเงินก้อนโตอยู่เบื้องหลัง AD-9 เลยนะ
+P0601-0972	ตัวเลือก · M06_01000_select_01	Yagami (ตัวเลือก) (ช)		Do you know about the murders in Kamurocho?	รู้เรื่องคดีฆาตกรรมในคามุโรโจไหม?
+P0601-0973	ตัวเลือก · M06_01100_select_01	Yagami (ตัวเลือก) (ช)		Was it when I was talking to Mafuyu?	ตอนที่ผมคุยกับมาฟุยุใช่ไหม?
+P0601-0974	ตัวเลือก · M06_01100_select_01	Yagami (ตัวเลือก) (ช)		Was it when I was talking to Ayabe?	ตอนที่ผมคุยกับอายาเบะใช่ไหม?
+P0601-0975	ตัวเลือก · M06_01100_select_01	Yagami (ตัวเลือก) (ช)		Was it when I was talking to Genda?	ตอนที่ผมคุยกับอาจารย์เก็นดะใช่ไหม?
+P0601-0976	ตัวเลือก · M06_02100_select_01	Yagami (ตัวเลือก) (ช)		Because you're cute.	เพราะเธอน่ารักไง
+P0601-0977	ตัวเลือก · M06_02100_select_01	Yagami (ตัวเลือก) (ช)		Because you know me.	เพราะเธอรู้จักผมไง
+P0601-0978	ตัวเลือก · M06_02100_select_01	Yagami (ตัวเลือก) (ช)		To get revenge on the prosecution and police.	เพื่อแก้แค้นอัยการกับตำรวจ
+P0601-0979	ตัวเลือก · M06_02260_select_01	Yagami (ตัวเลือก) (ช)		No, hold on.	ไม่ เดี๋ยวก่อน
+P0601-0980	ตัวเลือก · M06_02260_select_01	Yagami (ตัวเลือก) (ช)		Yeah, anytime.	ได้ เมื่อไหร่ก็ได้เลย
+P0601-0981	เป้าหมายภารกิจ · judge_m_M06_00300	(ข้อความระบบ) (กลาง)	[ใช้ร่วม] [ซ้ำในบท x10]	Chapter 6: Collusion	บทที่ 6: การสมคบคิด
+P0601-0982	เป้าหมายภารกิจ · judge_m_M06_00300	(ข้อความระบบ) (กลาง)		Talk to the Receptionist	คุยกับพนักงานต้อนรับ
+P0601-0983	เป้าหมายภารกิจ · judge_m_M06_00300	(ข้อความระบบ) (กลาง)		I'm a material witness? Does Kuroiwa seriously suspect me? Kido wants me out, but can I still get to Shono?	ผมเป็นพยานปากสำคัญเหรอ? คุโรอิวะสงสัยผมจริงจังขนาดนั้น เลยเหรอ? คิโดะอยากให้ผมออกไป แต่ผมยังพอจะเข้าถึงตัวโชโนะได้ไหมนะ?
+P0601-0984	เป้าหมายภารกิจ · judge_m_M06_00400	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Check the Directory	ตรวจสอบแผนผังอาคาร
+P0601-0985	เป้าหมายภารกิจ · judge_m_M06_00400	(ข้อความระบบ) (กลาง)		The receptionist was no use. I'll find Shono some other way.	พนักงานต้อนรับช่วยอะไรไม่ได้เลย ต้องหาทางอื่นตามหาโชโนะแล้ว
+P0601-0986	เป้าหมายภารกิจ · judge_m_M06_00600	(ข้อความระบบ) (กลาง)		Follow Hashimoto	ตามฮาชิโมโตะ
+P0601-0987	เป้าหมายภารกิจ · judge_m_M06_00600	(ข้อความระบบ) (กลาง)		Hashimoto-san is on Shono's research staff. Good to see some diversity in the workforce.	ฮาชิโมโตะซังเป็นทีมวิจัยของโชโนะ ดีใจที่เห็นความหลากหลายในทีมงานบ้าง
+P0601-0988	เป้าหมายภารกิจ · judge_m_M06_01000	(ข้อความระบบ) (กลาง)		Talk to Shono	คุยกับโชโนะ
+P0601-0989	เป้าหมายภารกิจ · judge_m_M06_01000	(ข้อความระบบ) (กลาง)		I found him! I have to ask why Shintani called.	เจอเขาแล้ว! ต้องถามให้ได้ว่าทำไมชินทานิถึงโทรมา
+P0601-0990	เป้าหมายภารกิจ · judge_m_M06_01400	(ข้อความระบบ) (กลาง)		Head to Koi Bride	ไปที่โคอิไบรด์
+P0601-0991	เป้าหมายภารกิจ · judge_m_M06_01400	(ข้อความระบบ) (กลาง)		Sugiura works quick. I'll head to Koi Bride to get the details on Kajihira.	ซุกิอุระทำงานเร็วจริงๆ จะไปที่โคอิไบรด์เพื่อหา รายละเอียดเกี่ยวกับคาจิฮิระ
+P0601-0992	เป้าหมายภารกิจ · judge_m_M06_01700	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Head to Genda Law Office	ไปที่สำนักงานกฎหมายเก็นดะ
+P0601-0993	เป้าหมายภารกิจ · judge_m_M06_01700	(ข้อความระบบ) (กลาง)		So Kajihira has a grudge against AD-9 for stalling the buyout. Interesting theory, but it's Hattori of all people who wrote it...	งั้นคาจิฮิระก็มีเรื่องบาดหมางกับ AD-9 เพราะทำให้การซื้อที่ดินล่าช้าสินะ ทฤษฎีน่าสนใจดี แต่คนที่เขียนมันคือฮัตโตริซะด้วยสิ...
+P0601-0994	เป้าหมายภารกิจ · judge_m_M06_01900	(ข้อความระบบ) (กลาง)		Listen to Mafuyu	ฟังมาฟุยุ
+P0601-0995	เป้าหมายภารกิจ · judge_m_M06_01900	(ข้อความระบบ) (กลาง)		Looks like I just missed Hattori. Bummer. But why is Mafuyu here?	ดูเหมือนผมจะพลาดเจอฮัตโตริไปเฉียดฉิว น่าเสียดาย แต่ทำไมมาฟุยุถึงมาอยู่ที่นี่ล่ะ?
+P0601-0996	เป้าหมายภารกิจ · judge_m_M06_02220	(ข้อความระบบ) (กลาง)		Head to Honmaruen	ไปที่ฮนมารุเอ็น
+P0601-0997	เป้าหมายภารกิจ · judge_m_M06_02220	(ข้อความระบบ) (กลาง)		Those Kyorei guys who tried to kidnap Mafuyu went to a cabaret club called Honmaruen. I've got you now.	พวกเคียวเรอิที่พยายามลักพาตัว มาฟุยุไปที่คาบาเรต์ฮนมารุเอ็น คราวนี้ได้ตัวแน่
+P0601-0998	เป้าหมายภารกิจ · judge_m_M06_02010	(ข้อความระบบ) (กลาง)		Catch Up to Mafuyu	ตามให้ทันมาฟุยุ
+P0601-0999	เป้าหมายภารกิจ · judge_m_M06_02010	(ข้อความระบบ) (กลาง)		Why are the yakuza tailing Mafuyu!? I need to catch up to her now!	ทำไมยากูซ่าถึงสะกดรอยตามมาฟุยุ!? ผมต้องตามเธอให้ทันเดี๋ยวนี้!
+P0601-1000	เป้าหมายภารกิจ · judge_m_M06_01300	(ข้อความระบบ) (กลาง)		Wait for Sugiura to Get in Touch	รอซุกิอุระติดต่อมา
+P0601-1001	เป้าหมายภารกิจ · judge_m_M06_01300	(ข้อความระบบ) (กลาง)		Sugiura is looking into the link between Kajihira and Minister Kazami. I'll kill some time till he calls.	ซุกิอุระกำลังสืบความเชื่อมโยง ระหว่างคาจิฮิระกับ รัฐมนตรีคาซามิอยู่ เดี๋ยวฆ่าเวลารอเขาโทรมาก่อน

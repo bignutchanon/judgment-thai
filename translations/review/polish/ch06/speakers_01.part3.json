@@ -1,0 +1,793 @@
+[
+{
+"id": "P0601-0600",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามต่อจากซุกิอุระ"
+},
+{
+"id": "P0601-0601",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามต่อจากซุกิอุระ"
+},
+{
+"id": "P0601-0602",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามต่อจากซุกิอุระ"
+},
+{
+"id": "P0601-0603",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามต่อจากซุกิอุระ"
+},
+{
+"id": "P0601-0604",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามต่อจากซุกิอุระ"
+},
+{
+"id": "P0601-0605",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในใจ"
+},
+{
+"id": "P0601-0606",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายเรื่องคาจิฮิระและ AD-9"
+},
+{
+"id": "P0601-0607",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายเรื่องคาจิฮิระและ AD-9"
+},
+{
+"id": "P0601-0608",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายเรื่องคาจิฮิระและ AD-9"
+},
+{
+"id": "P0601-0609",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายเรื่องคาจิฮิระและ AD-9"
+},
+{
+"id": "P0601-0610",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "อธิบายเรื่องคาจิฮิระและ AD-9"
+},
+{
+"id": "P0601-0611",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซุกิอุระว่าไปขุดมาจากไหน"
+},
+{
+"id": "P0601-0612",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "med",
+"why": "ถามซุกิอุระว่าไปขุดมาจากไหน"
+},
+{
+"id": "P0601-0613",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "บอกว่าเพิ่งขอให้ช่วยวันนี้"
+},
+{
+"id": "P0601-0614",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "บอกว่าเพิ่งขอให้ช่วยวันนี้"
+},
+{
+"id": "P0601-0615",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "พูดถึงบทความฮัตโตริ"
+},
+{
+"id": "P0601-0616",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "พูดถึงบทความฮัตโตริ"
+},
+{
+"id": "P0601-0617",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "พูดถึงบทความฮัตโตริ"
+},
+{
+"id": "P0601-0618",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "พูดถึงบทความฮัตโตริ"
+},
+{
+"id": "P0601-0619",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "พูดถึงบทความฮัตโตริ"
+},
+{
+"id": "P0601-0620",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "med",
+"why": "พูดถึงบทความฮัตโตริ"
+},
+{
+"id": "P0601-0621",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบเรื่องฮัตโตริ รู้จักกันมานาน"
+},
+{
+"id": "P0601-0622",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบเรื่องฮัตโตริ รู้จักกันมานาน"
+},
+{
+"id": "P0601-0623",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบเรื่องฮัตโตริ รู้จักกันมานาน"
+},
+{
+"id": "P0601-0624",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "low",
+"why": "ตอบเรื่องฮัตโตริ รู้จักกันมานาน"
+},
+{
+"id": "P0601-0625",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในใจ"
+},
+{
+"id": "P0601-0626",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ความคิดในใจ"
+},
+{
+"id": "P0601-0628",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "บอกว่าฮัตโตริกลับแล้ว"
+},
+{
+"id": "P0601-0629",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "บอกว่าฮัตโตริกลับแล้ว"
+},
+{
+"id": "P0601-0630",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "บอกว่าฮัตโตริกลับแล้ว"
+},
+{
+"id": "P0601-0631",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "บอกว่าฮัตโตริกลับแล้ว"
+},
+{
+"id": "P0601-0632",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "บอกว่าฮัตโตริกลับแล้ว"
+},
+{
+"id": "P0601-0641",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่าไล่ฮัตโตริไปแล้วเหรอ"
+},
+{
+"id": "P0601-0642",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่าไล่ฮัตโตริไปแล้วเหรอ"
+},
+{
+"id": "P0601-0643",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่าไล่ฮัตโตริไปแล้วเหรอ"
+},
+{
+"id": "P0601-0644",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "med",
+"why": "ถามว่าไล่ฮัตโตริไปแล้วเหรอ"
+},
+{
+"id": "P0601-0645",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เรียกมาฟุยุ"
+},
+{
+"id": "P0601-0649",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "high",
+"why": "พูดถึงอาจารย์เก็นดะหยุดงาน"
+},
+{
+"id": "P0601-0650",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "high",
+"why": "พูดถึงอาจารย์เก็นดะหยุดงาน"
+},
+{
+"id": "P0601-0652",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0653",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0654",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0655",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0656",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0657",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0658",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0659",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0660",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0661",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0662",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0663",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0664",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0665",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0666",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0667",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0668",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0669",
+"speaker": "Mafuyu",
+"gender": "female",
+"conf": "high",
+"why": "เรียกยากามิคุง เป็นอัยการ"
+},
+{
+"id": "P0601-0673",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0674",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0675",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0676",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0677",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0678",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0679",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0680",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0681",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0682",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0683",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0684",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0685",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบมาฟุยุเรื่องถูกสงสัย"
+},
+{
+"id": "P0601-0690",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "high",
+"why": "ตกใจเรื่องคาจิฮิระกับ ADDC"
+},
+{
+"id": "P0601-0691",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "high",
+"why": "ตกใจเรื่องคาจิฮิระกับ ADDC"
+},
+{
+"id": "P0601-0692",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "high",
+"why": "ตกใจเรื่องคาจิฮิระกับ ADDC"
+},
+{
+"id": "P0601-0693",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "high",
+"why": "ตกใจเรื่องคาจิฮิระกับ ADDC"
+},
+{
+"id": "P0601-0694",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "high",
+"why": "ตกใจเรื่องคาจิฮิระกับ ADDC"
+},
+{
+"id": "P0601-0695",
+"speaker": "Hoshino",
+"gender": "male",
+"conf": "high",
+"why": "ตกใจเรื่องคาจิฮิระกับ ADDC"
+},
+{
+"id": "P0601-0697",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0698",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0699",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0700",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0701",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0702",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0703",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0704",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0705",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0706",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "เล่าข้อมูลคาจิฮิระให้โฮชิโนะ"
+},
+{
+"id": "P0601-0708",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0709",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0710",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0711",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0712",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0713",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0714",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0715",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0716",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0717",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0718",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0719",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0720",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0721",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "โทรบอกยากูซ่าตามมาฟุยุ"
+},
+{
+"id": "P0601-0723",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบรับสายซุกิอุระ"
+},
+{
+"id": "P0601-0724",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบรับสายซุกิอุระ"
+},
+{
+"id": "P0601-0725",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบรับสายซุกิอุระ"
+},
+{
+"id": "P0601-0726",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบรับสายซุกิอุระ"
+},
+{
+"id": "P0601-0727",
+"speaker": "Yagami",
+"gender": "male",
+"conf": "high",
+"why": "ตอบรับสายซุกิอุระ"
+},
+{
+"id": "P0601-0730",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานตำแหน่งมาฟุยุ"
+},
+{
+"id": "P0601-0731",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานตำแหน่งมาฟุยุ"
+},
+{
+"id": "P0601-0732",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "รายงานตำแหน่งมาฟุยุ"
+},
+{
+"id": "P0601-0741",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ยังไม่รู้ ให้รีบมา"
+},
+{
+"id": "P0601-0742",
+"speaker": "Sugiura",
+"gender": "male",
+"conf": "high",
+"why": "ยังไม่รู้ ให้รีบมา"
+},
+{
+"id": "P0601-0747",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าดักหน้ายากามิ"
+},
+{
+"id": "P0601-0748",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าดักหน้ายากามิ"
+},
+{
+"id": "P0601-0749",
+"speaker": "bougai_yakuza",
+"gender": "male",
+"conf": "med",
+"why": "ยากูซ่าดักหน้ายากามิ"
+}
+]

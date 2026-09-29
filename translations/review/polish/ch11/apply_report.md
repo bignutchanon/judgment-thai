@@ -1,0 +1,620 @@
+# Sweep apply report
+
+รับ 110 จุด · lead ปฏิเสธ 8 · ซ้ำ 19 · ปฏิเสธ ช่วงไทย 1 · ปฏิเสธ ว่าง 4 · ปฏิเสธ เหมือนเดิม 1 · รับ C 2 · รับ M 38 · รับ N 41 · รับ P 31 · รับ S 18 · รับ T 1 · รับ V 4 · ไทยเปลี่ยนแล้ว 5
+
+## รับแล้ว
+- `P1101-0138` [P] 
+  - EN: 'You too. Get up.'
+  - เดิม: 'แกก็เหมือนกัน ลุกขึ้น'
+  - ใหม่: 'มึงก็เหมือนกัน ลุกขึ้น'
+- `P1101-0167` [N] 
+  - EN: "That's it. They're so fucking dead!"
+  - เดิม: 'จบเห่แล้วไง พวกมันตายแน่ๆ!'
+  - ใหม่: 'พอกันที! คราวนี้พวกมันตายห่าแน่ๆ!'
+- `P1101-0317` [M] 
+  - EN: "Hamura is a loose end that\nI'll take care of eventually."
+  - เดิม: 'ฮามุระเป็นเศษเสี้ยวที่ค้างอยู่\nสักวันผมจะจัดการเอง'
+  - ใหม่: 'ฮามุระเป็นปมที่ยังเหลืออยู่\nสักวันผมจะจัดการเอง'
+- `P1101-0528` [N] 
+  - EN: "Before long we'd formed a nice little partnership.\nStarted making a name for ourselves."
+  - เดิม: 'ไม่นานพวกกูก็จับมือกันได้เนียน ๆ\nเริ่มสร้างชื่อให้ตัวเองขึ้นมา'
+  - ใหม่: 'ไม่นานพวกกูก็ร่วมมือกันลงตัว\nเริ่มสร้างชื่อให้ตัวเองขึ้นมา'
+- `P1101-0617` [M] 
+  - EN: 'Another job?'
+  - เดิม: 'งานอะไร?'
+  - ใหม่: 'งานอีกเหรอ?'
+- `P1101-0695` [N] 
+  - EN: 'So of course my alibi got tossed.'
+  - เดิม: 'พยานที่อยู่ของกูเลยถูกตีตกไป ตามระเบียบ'
+  - ใหม่: 'พยานที่อยู่ของกูเลยถูกตีตกไปอยู่แล้ว'
+- `P1101-0918` [N] 
+  - EN: 'That being the case,\nit falls to me to put a stop to this farce.'
+  - เดิม: 'เมื่อเป็นเช่นนั้น\nผมจึงต้องมาหยุดเรื่องตลกโปกฮา นี้เสียเอง'
+  - ใหม่: 'เมื่อเป็นเช่นนั้น\nผมจึงต้องมาหยุด เรื่องน่าขันนี้เสียเอง'
+- `P1101-0002` [S] 
+  - EN: 'The Mole, who facilitated them...'
+  - เดิม: 'ไอ้ตัวตุ่นคือผู้ที่คอย อำนวยความสะดวกให้มัน...'
+  - ใหม่: 'ไอ้ตัวตุ่น ผู้คอยอำนวยความสะดวกให้มัน...'
+- `P1101-0003` [N] 
+  - EN: 'As Yagami gets closer to\nthe truth, the trap is sprung.'
+  - เดิม: 'ขณะที่ยากามิเข้าใกล้\nความจริงมากขึ้น กับดักก็ถูกสับ'
+  - ใหม่: 'ขณะที่ยากามิเข้าใกล้\nความจริงมากขึ้น กับดักก็งับลง'
+- `P1101-0031` [M] 
+  - EN: 'Given the sensitive nature of this task,\nnaturally we expect the utmost secrecy.'
+  - เดิม: 'เนื่องจากงานนี้ละเอียดอ่อนมากครับ\nเราคาดหวังความเงียบขั้นสูงสุด เป็นธรรมดา'
+  - ใหม่: 'เนื่องจากงานนี้ละเอียดอ่อนมากครับ\nเราจึงต้องการ ให้เก็บเป็นความลับขั้นสูงสุด'
+- `P1101-0089` [S] 
+  - EN: "Allow me to answer your question.\nIt's true that we have access to vast amounts of money, yes."
+  - เดิม: 'ขอผมตอบคำถามคุณก่อนนะครับ\nเรื่องที่เรามีเงินมหาศาลอยู่ใน มือน่ะจริงครับ'
+  - ใหม่: 'ขอผมตอบคำถามคุณก่อนนะครับ\nเรื่องที่เรามีเงินมหาศาล อยู่ในมือน่ะจริงครับ'
+- `P1101-0092` [S] 
+  - EN: 'But it comes with the\nterritory of a blank check.'
+  - เดิม: 'แต่นั่นก็แลกมาด้วย\nการที่เราให้เช็คเปล่าแบบไม่ จำกัดวงเงิน'
+  - ใหม่: 'แต่นั่นก็เป็นของคู่กัน\nกับการมีเช็คเปล่าไม่จำกัดวงเงิน'
+- `P1101-0112` [C] 
+  - EN: 'To that end, Hamura-san...'
+  - เดิม: 'เพื่อการนั้น คุณฮามุระ...'
+  - ใหม่: 'เพื่อการนั้น ฮามุระซัง...'
+- `P1101-0116` [S] 
+  - EN: "Face it.\nAyabe's alibi isn't gonna hold water."
+  - เดิม: 'ยอมรับความจริงเถอะครับ\nพยานที่อยู่ของอายาเบะมันไม่ มีทางยืนหยัดอยู่ได้หรอก'
+  - ใหม่: 'ยอมรับความจริงเถอะครับ\nพยานที่อยู่ของอายาเบะฟังไม่ขึ้นหรอก'
+- `P1101-0118` [M] 
+  - EN: "The guy doesn't even remember\nwho attacked him? Right."
+  - เดิม: 'แล้วจะบอกว่าจำไม่ได้ด้วยซ้ำ\nว่าใครทำร้ายตัวเอง ใช่ไหมล่ะ'
+  - ใหม่: 'แถมเขายังจำไม่ได้ด้วยซ้ำ\nว่าใครทำร้ายเขา ใช่ไหมล่ะ'
+- `P1101-0129` [P] 
+  - EN: "Smells like... Something's burning."
+  - เดิม: 'กลิ่นเหมือน... มีอะไรไหม้ว่ะ'
+  - ใหม่: 'กลิ่นเหมือน... มีอะไรไหม้อยู่นะ'
+- `P1101-0130` [P] 
+  - EN: 'I smell something burning.'
+  - เดิม: 'กูได้กลิ่นไหม้นะ'
+  - ใหม่: 'ผมได้กลิ่นไหม้นะ'
+- `P1101-0148` [P] 
+  - EN: "If this Ministry of Health business is true,\nyou're nothing more than a pawn to them."
+  - เดิม: 'ถ้าเรื่องกระทรวงสาธารณสุข ที่ว่าเป็นจริง\nมึงก็แค่หมากตัวหนึ่งของพวกมัน เท่านั้นแหละ'
+  - ใหม่: 'ถ้าเรื่องกระทรวงสาธารณสุข ที่ว่าเป็นจริง\nคุณก็แค่หมากตัวหนึ่ง ของพวกมันเท่านั้น'
+- `P1101-0149` [P] 
+  - EN: "If what you said earlier is true,\nyou're just a disposable pawn to them."
+  - เดิม: 'ถ้าสิ่งที่มึงพูดไว้ก่อนหน้านี้ เป็นจริง\nมึงก็แค่หมากที่ใช้แล้วทิ้งของ พวกมันเท่านั้น'
+  - ใหม่: 'ถ้าสิ่งที่คุณพูดไว้ก่อนหน้านี้ เป็นจริง\nคุณก็แค่หมากที่ใช้แล้วทิ้ง ของพวกมันเท่านั้น'
+- `P1101-0152` [P] 
+  - EN: "Oh, I don't know about that."
+  - เดิม: 'อือ ก็ไม่แน่ใจนักหรอกนะครับ'
+  - ใหม่: 'อือ ก็ไม่แน่ใจนักหรอกนะ'
+- `P1101-0154` [P] 
+  - EN: "You're an idiot... Hamura."
+  - เดิม: 'คุณนี่มันโง่จริงๆ... ฮามุระ'
+  - ใหม่: 'มึงนี่มันโง่จริงๆ... ฮามุระ'
+- `P1101-0155` [P] 
+  - EN: "You're really that stupid, huh?"
+  - เดิม: 'คุณโง่ขนาดนั้นเลยเหรอครับ?'
+  - ใหม่: 'มึงโง่ขนาดนั้นเลยเหรอวะ?'
+- `P1101-0185` [M] 
+  - EN: '...Sir!'
+  - เดิม: '...ครับผม!'
+  - ใหม่: '...ท่าน!'
+- `P1101-0197` [P] 
+  - EN: "I would've done the... the same if I was him.\nYou knew too much."
+  - เดิม: 'ถ้าเป็นผมอยู่ในสถานะเดียวกับเขา...\nผมก็คงทำเหมือนกัน เพราะฮามุระรู้มากเกินไปแล้ว'
+  - ใหม่: 'ถ้าผมเป็นเขา... ผมก็คงทำเหมือนกัน\nเพราะนายรู้มากเกินไปแล้ว'
+- `P1101-0198` [P] 
+  - EN: "If I were him,\nthe first thing I'd do is put you down..."
+  - เดิม: 'ถ้าเป็นผมอยู่ในสถานะเดียวกับเขา\nสิ่งแรกที่จะทำคือจัดการฮามุระ ทิ้งไปเลย...'
+  - ใหม่: 'ถ้าผมเป็นเขา\nสิ่งแรกที่ผมจะทำ คือจัดการนายทิ้งไปเลย...'
+- `P1101-0205` [P] 
+  - EN: 'When I heard what you said...'
+  - เดิม: 'ตอนที่ผมได้ยินสิ่งที่ฮามุระพูด...'
+  - ใหม่: 'ตอนที่ผมได้ยินสิ่งที่นายพูด...'
+- `P1101-0206` [P] 
+  - EN: 'When I heard you say it...\u3000'
+  - เดิม: 'ตอนที่ผมได้ยินฮามุระพูดออกมา...\u3000'
+  - ใหม่: 'ตอนที่ผมได้ยินนายพูดออกมา...\u3000'
+- `P1101-0207` [P] 
+  - EN: 'I knew you were right.'
+  - เดิม: 'ผมก็รู้ว่าฮามุระพูดถูก'
+  - ใหม่: 'ผมก็รู้ว่านายพูดถูก'
+- `P1101-0216` [P] 
+  - EN: "You couldn't count on me to lead, so..."
+  - เดิม: 'ฮามุระพึ่งผมเรื่อง ความเป็นผู้นำไม่ได้ เพราะงั้น...'
+  - ใหม่: 'นายพึ่งผมเรื่องความเป็นผู้นำไม่ได้ เพราะงั้น...'
+- `P1101-0217` [P] 
+  - EN: 'And because of that... you had to protect the family...\nby crossing the line...'
+  - เดิม: 'และเพราะแบบนั้น... ฮามุระเลยต้องปกป้องตระกูล...\nด้วยการก้าวข้ามเส้นที่ไม่ควรข้าม...'
+  - ใหม่: 'และเพราะแบบนั้น... นายเลยต้องปกป้องตระกูล...\nด้วยการก้าวข้ามเส้นที่ไม่ควรข้าม...'
+- `P1101-0218` [P] 
+  - EN: 'You crossed that bridge...\nto protect the family...'
+  - เดิม: 'ฮามุระยอมข้ามเส้นนั้นไป...\nเพื่อปกป้องตระกูล...'
+  - ใหม่: 'นายยอมข้ามเส้นนั้นไป...\nเพื่อปกป้องตระกูล...'
+- `P1101-0224` [P] 
+  - EN: 'And just let you keep earning...'
+  - เดิม: 'แล้วก็ปล่อยให้ฮามุระหาเงิน เข้ามาเรื่อยๆ...'
+  - ใหม่: 'แล้วก็ปล่อยให้นายหาเงินเข้ามาเรื่อยๆ...'
+- `P1101-0225` [P] 
+  - EN: "I'm not going to... blame you\nfor... for all of that."
+  - เดิม: 'ผมจะไม่... โทษฮามุระ\nสำหรับ... สำหรับเรื่องทั้งหมดนั้นหรอก'
+  - ใหม่: 'ผมจะไม่... โทษนาย\nสำหรับ... สำหรับเรื่องทั้งหมดนั้นหรอก'
+- `P1101-0228` [M] 
+  - EN: 'Was it hard on you?'
+  - เดิม: 'มันหนักสำหรับฮามุระไหม?'
+  - ใหม่: 'มันหนักสำหรับท่านไหม?'
+- `P1101-0265` [S] 
+  - EN: "I get the feeling it's not over yet?"
+  - เดิม: 'ผมรู้สึกว่ามันยังไม่จบซะ ทีเดียวใช่ไหมล่ะ?'
+  - ใหม่: 'ผมรู้สึกว่า มันยังไม่จบซะทีเดียวใช่ไหมล่ะ?'
+- `P1101-0283` [M] 
+  - EN: "I'm on to you."
+  - เดิม: 'ผมจับตาคุณอยู่นะ'
+  - ใหม่: 'ผมรู้ทันคุณแล้วนะ'
+- `P1101-0305` [M] 
+  - EN: 'So the moment I get out,\nyour ass is mine!'
+  - เดิม: 'งั้นพอผมออกไปได้เมื่อไหร่\nคุณตายแน่!'
+  - ใหม่: 'งั้นพอผมออกไปได้เมื่อไหร่\nคุณเสร็จผมแน่!'
+- `P1101-0309` [M] 
+  - EN: "I don't think you realize...\nAD-9 gives me complete immunity."
+  - เดิม: 'ผมว่าคุณยังไม่รู้สินะ...\nAD-9 ให้ผมมีภูมิคุ้มกันเต็มขั้น'
+  - ใหม่: 'ผมว่าคุณยังไม่รู้สินะ...\nAD-9 ทำให้ผมไม่มีวันถูกเอาผิด'
+- `P1101-0325` [N] 
+  - EN: 'If you think you scare me... sorry. \nYou has-been fraud.'
+  - เดิม: 'ถ้าคุณคิดว่าผมกลัว... ขอโทษด้วยนะ\nไอ้คนหมดสภาพจอมปลอม'
+  - ใหม่: 'ถ้าคุณคิดว่าผมกลัว... ขอโทษด้วยนะ\nไอ้จอมปลอมที่ตกอับ'
+- `P1101-0331` [N] 
+  - EN: 'Should I take over?'
+  - เดิม: 'ให้ผมสานต่อให้ไหมครับ?'
+  - ใหม่: 'ให้ผมรับช่วงต่อไหมครับ?'
+- `P1101-0357` [S] 
+  - EN: "Even when he's this close to being all but caught...\nhe's not gonna stop for anything."
+  - เดิม: 'ต่อให้ใกล้จะถูกจับได้ขนาดนี้แล้ว...\nเขาก็จะไม่ยอมหยุดไม่ว่าจะเกิด อะไรขึ้น'
+  - ใหม่: 'ต่อให้ใกล้จะถูกจับได้ขนาดนี้แล้ว...\nเขาก็ไม่ยอมหยุด ไม่ว่าจะเกิดอะไรขึ้น'
+- `P1101-0383` [N] 
+  - EN: 'He deserves closure.'
+  - เดิม: 'เขาสมควรได้รับการคลี่คลายเรื่องนี้'
+  - ใหม่: 'เขาสมควรได้รับความยุติธรรม'
+- `P1101-0406` [P] 
+  - EN: 'Tak! Get these guys off of me!'
+  - เดิม: 'ทาคุ! ช่วยเอาไอ้พวกนี้ออกจากตัวฉันที!'
+  - ใหม่: 'ทาคุ! ช่วยเอาไอ้พวกนี้ออกจากตัวผมที!'
+- `P1101-0403` [M] 
+  - EN: 'Stay outta this, boss!'
+  - เดิม: 'อย่ายุ่งเรื่องนี้เลยนะ นาย!'
+  - ใหม่: 'อย่ายุ่งเรื่องนี้เลยนะ หัวหน้า!'
+- `P1101-0404` [M] 
+  - EN: 'Boss! Stay out of our way!'
+  - เดิม: 'นาย! อย่ามาขวางทางพวกเรา!'
+  - ใหม่: 'หัวหน้า! อย่ามาขวางทางพวกเรา!'
+- `P1101-0439` [P] 
+  - EN: "No shit? I'd say you made a good investment.\nPayin' off in spades."
+  - เดิม: 'จริงดิ? กูว่าท่านลงทุนไว้คุ้มเลยนะ\nได้ผลตอบแทนคืนมาเต็ม ๆ'
+  - ใหม่: 'จริงดิ? ท่านลงทุนไว้คุ้มเลยนะ\nได้ผลตอบแทนคืนมาเต็ม ๆ'
+- `P1101-0491` [M] 
+  - EN: "They'd poison the ADDC from the inside,\nand shut down AD-9 for good."
+  - เดิม: 'พวกเขาจะวางยา ADDC จากภายใน\nแล้วปิดโครงการ AD-9 ให้สิ้นซาก'
+  - ใหม่: 'พวกเขาจะบ่อนทำลาย ADDC จากภายใน\nแล้วปิดโครงการ AD-9 ให้สิ้นซาก'
+- `P1101-0498` [S] 
+  - EN: 'Hashiki was fatally wounded by the Mole,\nbut survived for another three weeks.'
+  - เดิม: 'ฮาชิกิถูกไอ้ตัวตุ่นทำร้ายจน บาดเจ็บสาหัส\nแต่ยังรอดมาได้อีกสามสัปดาห์'
+  - ใหม่: 'ฮาชิกิถูกไอ้ตัวตุ่นทำร้าย จนบาดเจ็บสาหัส\nแต่ยังรอดมาได้อีกสามสัปดาห์'
+- `P1101-0540` [S] 
+  - EN: 'That was when my big chance finally came.'
+  - เดิม: 'นั่นแหละคือตอนที่โอกาสใหญ่ของ กูมาถึงในที่สุด'
+  - ใหม่: 'นั่นแหละคือตอนที่โอกาสใหญ่ ของกูมาถึงในที่สุด'
+- `P1101-0552` [S] 
+  - EN: "Cash is how you survive in this city.\nOr Kamurocho'll open wide and swallow you whole."
+  - เดิม: 'เงินคือสิ่งที่ทำให้อยู่รอดใน เมืองนี้ได้\nไม่งั้นคามุโรโจจะอ้าปากกลืนมึง ทั้งเป็น'
+  - ใหม่: 'เงินคือสิ่งที่ทำให้อยู่รอด ในเมืองนี้ได้\nไม่งั้นคามุโรโจจะอ้าปาก กลืนมึงทั้งเป็น'
+- `P1101-0564` [N] 
+  - EN: 'The goal you fucking told me\nto strive for! '
+  - เดิม: 'เป้าหมายที่ท่านบอกกับกู\nให้ไขว่คว้าไอ้เชี่ยนั่นไง!'
+  - ใหม่: 'เป้าหมายที่ท่านเองนั่นแหละ\nที่บอกให้กูไขว่คว้า!'
+- `P1101-0565` [N] 
+  - EN: 'The goal you fucking told me\nto strive for!'
+  - เดิม: 'เป้าหมายที่ท่านบอกกับกู\nให้ไขว่คว้าไอ้เชี่ยนั่นไง!'
+  - ใหม่: 'เป้าหมายที่ท่านเองนั่นแหละ\nที่บอกให้กูไขว่คว้า!'
+- `P1101-0574` [N] 
+  - EN: "Short little guy. Always had this creepy\nfuckin' smile on his face."
+  - เดิม: 'ตัวเล็กๆ เตี้ยๆ หน้าตาก็ยิ้ม\nแบบเชี่ยๆ น่าขนลุกตลอดเวลา'
+  - ใหม่: 'ตัวเล็กๆ เตี้ยๆ หน้ายิ้มอยู่ตลอด\nแบบน่าขนลุกชิบหายเลย'
+- `P1101-0575` [N] 
+  - EN: "He was short, and always wearing\nthis creepy fuckin' smile."
+  - เดิม: 'ตัวเตี้ย แล้วก็ยิ้ม\nแบบเชี่ยๆ น่าขนลุกอยู่ตลอด'
+  - ใหม่: 'ตัวเตี้ย แล้วก็ยิ้มอยู่ตลอด\nแบบน่าขนลุกชิบหาย'
+- `P1101-0578` [S] 
+  - EN: 'Never even knew why they wanted the guy dead.\nWe just took the 10 mil and did what we were asked.'
+  - เดิม: 'ไม่รู้ด้วยซ้ำว่าทำไมพวกมันถึง อยากให้ตาย\nพวกกูแค่รับสิบล้านมาแล้วทำตามที่สั่ง'
+  - ใหม่: 'ไม่รู้ด้วยซ้ำว่าทำไมพวกมันอยากให้ตาย\nพวกกูแค่รับสิบล้านมาแล้วทำตามที่สั่ง'
+- `P1101-0605` [S] 
+  - EN: "<color=ｍonologue>(Who's the real yakuza here?)</color>"
+  - เดิม: '<color=ｍonologue>(ใครกันแน่ที่เป็นยากูซ่าตัว จริงในเรื่องนี้)</color>'
+  - ใหม่: '<color=ｍonologue>(ใครกันแน่ ที่เป็นยากูซ่าตัวจริงในเรื่องนี้)</color>'
+- `P1101-0608` [M] 
+  - EN: "Tell me this. You started shopping the Mole's\nservices around. What then? What happened?"
+  - เดิม: 'บอกผมมาสิ นายเริ่มไปหาซื้อบริการ\nของไอ้ตัวตุ่นใช่ไหม แล้วยังไงต่อ เกิดอะไรขึ้น?'
+  - ใหม่: 'บอกผมมาสิ นายเริ่มเอาบริการ\nของไอ้ตัวตุ่นไปเสนอขายใช่ไหม แล้วยังไงต่อ เกิดอะไรขึ้น?'
+- `P1101-0609` [M] 
+  - EN: "Let's pull it back. So you started shopping\nthe Mole's services around... So? What then?"
+  - เดิม: 'ย้อนกลับไปหน่อย นายเริ่มไปติดต่อ\nขอใช้บริการของไอ้ตัวตุ่นใช่ไหม... แล้วไง ยังไงต่อ?'
+  - ใหม่: 'ย้อนกลับไปหน่อย นายเริ่มเอาบริการ\nของไอ้ตัวตุ่นไปเสนอขายใช่ไหม... แล้วไง ยังไงต่อ?'
+- `P1101-0652` [M] 
+  - EN: "Yup. He said there was a chance of the subject\ndyin' when we gave 'em the AD-9."
+  - เดิม: 'ใช่ มันบอกว่ามีโอกาสที่หนูทดลอง\nจะตายตอนฉีด AD-9 เข้าไป'
+  - ใหม่: 'ใช่ มันบอกว่ามีโอกาสที่หนูทดลอง\nจะตายตอนให้ AD-9 เข้าไป'
+- `P1101-0683` [S] 
+  - EN: "At the time, we'd just axed two Kyorei guys.\nKilling two in a row made 'em wise."
+  - เดิม: 'ตอนนั้นพวกกูเพิ่งเก็บคนของ ตระกูลเคียวเรอิไปสองคน\nการฆ่าติดกันสองครั้งทำให้พวก มันเริ่มระแวง'
+  - ใหม่: 'ตอนนั้นพวกกูเพิ่งเก็บ คนของตระกูลเคียวเรอิไปสองคน\nการฆ่าติดกันสองครั้งทำให้ พวกมันเริ่มระแวง'
+- `P1101-0687` [S] 
+  - EN: "They were on guard. Even the Mole couldn't do much\nwith them lookin' around every corner."
+  - เดิม: 'พวกมันระวังตัวกันสุดๆ ต่อให้เป็นไอ้ตัวตุ่นเองก็ทำ อะไรไม่ได้มาก\nตอนพวกมันจับตามองไป ทุกซอกทุกมุมแบบนั้น'
+  - ใหม่: 'พวกมันระวังตัวกันสุดๆ ต่อให้เป็นไอ้ตัวตุ่นเอง ก็ทำอะไรไม่ได้มาก\nตอนพวกมันจับตามอง ไปทุกซอกทุกมุมแบบนั้น'
+- `P1101-0694` [S] 
+  - EN: "Mhm. But it turned out, there weren't as many witnesses as I was hopin'. Security footage was fuzzy as shit, too."
+  - เดิม: 'อืม แต่สุดท้ายก็มีพยานน้อยกว่าที่ กูหวังไว้ กล้องวงจรปิดก็ภาพเบลอเชี่ยๆ ด้วย'
+  - ใหม่: 'อืม แต่สุดท้ายก็มีพยาน น้อยกว่าที่กูหวังไว้ กล้องวงจรปิดก็ภาพเบลอชิบหายด้วย'
+- `P1101-0708` [S] 
+  - EN: "Maybe he wanted to make it look like a yakuza killing.\nOr maybe the Mole's just into some sick shit."
+  - เดิม: 'อาจจะอยากทำให้ดูเหมือนฝีมือยากูซ่า\nหรือไม่ก็ไอ้ตัวตุ่นมันวิปริตของมัน เองก็ได้'
+  - ใหม่: 'อาจจะอยากทำให้ดูเหมือนฝีมือยากูซ่า\nหรือไม่ก็ไอ้ตัวตุ่นมัน วิปริตของมันเองก็ได้'
+- `P1101-0744` [N] 
+  - EN: 'It says the cause of death was an ice-pick-shaped\ninstrument piercing his brain through the eye socket. '
+  - เดิม: 'มันบอกว่าสาเหตุการตายคือถูก อุปกรณ์รูปทรง\nเหล็กเจาะน้ำแข็งแทงทะลุสมอง ผ่านเบ้าตา '
+  - ใหม่: 'รายงานระบุว่าเสียชีวิตเพราะ\nถูกของแหลมคล้ายเหล็กเจาะน้ำแข็ง แทงทะลุสมองผ่านเบ้าตา '
+- `P1101-0745` [N] 
+  - EN: 'It says the cause of death was an ice-pick-shaped\ninstrument, piercing his brain through the eye socket. '
+  - เดิม: 'มันบอกว่าสาเหตุการตายคือถูก อุปกรณ์รูปทรงเหล็กเจาะน้ำแข็ง\nแทงทะลุสมองผ่านเบ้าตา '
+  - ใหม่: 'รายงานระบุว่าเสียชีวิตเพราะ\nถูกของแหลมคล้ายเหล็กเจาะน้ำแข็ง แทงทะลุสมองผ่านเบ้าตา '
+- `P1101-0765` [S] 
+  - EN: "So you didn't want to get arrested. Guess not everything went according to plan."
+  - เดิม: 'งั้นนายก็ไม่ได้อยากโดนจับตั้งแต่แรก สรุปว่าไม่ใช่ทุกอย่างเป็นไปตาม แผนสินะ'
+  - ใหม่: 'งั้นนายก็ไม่ได้อยากโดนจับตั้งแต่แรก สรุปว่าไม่ใช่ทุกอย่าง เป็นไปตามแผนสินะ'
+- `P1101-0777` [P] 
+  - EN: "I've been turnin' this whole situation over in my head, but I just can't figure it out."
+  - เดิม: 'กูคิดเรื่องนี้วนไปวนมาในหัวตลอดเลย แต่ก็ยังคิดไม่ออกสักที'
+  - ใหม่: 'ผมคิดเรื่องนี้วนไปวนมาในหัวตลอดเลย แต่ก็ยังคิดไม่ออกสักที'
+- `P1101-0809` [M] 
+  - EN: 'When we took care of Kume,\nI was the one on the hook for it.'
+  - เดิม: 'ตอนที่พวกกูจัดการคุเมะ\nกูเป็นคนรับผิดชอบเรื่องนั้นเอง'
+  - ใหม่: 'ตอนที่พวกกูจัดการคุเมะ\nกูนี่แหละที่ต้องรับผิดในคดีนั้น'
+- `P1101-0811` [S] 
+  - EN: "Lemme tell you, endin' up in the slammer\nfor a murder you didn't do is scary shit."
+  - เดิม: 'บอกไว้เลยนะ การติดคุก\nเพราะคดีฆาตกรรมที่ตัวเองไม่ได้ ทำเนี่ย มันน่ากลัวโคตรๆ'
+  - ใหม่: 'บอกไว้เลยนะ การติดคุก\nเพราะคดีฆาตกรรม ที่ตัวเองไม่ได้ทำเนี่ย มันน่ากลัวโคตรๆ'
+- `P1101-0817` [M] 
+  - EN: 'If the pieces fall into place and I hang for this...\nLook into Shono at the ADDC.'
+  - เดิม: 'ถ้าทุกอย่างลงล็อกแล้วกูต้อง รับผิดเรื่องนี้...\nให้ไปสืบเรื่องโชโนะที่ ADDC'
+  - ใหม่: 'ถ้าทุกอย่างลงล็อกจนกูต้องโดนประหาร...\nให้ไปสืบเรื่องโชโนะที่ ADDC'
+- `P1101-0818` [M] 
+  - EN: '"If the pieces fall into place, and I hang for this...\nlook into Shono at the ADDC."'
+  - เดิม: '"ถ้าทุกอย่างลงล็อกแล้วกูต้อง รับผิดเรื่องนี้...\nให้ไปสืบเรื่องโชโนะที่ ADDC"'
+  - ใหม่: '"ถ้าทุกอย่างลงล็อกจนกูต้องโดนประหาร...\nให้ไปสืบเรื่องโชโนะที่ ADDC"'
+- `P1101-0844` [N] 
+  - EN: 'Shintani wanted to find the truth before\nyou did. Wanted to earn his time in the sun.'
+  - เดิม: 'ชินทานิอยากหาความจริงให้เจอก่อน\nมึง อยากมีวันที่ได้เฉิดฉายกับเขาบ้าง'
+  - ใหม่: 'ชินทานิอยากหาความจริงให้เจอก่อน\nมึง อยากมีวันที่ได้เฉิดฉายบ้าง'
+- `P1101-0848` [M] 
+  - EN: 'Ichinose found out Shintani was trying to get\nin touch with Shono. Signed his own death sentence.'
+  - เดิม: 'อิจิโนเสะรู้เข้าว่าชินทานิ พยายามจะติดต่อ\nโชโนะ เท่ากับเซ็นใบมรณะบัตรให้ตัวเองไปแล้ว'
+  - ใหม่: 'อิจิโนเสะรู้เข้าว่าชินทานิ พยายามจะติดต่อ\nโชโนะ เท่ากับเซ็นหมายประหารตัวเองไปแล้ว'
+- `P1101-0852` [S] 
+  - EN: 'So... I had no choice but to silence Shintani.\nI even paid for the job outta my own pocket.'
+  - เดิม: 'ก็เลย... กูไม่มีทางเลือกอื่นนอกจาก ปิดปากชินทานิ\nกูควักเงินตัวเองจ่ายค่าจ้างงาน นี้ด้วยซ้ำ'
+  - ใหม่: 'ก็เลย... กูไม่มีทางเลือกอื่นนอกจาก ปิดปากชินทานิ\nกูควักเงินตัวเองจ่าย ค่าจ้างงานนี้ด้วยซ้ำ'
+- `P1101-0933` [P] 
+  - EN: 'What the!'
+  - เดิม: 'อะไรวะ!'
+  - ใหม่: 'อะไรน่ะ!'
+- `P1101-0940` [N] 
+  - EN: 'In the business world,\none must always know when to withdraw.'
+  - เดิม: 'ในโลกธุรกิจ\nคนเราต้องรู้จักถอยเป็นเสมอ'
+  - ใหม่: 'ในโลกธุรกิจ\nคนเราต้องรู้จักถอยให้เป็นเสมอ'
+- `P1101-0943` [N] 
+  - EN: 'If <font_kind=yakuza_italic>the</font_kind> Matsuhisa Koga lost to some thug\non the street, our reputation would be in t'
+  - เดิม: 'ถ้า<font_kind=yakuza_italic>เจ้า</font_kind>มัตสึฮิสะ โคกะ ไปแพ้อันธพาลข้างถนน\nชื่อเสียงของเราคงย่อยยับแน่'
+  - ใหม่: 'ถ้า<font_kind=yakuza_italic>คนอย่าง</font_kind>มัตสึฮิสะ โคกะ ไปแพ้อันธพาลข้างถนน\nชื่อเสียงของเราคงย่อยยับแน่'
+- `P1101-0944` [N] 
+  - EN: 'My business partners would never\ntake me seriously again.'
+  - เดิม: 'คู่ค้าทางธุรกิจของผมคง\nไม่มีวันเอาผมเป็นเรื่องจริงจัง อีกต่อไป'
+  - ใหม่: 'คู่ค้าทางธุรกิจของผมคง\nไม่มีวันจริงจังกับผมอีกต่อไป'
+- `P1101-0950` [N] 
+  - EN: "I don't know why they\nwould to begin with."
+  - เดิม: 'ผมว่าตั้งแต่แรกพวกเขาก็คงไม่เคย\nเอาคุณเป็นเรื่องจริงจังอยู่แล้วมั้ง'
+  - ใหม่: 'ผมว่าตั้งแต่แรกพวกเขาก็คงไม่เคย\nจริงจังกับคุณอยู่แล้วมั้ง'
+- `P1101-0965` [P] 
+  - EN: "I just figured I'd stop by\nto tell you about Kaito-san."
+  - เดิม: 'ผมแค่แวะมาบอก\nเรื่องไคโตะซังให้นายรู้เฉยๆ'
+  - ใหม่: 'ผมแค่แวะมาบอก\nเรื่องไคโตะซังให้ยากามิซังรู้เฉยๆ'
+- `P1101-0966` [P] 
+  - EN: 'Nah, I just came to tell you\nabout Kaito-san.'
+  - เดิม: 'เปล่า ผมแค่มาบอกเรื่อง\nไคโตะซังให้นายรู้'
+  - ใหม่: 'เปล่า ผมแค่มาบอกเรื่อง\nไคโตะซังให้ยากามิซังรู้'
+- `P1101-0017` [V] 
+  - EN: 'Real funny. '
+  - เดิม: 'ตลกจริงๆ'
+  - ใหม่: 'ตลกนักนะ'
+- `P1101-0021` [M] 
+  - EN: 'Heh. Funny you should ask that.'
+  - เดิม: 'ฮึ่ม พูดได้น่าสนใจดีนะครับ'
+  - ใหม่: 'ฮะๆ ถามได้ตรงจุดเลยนะครับ'
+- `P1101-0029` [N] 
+  - EN: 'The key point is,\nwe expect this to be a long-term partnership.'
+  - เดิม: 'ประเด็นสำคัญคือครับ\nเราคาดหวังให้นี่เป็น ความร่วมมือระยะยาว'
+  - ใหม่: 'ประเด็นสำคัญคือ\nเราคาดหวังให้นี่เป็น ความร่วมมือระยะยาวครับ'
+- `P1101-0039` [M] 
+  - EN: "Excuse me if this is presumptuous...\nBut considering the amount I'm offering...\n"
+  - เดิม: 'ขออภัยถ้าเรื่องนี้จะทะลึ่งไปหน่อย...\nแต่เมื่อพิจารณาจากจำนวนเงินที่ เสนอกันอยู่นี้...\n'
+  - ใหม่: 'ขออภัยหากเสียมารยาทไปหน่อย...\nแต่เมื่อพิจารณาจากจำนวนเงินที่ เสนอกันอยู่นี้...\n'
+- `P1101-0056` [N] 
+  - EN: 'And afterward, dispose of the bodies.'
+  - เดิม: 'แล้วก็ให้กูจัดการทำลายศพทิ้ง ด้วยสิท่า'
+  - ใหม่: 'แล้วก็ให้กูจัดการทำลายศพทิ้ง ด้วยสินะ'
+- `P1101-0076` [N] 
+  - EN: 'Let that sink in.'
+  - เดิม: 'ลองซึมซับเรื่องนี้ดูให้ดี'
+  - ใหม่: 'ลองเก็บไปคิดให้ดีครับ'
+- `P1101-0268` [N] 
+  - EN: 'Or am I gonna get booked?'
+  - เดิม: 'หรือว่าผมกำลังจะโดนจับเข้าคุกกันแน่?'
+  - ใหม่: 'หรือผมกำลังจะโดนแจ้งข้อหา?'
+- `P1101-0428` [M] 
+  - EN: "Back it up, you were investigating these murders\nway before that happened, weren't you?"
+  - เดิม: 'เดี๋ยวก่อน มึงสืบคดีฆาตกรรมพวกนี้\nมาก่อนที่เรื่องนั้นจะเกิดขึ้นอีกนะ ใช่ไหม?'
+  - ใหม่: 'เดี๋ยวก่อน มึงสืบคดีฆาตกรรมพวกนี้\nมาตั้งนาน ก่อนที่เรื่องนั้นจะเกิดขึ้นนะ ใช่ไหม?'
+- `P1101-0429` [M] 
+  - EN: "Hey, hold up. You were investigatin' the Mole\nway before that happened."
+  - เดิม: 'เฮ้ เดี๋ยวก่อน มึงสืบเรื่องไอ้ตัวตุ่น\nมาก่อนที่เรื่องนั้นจะเกิดขึ้นอีกนี่'
+  - ใหม่: 'เฮ้ เดี๋ยวก่อน มึงสืบเรื่องไอ้ตัวตุ่น\nมาตั้งนาน ก่อนที่เรื่องนั้นจะเกิดขึ้นนี่'
+- `P1101-0435` [M] 
+  - EN: 'Heh, think you struck a nerve.'
+  - เดิม: 'ฮึ ดูเหมือนมึงจะโดนใจเข้าให้แล้วนะ'
+  - ใหม่: 'ฮึ ดูเหมือนมึงจะจี้ใจดำเข้าให้แล้วนะ'
+- `P1101-0436` [M] 
+  - EN: 'Think you struck a nerve.'
+  - เดิม: 'ดูเหมือนมึงจะโดนใจเข้าให้แล้ว'
+  - ใหม่: 'ดูเหมือนมึงจะจี้ใจดำเข้าให้แล้ว'
+- `P1101-0505` [N] 
+  - EN: "Do you mind? I'm kinda in the middle\nof something here."
+  - เดิม: 'ขอโทษนะ ผมกำลังทำอะไร\nค้างอยู่ตรงนี้'
+  - ใหม่: 'ขอหน่อยเถอะ ผมกำลังทำอะไร\nค้างอยู่ตรงนี้'
+- `P1101-0506` [N] 
+  - EN: "Do you mind?\nI'm in the middle of something."
+  - เดิม: 'ขอโทษนะ\nผมกำลังทำอะไรค้างอยู่'
+  - ใหม่: 'ขอหน่อยเถอะ\nผมกำลังทำอะไรค้างอยู่'
+- `P1101-0520` [N] 
+  - EN: 'Yup. And he was trained by one\nof the best in the business.'
+  - เดิม: 'ใช่ แล้วมันก็ถูกฝึกมาโดย\nหนึ่งในมือดีที่สุดของวงการ'
+  - ใหม่: 'ใช่ แล้วมันก็ได้หนึ่งในมือดีที่สุด\nของวงการเป็นคนฝึกให้'
+- `P1101-0521` [N] 
+  - EN: 'Yup. A good one. Trained by\none of the best in the business.'
+  - เดิม: 'ใช่ มือดีเลยละ ถูกฝึกมาโดย\nหนึ่งในมือดีที่สุดของวงการ'
+  - ใหม่: 'ใช่ เก่งเลยละ ได้หนึ่งในมือดีที่สุด\nของวงการเป็นคนฝึกให้'
+- `P1101-0529` [N] 
+  - EN: "Before long, we'd formed a nice little partnership\nand made a name for ourselves."
+  - เดิม: 'ไม่นานพวกกูก็จับมือกันได้เนียน ๆ\nแล้วก็สร้างชื่อให้ตัวเองขึ้นมา'
+  - ใหม่: 'ไม่นานพวกกูก็ร่วมมือกันลงตัว\nแล้วก็สร้างชื่อให้ตัวเองขึ้นมา'
+- `P1101-0544` [M] 
+  - EN: "But the dangerous shit's\nwhat really brings in the cash."
+  - เดิม: 'แต่ของอันตรายพวกนี้แหละ\nที่ทำเงินได้จริง ๆ'
+  - ใหม่: 'แต่งานอันตรายพวกนี้แหละ\nที่ทำเงินได้จริง ๆ'
+- `P1101-0545` [M] 
+  - EN: 'But... that dangerous shit\nbrings in the real cash.'
+  - เดิม: 'แต่...ของอันตรายพวกนั้นแหละ\nที่ทำเงินได้จริง ๆ'
+  - ใหม่: 'แต่...งานอันตรายพวกนั้นแหละ\nที่ทำเงินได้จริง ๆ'
+- `P1101-0580` [M] 
+  - EN: 'Pretty much... so he did.\nIshimatsu took a real shine to us after that.'
+  - เดิม: 'ก็ประมาณนั้น...มันเลยตายแบบนั้นจริง\nหลังจากนั้นอิชิมัตสึก็ถูกใจพวกกูมาก'
+  - ใหม่: 'ก็ประมาณนั้น...แล้วมันก็ตายจริง ๆ\nหลังจากนั้นอิชิมัตสึก็ถูกใจพวกกูมาก'
+- `P1101-0590` [M] 
+  - EN: "Comin' right up!"
+  - เดิม: 'มาเดี๋ยวนี้เลย!'
+  - ใหม่: 'เดี๋ยวจัดให้เลย!'
+- `P1101-0632` [N] 
+  - EN: 'There are tons of parties involved.\nAll being promised this much cash or that favor.'
+  - เดิม: 'มีหลายฝ่ายเกี่ยวข้องเพียบเลย\nต่างก็ได้รับสัญญาเงินก้อนโต หรือไม่ก็สิทธิพิเศษ'
+  - ใหม่: 'มีหลายฝ่ายเกี่ยวข้องเพียบเลย\nต่างก็ได้รับคำมั่นว่าจะได้เงินก้อนโต หรือไม่ก็สิทธิพิเศษ'
+- `P1101-0633` [N] 
+  - EN: "Ichinose's not the only one profiting.\nOthers are being promised big cash, favors..."
+  - เดิม: 'อิจิโนเสะไม่ใช่คนเดียวที่ได้ ผลประโยชน์\nคนอื่นก็ได้รับสัญญาเงินก้อนโต สิทธิพิเศษ...'
+  - ใหม่: 'อิจิโนเสะไม่ใช่คนเดียวที่ได้ ผลประโยชน์\nคนอื่นก็ได้รับคำมั่นเรื่องเงินก้อนโต สิทธิพิเศษ...'
+- `P1101-0672` [T] 
+  - EN: "Tsk... Haven't I told you\neverything already?"
+  - เดิม: 'จุ๊ๆ... กูบอกพวกมึง\nไปหมดแล้วไม่ใช่เหรอ?'
+  - ใหม่: 'ชิ... กูบอกพวกมึง\nไปหมดแล้วไม่ใช่เหรอ?'
+- `P1101-0919` [N] 
+  - EN: "It's quite embarrassing. I'm afraid I cannot\nallow this farce to continue."
+  - เดิม: 'มันน่าอับอายอยู่ไม่น้อย ผมคง\nปล่อยให้เรื่องตลกนี้ ดำเนินต่อไปไม่ได้'
+  - ใหม่: 'มันน่าอับอายอยู่ไม่น้อย ผมคง\nปล่อยให้เรื่องน่าขันนี้ ดำเนินต่อไปไม่ได้'
+- `P1101-0935` [N] 
+  - EN: 'You guys are the farce...'
+  - เดิม: 'พวกคุณต่างหากที่เป็นเรื่องตลก...'
+  - ใหม่: 'พวกคุณต่างหากที่น่าขัน...'
+- `P1101-0981` [V] 
+  - EN: "You do that. G'night."
+  - เดิม: 'ไปเถอะ ราตรีสวัสดิ์'
+  - ใหม่: 'ไปเถอะ ฝันดีนะ'
+- `P1101-0982` [V] 
+  - EN: 'You do that. Night.'
+  - เดิม: 'ไปเถอะ ราตรีสวัสดิ์'
+  - ใหม่: 'ไปเถอะ ฝันดีนะ'
+- `P1101-0985` [V] 
+  - EN: "The Mole's claimed another victim.\nAnother Kyorei Clan yakuza."
+  - เดิม: 'ไอ้ตัวตุ่นเก็บเหยื่อไปอีกรายแล้วค่ะ\nยากูซ่าตระกูลเคียวเรอิอีกคนหนึ่ง'
+  - ใหม่: 'ไอ้ตัวตุ่นมีเหยื่อรายใหม่อีกแล้วค่ะ\nยากูซ่าตระกูลเคียวเรอิอีกคนหนึ่ง'
+- `P1101-1022` [P] 
+  - EN: 'Heh. You might as well let\nthis Mole shit go.'
+  - เดิม: 'เฮอะ มึงเลิกยุ่งเรื่องไอ้ตัวตุ่น\nบ้าๆ นี่เถอะน่า'
+  - ใหม่: 'เฮอะ นายเลิกยุ่งเรื่องไอ้ตัวตุ่น\nบ้าๆ นี่เถอะน่า'
+
+## ทุกรายการ
+- findings_00.json `P1101-0138` [P] รับ (high)
+- findings_00.json `P1101-0167` [N] รับ (high)
+- findings_00.json `P1101-0317` [M] รับ (high)
+- findings_00.json `P1101-0528` [N] รับ (high)
+- findings_00.json `P1101-0617` [M] รับ (high)
+- findings_00.json `P1101-0695` [N] รับ (high)
+- findings_00.json `P1101-0918` [N] รับ (high)
+- findings_01.part1.json `P1101-0002` [S] รับ (high)
+- findings_01.part1.json `P1101-0003` [N] รับ (high)
+- findings_01.part1.json `P1101-0031` [M] รับ (mid)
+- findings_01.part1.json `P1101-0089` [S] รับ (high)
+- findings_01.part1.json `P1101-0092` [S] รับ (high)
+- findings_01.part1.json `P1101-0112` [C] รับ (mid)
+- findings_01.part1.json `P1101-0116` [S] รับ (high)
+- findings_01.part1.json `P1101-0118` [M] รับ (mid)
+- findings_01.part1.json `P1101-0129` [P] รับ (mid)
+- findings_01.part1.json `P1101-0130` [P] รับ (high)
+- findings_01.part1.json `P1101-0148` [P] รับ (high)
+- findings_01.part1.json `P1101-0149` [P] รับ (high)
+- findings_01.part2.json `P1101-0138` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part2.json `P1101-0142` [P] lead ปฏิเสธ
+- findings_01.part2.json `P1101-0143` [P] lead ปฏิเสธ
+- findings_01.part2.json `P1101-0144` [P] lead ปฏิเสธ
+- findings_01.part2.json `P1101-0145` [P] lead ปฏิเสธ
+- findings_01.part2.json `P1101-0152` [P] รับ (mid)
+- findings_01.part2.json `P1101-0154` [P] รับ (high)
+- findings_01.part2.json `P1101-0155` [P] รับ (high)
+- findings_01.part2.json `P1101-0167` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part2.json `P1101-0185` [M] รับ (high)
+- findings_01.part2.json `P1101-0197` [P] รับ (mid)
+- findings_01.part2.json `P1101-0198` [P] รับ (mid)
+- findings_01.part2.json `P1101-0205` [P] รับ (mid)
+- findings_01.part2.json `P1101-0206` [P] รับ (mid)
+- findings_01.part2.json `P1101-0207` [P] รับ (mid)
+- findings_01.part2.json `P1101-0216` [P] รับ (mid)
+- findings_01.part2.json `P1101-0217` [P] รับ (mid)
+- findings_01.part2.json `P1101-0218` [P] รับ (mid)
+- findings_01.part2.json `P1101-0224` [P] รับ (mid)
+- findings_01.part2.json `P1101-0225` [P] รับ (mid)
+- findings_01.part2.json `P1101-0228` [M] รับ (high)
+- findings_01.part2.json `P1101-0229` [M] ปฏิเสธ: ว่าง
+- findings_01.part2.json `P1101-0265` [S] รับ (high)
+- findings_01.part2.json `P1101-0283` [M] รับ (mid)
+- findings_01.part3.json `P1101-0305` [M] รับ (mid)
+- findings_01.part3.json `P1101-0309` [M] รับ (high)
+- findings_01.part3.json `P1101-0317` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part3.json `P1101-0325` [N] รับ (mid)
+- findings_01.part3.json `P1101-0331` [N] รับ (mid)
+- findings_01.part3.json `P1101-0357` [S] รับ (high)
+- findings_01.part3.json `P1101-0383` [N] รับ (mid)
+- findings_01.part4.json `P1101-0406` [P] รับ (high)
+- findings_01.part4.json `P1101-0403` [M] รับ (high)
+- findings_01.part4.json `P1101-0404` [M] รับ (high)
+- findings_01.part4.json `P1101-0439` [P] รับ (mid)
+- findings_01.part4.json `P1101-0440` [P] ปฏิเสธ: เหมือนเดิม
+- findings_01.part4.json `P1101-0491` [M] รับ (mid)
+- findings_01.part4.json `P1101-0498` [S] รับ (mid)
+- findings_01.part4.json `P1101-0526` [T] lead ปฏิเสธ
+- findings_01.part4.json `P1101-0527` [P] lead ปฏิเสธ
+- findings_01.part4.json `P1101-0528` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part4.json `P1101-0540` [S] รับ (high)
+- findings_01.part4.json `P1101-0552` [S] รับ (mid)
+- findings_01.part4.json `P1101-0564` [N] รับ (high)
+- findings_01.part4.json `P1101-0565` [N] รับ (high)
+- findings_01.part4.json `P1101-0574` [N] รับ (mid)
+- findings_01.part4.json `P1101-0575` [N] รับ (mid)
+- findings_01.part4.json `P1101-0578` [S] รับ (mid)
+- findings_01.part5.json `P1101-0605` [S] รับ (high)
+- findings_01.part5.json `P1101-0608` [M] รับ (high)
+- findings_01.part5.json `P1101-0609` [M] รับ (high)
+- findings_01.part5.json `P1101-0617` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part5.json `P1101-0652` [M] รับ (mid)
+- findings_01.part5.json `P1101-0683` [S] รับ (high)
+- findings_01.part5.json `P1101-0687` [S] รับ (mid)
+- findings_01.part5.json `P1101-0694` [S] รับ (mid)
+- findings_01.part5.json `P1101-0695` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part5.json `P1101-0708` [S] รับ (mid)
+- findings_01.part5.json `P1101-0744` [N] รับ (mid)
+- findings_01.part5.json `P1101-0745` [N] รับ (mid)
+- findings_01.part6.json `P1101-0762` [M] ปฏิเสธ: ช่วงไทย 40 > 36
+- findings_01.part6.json `P1101-0765` [S] รับ (mid)
+- findings_01.part6.json `P1101-0777` [P] รับ (high)
+- findings_01.part6.json `P1101-0809` [M] รับ (mid)
+- findings_01.part6.json `P1101-0811` [S] รับ (mid)
+- findings_01.part6.json `P1101-0817` [M] รับ (high)
+- findings_01.part6.json `P1101-0818` [M] รับ (high)
+- findings_01.part6.json `P1101-0844` [N] รับ (mid)
+- findings_01.part6.json `P1101-0848` [M] รับ (mid)
+- findings_01.part6.json `P1101-0852` [S] รับ (mid)
+- findings_01.part7.json `P1101-0918` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part7.json `P1101-0933` [P] รับ (mid)
+- findings_01.part7.json `P1101-0940` [N] รับ (mid)
+- findings_01.part7.json `P1101-0943` [M] รับ (mid)
+- findings_01.part7.json `P1101-0944` [N] รับ (mid)
+- findings_01.part7.json `P1101-0950` [N] รับ (mid)
+- findings_01.part7.json `P1101-0965` [P] รับ (mid)
+- findings_01.part7.json `P1101-0966` [P] รับ (mid)
+- findings_01.part7.json `P1101-0992` [N] lead ปฏิเสธ
+- findings_01.part7.json `P1101-1022` [P] ปฏิเสธ: ว่าง
+- findings_01.part7.json `P1101-1023` [P] ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง
+- findings_51.part1.json `P1101-0003` [N] รับ (high)
+- findings_51.part1.json `P1101-0017` [V] รับ (mid)
+- findings_51.part1.json `P1101-0021` [M] รับ (mid)
+- findings_51.part1.json `P1101-0029` [N] รับ (high)
+- findings_51.part1.json `P1101-0039` [M] รับ (high)
+- findings_51.part1.json `P1101-0048` [V] ปฏิเสธ: ว่าง
+- findings_51.part1.json `P1101-0056` [N] รับ (mid)
+- findings_51.part1.json `P1101-0076` [N] รับ (mid)
+- findings_51.part1.json `P1101-0092` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part1.json `P1101-0112` [C] รับ (high)
+- findings_51.part1.json `P1101-0116` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part1.json `P1101-0129` [P] รับ (mid)
+- findings_51.part1.json `P1101-0130` [P] รับ (high)
+- findings_51.part1.json `P1101-0138` [P] รับ (mid)
+- findings_51.part1.json `P1101-0148` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part1.json `P1101-0149` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part1.json `P1101-0152` [P] รับ (high)
+- findings_51.part1.json `P1101-0154` [P] รับ (high)
+- findings_51.part1.json `P1101-0155` [P] รับ (high)
+- findings_51.part1.json `P1101-0167` [N] รับ (mid)
+- findings_51.part1.json `P1101-0214` [P] ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง
+- findings_51.part1.json `P1101-0230` [P] ปฏิเสธ: ว่าง
+- findings_51.part1.json `P1101-0268` [N] รับ (mid)
+- findings_51.part1.json `P1101-0283` [M] รับ (mid)
+- findings_51.part1.json `P1101-0305` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part1.json `P1101-0309` [M] รับ (mid)
+- findings_51.part1.json `P1101-0317` [M] รับ (high)
+- findings_51.part1.json `P1101-0325` [N] รับ (mid)
+- findings_51.part1.json `P1101-0331` [N] รับ (mid)
+- findings_51.part1.json `P1101-0383` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part1.json `P1101-0403` [M] รับ (high)
+- findings_51.part1.json `P1101-0404` [M] รับ (high)
+- findings_51.part1.json `P1101-0428` [M] รับ (mid)
+- findings_51.part1.json `P1101-0429` [M] รับ (mid)
+- findings_51.part1.json `P1101-0435` [M] รับ (high)
+- findings_51.part1.json `P1101-0436` [M] รับ (high)
+- findings_51.part2.json `P1101-0505` [N] รับ (mid)
+- findings_51.part2.json `P1101-0506` [N] รับ (mid)
+- findings_51.part2.json `P1101-0520` [N] รับ (mid)
+- findings_51.part2.json `P1101-0521` [N] รับ (mid)
+- findings_51.part2.json `P1101-0528` [N] รับ (mid)
+- findings_51.part2.json `P1101-0529` [N] รับ (mid)
+- findings_51.part2.json `P1101-0544` [M] รับ (mid)
+- findings_51.part2.json `P1101-0545` [M] รับ (mid)
+- findings_51.part2.json `P1101-0574` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part2.json `P1101-0575` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part2.json `P1101-0580` [M] รับ (mid)
+- findings_51.part2.json `P1101-0590` [M] รับ (mid)
+- findings_51.part2.json `P1101-0608` [M] รับ (high)
+- findings_51.part2.json `P1101-0609` [M] รับ (high)
+- findings_51.part2.json `P1101-0617` [M] รับ (mid)
+- findings_51.part2.json `P1101-0632` [N] รับ (mid)
+- findings_51.part2.json `P1101-0633` [N] รับ (mid)
+- findings_51.part2.json `P1101-0672` [T] รับ (mid)
+- findings_51.part2.json `P1101-0695` [N] รับ (mid)
+- findings_51.part3.json `P1101-0809` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part3.json `P1101-0848` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part3.json `P1101-0918` [N] รับ (mid)
+- findings_51.part3.json `P1101-0919` [N] รับ (mid)
+- findings_51.part3.json `P1101-0935` [N] รับ (mid)
+- findings_51.part3.json `P1101-0943` [N] รับ (mid)
+- findings_51.part3.json `P1101-0944` [N] รับ (high)
+- findings_51.part3.json `P1101-0950` [N] รับ (high)
+- findings_51.part3.json `P1101-0965` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part3.json `P1101-0966` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.part3.json `P1101-0981` [V] รับ (mid)
+- findings_51.part3.json `P1101-0982` [V] รับ (mid)
+- findings_51.part3.json `P1101-0985` [V] รับ (mid)
+- findings_51.part3.json `P1101-0992` [N] lead ปฏิเสธ
+- findings_51.part3.json `P1101-1022` [P] รับ (high)
+- findings_51.part3.json `P1101-1023` [P] ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง
+- findings_51.part3.json `P1101-1024` [P] ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง
+- findings_51.part3.json `P1101-1025` [P] ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง

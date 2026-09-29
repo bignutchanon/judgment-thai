@@ -1,0 +1,660 @@
+[
+ {
+  "id": "P0902-0452",
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "อุทานสั้น ไม่มีเบาะแส"
+ },
+ {
+  "id": "P0902-0453",
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "อุทานสั้น ไม่มีเบาะแส"
+ },
+ {
+  "id": "P0902-0455",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบซุกิอุระ จุดสูบบุหรี่ของตัวเอง"
+ },
+ {
+  "id": "P0902-0456",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบซุกิอุระ จุดสูบบุหรี่ของตัวเอง"
+ },
+ {
+  "id": "P0902-0459",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องต่อรอง เรียกนาย"
+ },
+ {
+  "id": "P0902-0460",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องต่อรอง เรียกนาย"
+ },
+ {
+  "id": "P0902-0461",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องต่อรอง เรียกนาย"
+ },
+ {
+  "id": "P0902-0462",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามยากามิเรื่องต่อรอง เรียกนาย"
+ },
+ {
+  "id": "P0902-0465",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0466",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0467",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0468",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0469",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0470",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0471",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0472",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0473",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0474",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "high",
+  "why": "ไคโตะเสนอทฤษฎี สำนวน Speakin'"
+ },
+ {
+  "id": "P0902-0476",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของเห็นด้วย"
+ },
+ {
+  "id": "P0902-0477",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายตำรวจสรุปว่าโอคุโบะผิด"
+ },
+ {
+  "id": "P0902-0478",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายตำรวจสรุปว่าโอคุโบะผิด"
+ },
+ {
+  "id": "P0902-0479",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายตำรวจสรุปว่าโอคุโบะผิด"
+ },
+ {
+  "id": "P0902-0480",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิอธิบายตำรวจสรุปว่าโอคุโบะผิด"
+ },
+ {
+  "id": "P0902-0481",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0482",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0483",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0484",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0485",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0486",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0487",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0488",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0489",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0490",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0491",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0492",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0493",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0494",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0495",
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ไคโตะสงสัยโชโนะ ฉัน นาย"
+ },
+ {
+  "id": "P0902-0498",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง"
+ },
+ {
+  "id": "P0902-0499",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง"
+ },
+ {
+  "id": "P0902-0500",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง"
+ },
+ {
+  "id": "P0902-0501",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง"
+ },
+ {
+  "id": "P0902-0502",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิว่าไม่มีเวลาต่อรอง"
+ },
+ {
+  "id": "P0902-0503",
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่านั่นอะไร ไม่มีเบาะแส"
+ },
+ {
+  "id": "P0902-0504",
+  "speaker": "?",
+  "gender": "male",
+  "conf": "low",
+  "why": "ถามว่านั่นอะไร ไม่มีเบาะแส"
+ },
+ {
+  "id": "P0902-0505",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ"
+ },
+ {
+  "id": "P0902-0506",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ"
+ },
+ {
+  "id": "P0902-0507",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ"
+ },
+ {
+  "id": "P0902-0508",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ"
+ },
+ {
+  "id": "P0902-0509",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ"
+ },
+ {
+  "id": "P0902-0510",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิตอบไคโตะเรื่องตำรวจ"
+ },
+ {
+  "id": "P0902-0511",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0512",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0513",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0514",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0515",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0516",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0517",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0518",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0519",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0520",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0521",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0522",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0523",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0524",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0525",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0526",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0527",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0528",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0529",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิรับทฤษฎีไคโตะ เรื่องเอมิ"
+ },
+ {
+  "id": "P0902-0531",
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะไล่ผู้บุกรุก"
+ },
+ {
+  "id": "P0902-0532",
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะไล่ผู้บุกรุก"
+ },
+ {
+  "id": "P0902-0533",
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "med",
+  "why": "โชโนะไล่ผู้บุกรุก"
+ },
+ {
+  "id": "P0902-0535",
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0536",
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0537",
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0538",
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0539",
+  "speaker": "Shono",
+  "gender": "male",
+  "conf": "high",
+  "why": "โชโนะแก้ต่างตกใจถามไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0544",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0545",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0546",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0547",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0548",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0549",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0550",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0551",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0552",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0553",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0554",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0555",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0556",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0557",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0558",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ },
+ {
+  "id": "P0902-0559",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ยากามิซักโชโนะเรื่องวาคุ ไอ้ตัวตุ่น"
+ }
+]

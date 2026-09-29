@@ -1,0 +1,625 @@
+# Sweep apply report
+
+รับ 108 จุด · ซ้ำ 33 · ปฏิเสธ ว่าง 8 · ปฏิเสธ สั้นผิดปกติ 1 · รับ M 13 · รับ N 34 · รับ P 25 · รับ R 1 · รับ S 64 · รับ T 1 · รับ V 3 · ไทยเปลี่ยนแล้ว 3
+
+## รับแล้ว
+- `P1001-0084` [P] 
+  - EN: 'Surprised you decided to stick around.\nNot gonna try and run?'
+  - เดิม: 'แปลกใจนะที่มึงยังอยู่ตรงนี้\nไม่คิดจะหนีเลยเหรอ?'
+  - ใหม่: 'แปลกใจนะที่นายยังอยู่ตรงนี้\nไม่คิดจะหนีเหรอ?'
+- `P1001-0111` [P] 
+  - EN: "I'm gonna make this painful!"
+  - เดิม: 'กูจะทำให้มึงเจ็บปวดที่สุด!'
+  - ใหม่: 'ผมจะทำให้นายเจ็บปวดที่สุด!'
+- `P1001-0197` [S] 
+  - EN: "I'm gonna follow Higashi.\nBetter to split up than all sit around in one place."
+  - เดิม: 'ผมจะตามฮิงาชิไปดู\nแยกกันไปดีกว่านั่งเบียดกันอยู่ ที่เดียวเฉย ๆ'
+  - ใหม่: 'ผมจะตามฮิงาชิไปดู\nแยกกันไปดีกว่า นั่งเบียดกันอยู่ที่เดียวเฉย ๆ'
+- `P1001-0247` [S] 
+  - EN: "And once we capture 'em,\nwe can force 'em to tell us where Hamura is."
+  - เดิม: 'แล้วพอจับตัวมันได้\nเราก็บีบให้มันปากโป้งบอก ที่อยู่ฮามุระได้'
+  - ใหม่: 'แล้วพอจับตัวมันได้\nเราก็บีบให้มันบอกที่อยู่ฮามุระได้'
+- `P1001-0249` [N] 
+  - EN: 'Then what, you wanna just sit in the car\nwith Sugiura in the non-smoking section?'
+  - เดิม: 'แล้วไง นายอยากไปนั่งอยู่ในรถ\nโซนปลอดบุหรี่ของซุกิอุระแทนงั้นเหรอ?'
+  - ใหม่: 'แล้วไง นายอยากไปนั่งในรถ\nปลอดบุหรี่กับซุกิอุระแทนเหรอ?'
+- `P1001-0274` [S] 
+  - EN: "How're you so confident?\nThey might kill us before we get a chance to fight."
+  - เดิม: 'นายมั่นใจได้ยังไง?\nพวกมันอาจฆ่าเราก่อนที่เราจะได้ สู้ด้วยซ้ำ'
+  - ใหม่: 'นายมั่นใจได้ยังไง?\nพวกมันอาจฆ่าเราก่อน ที่เราจะได้สู้ด้วยซ้ำ'
+- `P1001-0400` [M] 
+  - EN: 'My question first.\nWhy are you threatening this civilian?'
+  - เดิม: 'ขอถามผมก่อน\nทำไมถึงข่มขู่ประชาชนคนนี้'
+  - ใหม่: 'ผมขอถามก่อน\nทำไมถึงข่มขู่ประชาชนคนนี้'
+- `P1001-0432` [S] 
+  - EN: 'Meaning the guy puffing away\nover there is probably an employee.'
+  - เดิม: 'หมายความว่าผู้ชายที่กำลังพ่น ควันบุหรี่\nอยู่ตรงนั้นน่าจะเป็นพนักงานร้าน'
+  - ใหม่: 'หมายความว่า ผู้ชายที่กำลังพ่นควันบุหรี่\nอยู่ตรงนั้นน่าจะเป็นพนักงานร้าน'
+- `P1001-0433` [S] 
+  - EN: 'Meaning the guy puffing away over there\nis probably an employee.'
+  - เดิม: 'หมายความว่าผู้ชายที่พ่น ควันบุหรี่อยู่ตรงนั้น\nน่าจะเป็นพนักงานร้าน'
+  - ใหม่: 'หมายความว่า ผู้ชายที่พ่นควันบุหรี่อยู่ตรงนั้น\nน่าจะเป็นพนักงานร้าน'
+- `P1001-0653` [S] 
+  - EN: "And you must be Patriarch Matsugane?\nIt's a pleasure to meet you."
+  - เดิม: 'แล้วคุณก็คือท่าน หัวหน้าตระกูลมัตสึกาเนะสินะ?\nยินดีที่ได้รู้จักครับ'
+  - ใหม่: 'แล้วท่านก็คือ หัวหน้าตระกูลมัตสึกาเนะสินะ?\nยินดีที่ได้รู้จักครับ'
+- `P1001-0654` [S] 
+  - EN: "And you must be Patriarch Matsugane?\nIt's a real pleasure."
+  - เดิม: 'แล้วคุณก็คือท่าน หัวหน้าตระกูลมัตสึกาเนะสินะ?\nยินดีที่ได้รู้จักจริง ๆ ครับ'
+  - ใหม่: 'แล้วท่านก็คือ หัวหน้าตระกูลมัตสึกาเนะสินะ?\nยินดีที่ได้รู้จักจริง ๆ ครับ'
+- `P1001-0680` [S] 
+  - EN: "(It's locked. It would be hard to try and pick the lock with no lights.)"
+  - เดิม: '(มันล็อกอยู่ คงยากที่จะงัดกุญแจตอนไม่มีไฟ ส่องแบบนี้)'
+  - ใหม่: '(มันล็อกอยู่ คงยากที่จะงัดกุญแจ ตอนไม่มีไฟส่องแบบนี้)'
+- `P1001-0691` [S] 
+  - EN: "So Hamura's not below pointing a gun even at Matsugane-san, huh? And Kaito is injured, too. I'm coming for you, Hamura!"
+  - เดิม: 'งั้นฮามุระไม่ลังเลที่จะเอาปืน จ่อมัตสึกาเนะซังด้วยสินะ แล้วไคโตะก็บาดเจ็บด้วย ผมจะไปหานายแล้ว ฮามุระ!'
+  - ใหม่: 'ฮามุระถึงขั้นเอาปืนจ่อ มัตสึกาเนะซังเลยสินะ แล้วไคโตะก็ยังบาดเจ็บอีก ผมจะไปหานายแล้ว ฮามุระ!'
+- `P1001-0697` [M] 
+  - EN: 'Hamura must be on my tail by now. Maybe if I give him a nice, secluded area like the Champion District...'
+  - เดิม: 'ป่านนี้ฮามุระคงตามผมมาติด ๆ แล้ว ถ้าผมล่อเขาไปที่เงียบสงบอย่าง ย่านแชมเปี้ยนดูล่ะ...'
+  - ใหม่: 'ป่านนี้ฮามุระคงตามผมมาติด ๆ แล้ว ถ้าผมล่อเขาไปที่เปลี่ยว ๆ อย่างย่านแชมเปี้ยนดูล่ะ...'
+- `P1001-0110` [P] 
+  - EN: "I'm going to fucking kill you!"
+  - เดิม: 'กูจะฆ่ามึงให้ตายห่าเลย!'
+  - ใหม่: 'ผมจะฆ่านายให้ตายห่าเลย!'
+- `P1001-0018` [N] 
+  - EN: 'Kaito-san!?'
+  - เดิม: 'ไคโตะซังงั้นเหรอ!?'
+  - ใหม่: 'ไคโตะซังเหรอ!?'
+- `P1001-0009` [P] 
+  - EN: 'Like I can feel someone watching me.'
+  - เดิม: 'เหมือนมีใครจ้องมองฉันอยู่'
+  - ใหม่: 'เหมือนมีใครจ้องมองผมอยู่'
+- `P1001-0010` [P] 
+  - EN: "I think I'm being watched."
+  - เดิม: 'ฉันว่าฉันโดนจับตาดูอยู่นะ'
+  - ใหม่: 'ผมว่าผมโดนจับตาดูอยู่นะ'
+- `P1001-0045` [M] 
+  - EN: "You just couldn't mind\nyour own business, could you. "
+  - เดิม: 'มึงมันเสือกเรื่องชาวบ้าน\nไม่เป็นจริงๆ ว่ะ'
+  - ใหม่: 'มึงมันอดเสือก\nเรื่องชาวบ้านไม่ได้จริงๆ ว่ะ'
+- `P1001-0085` [P] 
+  - EN: "You're still here, huh?\nThe getaway car leave without you?"
+  - เดิม: 'มึงยังอยู่ตรงนี้อีกเหรอ?\nรถหนีทิ้งมึงไปแล้วหรือไง?'
+  - ใหม่: 'ยังอยู่ตรงนี้อีกเหรอ?\nรถหนีทิ้งไปแล้วหรือไง?'
+- `P1001-0094` [P] 
+  - EN: 'Hey, he sounds worried.'
+  - เดิม: 'เฮ้ ฟังดูมันเป็นห่วงนายจังเลยนะ'
+  - ใหม่: 'เฮ้ ฟังดูมันเป็นห่วงมึงจังเลยนะ'
+- `P1001-0095` [P] 
+  - EN: 'Hey. You hearing this?'
+  - เดิม: 'เฮ้ นายได้ยินป่าววะ?'
+  - ใหม่: 'เฮ้ มึงได้ยินมั้ยวะ?'
+- `P1001-0098` [P] 
+  - EN: 'You asked for it.'
+  - เดิม: 'แกหาเรื่องเองนะ'
+  - ใหม่: 'มึงหาเรื่องเองนะ'
+- `P1001-0129` [S] 
+  - EN: "He thinks the Mole might target him,\nso he doesn't want to get us involved."
+  - เดิม: 'เขาคิดว่าไอ้ตัวตุ่นอาจจะเล็ง เป้ามาที่เขา\nเลยไม่อยากดึงพวกเราเข้าไป เกี่ยวข้องด้วย'
+  - ใหม่: 'เขาคิดว่าไอ้ตัวตุ่นอาจจะ เล็งเป้ามาที่เขา\nเลยไม่อยากดึงพวกเรา เข้าไปเกี่ยวข้องด้วย'
+- `P1001-0135` [S] 
+  - EN: 'Ayabe-san and Okubo-kun got wrapped up in this...\nbut he can prove both of them innocent.'
+  - เดิม: 'อายาเบะซังกับโอคุโบะคุงเข้าไป พัวพันกับเรื่องนี้...\nแต่เขาพิสูจน์ความบริสุทธิ์ของ ทั้งคู่ได้'
+  - ใหม่: 'อายาเบะซังกับโอคุโบะคุง เข้าไปพัวพันกับเรื่องนี้...\nแต่เขาพิสูจน์ความบริสุทธิ์ ของทั้งคู่ได้'
+- `P1001-0142` [S] 
+  - EN: "Everyone'd be on edge with him in the house.\nNo chance of small talk."
+  - เดิม: 'ถ้ามันอยู่ในบ้านนั้นทุกคนต้อง เกร็งกันหมด\nไม่มีทางคุยเล่นกันหรอก'
+  - ใหม่: 'ถ้ามันอยู่ในบ้านนั้น ทุกคนต้องเกร็งกันหมด\nไม่มีทางคุยเล่นกันหรอก'
+- `P1001-0152` [S] 
+  - EN: "The bugs in the Matsugane office are still working,\njust like I said they'd be."
+  - เดิม: 'เครื่องดักฟังในสำนักงาน มัตสึกาเนะยังทำงานอยู่\nเหมือนที่ฉันบอกไว้เป๊ะเลย'
+  - ใหม่: 'เครื่องดักฟังในสำนักงานมัตสึกาเนะ ยังทำงานอยู่\nเหมือนที่ฉันบอกไว้เป๊ะเลย'
+- `P1001-0161` [T] 
+  - EN: "Can you at least put that shit out?\nYou're stinking up the whole van."
+  - เดิม: 'ดับไอ้นั่นทีได้ไหม?\nนายทำวินทั้งคันเหม็นไปหมดแล้ว'
+  - ใหม่: 'ดับไอ้นั่นทีได้ไหม?\nนายทำรถตู้ทั้งคันเหม็นไปหมดแล้ว'
+- `P1001-0208` [S] 
+  - EN: "You really think he's gonna listen to us?\nHaven't talked to him since our fight at that restaurant."
+  - เดิม: 'นายคิดว่ามันจะยอมฟังเราจริง ๆ เหรอ?\nไม่ได้คุยกับมันเลยตั้งแต่ตี กันที่ร้านอาหารนั่น'
+  - ใหม่: 'นายคิดว่ามันจะยอมฟังเราจริง ๆ เหรอ?\nไม่ได้คุยกับมันเลยตั้งแต่ตีกัน ที่ร้านอาหารนั่น'
+- `P1001-0235` [S] 
+  - EN: "But if I were you, I'd consider\ngetting outta town. Real fast."
+  - เดิม: 'แต่ถ้าเป็นผมนะ ผมคง\nพิจารณาหนีออกจากเมืองนี้ให้ เร็วที่สุด'
+  - ใหม่: 'แต่ถ้าเป็นผมนะ ผมคง\nคิดหนีออกจากเมืองนี้ให้เร็วที่สุด'
+- `P1001-0295` [P] 
+  - EN: 'Hey, I got this.'
+  - เดิม: 'เฮ้ ผมจัดการได้อยู่แล้ว'
+  - ใหม่: 'เฮ้ ฉันจัดการเองได้'
+- `P1001-0296` [S] 
+  - EN: "We don't know what's gonna happen next, though.\nYou might wanna grab a bite while you still can."
+  - เดิม: 'แต่เราก็ไม่รู้หรอกว่าต่อไปจะเป็นไง\nนายน่าจะรีบหาอะไรกินไว้ตอนที่ ยังทำได้'
+  - ใหม่: 'แต่เราก็ไม่รู้หรอกว่าต่อไปจะเป็นไง\nนายน่าจะรีบหาอะไรกินไว้ ตอนที่ยังทำได้'
+- `P1001-0301` [S] 
+  - EN: "Those scrubs ain't Matsugane guys."
+  - เดิม: 'ไอ้พวกกากนั่นไม่ใช่คนของ มัตสึกาเนะหรอก'
+  - ใหม่: 'ไอ้พวกกากนั่น ไม่ใช่คนของมัตสึกาเนะหรอก'
+- `P1001-0305` [S] 
+  - EN: "These dicks got nothin' on you, Tak."
+  - เดิม: 'ไอ้พวกงี่เง่านี่ไม่มีทางสู้นาย ได้หรอก ทาคุ'
+  - ใหม่: 'ไอ้พวกงี่เง่านี่ ไม่มีทางสู้นายได้หรอก ทาคุ'
+- `P1001-0337` [S] 
+  - EN: "Those Matsugane assholes ain't biting.\nYou might wanna try lookin' even weaker."
+  - เดิม: 'ไอ้พวกมัตสึกาเนะนั่นไม่ยอมกิน เหยื่อเลยว่ะ\nนายลองทำตัวอ่อนแอกว่านี้อีกหน่อยดิ'
+  - ใหม่: 'ไอ้พวกมัตสึกาเนะนั่น ไม่ยอมกินเหยื่อเลยว่ะ\nนายลองทำตัวอ่อนแอกว่านี้อีกหน่อยดิ'
+- `P1001-0349` [S] 
+  - EN: "You're supposed to be luring out Hamura's goons, right?\nNot chatting up the locals!"
+  - เดิม: 'นายมีหน้าที่ล่อพวกลูกน้อง ฮามุระออกมาไม่ใช่เหรอ\nไม่ใช่มานั่งจีบชาวบ้านนะ!'
+  - ใหม่: 'นายมีหน้าที่ล่อพวกลูกน้องฮามุระออกมา ไม่ใช่เหรอ\nไม่ใช่มานั่งจีบชาวบ้านนะ!'
+- `P1001-0350` [P] 
+  - EN: "Guess I did, huh? I'm sick of waiting, though!\nHow 'bout we just go bust into the Matsugane office?"
+  - เดิม: 'ก็จริงนะ แต่ฉันเบื่อรอแล้วว่ะ!\nไปบุกสำนักงานตระกูลมัตสึกาเนะ เลยดีมั้ย?'
+  - ใหม่: 'ก็จริงนะ แต่ผมเบื่อรอแล้ว!\nไปบุกสำนักงานตระกูลมัตสึกาเนะ เลยดีมั้ย?'
+- `P1001-0351` [P] 
+  - EN: "Yeah... I'm just sick of waitin', though!\nHow 'bout we just go bust into the Matsugane office?"
+  - เดิม: 'เออ... แต่ฉันเบื่อรอแล้วว่ะ!\nไปบุกสำนักงานตระกูลมัตสึกาเนะ เลยดีมั้ย?'
+  - ใหม่: 'เออ... แต่ผมเบื่อรอแล้ว!\nไปบุกสำนักงานตระกูลมัตสึกาเนะ เลยดีมั้ย?'
+- `P1001-0404` [N] 
+  - EN: "Ohhh, that must be why you're bottom\nof the ladder. It all makes sense now."
+  - เดิม: 'อ๋อ นั่นสินะ ทำไมถึงรั้งท้าย\nสุดในกลุ่ม เข้าใจแล้ว'
+  - ใหม่: 'อ๋อ นั่นสินะ ทำไมถึงอยู่ล่างสุด\nของแก๊ง เข้าใจแล้ว'
+- `P1001-0405` [N] 
+  - EN: "Ohhh, that must be why you're\nbottom of the ladder. I get it now."
+  - เดิม: 'อ๋อ นั่นสินะทำไมถึงรั้งท้าย\nสุดในแก๊ง เข้าใจล่ะ'
+  - ใหม่: 'อ๋อ นั่นสินะ ทำไมถึงอยู่ล่างสุด\nของแก๊ง เข้าใจล่ะ'
+- `P1001-0411` [S] 
+  - EN: 'Fantastic Romance on West Shichifuku, and...\nOh, Sweet Billow on East Shichifuku.'
+  - เดิม: 'แฟนตาสติกโรแมนซ์ที่ถนนชิจิฟุกุ ฝั่งตะวันตก แล้วก็...\nอ้อ สวีทบิลโลว์ที่ถนนชิจิฟุกุฝั่ง ตะวันออกด้วย'
+  - ใหม่: 'แฟนตาสติกโรแมนซ์ที่ถนนชิจิฟุกุ ฝั่งตะวันตก แล้วก็...\nอ้อ สวีทบิลโลว์ที่ถนนชิจิฟุกุ ฝั่งตะวันออกด้วย'
+- `P1001-0412` [S] 
+  - EN: 'Fantastic Romance on West Shichifuku,\nand... Sweet Billow on East Shichifuku.'
+  - เดิม: 'แฟนตาสติกโรแมนซ์ที่ถนนชิจิฟุกุ ฝั่งตะวันตก\nแล้วก็...สวีทบิลโลว์ที่ถนนชิจิฟุกุฝั่ง ตะวันออก'
+  - ใหม่: 'แฟนตาสติกโรแมนซ์ที่ถนนชิจิฟุกุ ฝั่งตะวันตก\nแล้วก็...สวีทบิลโลว์ที่ถนนชิจิฟุกุ ฝั่งตะวันออก'
+- `P1001-0414` [P] 
+  - EN: 'Go tell your precious Captain Hamura\nthat Yagami was here. Got that?'
+  - เดิม: 'ไปบอกกัปตันฮามุระสุดที่รักของนาย\nว่ายากามิมาที่นี่ เข้าใจมั้ย'
+  - ใหม่: 'ไปบอกกัปตันฮามุระสุดที่รักของคุณ\nว่ายากามิมาที่นี่ เข้าใจมั้ย'
+- `P1001-0444` [S] 
+  - EN: "How 'bout stopping in for a round, pal?\nWe got the finest girls to satisfy any kink!"
+  - เดิม: 'แวะมาสักรอบมั้ยพวก\nเรามีสาวเด็ดพร้อมเสิร์ฟทุก รสนิยมเลยนะ!'
+  - ใหม่: 'แวะมาสักรอบมั้ยพวก\nเรามีสาวเด็ดพร้อมเสิร์ฟ ทุกรสนิยมเลยนะ!'
+- `P1001-0448` [M] 
+  - EN: "Huh? What're you... I, uh...\nI don't want any trouble, man."
+  - เดิม: 'หา? คุณมัน... เอ่อ...\nผมไม่อยากมีเรื่องนะพวก'
+  - ใหม่: 'หา? นี่คุณ... เอ่อ...\nผมไม่อยากมีเรื่องนะพวก'
+- `P1001-0458` [N] 
+  - EN: 'Just do it, okay? I gotta go.'
+  - เดิม: 'ทำไปก็พอ โอเคนะ ผมต้องไปแล้ว'
+  - ใหม่: 'บอกไปก็พอ โอเคนะ ผมต้องไปแล้ว'
+- `P1001-0500` [S] 
+  - EN: "Yup, absolute perfection.\nHamura'll have guys on your ass in no time."
+  - เดิม: 'เยี่ยมสุดๆ ไปเลย\nอีกไม่นานฮามุระต้องส่งคนมา ตามล่านายแน่'
+  - ใหม่: 'เยี่ยมสุดๆ ไปเลย\nอีกไม่นานฮามุระ ต้องส่งคนมาตามล่านายแน่'
+- `P1001-0597` [S] 
+  - EN: "We can't stay here.\nWho knows when his backup might arrive."
+  - เดิม: 'เราอยู่ที่นี่ต่อไม่ได้แล้ว\nไม่รู้ว่ากำลังเสริมของมันจะ มาถึงเมื่อไหร่'
+  - ใหม่: 'เราอยู่ที่นี่ต่อไม่ได้แล้ว\nไม่รู้ว่ากำลังเสริมของมัน จะมาถึงเมื่อไหร่'
+- `P1001-0598` [S] 
+  - EN: "We can't stay here for much longer.\nWho knows when his backup might arrive."
+  - เดิม: 'เราอยู่ที่นี่ต่อได้อีกไม่นานแล้ว\nไม่รู้ว่ากำลังเสริมของมันจะ มาถึงเมื่อไหร่'
+  - ใหม่: 'เราอยู่ที่นี่ต่อได้อีกไม่นานแล้ว\nไม่รู้ว่ากำลังเสริมของมัน จะมาถึงเมื่อไหร่'
+- `P1001-0608` [S] 
+  - EN: 'Still acting tough with lead in your stomach?\nWho you trying to impress?'
+  - เดิม: 'ยังจะแข็งทั้งที่มีกระสุนคาท้อง อยู่เนี่ยนะ?\nจะไปทำเท่ให้ใครดู'
+  - ใหม่: 'ยังจะแข็งทั้งที่ มีกระสุนคาท้องอยู่เนี่ยนะ?\nจะไปทำเท่ให้ใครดู'
+- `P1001-0609` [S] 
+  - EN: "Still actin' tough with lead in your stomach?\nCome on..."
+  - เดิม: 'ยังจะแข็งทั้งที่มีกระสุนคาท้อง อยู่อีกเหรอ?\nไม่เอาน่า...'
+  - ใหม่: 'ยังจะแข็งทั้งที่ มีกระสุนคาท้องอยู่อีกเหรอ?\nไม่เอาน่า...'
+- `P1001-0611` [P] 
+  - EN: "Yeah. Glad you're okay.\nCome gimme a hand."
+  - เดิม: 'เออ ดีใจที่นายปลอดภัย\nมาช่วยฉันหน่อย'
+  - ใหม่: 'เออ ดีใจที่นายปลอดภัย\nมาช่วยผมหน่อย'
+- `P1001-0623` [N] 
+  - EN: "What, your murderer friend abandon you?\nNot much use if he won't come when you need help."
+  - เดิม: 'ไง เพื่อนนักฆ่าของนายทิ้งนายแล้วเหรอ?\nไม่เห็นมีประโยชน์เลยนะ ถ้าเวลาต้องการความช่วยเหลือ แล้วมันไม่มา'
+  - ใหม่: 'ไง เพื่อนนักฆ่าของนายทิ้งนายแล้วเหรอ?\nไม่เห็นมีประโยชน์เลย ถ้ามันไม่มาตอนนายต้องการ'
+- `P1001-0624` [N] 
+  - EN: "Don't tell me the Mole abandoned you?\nNot much use if he won't come when you need help."
+  - เดิม: 'อย่าบอกนะว่าไอ้ตัวตุ่นทิ้งนายไปแล้ว?\nไม่เห็นมีประโยชน์เลย ถ้าเวลาต้องการความช่วยเหลือ แล้วมันไม่มา'
+  - ใหม่: 'อย่าบอกนะว่าไอ้ตัวตุ่นทิ้งนายไปแล้ว?\nไม่เห็นมีประโยชน์เลย ถ้ามันไม่มาตอนนายต้องการ'
+- `P1001-0637` [S] 
+  - EN: 'Are the Matsugane still after us?'
+  - เดิม: 'คนของตระกูลมัตสึกาเนะยังตามล่า พวกเราอยู่ไหมครับ?'
+  - ใหม่: 'คนของตระกูลมัตสึกาเนะ ยังตามล่าพวกเราอยู่ไหมครับ?'
+- `P1001-0655` [S] 
+  - EN: 'Though if you ask me, Tojo leadership should be\nbetter at keeping their dogs chained up.'
+  - เดิม: 'แต่ถ้าถามกูนะ ผู้นำตระกูลโทโจ\nน่าจะคุมหมาในสังกัดให้อยู่ใน โซ่ให้ดีกว่านี้'
+  - ใหม่: 'แต่ถ้าถามกูนะ ผู้นำตระกูลโทโจ\nน่าจะคุมหมาในสังกัด ให้อยู่ในโซ่ให้ดีกว่านี้'
+- `P1001-0656` [S] 
+  - EN: 'Though if you ask me, the Tojo Clan\noughta keep its dogs on tighter leashes.'
+  - เดิม: 'แต่ถ้าถามกูนะ ตระกูลโทโจ\nน่าจะผูกโซ่หมาในสังกัดให้แน่น กว่านี้หน่อย'
+  - ใหม่: 'แต่ถ้าถามกูนะ ตระกูลโทโจ\nน่าจะผูกโซ่หมาในสังกัด ให้แน่นกว่านี้หน่อย'
+- `P1001-0660` [S] 
+  - EN: "I still haven't paid you back for what you did to me.\nIf you don't mind, I'd like to settle that first."
+  - เดิม: 'กูยังไม่ได้ตอบแทนสิ่งที่มึงทำ กับกูเลย\nถ้าไม่ว่าอะไร กูอยากจะสะสางเรื่องนั้นก่อน'
+  - ใหม่: 'กูยังไม่ได้ตอบแทน สิ่งที่มึงทำกับกูเลย\nถ้าไม่ว่าอะไร กูอยากจะสะสางเรื่องนั้นก่อน'
+- `P1001-0661` [S] 
+  - EN: "I still haven't paid you back for what you did to me.\nIf it's all the same, how 'bout we settle it?"
+  - เดิม: 'กูยังไม่ได้ตอบแทนสิ่งที่มึงทำ กับกูเลย\nถ้าไม่ติดอะไร มาสะสางเรื่องนั้นกันก่อนดีไหม?'
+  - ใหม่: 'กูยังไม่ได้ตอบแทน สิ่งที่มึงทำกับกูเลย\nถ้าไม่ติดอะไร มาสะสางเรื่องนั้นกันก่อนดีไหม?'
+- `P1001-0007` [N] 
+  - EN: "I swear it's like..."
+  - เดิม: 'รู้สึกเหมือน...จริงๆ นะ'
+  - ใหม่: 'ผมสาบานได้ มันเหมือนกับ...'
+- `P1001-0013` [N] 
+  - EN: 'Uh, I could use a hand here!'
+  - เดิม: 'เอ่อ ต้องการมือช่วยหน่อยตรงนี้!'
+  - ใหม่: 'เอ่อ ช่วยหน่อยได้ไหม!'
+- `P1001-0019` [P] 
+  - EN: "C'mon man, why would you bring more!?"
+  - เดิม: 'ทำไมต้องเรียกมาเพิ่มด้วยวะ!?'
+  - ใหม่: 'เฮ้ย ทำไมต้องพามาเพิ่มอีกล่ะ!?'
+- `P1001-0070` [N] 
+  - EN: "Don't give me that shit, asshole."
+  - เดิม: 'อย่ามาพูดพล่ามแบบนั้นกับฉัน ไอ้สารเลว'
+  - ใหม่: 'อย่ามาพล่ามใส่กู ไอ้สารเลว'
+- `P1001-0071` [V] 
+  - EN: 'You need to lower the gun right now!'
+  - เดิม: 'แกต้องวางปืนซะเดี๋ยวนี้นะ!'
+  - ใหม่: 'แกต้องวางปืนซะเดี๋ยวนี้!'
+- `P1001-0090` [N] 
+  - EN: 'Heh. What makes you think\nyou have the upper hand here?'
+  - เดิม: 'ฮึ่ย มึงคิดว่าตัวเองมีไพ่เหนือกว่า\nตรงไหนวะ?'
+  - ใหม่: 'ฮึ่ย มึงคิดว่าตัวเองได้เปรียบ\nตรงไหนวะ?'
+- `P1001-0091` [N] 
+  - EN: "You think you're the one\ngiving orders here?"
+  - เดิม: 'มึงคิดว่าตัวเอง\nเป็นคนสั่งได้ที่นี่เหรอ?'
+  - ใหม่: 'มึงคิดว่าตัวเอง\nมีสิทธิ์สั่งที่นี่เหรอ?'
+- `P1001-0112` [N] 
+  - EN: 'How... DARE you!'
+  - เดิม: 'กล้าดียังไง... ถึงบังอาจ!'
+  - ใหม่: 'บังอาจ... กล้าดียังไง!'
+- `P1001-0116` [P] 
+  - EN: 'Phew, thanks.'
+  - เดิม: 'ฟู้ว ขอบคุณครับ'
+  - ใหม่: 'ฟู้ว ขอบคุณนะ'
+- `P1001-0124` [N] 
+  - EN: "Been a while since\nhe's been this distant."
+  - เดิม: 'นานแล้วเหมือนกัน\nที่เขาเก็บตัวห่างขนาดนี้'
+  - ใหม่: 'ไม่ได้เห็นเขาถอยห่างแบบนี้\nมานานแล้วนะ'
+- `P1001-0127` [M] 
+  - EN: "...Don't get ahead of yourself, kid."
+  - เดิม: '...อย่าเพิ่งตื่นเต้นไปไกลขนาดนั้นสิ'
+  - ใหม่: '...อย่าเพิ่งคิดไปไกลสิ ไอ้หนู'
+- `P1001-0147` [S] 
+  - EN: "Ah, well. Guess all we can do now is sit and wait\n'til somebody spills the beans on him."
+  - เดิม: 'เอาเถอะ ตอนนี้คงทำได้แค่นั่งรอ\nจนกว่าจะมีใครสักคนปากโป้ง เรื่องมันออกมา'
+  - ใหม่: 'เอาเถอะ ตอนนี้คงทำได้แค่นั่งรอ\nจนกว่าจะมีใครปากโป้งเรื่องมันออกมา'
+- `P1001-0158` [P] 
+  - EN: "Whaddya mean, maybe!?\nYou're the one who said he'd be calling 'em!"
+  - เดิม: 'อาจจะเนี่ยนะ!? ก็แกเป็นคนบอกเองว่า\nมันจะโทรหาพวกนั้นไง!'
+  - ใหม่: 'อาจจะเนี่ยนะ!? ก็นายเป็นคนบอกเองว่า\nมันจะโทรหาพวกนั้นไง!'
+- `P1001-0159` [P] 
+  - EN: '"Maybe"!? You\'re the one\nwho said he\'d be calling \'em!'
+  - เดิม: '"อาจจะ" เนี่ยนะ!? ก็แกเป็นคน\nบอกเองว่ามันจะโทรหาพวกนั้น!'
+  - ใหม่: '"อาจจะ" เนี่ยนะ!? ก็นายเป็นคน\nบอกเองว่ามันจะโทรหาพวกนั้น!'
+- `P1001-0180` [N] 
+  - EN: "The hell're you going, man?\nWe're supposed to be scoutin' the office."
+  - เดิม: 'จะไปไหนของนายวะ?\nเรามีหน้าที่สอดแนมสำนักงานนะ'
+  - ใหม่: 'นายจะไปไหนวะ?\nเรามีหน้าที่สอดแนมสำนักงานนะ'
+- `P1001-0181` [N] 
+  - EN: "Hey, the hell're you going?\nWe're supposed to be scoutin' the office."
+  - เดิม: 'เฮ้ย จะไปไหนของนายวะ?\nเรามีหน้าที่สอดแนมสำนักงานนะ'
+  - ใหม่: 'เฮ้ย นายจะไปไหนวะ?\nเรามีหน้าที่สอดแนมสำนักงานนะ'
+- `P1001-0187` [M] 
+  - EN: "Yup. Guy really thinks\nhe's hot shit, huh?"
+  - เดิม: 'ใช่ ไอ้นี่คิดว่าตัวเอง\nเจ๋งจริงเลยนะ'
+  - ใหม่: 'ใช่ ไอ้นี่คิดว่าตัวเอง\nเจ๋งนักสินะ'
+- `P1001-0188` [M] 
+  - EN: "Looks like. Guy really thinks\nhe's hot shit, huh?"
+  - เดิม: 'ดูเหมือนจะใช่ ไอ้นี่คิดว่าตัวเอง\nเจ๋งจริงเลยนะ'
+  - ใหม่: 'ดูเหมือนจะใช่ ไอ้นี่คิดว่าตัวเอง\nเจ๋งนักสินะ'
+- `P1001-0209` [S] 
+  - EN: "You really think he's gonna listen to us?\nHaven't talked to him since our fight."
+  - เดิม: 'นายคิดว่ามันจะยอมฟังเราจริง ๆ เหรอ?\nไม่ได้คุยกับมันเลยตั้งแต่ตีกัน ครั้งนั้น'
+  - ใหม่: 'นายคิดว่ามันจะยอมฟังเราจริง ๆ เหรอ?\nไม่ได้คุยกับมันเลย ตั้งแต่ตีกันครั้งนั้น'
+- `P1001-0217` [N] 
+  - EN: "You know what? He's alone now.\nWe could just walk up to him and ask."
+  - เดิม: 'รู้อะไรไหม? ตอนนี้เขาอยู่คนเดียว\nเราเดินเข้าไปถามตรง ๆ เลยก็ได้'
+  - ใหม่: 'งั้นแบบนี้ไหม? ตอนนี้เขาอยู่คนเดียว\nเราเดินเข้าไปถามตรง ๆ เลยก็ได้'
+- `P1001-0224` [M] 
+  - EN: "I just couldn't let the family\nsee us talking. You get it?"
+  - เดิม: 'ผมแค่ห้ามไม่ให้ตระกูลเห็นว่า\nเรากำลังคุยกันอยู่ เข้าใจไหมครับ?'
+  - ใหม่: 'ผมแค่ปล่อยให้ตระกูลเห็นว่า\nเรากำลังคุยกันไม่ได้ เข้าใจไหมครับ?'
+- `P1001-0241` [N] 
+  - EN: "Y'know, that wasn't as bad\nas I was expecting."
+  - เดิม: 'รู้อะไรไหม เรื่องนี้ไม่ได้แย่\nเท่าที่คิดไว้เลย'
+  - ใหม่: 'ว่าไปแล้ว เรื่องนี้ไม่ได้แย่\nเท่าที่คิดไว้เลยนะ'
+- `P1001-0243` [N] 
+  - EN: "Don't be an idiot."
+  - เดิม: 'อย่าทำตัวโง่ไปหน่อยเลย'
+  - ใหม่: 'อย่าทำตัวโง่ ๆ น่า'
+- `P1001-0303` [N] 
+  - EN: "Which means Tak's flyin' solo\non this one."
+  - เดิม: 'หมายความว่ารอบนี้ทาคุ\nต้องเดี่ยวเอง'
+  - ใหม่: 'งั้นรอบนี้ทาคุ\nต้องลุยเดี่ยวสินะ'
+- `P1001-0310` [S] 
+  - EN: "You've gotta start lookin' tougher, man.\nMake it so nobody even <font_kind=yakuza_italic>dares</font_kind> step up on yo"
+  - เดิม: 'นายต้องทำตัวให้ดูแกร่งกว่านี้หน่อยนะ\nทำให้ไม่มีใคร<font_kind=yakuza_italic>กล้า</font_kind> มาหาเรื่องนายเลยดีกว่า'
+  - ใหม่: 'นายต้องทำตัวให้ดูแกร่งกว่านี้หน่อยนะ\nทำให้ไม่มีใคร<font_kind=yakuza_italic>กล้า</font_kind>มาหาเรื่องนายซะเลย'
+- `P1001-0311` [S] 
+  - EN: "Man, you've gotta start lookin' tougher.\nMake it so nobody even <font_kind=yakuza_italic>dares</font_kind> step up on yo"
+  - เดิม: 'เฮ้ย นายต้องทำตัวให้ดูแกร่งกว่านี้หน่อยนะ\nทำให้ไม่มีใคร<font_kind=yakuza_italic>กล้า</font_kind> มาหาเรื่องนายเลยดีกว่า'
+  - ใหม่: 'เฮ้ย นายต้องทำตัวให้ดูแกร่งกว่านี้หน่อยนะ\nทำให้ไม่มีใคร<font_kind=yakuza_italic>กล้า</font_kind>มาหาเรื่องนายซะเลย'
+- `P1001-0369` [N] 
+  - EN: "You know, that might actually work. Just point me\nto a club and we'll go from there."
+  - เดิม: 'รู้อะไรมั้ย มันอาจจะได้ผลจริงๆ นะ\nแค่บอกร้านมาที ที่เหลือค่อยว่ากัน'
+  - ใหม่: 'รู้มั้ย มันอาจจะได้ผลจริงๆ นะ\nแค่บอกร้านมาที ที่เหลือค่อยว่ากัน'
+- `P1001-0377` [S] 
+  - EN: "Didn't you hear what we said last week?\nI want a fuckin' answer, today!"
+  - เดิม: 'ไม่ได้ยินที่กูพูดไปอาทิตย์ ที่แล้วหรือไง\nกูอยากได้คำตอบเดี๋ยวนี้ว่ะ!'
+  - ใหม่: 'ไม่ได้ยินที่กูพูดไปอาทิตย์ที่แล้ว หรือไง\nกูอยากได้คำตอบเดี๋ยวนี้ว่ะ!'
+- `P1001-0389` [N] 
+  - EN: 'Maybe you should, uh... help or something?\nThat guy looks like he could use a hand.'
+  - เดิม: 'นายน่าจะเข้าไปช่วยหน่อยมั้ง...\nดูท่าคนนั้นต้องการมือช่วยเหลือนะ'
+  - ใหม่: 'นายน่าจะเข้าไปช่วยหน่อยมั้ง...\nดูท่าคนนั้นคงอยากได้คนช่วยนะ'
+- `P1001-0390` [R] 
+  - EN: 'You can step in if you want?\nI dunno, that guy might appreciate it.'
+  - เดิม: 'นายจะเข้าไปช่วยก็ได้นะถ้าอยากช่วย...\nไม่รู้สิ คนนั้นอาจจะซึ้งใจก็ได้'
+  - ใหม่: 'นายจะเข้าไปช่วยก็ได้นะ ถ้าอยาก...\nไม่รู้สิ คนนั้นอาจจะซึ้งใจก็ได้'
+- `P1001-0403` [N] 
+  - EN: "Hey, turn it down, would you?\nOr is yelling the only volume you've got?"
+  - เดิม: 'เฮ้ ลดเสียงหน่อยได้มั้ย\nหรือว่าคุณมีโหมดเสียงเดียวคือตะโกน'
+  - ใหม่: 'เฮ้ ลดเสียงหน่อยได้มั้ย\nหรือว่าคุณพูดได้แค่ตะโกนอย่างเดียว'
+- `P1001-0408` [N] 
+  - EN: "Y'know, Tak...\nThis strategy's pretty solid, huh?"
+  - เดิม: 'รู้อะไรมั้ย ทาคุ...\nแผนนี้เจ๋งดีเหมือนกันนะ'
+  - ใหม่: 'รู้มั้ย ทาคุ...\nแผนนี้เจ๋งดีเหมือนกันนะ'
+- `P1001-0466` [V] 
+  - EN: "Sure. You've been late on\nyour payments."
+  - เดิม: 'ก็ได้ นายค้างจ่าย\nมาหลายงวดแล้วนะ'
+  - ใหม่: 'ก็ได้ มึงค้างจ่าย\nมาหลายงวดแล้วนะ'
+- `P1001-0471` [N] 
+  - EN: "Who the fuck do you think you are,\nstrollin' up on us like it's no big deal?"
+  - เดิม: 'มึงคิดว่าตัวเองเป็นใครวะ\nเดินเข้ามาเฉยเหมือนไม่มีอะไรงั้นเหรอ'
+  - ใหม่: 'มึงคิดว่าตัวเองเป็นใครวะ\nเดินเข้ามาหน้าตาเฉย เหมือนไม่มีอะไรเลยเรอะ'
+- `P1001-0479` [N] 
+  - EN: "Go on, let's see your big entrance!"
+  - เดิม: 'ไปเลย ขอดูฉากเข้าใหญ่โตของนายหน่อย!'
+  - ใหม่: 'ไปเลย ขอดูฉากเปิดตัวสุดเท่ของนายหน่อย!'
+- `P1001-0523` [M] 
+  - EN: "Hamura shot him in the stomach...\nso he'd have to carry him out. After that, I dunno."
+  - เดิม: 'ฮามุระยิงเขาที่ท้อง...\nเลยต้องหามตัวออกไป หลังจากนั้นผมก็ไม่รู้แล้ว'
+  - ใหม่: 'ฮามุระยิงเขาที่ท้อง...\nแล้วก็มีคนหามตัวออกไป หลังจากนั้นผมก็ไม่รู้แล้ว'
+- `P1001-0539` [S] 
+  - EN: "Do you know where Hamura's holed up, then?\nMaybe they dropped a hint while you were listening."
+  - เดิม: 'งั้นรู้มั้ยว่าฮามุระหลบซ่อน อยู่ที่ไหน\nบางทีอาจมีคำใบ้หลุดมาตอนที่คุณ ดักฟังอยู่'
+  - ใหม่: 'งั้นรู้มั้ยว่าฮามุระ หลบซ่อนอยู่ที่ไหน\nบางทีอาจมีคำใบ้หลุดมา ตอนที่คุณดักฟังอยู่'
+- `P1001-0540` [S] 
+  - EN: "Do you know where Hamura's holed up, then?\nWas there any hint of it as you listened?"
+  - เดิม: 'งั้นรู้มั้ยว่าฮามุระหลบซ่อน อยู่ที่ไหน\nมีคำใบ้อะไรหลุดออกมาตอนที่คุณ ฟังอยู่มั้ย'
+  - ใหม่: 'งั้นรู้มั้ยว่าฮามุระ หลบซ่อนอยู่ที่ไหน\nมีคำใบ้อะไรหลุดออกมา ตอนที่คุณฟังอยู่มั้ย'
+- `P1001-0557` [N] 
+  - EN: 'Gotcha. Lemme know\nwhen you wanna go.'
+  - เดิม: 'รับทราบครับ บอกผมด้วย\nว่าเมื่อไหร่จะไป'
+  - ใหม่: 'เข้าใจแล้วครับ บอกผมด้วย\nว่าเมื่อไหร่จะไป'
+- `P1001-0558` [N] 
+  - EN: 'Gotcha. Lemme know when\nyou wanna go.'
+  - เดิม: 'รับทราบครับ บอกผมด้วยว่า\nเมื่อไหร่จะไป'
+  - ใหม่: 'เข้าใจแล้วครับ บอกผมด้วยว่า\nเมื่อไหร่จะไป'
+- `P1001-0562` [N] 
+  - EN: 'Gotcha.\nLemme know when you wanna go.'
+  - เดิม: 'รับทราบครับ\nบอกผมด้วยว่าเมื่อไหร่จะไป'
+  - ใหม่: 'เข้าใจแล้วครับ\nบอกผมด้วยว่าเมื่อไหร่จะไป'
+- `P1001-0573` [N] 
+  - EN: 'Just end this fucker\nand be done with it.'
+  - เดิม: 'จบเรื่องไอ้นี่ซะ\nแล้วให้มันจบ ๆ ไป'
+  - ใหม่: 'เก็บไอ้นี่ซะ\nแล้วจบ ๆ ไป'
+- `P1001-0591` [S] 
+  - EN: "Guess I'm joining your little party."
+  - เดิม: 'ดูเหมือนผมจะได้มาร่วมวงกับ พวกคุณด้วยนะ'
+  - ใหม่: 'ดูเหมือนผมจะได้ร่วมวงกับพวกคุณด้วยนะ'
+- `P1001-0593` [V] 
+  - EN: 'You stubborn boys...\nNot even the threat of death stops you.'
+  - เดิม: 'ไอ้พวกดื้อด้าน...\nขู่จะฆ่ายังไงก็หยุดพวกนายไม่ได้'
+  - ใหม่: 'พวกเด็กดื้อ...\nขู่จะฆ่ายังไงก็หยุดพวกนายไม่ได้'
+- `P1001-0596` [N] 
+  - EN: 'And which am I, I wonder?'
+  - เดิม: 'แล้วผมเป็นแบบไหนล่ะ สงสัยจัง'
+  - ใหม่: 'แล้วผมเป็นแบบไหนกันนะ'
+- `P1001-0601` [N] 
+  - EN: "It'll be damn interesting\neither way."
+  - เดิม: 'ยังไงก็สนุก\nแน่นอน'
+  - ใหม่: 'ยังไงก็น่าสนุก\nทั้งนั้นแหละ'
+- `P1001-0612` [P] 
+  - EN: "Sugiura... Glad you're okay.\nHelp me with this lug."
+  - เดิม: 'ซุกิอุระ... ดีใจที่นายปลอดภัย\nช่วยแบกร่างนี้หน่อย'
+  - ใหม่: 'ซุกิอุระ... ดีใจที่นายปลอดภัย\nช่วยผมแบกไอ้ตัวใหญ่นี่หน่อย'
+- `P1001-0657` [M] 
+  - EN: 'Heh. Maybe, maybe not.'
+  - เดิม: 'ฮึ อาจจะได้ หรืออาจจะไม่ได้'
+  - ใหม่: 'ฮึ อาจจะใช่ หรืออาจจะไม่ใช่'
+- `P1001-0682` [N] 
+  - EN: "(Shit... It's too dark for me to aim...)"
+  - เดิม: '(เวรกรรม... มืดเกินกว่าจะเล็งได้เลย...)'
+  - ใหม่: '(บ้าเอ๊ย... มืดเกินกว่าจะเล็งได้เลย...)'
+
+## ทุกรายการ
+- findings_00.json `P1001-0084` [P] รับ (high)
+- findings_00.json `P1001-0111` [P] รับ (high)
+- findings_00.json `P1001-0197` [S] รับ (high)
+- findings_00.json `P1001-0247` [S] รับ (high)
+- findings_00.json `P1001-0249` [N] รับ (high)
+- findings_00.json `P1001-0274` [S] รับ (high)
+- findings_00.json `P1001-0400` [M] รับ (high)
+- findings_00.json `P1001-0432` [S] รับ (high)
+- findings_00.json `P1001-0433` [S] รับ (high)
+- findings_00.json `P1001-0653` [S] รับ (high)
+- findings_00.json `P1001-0654` [S] รับ (high)
+- findings_00.json `P1001-0680` [S] รับ (high)
+- findings_00.json `P1001-0691` [S] รับ (high)
+- findings_00.json `P1001-0697` [M] รับ (high)
+- findings_00.json `P1001-0110` [P] รับ (high)
+- findings_00.json `P1001-0018` [N] รับ (high)
+- findings_01.part1.json `P1001-0009` [P] รับ (high)
+- findings_01.part1.json `P1001-0010` [P] รับ (high)
+- findings_01.part1.json `P1001-0018` [M] ปฏิเสธ: ว่าง
+- findings_01.part1.json `P1001-0045` [M] รับ (high)
+- findings_01.part1.json `P1001-0084` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part1.json `P1001-0085` [P] รับ (high)
+- findings_01.part1.json `P1001-0094` [P] รับ (high)
+- findings_01.part1.json `P1001-0095` [P] รับ (high)
+- findings_01.part1.json `P1001-0098` [P] รับ (mid)
+- findings_01.part1.json `P1001-0110` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part1.json `P1001-0111` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part1.json `P1001-0129` [S] รับ (mid)
+- findings_01.part1.json `P1001-0135` [S] รับ (mid)
+- findings_01.part1.json `P1001-0140` [M] ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง
+- findings_01.part1.json `P1001-0142` [S] รับ (mid)
+- findings_01.part2.json `P1001-0152` [S] รับ (high)
+- findings_01.part2.json `P1001-0161` [M] รับ (high)
+- findings_01.part2.json `P1001-0197` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part2.json `P1001-0208` [S] รับ (high)
+- findings_01.part2.json `P1001-0235` [S] รับ (mid)
+- findings_01.part2.json `P1001-0247` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part2.json `P1001-0249` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part2.json `P1001-0274` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part2.json `P1001-0295` [P] รับ (mid)
+- findings_01.part2.json `P1001-0296` [S] รับ (mid)
+- findings_01.part3.json `P1001-0301` [S] รับ (mid)
+- findings_01.part3.json `P1001-0305` [S] รับ (high)
+- findings_01.part3.json `P1001-0337` [S] รับ (mid)
+- findings_01.part3.json `P1001-0349` [S] รับ (high)
+- findings_01.part3.json `P1001-0350` [P] รับ (high)
+- findings_01.part3.json `P1001-0351` [P] รับ (high)
+- findings_01.part3.json `P1001-0400` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part3.json `P1001-0404` [N] รับ (mid)
+- findings_01.part3.json `P1001-0405` [N] รับ (mid)
+- findings_01.part3.json `P1001-0411` [S] รับ (mid)
+- findings_01.part3.json `P1001-0412` [S] รับ (mid)
+- findings_01.part3.json `P1001-0414` [P] รับ (mid)
+- findings_01.part3.json `P1001-0432` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part3.json `P1001-0433` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part3.json `P1001-0444` [S] รับ (high)
+- findings_01.part3.json `P1001-0448` [M] รับ (mid)
+- findings_01.part3.json `P1001-0410` [E] ปฏิเสธ: ว่าง
+- findings_01.part4.json `P1001-0452` [E] ปฏิเสธ: ว่าง
+- findings_01.part4.json `P1001-0458` [N] รับ (mid)
+- findings_01.part4.json `P1001-0500` [S] รับ (mid)
+- findings_01.part4.json `P1001-0597` [S] รับ (mid)
+- findings_01.part4.json `P1001-0598` [S] รับ (mid)
+- findings_01.part4.json `P1001-0608` [S] รับ (mid)
+- findings_01.part4.json `P1001-0609` [S] รับ (mid)
+- findings_01.part4.json `P1001-0611` [P] รับ (high)
+- findings_01.part4.json `P1001-0623` [N] รับ (mid)
+- findings_01.part4.json `P1001-0624` [N] รับ (mid)
+- findings_01.part4.json `P1001-0637` [S] รับ (mid)
+- findings_01.part4.json `P1001-0653` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part4.json `P1001-0654` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part4.json `P1001-0655` [S] รับ (mid)
+- findings_01.part4.json `P1001-0656` [S] รับ (mid)
+- findings_01.part4.json `P1001-0660` [S] รับ (mid)
+- findings_01.part4.json `P1001-0661` [S] รับ (mid)
+- findings_01.part4.json `P1001-0680` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part4.json `P1001-0683` [M] ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง
+- findings_01.part4.json `P1001-0691` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_01.part4.json `P1001-0697` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0007` [N] รับ (mid)
+- findings_51.json `P1001-0010` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0009` [P] รับ (high)
+- findings_51.json `P1001-0013` [N] รับ (mid)
+- findings_51.json `P1001-0018` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0019` [P] รับ (mid)
+- findings_51.json `P1001-0045` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0070` [N] รับ (mid)
+- findings_51.json `P1001-0071` [V] รับ (mid)
+- findings_51.json `P1001-0082` [P] ปฏิเสธ: สั้นผิดปกติ 14 vs 24 (ตัดเนื้อหาทิ้ง?)
+- findings_51.json `P1001-0084` [P] รับ (high)
+- findings_51.json `P1001-0085` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0090` [N] รับ (mid)
+- findings_51.json `P1001-0091` [N] รับ (mid)
+- findings_51.json `P1001-0094` [P] รับ (high)
+- findings_51.json `P1001-0095` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0110` [P] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0111` [P] รับ (high)
+- findings_51.json `P1001-0112` [N] รับ (mid)
+- findings_51.json `P1001-0116` [P] รับ (mid)
+- findings_51.json `P1001-0124` [N] รับ (mid)
+- findings_51.json `P1001-0127` [M] รับ (mid)
+- findings_51.json `P1001-0129` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0135` [S] รับ (high)
+- findings_51.json `P1001-0140` [M] ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง
+- findings_51.json `P1001-0142` [S] รับ (high)
+- findings_51.json `P1001-0147` [S] รับ (high)
+- findings_51.json `P1001-0152` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0158` [P] รับ (mid)
+- findings_51.json `P1001-0159` [P] รับ (mid)
+- findings_51.json `P1001-0161` [T] รับ (high)
+- findings_51.json `P1001-0180` [N] รับ (mid)
+- findings_51.json `P1001-0181` [N] รับ (mid)
+- findings_51.json `P1001-0187` [M] รับ (mid)
+- findings_51.json `P1001-0188` [M] รับ (mid)
+- findings_51.json `P1001-0197` [S] รับ (high)
+- findings_51.json `P1001-0208` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0209` [S] รับ (high)
+- findings_51.json `P1001-0217` [N] รับ (mid)
+- findings_51.json `P1001-0224` [M] รับ (mid)
+- findings_51.json `P1001-0235` [S] รับ (high)
+- findings_51.json `P1001-0241` [N] รับ (mid)
+- findings_51.json `P1001-0243` [N] รับ (mid)
+- findings_51.json `P1001-0247` [S] รับ (high)
+- findings_51.json `P1001-0249` [N] รับ (mid)
+- findings_51.json `P1001-0274` [S] รับ (high)
+- findings_51.json `P1001-0296` [S] รับ (mid)
+- findings_51.json `P1001-0300` [S] ปฏิเสธ: ว่าง
+- findings_51.json `P1001-0301` [S] รับ (high)
+- findings_51.json `P1001-0303` [N] รับ (mid)
+- findings_51.json `P1001-0305` [S] รับ (high)
+- findings_51.json `P1001-0310` [S] รับ (mid)
+- findings_51.json `P1001-0311` [S] รับ (mid)
+- findings_51.json `P1001-0337` [S] รับ (mid)
+- findings_51.json `P1001-0349` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0369` [N] รับ (mid)
+- findings_51.json `P1001-0377` [S] รับ (high)
+- findings_51.json `P1001-0389` [N] รับ (mid)
+- findings_51.json `P1001-0390` [R] รับ (mid)
+- findings_51.json `P1001-0400` [M] รับ (high)
+- findings_51.json `P1001-0401` [N] ปฏิเสธ: ว่าง
+- findings_51.json `P1001-0403` [N] รับ (mid)
+- findings_51.json `P1001-0404` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0405` [N] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0408` [N] รับ (mid)
+- findings_51.json `P1001-0410` [E] ปฏิเสธ: ว่าง
+- findings_51.json `P1001-0411` [S] รับ (high)
+- findings_51.json `P1001-0412` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0414` [P] รับ (mid)
+- findings_51.json `P1001-0432` [S] รับ (high)
+- findings_51.json `P1001-0433` [S] รับ (high)
+- findings_51.json `P1001-0444` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0448` [M] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0452` [E] ปฏิเสธ: ว่าง
+- findings_51.json `P1001-0466` [V] รับ (mid)
+- findings_51.json `P1001-0471` [N] รับ (mid)
+- findings_51.json `P1001-0479` [N] รับ (mid)
+- findings_51.json `P1001-0523` [M] รับ (mid)
+- findings_51.json `P1001-0539` [S] รับ (high)
+- findings_51.json `P1001-0540` [S] รับ (high)
+- findings_51.json `P1001-0557` [N] รับ (mid)
+- findings_51.json `P1001-0558` [N] รับ (mid)
+- findings_51.json `P1001-0562` [N] รับ (mid)
+- findings_51.json `P1001-0569` [P] ปฏิเสธ: ว่าง
+- findings_51.json `P1001-0573` [N] รับ (mid)
+- findings_51.json `P1001-0591` [S] รับ (high)
+- findings_51.json `P1001-0593` [V] รับ (mid)
+- findings_51.json `P1001-0596` [N] รับ (mid)
+- findings_51.json `P1001-0597` [S] รับ (high)
+- findings_51.json `P1001-0598` [S] รับ (high)
+- findings_51.json `P1001-0601` [N] รับ (mid)
+- findings_51.json `P1001-0608` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0609` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0611` [P] รับ (high)
+- findings_51.json `P1001-0612` [P] รับ (high)
+- findings_51.json `P1001-0637` [S] รับ (high)
+- findings_51.json `P1001-0653` [S] รับ (high)
+- findings_51.json `P1001-0654` [S] รับ (high)
+- findings_51.json `P1001-0655` [S] ซ้ำกับ finding อื่น (ใช้ตัวแรก)
+- findings_51.json `P1001-0656` [S] รับ (high)
+- findings_51.json `P1001-0657` [M] รับ (mid)
+- findings_51.json `P1001-0660` [S] รับ (mid)
+- findings_51.json `P1001-0661` [S] รับ (mid)
+- findings_51.json `P1001-0680` [S] รับ (high)
+- findings_51.json `P1001-0682` [N] รับ (mid)
+- findings_51.json `P1001-0691` [S] รับ (high)
+- findings_51.json `P1001-0697` [M] รับ (mid)

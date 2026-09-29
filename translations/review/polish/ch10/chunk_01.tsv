@@ -1,0 +1,700 @@
+id	ฉาก	ผู้พูด	หมายเหตุ	EN	TH
+P1001-0001	ทวนเรื่องเปิดบท · p10_00100	Narration (?)		Three years ago, a dementia patient\nat the ADDC was murdered.	สามปีก่อน ผู้ป่วยโรคสมองเสื่อมคนหนึ่ง\nที่ ADDC ถูกฆาตกรรม
+P1001-0002	ทวนเรื่องเปิดบท · p10_00100	Narration (?)		Even now, Shinpei Okubo, the man\nconvicted of the crime, pleads innocence.	แม้กระทั่งตอนนี้ ชินเป โอคุโบะ ชายผู้\nถูกตัดสินว่ามีความผิดในคดีนี้ ก็ยังยืนกรานว่าตัวเองบริสุทธิ์
+P1001-0003	ทวนเรื่องเปิดบท · p10_00100	Narration (?)		But Yagami's theory that this chain of events was\nset in motion by human experimentation for AD-9...	แต่ทฤษฎีของยากามิที่ว่า เหตุการณ์ทั้งสายนี้\nถูกจุดชนวนขึ้นจากการทดลอง AD-9 ในมนุษย์...
+P1001-0004	ทวนเรื่องเปิดบท · p10_00100	Narration (?)		...Unveils the true culprit\nbehind Emi Terasawa's death.	...เผยตัวการที่แท้จริง\nเบื้องหลังการตายของเอมิ เทราซาวะ
+P1001-0005	คัตซีน · a10_010	Yagami (ช)	[ใช้ร่วม]	Kaito-san?	ไคโตะซัง?
+P1001-0006	คัตซีน · a10_010	Yagami (ช)	[อีกแทร็ก]	Kaito-san?　	ไคโตะซัง?
+P1001-0007	คัตซีน · a10_010	Yagami (ช)		I swear it's like...	รู้สึกเหมือน...จริงๆ นะ
+P1001-0008	คัตซีน · a10_010	Yagami (ช)	[อีกแทร็ก]	Something feels off...	มีอะไรแปลกๆ...
+P1001-0009	คัตซีน · a10_010	Yagami (ช)		Like I can feel someone watching me.	เหมือนมีใครจ้องมองฉันอยู่
+P1001-0010	คัตซีน · a10_010	Yagami (ช)	[อีกแทร็ก]	I think I'm being watched.	ฉันว่าฉันโดนจับตาดูอยู่นะ
+P1001-0011	คัตซีน · a10_010	Yagami (ช)		Are you there?	อยู่ตรงนั้นรึเปล่า?
+P1001-0012	คัตซีน · a10_010	Yagami (ช)	[อีกแทร็ก]	Can you hear me?	ได้ยินมั้ย
+P1001-0013	คัตซีน · a10_010	Yagami (ช)		Uh, I could use a hand here!	เอ่อ ต้องการมือช่วยหน่อยตรงนี้!
+P1001-0014	คัตซีน · a10_010	Yagami (ช)	[อีกแทร็ก]	Hey, Kaito-san, where are you!?	เฮ้ ไคโตะซัง อยู่ไหนเนี่ย!?
+P1001-0015	คัตซีน · a10_010	Kaito (ช)		I'm right behind you buddy!	อยู่ข้างหลังนายนี่ไง!
+P1001-0016	คัตซีน · a10_010	Kaito (ช)	[อีกแทร็ก]	Behind you! Incoming!	ข้างหลังนาย! ระวัง!
+P1001-0017	คัตซีน · a10_010	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	Kaito-san!	ไคโตะซัง!
+P1001-0018	คัตซีน · a10_010	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Kaito-san!?	ไคโตะซังงั้นเหรอ!?
+P1001-0019	คัตซีน · a10_010	Yagami (ช)		C'mon man, why would you bring more!?	ทำไมต้องเรียกมาเพิ่มด้วยวะ!?
+P1001-0020	คัตซีน · a10_010	Yagami (ช)	[อีกแทร็ก]	Why are you bringing more with you!?	จะเรียกคนมาเพิ่มอีกทำไมเนี่ย!?
+P1001-0021	คัตซีน · a10_020	Hamura's Thug (ช)		You're out of options.	แกหมดทางสู้แล้ว
+P1001-0022	คัตซีน · a10_020	Hamura's Thug (ช)	[อีกแทร็ก]	Had enough yet?	พอหรือยังล่ะ?
+P1001-0023	คัตซีน · a10_020	Hamura's Thug (ช)		Hey. I got him.	เฮ้ จับได้แล้ว
+P1001-0024	คัตซีน · a10_020	Hamura's Thug (ช)	[อีกแทร็ก]	Check it out, I got him.	ดูสิ ฉันจับมันได้แล้ว
+P1001-0025	คัตซีน · a10_020	Yagami (ช)		Okay... I know you work for Hamura.	โอเค... ผมรู้ว่าคุณทำงานให้ฮามุระ
+P1001-0026	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก]	You're one of Hamura's men, right?	คุณเป็นลูกน้องฮามุระใช่มั้ย?
+P1001-0027	คัตซีน · a10_020	Yagami (ช)		I want to know where he is.	ผมอยากรู้ว่าเขาอยู่ที่ไหน
+P1001-0028	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Where is he?	เขาอยู่ที่ไหน?
+P1001-0029	คัตซีน · a10_020	Hamura's Thug (ช)		When he finds you,\nyou're dead, Yagami.	พอเขาเจอแก\nแกตายแน่ ยากามิ
+P1001-0030	คัตซีน · a10_020	Hamura's Thug (ช)	[อีกแทร็ก]	You're a dead man, Yagami.	แกตายแน่ ยากามิ
+P1001-0031	คัตซีน · a10_020	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Is that so?	งั้นเหรอ?
+P1001-0032	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	What was that?	พูดว่าไงนะ?
+P1001-0033	คัตซีน · a10_020	Kaito (ช)	[ใช้ร่วม]	What the...	อะไรกันเนี่ย...
+P1001-0034	คัตซีน · a10_020	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	The hell?	อะไรวะเนี่ย?
+P1001-0035	คัตซีน · a10_020	Hamura (ช)		You should really see the look\non your face right now, Kaito.	มึงน่าจะได้เห็นหน้าตัวเอง\nตอนนี้จริงๆ นะ ไคโตะ
+P1001-0036	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	Looks like the tables\nhave turned, Kaito.	ดูเหมือนสถานการณ์\nจะพลิกกลับแล้วนะ ไคโตะ
+P1001-0037	คัตซีน · a10_020	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Hamura...	ฮามุระ...
+P1001-0038	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก]	Hamura!?	ฮามุระ!?
+P1001-0039	คัตซีน · a10_020	Yagami (ช)		Higashi?	ฮิงาชิ?
+P1001-0040	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก]	Higashi!?	ฮิงาชิ!?
+P1001-0041	คัตซีน · a10_020	Yagami (ช)	[ใช้ร่วม]	Matsugane-san!	ท่านมัตสึกาเนะ!
+P1001-0042	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก]	Boss...!	หัวหน้า...!
+P1001-0043	คัตซีน · a10_020	Hamura (ช)		I gave you every chance\nto walk away from this.	กูให้โอกาสมึงถอยออกไป\nจากเรื่องนี้มาตั้งหลายครั้งแล้ว
+P1001-0044	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	I gave you more than enough chances.	กูให้โอกาสมึงมามากพอแล้ว
+P1001-0045	คัตซีน · a10_020	Hamura (ช)		You just couldn't mind\nyour own business, could you. 	มึงมันเสือกเรื่องชาวบ้าน\nไม่เป็นจริงๆ ว่ะ
+P1001-0046	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	And you turned them all down.	แล้วมึงก็ปฏิเสธทุกครั้งไป
+P1001-0047	คัตซีน · a10_020	Hamura (ช)		And now you're gonna die for it.	ตอนนี้มึงเลยต้องตายเพราะมัน
+P1001-0048	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	Now it's time to pay the price!	ได้เวลาชดใช้แล้ว!
+P1001-0049	คัตซีน · a10_020	Matsugane (ช)		You pushed this one too far.	มึงทำเรื่องนี้เกินเลยไปมาก
+P1001-0050	คัตซีน · a10_020	Matsugane (ช)	[อีกแทร็ก]	You guys took it too far.	พวกมึงทำเกินไปแล้ว
+P1001-0051	คัตซีน · a10_020	Matsugane (ช)		Hamura!	ฮามุระ!
+P1001-0052	คัตซีน · a10_020	Matsugane (ช)	[อีกแทร็ก]	Hamura...!	ฮามุระ...!
+P1001-0053	คัตซีน · a10_020	Hamura (ช)		Killing you is gonna feel real good.	ฆ่ามึงคงสะใจกูน่าดู
+P1001-0054	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	You've been a real\npain in my ass.	มึงมันตัวป่วนกู\nมาตลอดจริงๆ ว่ะ
+P1001-0055	คัตซีน · a10_020	Matsugane (ช)		Is this really necessary?	มันจำเป็นต้องทำถึงขนาดนี้เลยเหรอ?
+P1001-0056	คัตซีน · a10_020	Matsugane (ช)	[อีกแทร็ก]	Wait. Hold on a second.	เดี๋ยวก่อน ใจเย็นๆ
+P1001-0057	คัตซีน · a10_020	Hamura (ช)		Don't make this harder\nthan it needs to be. Okay?	อย่าทำให้เรื่องมันยุ่งยาก\nไปกว่านี้เลยนะ
+P1001-0058	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	Let's not make this any\nharder than it needs to be.	อย่าทำให้มันซับซ้อน\nเกินความจำเป็นไปเลย
+P1001-0059	คัตซีน · a10_020	Hamura (ช)		Don't you think I've pulled enough\nof the family's weight already?	ท่านไม่คิดเหรอว่ากูแบกภาระ\nของตระกูลมามากพอแล้ว?
+P1001-0060	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	I've done everything in my\npower to do right by you.	กูทำทุกอย่างเท่าที่ทำได้\nเพื่อตอบแทนท่านมาตลอด
+P1001-0061	คัตซีน · a10_020	Yagami (ช)	[ใช้ร่วม]	Please don't.	อย่าเลยนะ
+P1001-0062	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก]	Please...	ได้โปรด...
+P1001-0063	คัตซีน · a10_020	Hamura (ช)		I don't care how much like\nsons these two are to you. 	กูไม่สนหรอกว่าท่านจะรัก\nสองคนนี้เหมือนลูกแค่ไหน
+P1001-0064	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	Maybe you see this kid like a son...	ท่านอาจมองเด็กคนนี้เหมือนลูกก็เถอะ...
+P1001-0065	คัตซีน · a10_020	Hamura (ช)		Your loyalty...\nis to the Matsugane Family first.	ความภักดีของท่าน...\nต้องอยู่ที่ตระกูลมัตสึกาเนะก่อนสิ
+P1001-0066	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	But you're the\nMatsugane Family patriarch first!	เพราะท่านคือ\nหัวหน้าตระกูลมัตสึกาเนะก่อนอื่นใด!
+P1001-0067	คัตซีน · a10_020	Hamura (ช)		Besides, you know\nthere's no other way.	อีกอย่าง ท่านก็รู้\nว่ามันไม่มีทางอื่นแล้ว
+P1001-0068	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	You know this is\nthe way it has to be.	ท่านก็รู้ว่ามันต้อง\nเป็นแบบนี้เท่านั้น
+P1001-0069	คัตซีน · a10_020	Kaito (ช)		Are you out of your fucking mind?	แกมันบ้าไปแล้วเหรอวะ?
+P1001-0070	คัตซีน · a10_020	Kaito (ช)	[อีกแทร็ก]	Don't give me that shit, asshole.	อย่ามาพูดพล่ามแบบนั้นกับฉัน ไอ้สารเลว
+P1001-0071	คัตซีน · a10_020	Higashi (ช)		You need to lower the gun right now!	แกต้องวางปืนซะเดี๋ยวนี้นะ!
+P1001-0072	คัตซีน · a10_020	Higashi (ช)	[อีกแทร็ก]	You've got no right to point\na gun at the boss!	แกไม่มีสิทธิ์เอาปืน\nจ่อหัวหน้าเลยนะ!
+P1001-0073	คัตซีน · a10_020	Yagami (ช)		No, Kaito!	อย่านะ ไคโตะ!
+P1001-0074	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก]	Don't, Kaito!	หยุดนะ ไคโตะ!
+P1001-0075	คัตซีน · a10_020	Hamura (ช)		You shut your goddamn mouth!	มึงหุบปากซะเถอะวะ!
+P1001-0076	คัตซีน · a10_020	Hamura (ช)	[อีกแทร็ก]	You're the one who's outta line!	มึงต่างหากที่มันเกินเลย!
+P1001-0077	คัตซีน · a10_020	Yagami (ช)	[ใช้ร่วม]	Kaito!	ไคโตะ!
+P1001-0078	คัตซีน · a10_020	Hayama (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Yagami-san!	ยากามิซัง!
+P1001-0079	คัตซีน · a10_020	Yagami (ช)		No! Don't!\nWe have to get out of here!	ไม่นะ! อย่า!\nเราต้องออกไปจากที่นี่เดี๋ยวนี้!
+P1001-0080	คัตซีน · a10_020	Yagami (ช)	[อีกแทร็ก]	Don't!\nWe've gotta get outta here now!	อย่า!\nเราต้องรีบออกไปจากที่นี่เดี๋ยวนี้!
+P1001-0081	คัตซีน · a10_020	Meguro (ช)	[ใช้ร่วม]	Shit!	เชี่ย!
+P1001-0082	คัตซีน · a10_020	Police Officer (ญ)	[อีกแทร็ก] [ใช้ร่วม]	You're not getting away!	มึงไม่มีทางหนีไปได้หรอก!
+P1001-0083	คัตซีน · a10_030	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Hamura.	ฮามุระ
+P1001-0084	คัตซีน · a10_030	Yagami (ช)		Surprised you decided to stick around.\nNot gonna try and run?	แปลกใจนะที่มึงยังอยู่ตรงนี้\nไม่คิดจะหนีเลยเหรอ?
+P1001-0085	คัตซีน · a10_030	Yagami (ช)	[อีกแทร็ก]	You're still here, huh?\nThe getaway car leave without you?	มึงยังอยู่ตรงนี้อีกเหรอ?\nรถหนีทิ้งมึงไปแล้วหรือไง?
+P1001-0086	คัตซีน · a10_030	Hamura (ช)		Go fuck yourself, Tak.	ไปตายซะ ไอ้ทาคุ
+P1001-0087	คัตซีน · a10_030	Hamura (ช)	[อีกแทร็ก]	Fuck you.	ไปตายซะ
+P1001-0088	คัตซีน · a10_030	Yagami (ช)		Let him go right now.	ปล่อยเขาเดี๋ยวนี้นะ
+P1001-0089	คัตซีน · a10_030	Yagami (ช)	[อีกแทร็ก]	Let Kaito-san go!	ปล่อยไคโตะซังไปซะ!
+P1001-0090	คัตซีน · a10_030	Hamura (ช)		Heh. What makes you think\nyou have the upper hand here?	ฮึ่ย มึงคิดว่าตัวเองมีไพ่เหนือกว่า\nตรงไหนวะ?
+P1001-0091	คัตซีน · a10_030	Hamura (ช)	[อีกแทร็ก]	You think you're the one\ngiving orders here?	มึงคิดว่าตัวเอง\nเป็นคนสั่งได้ที่นี่เหรอ?
+P1001-0092	คัตซีน · a10_030	Yagami (ช)	[ใช้ร่วม]	Kaito-san...	ไคโตะซัง...
+P1001-0093	คัตซีน · a10_030	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Kaito-san...?	ไคโตะซัง...?
+P1001-0094	คัตซีน · a10_030	Hamura (ช)		Hey, he sounds worried.	เฮ้ ฟังดูมันเป็นห่วงนายจังเลยนะ
+P1001-0095	คัตซีน · a10_030	Hamura (ช)	[อีกแทร็ก]	Hey. You hearing this?	เฮ้ นายได้ยินป่าววะ?
+P1001-0096	คัตซีน · a10_030	Yagami (ช)		You piece of shit!	ไอ้เศษสวะ!
+P1001-0097	คัตซีน · a10_030	Yagami (ช)	[อีกแทร็ก]	You fucker...	ไอ้ระยำ...
+P1001-0098	คัตซีน · a10_030	Hamura (ช)		You asked for it.	แกหาเรื่องเองนะ
+P1001-0099	คัตซีน · a10_030	Hamura (ช)	[อีกแทร็ก]	Serves you right.	สมน้ำหน้า
+P1001-0100	คัตซีน · a10_030	Yagami (ช)		This time let's finish it\nfor real, asshole.	รอบนี้จบกันให้จริงจังเลย\nไอ้สารเลว
+P1001-0101	คัตซีน · a10_030	Yagami (ช)	[อีกแทร็ก]	This time we're gonna settle this!	รอบนี้เคลียร์กันให้จบไปเลย!
+P1001-0102	คัตซีน · a10_030	Hamura (ช)		That all?	แค่นี้เองเหรอ?
+P1001-0103	คัตซีน · a10_030	Hamura (ช)	[อีกแทร็ก]	You little...!	ไอ้เด็กนี่...!
+P1001-0104	คัตซีน · a10_030	Yagami (ช)		Just need a minute, Kaito-san.	ขอเวลาแป๊บนึงนะ ไคโตะซัง
+P1001-0105	คัตซีน · a10_030	Yagami (ช)	[อีกแทร็ก]	Give me just a second, okay?	ขอเวลาแค่วินาทีเดียว โอเคนะ?
+P1001-0106	คัตซีน · a10_030	Hamura (ช)		Sure, what's the rush?	ได้สิ รีบไปไหนวะ?
+P1001-0107	คัตซีน · a10_030	Hamura (ช)	[อีกแทร็ก]	Make it a quick second...	ทำให้ไวๆ ล่ะกัน...
+P1001-0108	คัตซีน · a10_030	Hamura (ช)		This what you want?	นี่แหละที่มึงอยากได้เหรอ?
+P1001-0109	คัตซีน · a10_030	Hamura (ช)	[อีกแทร็ก]	You want your fight?	มึงอยากสู้กันใช่มั้ยล่ะ?
+P1001-0110	คัตซีน · a10_030	Yagami (ช)		I'm going to fucking kill you!	กูจะฆ่ามึงให้ตายห่าเลย!
+P1001-0111	คัตซีน · a10_030	Yagami (ช)	[อีกแทร็ก]	I'm gonna make this painful!	กูจะทำให้มึงเจ็บปวดที่สุด!
+P1001-0112	พากย์ · speech_list_judge_main_c10	Stick (ช)		How... DARE you!	กล้าดียังไง... ถึงบังอาจ!
+P1001-0113	พากย์ · speech_list_judge_main_c10	Stick (ช)	[อีกแทร็ก]	You think you're real clever, huh?	คิดว่าตัวเองฉลาดนักเหรอ
+P1001-0114	พากย์ · speech_list_judge_main_c10	Sugiura (ช)		Shit, we can't fight like this!\nFind the light switch, Yagami-san!	เวรแล้ว สู้แบบนี้ไม่ได้แน่!\nหาสวิตช์ไฟที ยากามิซัง!
+P1001-0115	พากย์ · speech_list_judge_main_c10	Sugiura (ช)	[อีกแทร็ก]	Whoa, shit... Yagami-san, get the lights!\nWe can't fight like this!	โอ้ ให้ตายสิ... ยากามิซัง เปิดไฟที!\nสู้แบบนี้ไม่ไหวแน่
+P1001-0116	พากย์ · speech_list_judge_main_c10	? (ช)		Phew, thanks.	ฟู้ว ขอบคุณครับ
+P1001-0117	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Thanks.	ขอบคุณ
+P1001-0118	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Gimme a second.	ขอเวลาแป๊บนึง
+P1001-0119	พากย์ · speech_list_judge_main_c10	? (ช)		(It's locked.\nCan't pick a lock without light.)	(มันล็อกอยู่\nงัดกุญแจไม่ได้ถ้าไม่มีแสงไฟ)
+P1001-0120	พากย์ · speech_list_judge_main_c10	? (ช)		Lemme guess, turn the lights on?\nCan't you do it yourself?	ให้เดานะ ให้เปิดไฟใช่มั้ย?\nทำเองไม่ได้เหรอ
+P1001-0121	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yeah, yeah, the lights.\nI get it already.	เออ เออ เรื่องไฟ\nรู้แล้วน่า
+P1001-0122	พากย์ · speech_list_judge_main_c10	Genda (ช)		Yagami joining you?	ยากามิคุงจะไปด้วยไหม?
+P1001-0123	พากย์ · speech_list_judge_main_c10	Genda (ช)	[อีกแทร็ก]	Good. Yagami joining you?	ดี แล้วยากามิคุงจะไปด้วยไหม?
+P1001-0124	พากย์ · speech_list_judge_main_c10	? (ช)		Been a while since\nhe's been this distant.	นานแล้วเหมือนกัน\nที่เขาเก็บตัวห่างขนาดนี้
+P1001-0125	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Tch, now he takes my advice?	ชะ มาฟังคำแนะนำผมเอาตอนนี้เนี่ยนะ
+P1001-0126	พากย์ · speech_list_judge_main_c10	? (ช)		Clearing Shinpei Okubo's name this late on...\nYagami'd be a damn hero.	ล้างมลทินให้ชินเป โอคุโบะได้ตอนนี้...\nยากามิคงกลายเป็นฮีโร่ตัวจริงเลยล่ะ
+P1001-0127	พากย์ · speech_list_judge_main_c10	? (ช)		...Don't get ahead of yourself, kid.	...อย่าเพิ่งตื่นเต้นไปไกลขนาดนั้นสิ
+P1001-0128	พากย์ · speech_list_judge_main_c10	? (ช)		No, I'm going alone. Yagami-san, well...\nHe may be keeping his distance for a while.	ไม่ครับ ผมไปคนเดียว ส่วนยากามิซังนี่...\nเขาอาจจะขอเก็บระยะห่างไปพักหนึ่งครับ
+P1001-0129	พากย์ · speech_list_judge_main_c10	? (ช)		He thinks the Mole might target him,\nso he doesn't want to get us involved.	เขาคิดว่าไอ้ตัวตุ่นอาจจะเล็ง เป้ามาที่เขา\nเลยไม่อยากดึงพวกเราเข้าไป เกี่ยวข้องด้วย
+P1001-0130	พากย์ · speech_list_judge_main_c10	? (ช)		You should watch your\nback too, Genda-sensei.	อาจารย์เก็นดะก็ต้อง\nระวังตัวด้วยนะครับ
+P1001-0131	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You should watch your back\ntoo, Genda-sensei.	อาจารย์เก็นดะก็ต้องระวัง\nตัวด้วยนะครับ
+P1001-0132	พากย์ · speech_list_judge_main_c10	? (ช)		Knowing Yagami-san, he'll want to solve\nevery single incident related to AD-9.	รู้จักนิสัยยากามิซังดี เขาต้องอยากคลี่คลาย\nทุกเหตุการณ์ที่เกี่ยวกับ AD-9 จนหมดแน่ ๆ
+P1001-0133	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Knowing Yagami-san, he'll want to solve\nevery last incident related to AD-9.	รู้จักนิสัยยากามิซังดี เขาต้องอยากคลี่คลาย\nทุกเหตุการณ์เกี่ยวกับ AD-9 จนถึงเรื่องสุดท้ายแน่ ๆ
+P1001-0134	พากย์ · speech_list_judge_main_c10	? (ช)		And if he does, maybe he can prove that Ayabe-san\nand Okubo-kun are innocent.	และถ้าเขาทำได้ เขาอาจพิสูจน์ได้ว่าอายาเบะซัง\nกับโอคุโบะคุงเป็นผู้บริสุทธิ์
+P1001-0135	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Ayabe-san and Okubo-kun got wrapped up in this...\nbut he can prove both of them innocent.	อายาเบะซังกับโอคุโบะคุงเข้าไป พัวพันกับเรื่องนี้...\nแต่เขาพิสูจน์ความบริสุทธิ์ของ ทั้งคู่ได้
+P1001-0136	พากย์ · speech_list_judge_main_c10	? (ช)		Yeah, "hero" is hardly a big enough word.\nA legend is more like it!	ใช่ คำว่า "ฮีโร่" ยังไม่ยิ่งใหญ่พอด้วยซ้ำ\nต้องเรียกว่าตำนานเลยล่ะ!
+P1001-0137	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yeah! Forget "hero."\nHe'd be a legend!	ใช่เลย! ลืมคำว่า "ฮีโร่" ไปได้เลย\nเขาต้องกลายเป็นตำนานแน่!
+P1001-0138	พากย์ · speech_list_judge_main_c10	Saori (ญ)		I think he might enjoy that.	ฉันว่าเขาคงชอบใจไม่น้อยนะ
+P1001-0139	พากย์ · speech_list_judge_main_c10	Saori (ญ)	[อีกแทร็ก] [ใช้ร่วม]	There's no doubt.	ไม่ต้องสงสัยเลยค่ะ
+P1001-0140	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[ใช้ร่วม]	Doubt it.	ไม่คิดว่าจะปรับนะ
+P1001-0141	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Nah. Doubt it.	เปล่า ไม่น่าจะใช่หรอก
+P1001-0142	พากย์ · speech_list_judge_main_c10	? (ช)		Everyone'd be on edge with him in the house.\nNo chance of small talk.	ถ้ามันอยู่ในบ้านนั้นทุกคนต้อง เกร็งกันหมด\nไม่มีทางคุยเล่นกันหรอก
+P1001-0143	พากย์ · speech_list_judge_main_c10	? (ช)		Mmm, maybe.	อืม อาจจะครับ
+P1001-0144	พากย์ · speech_list_judge_main_c10	? (ช)		You don't gotta\nlose your shit over it.	ไม่เห็นต้อง\nหัวร้อนขนาดนั้นเลยครับ
+P1001-0145	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You don't gotta lose your shit over it.	ไม่เห็นต้องหัวร้อนขนาดนั้นเลยครับ
+P1001-0146	พากย์ · speech_list_judge_main_c10	? (ช)		Guess all we can do now is sit here and wait\n'til somebody spills the beans.	ตอนนี้คงทำได้แค่นั่งรอที่นี่\nจนกว่าจะมีใครสักคนปากโป้งออกมา
+P1001-0147	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Ah, well. Guess all we can do now is sit and wait\n'til somebody spills the beans on him.	เอาเถอะ ตอนนี้คงทำได้แค่นั่งรอ\nจนกว่าจะมีใครสักคนปากโป้ง เรื่องมันออกมา
+P1001-0148	พากย์ · speech_list_judge_main_c10	? (ช)		Whoops, bad habit.	อุ๊ย นิสัยไม่ดีน่ะ
+P1001-0149	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yeah, bad habit. Sorry.	เออ นิสัยไม่ดีจริง ขอโทษที
+P1001-0150	พากย์ · speech_list_judge_main_c10	? (ช)		I'm hearin' you, but sitting crammed\nin this damn car ain't gonna help us nab him.	เข้าใจนะที่นายพูด แต่การนั่งอัดกัน\nอยู่ในรถบ้า ๆ นี่ไม่ช่วยให้จับมันได้หรอก
+P1001-0151	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I hear you, but we're not gettin' anywhere\ncrammed in this damn car.	เข้าใจนะ แต่เรานั่งอัดกัน\nอยู่ในรถบ้า ๆ นี่ไม่ไปถึงไหนหรอก
+P1001-0152	พากย์ · speech_list_judge_main_c10	Sugiura (ช)		The bugs in the Matsugane office are still working,\njust like I said they'd be.	เครื่องดักฟังในสำนักงาน มัตสึกาเนะยังทำงานอยู่\nเหมือนที่ฉันบอกไว้เป๊ะเลย
+P1001-0153	พากย์ · speech_list_judge_main_c10	Sugiura (ช)	[อีกแทร็ก]	Thought so. The bugs in the Matsugane office\nare still working, just like I said they'd be.	คิดไว้แล้ว เครื่องดักฟังในสำนักงานมัตสึกาเนะ\nยังทำงานอยู่ เหมือนที่ฉันบอกไว้เป๊ะเลย
+P1001-0154	พากย์ · speech_list_judge_main_c10	? (ช)		Just small talk.\nSounds like there are a ton of people in there.	แค่คุยเล่นทั่วไป\nฟังดูเหมือนข้างในมีคนเยอะมากเลย
+P1001-0155	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Just small talk.\nSounds like a ton of people in there.	แค่คุยเล่นทั่วไป\nฟังดูเหมือนข้างในมีคนเยอะมากเลย
+P1001-0156	พากย์ · speech_list_judge_main_c10	? (ช)		But Hamura's still gonna get\nin touch with them, right?	แต่ยังไงฮามุระก็ต้อง\nติดต่อพวกนั้นอยู่ดีใช่ไหม?
+P1001-0157	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	But... Hamura's still gonna get in touch\nwith them, right?	แต่... ยังไงฮามุระก็ต้องติดต่อ\nพวกนั้นอยู่ดีใช่ไหม?
+P1001-0158	พากย์ · speech_list_judge_main_c10	? (ช)		Whaddya mean, maybe!?\nYou're the one who said he'd be calling 'em!	อาจจะเนี่ยนะ!? ก็แกเป็นคนบอกเองว่า\nมันจะโทรหาพวกนั้นไง!
+P1001-0159	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	"Maybe"!? You're the one\nwho said he'd be calling 'em!	"อาจจะ" เนี่ยนะ!? ก็แกเป็นคน\nบอกเองว่ามันจะโทรหาพวกนั้น!
+P1001-0160	พากย์ · speech_list_judge_main_c10	? (ช)		Ugh... Where the hell is he?	เชอะ... มันหายหัวไปไหนวะเนี่ย?
+P1001-0161	พากย์ · speech_list_judge_main_c10	? (ช)		Can you at least put that shit out?\nYou're stinking up the whole van.	ดับไอ้นั่นทีได้ไหม?\nนายทำวินทั้งคันเหม็นไปหมดแล้ว
+P1001-0162	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Can you at least put that shit out?\nThe air already sucks in here.	ดับไอ้นั่นทีได้ไหม?\nอากาศในนี้แย่อยู่แล้วนะ
+P1001-0163	พากย์ · speech_list_judge_main_c10	? (ช)		Sorry, but you're just\ngonna have to deal.	โทษละกัน แต่นายก็\nต้องทนเอาแหละ
+P1001-0164	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You can stick it out.	ทนหน่อยแล้วกัน
+P1001-0165	พากย์ · speech_list_judge_main_c10	? (ช)		Anyway. You're serious\nabout capturing Hamura, yeah?	เอาเถอะ นายจริงจัง\nเรื่องจะจับฮามุระใช่ไหม?
+P1001-0166	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You're serious about capturing Hamura, yeah?	นายจริงจังเรื่องจะจับฮามุระใช่ไหม?
+P1001-0167	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Good. Can you hear anything?	ดี ได้ยินอะไรบ้างไหม?
+P1001-0168	พากย์ · speech_list_judge_main_c10	? (ช)		Hamura, too?	ฮามุระด้วยเหรอ?
+P1001-0169	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hamura, too? You hear him?	ฮามุระด้วยเหรอ? ได้ยินเสียงเขาไหม?
+P1001-0170	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	Fair enough.	ก็พอเข้าใจได้
+P1001-0171	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	My bad.	โทษที
+P1001-0172	พากย์ · speech_list_judge_main_c10	? (ช)		Yeah. He's our only chance\nof finding the Mole.	ใช่ มันคือโอกาสเดียว\nที่จะตามหาไอ้ตัวตุ่นได้
+P1001-0173	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yup. Hamura's our only chance\nof finding the Mole.	ใช่ ฮามุระคือโอกาสเดียว\nที่จะตามหาไอ้ตัวตุ่นได้
+P1001-0174	พากย์ · speech_list_judge_main_c10	? (ช)		We don't get Hamura, we lose.\nAyabe and Okubo are done for.	ถ้าเราจับฮามุระไม่ได้ ก็แพ้\nอายาเบะกับโอคุโบะจบเห่แน่
+P1001-0175	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	If we don't get Hamura, then our case is finished.\nAyabe and Okubo are done for.	ถ้าเราจับฮามุระไม่ได้ คดีนี้ก็จบเห่\nอายาเบะกับโอคุโบะซวยแน่
+P1001-0176	พากย์ · speech_list_judge_main_c10	? (ช)		Luckily, I have just the thing.	โชคดีที่ผมมีของเด็ดพอดีเลยครับ
+P1001-0177	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Well... I might have just the thing.	เอ่อ... ผมอาจจะมีของเด็ดอยู่พอดีครับ
+P1001-0178	พากย์ · speech_list_judge_main_c10	? (ช)		We'll spy on them from the sky.	เราจะสอดแนมพวกนั้นจากบนฟ้ากันครับ
+P1001-0179	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	We'll spy on the Matsugane\nfrom the sky.	เราจะสอดแนมมัตสึกาเนะ\nจากบนฟ้ากันครับ
+P1001-0180	พากย์ · speech_list_judge_main_c10	Kaito (ช)		The hell're you going, man?\nWe're supposed to be scoutin' the office.	จะไปไหนของนายวะ?\nเรามีหน้าที่สอดแนมสำนักงานนะ
+P1001-0181	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Hey, the hell're you going?\nWe're supposed to be scoutin' the office.	เฮ้ย จะไปไหนของนายวะ?\nเรามีหน้าที่สอดแนมสำนักงานนะ
+P1001-0182	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Heh, guess he's movin' up in the world.	ฮึ ดูท่าจะได้ดิบได้ดีขึ้นนี่นา
+P1001-0183	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Heh. He's movin' up in the world.	ฮึ มันได้ดิบได้ดีขึ้นนี่นา
+P1001-0184	พากย์ · speech_list_judge_main_c10	? (ช)		I'll come with.\nMy legs're getting sore as shit in here.	ฉันไปด้วย\nขานี่เมื่อยจะแย่อยู่แล้ว
+P1001-0185	พากย์ · speech_list_judge_main_c10	? (ช)		I'll switch with you later, promise.	เดี๋ยวจะสลับให้ทีหลัง สัญญา
+P1001-0186	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I'll switch with you later!	เดี๋ยวจะสลับให้ทีหลังนะ!
+P1001-0187	พากย์ · speech_list_judge_main_c10	Sugiura (ช)		Yup. Guy really thinks\nhe's hot shit, huh?	ใช่ ไอ้นี่คิดว่าตัวเอง\nเจ๋งจริงเลยนะ
+P1001-0188	พากย์ · speech_list_judge_main_c10	Sugiura (ช)	[อีกแทร็ก]	Looks like. Guy really thinks\nhe's hot shit, huh?	ดูเหมือนจะใช่ ไอ้นี่คิดว่าตัวเอง\nเจ๋งจริงเลยนะ
+P1001-0189	พากย์ · speech_list_judge_main_c10	? (ช)		Maybe with Hamura gone he's been\nable to relax a little.	อาจเป็นเพราะฮามุระหายไป\nมันเลยผ่อนคลายขึ้นมาบ้าง
+P1001-0190	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	With Hamura gone,\ndoes he call the shots?	พอฮามุระหายไป\nมันได้กุมบังเหียนแทนหรือเปล่า?
+P1001-0191	พากย์ · speech_list_judge_main_c10	? (ช)		So what, I'm stuck here by myself?	แล้วงี้ผมต้องอยู่คนเดียวเหรอครับ?
+P1001-0192	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	What? So I'm stuck here by myself?	อะไรนะ? แล้วงี้ผมต้องอยู่คนเดียวเหรอครับ?
+P1001-0193	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Is that Higashi?	นั่นฮิงาชิใช่ไหม?
+P1001-0194	พากย์ · speech_list_judge_main_c10	? (ช)		Hm? He's leaving.	อ้าว? เขาเดินออกไปแล้วครับ
+P1001-0195	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hm? Look. Higashi's leaving.	อ้าว? ดูสิครับ ฮิงาชิเดินออกไปแล้ว
+P1001-0196	พากย์ · speech_list_judge_main_c10	? (ช)		I'm gonna follow him. Better to split up\nthan all sit around in one place.	ผมจะตามไปดู แยกกันไปดีกว่า\nนั่งเบียดกันอยู่ที่เดียวเฉย ๆ
+P1001-0197	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I'm gonna follow Higashi.\nBetter to split up than all sit around in one place.	ผมจะตามฮิงาชิไปดู\nแยกกันไปดีกว่านั่งเบียดกันอยู่ ที่เดียวเฉย ๆ
+P1001-0198	พากย์ · speech_list_judge_main_c10	Yagami (ช)		(I need to find Higashi...)	(ต้องหาฮิงาชิให้เจอ...)
+P1001-0199	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	(There he is!)	(อยู่นั่นไง!)
+P1001-0200	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	(That's definitely not Higashi.\nWhat am I, blind?)	(นั่นไม่ใช่ฮิงาชิแน่ ๆ\nตาถั่วรึไงกันเนี่ย)
+P1001-0201	พากย์ · speech_list_judge_main_c10	? (ช)		(I'll wait for Higashi to start moving.)	(รอให้ฮิงาชิเริ่มขยับก่อนดีกว่า)
+P1001-0202	พากย์ · speech_list_judge_main_c10	? (ช)		Hey Tak...\nYou sure we can be out like this?	เฮ้ ทาคุ...\nแน่ใจนะว่าเราออกมาแบบนี้ได้?
+P1001-0203	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hey Tak... You sure we should be\nout in broad daylight?	เฮ้ ทาคุ... แน่ใจนะว่าเราควร\nออกมาเพ่นพ่านตอนกลางวันแสก ๆ แบบนี้?
+P1001-0204	พากย์ · speech_list_judge_main_c10	? (ช)		Heh, thought so.	ฮึ คิดไว้แล้ว
+P1001-0205	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Figured as much.	ก็ว่าอยู่
+P1001-0206	พากย์ · speech_list_judge_main_c10	? (ช)		Where the hell's Higashi going?	ฮิงาชิมันจะไปไหนวะเนี่ย?
+P1001-0207	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Where the hell you going, Higashi...?	แกจะไปไหนวะ ฮิงาชิ...?
+P1001-0208	พากย์ · speech_list_judge_main_c10	? (ช)		You really think he's gonna listen to us?\nHaven't talked to him since our fight at that restaurant.	นายคิดว่ามันจะยอมฟังเราจริง ๆ เหรอ?\nไม่ได้คุยกับมันเลยตั้งแต่ตี กันที่ร้านอาหารนั่น
+P1001-0209	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You really think he's gonna listen to us?\nHaven't talked to him since our fight.	นายคิดว่ามันจะยอมฟังเราจริง ๆ เหรอ?\nไม่ได้คุยกับมันเลยตั้งแต่ตีกัน ครั้งนั้น
+P1001-0210	พากย์ · speech_list_judge_main_c10	? (ช)		Huh, guess you got a point there.\nAll right, let's give it a shot.	อือ นายก็พูดมีเหตุผลอยู่นะ\nเอาวะ ลองดูสักตั้ง
+P1001-0211	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Dude, you're too close!\nBack off a bit.	เฮ้ย นายเข้าไปใกล้เกินไปแล้ว!\nถอยออกมาหน่อย
+P1001-0212	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Whoa, dude, you're too close!\nBack off a bit.	โอ้โห นายเข้าไปใกล้เกินไปแล้ว!\nถอยออกมาหน่อย
+P1001-0213	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Good point. Shono could be sending\nhis assassin after us as we speak.	มีเหตุผล โชโนะอาจกำลังส่ง\nมือสังหารตามล่าเราอยู่ตอนนี้ก็ได้
+P1001-0214	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก]	Good point. Shono could be sending\nthe Mole after us right now.	มีเหตุผล โชโนะอาจกำลังส่ง\nไอ้ตัวตุ่นตามล่าเราอยู่ตอนนี้ก็ได้
+P1001-0215	พากย์ · speech_list_judge_main_c10	? (ช)		We could get attacked at any time.	เราอาจโดนโจมตีเมื่อไหร่ก็ได้
+P1001-0216	พากย์ · speech_list_judge_main_c10	? (ช)		No clue... but he's alone now.\nWe could just walk up to him and ask.	ไม่รู้เหมือนกัน... แต่ตอนนี้เขาอยู่คนเดียว\nเราเดินเข้าไปถามตรง ๆ เลยก็ได้
+P1001-0217	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You know what? He's alone now.\nWe could just walk up to him and ask.	รู้อะไรไหม? ตอนนี้เขาอยู่คนเดียว\nเราเดินเข้าไปถามตรง ๆ เลยก็ได้
+P1001-0218	พากย์ · speech_list_judge_main_c10	? (ช)		Worst thing that happens is he says no.	อย่างแย่ที่สุดก็แค่เขาปฏิเสธ
+P1001-0219	พากย์ · speech_list_judge_main_c10	Kaito (ช)		What the? He's bolting!	อะไรวะ? มันเผ่นแล้ว!
+P1001-0220	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Huh...? What the hell? He's boltin'!	หา...? บ้าอะไรวะ? มันเผ่นแล้ว!
+P1001-0221	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[ใช้ร่วม]	Why!?	ทำไม!?
+P1001-0222	พากย์ · speech_list_judge_main_c10	? (ช)		I wasn't running away.\nNot from you, anyway.	ผมไม่ได้วิ่งหนีนะ\nอย่างน้อยก็ไม่ใช่หนีพวกคุณ
+P1001-0223	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	...Guess so. But it wasn't you\nI was runnin' from.	...ก็คงงั้น แต่ผมไม่ได้วิ่งหนี\nพวกคุณหรอกนะ
+P1001-0224	พากย์ · speech_list_judge_main_c10	? (ช)		I just couldn't let the family\nsee us talking. You get it?	ผมแค่ห้ามไม่ให้ตระกูลเห็นว่า\nเรากำลังคุยกันอยู่ เข้าใจไหมครับ?
+P1001-0225	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	If the family saw us talkin',\nwe'd both be screwed.	ถ้าตระกูลเห็นว่าเรากำลัง\nคุยกัน เราซวยกันทั้งคู่แน่
+P1001-0226	พากย์ · speech_list_judge_main_c10	? (ช)		Okay, look... Captain Hamura's throwing everything\nhe's got into catching the two of you.	โอเค ฟังนะ... กัปตันฮามุระทุ่มสุดตัว\nเพื่อจะจับพวกคุณสองคนให้ได้
+P1001-0227	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Captain Hamura's throwing everything he's got\ninto catching you two.	กัปตันฮามุระทุ่มสุดตัว\nเพื่อจะจับพวกคุณสองคนให้ได้
+P1001-0228	พากย์ · speech_list_judge_main_c10	? (ช)		Whole family's got orders to let him\nknow if you ever cross our path.	ทั้งตระกูลได้รับคำสั่งให้แจ้งเขา\nทันทีถ้าเจอพวกคุณ
+P1001-0229	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Whole family's got orders.\nIf we see you, we contact him.	ทั้งตระกูลได้รับคำสั่งมา\nถ้าเจอพวกคุณต้องติดต่อเขาทันที
+P1001-0230	พากย์ · speech_list_judge_main_c10	? (ช)		And then what, huh?\nHe wants you dead, you know that, right?	แล้วไงต่อวะ?\nมันอยากให้แกตาย รู้ตัวใช่ไหม?
+P1001-0231	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	And then what, huh?\nHe wants you dead, you know that?	แล้วไงต่อวะ?\nมันอยากให้แกตายนะ รู้ตัวหรือเปล่า?
+P1001-0232	พากย์ · speech_list_judge_main_c10	? (ช)		Nobody's told me. Honest.	ไม่มีใครบอกผมเลยจริง ๆ ครับ
+P1001-0233	พากย์ · speech_list_judge_main_c10	? (ช)		Listen. I'm not gonna rat\nabout seeing you here.	ฟังนะครับ ผมจะไม่ไปแฉ\nเรื่องที่เจอพวกคุณที่นี่หรอก
+P1001-0234	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Listen, I'm not gonna rat\nabout seeing you here.	ฟังนะ ผมจะไม่ไปแฉ\nเรื่องที่เจอพวกคุณที่นี่หรอกครับ
+P1001-0235	พากย์ · speech_list_judge_main_c10	? (ช)		But if I were you, I'd consider\ngetting outta town. Real fast.	แต่ถ้าเป็นผมนะ ผมคง\nพิจารณาหนีออกจากเมืองนี้ให้ เร็วที่สุด
+P1001-0236	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	But if I were you, I'd get\noutta town. And fast.	แต่ถ้าเป็นผมนะ ผมคง\nรีบหนีออกจากเมืองนี้ให้ไวเลย
+P1001-0237	พากย์ · speech_list_judge_main_c10	? (ช)		Bet Matsugane-san would\nagree with me, too.	ผมว่ามัตสึกาเนะซังก็คง\nเห็นด้วยกับผมเหมือนกัน
+P1001-0238	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Bet the boss would\nagree with me, too.	ผมว่าท่านหัวหน้าก็คง\nเห็นด้วยกับผมเหมือนกัน
+P1001-0239	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Higashi... You fuckin'...	ฮิงาชิ... ไอ้เวร...
+P1001-0240	พากย์ · speech_list_judge_main_c10	haikai_homeless (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x6]	Huh?	หา?
+P1001-0241	พากย์ · speech_list_judge_main_c10	? (ช)		Y'know, that wasn't as bad\nas I was expecting.	รู้อะไรไหม เรื่องนี้ไม่ได้แย่\nเท่าที่คิดไว้เลย
+P1001-0242	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	Don't be ridiculous.	อย่าพูดเล่นน่า
+P1001-0243	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Don't be an idiot.	อย่าทำตัวโง่ไปหน่อยเลย
+P1001-0244	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	So what?	แล้วยังไง?
+P1001-0245	พากย์ · speech_list_judge_main_c10	? (ช)		If they wanna find us so bad, let 'em find us.\nAnyone who comes our way's in for a world of hurt.	ถ้ามันอยากเจอเรามากนัก ก็ปล่อยให้เจอไปเลย\nใครที่ผ่านมาทางเราจะเจอดีแน่
+P1001-0246	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Well, if Hamura wants us so bad, let 'em find us.\nAnyone who comes our way's in for a world of hurt.	ถ้าฮามุระอยากเจอเรามากนัก ก็ปล่อยให้เจอไปเลย\nใครที่ผ่านมาทางเราจะเจอดีแน่
+P1001-0247	พากย์ · speech_list_judge_main_c10	? (ช)		And once we capture 'em,\nwe can force 'em to tell us where Hamura is.	แล้วพอจับตัวมันได้\nเราก็บีบให้มันปากโป้งบอก ที่อยู่ฮามุระได้
+P1001-0248	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Then, we just get 'em to cough up\nHamura's location, and we're good.	จากนั้นก็แค่บีบให้มัน\nคายที่อยู่ฮามุระออกมา แค่นั้นก็จบ
+P1001-0249	พากย์ · speech_list_judge_main_c10	? (ช)		Then what, you wanna just sit in the car\nwith Sugiura in the non-smoking section?	แล้วไง นายอยากไปนั่งอยู่ในรถ\nโซนปลอดบุหรี่ของซุกิอุระแทนงั้นเหรอ?
+P1001-0250	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	So you'd rather sit in Sugiura's\nnon-smoking car?	งั้นนายอยากไปนั่งในรถ\nปลอดบุหรี่ของซุกิอุระแทนสินะ?
+P1001-0251	พากย์ · speech_list_judge_main_c10	? (ช)		Damn right it doesn't.\nNow go walk around a bit.	นั่นสิ ไม่ดีแน่ ๆ\nงั้นไปเดินเพ่นพ่านซะหน่อย
+P1001-0252	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Right? Now... Let's go take a walk.\nGrab some attention.	เห็นไหมล่ะ เอาละ... ไปเดินเล่นกัน\nดึงความสนใจสักหน่อย
+P1001-0253	พากย์ · speech_list_judge_main_c10	? (ช)		I'll be watching from behind.	ฉันจะคอยดูอยู่ข้างหลังเอง
+P1001-0254	พากย์ · speech_list_judge_main_c10	? (ช)		Oh, and try and make yourself\nlook like an easy target.	อ้อ แล้วก็พยายามทำตัวให้\nดูเป็นเหยื่อง่าย ๆ หน่อยนะ
+P1001-0255	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	We wanna bait them into jumping us.\nMake yourself look like an easy target.	เราอยากล่อให้พวกมันเข้ามาจู่โจม\nทำตัวให้ดูเป็นเหยื่อง่าย ๆ หน่อย
+P1001-0256	พากย์ · speech_list_judge_main_c10	? (ช)		Beats me.\nI'm sure you can think of somethin'.	ไม่รู้สิ\nแต่นายต้องคิดออกอยู่แล้วแหละ
+P1001-0257	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I'm sure you can think of somethin'.	นายต้องคิดออกอยู่แล้วแหละ
+P1001-0258	พากย์ · speech_list_judge_main_c10	? (ช)		What, you done running?	ไง หมดแรงวิ่งหรือยัง?
+P1001-0259	พากย์ · speech_list_judge_main_c10	? (ช)		So then you'll hear us out?	งั้นแปลว่าคุณจะยอมฟังเราสินะ?
+P1001-0260	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	So... you'll talk?	งั้น... คุณจะยอมพูดสินะ?
+P1001-0261	พากย์ · speech_list_judge_main_c10	? (ช)		He's not gonna run anymore.\nJust, take it easy, Kaito-san.	เขาคงไม่หนีไปไหนแล้วล่ะครับ\nใจเย็น ๆ ก่อนนะ ไคโตะซัง
+P1001-0262	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	He's done running.\nTake it easy, Kaito-san.	เขาเลิกหนีแล้วล่ะครับ\nใจเย็น ๆ ก่อนนะ ไคโตะซัง
+P1001-0263	พากย์ · speech_list_judge_main_c10	? (ช)		Meaning if you called him now,\nhe'd come straight to us.	หมายความว่าถ้าคุณโทรหาเขาตอนนี้\nเขาจะรีบมาหาเราทันทีสินะ
+P1001-0264	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Huh. Meaning if you called him now,\nhe'd come straight to us.	ฮึ หมายความว่าถ้าคุณโทรหาเขาตอนนี้\nเขาจะรีบมาหาเราทันทีสินะ
+P1001-0265	พากย์ · speech_list_judge_main_c10	? (ช)		Just tell me where he is.	บอกมาเลยว่ามันอยู่ไหน
+P1001-0266	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Just tell me where Hamura is.	บอกมาเลยว่าฮามุระอยู่ไหน
+P1001-0267	พากย์ · speech_list_judge_main_c10	? (ช)		Should we take him up on that offer?\nSkip town, wait 'til it all blows over?	จะรับข้อเสนอเขาดีไหม?\nหนีออกจากเมือง รอให้เรื่องเงียบไปก่อน?
+P1001-0268	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	So, think we should listen to him\nand skip town?	แล้วนายว่าเราควรฟังเขา\nแล้วหนีออกจากเมืองไหม?
+P1001-0269	พากย์ · speech_list_judge_main_c10	? (ช)		Heh, just joking.	ฮ่ะ ล้อเล่นน่ะ
+P1001-0270	พากย์ · speech_list_judge_main_c10	? (ช)		Anyway, sounds like Hamura's got men\nlooking for us. And they're out for blood.	เอาเถอะ ฟังดูเหมือนฮามุระส่งคน\nมาตามหาเราแล้ว แล้วก็มาแบบเอาเป็นเอาตายซะด้วย
+P1001-0271	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Anyway, sounds like Hamura's got men looking for us.\nAnd they're out for blood.	เอาเถอะ ฟังดูเหมือนฮามุระส่งคนมาตามหาเราแล้ว\nแล้วก็มาแบบเอาเป็นเอาตายซะด้วย
+P1001-0272	พากย์ · speech_list_judge_main_c10	? (ช)		What do you mean, "so what"?	หมายความว่า "แล้วไง" เนี่ยนะ?
+P1001-0273	พากย์ · speech_list_judge_main_c10	? (ช)		How're you so confident? They might kill us\nbefore we get a chance to fight.	นายมั่นใจได้ยังไง? พวกมันอาจฆ่าเรา\nก่อนที่เราจะได้สู้ด้วยซ้ำ
+P1001-0274	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	How're you so confident?\nThey might kill us before we get a chance to fight.	นายมั่นใจได้ยังไง?\nพวกมันอาจฆ่าเราก่อนที่เราจะได้ สู้ด้วยซ้ำ
+P1001-0275	พากย์ · speech_list_judge_main_c10	? (ช)		Maybe even gouge our eyes out.	อาจจะควักลูกตาเราออกมาด้วยซ้ำ
+P1001-0276	พากย์ · speech_list_judge_main_c10	? (ช)		Yeah that doesn't sound\nso good either.	เอ่อ นั่นก็ฟังดู\nไม่ดีเหมือนกันนะ
+P1001-0277	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yeah, that doesn't sound\nso good either.	เอ่อ นั่นก็ฟังดูไม่ดี\nเหมือนกันนะ
+P1001-0278	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	...If you say so.	...ถ้านายว่างั้นก็ได้
+P1001-0279	พากย์ · speech_list_judge_main_c10	? (ช)		And how exactly am I gonna do that?	แล้วผมจะทำแบบนั้นได้ยังไงกันแน่?
+P1001-0280	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I get what you're saying, but...\nhow do I do that?	เข้าใจที่นายพูดแหละ แต่...\nจะทำยังไงล่ะ?
+P1001-0281	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[ซ้ำในบท x2]	Yo, Tak. Can you hear me?	เฮ้ ทาคุ ได้ยินฉันไหม?
+P1001-0282	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	Yo. Can you hear me, Tak?	โย่ ได้ยินฉันไหม ทาคุ?
+P1001-0283	พากย์ · speech_list_judge_main_c10	? (ช)		I've got your back.	ฉันคอยหนุนหลังนายเอง
+P1001-0284	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I've got your back\nfrom over here.	ฉันคอยหนุนหลังนาย\nอยู่ตรงนี้เอง
+P1001-0285	พากย์ · speech_list_judge_main_c10	? (ช)		Just go wherever,\nand try to look vulnerable.	แค่เดินไปเรื่อย ๆ\nแล้วพยายามทำตัวดูอ่อนแอไว้
+P1001-0286	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Just go wherever, and try to\nlook vulnerable.	แค่เดินไปเรื่อย ๆ แล้วพยายาม\nทำตัวดูอ่อนแอไว้
+P1001-0287	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Yup.	ใช่
+P1001-0288	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Nice going, Tak.\nYou look weak as shit out there.	เยี่ยมไปเลย ทาคุ\nนายดูอ่อนแอสุด ๆ เลยตรงนั้น
+P1001-0289	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Nice going, Tak.\nYou look weak as hell out there.	เยี่ยมไปเลย ทาคุ\nนายดูอ่อนแอสุด ๆ เลยตรงนั้น
+P1001-0290	พากย์ · speech_list_judge_main_c10	? (ช)		You're like a baby sheep or somethin'.\nHow are you even doing that?	นายเหมือนลูกแกะตัวน้อยเลยว่ะ\nทำได้ยังไงเนี่ย?
+P1001-0291	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	This is incredible!\nYou're like a baby sheep or somethin'.	สุดยอดไปเลย!\nนายเหมือนลูกแกะตัวน้อยเลยว่ะ
+P1001-0292	พากย์ · speech_list_judge_main_c10	? (ช)		Heh. Sorry, sorry. And don't worry,\nyou're in the clear for now.	ฮ่ะ โทษที โทษที ไม่ต้องห่วงนะ\nตอนนี้ยังปลอดภัยอยู่
+P1001-0293	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Don't mind me. And you're in the clear\nfor now, don't worry.	อย่าไปสนใจฉันเลย แล้วตอนนี้นายก็\nยังปลอดภัยอยู่ ไม่ต้องห่วง
+P1001-0294	พากย์ · speech_list_judge_main_c10	? (ช)		I am, I am.	ดูอยู่ ดูอยู่
+P1001-0295	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hey, I got this.	เฮ้ ผมจัดการได้อยู่แล้ว
+P1001-0296	พากย์ · speech_list_judge_main_c10	? (ช)		We don't know what's gonna happen next, though.\nYou might wanna grab a bite while you still can.	แต่เราก็ไม่รู้หรอกว่าต่อไปจะเป็นไง\nนายน่าจะรีบหาอะไรกินไว้ตอนที่ ยังทำได้
+P1001-0297	พากย์ · speech_list_judge_main_c10	? (ช)		Look at those assholes. You could wipe\nthe floor with 'em no problem.	ดูไอ้พวกนั้นสิ นายเก็บพวกมัน\nได้สบาย ๆ อยู่แล้ว
+P1001-0298	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You could wipe the floor with\nthese thugs, no problem.	นายเก็บพวกอันธพาลพวกนี้\nได้สบาย ๆ อยู่แล้ว
+P1001-0299	พากย์ · speech_list_judge_main_c10	? (ช)		What, can't you tell?\nThis is all you, man.	อะไรวะ ดูไม่ออกเหรอ?\nงานนี้นายจัดการเองล้วน ๆ
+P1001-0300	พากย์ · speech_list_judge_main_c10	? (ช)		You <font_kind=yakuza_italic>can</font_kind> handle it, yeah?	นาย<font_kind=yakuza_italic>รับมือ</font_kind>ได้อยู่แล้วใช่ไหม?
+P1001-0301	พากย์ · speech_list_judge_main_c10	? (ช)		Those scrubs ain't Matsugane guys.	ไอ้พวกกากนั่นไม่ใช่คนของ มัตสึกาเนะหรอก
+P1001-0302	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Take a closer look at those scrubs.\nThey ain't Matsugane guys.	ดูไอ้พวกกากนั่นดี ๆ สิ\nไม่ใช่คนของมัตสึกาเนะหรอก
+P1001-0303	พากย์ · speech_list_judge_main_c10	? (ช)		Which means Tak's flyin' solo\non this one.	หมายความว่ารอบนี้ทาคุ\nต้องเดี่ยวเอง
+P1001-0304	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Which means you can take 'em.	หมายความว่านายเก็บพวกมันได้สบาย ๆ
+P1001-0305	พากย์ · speech_list_judge_main_c10	? (ช)		These dicks got nothin' on you, Tak.	ไอ้พวกงี่เง่านี่ไม่มีทางสู้นาย ได้หรอก ทาคุ
+P1001-0306	พากย์ · speech_list_judge_main_c10	? (ช)		Good luck. I'm gonna hang back.\nKeep watch, y'know?	โชคดีละกัน ฉันจะถอยไปคอยดูอยู่ห่าง ๆ\nคุมสถานการณ์ไว้ รู้ใช่ไหม?
+P1001-0307	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Now, I'm gonna hang back.\nKeep watch, y'know?	เอาละ ฉันจะถอยไปคอยดูอยู่ห่าง ๆ\nคุมสถานการณ์ไว้ รู้ใช่ไหม?
+P1001-0308	พากย์ · speech_list_judge_main_c10	? (ช)		Hey Tak.\nWhy do you get in so many fights?	เฮ้ ทาคุ\nทำไมนายต้องไปมีเรื่องบ่อยจังวะ?
+P1001-0309	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Dude, why do you get in\nso many fights?	เฮ้ย ทำไมนายต้องไปมีเรื่อง\nบ่อยจังวะ?
+P1001-0310	พากย์ · speech_list_judge_main_c10	? (ช)		You've gotta start lookin' tougher, man.\nMake it so nobody even <font_kind=yakuza_italic>dares</font_kind> step up on you.	นายต้องทำตัวให้ดูแกร่งกว่านี้หน่อยนะ\nทำให้ไม่มีใคร<font_kind=yakuza_italic>กล้า</font_kind> มาหาเรื่องนายเลยดีกว่า
+P1001-0311	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Man, you've gotta start lookin' tougher.\nMake it so nobody even <font_kind=yakuza_italic>dares</font_kind> step up on you.	เฮ้ย นายต้องทำตัวให้ดูแกร่งกว่านี้หน่อยนะ\nทำให้ไม่มีใคร<font_kind=yakuza_italic>กล้า</font_kind> มาหาเรื่องนายเลยดีกว่า
+P1001-0312	พากย์ · speech_list_judge_main_c10	? (ช)		Dude, that what you normally eat?	นี่นายกินแบบนี้เป็นปกติเหรอ
+P1001-0313	พากย์ · speech_list_judge_main_c10	? (ช)		Look at you, buyin' gear and shit!	โห ดูนายสิ ซื้อของซื้ออุปกรณ์เพียบเลย!
+P1001-0314	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Look at you, buyin' gear and shit.	ดูนายสิ ซื้อของซื้ออุปกรณ์เพียบเลย
+P1001-0315	พากย์ · speech_list_judge_main_c10	? (ช)		Don't forget the mission, yeah?	อย่าลืมภารกิจล่ะ เข้าใจนะ?
+P1001-0316	พากย์ · speech_list_judge_main_c10	Yagami (ช)		...Can you not?\nThis is how I always walk.	...หยุดพูดได้ไหม?\nผมเดินแบบนี้เป็นปกติอยู่แล้ว
+P1001-0317	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก]	Can you chill out?\nI'm just walking normally.	ใจเย็น ๆ หน่อยได้ไหม?\nผมแค่เดินปกติเฉย ๆ
+P1001-0318	พากย์ · speech_list_judge_main_c10	? (ช)		I hope you're watching...	หวังว่านายจะดูอยู่นะ...
+P1001-0319	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Really? I hope you're watching...	จริงเหรอ? หวังว่านายจะดูอยู่นะ...
+P1001-0320	พากย์ · speech_list_judge_main_c10	? (ช)		Thanks for the heads up.	ขอบใจที่บอกนะ
+P1001-0321	พากย์ · speech_list_judge_main_c10	? (ช)		...You're sure?	...แน่ใจนะ?
+P1001-0322	พากย์ · speech_list_judge_main_c10	? (ช)		Yeah, yeah. I'll be fine.	ครับ ๆ ผมไม่เป็นไรหรอก
+P1001-0323	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	All right already. I'll be fine.	โอเคน่า ผมไม่เป็นไรหรอก
+P1001-0324	พากย์ · speech_list_judge_main_c10	? (ช)		You make it sound so easy!	พูดง่ายจังเลยนะ!
+P1001-0325	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Don't make it sound so easy!	อย่าทำให้มันฟังดูง่ายขนาดนั้นสิ!
+P1001-0326	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	Yeah, sure.	อือ ได้สิ
+P1001-0327	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Okay, okay...	โอเค โอเค...
+P1001-0328	พากย์ · speech_list_judge_main_c10	? (ช)		Beats me.\nPeople just wanna hit me, I guess.	ไม่รู้สิ\nคงเป็นเพราะคนอยากต่อยผมมั้ง
+P1001-0329	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	People just wanna hit me, I guess.	คงเป็นเพราะคนอยากต่อยผมมั้ง
+P1001-0330	พากย์ · speech_list_judge_main_c10	? (ช)		Well excuse the hell out of me.	อ้าว ขอโทษทีนะที่เป็นแบบนี้
+P1001-0331	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Well, excuse the hell out of me.	แหม ขอโทษทีก็แล้วกันนะ
+P1001-0332	พากย์ · speech_list_judge_main_c10	? (ช)		Do you really have to\ncomment on everything I do...?	นายต้องคอมเมนต์ทุกอย่างที่ผมทำ\nเลยเหรอ...?
+P1001-0333	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Could do without the commentary...	ไม่ต้องคอมเมนต์ก็ได้นะ...
+P1001-0334	พากย์ · speech_list_judge_main_c10	? (ช)		Yup. Never know what's\ngonna happen out there.	เออ ก็ไม่รู้ว่าข้างนอก\nจะเจออะไรบ้างนี่
+P1001-0335	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yup, better to be prepared.	เออ เตรียมตัวไว้ก่อนดีกว่า
+P1001-0336	พากย์ · speech_list_judge_main_c10	? (ช)		I won't. This is all part of the plan.	ไม่ลืมหรอก นี่ก็เป็นส่วนหนึ่งของแผนทั้งนั้น
+P1001-0337	พากย์ · speech_list_judge_main_c10	? (ช)		Those Matsugane assholes ain't biting.\nYou might wanna try lookin' even weaker.	ไอ้พวกมัตสึกาเนะนั่นไม่ยอมกิน เหยื่อเลยว่ะ\nนายลองทำตัวอ่อนแอกว่านี้อีกหน่อยดิ
+P1001-0338	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	If the Matsugane are around, they ain't biting.\nCan't you look more pathetic?	ถ้ามัตสึกาเนะอยู่แถวนี้ พวกมันไม่กินเหยื่อหรอก\nนายทำตัวน่าสมเพชกว่านี้ไม่ได้เหรอ
+P1001-0339	พากย์ · speech_list_judge_main_c10	? (ช)		Hmmm... Maybe if you tried\ngetting drunk?	อืม... ลองเมาดู\nมั้ยล่ะ?
+P1001-0340	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hmmm, well... Maybe if you tried\ngetting drunk?	อืม เอ่อ... ลองเมาดู\nมั้ยล่ะ?
+P1001-0341	พากย์ · speech_list_judge_main_c10	Yagami (ช)		What's up, Kaito-san?	มีอะไรเหรอ ไคโตะซัง?
+P1001-0342	พากย์ · speech_list_judge_main_c10	? (ช)		And how am I gonna do that?	แล้วผมจะทำแบบนั้นได้ยังไง
+P1001-0343	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Huh? Sure, but... How?	หา? ได้สิ แต่... ยังไงล่ะ
+P1001-0344	พากย์ · speech_list_judge_main_c10	? (ช)		Not a bad idea.\nGuess I'll stop by Tender, then.	ไม่เลวนะ\nงั้นผมแวะไปที่เทนเดอร์ก่อนละกัน
+P1001-0345	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Drinking, huh? Not a bad idea.\nGuess I'll stop by Tender, then.	ดื่มเหรอ ไม่เลวนะ\nงั้นแวะไปเทนเดอร์ก่อนละกัน
+P1001-0346	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Well you sure took your sweet time in there.\nDid you forget the mission, Tak?	โห นายใช้เวลาข้างในนานจังนะ\nลืมภารกิจไปแล้วเหรอ ทาคุ
+P1001-0347	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Yo. You sure took your sweet time in there, Tak.\nYou forget the whole plan?	โย่ นายใช้เวลาข้างในนานจังนะ ทาคุ\nลืมแผนทั้งหมดไปแล้วเหรอ
+P1001-0348	พากย์ · speech_list_judge_main_c10	? (ช)		You're supposed to be luring out Hamura's goons,\nnot drinking with the fuckin' locals.	นายมีหน้าที่ล่อพวกลูกน้องฮามุระออกมา\nไม่ใช่ไปนั่งดื่มกับชาวบ้านซะงั้น
+P1001-0349	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You're supposed to be luring out Hamura's goons, right?\nNot chatting up the locals!	นายมีหน้าที่ล่อพวกลูกน้อง ฮามุระออกมาไม่ใช่เหรอ\nไม่ใช่มานั่งจีบชาวบ้านนะ!
+P1001-0350	พากย์ · speech_list_judge_main_c10	? (ช)		Guess I did, huh? I'm sick of waiting, though!\nHow 'bout we just go bust into the Matsugane office?	ก็จริงนะ แต่ฉันเบื่อรอแล้วว่ะ!\nไปบุกสำนักงานตระกูลมัตสึกาเนะ เลยดีมั้ย?
+P1001-0351	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yeah... I'm just sick of waitin', though!\nHow 'bout we just go bust into the Matsugane office?	เออ... แต่ฉันเบื่อรอแล้วว่ะ!\nไปบุกสำนักงานตระกูลมัตสึกาเนะ เลยดีมั้ย?
+P1001-0352	พากย์ · speech_list_judge_main_c10	? (ช)		Then... Oh, I got it!	งั้น... อ๋อ คิดออกแล้ว!
+P1001-0353	พากย์ · speech_list_judge_main_c10	? (ช)		Try goin' to one of the Matsugane clubs.	ลองไปที่ร้านของ ตระกูลมัตสึกาเนะสักแห่งดูสิ
+P1001-0354	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Try goin' to one of the\nMatsugane's clubs.	ลองไปที่ร้านของ\nตระกูลมัตสึกาเนะสักแห่งดูสิ
+P1001-0355	พากย์ · speech_list_judge_main_c10	? (ช)		You just show up and tell\n'em Yagami's here.	แค่โผล่ไปแล้วบอก\nพวกมันว่ายากามิมาที่นี่
+P1001-0356	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You waltz right up to the Matsugane's doorstep,\nand tell 'em Yagami's here.	เดินยิ้มร่าเข้าไปหน้าประตู ตระกูลมัตสึกาเนะเลย\nแล้วบอกว่ายากามิมาที่นี่
+P1001-0357	พากย์ · speech_list_judge_main_c10	? (ช)		Word'll probably make it up\nto Hamura in no time.	ข่าวคงไปถึง\nฮามุระไม่ช้าหรอก
+P1001-0358	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	After that, it shouldn't take too long.\nWord'll make it up to Hamura in no time.	หลังจากนั้นก็ไม่นานหรอก\nข่าวจะไปถึงฮามุระเอง
+P1001-0359	พากย์ · speech_list_judge_main_c10	? (ช)		Lemme see... Why don't you try Alvin,\nover on Tenkaichi Street?	ขอคิดดูก่อน... ลองไปที่อัลวินดูสิ\nอยู่แถวถนนเทนไคจิ
+P1001-0360	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Lemme see... Why don't you try\nAlvin, over on Tenkaichi Street?	ขอคิดดูก่อน... ลองไปที่\nอัลวิน แถวถนนเทนไคจิดูสิ
+P1001-0361	พากย์ · speech_list_judge_main_c10	? (ช)		...Seriously? <font_kind=yakuza_italic>You're</font_kind> the one who told me to get drunk.	...พูดจริงเหรอ? <font_kind=yakuza_italic>นาย</font_kind>เองแหละที่บอกให้ผมไปเมา
+P1001-0362	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	...Seriously? <font_kind=yakuza_italic>You're</font_kind> the one who told me\nto get drunk.	...พูดจริงเหรอ? <font_kind=yakuza_italic>นาย</font_kind>เองแหละที่บอกให้ผม\nไปเมา
+P1001-0363	พากย์ · speech_list_judge_main_c10	? (ช)		Think about how many guys they've got.\nWe'd be fools to charge in there.	ลองคิดดูสิว่าพวกนั้นมีคนเยอะแค่ไหน\nบุกเข้าไปตรงๆ คงโง่เกินไป
+P1001-0364	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Uh, bad idea. Think about how many guys they've got.\nWe'd be fools to charge in there.	เอ่อ ความคิดแย่มาก ลองคิดดูว่าพวกนั้นมีคนเยอะแค่ไหน\nบุกเข้าไปตรงๆ คงโง่เกินไป
+P1001-0365	พากย์ · speech_list_judge_main_c10	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Uh-huh.	ใช่เลย
+P1001-0366	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Do you now.	งั้นเหรอ
+P1001-0367	พากย์ · speech_list_judge_main_c10	? (ช)		And that'll help, how?	แล้วมันจะช่วยได้ยังไง
+P1001-0368	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	How would that help?	มันจะช่วยได้ยังไงล่ะ
+P1001-0369	พากย์ · speech_list_judge_main_c10	? (ช)		You know, that might actually work. Just point me\nto a club and we'll go from there.	รู้อะไรมั้ย มันอาจจะได้ผลจริงๆ นะ\nแค่บอกร้านมาที ที่เหลือค่อยว่ากัน
+P1001-0370	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I see... That might actually work.\nJust point me to the nearest club.	เข้าใจแล้ว... มันอาจจะได้ผลจริงๆ นะ\nบอกร้านที่ใกล้ที่สุดมาที
+P1001-0371	พากย์ · speech_list_judge_main_c10	? (ช)		All right, I'll head over now.	ได้ ผมไปเดี๋ยวนี้เลย
+P1001-0372	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Okay, sure. I'll head over now.	โอเค ได้เลย ผมไปเดี๋ยวนี้เลย
+P1001-0373	พากย์ · speech_list_judge_main_c10	alvin_boy (ช)		Please, it's not exactly possible right now.	ได้โปรดเถอะครับ ตอนนี้มันเป็นไปไม่ได้จริงๆ
+P1001-0374	พากย์ · speech_list_judge_main_c10	alvin_boy (ช)	[อีกแทร็ก]	Please, it's not exactly possible...	ได้โปรดเถอะครับ มันเป็นไปไม่ได้จริงๆ...
+P1001-0375	พากย์ · speech_list_judge_main_c10	? (ช)		N-No...	ไ-ไม่นะ...
+P1001-0376	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	N-No way...	ไ-ไม่จริงน่า...
+P1001-0377	พากย์ · speech_list_judge_main_c10	alvin_matsu (ช)		Didn't you hear what we said last week?\nI want a fuckin' answer, today!	ไม่ได้ยินที่กูพูดไปอาทิตย์ ที่แล้วหรือไง\nกูอยากได้คำตอบเดี๋ยวนี้ว่ะ!
+P1001-0378	พากย์ · speech_list_judge_main_c10	alvin_matsu (ช)	[อีกแทร็ก]	Look, we told you last week!\nI want a fuckin' answer, today!	ฟังนะ บอกไปแล้วอาทิตย์ที่แล้ว!\nกูอยากได้คำตอบเดี๋ยวนี้ว่ะ!
+P1001-0379	พากย์ · speech_list_judge_main_c10	? (ช)		It better be fucking possible!	ก็ทำให้มันเป็นไปได้สิวะ!
+P1001-0380	พากย์ · speech_list_judge_main_c10	? (ช)		With how fast your management costs're rising,\nof course your protection's gonna cost more!	ค่าใช้จ่ายร้านมึงพุ่งเร็วขนาดนี้\nค่าคุ้มครองก็ต้องแพงขึ้นตามสิวะ!
+P1001-0381	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	When management costs go up,\nprotection goes up right along with it!	ค่าใช้จ่ายร้านสูงขึ้นเท่าไหร่\nค่าคุ้มครองก็ต้องขึ้นตามไปด้วยสิวะ!
+P1001-0382	พากย์ · speech_list_judge_main_c10	? (ช)		Huh? The fuck...?	หา? อะไรวะ...?
+P1001-0383	พากย์ · speech_list_judge_main_c10	? (ช)		Wait, that's Yagami!\nThe hell're you doin' here!?	เดี๋ยวนะ นั่นมันยากามินี่!\nมึงมาทำอะไรที่นี่วะ!?
+P1001-0384	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Wait, it's Yagami!\nThe hell're you doin' here!?	เดี๋ยว นั่นยากามิเหรอ!\nมึงมาทำอะไรตรงนี้วะ!?
+P1001-0385	พากย์ · speech_list_judge_main_c10	? (ช)		None of your fuckin' business!	ไม่ใช่เรื่องของมึงว่ะ!
+P1001-0386	พากย์ · speech_list_judge_main_c10	? (ช)		You little... I'll slaughter you!	ไอ้เด็กเวร... กูจะเชือดมึงซะ!
+P1001-0387	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Tak, those thugs are Matsugane.\nNo doubt about it.	ทาคุ พวกนักเลงนั่นเป็นคนของ\nตระกูลมัตสึกาเนะแน่นอน
+P1001-0388	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Tak, take a look.\nThose thugs are Matsugane boys for sure.	ทาคุ ดูสิ\nพวกนักเลงนั่นเป็นคนของ ตระกูลมัตสึกาเนะแน่ๆ
+P1001-0389	พากย์ · speech_list_judge_main_c10	? (ช)		Maybe you should, uh... help or something?\nThat guy looks like he could use a hand.	นายน่าจะเข้าไปช่วยหน่อยมั้ง...\nดูท่าคนนั้นต้องการมือช่วยเหลือนะ
+P1001-0390	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You can step in if you want?\nI dunno, that guy might appreciate it.	นายจะเข้าไปช่วยก็ได้นะถ้าอยากช่วย...\nไม่รู้สิ คนนั้นอาจจะซึ้งใจก็ได้
+P1001-0391	พากย์ · speech_list_judge_main_c10	? (ช)		Just hurry up and get it over with.	รีบๆ จัดการให้จบๆ ไปเถอะ
+P1001-0392	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Hm? What's going on?	อืม? เกิดอะไรขึ้นเหรอ?
+P1001-0393	พากย์ · speech_list_judge_main_c10	Genda (ช)	[ใช้ร่วม]	Agreed.	เห็นด้วย
+P1001-0394	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yeah, looks like.	ใช่ ดูท่าจะเป็นงั้น
+P1001-0395	พากย์ · speech_list_judge_main_c10	? (ช)		You could at least <font_kind=yakuza_italic>try</font_kind>\nto sound interested.	อย่างน้อยก็<font_kind=yakuza_italic>ลอง</font_kind>\nทำเสียงสนใจหน่อยได้มั้ย
+P1001-0396	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Kaito-san... At least <font_kind=yakuza_italic>try</font_kind> to sound interested.	ไคโตะซัง... อย่างน้อยก็<font_kind=yakuza_italic>ลอง</font_kind>ทำเสียงสนใจหน่อยสิ
+P1001-0397	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Yeah, yeah.	เออๆ
+P1001-0398	พากย์ · speech_list_judge_main_c10	? (ช)		I think you've had enough\nfun for one day.	คิดว่าคุณสนุกมาพอแล้วนะ\nสำหรับวันนี้
+P1001-0399	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hey. I think that's enough.	เฮ้ พอได้แล้วมั้ง
+P1001-0400	พากย์ · speech_list_judge_main_c10	? (ช)		My question first.\nWhy are you threatening this civilian?	ขอถามผมก่อน\nทำไมถึงข่มขู่ประชาชนคนนี้
+P1001-0401	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	First, I'd like to know why you're\nthreatening this civilian.	อย่างแรก ผมอยากรู้ก่อนว่าทำไมคุณถึง\nข่มขู่ประชาชนคนนี้
+P1001-0402	พากย์ · speech_list_judge_main_c10	? (ช)		Ugh, watch the volume. Or is yelling\nthe only thing a dumb guy like you can do?	แหม ลดเสียงหน่อยเถอะ หรือว่าตะโกน\nคือสิ่งเดียวที่คนโง่แบบคุณทำได้
+P1001-0403	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hey, turn it down, would you?\nOr is yelling the only volume you've got?	เฮ้ ลดเสียงหน่อยได้มั้ย\nหรือว่าคุณมีโหมดเสียงเดียวคือตะโกน
+P1001-0404	พากย์ · speech_list_judge_main_c10	? (ช)		Ohhh, that must be why you're bottom\nof the ladder. It all makes sense now.	อ๋อ นั่นสินะ ทำไมถึงรั้งท้าย\nสุดในกลุ่ม เข้าใจแล้ว
+P1001-0405	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Ohhh, that must be why you're\nbottom of the ladder. I get it now.	อ๋อ นั่นสินะทำไมถึงรั้งท้าย\nสุดในแก๊ง เข้าใจล่ะ
+P1001-0406	พากย์ · speech_list_judge_main_c10	alvin_matsu (ช)		Eep...!	อี๊ดดด...!
+P1001-0407	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	Captain Hamura...?	กัปตันฮามุระ...?
+P1001-0408	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Y'know, Tak...\nThis strategy's pretty solid, huh?	รู้อะไรมั้ย ทาคุ...\nแผนนี้เจ๋งดีเหมือนกันนะ
+P1001-0409	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Y'know, Tak... this strategy's\npretty solid, huh?	รู้มั้ย ทาคุ... แผนนี้เจ๋งดี\nเหมือนกันเนอะ
+P1001-0410	พากย์ · speech_list_judge_main_c10	? (ช)	[มีอังกฤษ: Romance of the Three Kinkdoms]	Hm... There's Romance of the Three Kinkdoms\nover on Pink Street.	อืม... มีร้าน Romance of the Three Kinkdoms\nอยู่แถวถนนพิงก์สตรีท
+P1001-0411	พากย์ · speech_list_judge_main_c10	? (ช)		Fantastic Romance on West Shichifuku, and...\nOh, Sweet Billow on East Shichifuku.	แฟนตาสติกโรแมนซ์ที่ถนนชิจิฟุกุ ฝั่งตะวันตก แล้วก็...\nอ้อ สวีทบิลโลว์ที่ถนนชิจิฟุกุฝั่ง ตะวันออกด้วย
+P1001-0412	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Fantastic Romance on West Shichifuku,\nand... Sweet Billow on East Shichifuku.	แฟนตาสติกโรแมนซ์ที่ถนนชิจิฟุกุ ฝั่งตะวันตก\nแล้วก็...สวีทบิลโลว์ที่ถนนชิจิฟุกุฝั่ง ตะวันออก
+P1001-0413	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Listen up!	ฟังนะ!
+P1001-0414	พากย์ · speech_list_judge_main_c10	? (ช)		Go tell your precious Captain Hamura\nthat Yagami was here. Got that?	ไปบอกกัปตันฮามุระสุดที่รักของนาย\nว่ายากามิมาที่นี่ เข้าใจมั้ย
+P1001-0415	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Go cry to Captain Hamura\nand tell him Yagami was here!	ไปร้องไห้บอกกัปตันฮามุระ\nว่ายากามิมาที่นี่ซะ!
+P1001-0416	พากย์ · speech_list_judge_main_c10	? (ช)		Just do it.	ทำตามที่บอกก็พอ
+P1001-0417	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	On your way now.	ไปได้แล้ว
+P1001-0418	พากย์ · speech_list_judge_main_c10	? (ช)		Well, we'll find out soon enough.	เดี๋ยวก็รู้เอง
+P1001-0419	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yeah, we'll see.	เออ เดี๋ยวก็รู้
+P1001-0420	พากย์ · speech_list_judge_main_c10	? (ช)		You know any other Matsugane joints,\nKaito-san? We should hit a few, just to be safe.	ไคโตะซังรู้จักร้านอื่นของ ตระกูลมัตสึกาเนะอีกมั้ย\nเราน่าจะไปหลายๆ ที่ไว้ก่อน เผื่อไว้
+P1001-0421	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Kaito-san, you know any other Matsugane joints?\nWe should hit a few, just to be safe.	ไคโตะซัง รู้จักร้านอื่นของ ตระกูลมัตสึกาเนะอีกมั้ย?\nเราน่าจะแวะไปหลายที่ไว้ก่อนเผื่อไว้
+P1001-0422	พากย์ · speech_list_judge_main_c10	? (ช)		All right, I'll try all of 'em.	ได้ ผมจะลองแวะไปให้ครบทุกที่เลย
+P1001-0423	พากย์ · speech_list_judge_main_c10	billow_boy (ช)		...I do. Why?	...ใช่ครับ ทำไมเหรอ
+P1001-0424	พากย์ · speech_list_judge_main_c10	billow_boy (ช)	[อีกแทร็ก]	...Yes, but why?	...ใช่ครับ แต่ทำไมเหรอ
+P1001-0425	พากย์ · speech_list_judge_main_c10	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Who are you?	คุณเป็นใครกัน?
+P1001-0426	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	And why's that?	ทำไมล่ะ?
+P1001-0427	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	...What's going on here?	...เกิดอะไรขึ้นเนี่ย
+P1001-0428	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Why don't you quit standing\naround and go find out?	ทำไมไม่เลิกยืนเฉยๆ\nแล้วไปถามให้รู้เรื่องซะทีล่ะ
+P1001-0429	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Quit standing around\nand go find out.	เลิกยืนเฉยๆ ได้แล้ว\nไปถามให้รู้เรื่องซะ
+P1001-0430	พากย์ · speech_list_judge_main_c10	? (ช)		Just do it, Tak.	ทำไปเถอะน่า ทาคุ
+P1001-0431	พากย์ · speech_list_judge_main_c10	Yagami (ช)		So, this is Sweet Billow, huh?	งั้นนี่ก็คือสวีทบิลโลว์สินะ
+P1001-0432	พากย์ · speech_list_judge_main_c10	? (ช)		Meaning the guy puffing away\nover there is probably an employee.	หมายความว่าผู้ชายที่กำลังพ่น ควันบุหรี่\nอยู่ตรงนั้นน่าจะเป็นพนักงานร้าน
+P1001-0433	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Meaning the guy puffing away over there\nis probably an employee.	หมายความว่าผู้ชายที่พ่น ควันบุหรี่อยู่ตรงนั้น\nน่าจะเป็นพนักงานร้าน
+P1001-0434	พากย์ · speech_list_judge_main_c10	? (ช)		Someone's bossy today...	วันนี้ใครบางคนขี้บงการจังนะ...
+P1001-0435	พากย์ · speech_list_judge_main_c10	? (ช)		Hey, you work here?	เฮ้ ทำงานที่นี่เหรอ
+P1001-0436	พากย์ · speech_list_judge_main_c10	? (ช)		Lemme ask you something.\nThis is a Matsugane establishment, right?	ขอถามอะไรหน่อย\nที่นี่เป็นร้านของ ตระกูลมัตสึกาเนะใช่มั้ย
+P1001-0437	พากย์ · speech_list_judge_main_c10	? (ช)		The name's Yagami. Don't worry,\nI won't stick around much longer.	ผมชื่อยากามิ ไม่ต้องห่วง\nผมจะไม่อยู่นานหรอก
+P1001-0438	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	The name's Yagami.\nDon't worry, I won't stick around much longer.	ผมชื่อยากามิ\nไม่ต้องห่วง ผมจะไม่อยู่นานหรอก
+P1001-0439	พากย์ · speech_list_judge_main_c10	? (ช)		Just tell your boss\nI dropped by to say hello.	แค่บอกเจ้านายคุณว่า\nผมแวะมาทักทายก็พอ
+P1001-0440	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Just tell your boss Yagami\ndropped by to say hello.	แค่บอกเจ้านายคุณว่ายากามิ\nแวะมาทักทายก็พอ
+P1001-0441	พากย์ · speech_list_judge_main_c10	? (ช)		Look, just tell him, okay?\nI've gotta run.	ฟังนะ บอกเขาไปก็พอ โอเคมั้ย\nผมต้องไปแล้ว
+P1001-0442	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Nothing. Just tell him, okay?\nAnyway, I've gotta run.	ไม่มีอะไรหรอก บอกเขาไปก็พอ โอเคนะ\nยังไงผมต้องไปแล้ว
+P1001-0443	พากย์ · speech_list_judge_main_c10	? (ช)	[ซ้ำในบท x3]	(That should do it.\nWhere to next?)	(แค่นี้ก็น่าจะพอแล้ว\nต่อไปที่ไหนดี)
+P1001-0444	พากย์ · speech_list_judge_main_c10	Renkan (ช)		How 'bout stopping in for a round, pal?\nWe got the finest girls to satisfy any kink!	แวะมาสักรอบมั้ยพวก\nเรามีสาวเด็ดพร้อมเสิร์ฟทุก รสนิยมเลยนะ!
+P1001-0445	พากย์ · speech_list_judge_main_c10	Renkan (ช)	[อีกแทร็ก]	Hey, pal! How 'bout stopping in for a round?\nWe got the girls for any kink!	เฮ้พวก! แวะมาสักรอบมั้ย\nเรามีสาวๆ พร้อมทุกรสนิยมเลยนะ!
+P1001-0446	พากย์ · speech_list_judge_main_c10	? (ช)		Yeah! Just come on in, buddy!\nI'll give you a great deal!	ใช่แล้ว! เข้ามาเลยเพื่อน!\nจัดราคาพิเศษให้เลย!
+P1001-0447	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yup! Just come on in, buddy!\nI'll give you a great deal!	ใช่เลย! เข้ามาเลยเพื่อน!\nจัดราคาพิเศษให้เลย!
+P1001-0448	พากย์ · speech_list_judge_main_c10	? (ช)		Huh? What're you... I, uh...\nI don't want any trouble, man.	หา? คุณมัน... เอ่อ...\nผมไม่อยากมีเรื่องนะพวก
+P1001-0449	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Huh? What...? I don't know, uh...\nI don't want any trouble, man.	หา? อะไรนะ...? ผมไม่รู้เรื่อง เอ่อ...\nผมไม่อยากมีเรื่องนะพวก
+P1001-0450	พากย์ · speech_list_judge_main_c10	? (ช)		Uh... I'm not sure I follow.	เอ่อ... ผมไม่แน่ใจว่าเข้าใจถูกรึเปล่า
+P1001-0451	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yagami? I don't get it...	ยากามิ? ผมไม่เข้าใจเลย...
+P1001-0452	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[มีอังกฤษ: Romance of the Three Kinkdoms]	So, this is Romance of the Three Kinkdoms?	งั้นนี่ก็คือ Romance of the Three Kinkdoms สินะ
+P1001-0453	พากย์ · speech_list_judge_main_c10	? (ช)		Do you work here?	คุณทำงานที่นี่เหรอ
+P1001-0454	พากย์ · speech_list_judge_main_c10	? (ช)		This is a Matsugane place, right?	ที่นี่เป็นร้านของ ตระกูลมัตสึกาเนะใช่มั้ย
+P1001-0455	พากย์ · speech_list_judge_main_c10	? (ช)		It's not like that.	ไม่ใช่อย่างนั้นหรอก
+P1001-0456	พากย์ · speech_list_judge_main_c10	? (ช)		Just tell your boss Yagami stopped by.	แค่บอกเจ้านายคุณว่ายากามิแวะมาก็พอ
+P1001-0457	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Just tell your boss something.\nYagami stopped by.	บอกเจ้านายคุณสักอย่างก็พอ\nว่ายากามิแวะมา
+P1001-0458	พากย์ · speech_list_judge_main_c10	? (ช)		Just do it, okay? I gotta go.	ทำไปก็พอ โอเคนะ ผมต้องไปแล้ว
+P1001-0459	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	It's fine. There's not much else to it.\nNow, I better go.	ไม่เป็นไรหรอก แค่นี้แหละ\nเอาล่ะ ผมต้องไปแล้ว
+P1001-0460	พากย์ · speech_list_judge_main_c10	fanta_boy (ช)		It's good to see you, gentlemen!	ยินดีต้อนรับครับท่านทั้งหลาย!
+P1001-0461	พากย์ · speech_list_judge_main_c10	? (ช)		I'm sorry, sir.\nOur sales haven't been the best this month...	ขอโทษครับท่าน\nยอดขายเดือนนี้ไม่ค่อยดีเลย...
+P1001-0462	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I'm sorry, sir.\nOur sales have been down...	ขอโทษครับท่าน\nยอดขายตกลงไปมาก...
+P1001-0463	พากย์ · speech_list_judge_main_c10	? (ช)		Welcome, sir. We—	ยินดีต้อนรับครับท่าน เรา—
+P1001-0464	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Welcome, sir...	ยินดีต้อนรับครับท่าน...
+P1001-0465	พากย์ · speech_list_judge_main_c10	fanta_matsu (ช)		Don't "good to see you" me.\nYou're late on your payment and you know it.	ไม่ต้องมา "ยินดีต้อนรับ" หรอกน่า\nรู้ตัวดีอยู่แล้วว่าค้างจ่ายอยู่
+P1001-0466	พากย์ · speech_list_judge_main_c10	fanta_matsu (ช)	[อีกแทร็ก]	Sure. You've been late on\nyour payments.	ก็ได้ นายค้างจ่าย\nมาหลายงวดแล้วนะ
+P1001-0467	พากย์ · speech_list_judge_main_c10	? (ช)		Then work on your pitch. Just being open's\nnot enough to bring in customers.	งั้นก็ไปปรับปรุงลีลาขายซะ แค่เปิดร้านทิ้งไว้\nมันไม่พอจะดึงลูกค้าเข้ามาหรอก
+P1001-0468	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Then work on your pitch.\nYou can't just sit and wait for customers.	งั้นก็ไปปรับปรุงลีลาขายซะ\nนั่งรอลูกค้าเฉยๆ ไม่ได้หรอกนะ
+P1001-0469	พากย์ · speech_list_judge_main_c10	? (ช)		What the! Yagami!?	อะไรวะ! ยากามิ!?
+P1001-0470	พากย์ · speech_list_judge_main_c10	Stick (ช)	[อีกแทร็ก] [ใช้ร่วม]	What the... Yagami!?	อะไรวะ... ยากามิ!?
+P1001-0471	พากย์ · speech_list_judge_main_c10	? (ช)		Who the fuck do you think you are,\nstrollin' up on us like it's no big deal?	มึงคิดว่าตัวเองเป็นใครวะ\nเดินเข้ามาเฉยเหมือนไม่มีอะไรงั้นเหรอ
+P1001-0472	พากย์ · speech_list_judge_main_c10	? (ช)		You little shit.\nWho do you think you're talking to!?	ไอ้เด็กเวร\nมึงคิดว่ากำลังพูดกับใครอยู่วะ!?
+P1001-0473	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You what...? Little shit.\nWho do you think you're talking to!?	มึงว่าไงนะ...? ไอ้เด็กเวร\nคิดว่ากำลังพูดกับใครวะ!?
+P1001-0474	พากย์ · speech_list_judge_main_c10	? (ช)		You're never meetin' Hamura...\n'cause you're gonna die right here!	มึงไม่มีวันได้เจอฮามุระหรอก...\nเพราะมึงจะตายตรงนี้แหละ!
+P1001-0475	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You're never meetin' the captain...\n'cause you're gonna die right here!	มึงไม่มีวันได้เจอกัปตันหรอก...\nเพราะมึงจะตายตรงนี้แหละ!
+P1001-0476	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Looks like you're right on time, Tak!	มาถึงพอดีเป๊ะเลยนะ ทาคุ!
+P1001-0477	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Hey, Tak! Looks like you're right on time!	เฮ้ ทาคุ! มาถึงพอดีเป๊ะเลย!
+P1001-0478	พากย์ · speech_list_judge_main_c10	? (ช)		Go on, introduce yourself!	ไปสิ แนะนำตัวซะ!
+P1001-0479	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Go on, let's see your big entrance!	ไปเลย ขอดูฉากเข้าใหญ่โตของนายหน่อย!
+P1001-0480	พากย์ · speech_list_judge_main_c10	Yagami (ช)		So this place is Fantastic Romance.	งั้นที่นี่ก็คือแฟนตาสติกโรแมนซ์สินะ
+P1001-0481	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก]	So this place is Fantastic Romance?	ที่นี่คือแฟนตาสติกโรแมนซ์เหรอเนี่ย
+P1001-0482	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	...Huh?	...เอ๊ะ?
+P1001-0483	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	...Yeah, sure.	...เออ ได้
+P1001-0484	พากย์ · speech_list_judge_main_c10	? (?)	[อีกแทร็ก]	 Yeah, sure.	 เออ ได้
+P1001-0485	พากย์ · speech_list_judge_main_c10	? (ช)		Excuse me, are you guys open?	ขอโทษนะครับ เปิดอยู่รึเปล่า
+P1001-0486	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Excuse me. You guys open?	ขอโทษนะครับ เปิดอยู่รึเปล่า
+P1001-0487	พากย์ · speech_list_judge_main_c10	? (ช)		Oh, are you from the Matsugane Family?\nIt's good to see you.	อ้อ พวกคุณมาจากตระกูลมัตสึกาเนะเหรอ\nยินดีที่ได้เจอนะ
+P1001-0488	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Oh, huh! You from the\nMatsugane Family? Evening.	อ้าว เฮ้! พวกคุณมาจาก\nตระกูลมัตสึกาเนะเหรอ สวัสดีตอนเย็น
+P1001-0489	พากย์ · speech_list_judge_main_c10	? (ช)		I wanna see Captain Hamura.\nKnow where he is?	ผมอยากเจอกัปตันฮามุระ\nรู้มั้ยว่าเขาอยู่ไหน
+P1001-0490	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I wanna see Captain Hamura.\nGot any idea where he is?	ผมอยากเจอกัปตันฮามุระ\nพอจะรู้มั้ยว่าเขาอยู่ที่ไหน
+P1001-0491	พากย์ · speech_list_judge_main_c10	fanta_matsu (ช)	[ใช้ร่วม]	Dammit!	แม่ง!
+P1001-0492	พากย์ · speech_list_judge_main_c10	fanta_matsu (ช)	[อีกแทร็ก] [ใช้ร่วม]	Gah...! Shit!	กาห์...! เวรเอ๊ย!
+P1001-0493	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Heh. Satisfied?	ฮึ พอใจรึยัง
+P1001-0494	พากย์ · speech_list_judge_main_c10	? (ช)		If you know what's good for you,\nyou'll report this to your family.	ถ้ารู้ว่าอะไรดีกับตัวเอง\nก็ไปรายงานตระกูลซะ
+P1001-0495	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	If I were you, I'd report this\nto the family.	ถ้าเป็นผม ผมจะไปรายงาน\nเรื่องนี้ให้ตระกูลรู้
+P1001-0496	พากย์ · speech_list_judge_main_c10	? (ช)		I'm out of here.	ผมไปล่ะ
+P1001-0497	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Now, I should get going.	เอาล่ะ ผมควรไปได้แล้ว
+P1001-0498	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Yo, it's Kaito.\nThat was freakin' amazing, Tak.	โย่ ไคโตะเองนะ\nเมื่อกี้เจ๋งเป้งเลยว่ะ ทาคุ
+P1001-0499	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Yo, it's Kaito. That was freakin' amazing, Tak.\nNice job out there.	โย่ ไคโตะเองนะ เมื่อกี้เจ๋งเป้งเลยว่ะ ทาคุ\nทำได้ดีมาก
+P1001-0500	พากย์ · speech_list_judge_main_c10	? (ช)		Yup, absolute perfection.\nHamura'll have guys on your ass in no time.	เยี่ยมสุดๆ ไปเลย\nอีกไม่นานฮามุระต้องส่งคนมา ตามล่านายแน่
+P1001-0501	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yup, absolute perfection. If I know Hamura,\nhe'll have guys on your ass in no time.	เยี่ยมสุดๆ ไปเลย ถ้ารู้จักฮามุระดี\nอีกไม่นานเขาต้องส่งคนมาตามล่านายแน่
+P1001-0502	พากย์ · speech_list_judge_main_c10	? (ช)		Just keep walkin' around town.\nWon't be long 'til they jump you.	แค่เดินไปเรื่อยๆ ในเมือง\nอีกไม่นานพวกมันต้องมารุมนายแน่
+P1001-0503	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	All you gotta do is just keep walkin' around town.\nWon't be long 'til they jump you.	แค่เดินไปเรื่อยๆ ในเมืองก็พอ\nอีกไม่นานพวกมันต้องมารุมนายแน่
+P1001-0504	พากย์ · speech_list_judge_main_c10	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	You think?	จริงเหรอ?
+P1001-0505	พากย์ · speech_list_judge_main_c10	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Got it.	ได้เลย
+P1001-0506	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Okay.	ตกลง
+P1001-0507	พากย์ · speech_list_judge_main_c10	Yagami (ช)		(All right, I've been everywhere\nKaito-san mentioned.)	(เอาล่ะ ผมไปครบทุกที่\nที่ไคโตะซังบอกแล้ว)
+P1001-0508	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Yo, Tak. Why don't you head somewhere\nwith less people hangin' around?	โย่ ทาคุ ทำไมไม่ไปที่ๆ\nคนน้อยกว่านี้ล่ะ
+P1001-0509	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Yo, Tak. Why don't you head somewhere\nwith less people?	โย่ ทาคุ ไปที่ๆ คนน้อยกว่านี้\nดีกว่ามั้ย
+P1001-0510	พากย์ · speech_list_judge_main_c10	? (ช)		Those Matsugane assholes aren't dumb\nenough to jump you with so many witnesses in sight.	ไอ้พวกมัตสึกาเนะพวกนั้นไม่โง่\nพอจะรุมนายต่อหน้าพยานเยอะขนาดนี้หรอก
+P1001-0511	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	They aren't dumb enough to jump you\nwith so many witnesses.	พวกมันไม่โง่พอจะรุมนาย\nต่อหน้าพยานเยอะขนาดนี้หรอก
+P1001-0512	พากย์ · speech_list_judge_main_c10	? (ช)		I was thinkin' the Champion District.	นึกถึงย่านแชมเปี้ยนอยู่นะ
+P1001-0513	พากย์ · speech_list_judge_main_c10	? (ช)		Streets're so narrow there they'll\nbe more than happy to ambush you.	ถนนแถวนั้นแคบมาก พวกมันคง\nดีใจจนอยากซุ่มโจมตีนายแน่ๆ
+P1001-0514	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Streets're so narrow there, they'll be\nlicking their chops.	ถนนแถวนั้นแคบมาก พวกมันคง\nน้ำลายสอเลยล่ะ
+P1001-0515	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Where'd you have in mind?	นายนึกถึงที่ไหนไว้ล่ะ
+P1001-0516	พากย์ · speech_list_judge_main_c10	? (ช)		Well that's a scary thought...\nBut okay. I'll head over now.	ฟังดูน่ากลัวอยู่นะ...\nแต่ก็ได้ ผมไปเดี๋ยวนี้เลย
+P1001-0517	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Well, that's a scary thought... but okay.	ฟังดูน่ากลัวอยู่นะ... แต่ก็ได้
+P1001-0518	พากย์ · speech_list_judge_main_c10	Kaito (ช)		Get after him, Tak! Make him cough\nup all he knows about Hamura!	ไล่ตามมันไปเลย ทาคุ! ทำให้มัน\nคายทุกอย่างที่รู้เรื่องฮามุระออกมา!
+P1001-0519	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	Get after him, Tak!\nWe need his info on Hamura!	ไล่ตามมันไปเลย ทาคุ!\nเราต้องการข้อมูลเรื่องฮามุระจากมัน!
+P1001-0520	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[ใช้ร่วม]	Got it!	เข้าใจแล้ว!
+P1001-0521	พากย์ · speech_list_judge_main_c10	? (ช)		Phew. I think we lost 'em.	ฟู้ว คิดว่าเราหนีพ้นแล้วล่ะ
+P1001-0522	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Okay... I think we lost 'em.	โอเค... คิดว่าเราหนีพ้นแล้ว
+P1001-0523	พากย์ · speech_list_judge_main_c10	? (ช)		Hamura shot him in the stomach...\nso he'd have to carry him out. After that, I dunno.	ฮามุระยิงเขาที่ท้อง...\nเลยต้องหามตัวออกไป หลังจากนั้นผมก็ไม่รู้แล้ว
+P1001-0524	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hamura shot him in the stomach... Those yakuza\nhave him now. That's all we know.	ฮามุระยิงเขาที่ท้อง... ตอนนี้พวกยากูซ่า\nคุมตัวเขาไว้ ผมรู้แค่นี้แหละ
+P1001-0525	พากย์ · speech_list_judge_main_c10	? (ช)		I was sittin' in the van listening in on the Matsugane office.\nThey all rolled out, so I followed.	ผมนั่งอยู่ในรถตู้ ดักฟังสำนักงานตระกูลมัตสึกาเนะอยู่\nพอพวกเขาออกมากันหมด ผมก็เลยตามมา
+P1001-0526	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I was listening to the Matsugane office, since I was\nstuck sitting back here. They rolled out, so I followed.	ผมดักฟังสำนักงานตระกูลมัตสึกาเนะอยู่ เพราะติดอยู่\nในรถตรงนี้พอดี พอพวกเขาออกมา ผมก็เลยตามมา
+P1001-0527	พากย์ · speech_list_judge_main_c10	? (ช)		Hm... I did hear them mention\nthe "Soleil Building" once or twice.	อืม... ผมได้ยินพวกเขาพูดถึง\n"ตึกโซเลย์" อยู่หนึ่งหรือสองครั้ง
+P1001-0528	พากย์ · speech_list_judge_main_c10	? (ช)		Can't say for sure.\nHe could be anywhere, really.	บอกแน่ชัดไม่ได้ครับ\nเขาอาจจะอยู่ที่ไหนก็ได้จริงๆ
+P1001-0529	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Can't say for sure.\nHe could be anywhere.	บอกแน่ชัดไม่ได้ครับ\nเขาอาจจะอยู่ที่ไหนก็ได้
+P1001-0530	พากย์ · speech_list_judge_main_c10	? (ช)		But it's worth lookin' into. It sounded like\nSoleil has been abandoned for a while.	แต่ก็น่าจะลองไปดูนะครับ ฟังดูเหมือนตึกโซเลย์\nถูกทิ้งร้างมาสักพักแล้ว
+P1001-0531	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	But I think it's gotta be some kinda\nabandoned building in Kamurocho.	แต่ผมว่ามันต้องเป็น\nตึกร้างสักแห่งในคามุโรโจแน่ๆ
+P1001-0532	พากย์ · speech_list_judge_main_c10	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Sounds good.	ได้เลย
+P1001-0533	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Yeah.	ใช่
+P1001-0534	พากย์ · speech_list_judge_main_c10	? (ช)		What about... Kaito-san?	แล้ว... ไคโตะซังล่ะ?
+P1001-0535	พากย์ · speech_list_judge_main_c10	? (ช)		Dammit. We've gotta go after him!	บ้าเอ๊ย ต้องรีบไปตามหาเขาแล้ว!
+P1001-0536	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Damn it! We've gotta go after him!	บ้าเอ๊ย! ต้องรีบไปตามหาเขาแล้ว!
+P1001-0537	พากย์ · speech_list_judge_main_c10	? (ช)		...Hold on.\nHow'd you know where we were?	...เดี๋ยวก่อน\nคุณรู้ได้ยังไงว่าเราอยู่ตรงนี้
+P1001-0538	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	...Hold on. How'd you know\nwhere we were?	...เดี๋ยวก่อน คุณรู้ได้ยังไง\nว่าเราอยู่ตรงนี้
+P1001-0539	พากย์ · speech_list_judge_main_c10	? (ช)		Do you know where Hamura's holed up, then?\nMaybe they dropped a hint while you were listening.	งั้นรู้มั้ยว่าฮามุระหลบซ่อน อยู่ที่ไหน\nบางทีอาจมีคำใบ้หลุดมาตอนที่คุณ ดักฟังอยู่
+P1001-0540	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Do you know where Hamura's holed up, then?\nWas there any hint of it as you listened?	งั้นรู้มั้ยว่าฮามุระหลบซ่อน อยู่ที่ไหน\nมีคำใบ้อะไรหลุดออกมาตอนที่คุณ ฟังอยู่มั้ย
+P1001-0541	พากย์ · speech_list_judge_main_c10	? (ช)		You think that's where\nthey took Kaito-san?	คิดว่าพวกเขา\nพาไคโตะซังไปที่นั่นเหรอ
+P1001-0542	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Soleil...? Think that's where they\ntook Kaito-san?	โซเลย์...? คิดว่าพวกเขา\nพาไคโตะซังไปที่นั่นเหรอ
+P1001-0543	พากย์ · speech_list_judge_main_c10	? (ช)		We can second-guess ourselves later,\nthen. Let's get moving.	งั้นค่อยมาคิดทบทวนทีหลังก็ได้\nไปกันเถอะ
+P1001-0544	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	We can second-guess ourselves later.\nLet's go.	ค่อยมาคิดทบทวนทีหลังก็ได้\nไปกันเถอะ
+P1001-0545	พากย์ · speech_list_judge_main_c10	Sugiura (ช)		That's it.\nThe Soleil Building.	นั่นแหละ\nตึกโซเลย์
+P1001-0546	พากย์ · speech_list_judge_main_c10	Sugiura (ช)	[อีกแทร็ก]	That's the Soleil Building.	นั่นคือตึกโซเลย์
+P1001-0547	พากย์ · speech_list_judge_main_c10	? (ช)		Does that mean Kaito-san's\nactually in there?	หมายความว่าไคโตะซัง\nอยู่ในนั้นจริงๆ เหรอครับ
+P1001-0548	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	What does that mean for Kaito-san?\nHe's actually in there?	แล้วมันหมายความว่าไงกับไคโตะซัง\nเขาอยู่ในนั้นจริงๆ เหรอ
+P1001-0549	พากย์ · speech_list_judge_main_c10	? (ช)		Guess we've just gotta bust in,\nthen. Sooner the better.	งั้นก็ต้องบุกเข้าไป\nยิ่งเร็วยิ่งดี
+P1001-0550	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Guess we've just gotta bust in, then.\nSooner the better.	งั้นก็ต้องบุกเข้าไปเลย\nยิ่งเร็วยิ่งดี
+P1001-0551	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Hold on, I recognize those guys out front.\nThey're Matsugane for sure.	เดี๋ยวก่อน ผมจำพวกที่ยืนอยู่หน้าตึกได้\nเป็นคนของตระกูลมัตสึกาเนะแน่ๆ
+P1001-0552	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก]	I recognize those guys out front.\nThey're Matsugane for sure.	ผมจำพวกที่ยืนอยู่หน้าตึกได้\nเป็นคนของตระกูลมัตสึกาเนะแน่ๆ
+P1001-0553	พากย์ · speech_list_judge_main_c10	? (ช)		Hard to tell from out here.\nLooks like their guard's down, though.	ดูจากตรงนี้บอกยาก\nแต่ดูเหมือนการ์ดพวกมันจะหย่อนอยู่นะ
+P1001-0554	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hard to tell from out here.\nBut... looks like their guard's down.	ดูจากตรงนี้บอกยาก\nแต่... ดูเหมือนการ์ดพวกมันจะหย่อนอยู่
+P1001-0555	พากย์ · speech_list_judge_main_c10	Sugiura (ช)	[ใช้ร่วม]	You ready, Yagami-san?	พร้อมหรือยังครับ ยากามิซัง?
+P1001-0556	พากย์ · speech_list_judge_main_c10	Sugiura (ช)	[อีกแทร็ก]	Yagami-san, you all set?	ยากามิซัง พร้อมรึยังครับ
+P1001-0557	พากย์ · speech_list_judge_main_c10	? (ช)		Gotcha. Lemme know\nwhen you wanna go.	รับทราบครับ บอกผมด้วย\nว่าเมื่อไหร่จะไป
+P1001-0558	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	Gotcha. Lemme know when\nyou wanna go.	รับทราบครับ บอกผมด้วยว่า\nเมื่อไหร่จะไป
+P1001-0559	พากย์ · speech_list_judge_main_c10	? (ช)		You ready yet, Yagami-san?\nWe're breakin' in there, right?	พร้อมรึยังครับ ยากามิซัง\nเราจะบุกเข้าไปใช่มั้ย
+P1001-0560	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Yagami-san? We're breakin' in there, right?\nYou ready to go?	ยากามิซังครับ? เราจะบุกเข้าไปใช่มั้ย\nพร้อมรึยัง
+P1001-0561	พากย์ · speech_list_judge_main_c10	? (ช)		Huh? Oh, good.	หา? อ้อ ดี
+P1001-0562	พากย์ · speech_list_judge_main_c10	? (ช)		Gotcha.\nLemme know when you wanna go.	รับทราบครับ\nบอกผมด้วยว่าเมื่อไหร่จะไป
+P1001-0563	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Yeah, let's do it.	เอาสิ ลุยเลย
+P1001-0564	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	Yup, let's go.	เออ ไปกันเถอะ
+P1001-0565	พากย์ · speech_list_judge_main_c10	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Not yet, sorry.	ยังเลย ขอโทษด้วยนะ
+P1001-0566	พากย์ · speech_list_judge_main_c10	soleil_mihari (ช)		Hey, that's... Yagami!\nYou got balls showin' up around here!	เฮ้ นั่นมัน... ยากามิ!\nกล้ามาโผล่แถวนี้ได้ไงวะ!
+P1001-0567	พากย์ · speech_list_judge_main_c10	soleil_mihari (ช)	[อีกแทร็ก]	Hey, that's... Yagami!\nYou got balls showin' up here!	เฮ้ นั่นมัน... ยากามิ!\nกล้ามาโผล่ที่นี่ได้ไงวะ!
+P1001-0568	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x3]	Ngh...	อึก...
+P1001-0569	พากย์ · speech_list_judge_main_c10	? (ช)		Boss, listen. Things're gonna\nget ugly if I die here.	โอยาบุน ฟังนะ\nถ้ากูตายที่นี่ เรื่องจะบานปลายแน่
+P1001-0570	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Boss... If I die here,\nthis is gonna get even uglier.	โอยาบุน...\nถ้ากูตายที่นี่ เรื่องจะยิ่งบานปลายกว่าเดิม
+P1001-0571	พากย์ · speech_list_judge_main_c10	? (ช)		Neither of you will survive the aftermath.\nIt's not too late to put a stop to this.	ไม่มีใครในพวกมึงรอดจากผลที่ตามมาหรอก\nยังไม่สายที่จะหยุดเรื่องนี้ไว้นะ
+P1001-0572	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Neither of you will survive the aftermath.\nIt's not too late to stop this.	ไม่มีใครในพวกมึงรอดจากผลที่ตามมาหรอก\nยังไม่สายที่จะหยุดเรื่องนี้
+P1001-0573	พากย์ · speech_list_judge_main_c10	? (ช)		Just end this fucker\nand be done with it.	จบเรื่องไอ้นี่ซะ\nแล้วให้มันจบ ๆ ไป
+P1001-0574	พากย์ · speech_list_judge_main_c10	? (ช)		Look. Some people you can get away\nwith betraying, and some people you can't.	ฟังนะ บางคนมึงทรยศแล้วรอดตัวได้\nแต่บางคนก็ทำแบบนั้นไม่ได้
+P1001-0575	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Some people in this world... you can get\naway with betraying. And some people you can't.	บางคนในโลกนี้...\nมึงทรยศแล้วรอดตัวได้ แต่บางคนก็ไม่ได้
+P1001-0576	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	Boss!	หัวหน้า!
+P1001-0577	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Boss...	บอส...
+P1001-0578	พากย์ · speech_list_judge_main_c10	? (ช)		I'd rather die.	กูยอมตายซะดีกว่า
+P1001-0579	พากย์ · speech_list_judge_main_c10	? (ช)		Don't play dumb with me.\nYou think I'm gonna talk that easy!?	อย่ามาแกล้งโง่กับกู\nคิดว่ากูจะปากโป้งง่าย ๆ งั้นเหรอ!?
+P1001-0580	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Don't play dumb.\nYou think I'm gonna talk that easy!?	อย่าแกล้งโง่\nคิดว่ากูจะปากโป้งง่าย ๆ งั้นเหรอ!?
+P1001-0581	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	Pull the fuckin' trigger!	เหนี่ยวไกเลยไอ้เหี้ย!
+P1001-0582	พากย์ · speech_list_judge_main_c10	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	What!?	อะไรนะ!?
+P1001-0583	พากย์ · speech_list_judge_main_c10	Higashi (ช)		Yo. Lemme jump in, too.	โย่ ขอร่วมด้วยคนนะ
+P1001-0584	พากย์ · speech_list_judge_main_c10	Higashi (ช)	[อีกแทร็ก]	Yo. We don't have all day.	โย่ เราไม่มีเวลาทั้งวันหรอกนะ
+P1001-0585	พากย์ · speech_list_judge_main_c10	? (กลาง)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Gotcha.	เข้าใจแล้ว
+P1001-0586	พากย์ · speech_list_judge_main_c10	Kaito (ช)		What, me? It was just a scratch.	อะไร ฉันเหรอ? แค่รอยข่วนนิดหน่อยเอง
+P1001-0587	พากย์ · speech_list_judge_main_c10	Kaito (ช)	[อีกแทร็ก]	What, me? It's just a scratch.	อะไร ฉันเหรอ? แค่รอยข่วนเอง
+P1001-0588	พากย์ · speech_list_judge_main_c10	? (ช)		I'm good on my own.	ฉันไหวคนเดียวน่า
+P1001-0589	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I can handle myself...	ฉันจัดการตัวเองได้...
+P1001-0590	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	Ngh!	อึก!
+P1001-0591	พากย์ · speech_list_judge_main_c10	Matugane (ช)		Guess I'm joining your little party.	ดูเหมือนผมจะได้มาร่วมวงกับ พวกคุณด้วยนะ
+P1001-0592	พากย์ · speech_list_judge_main_c10	? (ช)		Not even the threat of death\ncan stop you guys.	ต่อให้ขู่จะฆ่า\nก็หยุดพวกนายไม่ได้สินะ
+P1001-0593	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You stubborn boys...\nNot even the threat of death stops you.	ไอ้พวกดื้อด้าน...\nขู่จะฆ่ายังไงก็หยุดพวกนายไม่ได้
+P1001-0594	พากย์ · speech_list_judge_main_c10	? (ช)		And if I don't, the Mole will kill us both?\nIs that what you're saying?	แล้วถ้าผมไม่ยอม ไอ้ตัวตุ่นจะฆ่าเราทั้งคู่งั้นเหรอ?\nนั่นคือสิ่งที่นายพูดใช่ไหม?
+P1001-0595	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	And if I don't, what do you imagine will happen?\nThe Mole will come to kill us both?	แล้วถ้าผมไม่ยอม นายคิดว่าจะเกิดอะไรขึ้น?\nไอ้ตัวตุ่นจะมาฆ่าเราทั้งคู่งั้นเหรอ?
+P1001-0596	พากย์ · speech_list_judge_main_c10	? (ช)		And which am I, I wonder?	แล้วผมเป็นแบบไหนล่ะ สงสัยจัง
+P1001-0597	พากย์ · speech_list_judge_main_c10	? (ช)		We can't stay here.\nWho knows when his backup might arrive.	เราอยู่ที่นี่ต่อไม่ได้แล้ว\nไม่รู้ว่ากำลังเสริมของมันจะ มาถึงเมื่อไหร่
+P1001-0598	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	We can't stay here for much longer.\nWho knows when his backup might arrive.	เราอยู่ที่นี่ต่อได้อีกไม่นานแล้ว\nไม่รู้ว่ากำลังเสริมของมันจะ มาถึงเมื่อไหร่
+P1001-0599	พากย์ · speech_list_judge_main_c10	? (ช)		Most likely.\nEmbarrassing as that is to admit.	คงอย่างนั้นแหละ\nน่าอายที่ต้องยอมรับ
+P1001-0600	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Most likely, yes. Though as the patriarch,\nit's embarrassing to admit.	คงอย่างนั้น ทั้งที่เป็นหัวหน้าตระกูลเอง\nก็ยังรู้สึกอายที่ต้องยอมรับแบบนี้
+P1001-0601	พากย์ · speech_list_judge_main_c10	? (ช)		It'll be damn interesting\neither way.	ยังไงก็สนุก\nแน่นอน
+P1001-0602	พากย์ · speech_list_judge_main_c10	? (ช)		Now c'mon. Let's go.	เอาละ ไปกันเถอะ
+P1001-0603	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Now. Let's go!	ไปกันเลย!
+P1001-0604	พากย์ · speech_list_judge_main_c10	Sugiura (ช)		Is it... over, Yagami-san?	จบแล้ว... เหรอครับ ยากามิซัง
+P1001-0605	พากย์ · speech_list_judge_main_c10	Sugiura (ช)	[อีกแทร็ก]	Yagami-san? Is it over?	ยากามิซังครับ? จบแล้วเหรอ
+P1001-0606	พากย์ · speech_list_judge_main_c10	? (ช)		How do you feel, Kaito-san?	รู้สึกยังไงบ้างครับ ไคโตะซัง
+P1001-0607	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Kaito-san, how do you feel?	ไคโตะซัง รู้สึกยังไงบ้างครับ
+P1001-0608	พากย์ · speech_list_judge_main_c10	? (ช)		Still acting tough with lead in your stomach?\nWho you trying to impress?	ยังจะแข็งทั้งที่มีกระสุนคาท้อง อยู่เนี่ยนะ?\nจะไปทำเท่ให้ใครดู
+P1001-0609	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Still actin' tough with lead in your stomach?\nCome on...	ยังจะแข็งทั้งที่มีกระสุนคาท้อง อยู่อีกเหรอ?\nไม่เอาน่า...
+P1001-0610	พากย์ · speech_list_judge_main_c10	? (ช)		My van's right outside.	รถตู้ของผมจอดอยู่ข้างนอกครับ
+P1001-0611	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Yeah. Glad you're okay.\nCome gimme a hand.	เออ ดีใจที่นายปลอดภัย\nมาช่วยฉันหน่อย
+P1001-0612	พากย์ · speech_list_judge_main_c10	Yagami (ช)	[อีกแทร็ก]	Sugiura... Glad you're okay.\nHelp me with this lug.	ซุกิอุระ... ดีใจที่นายปลอดภัย\nช่วยแบกร่างนี้หน่อย
+P1001-0613	พากย์ · speech_list_judge_main_c10	? (ช)		Higashi...	ฮิงาชิ...
+P1001-0614	พากย์ · speech_list_judge_main_c10	? (ช)		Matsugane-san, too...	ท่านมัตสึกาเนะ...มาด้วย...
+P1001-0615	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก] [ใช้ร่วม]	Matsugane-san...	ท่านมัตสึกาเนะ...
+P1001-0616	พากย์ · speech_list_judge_main_c10	? (ช)		You two get him to a doctor.\nThere's something I still need to do here.	พวกนายสองคนพาเขาไปหาหมอที\nผมยังมีธุระต้องสะสางที่นี่อีกหน่อย
+P1001-0617	พากย์ · speech_list_judge_main_c10	? (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ]	Took you long enough.	กว่าจะมาถึงก็นานเชียวนะ
+P1001-0618	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	At least you understand now, boss.	อย่างน้อยตอนนี้ก็เข้าใจแล้วสินะ โอยาบุน
+P1001-0619	พากย์ · speech_list_judge_main_c10	? (ช)		Hey. It's about time\nyou give us some answers.	เฮ้ ได้เวลาแล้ว\nที่นายจะให้คำตอบพวกเราสักที
+P1001-0620	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Hey. It's about time we got\nsome answers.	เฮ้ ได้เวลาแล้ว\nที่เราจะได้คำตอบกันสักที
+P1001-0621	พากย์ · speech_list_judge_main_c10	? (ช)		I'm done wasting time on you,\nso just cooperate and it'll all be fine.	ผมไม่อยากเสียเวลากับนายอีกแล้ว\nงั้นให้ความร่วมมือซะ แล้วทุกอย่างจะจบด้วยดี
+P1001-0622	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I'm done wasting time on you,\nso I suggest you cooperate.	ผมไม่อยากเสียเวลากับนายอีกแล้ว\nขอแนะนำให้ร่วมมือซะ
+P1001-0623	พากย์ · speech_list_judge_main_c10	? (ช)		What, your murderer friend abandon you?\nNot much use if he won't come when you need help.	ไง เพื่อนนักฆ่าของนายทิ้งนายแล้วเหรอ?\nไม่เห็นมีประโยชน์เลยนะ ถ้าเวลาต้องการความช่วยเหลือ แล้วมันไม่มา
+P1001-0624	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Don't tell me the Mole abandoned you?\nNot much use if he won't come when you need help.	อย่าบอกนะว่าไอ้ตัวตุ่นทิ้งนายไปแล้ว?\nไม่เห็นมีประโยชน์เลย ถ้าเวลาต้องการความช่วยเหลือ แล้วมันไม่มา
+P1001-0625	พากย์ · speech_list_judge_main_c10	? (ช)		Pick your poison, Hamura. You die betraying\nthe Mole, or you die defending him.	เลือกเอาเถอะ ฮามุระ นายจะตายเพราะทรยศ\nไอ้ตัวตุ่น หรือจะตายเพราะปกป้องมัน
+P1001-0626	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You can die betraying the Mole,\nor die defending him. What'll it be?	นายจะตายเพราะทรยศไอ้ตัวตุ่น\nหรือจะตายเพราะปกป้องมัน จะเอาแบบไหน?
+P1001-0627	พากย์ · speech_list_judge_main_c10	? (ช)		<color=ｍonologue>(This oughta be good.)</color>	<color=ｍonologue>(เรื่องนี้น่าจะสนุกแน่)</color>
+P1001-0628	พากย์ · speech_list_judge_main_c10	? (ช)		We're going to bring\nthis murderer to justice.	เราจะเอาตัวไอ้ฆาตกรคนนี้\nมาลงโทษให้ได้
+P1001-0629	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	We'll bring the Mole to justice.	เราจะเอาไอ้ตัวตุ่นมาลงโทษให้ได้
+P1001-0630	พากย์ · speech_list_judge_main_c10	? (ช)		Now tell me where I can find him.\nAnd his identity.	ทีนี้บอกผมมาว่าจะหาตัวมันได้ที่ไหน\nและตัวตนที่แท้จริงของมันคือใคร
+P1001-0631	พากย์ · speech_list_judge_main_c10	? (ช)		Answer me!	ตอบมา!
+P1001-0632	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	If you want to live, answer me!	ถ้านายอยากมีชีวิตอยู่ ก็ตอบมา!
+P1001-0633	พากย์ · speech_list_judge_main_c10	seiya_girl (กลาง)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	What?	อะไรนะ?
+P1001-0634	พากย์ · speech_list_judge_main_c10	? (ช)	[ใช้ร่วม]	If you say so.	ถ้าว่าอย่างนั้นก็ได้
+P1001-0635	พากย์ · speech_list_judge_main_c10	? (ช)		Huh. Didn't think you'd\nreally stand your ground.	ฮึ ไม่คิดเลยว่านาย\nจะยืนกรานขนาดนี้
+P1001-0636	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I'm kind of impressed.\nDidn't think you'd stand your ground.	ผมค่อนข้างทึ่งเลยนะ\nไม่คิดว่านายจะยืนกรานได้ขนาดนี้
+P1001-0637	พากย์ · speech_list_judge_main_c10	? (ช)		Are the Matsugane still after us?	คนของตระกูลมัตสึกาเนะยังตามล่า พวกเราอยู่ไหมครับ?
+P1001-0638	พากย์ · speech_list_judge_main_c10	? (ช)		Well, guess we've gotta figure out\nhow to make you talk.	งั้นก็คงต้องหาทาง\nทำให้นายปากโป้งสินะ
+P1001-0639	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	...Guess we've gotta figure out\nhow to make you talk.	...คงต้องหาทาง\nทำให้นายปากโป้งให้ได้
+P1001-0640	พากย์ · speech_list_judge_main_c10	? (ช)		Luckily, I've got a place in mind.\nYou heard of the Honmaruen cabaret?	โชคดีที่ผมมีที่ในใจอยู่แล้ว\nเคยได้ยินชื่อคาบาเรต์ฮนมารุเอ็นไหม?
+P1001-0641	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Luckily, I've got a place in mind.\nYou know the Honmaruen cabaret?	โชคดีที่ผมมีที่ในใจอยู่แล้ว\nรู้จักคาบาเรต์ฮนมารุเอ็นไหม?
+P1001-0642	พากย์ · speech_list_judge_main_c10	? (ช)		It's a Kyorei stronghold.	มันเป็นฐานที่มั่นของตระกูลเคียวเรอิ
+P1001-0643	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	It's a Kyorei Clan stronghold.	มันเป็นฐานที่มั่นของตระกูลเคียวเรอิ
+P1001-0644	พากย์ · speech_list_judge_main_c10	? (ช)		I'm sure your former prey\nwill be thrilled to see you.	ผมมั่นใจว่าเหยื่อเก่า ๆ ของนาย\nคงตื่นเต้นที่จะได้เจอนายอีกครั้งแน่
+P1001-0645	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I'm sure the Mole's former prey\nwill be thrilled to see you.	ผมมั่นใจว่าเหยื่อเก่า ๆ ของไอ้ตัวตุ่น\nคงตื่นเต้นที่จะได้เจอนายแน่
+P1001-0646	พากย์ · speech_list_judge_main_c10	? (ช)		If they can't break you, I don't know what can.\nI doubt you'll last, though.	ถ้าพวกนั้นเอานายไม่อยู่ ผมก็ไม่รู้แล้วว่าอะไรจะเอานายอยู่\nแต่ผมว่านายคงทนไม่ไหวหรอก
+P1001-0647	พากย์ · speech_list_judge_main_c10	Hamura (ช)		...Shut it.	...หุบปาก
+P1001-0648	พากย์ · speech_list_judge_main_c10	Hamura (ช)	[อีกแทร็ก]	...Shut up.	...หุบปากไปเลย
+P1001-0649	พากย์ · speech_list_judge_main_c10	Matugane (ช)		Agreed. There is no excuse\nfor how I acted.	เห็นด้วย ไม่มีข้อแก้ตัวใด ๆ\nสำหรับสิ่งที่ผมทำลงไป
+P1001-0650	พากย์ · speech_list_judge_main_c10	Matugane (ช)	[อีกแทร็ก]	Agreed.\nI make no excuses.	เห็นด้วย\nผมไม่ขอแก้ตัวใด ๆ ทั้งนั้น
+P1001-0651	พากย์ · speech_list_judge_main_c10	Shioya (ช)		Here he is, the man of the hour.\nGlad you could make it, Hamura.	มาแล้วไง พระเอกของงานเรา\nดีใจที่มึงมาได้นะ ฮามุระ
+P1001-0652	พากย์ · speech_list_judge_main_c10	Shioya (ช)	[อีกแทร็ก]	Glad you could make it, Hamura!\nYou're the man of the hour, y'know?	ดีใจที่มึงมาได้นะ ฮามุระ!\nมึงคือพระเอกของงานเลยนะ รู้ตัวไหม?
+P1001-0653	พากย์ · speech_list_judge_main_c10	? (ช)		And you must be Patriarch Matsugane?\nIt's a pleasure to meet you.	แล้วคุณก็คือท่าน หัวหน้าตระกูลมัตสึกาเนะสินะ?\nยินดีที่ได้รู้จักครับ
+P1001-0654	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	And you must be Patriarch Matsugane?\nIt's a real pleasure.	แล้วคุณก็คือท่าน หัวหน้าตระกูลมัตสึกาเนะสินะ?\nยินดีที่ได้รู้จักจริง ๆ ครับ
+P1001-0655	พากย์ · speech_list_judge_main_c10	? (ช)		Though if you ask me, Tojo leadership should be\nbetter at keeping their dogs chained up.	แต่ถ้าถามกูนะ ผู้นำตระกูลโทโจ\nน่าจะคุมหมาในสังกัดให้อยู่ใน โซ่ให้ดีกว่านี้
+P1001-0656	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Though if you ask me, the Tojo Clan\noughta keep its dogs on tighter leashes.	แต่ถ้าถามกูนะ ตระกูลโทโจ\nน่าจะผูกโซ่หมาในสังกัดให้แน่น กว่านี้หน่อย
+P1001-0657	พากย์ · speech_list_judge_main_c10	? (ช)		Heh. Maybe, maybe not.	ฮึ อาจจะได้ หรืออาจจะไม่ได้
+P1001-0658	พากย์ · speech_list_judge_main_c10	? (ช)		Well that's rude.	นั่นมันหยาบคายไปหน่อยนะ
+P1001-0659	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Now that's just rude, Yagami.	นั่นมันหยาบคายไปหน่อยนะ ยากามิ
+P1001-0660	พากย์ · speech_list_judge_main_c10	? (ช)		I still haven't paid you back for what you did to me.\nIf you don't mind, I'd like to settle that first.	กูยังไม่ได้ตอบแทนสิ่งที่มึงทำ กับกูเลย\nถ้าไม่ว่าอะไร กูอยากจะสะสางเรื่องนั้นก่อน
+P1001-0661	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	I still haven't paid you back for what you did to me.\nIf it's all the same, how 'bout we settle it?	กูยังไม่ได้ตอบแทนสิ่งที่มึงทำ กับกูเลย\nถ้าไม่ติดอะไร มาสะสางเรื่องนั้นกันก่อนดีไหม?
+P1001-0662	พากย์ · speech_list_judge_main_c10	? (ช)		Grr, fine!	หึ ก็ได้!
+P1001-0663	พากย์ · speech_list_judge_main_c10	? (ช)		...Under one condition.	...มีเงื่อนไขเดียว
+P1001-0664	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	We'll play along...\nunder one condition.	กูจะเล่นด้วย...\nแต่มีเงื่อนไขเดียว
+P1001-0665	พากย์ · speech_list_judge_main_c10	? (ช)		Once you're done with him...\nyou give Hamura to us.	พอมึงจัดการกับมันเสร็จแล้ว...\nยกฮามุระให้พวกกู
+P1001-0666	พากย์ · speech_list_judge_main_c10	Yagami (ช)		Shioya-san.	ชิโอยะซัง
+P1001-0667	พากย์ · speech_list_judge_main_c10	? (ช)		We're gonna make Hamura tell us who the Mole is.\nThink you can keep us safe 'til then?	เราจะบีบให้ฮามุระบอกว่า ไอ้ตัวตุ่นคือใคร\nคิดว่าคุณจะคุ้มกันพวกเราไว้ได้ จนกว่าจะจบไหม?
+P1001-0668	พากย์ · speech_list_judge_main_c10	? (ช)		This is what Chairman Kajihira wants.	นี่คือสิ่งที่ประธานคาจิฮิระต้องการ
+P1001-0669	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	Let me remind you, this is what\nChairman Kajihira wants.	ขอเตือนไว้ก่อนนะ นี่คือสิ่งที่\nประธานคาจิฮิระต้องการ
+P1001-0670	พากย์ · speech_list_judge_main_c10	? (ช)		You don't wanna disobey\nhis orders, do you?	คุณคงไม่อยากขัดคำสั่ง\nของท่านหรอกใช่ไหม?
+P1001-0671	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	You're not gonna go rogue, are you?	คุณจะไม่คิดแหกกฎใช่ไหม?
+P1001-0672	พากย์ · speech_list_judge_main_c10	? (ช)		For what <font_kind=yakuza_italic>I</font_kind> did?\nYou're the one who kidnapped Mafuyu.	สิ่งที่<font_kind=yakuza_italic>ผม</font_kind>ทำงั้นเหรอ?\nคุณต่างหากที่ลักพาตัวมาฟุยุ
+P1001-0673	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	For what <font_kind=yakuza_italic>I</font_kind> did?\nYou're the one who tried to kidnap Mafuyu.	สิ่งที่<font_kind=yakuza_italic>ผม</font_kind>ทำงั้นเหรอ?\nคุณต่างหากที่พยายามลักพาตัวมาฟุยุ
+P1001-0674	พากย์ · speech_list_judge_main_c10	? (ช)		If you ask me,\nyou got what was coming to you.	ถ้าถามผมนะ\nคุณแค่ได้รับสิ่งที่สมควรได้
+P1001-0675	พากย์ · speech_list_judge_main_c10	? (ช)		Gladly.	ยินดีเลย
+P1001-0676	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	All right. Gladly.	ได้เลย ยินดี
+P1001-0677	พากย์ · speech_list_judge_main_c10	? (ช)		What, no witty comeback?\nI think that's a first for you.	ไง ไม่มีมุกกัดกลับมาเหรอ?\nนี่คงเป็นครั้งแรกของนายเลยมั้ง
+P1001-0678	พากย์ · speech_list_judge_main_c10	? (ช)	[อีกแทร็ก]	What, no more snarky comments?\nI think that's a first for you.	ไง ไม่มีคำพูดกวนประสาทแล้วเหรอ?\nนี่คงเป็นครั้งแรกของนายเลยมั้ง
+P1001-0679	พากย์ · speech_list_judge_main_c10	Sugiura (ช)		Let's go, Yagami-san.	ไปกันเถอะครับ ยากามิซัง
+P1001-0680	บทพูดเดิน · judge_main_c10	Yagami (ช)		(It's locked. It would be hard to try and pick the lock with no lights.)	(มันล็อกอยู่ คงยากที่จะงัดกุญแจตอนไม่มีไฟ ส่องแบบนี้)
+P1001-0681	บทพูดเดิน · judge_main_c10	Yagami (ช)		(Right now, it's important that I help Kaito-san.)	(ตอนนี้สิ่งสำคัญคือต้องไปช่วยไคโตะซัง)
+P1001-0682	บทพูดเดิน · judge_main_c10	Yagami (ช)		(Shit... It's too dark for me to aim...)	(เวรกรรม... มืดเกินกว่าจะเล็งได้เลย...)
+P1001-0683	ตัวเลือก · M10_01200_select_01	Yagami (ตัวเลือก) (ช)	[ใช้ร่วม]	No, not yet.	ยังไม่เจอเลย
+P1001-0684	ตัวเลือก · M10_01200_select_01	Yagami (ตัวเลือก) (ช)		Yeah, let's go.	ใช่ ไปกันเลย
+P1001-0685	เป้าหมายภารกิจ · judge_m_M10_00300	(ข้อความระบบ) (กลาง)	[ใช้ร่วม] [ซ้ำในบท x8]	Chapter 10: Chumming the Water	บทที่ 10: การล่อเหยื่อ
+P1001-0686	เป้าหมายภารกิจ · judge_m_M10_00300	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Scout the Matsugane Family Office	สำรวจสำนักงานตระกูลมัตสึกาเนะ
+P1001-0687	เป้าหมายภารกิจ · judge_m_M10_00300	(ข้อความระบบ) (กลาง)		Where is Hamura now? No way he's still gambling. I'll hit the office with the drone.	ตอนนี้ฮามุระอยู่ไหนกันแน่ ไม่มีทางที่เขาจะยังเล่นพนันอยู่หรอก ผมจะใช้โดรนสำรวจที่สำนักงาน
+P1001-0688	เป้าหมายภารกิจ · judge_m_M10_00800	(ข้อความระบบ) (กลาง)	[ซ้ำในบท x2]	Lure the Matsugane Family Out	ล่อตระกูลมัตสึกาเนะออกมา
+P1001-0689	เป้าหมายภารกิจ · judge_m_M10_00800	(ข้อความระบบ) (กลาง)	[ซ้ำในบท x2]	If I want to get Hamura out, I'll need to make a scene in the city. But how?	ถ้าอยากให้ฮามุระออกมา ผมต้องสร้างเรื่องใหญ่ในเมือง แต่จะทำยังไงดีนะ
+P1001-0690	เป้าหมายภารกิจ · judge_m_M10_01200	(ข้อความระบบ) (กลาง)		Head to the Soleil Building	ไปที่ตึกโซเลย์
+P1001-0691	เป้าหมายภารกิจ · judge_m_M10_01200	(ข้อความระบบ) (กลาง)		So Hamura's not below pointing a gun even at Matsugane-san, huh? And Kaito is injured, too. I'm coming for you, Hamura!	งั้นฮามุระไม่ลังเลที่จะเอาปืน จ่อมัตสึกาเนะซังด้วยสินะ แล้วไคโตะก็บาดเจ็บด้วย ผมจะไปหานายแล้ว ฮามุระ!
+P1001-0692	เป้าหมายภารกิจ · judge_m_M10_00805	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Head to Tender	ไปที่เทนเดอร์
+P1001-0693	เป้าหมายภารกิจ · judge_m_M10_00805	(ข้อความระบบ) (กลาง)		The Matsugane Family seems to be playing it safe. Guess I'll have a drink at Tender... totally open to attack.	ตระกูลมัตสึกาเนะดูจะระวังตัวอยู่นะ งั้นผมคงไปดื่มที่เทนเดอร์ก่อน... เปิดช่องให้โจมตีได้เต็มที่เลย
+P1001-0694	เป้าหมายภารกิจ · judge_m_M10_00815	(ข้อความระบบ) (กลาง)		Head to Alvin	ไปที่อัลวิน
+P1001-0695	เป้าหมายภารกิจ · judge_m_M10_00815	(ข้อความระบบ) (กลาง)		So this place is Matsugane Family backed, eh? Not too shabby. Is this your doing, Hamura?	ที่นี่มีตระกูลมัตสึกาเนะหนุนหลังสินะ ไม่เลวเลย นี่ฝีมือฮามุระใช่ไหมเนี่ย
+P1001-0696	เป้าหมายภารกิจ · judge_m_M10_00850_020	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Head to the Champion District	ไปที่ย่านแชมเปี้ยน
+P1001-0697	เป้าหมายภารกิจ · judge_m_M10_00850_020	(ข้อความระบบ) (กลาง)		Hamura must be on my tail by now. Maybe if I give him a nice, secluded area like the Champion District...	ป่านนี้ฮามุระคงตามผมมาติด ๆ แล้ว ถ้าผมล่อเขาไปที่เงียบสงบอย่าง ย่านแชมเปี้ยนดูล่ะ...
+P1001-0698	เป้าหมายภารกิจ · judge_m_M10_00824	(ข้อความระบบ) (กลาง)		Hit Three Matsugane Family Clubs	ถล่มคลับของตระกูลมัตสึกาเนะสามแห่ง
+P1001-0699	เป้าหมายภารกิจ · judge_m_M10_00824	(ข้อความระบบ) (กลาง)		Let's play yakuza telephone, shall we? If I cause trouble at a few places, it's sure to reach Hamura's ears.	มาเล่นเกมกระซิบข่าวยากูซ่ากันดีกว่า ถ้าผมก่อเรื่องไว้สักสองสามที่ ข่าวคงไปเข้าหูฮามุระแน่ ๆ

@@ -66,6 +66,18 @@ def main():
     if "--only" in sys.argv:
         only = {x.zfill(2) for x in sys.argv[sys.argv.index("--only") + 1].split(",")}
     index = json.loads((SWEEP / "index.json").read_text(encoding="utf-8"))
+    # ชุดงานเกลา (polish/chNN/chunk_*.tsv) เก็บ TH ตอนตัด — ถ้า master เปลี่ยนไปแล้ว (บทอื่นแก้คีย์ใช้ร่วม) ห้ามเขียนทับเงียบ ๆ
+    seen_th = {}
+    for cp in sorted(SWEEP.glob("chunk_*.tsv")):
+        rows_ = cp.read_text(encoding="utf-8").splitlines()
+        head = rows_[0].split("\t")
+        if "id" not in head or "TH" not in head:
+            continue
+        ci, ct = head.index("id"), head.index("TH")
+        for r in rows_[1:]:
+            f = r.split("\t")
+            if len(f) > ct:
+                seen_th[f[ci]] = unesc(f[ct])
     master = json.load(io.open(paths.MASTER_TH, encoding="utf-8"))
     key2batch, dones = {}, {}
     for dp in sorted(DONE.glob("batch_*.done.json")):
@@ -101,6 +113,8 @@ def main():
             old = master.get(en)
             if old is None:
                 rows.append((fp.name, sid, cat, "key ไม่มีใน master")); stat["key ผิด"] += 1; continue
+            if sid in seen_th and seen_th[sid] != old and new != old:
+                rows.append((fp.name, sid, cat, "ไทยเปลี่ยนหลังตัดชุดงาน — lead ดูเอง")); stat["ไทยเปลี่ยนแล้ว"] += 1; continue
             if cat in skip_cat:
                 rows.append((fp.name, sid, cat, "ข้ามหมวด (lead จัดการเอง)")); stat["ข้ามหมวด " + cat] += 1; continue
             if sid in reject_ids:

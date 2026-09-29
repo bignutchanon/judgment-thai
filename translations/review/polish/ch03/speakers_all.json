@@ -1,0 +1,170 @@
+{
+ "P0301-0304": {
+  "speaker": "Hamura",
+  "gender": "male",
+  "conf": "low",
+  "why": "สั่งลูกน้องให้ตามหา ไอ้โง่ — โทนกัปตัน · ไม่มีชื่อยืนยัน",
+  "file": "speakers_51.part1.json"
+ },
+ "P0301-0305": {
+  "speaker": "Hamura",
+  "gender": "male",
+  "conf": "low",
+  "why": "อีกแทร็กของ 0304",
+  "file": "speakers_51.part1.json"
+ },
+ "P0301-0308": {
+  "speaker": "Yakuza member",
+  "gender": "male",
+  "conf": "low",
+  "why": "ลูกน้องกำลังไล่หาไคโตะ ตามบริบท 0306-0309",
+  "file": "speakers_51.part1.json"
+ },
+ "P0301-0358": {
+  "speaker": "Hamura",
+  "gender": "male",
+  "conf": "med",
+  "why": "ชมฮิงาชิว่าเป็นยากูซ่าตัวจริงแล้ว ตรงกับ a03_030",
+  "file": "speakers_51.part1.json"
+ },
+ "P0301-0359": {
+  "speaker": "Hamura",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0358",
+  "file": "speakers_51.part1.json"
+ },
+ "P0301-0388": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "เสนอชุดนักเรียนให้ยากามิ ตอบ 'Makes sense, but what kind' ของยากามิ ป้ายเดิมเป็น Yagami",
+  "file": "speakers_51.part1.json"
+ },
+ "P0301-0389": {
+  "speaker": "Kaito",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตำหนิยากามิที่อายแต่งเป็นเด็ก ต่อจาก 0388 · ยากามิตอบ 'รู้อายุผมไหม' (0397)",
+  "file": "speakers_51.part1.json"
+ },
+ "P0301-0540": {
+  "speaker": "?",
+  "gender": "unknown",
+  "conf": "low",
+  "why": "Gotcha ใช้ร่วมหลายผู้พูด ระบุไม่ได้",
+  "file": "speakers_51.part2.json"
+ },
+ "P0301-0547": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0546 (Yagami) — ผู้พูดเดียวกัน",
+  "file": "speakers_51.part2.json"
+ },
+ "P0301-0577": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ (monologue) ชื่นชมมาสึดะ ก่อนถามงาน",
+  "file": "speakers_51.part2.json"
+ },
+ "P0301-0595": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ (monologue) หลังอายาเบะโทรมา",
+  "file": "speakers_51.part2.json"
+ },
+ "P0301-0607": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ (monologue) เรื่องเงิน 1 แสนที่ต้องจ่ายอายาเบะ",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0608": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ (monologue) ต่อเนื่อง 0607",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0609": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ (monologue) ต่อเนื่อง 0607",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0610": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ พูดถึงซาโอริซัง/มาสึดะ",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0611": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ ไปเล่นโต๊ะที่ L'Amant",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0706": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "กู + ตอบเรื่องชื่อจมูกแดง ต่อจาก 0705 ที่อายาเบะส่งรูป",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0707": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0706",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0712": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "กู + อยู่ในชุดเล่าเรื่องจมูกแดง/ฮิงาชิของอายาเบะ",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0713": {
+  "speaker": "Ayabe",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0712",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0876": {
+  "speaker": "Yakuza member",
+  "gender": "male",
+  "conf": "med",
+  "why": "ลูกน้องฮามุระเข้าโจมตีที่สวนเด็ก ประกาศ 'จมูกแดงฝากความคิดถึง'",
+  "file": "speakers_51.part3.json"
+ },
+ "P0301-0989": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ (monologue) สรุปแผนของฮามุระ ต่อจากฉากที่ฮิงาชิสารภาพกับยากามิ",
+  "file": "speakers_51.part4.json"
+ },
+ "P0301-0990": {
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "high",
+  "why": "ความคิดในใจ (monologue) ต่อเนื่อง 0989",
+  "file": "speakers_51.part4.json"
+ },
+ "P0301-1065": {
+  "speaker": "Higashi",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 1064 (Higashi เรียก Aniki)",
+  "file": "speakers_51.part5.json"
+ }
+}

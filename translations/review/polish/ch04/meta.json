@@ -1,0 +1,11302 @@
+{
+"P0401-0001": {
+"section": "ทวนเรื่องเปิดบท",
+"bin": "auth.bin",
+"table": "p04_00100",
+"row": "1",
+"col": "4",
+"speaker": "Narration",
+"gender": "narration",
+"flags": [],
+"outside": []
+},
+"P0401-0002": {
+"section": "ทวนเรื่องเปิดบท",
+"bin": "auth.bin",
+"table": "p04_00100",
+"row": "2",
+"col": "4",
+"speaker": "Narration",
+"gender": "narration",
+"flags": [],
+"outside": []
+},
+"P0401-0003": {
+"section": "ทวนเรื่องเปิดบท",
+"bin": "auth.bin",
+"table": "p04_00100",
+"row": "3",
+"col": "4",
+"speaker": "Narration",
+"gender": "narration",
+"flags": [],
+"outside": []
+},
+"P0401-0004": {
+"section": "ทวนเรื่องเปิดบท",
+"bin": "auth.bin",
+"table": "p04_00100",
+"row": "4",
+"col": "4",
+"speaker": "Narration",
+"gender": "narration",
+"flags": [],
+"outside": []
+},
+"P0401-0005": {
+"section": "ทวนเรื่องเปิดบท",
+"bin": "auth.bin",
+"table": "p04_00100",
+"row": "5",
+"col": "4",
+"speaker": "Narration",
+"gender": "narration",
+"flags": [],
+"outside": []
+},
+"P0401-0006": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "1",
+"col": "4",
+"speaker": "Hamura",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0007": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "1",
+"col": "5",
+"speaker": "Hamura",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0008": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "2",
+"col": "4",
+"speaker": "Hamura",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0009": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "2",
+"col": "5",
+"speaker": "Hamura",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0010": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "3",
+"col": "4",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0011": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "3",
+"col": "5",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0012": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "4",
+"col": "4",
+"speaker": "Hamura",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0013": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "4",
+"col": "5",
+"speaker": "Hamura",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0014": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "5",
+"col": "4",
+"speaker": "Hamura",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0015": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "5",
+"col": "5",
+"speaker": "Hamura",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0016": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "6",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0017": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "6",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"12",
+"13",
+"7",
+"8"
+]
+},
+"P0401-0018": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "7",
+"col": "4",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ",
+"ซ้ำในบท x4"
+],
+"outside": [
+"1",
+"10",
+"11",
+"13",
+"2",
+"3",
+"5",
+"7",
+"8",
+"9",
+"pause_message.bin",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0019": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "7",
+"col": "5",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0020": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "8",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0021": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "8",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0022": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "9",
+"col": "4",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0023": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "9",
+"col": "5",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0024": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "10",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0025": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "10",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0026": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "11",
+"col": "4",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"1"
+]
+},
+"P0401-0027": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "11",
+"col": "5",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0028": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_010",
+"row": "12",
+"col": "4",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0029": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "1",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0030": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "1",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0031": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "2",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0032": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "2",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0033": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "3",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ",
+"ซ้ำในบท x8"
+],
+"outside": [
+"1",
+"10",
+"11",
+"12",
+"13",
+"2",
+"3",
+"5",
+"6",
+"7",
+"8",
+"9",
+"minigame_mahjong_string_npc.bin",
+"pause_message.bin",
+"sound_auth.bin/speech_list_btl_hact",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_friend_g#",
+"talk.bin/judge_friend_tamariba",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0034": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "4",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0035": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "4",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0036": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "5",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0037": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "5",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0038": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "6",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0039": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "6",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0040": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "7",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0041": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "7",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0042": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "8",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0043": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "8",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0044": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "9",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0045": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "9",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"11"
+]
+},
+"P0401-0046": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "10",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0047": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "10",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0048": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "11",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0049": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "11",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0050": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "12",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"11",
+"12",
+"13",
+"8",
+"9",
+"pause_message.bin",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_friend_g#",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0051": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "12",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0052": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "13",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0053": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "13",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0054": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "14",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0055": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "14",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0056": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "15",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0057": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "15",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0058": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "16",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0059": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "16",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0060": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "17",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0061": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "17",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0062": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "18",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0063": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "18",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0064": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "19",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0065": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "19",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0066": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "20",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0067": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "21",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0068": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_015",
+"row": "21",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0069": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "1",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0070": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "1",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0071": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "2",
+"col": "4",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0072": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "2",
+"col": "5",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0073": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "3",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0074": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "3",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"12",
+"13"
+]
+},
+"P0401-0075": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "4",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ",
+"ซ้ำในบท x7"
+],
+"outside": [
+"1",
+"11",
+"12",
+"13",
+"2",
+"3",
+"5",
+"6",
+"7",
+"8",
+"9",
+"pause_message.bin",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_friend_g#",
+"talk.bin/judge_side_a#",
+"talk.bin/judge_side_tailing",
+"talk.bin/judge_smoker_talk#"
+]
+},
+"P0401-0076": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "5",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0077": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "5",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0078": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "6",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0079": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "6",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0080": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "7",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"11",
+"13",
+"9"
+]
+},
+"P0401-0081": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "7",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"12"
+]
+},
+"P0401-0082": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "8",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0083": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "8",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0084": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "9",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0085": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "9",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0086": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "10",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"3"
+]
+},
+"P0401-0087": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "10",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0088": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "11",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"10",
+"minigame_mahjong_string_npc.bin"
+]
+},
+"P0401-0089": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "11",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ซ้ำในบท x2"
+],
+"outside": [
+"1",
+"6",
+"7"
+]
+},
+"P0401-0090": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "12",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0091": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "12",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0092": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "13",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0093": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "13",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0094": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "14",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0095": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "15",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0096": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "15",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0097": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "16",
+"col": "4",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0098": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "16",
+"col": "5",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0099": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "17",
+"col": "4",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0100": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "17",
+"col": "5",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0101": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "18",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0102": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "18",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0103": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "19",
+"col": "4",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0104": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "19",
+"col": "5",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0105": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "20",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0106": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "20",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0107": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "21",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0108": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "21",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0109": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "22",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0110": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "22",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0111": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "23",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0112": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "23",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0113": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "24",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0114": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "24",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0115": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "25",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0116": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "25",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0117": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "26",
+"col": "4",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0118": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_017",
+"row": "26",
+"col": "5",
+"speaker": "Kuroiwa",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0119": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "1",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"12"
+]
+},
+"P0401-0120": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "1",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0121": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "2",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0122": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "2",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0123": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "3",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0124": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "3",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0125": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "4",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0126": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "4",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0127": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "5",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"11",
+"6"
+]
+},
+"P0401-0128": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "5",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"10",
+"7"
+]
+},
+"P0401-0129": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "6",
+"col": "4",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0130": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "6",
+"col": "5",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0131": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "7",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"sound_auth.bin/speech_list_judge_tailing"
+]
+},
+"P0401-0132": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "7",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ซ้ำในบท x2"
+],
+"outside": [
+"5",
+"9",
+"talk.bin/judge_friend_tamariba",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0133": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "8",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0134": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "8",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0135": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "9",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0136": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "9",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0137": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "10",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0138": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "10",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0139": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "11",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"12",
+"13",
+"2",
+"5",
+"7",
+"9",
+"sound_auth.bin/speech_list_judge_girlfriend",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0140": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "11",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0141": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "12",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0142": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "12",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0143": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "13",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0144": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "13",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0145": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "14",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0146": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "14",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0147": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "15",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"13"
+]
+},
+"P0401-0148": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "15",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"3",
+"7"
+]
+},
+"P0401-0149": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "16",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0150": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "16",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0151": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "17",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0152": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "17",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0153": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "18",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0154": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "18",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0155": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "19",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0156": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "19",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0157": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "20",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0158": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "21",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0159": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "21",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0160": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "22",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0161": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "22",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"11",
+"12",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0162": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "23",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0163": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "23",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0164": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "24",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0165": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "24",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0166": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "25",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0167": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "26",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0168": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "26",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0169": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "27",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0170": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "27",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0171": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "28",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0172": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "28",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0173": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "29",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"1",
+"12",
+"13",
+"3",
+"6",
+"7",
+"8",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_friend_g#",
+"talk.bin/judge_side_a#",
+"talk.bin/judge_side_tailing"
+]
+},
+"P0401-0174": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "30",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0175": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "30",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0176": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "31",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0177": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "31",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"10"
+]
+},
+"P0401-0178": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "32",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0179": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "33",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"13",
+"3",
+"pause_message.bin"
+]
+},
+"P0401-0180": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "33",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"13",
+"6",
+"8"
+]
+},
+"P0401-0181": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "34",
+"col": "4",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0182": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "34",
+"col": "5",
+"speaker": "Shioya",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0183": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "35",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0184": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "35",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"13"
+]
+},
+"P0401-0185": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "36",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"3"
+]
+},
+"P0401-0186": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "36",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0187": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "37",
+"col": "4",
+"speaker": "Murase",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ",
+"ซ้ำในบท x3"
+],
+"outside": [
+"12",
+"13",
+"2",
+"6",
+"7",
+"9",
+"pause_message.bin",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0188": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "38",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0189": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "38",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0190": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "39",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"10",
+"13",
+"2",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0191": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "39",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ซ้ำในบท x2"
+],
+"outside": [
+"12",
+"9"
+]
+},
+"P0401-0192": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "40",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0193": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_020",
+"row": "40",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0194": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "1",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0195": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "1",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0196": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "2",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0197": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "2",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0198": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "3",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0199": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "3",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0200": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "4",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0201": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "4",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"13",
+"2",
+"3",
+"9",
+"pause_message.bin",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0202": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "5",
+"col": "4",
+"speaker": "Murase",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0203": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "5",
+"col": "5",
+"speaker": "Murase",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0204": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "6",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0205": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "6",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0206": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "7",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"talk.bin/judge_friend_a#"
+]
+},
+"P0401-0207": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "7",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0208": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "8",
+"col": "4",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0209": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "8",
+"col": "5",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0210": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "9",
+"col": "4",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0211": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "9",
+"col": "5",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0212": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "10",
+"col": "4",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0213": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "10",
+"col": "5",
+"speaker": "Kyorei thug",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0214": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "11",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0215": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "11",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0216": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "12",
+"col": "4",
+"speaker": "Murase",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0217": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "13",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0218": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "13",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0219": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "14",
+"col": "4",
+"speaker": "Murase",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0220": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "14",
+"col": "5",
+"speaker": "Murase",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0221": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "15",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0222": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_030",
+"row": "15",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0223": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "1",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0224": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "1",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0225": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "2",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0226": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "2",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0227": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "3",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0228": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "4",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0229": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "5",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0230": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "5",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0231": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "6",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0232": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "6",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0233": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "7",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0234": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "7",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0235": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "8",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0236": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "8",
+"col": "5",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0237": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "9",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0238": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "9",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0239": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "10",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0240": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "12",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0241": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "12",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0242": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "13",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0243": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "13",
+"col": "5",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0244": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "14",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0245": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "14",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0246": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "15",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0247": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "16",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0248": {
+"section": "คัตซีน",
+"bin": "auth.bin",
+"table": "a04_040",
+"row": "16",
+"col": "5",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0249": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "1",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0250": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "3",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0251": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "3",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0252": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "5",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0253": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "7",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0254": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "9",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0255": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "9",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0256": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "10",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0257": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "10",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0258": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "11",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0259": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "13",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0260": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "13",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0261": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "14",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0262": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "14",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0263": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "16",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0264": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "16",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0265": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "2",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0266": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "2",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0267": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "4",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0268": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "4",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0269": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "6",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"5"
+]
+},
+"P0401-0270": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "8",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0271": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "8",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0272": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "12",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"13",
+"9"
+]
+},
+"P0401-0273": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "15",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0274": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "15",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0275": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "40",
+"col": "4",
+"speaker": "Genda",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0276": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "40",
+"col": "6",
+"speaker": "Genda",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0277": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "47",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0278": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "48",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0279": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "48",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0280": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "49",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0281": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "49",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0282": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "51",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0283": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "51",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0284": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "54",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0285": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "54",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0286": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "17",
+"col": "4",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0287": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "17",
+"col": "6",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0288": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "18",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0289": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "18",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0290": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "20",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0291": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "20",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0292": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "22",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0293": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "22",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0294": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "23",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0295": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "25",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0296": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "25",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0297": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "26",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0298": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "26",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0299": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "27",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0300": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "27",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0301": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "28",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0302": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "28",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0303": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "29",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0304": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "29",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0305": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "42",
+"col": "4",
+"speaker": "Hoshino",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0306": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "42",
+"col": "6",
+"speaker": "Hoshino",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0307": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "44",
+"col": "6",
+"speaker": "?",
+"gender": "mixed",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"10",
+"11",
+"5",
+"7",
+"9",
+"sound_auth.bin/speech_list_judge_tailing",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0308": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "45",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0309": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "46",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0310": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "46",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0311": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "30",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0312": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "31",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0313": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "31",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0314": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "55",
+"col": "4",
+"speaker": "kisei_police",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0315": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "55",
+"col": "6",
+"speaker": "kisei_police",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0316": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "33",
+"col": "4",
+"speaker": "Saori",
+"gender": "female",
+"flags": [],
+"outside": []
+},
+"P0401-0317": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "35",
+"col": "4",
+"speaker": "?",
+"gender": "female",
+"flags": [],
+"outside": []
+},
+"P0401-0318": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "35",
+"col": "6",
+"speaker": "?",
+"gender": "female",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0319": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "38",
+"col": "4",
+"speaker": "?",
+"gender": "mixed",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"talk.bin/judge_friend_tamariba"
+]
+},
+"P0401-0320": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "38",
+"col": "6",
+"speaker": "?",
+"gender": "female",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0321": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "32",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"11",
+"12",
+"13",
+"2",
+"6",
+"8",
+"pause_message.bin",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0322": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "34",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"1",
+"10",
+"11",
+"12",
+"13",
+"2",
+"3",
+"5",
+"7",
+"9",
+"sound_auth.bin/speech_list_judge_tailing",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0323": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "36",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0324": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "36",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0325": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "37",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0326": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "37",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0327": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "39",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"7"
+]
+},
+"P0401-0328": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "39",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0329": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "43",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0330": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "43",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0331": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "50",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0332": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "50",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0333": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "52",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0334": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "52",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0335": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "53",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0336": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "53",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0337": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "56",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0338": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "57",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0339": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "19",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0340": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "19",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0341": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "21",
+"col": "4",
+"speaker": "seiya_girl",
+"gender": "mixed",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ",
+"ซ้ำในบท x2"
+],
+"outside": [
+"1",
+"10",
+"11",
+"12",
+"13",
+"2",
+"3",
+"5",
+"6",
+"7",
+"8",
+"9",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_friend_g#",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0342": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "24",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0343": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "59",
+"col": "4",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0344": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "59",
+"col": "6",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0345": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "60",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0346": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "60",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0347": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "62",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0348": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "62",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0349": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "63",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0350": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "66",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0351": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "66",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0352": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "67",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0353": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "67",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0354": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "69",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0355": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "69",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0356": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "71",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0357": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "71",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0358": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "73",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0359": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "73",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0360": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "75",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0361": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "75",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0362": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "78",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0363": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "78",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0364": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "80",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0365": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "80",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0366": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "81",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0367": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "81",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0368": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "85",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0369": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "85",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0370": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "86",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0371": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "86",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0372": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "88",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0373": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "89",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0374": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "89",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0375": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "91",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0376": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "91",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0377": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "92",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0378": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "92",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0379": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "58",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0380": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "58",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0381": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "64",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0382": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "64",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0383": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "65",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0384": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "65",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0385": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "68",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0386": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "68",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0387": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "70",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0388": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "70",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0389": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "72",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"7",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0390": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "72",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0391": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "74",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0392": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "74",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0393": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "77",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0394": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "79",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"13",
+"3",
+"9",
+"talk.bin/judge_side_a#",
+"talk.bin/judge_smoker_talk#"
+]
+},
+"P0401-0395": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "82",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0396": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "83",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0397": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "83",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0398": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "84",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0399": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "84",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0400": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "87",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0401": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "87",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0402": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "90",
+"col": "6",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ต้องกลางเพศ",
+"ซ้ำในบท x2"
+],
+"outside": [
+"1",
+"12",
+"13",
+"2",
+"3",
+"5",
+"6",
+"7",
+"8",
+"9",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0403": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "106",
+"col": "4",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0404": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "106",
+"col": "6",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0405": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "95",
+"col": "4",
+"speaker": "Kasai",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0406": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "95",
+"col": "6",
+"speaker": "Kasai",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0407": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "97",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0408": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "97",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0409": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "103",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0410": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "103",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0411": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "101",
+"col": "4",
+"speaker": "Keihin",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0412": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "99",
+"col": "4",
+"speaker": "Kim",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0413": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "99",
+"col": "6",
+"speaker": "Kim",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0414": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "94",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"1"
+]
+},
+"P0401-0415": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "96",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0416": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "98",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0417": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "98",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0418": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "100",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"1"
+]
+},
+"P0401-0419": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "100",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0420": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "104",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0421": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "105",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0422": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "112",
+"col": "4",
+"speaker": "Honda",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0423": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "112",
+"col": "6",
+"speaker": "Honda",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0424": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "113",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0425": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "113",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0426": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "115",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0427": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "115",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0428": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "117",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0429": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "122",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0430": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "122",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0431": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "123",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0432": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "123",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0433": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "126",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0434": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "128",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0435": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "128",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0436": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "129",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0437": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "131",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0438": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "131",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0439": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "133",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0440": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "133",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0441": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "109",
+"col": "4",
+"speaker": "Kasai",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0442": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "109",
+"col": "6",
+"speaker": "Kasai",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0443": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "111",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"5"
+]
+},
+"P0401-0444": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "116",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0445": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "116",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0446": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "118",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0447": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "120",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0448": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "120",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0449": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "121",
+"col": "4",
+"speaker": "Keihin",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0450": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "121",
+"col": "6",
+"speaker": "Keihin",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0451": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "108",
+"col": "4",
+"speaker": "Kim",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0452": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "108",
+"col": "6",
+"speaker": "Kim",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0453": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "107",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0454": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "110",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0455": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "114",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0456": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "114",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0457": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "125",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0458": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "125",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0459": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "127",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ",
+"ซ้ำในบท x2"
+],
+"outside": [
+"1",
+"10",
+"11",
+"13",
+"5",
+"6",
+"9",
+"talk.bin/judge_friend_a#",
+"talk.bin/judge_friend_g#",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0460": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "130",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0461": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "134",
+"col": "4",
+"speaker": "Honda",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0462": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "134",
+"col": "6",
+"speaker": "Honda",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0463": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "136",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0464": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "136",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0465": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "137",
+"col": "4",
+"speaker": "?",
+"gender": "mixed",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"11",
+"13",
+"2",
+"3",
+"5",
+"7",
+"8",
+"9",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0466": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "138",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0467": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "140",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0468": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "140",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0469": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "141",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0470": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "143",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0471": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "143",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0472": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "146",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0473": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "144",
+"col": "4",
+"speaker": "Kim",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0474": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "144",
+"col": "6",
+"speaker": "Kim",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0475": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "135",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0476": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "142",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0477": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "142",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0478": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "145",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0479": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "145",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0480": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "147",
+"col": "4",
+"speaker": "Kim",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0481": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "147",
+"col": "6",
+"speaker": "Kim",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0482": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "149",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0483": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "149",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0484": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "150",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0485": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "150",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0486": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "152",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0487": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "152",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0488": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "153",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0489": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "153",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0490": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "154",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0491": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "154",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0492": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "156",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0493": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "156",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0494": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "157",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0495": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "157",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0496": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "158",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0497": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "158",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0498": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "160",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0499": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "160",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"1"
+]
+},
+"P0401-0500": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "161",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0501": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "161",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0502": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "163",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0503": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "163",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0504": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "148",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0505": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "148",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0506": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "151",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0507": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "151",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0508": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "155",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0509": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "155",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0510": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "159",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0511": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "159",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0512": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "162",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0513": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "162",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"7",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0514": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "164",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0515": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "164",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0516": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "165",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0517": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "174",
+"col": "4",
+"speaker": "Genda",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0518": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "174",
+"col": "6",
+"speaker": "Genda",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0519": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "173",
+"col": "4",
+"speaker": "Hoshino",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0520": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "173",
+"col": "6",
+"speaker": "Hoshino",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0521": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "172",
+"col": "4",
+"speaker": "Saori",
+"gender": "female",
+"flags": [],
+"outside": []
+},
+"P0401-0522": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "172",
+"col": "6",
+"speaker": "Saori",
+"gender": "female",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0523": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "169",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0524": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "169",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0525": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "171",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"11"
+]
+},
+"P0401-0526": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "166",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0527": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "166",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0528": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "168",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0529": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "175",
+"col": "4",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0530": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "175",
+"col": "6",
+"speaker": "Shintani",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0531": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "177",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0532": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "177",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0533": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "178",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0534": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "179",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0535": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "181",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0536": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "181",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0537": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "182",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0538": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "183",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0539": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "183",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0540": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "185",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0541": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "185",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0542": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "187",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0543": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "187",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0544": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "188",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0545": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "188",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0546": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "192",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0547": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "192",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0548": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "180",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0549": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "180",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0550": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "184",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0551": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "184",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0552": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "189",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0553": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "189",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0554": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "190",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0555": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "190",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0556": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "191",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0557": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "191",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0558": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "193",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0559": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "193",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0560": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "194",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0561": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "200",
+"col": "4",
+"speaker": "Genda",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0562": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "200",
+"col": "6",
+"speaker": "Genda",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0563": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "201",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0564": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "201",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0565": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "202",
+"col": "4",
+"speaker": "Hoshino",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0566": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "202",
+"col": "6",
+"speaker": "Hoshino",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0567": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "203",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0568": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "203",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0569": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "196",
+"col": "4",
+"speaker": "Saori",
+"gender": "female",
+"flags": [],
+"outside": []
+},
+"P0401-0570": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "198",
+"col": "4",
+"speaker": "?",
+"gender": "female",
+"flags": [],
+"outside": []
+},
+"P0401-0571": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "198",
+"col": "6",
+"speaker": "?",
+"gender": "female",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0572": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "197",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0573": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "197",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"1",
+"12",
+"pause_message.bin"
+]
+},
+"P0401-0574": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "199",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0575": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "199",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0576": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "205",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0577": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "205",
+"col": "6",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0578": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "207",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0579": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "207",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0580": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "209",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0581": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "209",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0582": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "210",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0583": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "212",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0584": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "212",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0585": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "213",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0586": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "213",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0587": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "214",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0588": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "204",
+"col": "4",
+"speaker": "Sugiura",
+"gender": "male",
+"flags": [
+"ใช้ร่วม",
+"ซ้ำในบท x2"
+],
+"outside": [
+"1",
+"11",
+"12",
+"2",
+"3",
+"6",
+"7",
+"8",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0589": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "206",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0590": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "206",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0591": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "208",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0592": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "208",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0593": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "215",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0594": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "215",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0595": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "217",
+"col": "4",
+"speaker": "Ayabe",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0596": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "219",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0597": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "220",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0598": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "220",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0599": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "222",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0600": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "222",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0601": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "227",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0602": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "227",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0603": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "229",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0604": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "229",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0605": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "230",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0606": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "230",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0607": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "232",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0608": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "232",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0609": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "233",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0610": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "233",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0611": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "235",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0612": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "235",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0613": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "236",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0614": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "239",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0615": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "239",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0616": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "240",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0617": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "240",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0618": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "241",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0619": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "241",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0620": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "247",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0621": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "247",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0622": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "248",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0623": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "248",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0624": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "250",
+"col": "4",
+"speaker": "?",
+"gender": "unknown",
+"flags": [],
+"outside": []
+},
+"P0401-0625": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "250",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0626": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "251",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0627": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "251",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0628": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "253",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0629": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "255",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0630": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "255",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0631": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "256",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0632": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "256",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0633": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "260",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0634": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "260",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0635": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "261",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0636": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "261",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0637": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "263",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0638": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "264",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0639": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "264",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0640": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "266",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0641": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "266",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0642": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "267",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0643": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "267",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0644": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "269",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0645": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "269",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0646": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "270",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0647": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "270",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0648": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "272",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0649": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "272",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0650": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "273",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0651": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "273",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0652": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "275",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0653": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "276",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0654": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "276",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0655": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "277",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0656": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "277",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0657": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "279",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0658": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "279",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0659": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "280",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0660": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "280",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0661": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "283",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0662": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "283",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0663": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "284",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0664": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "284",
+"col": "6",
+"speaker": "?",
+"gender": "unknown",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0665": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "285",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0666": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "285",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0667": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "288",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0668": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "288",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0669": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "290",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0670": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "290",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0671": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "225",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0672": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "225",
+"col": "6",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0673": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "226",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0674": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "226",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0675": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "231",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0676": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "231",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0677": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "238",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0678": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "238",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0679": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "244",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0680": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "244",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0681": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "254",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0682": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "254",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0683": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "265",
+"col": "4",
+"speaker": "?",
+"gender": "mixed",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"7",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0684": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "268",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0685": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "268",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0686": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "281",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0687": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "281",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0688": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "216",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0689": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "216",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0690": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "218",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0691": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "218",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0692": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "221",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0693": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "223",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0694": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "223",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0695": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "224",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0696": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "224",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0697": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "228",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0698": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "228",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0699": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "234",
+"col": "4",
+"speaker": "?",
+"gender": "mixed",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ",
+"ซ้ำในบท x2"
+],
+"outside": [
+"1",
+"12",
+"3",
+"9",
+"talk.bin/judge_friend_g#"
+]
+},
+"P0401-0700": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "237",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0701": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "237",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0702": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "242",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0703": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "242",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0704": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "243",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0705": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "243",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0706": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "245",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0707": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "245",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0708": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "246",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0709": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "246",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0710": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "249",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0711": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "249",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0712": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "252",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0713": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "252",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0714": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "257",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0715": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "257",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม",
+"ซ้ำในบท x2"
+],
+"outside": [
+"3",
+"9"
+]
+},
+"P0401-0716": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "258",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0717": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "259",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0718": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "259",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0719": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "262",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0720": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "262",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0721": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "271",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0722": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "271",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0723": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "274",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0724": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "278",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0725": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "278",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0726": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "282",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0727": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "282",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0728": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "286",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"2"
+]
+},
+"P0401-0729": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "286",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"minigame_mahjong_string_npc.bin"
+]
+},
+"P0401-0730": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "287",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0731": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "287",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0732": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "289",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"13"
+]
+},
+"P0401-0733": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "291",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0734": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "291",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0735": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "292",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0736": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "294",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0737": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "299",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0738": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "299",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0739": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "300",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0740": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "300",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0741": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "302",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"9"
+]
+},
+"P0401-0742": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "302",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"8"
+]
+},
+"P0401-0743": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "305",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0744": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "305",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0745": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "306",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0746": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "308",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0747": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "308",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0748": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "293",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0749": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "293",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0750": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "295",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0751": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "295",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0752": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "296",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0753": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "296",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0754": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "298",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0755": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "298",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0756": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "301",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0757": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "303",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0758": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "304",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0759": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "304",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0760": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "307",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0761": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "307",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0762": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "309",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0763": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "309",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0764": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "310",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0765": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "310",
+"col": "6",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0766": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "311",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0767": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "311",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0768": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "313",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0769": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "313",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0770": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "312",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0771": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "312",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0772": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "314",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0773": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "315",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0774": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "315",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0775": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "316",
+"col": "4",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0776": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "316",
+"col": "6",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0777": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "318",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0778": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "318",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0779": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "320",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0780": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "320",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0781": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "367",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0782": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "367",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0783": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "317",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0784": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "317",
+"col": "6",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0785": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "319",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0786": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "319",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0787": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "324",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0788": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "325",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0789": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "325",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0790": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "333",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0791": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "333",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0792": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "365",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0793": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "365",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0794": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "322",
+"col": "4",
+"speaker": "Sugiura",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0795": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "326",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0796": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "326",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0797": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "330",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0798": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "330",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0799": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "332",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0800": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "332",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0801": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "334",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0802": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "334",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0803": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "335",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0804": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "335",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0805": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "338",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0806": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "338",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0807": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "340",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0808": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "340",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0809": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "341",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0810": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "341",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0811": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "342",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0812": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "342",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0813": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "344",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0814": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "344",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0815": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "345",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0816": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "345",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0817": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "346",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0818": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "348",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0819": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "348",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0820": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "349",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0821": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "349",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0822": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "350",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0823": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "350",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0824": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "353",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0825": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "353",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0826": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "354",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0827": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "354",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0828": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "357",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0829": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "357",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0830": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "359",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0831": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "359",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0832": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "360",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0833": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "360",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0834": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "362",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0835": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "364",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0836": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "364",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0837": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "368",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0838": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "369",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0839": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "369",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0840": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "371",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0841": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "372",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0842": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "374",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"12"
+]
+},
+"P0401-0843": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "374",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0844": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "376",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0845": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "376",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0846": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "321",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"2",
+"3",
+"pause_message.bin"
+]
+},
+"P0401-0847": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "321",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก",
+"ใช้ร่วม"
+],
+"outside": [
+"1"
+]
+},
+"P0401-0848": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "323",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0849": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "323",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0850": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "327",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0851": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "327",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0852": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "329",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0853": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "336",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0854": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "339",
+"col": "4",
+"speaker": "?",
+"gender": "mixed",
+"flags": [
+"ใช้ร่วม",
+"ต้องกลางเพศ"
+],
+"outside": [
+"1",
+"13",
+"2",
+"6",
+"8",
+"talk.bin/judge_friend_g#",
+"talk.bin/judge_side_a#"
+]
+},
+"P0401-0855": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "339",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0856": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "351",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0857": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "352",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0858": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "356",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0859": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "356",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0860": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "366",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0861": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "366",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0862": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "370",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0863": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "373",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0864": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "375",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0865": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "375",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0866": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "377",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0867": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "377",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0868": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "384",
+"col": "4",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0869": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "384",
+"col": "6",
+"speaker": "Higashi",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0870": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "378",
+"col": "4",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0871": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "378",
+"col": "6",
+"speaker": "Kaito",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0872": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "380",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0873": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "380",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0874": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "381",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0875": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "381",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0876": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "383",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0877": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "383",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0878": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "379",
+"col": "4",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0879": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "379",
+"col": "6",
+"speaker": "Yagami",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0880": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "382",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0881": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "382",
+"col": "6",
+"speaker": "?",
+"gender": "male",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0882": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "386",
+"col": "4",
+"speaker": "Saori",
+"gender": "female",
+"flags": [],
+"outside": []
+},
+"P0401-0883": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "386",
+"col": "6",
+"speaker": "Saori",
+"gender": "female",
+"flags": [
+"อีกแทร็ก"
+],
+"outside": []
+},
+"P0401-0884": {
+"section": "พากย์",
+"bin": "sound_auth.bin",
+"table": "speech_list_judge_main_c04",
+"row": "387",
+"col": "4",
+"speaker": "?",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0885": {
+"section": "ตัวเลือก",
+"bin": "talk_select_select.bin",
+"table": "M04_00800_select_01",
+"row": "-",
+"col": "-",
+"speaker": "Yagami (ตัวเลือก)",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0886": {
+"section": "ตัวเลือก",
+"bin": "talk_select_select.bin",
+"table": "M04_00800_select_01",
+"row": "-",
+"col": "-",
+"speaker": "Yagami (ตัวเลือก)",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0887": {
+"section": "ตัวเลือก",
+"bin": "talk_select_select.bin",
+"table": "M04_00800_select_01",
+"row": "-",
+"col": "-",
+"speaker": "Yagami (ตัวเลือก)",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0888": {
+"section": "ตัวเลือก",
+"bin": "talk_select_select.bin",
+"table": "M04_00800_select_01",
+"row": "-",
+"col": "-",
+"speaker": "Yagami (ตัวเลือก)",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0889": {
+"section": "ตัวเลือก",
+"bin": "talk_select_select.bin",
+"table": "M04_00800_select_01",
+"row": "-",
+"col": "-",
+"speaker": "Yagami (ตัวเลือก)",
+"gender": "male",
+"flags": [],
+"outside": []
+},
+"P0401-0890": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00600",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [
+"ใช้ร่วม",
+"ซ้ำในบท x10"
+],
+"outside": [
+"caption.bin",
+"mission_mission_kind.bin/judge_m_BTL#_#",
+"mission_mission_kind.bin/judge_sid_A#_ADV#",
+"mission_mission_kind.bin/judge_sid_A#_BTL#",
+"title_movie_chapter.bin"
+]
+},
+"P0401-0891": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00600",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0892": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00600",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0893": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00700",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0894": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00700",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0895": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_01000_10",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"9",
+"mission_mission_kind.bin/judge_m_ADV#_#"
+]
+},
+"P0401-0896": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_01000_10",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0897": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_01300",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [
+"ใช้ร่วม",
+"ซ้ำในบท x2"
+],
+"outside": [
+"11",
+"12",
+"13",
+"2",
+"3",
+"7",
+"8",
+"mission_mission_kind.bin/judge_m_ADV#_#"
+]
+},
+"P0401-0898": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_01300",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0899": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_01100",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0900": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_01100",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0901": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00520",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0902": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00520",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0903": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00800",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [
+"ใช้ร่วม"
+],
+"outside": [
+"10",
+"13",
+"3",
+"7",
+"9",
+"mission_mission_kind.bin/judge_m_ADV#_#",
+"mission_mission_kind.bin/judge_sid_A#_ADV#"
+]
+},
+"P0401-0904": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00800",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0905": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_01400",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [],
+"outside": []
+},
+"P0401-0906": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00300_010",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [
+"ซ้ำในบท x2"
+],
+"outside": []
+},
+"P0401-0907": {
+"section": "เป้าหมายภารกิจ",
+"bin": "mission_mission_kind.bin",
+"table": "judge_m_M04_00300_010",
+"row": "-",
+"col": "-",
+"speaker": "(ข้อความระบบ)",
+"gender": "neutral",
+"flags": [
+"ซ้ำในบท x2"
+],
+"outside": []
+}
+}

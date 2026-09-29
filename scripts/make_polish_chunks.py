@@ -236,7 +236,11 @@ def chunk(lines):
             chunks.append(cur)
             cur, size = [], 0
     if cur:
-        chunks.append(cur)
+        # หางสั้น (เช่นบท 3 ตัดกลางตารางพากย์เหลือ 36 บรรทัด) → รวมกับชิ้นก่อน ไม่ต้องเปลืองทีมอีกชุด
+        if chunks and sum(len(ln["th"]) for ln in cur) < CHUNK_CHARS * 0.25:
+            chunks[-1].extend(cur)
+        else:
+            chunks.append(cur)
     return chunks
 
 
