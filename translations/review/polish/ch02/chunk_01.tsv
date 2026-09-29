@@ -1,0 +1,886 @@
+id	ฉาก	ผู้พูด	หมายเหตุ	EN	TH
+P0201-0001	ทวนเรื่องเปิดบท · p02_00100	Narration (?)		The year is 2018.	ปี 2018
+P0201-0002	ทวนเรื่องเปิดบท · p02_00100	Narration (?)		Kamurocho is playing host\nto Kansai-based yakuza...	คามุโรโจกลายเป็นที่ตั้งหลัก\nของยากูซ่าสายคันไซ...
+P0201-0003	ทวนเรื่องเปิดบท · p02_00100	Narration (?)	[อีกแทร็ก]	Kamurocho is playing\nhost to Kansai-based yakuza...	คามุโรโจกลายเป็น\nที่ตั้งหลักของยากูซ่าสายคันไซ...
+P0201-0004	ทวนเรื่องเปิดบท · p02_00100	Narration (?)		...Who have been turning up dead\nwith their eyes gouged out.	...ที่ถูกพบเป็นศพ\nโดยถูกควักดวงตาออก
+P0201-0005	ทวนเรื่องเปิดบท · p02_00100	Narration (?)	[อีกแทร็ก]	...Who have been turning up\ndead with their eyes gouged out.	...ที่ถูกพบเป็น\nศพโดยถูกควักดวงตาออก
+P0201-0006	ทวนเรื่องเปิดบท · p02_00100	Narration (?)		Lawyer-turned-detective\nTakayuki Yagami took on the case... 	ทาคายูกิ ยากามิ ทนายผันตัว\nเป็นนักสืบ รับคดีนี้ไว้... 
+P0201-0007	ทวนเรื่องเปิดบท · p02_00100	Narration (?)	[อีกแทร็ก]	Lawyer-turned-detective\nTakayuki Yagami took on the case...	ทาคายูกิ ยากามิ ทนายผันตัว\nเป็นนักสืบ รับคดีนี้ไว้...
+P0201-0008	ทวนเรื่องเปิดบท · p02_00100	Narration (?)		...Proving the suspect's alibi.	...พิสูจน์พยานที่อยู่ของผู้ต้องสงสัย
+P0201-0009	ทวนเรื่องเปิดบท · p02_00100	Narration (?)		But he can't shake the feeling\nthat the true culprit is out there.	แต่เขาก็สลัดความรู้สึกไม่ได้\nว่าตัวการที่แท้จริงยังลอยนวลอยู่
+P0201-0010	ทวนเรื่องเปิดบท · p02_00100	Narration (?)		He gives this anonymous killer a name.	เขาตั้งชื่อให้ฆาตกรนิรนามคนนี้
+P0201-0011	ทวนเรื่องเปิดบท · p02_00100	Narration (?)	[อีกแทร็ก]	He gives this\nanonymous killer a name...	เขาตั้งชื่อ\nให้ฆาตกรนิรนามคนนี้...
+P0201-0012	ทวนเรื่องเปิดบท · p02_00100	Narration (?)		Yagami calls him, "the Mole."	ยากามิเรียกเขาว่า "ไอ้ตัวตุ่น"
+P0201-0013	คัตซีน · a02_010	Female police officer (ญ)	[ใช้ร่วม]	Stop right there!	หยุดตรงนั้นนะ!
+P0201-0014	คัตซีน · a02_010	Yagami (ช)		Hey, What's up?	เฮ้ เป็นไงบ้าง?
+P0201-0015	คัตซีน · a02_010	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ซ้ำในบท x2]	Hello?	ฮัลโหล?
+P0201-0016	คัตซีน · a02_010	Yagami (ช)		What— Get back here!	อะไรวะ— กลับมานี่นะ!
+P0201-0017	คัตซีน · a02_010	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Hey, wait!	เฮ้ย เดี๋ยวก่อน!
+P0201-0018	คัตซีน · a02_010	Female police officer (ญ)		Hold it! Stooop!	หยุดนะ! หยุดดด!
+P0201-0019	คัตซีน · a02_010	Female police officer (ญ)	[อีกแทร็ก]	Don't you run!	อย่าวิ่งหนีนะ!
+P0201-0020	คัตซีน · a02_010	Yagami (ช)		Wait, wrong guy!	เดี๋ยวก่อน ผิดคนแล้ว!
+P0201-0021	คัตซีน · a02_010	Yagami (ช)	[อีกแทร็ก]	Wait, me? <font_kind=yakuza_italic>Me</font_kind>?	เดี๋ยวนะ ผมเหรอ? <font_kind=yakuza_italic>ผม</font_kind>เนี่ยนะ?
+P0201-0022	คัตซีน · a02_010	Female police officer (ญ)		Okay, let's go.	โอเค ไปกันเถอะ
+P0201-0023	คัตซีน · a02_010	Female police officer (ญ)	[อีกแทร็ก]	You asked for it!	นายเป็นคนขอเองนะ!
+P0201-0024	คัตซีน · a02_013	Yosuke Saotome (ช)		You're not...\ngetting any thanks for that.	แกไม่ได้...\nจะได้รับคำขอบใจจากเรื่องนั้นหรอกนะ
+P0201-0025	คัตซีน · a02_013	Yosuke Saotome (ช)	[อีกแทร็ก]	Hope you're not...\nexpecting thanks...	หวังว่าแกคง...\nไม่ได้คาดหวังคำขอบใจอะไรนะ...
+P0201-0026	คัตซีน · a02_013	Yosuke Saotome (ช)		Here. You earned this back.	นี่ แกสมควรได้คืนไป
+P0201-0027	คัตซีน · a02_013	Yosuke Saotome (ช)	[อีกแทร็ก]	Here! You've earned it.	นี่! แกควรได้รับมันนะ
+P0201-0028	คัตซีน · a02_013	Yosuke Saotome (ช)		I <font_kind=yakuza_italic>own</font_kind> it!	นี่มัน<font_kind=yakuza_italic>ของฉัน</font_kind>เองนะ!
+P0201-0029	คัตซีน · a02_013	Yosuke Saotome (ช)		Look, it wasn't a perfect plan,\nbut it worked out in the end, didn't it?	ฟังนะ มันอาจจะไม่ใช่แผนที่สมบูรณ์แบบ\nแต่สุดท้ายมันก็ได้ผลไม่ใช่เหรอ?
+P0201-0030	คัตซีน · a02_013	Yosuke Saotome (ช)	[อีกแทร็ก]	This wasn't really the plan,\nbut you ended up helping me out.	จริงๆ แล้วนี่ไม่ใช่แผนที่วางไว้หรอกนะ\nแต่สุดท้ายแกก็ช่วยฉันไว้ได้
+P0201-0031	คัตซีน · a02_013	Yosuke Saotome (ช)		So thanks!	เพราะงั้นก็ขอบใจนะ!
+P0201-0032	คัตซีน · a02_013	Yosuke Saotome (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Thank you!	ขอบใจนะ!
+P0201-0033	คัตซีน · a02_013	Yagami (ช)		Is that what you call that?	แกเรียกแบบนั้นว่ายังไงนะ?
+P0201-0034	คัตซีน · a02_013	Yagami (ช)	[อีกแทร็ก]	What plan, exactly?	แผนอะไรกันแน่วะ?
+P0201-0035	คัตซีน · a02_013	Yagami (ช)		And I don't want your thanks, asshole.	แล้วกูก็ไม่อยากได้คำขอบใจจากมึงด้วย ไอ้สารเลว
+P0201-0036	คัตซีน · a02_013	Yagami (ช)	[อีกแทร็ก]	And don't give me that "thank you" crap!	แล้วอย่ามาพูดคำว่า "ขอบใจ" ห่วยๆ นั่นกับกูเลย!
+P0201-0037	คัตซีน · a02_013	Yosuke Saotome (ช)		Heh... Okay, see ya.	เฮอะ... เอาล่ะ ไปล่ะนะ
+P0201-0038	คัตซีน · a02_013	Yosuke Saotome (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	See ya around.	ไว้เจอกันใหม่
+P0201-0039	คัตซีน · a02_013	Yagami (ช)		And that's the Kamurocho burglary ring...\nNo wonder the cops can't catch 'em.	นั่นแหละคือแก๊งขโมยแห่งคามุโรโจ...\nไม่แปลกใจเลยที่ตำรวจจับพวกมันไม่ได้
+P0201-0040	คัตซีน · a02_013	Yagami (ช)	[อีกแทร็ก]	Was he in that Kamurocho burglary ring?	เขาเป็นส่วนหนึ่งของแก๊งขโมย คามุโรโจงั้นเหรอ?
+P0201-0041	คัตซีน · a02_017	Unknown combatant (ช)		Stand still and fight me like a man!	ยืนนิ่งๆ แล้วสู้กับกูแบบลูกผู้ชายสิ!
+P0201-0042	คัตซีน · a02_017	Unknown combatant (ช)	[อีกแทร็ก]	Stand still and get wrecked!	ยืนนิ่งๆ แล้วรับไปเลย!
+P0201-0043	คัตซีน · a02_020	Kyohei Hamura (ช)	[ใช้ร่วม]	Come in.	เข้ามาสิ
+P0201-0044	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	It's open.	เปิดอยู่
+P0201-0045	คัตซีน · a02_020	Yagami (ช)	[ใช้ร่วม]	Hamura...	ฮามุระ...
+P0201-0046	คัตซีน · a02_020	Yagami (ช)		Pretty expensive tastes.\nSorta outta your price range, huh?	รสนิยมแพงเชียวนะ\nเกินตัวนายไปหน่อยมั้ง?
+P0201-0047	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	For a broke guy,\nyou sure pick some classy spots.	ทั้งที่หมดตัวแท้ๆ\nนายยังเลือกที่หรูๆ แบบนี้อยู่ได้เนอะ
+P0201-0048	คัตซีน · a02_020	Kyohei Hamura (ช)		Why are you even here?	แล้วนายมาทำอะไรที่นี่กันแน่?
+P0201-0049	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก] [ใช้ร่วม]	Why are you here?	นายมาอยู่ที่นี่ทำไม?
+P0201-0050	คัตซีน · a02_020	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	What's going on?	เกิดอะไรขึ้น?
+P0201-0051	คัตซีน · a02_020	Yagami (ช)		Maybe I should be asking\nyou the same question, yeah?	บางทีผมน่าจะถามนาย\nคำถามเดียวกันนี้กลับไปมากกว่ามั้ง?
+P0201-0052	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	The question is, why are <font_kind=yakuza_italic>you</font_kind> here? Huh?	คำถามคือ ทำไม<font_kind=yakuza_italic>นาย</font_kind>ถึงมาอยู่ตรงนี้ล่ะ หา?
+P0201-0053	คัตซีน · a02_020	Yagami (ช)		Not that I need to.	ไม่จำเป็นต้องบอกก็ได้
+P0201-0054	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	Doesn't matter.	ไม่สำคัญหรอก
+P0201-0055	คัตซีน · a02_020	Kyohei Hamura (ช)		Why are you still looking\ninto the Kyorei murders, Tak?	ทำไมมึงถึงยังตามสืบ\nคดีฆาตกรรมเคียวเรอิอยู่อีก ไอ้ทาคุ?
+P0201-0056	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	You been sniffing around the Kyorei murders?	มึงยังดมกลิ่นคดีฆาตกรรม เคียวเรอิอยู่เหรอ?
+P0201-0057	คัตซีน · a02_020	Kyohei Hamura (ช)		Keep your eyes to yourself unless\nyou wanna lose 'em. Are we clear?	เก็บสายตามึงไว้ให้ดี ถ้าไม่อยากเสียมันไป\nเข้าใจตรงกันนะ?
+P0201-0058	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	This doesn't concern you anymore.\nWhat's your problem?	เรื่องนี้ไม่เกี่ยวกับมึงแล้ว\nมึงมีปัญหาอะไรวะ?
+P0201-0059	คัตซีน · a02_020	Yagami (ช)		You don't get to decide what I do.	ไม่ใช่หน้าที่นายที่จะมาตัดสินใจแทนผม
+P0201-0060	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	I'll decide when it concerns me.	เรื่องไหนเกี่ยวกับผม ผมเป็นคนตัดสินเอง
+P0201-0061	คัตซีน · a02_020	Kyohei Hamura (ช)		Don't go digging up dirt.	อย่ามาขุดคุ้ยเรื่องเก่า
+P0201-0062	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	Don't go digging up dirt on old cases.	อย่ามาขุดคุ้ยคดีเก่าๆ พวกนั้น
+P0201-0063	คัตซีน · a02_020	Kyohei Hamura (ช)		Shintani went through a lot of\nwork making those charges go away.	ชินทานิลงแรงไปเยอะ\nกว่าจะทำให้ข้อกล่าวหาพวกนั้น หลุดไปได้
+P0201-0064	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	Shintani-sensei busted his ass\nto get that acquittal.	อาจารย์ชินทานิทุ่มสุดตัว\nกว่าจะได้คำพิพากษาพ้นผิดมา
+P0201-0065	คัตซีน · a02_020	Kyohei Hamura (ช)		You wanna keep playing detective,\nyou oughta work out more.	อยากเล่นเป็นนักสืบต่อนักหนา\nก็ไปออกกำลังกายเพิ่มซะมึง
+P0201-0066	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	If you wanna play hard-boiled detective,\nyou should work out more.	อยากเล่นเป็นนักสืบแกร่ง\nก็ไปออกกำลังกายเพิ่มหน่อยมึง
+P0201-0067	คัตซีน · a02_020	Yagami (ช)		Well I...	เอ่อ ผม...
+P0201-0068	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	I...	คือ...
+P0201-0069	คัตซีน · a02_020	Yagami (ช)		Got jumped earlier.	เมื่อกี้โดนรุมมา
+P0201-0070	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	I got attacked earlier, too.	เมื่อกี้ก็โดนทำร้ายมาเหมือนกัน
+P0201-0071	คัตซีน · a02_020	Yagami (ช)		By four assholes wearing ski masks.	โดนไอ้สี่คนใส่หน้ากากสกีรุม
+P0201-0072	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	Four guys in ski masks...	สี่คนใส่หน้ากากสกี...
+P0201-0073	คัตซีน · a02_020	Kyohei Hamura (ช)		Yeah? And why should I care?	แล้วไง กูต้องแคร์ด้วยเหรอ?
+P0201-0074	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	And? So what?	แล้วไง? ก็แค่นั้นเอง?
+P0201-0075	คัตซีน · a02_020	Yagami (ช)		Well I think...\nMaybe you had something to do with it.	ผมว่า...\nนายอาจมีเอี่ยวกับเรื่องนี้ก็ได้นะ
+P0201-0076	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	Were they working for you?	พวกนั้นเป็นคนของนายรึเปล่า?
+P0201-0077	คัตซีน · a02_020	Yagami (ช)		I'm pretty sure that's\nthe four of them right there.	ผมค่อนข้างมั่นใจว่า\nสี่คนนั้นแหละคือพวกนี้เลย
+P0201-0078	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	It was probably the four guys behind you.	คงเป็นสี่คนที่ยืนอยู่ข้างหลัง นายนั่นแหละ
+P0201-0079	คัตซีน · a02_020	Kyohei Hamura (ช)		I think you must have\nmy boys confused.	กูว่ามึงคง\nจำลูกน้องกูผิดคนน่ะ
+P0201-0080	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	No idea what you're talking about.	ไม่รู้เรื่องที่มึงพูดเลยว่ะ
+P0201-0081	คัตซีน · a02_020	Kyohei Hamura (ช)		Right, Kengo?	ใช่มั้ย เค็นโกะ?
+P0201-0082	คัตซีน · a02_020	Kengo (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	Yeah.	ใช่
+P0201-0083	คัตซีน · a02_020	Kengo (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x3]	Right.	ใช่
+P0201-0084	คัตซีน · a02_020	Yagami (ช)		No one likes a fuckin' liar!	ไม่มีใครชอบไอ้ขี้โกหกหรอกนะ!
+P0201-0085	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	So don't gimme that bullshit!	อย่ามาพูดขี้โม้แบบนี้กับผม!
+P0201-0086	คัตซีน · a02_020	Kyohei Hamura (ช)		Kanae-chan quit. Packed her bags and\nwent back home. So stop looking for her.	คานาเอะจังลาออกไปแล้ว เก็บของ\nกลับบ้านไปแล้ว เลิกตามหาเขาได้แล้ว
+P0201-0087	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	Kanae-chan quit, you know.\nShe's gone back home.	คานาเอะจังลาออกไปแล้วนะ\nกลับบ้านไปแล้ว
+P0201-0088	คัตซีน · a02_020	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Why?	ทำไมล่ะ?
+P0201-0089	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	That so...?	งั้นเหรอ...?
+P0201-0090	คัตซีน · a02_020	Kyohei Hamura (ช)		I'm gonna let you off with\na yellow card this time. 	รอบนี้กูจะปล่อยมึงไปแบบ\nได้ใบเหลืองก็แล้วกัน
+P0201-0091	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	I'll let you off with a yellow card this time.	รอบนี้กูจะปล่อยมึงไปแบบได้ใบเหลืองนะ
+P0201-0092	คัตซีน · a02_020	Kyohei Hamura (ช)		But only 'cause the boss\nlikes you so much.	แต่ที่ปล่อยเพราะนายใหญ่\nรักมึงมากเท่านั้นแหละ
+P0201-0093	คัตซีน · a02_020	Kyohei Hamura (ช)	[อีกแทร็ก]	Only 'cause the boss likes you so much.	ก็แค่เพราะนายใหญ่รักมึงมากน่ะ
+P0201-0094	คัตซีน · a02_020	Yagami (ช)		It's Yagami. You got a sec?	ยากามิเองครับ มีเวลาสักครู่ไหมครับ?
+P0201-0095	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	It's Yagami.\nYou there, boss?	ยากามิเองครับ\nอยู่รึเปล่าครับท่าน?
+P0201-0096	คัตซีน · a02_020	Mitsugu Matsugane (ช)		Sure. Are you okay?	ได้สิ เป็นอะไรรึเปล่า?
+P0201-0097	คัตซีน · a02_020	Mitsugu Matsugane (ช)	[อีกแทร็ก] [ใช้ร่วม]	Hey, you okay?	เฮ้ เป็นอะไรไหม?
+P0201-0098	คัตซีน · a02_020	Mitsugu Matsugane (ช)		You don't sound too good.	เสียงไม่ค่อยดีเลยนะ
+P0201-0099	คัตซีน · a02_020	Mitsugu Matsugane (ช)	[อีกแทร็ก]	Not feeling well?	ไม่ค่อยสบายรึเปล่า?
+P0201-0100	คัตซีน · a02_020	Yagami (ช)		I could use a hand with\nthe family captain.	ผมอยากขอความช่วยเหลือ\nเรื่องกัปตันของตระกูลหน่อยครับ
+P0201-0101	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	Just your captain giving me a hard time.	แค่กัปตันของท่านมาป่วนผมน่ะครับ
+P0201-0102	คัตซีน · a02_020	Yagami (ช)		I'd really appreciate it if you\ncould get him off my case.	จะขอบคุณมากเลยครับถ้าท่าน\nช่วยให้เขาเลิกยุ่งกับผมได้
+P0201-0103	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก]	I'd appreciate a little assistance with him.	รบกวนขอความช่วยเหลือเรื่องเขา หน่อยครับ
+P0201-0104	คัตซีน · a02_020	Mitsugu Matsugane (ช)		I see. Well, I'm just killing time at the office\nright now. Why don't you come on by? We'll talk.	งั้นเหรอ เอาล่ะ ตอนนี้ผมก็นั่งฆ่าเวลาอยู่ที่สำนักงาน\nแวะมาคุยกันหน่อยสิ
+P0201-0105	คัตซีน · a02_020	Mitsugu Matsugane (ช)	[อีกแทร็ก]	Ah, well, I'm down at the office.\nI'll wait for you here.	อ้อ ผมอยู่ที่สำนักงานนะ\nจะรอนายอยู่ตรงนี้
+P0201-0106	คัตซีน · a02_020	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Sounds good.	ได้เลย
+P0201-0107	คัตซีน · a02_020	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Got it.	ได้เลย
+P0201-0108	คัตซีน · a02_030	Kyohei Hamura (ช)		I didn't think you'd try to pull that.\nRunning off and telling an adult. 	ไม่คิดเลยว่ามึงจะทำแบบนั้น\nวิ่งไปฟ้องผู้ใหญ่เหมือนเด็กๆ
+P0201-0109	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	Didn't think you'd do that.\nRun crying to the boss like a baby.	ไม่คิดว่ามึงจะทำแบบนั้น\nวิ่งไปร้องหานายใหญ่เหมือนเด็กทารก
+P0201-0110	คัตซีน · a02_030	Kyohei Hamura (ช)		Like a fucking child.	เหมือนเด็กแม่งเลยว่ะ
+P0201-0111	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	That's pretty fucked up.	แม่งโคตรน่าสมเพชเลยว่ะ
+P0201-0112	คัตซีน · a02_030	Yagami (ช)		Oh I just thought that...	อ๋อ ผมแค่คิดว่า...
+P0201-0113	คัตซีน · a02_030	Yagami (ช)	[อีกแทร็ก]	I just thought...	ผมแค่คิดว่า...
+P0201-0114	คัตซีน · a02_030	Yagami (ช)		The guy who actually runs the show would want\nto be able to keep tabs on his captain.	คนที่คุมทุกอย่างจริงๆ ก็คงอยาก\nรู้ความเป็นไปของกัปตันตัวเอง บ้างแหละนะ
+P0201-0115	คัตซีน · a02_030	Yagami (ช)	[อีกแทร็ก]	...I probably oughta let the boss\nknow about this little spat of ours.	...ผมคงต้องแจ้งให้นายใหญ่\nรู้เรื่องปากเสียงเล็กๆ น้อยๆ ของเราสักหน่อย
+P0201-0116	คัตซีน · a02_030	Kyohei Hamura (ช)		He doesn't need to. So you keep your\ngoddamn nose out of this shit.	ไม่ต้อง เพราะงั้นมึงอย่ามายุ่ง\nเรื่องบ้าๆ นี่เด็ดขาด
+P0201-0117	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	You shouldn't have.\nAll you've gotta do is keep your head down.	มึงไม่ควรทำแบบนั้น\nแค่ก้มหน้าก้มตาอยู่เฉยๆ ก็พอ
+P0201-0118	คัตซีน · a02_030	Kyohei Hamura (ช)		Understand?\nOr do I need to spell it out?	เข้าใจมั้ย?\nหรือต้องให้กูสะกดให้ฟังทีละตัว?
+P0201-0119	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	Or is hearing it from me not good enough?	หรือฟังจากปากกูแล้วยังไม่พอ?
+P0201-0120	คัตซีน · a02_030	Yagami (ช)		Yeah. I'm hearing you\nloud and clear. So...	ครับ ผมได้ยินคุณ\nชัดเจนดี เพราะฉะนั้น...
+P0201-0121	คัตซีน · a02_030	Yagami (ช)	[อีกแทร็ก]	No. I think I'm getting the picture.\nSooo...	เปล่า ผมว่าผมเข้าใจภาพรวมแล้วล่ะ\nเอ่อ...
+P0201-0122	คัตซีน · a02_030	Yagami (ช)		I guess we're done here.	งั้นผมว่าเราคุยกันจบแค่นี้
+P0201-0123	คัตซีน · a02_030	Yagami (ช)	[อีกแทร็ก]	I guess we've got a deal.	งั้นถือว่าเราตกลงกันแล้วนะ
+P0201-0124	คัตซีน · a02_030	Kyohei Hamura (ช)		We're not done until I say so.	ยังไม่จบจนกว่ากูจะบอกว่าจบ
+P0201-0125	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	I'm not finished yet!	กูยังพูดไม่จบว่ะ!
+P0201-0126	คัตซีน · a02_030	Kyohei Hamura (ช)		Words don't really work\non you, do they Tak?	พูดดีๆ กับมึง\nไม่เคยได้ผลเลยสินะ ไอ้ทาคุ
+P0201-0127	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	It takes more than a lecture\nto get through to you, Tak.	แค่พูดสอน\nไม่พอจะเข้าหัวมึงหรอกนะ ไอ้ทาคุ
+P0201-0128	คัตซีน · a02_030	Kyohei Hamura (ช)		Well, I guess you always\nhave been a fighter.	เอาเถอะ มึงก็เป็นนักสู้\nมาตั้งแต่ไหนแต่ไรแล้วนี่นา
+P0201-0129	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	You've been that way\nsince you were a kid.	มึงเป็นแบบนี้\nมาตั้งแต่เด็กแล้วสินะ
+P0201-0130	คัตซีน · a02_030	Kyohei Hamura (ช)		None of us thought you'd last a day in law school.\nBut you sure showed us. Went to night classes, passed the bar... 	ไม่มีใครคิดว่ามึงจะทนเรียน กฎหมายได้แม้แต่วันเดียว\nแต่มึงก็พิสูจน์ให้เห็น เรียนภาคค่ำจนสอบเนติบัณฑิตผ่าน...
+P0201-0131	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	No matter how much everyone laughed,\nyou stuck with night classes until you passed the bar.	ไม่ว่าใครจะหัวเราะเยาะแค่ไหน\nมึงก็เกาะติดเรียนภาคค่ำจนสอบ เนติบัณฑิตผ่านจนได้
+P0201-0132	คัตซีน · a02_030	Kyohei Hamura (ช)		You say you're done, but a guy\nwith balls like you doesn't give up.	ปากบอกเลิกแล้ว แต่ไอ้คนกล้าอย่างมึง\nไม่มีทางยอมแพ้หรอก
+P0201-0133	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	I bet that even now,\nyou don't wanna give up, right?	กูพนันได้เลยว่าถึงตอนนี้\nมึงก็ยังไม่อยากยอมแพ้ใช่มั้ยล่ะ?
+P0201-0134	คัตซีน · a02_030	Kyohei Hamura (ช)		You fought for your lawyer's badge,\nbut trash with a badge is still trash. 	มึงสู้จนได้ใบอนุญาตทนายมา\nแต่ขยะติดป้ายก็ยังเป็นขยะวันยันค่ำ
+P0201-0135	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	Ex-lawyer or not,\nyou grew up like the punk you are.	จะเคยเป็นทนายหรือไม่ก็ช่าง\nมึงก็โตมาเป็นไอ้เด็กเกเรแบบนี้แหละ
+P0201-0136	คัตซีน · a02_030	Kyohei Hamura (ช)		And it's about time to take you out.	ได้เวลาที่กูจะจัดการมึงซะทีแล้ว
+P0201-0137	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	Pain's the only way you'll ever learn.	ความเจ็บปวดเท่านั้นแหละที่จะ สอนมึงได้
+P0201-0138	คัตซีน · a02_030	Kyohei Hamura (ช)	[ใช้ร่วม]	Ozaki.	โอซากิ
+P0201-0139	คัตซีน · a02_030	Ozaki (ช)		You should savor\nyour last sight.	ดื่มด่ำกับภาพสุดท้าย\nที่มึงจะได้เห็นซะให้เต็มที่
+P0201-0140	คัตซีน · a02_030	Ozaki (ช)	[อีกแทร็ก]	Here's how you lose your eyes.	นี่แหละวิธีที่มึงจะเสียดวงตาไป
+P0201-0141	คัตซีน · a02_030	Unidentified captive (ญ)	[ใช้ร่วม]	Let me go!	ปล่อยฉันนะ!
+P0201-0142	คัตซีน · a02_030	Unidentified captive (ญ)	[อีกแทร็ก]	...Stop it!	...หยุดเถอะ!
+P0201-0143	คัตซีน · a02_030	Ozaki (ช)		Just kidding.	ล้อเล่นน่า
+P0201-0144	คัตซีน · a02_030	Ozaki (ช)	[อีกแทร็ก]	Got ya.	หลอกมึงเล่นเฉยๆ ว่ะ
+P0201-0145	คัตซีน · a02_030	Yosuke Saotome (ช)		Hey, man! What the fuck do you\nthink you're doing?	เฮ้ย! มึงจะทำ\nเหี้ยอะไรของมึงวะ?
+P0201-0146	คัตซีน · a02_030	Yosuke Saotome (ช)	[อีกแทร็ก]	The fuck are you doing, dumbass!?	มึงจะทำอะไรวะ ไอ้โง่!?
+P0201-0147	คัตซีน · a02_030	Kyohei Hamura (ช)		Your ass ready to die? Huh?	มึงพร้อมตายรึยังวะ ไอ้เวร?
+P0201-0148	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	You wanna die now? Huh!?	อยากตายตอนนี้เลยเหรอวะ!?
+P0201-0149	คัตซีน · a02_030	Kyohei Hamura (ช)		Enough of this...\nYou're dead!	พอกันที...\nมึงตายแน่!
+P0201-0150	คัตซีน · a02_030	Kyohei Hamura (ช)	[อีกแทร็ก]	I'm done caring. Kill him!	กูไม่แคร์อีกแล้ว ฆ่ามันซะ!
+P0201-0151	คัตซีน · a02_030	Matsugane thug (ช)		This is some bullshit.\nYou already went.	แม่งไร้สาระ\nมึงได้ตีไปแล้วนี่หว่า
+P0201-0152	คัตซีน · a02_030	Matsugane thug (ช)	[อีกแทร็ก]	This is bullshit.\nYou guys had your turn.	นี่มันไร้สาระ\nพวกมึงได้ตาไปแล้วนี่
+P0201-0153	คัตซีน · a02_030	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Huh?	หา?
+P0201-0154	คัตซีน · a02_030	Yagami (ช)	[อีกแทร็ก]	What!?  	อะไรนะ!?
+P0201-0155	คัตซีน · a02_030	Matsugane thug (ช)		It's only fair I take my turn!	ตานี้กูขอบ้างก็ยุติธรรมดีนี่!
+P0201-0156	คัตซีน · a02_030	Matsugane thug (ช)	[อีกแทร็ก]	It's my turn now!	ตอนนี้ตากูแล้ว!
+P0201-0157	คัตซีน · a02_035	Kyohei Hamura (ช)		Steady now, Kengo.	ใจเย็นๆ ไว้ เค็นโกะ
+P0201-0158	คัตซีน · a02_035	Kyohei Hamura (ช)	[อีกแทร็ก]	Don't miss now, Kengo.	อย่ายิงพลาดนะ เค็นโกะ
+P0201-0159	คัตซีน · a02_035	Kyohei Hamura (ช)		Aim for the heart.	เล็งไปที่หัวใจ
+P0201-0160	คัตซีน · a02_035	Kengo (ช)	[ใช้ร่วม]	Yes, sir!	รับทราบ!
+P0201-0161	คัตซีน · a02_035	Kengo (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Okay!	โอเค!
+P0201-0162	คัตซีน · a02_035	Yagami (ช)		If you're gonna shoot me,\nyou better do it yourself.	ถ้าจะยิงผม\nก็ลงมือเองสิ
+P0201-0163	คัตซีน · a02_035	Yagami (ช)	[อีกแทร็ก]	You should pull the trigger yourself.	นายควรจะเหนี่ยวไกเองนะ
+P0201-0164	คัตซีน · a02_035	Kyohei Hamura (ช)		Wait, how about the eyes?	เดี๋ยวนะ ดวงตาล่ะว่าไง?
+P0201-0165	คัตซีน · a02_035	Kyohei Hamura (ช)	[อีกแทร็ก]	Actually, go between the eyes.	เอางี้ ยิงตรงกลางตาเลยละกัน
+P0201-0166	คัตซีน · a02_035	Kyohei Hamura (ช)		One bullet in each.	ยิงข้างละนัด
+P0201-0167	คัตซีน · a02_035	Kyohei Hamura (ช)	[อีกแทร็ก]	Take 'em both out.	จัดการทั้งคู่เลย
+P0201-0168	คัตซีน · a02_035	Kyohei Hamura (ช)		Man the fuck up, Kengo!	ทำตัวให้เป็นลูกผู้ชายหน่อยสิวะ เค็นโกะ!
+P0201-0169	คัตซีน · a02_035	Matsugane henchman (ช)		Who the hell?	ใครวะเนี่ย?
+P0201-0170	คัตซีน · a02_035	Matsugane henchman (ช)	[อีกแทร็ก] [ใช้ร่วม]	What the hell!?	อะไรวะเนี่ย!?
+P0201-0171	คัตซีน · a02_035	Kyohei Hamura (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	No way...	ไม่จริงน่า...
+P0201-0172	คัตซีน · a02_035	Kyohei Hamura (ช)	[อีกแทร็ก]	Aren't you!?	นายนี่มัน...!?
+P0201-0173	คัตซีน · a02_035	Yosuke Saotome (ช)		We gotta go.\nThis way!	เราต้องไปแล้ว\nทางนี้!
+P0201-0174	คัตซีน · a02_035	Yosuke Saotome (ช)	[อีกแทร็ก]	Let's roll! Follow me!	ไปกันเลย! ตามฉันมา!
+P0201-0175	คัตซีน · a02_035	Matsugane thug (ช)		Get them both!\nLet's go!	จับพวกมันทั้งคู่!\nไปกันเร็ว!
+P0201-0176	คัตซีน · a02_035	Matsugane thug (ช)	[อีกแทร็ก]	Where you going!? Catch them!	จะไปไหนวะ!? ตามจับพวกมันไป!
+P0201-0177	คัตซีน · a02_035	Matsugane thug (ช)	[ใช้ร่วม]	Get back here!	กลับมานี่เดี๋ยวนี้!
+P0201-0178	คัตซีน · a02_040	Yagami (ช)		Out with it.\nJust who are you?	พูดมาตรงๆ\nนายเป็นใครกันแน่?
+P0201-0179	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	Hey, man...\nWho are you?	เฮ้ นาย...\nเป็นใครกัน?
+P0201-0180	คัตซีน · a02_040	Yosuke Saotome (ช)		I'd appreciate\na "thank you" first.	ขอคำว่า "ขอบคุณ"\nก่อนสักคำก็ยังดีนะ
+P0201-0181	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	Aren't you going to\nthank me this time?	รอบนี้จะไม่พูด\nขอบคุณฉันหน่อยเหรอ?
+P0201-0182	คัตซีน · a02_040	Yagami (ช)		Why should I?\nAfter what you did to me this afternoon?	ทำไมผมต้องขอบคุณด้วย\nในเมื่อนายทำแบบนั้นกับผมตอนบ่ายนี่นา?
+P0201-0183	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	After you stole my phone?	หลังจากที่นายขโมยมือถือผมไปน่ะเหรอ?
+P0201-0184	คัตซีน · a02_040	Yosuke Saotome (ช)		I gave your phone back,\ndidn't I?	ฉันก็คืนมือถือให้แล้ว\nไม่ใช่เหรอ?
+P0201-0185	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	But I gave it back.	แต่ฉันก็คืนให้แล้วนี่
+P0201-0186	คัตซีน · a02_040	Yagami (ช)		Then why even take it?\nWhat was the point of it?	แล้วจะขโมยไปทำไมตั้งแต่แรก\nมีประเด็นอะไรกันแน่?
+P0201-0187	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	Why steal it, then?\nWhy give it back?	แล้วจะขโมยไปทำไม\nแล้วทำไมถึงคืนให้อีก?
+P0201-0188	คัตซีน · a02_040	Yosuke Saotome (ช)		I was trying to get away from a cop.\nAsshole just wouldn't get off my case.	ฉันแค่พยายามหนีตำรวจอยู่น่ะ\nไอ้เวรนั่นไม่ยอมเลิกตามฉันซะที
+P0201-0189	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	Those cops chasing me\nweren't giving up.	ตำรวจที่ไล่ตามฉันอยู่\nไม่ยอมเลิกตามซะที
+P0201-0190	คัตซีน · a02_040	Yosuke Saotome (ช)		But when I saw you on the phone,\nI had the greatest idea.	แต่พอเห็นนายกำลังคุยโทรศัพท์อยู่\nฉันก็คิดไอเดียเจ๋งๆ ขึ้นมาได้
+P0201-0191	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	Then I saw you on the phone,\nand a plan hit me.	พอเห็นนายคุยโทรศัพท์อยู่\nแผนก็ผุดขึ้นมาในหัวทันที
+P0201-0192	คัตซีน · a02_040	Yagami (ช)		Okay, go on.	โอเค พูดต่อสิ
+P0201-0193	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	A plan?	แผนอะไร?
+P0201-0194	คัตซีน · a02_040	Yosuke Saotome (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Well...	เอ่อ...
+P0201-0195	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Yup.	ใช่
+P0201-0196	คัตซีน · a02_040	Yosuke Saotome (ช)		I guess the first step\nwas taking your phone.	ขั้นแรกก็คือ\nขโมยมือถือนายนั่นแหละ
+P0201-0197	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	First I saw your phone, right?	แรกสุดฉันเห็นมือถือนาย ใช่มั้ยล่ะ?
+P0201-0198	คัตซีน · a02_040	Yosuke Saotome (ช)		I knew you'd end up\nfollowing me after that.	ฉันรู้ว่านายต้อง\nวิ่งตามฉันมาแน่ๆ หลังจากนั้น
+P0201-0199	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	I figured you'd chase me\nif I snatched it.	ฉันคิดว่านายต้องไล่ตามฉัน\nถ้าฉันชิงมันไป
+P0201-0200	คัตซีน · a02_040	Yosuke Saotome (ช)		Then seeing you n' me running in the same\ndirection, the cop would think you were my buddy.	แล้วพอเห็นนายกับฉันวิ่งไปทาง\nเดียวกัน ตำรวจก็ต้องคิดว่านายเป็นพวกฉัน
+P0201-0201	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	If the cops saw you running the same way\nas me, they'd think you were one of us.	ถ้าตำรวจเห็นนายวิ่งไปทาง\nเดียวกับฉัน พวกเขาก็จะคิดว่านายเป็นพวกเดียวกัน
+P0201-0202	คัตซีน · a02_040	Yosuke Saotome (ช)		And while he took his sweet time\narresting you, I was gonna escape.	แล้วระหว่างที่เขาเสียเวลา\nจับนาย ฉันก็จะหนีไปได้
+P0201-0203	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	Then I'd have a clean getaway\nwhile you got arrested.	ฉันก็จะหนีรอดสบายๆ\nส่วนนายก็โดนจับไป
+P0201-0204	คัตซีน · a02_040	Yosuke Saotome (ช)		I have to say, never thought you'd\nactually get away from him too, though.	ต้องบอกเลยว่าไม่คิดเลยว่านาย\nจะหนีรอดจากเขามาได้เหมือนกัน
+P0201-0205	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	I didn't think you'd actually\nkeep up with me though...	ไม่คิดเลยว่านายจะตามฉัน\nทันจริงๆ นะเนี่ย...
+P0201-0206	คัตซีน · a02_040	Yosuke Saotome (ช)		Eh, guess all's well that ends well.\nYeah?	เอาเถอะ จบสวยก็โอเคแล้วมั้ง\nว่ามั้ย?
+P0201-0207	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	But all's well that ends well, right?	แต่จบสวยก็ถือว่าดีนี่ ใช่มั้ยล่ะ?
+P0201-0208	คัตซีน · a02_040	Yagami (ช)		And just now?\nWhy'd you come save me?	แล้วเมื่อกี้ล่ะ?\nทำไมนายถึงมาช่วยผม?
+P0201-0209	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	And now?\nWhy'd you just save me?	แล้วตอนนี้ล่ะ?\nทำไมนายถึงมาช่วยผมเมื่อกี้?
+P0201-0210	คัตซีน · a02_040	Yosuke Saotome (ช)	[ใช้ร่วม]	Good question.	คำถามดีนี่
+P0201-0211	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	Because...　	เพราะว่า...
+P0201-0212	คัตซีน · a02_040	Yosuke Saotome (ช)		Why did I do it...?\nEh, beats me.	ทำไมฉันถึงทำแบบนั้นนะ...?\nเอาจริงฉันก็ไม่รู้เหมือนกัน
+P0201-0213	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	Wait... Why <font_kind=yakuza_italic>did</font_kind> I do it?	เดี๋ยวนะ... ทำไมฉันถึง<font_kind=yakuza_italic>ทำ</font_kind>แบบนั้นกันนะ?
+P0201-0214	คัตซีน · a02_040	Yagami (ช)		Heh. Interesting stuff.	ฮึ น่าสนใจดีนะ
+P0201-0215	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	You're a weird dude.	นายนี่มันตัวประหลาดจริงๆ
+P0201-0216	คัตซีน · a02_040	Yosuke Saotome (ช)		Hm. Let's just say I wanted to\napologize for stealing your phone.	อืม เอาเป็นว่าฉันแค่อยาก\nขอโทษที่ขโมยมือถือนายไปก็แล้วกัน
+P0201-0217	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	Guess I'm making up\nfor stealing your phone.	ก็ถือว่าฉันชดใช้\nที่ขโมยมือถือนายไปแล้วกัน
+P0201-0218	คัตซีน · a02_040	Yosuke Saotome (ช)		Lucky break, huh? You'd have got your brains\nblown out if it wasn't for me.	โชคดีไปนะ ถ้าไม่มีฉัน\nนายคงโดนยิงสมองกระจายไปแล้ว
+P0201-0219	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	But I ended up saving your life,\nso you're pretty lucky, huh?	แต่สุดท้ายฉันก็ช่วยชีวิตนายไว้\nนายนี่โชคดีจริงๆ นะเนี่ย
+P0201-0220	คัตซีน · a02_040	Yagami (ช)	[ใช้ร่วม]	You're telling me.	ก็นั่นน่ะสิ
+P0201-0221	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	So it seems.	ดูเหมือนจะเป็นแบบนั้นจริงๆ
+P0201-0222	คัตซีน · a02_040	Yagami (ช)		Guess I owe you.	งั้นผมก็เป็นหนี้นายแล้วสินะ
+P0201-0223	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	Thanks for the assist.	ขอบคุณที่ช่วยนะ
+P0201-0224	คัตซีน · a02_040	Yosuke Saotome (ช)		In which case...\nWe're even now.	งั้นก็แปลว่า...\nตอนนี้เราหายกันแล้ว
+P0201-0225	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	There, we're even now.	เอาล่ะ ตอนนี้เราหายกันแล้วนะ
+P0201-0226	คัตซีน · a02_040	Yagami (ช)	[ใช้ร่วม]	Hey.	นี่
+P0201-0227	คัตซีน · a02_040	Yagami (ช)		Why're you so dead set\non this burglary ring?	ทำไมนายถึงจริงจัง\nกับแก๊งย่องเบานี่ขนาดนี้?
+P0201-0228	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	Why run around committing theft?	จะวิ่งไล่ขโมยของแบบนี้ไปทำไม?
+P0201-0229	คัตซีน · a02_040	Yagami (ช)		There's gotta be something better.	มันต้องมีอะไรที่ดีกว่านี้สิ
+P0201-0230	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	You're wasting your youth on that crap.	นายกำลังผลาญวัยหนุ่มไปกับ เรื่องไร้สาระนั่น
+P0201-0231	คัตซีน · a02_040	Yosuke Saotome (ช)	[ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	What?	อะไรนะ?
+P0201-0232	คัตซีน · a02_040	Yagami (ช)		If you're looking for work...\nMaybe you could join us instead.	ถ้านายกำลังหางานอยู่ล่ะก็...\nมาร่วมงานกับเราแทนดีมั้ย?
+P0201-0233	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	If you're that bored...\nWhy not do some work for me?	ถ้านายเบื่อขนาดนั้น...\nทำไมไม่มาทำงานให้ผมล่ะ?
+P0201-0234	คัตซีน · a02_040	Yosuke Saotome (ช)		And have the yakuza out\nfor my head? Fat chance.	แล้วให้ยากูซ่าตามล่า\nหัวฉันงั้นเหรอ ไม่มีทาง
+P0201-0235	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	Work that makes the yakuza\nwant you dead? Yeah right.	งานที่ทำให้ยากูซ่า\nอยากฆ่าฉันงั้นเหรอ ไม่เอาหรอก
+P0201-0236	คัตซีน · a02_040	Yagami (ช)		Those guys from before\nwere Matsugane Family.	พวกคนเมื่อกี้\nเป็นตระกูลมัตสึกาเนะน่ะ
+P0201-0237	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	Those guys were with the\nTojo Clan's Matsugane Family.	พวกคนเมื่อกี้เป็นคน\nตระกูลมัตสึกาเนะในสังกัดตระกูลโทโจ
+P0201-0238	คัตซีน · a02_040	Yosuke Saotome (ช)		But, uh...\nThe Kyorei's also looking for me.	แต่เอ่อ...\nตระกูลเคียวเรอิก็ตามหาฉันอยู่ เหมือนกัน
+P0201-0239	คัตซีน · a02_040	Yosuke Saotome (ช)	[อีกแทร็ก]	I'm butting heads with the\nKyorei Clan too, for that matter.	จริงๆ แล้วฉันก็มีเรื่องกับ\nตระกูลเคียวเรอิด้วยเหมือนกัน
+P0201-0240	คัตซีน · a02_040	Yagami (ช)		You sure know how to sell it.	นายนี่ขายของเก่งจริงๆ นะ
+P0201-0241	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	You really do know how to sell it.	นายนี่มีฝีมือในการขายของจริงๆ
+P0201-0242	คัตซีน · a02_040	Yagami (ช)		But I don't think we can\ntrust each other just yet.	แต่ผมว่าเรายังไว้ใจกัน\nไม่ได้ขนาดนั้นหรอกนะ
+P0201-0243	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	I don't think we can trust\neach other quite yet, though.	แต่ผมว่าเรายังไว้ใจกัน\nไม่ได้เต็มร้อยหรอก
+P0201-0244	คัตซีน · a02_040	Sana Mihama (ญ)	[ใช้ร่วม] [ต้องกลางเพศ]	Yagami-san.	ยากามิซัง
+P0201-0245	คัตซีน · a02_040	Sana Mihama (ญ)	[อีกแทร็ก]	...Yagami-san.  	...ยากามิซัง
+P0201-0246	คัตซีน · a02_040	Yagami (ช)		What'd you say?\nHow do you know my name?	ว่าไงนะ?\nนายรู้จักชื่อผมได้ยังไง?
+P0201-0247	คัตซีน · a02_040	Yagami (ช)	[อีกแทร็ก]	Wait...\nHow do you know my name?	เดี๋ยวนะ...\nนายรู้ชื่อผมได้ยังไง?
+P0201-0248	พากย์ · speech_list_judge_main_c02	Kaito (ช)		And the guy who killed 'em all\nwas your "Mole," huh?	แล้วไอ้คนที่ฆ่าพวกนั้นทั้งหมด\nก็คือ "ไอ้ตัวตุ่น" ของนายใช่ไหมล่ะ
+P0201-0249	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	And the guy who killed 'em—\nthat was your "Mole," huh?	แล้วไอ้คนที่ฆ่าพวกนั้น—\nคือ "ไอ้ตัวตุ่น" ของนายใช่ไหมล่ะ
+P0201-0250	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Agreed. We've gotta go all\nout if we wanna win.	เห็นด้วย ถ้าอยากชนะ\nก็ต้องทุ่มสุดตัวกันหน่อยแล้ว
+P0201-0251	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Agreed. We've gotta go all out\nif we wanna win.	เห็นด้วย ถ้าอยากชนะก็ต้องทุ่มสุดตัว\nกันหน่อยแล้ว
+P0201-0252	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Too bad the pay sucks.	แต่น่าเสียดายที่ค่าจ้างมันห่วยแตก
+P0201-0253	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Would be nice to get paid, though.	ได้ตังค์บ้างก็คงดีนะ
+P0201-0254	พากย์ · speech_list_judge_main_c02	Kaito (ช)		I don't get it. Why would the captain\nwanna protect the Mole anyways?	ไม่เข้าใจว่ะ ทำไมกัปตันถึงอยาก\nปกป้องไอ้ตัวตุ่นกันแน่
+P0201-0255	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	I don't get it. Why would the captain\nprotect the Mole anyways?	ไม่เข้าใจว่ะ ทำไมกัปตันถึง\nปกป้องไอ้ตัวตุ่นกันแน่
+P0201-0256	พากย์ · speech_list_judge_main_c02	Yagami (ช)		He could've gotten life in the slammer\nif things went south.	ถ้าพลาดขึ้นมา เขาอาจโดนจำคุก\nตลอดชีวิตเลยนะ
+P0201-0257	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Mhm. Happened back in August.	อือ เกิดขึ้นตั้งแต่เดือนสิงหาคม
+P0201-0258	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Yeah. This first one\nwas back in August.	ใช่ รายแรกนี้\nเกิดขึ้นตั้งแต่เดือนสิงหาคม
+P0201-0259	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Kenkichi Mashiba. A Kyorei guy, 27.\nPretty small time. Even lower rank than Kume.	เค็นคิจิ มาชิบะ คนของเคียวเรอิ อายุ 27\nตัวเล็ก ๆ ยศต่ำกว่าคุเมะซะอีก
+P0201-0260	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Small-time Kyorei guy. Kenkichi Mashiba, age 27.\nEven lower rank than Kume.	คนของเคียวเรอิตัวเล็ก ๆ เค็นคิจิ มาชิบะ อายุ 27\nยศต่ำกว่าคุเมะซะอีก
+P0201-0261	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Body got reported in the morning,\neyes gouged clean outta his skull.	มีคนแจ้งพบศพตอนเช้า\nลูกตาถูกควักออกจากเบ้าเกลี้ยงเลย
+P0201-0262	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Not sure. Cops don't really\npublish those kindsa details.	ไม่แน่ใจว่ะ ตำรวจไม่ค่อยเปิดเผย\nรายละเอียดพวกนี้หรอก
+P0201-0263	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Nope. They don't really\npublish those details.	ไม่นะ พวกเขาไม่ค่อยเปิดเผย\nรายละเอียดพวกนี้หรอก
+P0201-0264	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Hold up a sec. The cops already did their whole\nsong and dance searchin' for the Mole.	เดี๋ยวนะ ตำรวจก็เคยไล่ล่า\nหาไอ้ตัวตุ่นมาแล้วทั้งเรื่อง
+P0201-0265	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Look. The cops did their own investigation\nfor the Mole.	ฟังนะ ตำรวจเคยสืบสวนเรื่องนี้\nเพื่อตามหาไอ้ตัวตุ่นมาแล้ว
+P0201-0266	พากย์ · speech_list_judge_main_c02	Yagami (ช)		But they couldn't turn up a damn thing.	แต่ก็หาเบาะแสอะไรไม่ได้เลยสักนิด
+P0201-0267	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Why do you think we can do any better?	แล้วนายคิดว่าเราจะทำได้ดีกว่าเหรอ
+P0201-0268	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Why do you think we'd do any better?	แล้วนายคิดว่าเราจะทำได้ดีกว่า พวกเขาเหรอ
+P0201-0269	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Oh, it's that easy huh?	โอ้ ง่ายขนาดนั้นเลยเหรอ
+P0201-0270	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	How the heck are you\nso confident, man?	ทำไมนายถึงมั่นใจ\nขนาดนี้วะเนี่ย
+P0201-0271	พากย์ · speech_list_judge_main_c02	Yagami (ช)		...Guess you got a point.	...ก็มีเหตุผลอยู่นะ
+P0201-0272	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	...Yeah, guess so.	...เออ ก็คงงั้น
+P0201-0273	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Heh, I can do old fashioned.	เฮ้อ วิธีเก่า ๆ นี่ถนัดอยู่แล้ว
+P0201-0274	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Heh, yeah. I get it.	เออ เข้าใจแล้วน่า
+P0201-0275	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Well, aren't you just a\nconfident sonuvabitch.	โห มั่นใจในตัวเอง\nซะไม่มีที่ติเลยว่ะ
+P0201-0276	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Whoa. Tone it down, badass.	โอ้โห ลดสปีดหน่อยพี่นักเลง
+P0201-0277	พากย์ · speech_list_judge_main_c02	Kaito (ช)		You really think we can do this, huh?	นายคิดจริง ๆ ว่าเราจะทำสำเร็จเหรอ
+P0201-0278	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Anyways, the next victim was in,\nuh... October.	เอาล่ะ เหยื่อรายต่อไปเกิดขึ้น\nเอ่อ...เดือนตุลาคม
+P0201-0279	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Anyways, the second victim after that\nwas in, uh... October.	เอาล่ะ เหยื่อรายที่สองต่อจากนั้น\nเกิดขึ้นเอ่อ...เดือนตุลาคม
+P0201-0280	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Found in an alley off Tenkaichi Street.	พบในตรอกแถวถนนเทนไคจิ
+P0201-0281	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Looks like... he was found in\nan alley off Tenkaichi.	ดูเหมือน...เขาจะถูกพบ\nในตรอกแถวเทนไคจิ
+P0201-0282	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Shall we head over?	ไปดูกันไหม
+P0201-0283	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Wanna check it out?	อยากไปดูกันไหม
+P0201-0284	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Huh? Why Ayabe?	หา? ทำไมต้องอายาเบะ
+P0201-0285	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	What, you mean Ayabe?	อะไรนะ นายหมายถึงอายาเบะเหรอ
+P0201-0286	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Yup, I can ask.	เออ ถามให้ได้
+P0201-0287	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Got it. I can try asking.	ได้เลย เดี๋ยวลองถามดู
+P0201-0288	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Every one a Kyorei man.\nKume's the most recent.	ทุกคนเป็นคนของเคียวเรอิ\nคุเมะคือรายล่าสุด
+P0201-0289	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Every one a Kyorei Clan man.\nKume's the most recent.	ทุกคนเป็นคนของตระกูลเคียวเรอิ\nคุเมะคือรายล่าสุด
+P0201-0290	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Yup. Got Kume hand-delivered\nto him by Hamura.	ใช่ ฮามุระเป็นคนส่งตัวคุเมะ\nไปให้มันถึงมือเลย
+P0201-0291	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Yup. Captain Hamura did the handoff,\nand Kume was the mark.	ใช่ กัปตันฮามุระเป็นคนส่งตัวให้\nคุเมะคือเป้าหมาย
+P0201-0292	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(In other words, Hamura was cooperating with the Mole.\nHe might've even been involved in all three cases.)</color>	<color=ｍonologue>(พูดง่าย ๆ ก็คือฮามุระร่วมมือกับไอ้ตัวตุ่น\nเขาอาจมีเอี่ยวกับทั้งสามคดีเลยก็ได้)</color>
+P0201-0293	พากย์ · speech_list_judge_main_c02	Yagami (ช)		But Hamura kept that hidden,\nand ended up getting off scot-free.	แต่ฮามุระปิดเรื่องนี้ไว้เงียบ\nแล้วก็รอดตัวไปแบบไม่มีอะไรเกิดขึ้น
+P0201-0294	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	But he didn't admit to anything,\nso he got off scot-free.	แต่เขาไม่ยอมรับอะไรเลยสักอย่าง\nเลยรอดตัวไปแบบไม่มีอะไรเกิดขึ้น
+P0201-0295	พากย์ · speech_list_judge_main_c02	Yagami (ช)		In turn making us look like fools.	ทำให้พวกเราดูเป็นตัวตลกไปเลย
+P0201-0296	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Making us look like fools.	ทำให้เราดูเป็นตัวตลก
+P0201-0297	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I'm not about to let him\nget away with this.	ผมไม่ปล่อยให้มันลอยนวล\nไปแบบนี้หรอก
+P0201-0298	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Don't hate, man.	อย่าบ่นไปหน่อยเลยน่า
+P0201-0299	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	Don't be like that.	อย่าเป็นแบบนั้นสิ
+P0201-0300	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Hard to say with what we know now. First things first,\nwe need to figure out who the Mole is.	เท่าที่รู้ตอนนี้ยังบอกยาก อันดับแรกเลย\nเราต้องหาให้ได้ก่อนว่า ไอ้ตัวตุ่นคือใคร
+P0201-0301	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Who knows? We don't have all the pieces yet.\nFirst, we need to figure out who the Mole is.	ใครจะรู้ล่ะ ตอนนี้เรายังไม่มีข้อมูลครบ\nอันดับแรกต้องหาให้ได้ก่อนว่า ไอ้ตัวตุ่นคือใคร
+P0201-0302	พากย์ · speech_list_judge_main_c02	Kaito (ช)		That's why we're here, remember?	นั่นแหละคือเหตุผลที่เรามาที่นี่ไง จำได้ไหม
+P0201-0303	พากย์ · speech_list_judge_main_c02	Yagami (ช)		The Mole's first victim was found\nright in this very alley.	เหยื่อรายแรกของไอ้ตัวตุ่นถูกพบ\nตรงตรอกนี้เลย
+P0201-0304	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	It's where they found the Mole's first victim.\nRight in this very alley.	ที่นี่คือจุดที่พบเหยื่อรายแรก ของไอ้ตัวตุ่น\nตรงตรอกนี้เลย
+P0201-0305	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(So the corpse was found\npretty much the same way as Kume.)	<color=ｍonologue>(ศพนี้ถูกพบในสภาพ\nคล้ายกับคุเมะเลย)
+P0201-0306	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Where exactly did they find him?\nWhat sort of position was he in?	ไม่รู้ว่าเจอเขาตรงไหนกันแน่\nอยู่ในท่าไหนบ้าง
+P0201-0307	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Is there anything on Mashiba's location,\nhow he was positioned...?	มีข้อมูลเรื่องตำแหน่งที่พบ มาชิบะบ้างไหม\nอยู่ในท่าไหน...?
+P0201-0308	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Well, guess we'll have\nto do one better, then.	งั้นคงต้องทำเอง\nให้ดีกว่าตำรวจแล้วล่ะ
+P0201-0309	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Shame.\nNot a lot we can do here.	น่าเสียดาย\nที่นี่คงหาอะไรเพิ่มไม่ได้แล้ว
+P0201-0310	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Don't worry, we got this.	ไม่ต้องห่วง เราจัดการได้
+P0201-0311	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Don't worry.\nWe've got this.	ไม่ต้องห่วง\nเราจัดการได้อยู่แล้ว
+P0201-0312	พากย์ · speech_list_judge_main_c02	Kaito (ช)		If anyone's gonna know\nabout the Mole, it's Hamura.	ถ้ามีใครสักคนรู้เรื่องไอ้ตัวตุ่น\nคนนั้นก็คือฮามุระ
+P0201-0313	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	If anyone's gonna know about the Mole,\nit's Hamura.	ถ้ามีใครสักคนรู้เรื่องไอ้ตัวตุ่นได้\nคนนั้นก็คือฮามุระ
+P0201-0314	พากย์ · speech_list_judge_main_c02	Kaito (ช)		And who has better access to him\nthan anyone else? We do. Right?	แล้วใครจะเข้าถึงตัวเขาได้ดี\nกว่าเราอีกล่ะ จริงไหม
+P0201-0315	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	We've got an inside track.\nOne that the police could never have used.	เรามีช่องทางลับที่เข้าถึงตัวเขาได้\nช่องทางที่ตำรวจไม่มีทางใช้
+P0201-0316	พากย์ · speech_list_judge_main_c02	Yagami (ช)		We'll need to get our hands on\nsome more info first, though.	แต่เราต้องหาข้อมูล\nเพิ่มเติมก่อนอยู่ดี
+P0201-0317	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Still, we'll have to dig up some more\ninformation first.	ยังไงก็ต้องขุดข้อมูล\nเพิ่มเติมกันก่อนอยู่ดี
+P0201-0318	พากย์ · speech_list_judge_main_c02	Yagami (ช)		The quickest way to find the truth\nis through good old fashioned legwork.	ทางที่เร็วที่สุดที่จะเจอความจริง\nคือการลงพื้นที่แบบเก่า ๆ นี่แหละ
+P0201-0319	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	That's what detectives do. The fastest way\nto the truth is through good old-fashioned legwork.	นักสืบเขาทำกันแบบนี้ ทางที่เร็วที่สุด\nสู่ความจริงคือการลงพื้นที่แบบเก่า ๆ
+P0201-0320	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Doesn't matter whether or not we "can"\ndo better. We have to.	ไม่ว่าเราจะ "ทำได้" ดีกว่าหรือเปล่า\nก็ไม่สำคัญ เราต้องทำ
+P0201-0321	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	It's not about whether we "can" do better.\nWe <font_kind=yakuza_italic>have</font_kind> to.	ไม่ใช่เรื่องว่าเรา "ทำได้" ดีกว่าไหมหรอก\nเรา<font_kind=yakuza_italic>ต้อง</font_kind>ทำ
+P0201-0322	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Hamura made us look like fools,\nand I'm not about to stand for that.	ฮามุระทำให้พวกเราดูเป็นตัวตลก\nผมไม่มีทางปล่อยผ่านเรื่องนี้ไปหรอก
+P0201-0323	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	I've got a reputation to think of.	ผมมีชื่อเสียงที่ต้องรักษาไว้
+P0201-0324	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Look, I'm doing this whether you like it or not.\nIf you're gonna complain, do it somewhere else.	ฟังนะ ผมจะทำเรื่องนี้ไม่ว่านายจะชอบหรือไม่\nถ้าจะบ่นก็ไปบ่นที่อื่นเถอะ
+P0201-0325	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Look, I'm doing this whether you like it or not.\nYou gonna complain, or you gonna help?	ฟังนะ ผมจะทำเรื่องนี้ไม่ว่านายจะชอบหรือไม่\nนายจะบ่นหรือจะช่วยกันแน่
+P0201-0326	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Maybe. If we stay positive.	ก็คงงั้นแหละ ถ้าเราคิดบวกไว้
+P0201-0327	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Maybe, if we stay positive.	ก็คงงั้น ถ้าเราคิดบวกไว้
+P0201-0328	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I'm actually gonna head over\nalone if you don't mind.	ผมไปคนเดียวดีกว่า\nถ้านายไม่ว่าอะไร
+P0201-0329	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Actually, I think I'm gonna\nhead over alone.	จริง ๆ แล้วผมว่า\nไปคนเดียวดีกว่า
+P0201-0330	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Think you can get in touch with\nthat informant in the meantime?	ระหว่างนี้นายลองติดต่อ\nสายข่าวคนนั้นได้ไหม
+P0201-0331	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	In the meantime, you want to try\ngetting in touch with that informant?	ระหว่างนี้นายอยากลองติดต่อ\nสายข่าวคนนั้นดูไหม
+P0201-0332	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(If we're going to use Kaito's connections to a dirty cop,\nnow's the time.)</color>	<color=ｍonologue>(ถ้าจะใช้เส้นสายของไคโตะกับ ตำรวจสกปรกคนนั้น\nตอนนี้แหละคือจังหวะ)</color>
+P0201-0333	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Didn't you say something about\nhim selling police info?	นายเคยพูดเรื่องที่เขา\nขายข้อมูลตำรวจไม่ใช่เหรอ
+P0201-0334	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Didn't you say something about him\nselling police info?	นายเคยพูดเรื่องที่เขาขายข้อมูล\nตำรวจไม่ใช่เหรอ
+P0201-0335	พากย์ · speech_list_judge_main_c02	Yagami (ช)		If he's got info on the Mole,\nwe need it.	ถ้าเขามีข้อมูลเรื่องไอ้ตัวตุ่น\nเราต้องเอามาให้ได้
+P0201-0336	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	We need to know about\ntheir hunt for the Mole.	เราต้องรู้ว่าฝั่งตำรวจ\nตามล่าไอ้ตัวตุ่นไปถึงไหนแล้ว
+P0201-0337	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Thanks.	ขอบคุณ
+P0201-0338	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Tenkaichi Alley...)</color>	<color=ｍonologue>(ซอยเทนไคจิ...)</color>
+P0201-0339	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(This is where the Mole's\nsecond victim was found.)</color>	<color=ｍonologue>(ที่นี่คือจุดที่พบ\nเหยื่อรายที่สองของไอ้ตัวตุ่น)</color>
+P0201-0340	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(If I recall, the body was found\nin the garbage dump. So, around here?)</color>	<color=ｍonologue>(ถ้าจำไม่ผิด ศพถูกพบ\nในกองขยะ งั้นก็แถวนี้แหละสิ)</color>
+P0201-0341	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(This investigation is my top priority right now.\nTenkaichi Alley should be a good place to start.)</color>	<color=ｍonologue>(ตอนนี้คดีนี้คือเรื่อง สำคัญที่สุดสำหรับผม\nซอยเทนไคจิน่าจะเป็นจุดเริ่มต้นที่ดี)</color>
+P0201-0342	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(That alleyway is pretty narrow.\nNo chance a car could fit through.)</color>	<color=ｍonologue>(ตรอกนี้แคบมาก\nรถไม่มีทางเข้ามาได้แน่)</color>
+P0201-0343	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(The victim must have walked here on his own.\nOr did the Mole bring him here after killing him?)</color>	<color=ｍonologue>(เหยื่อคงเดินเข้ามาเองหรือเปล่านะ\nหรือไอ้ตัวตุ่นพาเขามาหลังจากฆ่าแล้ว?)</color>
+P0201-0344	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(There isn't enough evidence here\nto say either way.)</color>	<color=ｍonologue>(หลักฐานตรงนี้ยังไม่พอ\nจะบอกได้ว่าแบบไหนกันแน่)</color>
+P0201-0345	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(I think this goes out to\nTaihei Boulevard.)</color>	<color=ｍonologue>(คิดว่าตรงนี้น่าจะทะลุออก\nไปทางถนนไทเฮ)</color>
+P0201-0346	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(If they know their way through all these back alleys,\nthe Mole must be pretty familiar with Kamurocho.)</color>	<color=ｍonologue>(ถ้ารู้ทางลัดผ่านตรอกพวกนี้ได้หมด\nไอ้ตัวตุ่นก็ต้องคุ้นเคยกับคามุโรโจ มากทีเดียว)</color>
+P0201-0347	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(It's a dumpster.)</color>	<color=ｍonologue>(เป็นถังขยะนี่เอง)</color>
+P0201-0348	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(I'd think that if the body had been found in here,\nI would have heard about it by now.)</color>	<color=ｍonologue>(ถ้าศพถูกพบในนี้จริง\nผมคงได้ยินข่าวไปแล้วละ)</color>
+P0201-0349	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Probably safe to say\nit wasn't in the trash.)</color>	<color=ｍonologue>(คงพูดได้เต็มปากว่า\nไม่ได้อยู่ในกองขยะหรอก)</color>
+P0201-0350	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(This is where they take out the garbage, right?\nThe corpse must have been lying around here.)</color>	<color=ｍonologue>(ที่นี่คือจุดทิ้งขยะใช่ไหมนะ\nศพก็คงนอนอยู่แถวนี้แหละ)</color>
+P0201-0351	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(This case happened months ago, though.\nDon't suppose there are any traces of the body left...)</color>	<color=ｍonologue>(คดีนี้ผ่านมาหลายเดือนแล้วนะ\nคงไม่เหลือร่องรอยอะไรของศพแล้วมั้ง...)</color>
+P0201-0352	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(I should take a little closer look.)</color>	<color=ｍonologue>(ควรเข้าไปดูใกล้ ๆ อีกหน่อย)</color>
+P0201-0353	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Hm? Whoa, this is...!)</color>	<color=ｍonologue>(เอ๊ะ? โอ้โห นี่มัน...!)</color>
+P0201-0354	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Gah, this is totally unrelated\nto the case...)</color>	<color=ｍonologue>(เฮ้อ นี่มันไม่เกี่ยวอะไร\nกับคดีเลยนี่นา...)</color>
+P0201-0355	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Guess there are no more signs of the murder.\nDoesn't seem like there's anything left to find.)</color>	<color=ｍonologue>(คงไม่เหลือร่องรอยการฆาตกรรมแล้วสิ\nดูเหมือนจะไม่มีอะไรให้หาเพิ่มแล้ว)</color>
+P0201-0356	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Too much time has passed since all these cases.\nIt's gonna be pretty tough to search for the Mole now.)</color>	<color=ｍonologue>(เวลาผ่านไปนานเกินไปตั้งแต่คดี พวกนี้เกิดขึ้น\nคงยากมากที่จะตามหาไอ้ตัวตุ่นตอนนี้)</color>
+P0201-0357	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(I bet the Mole is a Kamurocho expert.\nSomeone who can just blend into the crowd...)</color>	<color=ｍonologue>(ไอ้ตัวตุ่นน่าจะเป็นคนที่รู้จัก คามุโรโจดีมาก\nพวกที่กลืนหายไปกับฝูงชนได้สบาย ๆ...)</color>
+P0201-0358	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(There's really not much I can do without the police reports.\nI guess coming here was a waste of time...)	(ถ้าไม่มีรายงานตำรวจก็คงทำอะไร ไม่ได้มาก\nคงเสียเวลามาที่นี่เปล่า ๆ...)
+P0201-0359	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Phew, I'm exhausted.)	(เฮ้อ เหนื่อยจัง)
+P0201-0360	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Maybe I should go check in on Genda-sensei.\nIt's been a while since I've heard from him.)	(บางทีควรไปเยี่ยมอาจารย์เก็นดะ หน่อยดีกว่า\nไม่ได้ข่าวจากเขามาสักพักแล้ว)
+P0201-0361	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Helping that homeless guy is more important right now.\nI have to go look for Moroboshi-sensei in the sewers.)	(ช่วยชายไร้บ้านคนนั้นสำคัญกว่าตอนนี้\nต้องไปตามหาอาจารย์โมโรโบชิใน ท่อระบายน้ำ)
+P0201-0362	พากย์ · speech_list_judge_main_c02	Genda (ช)		Well, look what the cat dragged in.	โอ๊ะโอ๊ะ ใครมาเนี่ย
+P0201-0363	พากย์ · speech_list_judge_main_c02	Genda (ช)	[อีกแทร็ก]	Well, look who finally\ndecided to show up.	โอ้โห ในที่สุดก็โผล่มา\nจนได้นะเนี่ย
+P0201-0364	พากย์ · speech_list_judge_main_c02	Genda (ช)		Nah, we were just talking\nabout you, actually.	เปล่าหรอก พอดีเรากำลังพูดถึง\nยากามิคุงอยู่เลยล่ะ
+P0201-0365	พากย์ · speech_list_judge_main_c02	Genda (ช)	[อีกแทร็ก]	I'm sure. As it happens,\nwe were just talking about you.	จริงด้วย พอดีเรากำลัง\nพูดถึงคุณอยู่เลยล่ะ
+P0201-0366	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Afternoon. Did I keep you\nwaiting or something?	สวัสดีครับ ทำให้อาจารย์\nรอนานไปหรือเปล่าครับ
+P0201-0367	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Hey. I didn't realize\nit had been that long.	อ้าว ไม่คิดว่า\nจะนานขนาดนี้เลยครับ
+P0201-0368	พากย์ · speech_list_judge_main_c02	Hoshino (ช)		Do you have a minute, Yagami-san?	มีเวลาสักครู่ไหมครับ ยากามิซัง
+P0201-0369	พากย์ · speech_list_judge_main_c02	Hoshino (ช)		You're always so eager to work.\nA great fighter, too.	คุณตั้งใจทำงานอยู่เสมอเลยนะครับ\nฝีมือสู้ก็เก่งด้วย
+P0201-0370	พากย์ · speech_list_judge_main_c02	Hoshino (ช)	[อีกแทร็ก]	You're so devoted to your work.\nA great fighter, too.	คุณทุ่มเทให้งานมากจริง ๆ นะครับ\nฝีมือสู้ก็เก่งด้วย
+P0201-0371	พากย์ · speech_list_judge_main_c02	Hoshino (ช)		You ever take lessons?	เคยเรียนมวยมาก่อนหรือเปล่าครับ
+P0201-0372	พากย์ · speech_list_judge_main_c02	Hoshino (ช)	[อีกแทร็ก]	Did you study martial arts?	เคยฝึกศิลปะการต่อสู้มาก่อนไหมครับ
+P0201-0373	พากย์ · speech_list_judge_main_c02	Hoshino (ช)		Because you trained yourself\non the streets?	เพราะฝึกฝนตัวเอง\nมาจากท้องถนนเหรอครับ
+P0201-0374	พากย์ · speech_list_judge_main_c02	Hoshino (ช)	[อีกแทร็ก]	Because the streets of Kamurocho\ntaught you everything, right?	เพราะถนนในคามุโรโจ\nสอนคุณทุกอย่างใช่ไหมครับ
+P0201-0375	พากย์ · speech_list_judge_main_c02	Hoshino (ช)		Man, what a life!\nI bet you've got some crazy stories.	โห ชีวิตคุณนี่สุดยอดเลย\nต้องมีเรื่องราวเจ๋ง ๆ เพียบแน่เลยครับ
+P0201-0376	พากย์ · speech_list_judge_main_c02	Hoshino (ช)	[อีกแทร็ก]	Man, that's so cool!\nYour life is like a movie!	โห เท่จังเลยครับ\nชีวิตคุณเหมือนในหนังเลย!
+P0201-0377	พากย์ · speech_list_judge_main_c02	Saori (ญ)		Hey, Yagami-san.	อ้าว ยากามิซัง
+P0201-0378	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[อีกแทร็ก]	Hi there, Yagami-san.	สวัสดีค่ะ ยากามิซัง
+P0201-0379	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[ใช้ร่วม] [ต้องกลางเพศ]	Not yet, sorry.	ยังเลย ขอโทษด้วยนะ
+P0201-0380	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[อีกแทร็ก]	Not yet. Sorry.	ยังไม่มาค่ะ ขอโทษด้วยค่ะ
+P0201-0381	พากย์ · speech_list_judge_main_c02	Yagami (ช)		'Course. Especially if you've\ngot a job for me.	ได้เลยครับ ยิ่งถ้ามีงาน\nมาให้ผมทำด้วยยิ่งดี
+P0201-0382	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Of course. Especially if you have\na job for me.	ได้สิครับ โดยเฉพาะถ้ามีงาน\nมาให้ผมทำด้วย
+P0201-0383	พากย์ · speech_list_judge_main_c02	Hoshino (ช)		I did back when I was a kid, yeah.\nThe rest has been more of a learn-by-doing thing.	ตอนเด็ก ๆ ก็เคยเรียนมาบ้างครับ\nที่เหลือก็ฝึกเอาเองจาก ประสบการณ์มากกว่า
+P0201-0384	พากย์ · speech_list_judge_main_c02	Hoshino (ช)	[อีกแทร็ก]	Yeah, I took some lessons when I was a kid.\nBeyond that, it's mostly self-taught.	ครับ ตอนเด็กก็เคยเรียนมาบ้าง\nนอกนั้นก็ฝึกฝนเองเป็นส่วนใหญ่
+P0201-0385	พากย์ · speech_list_judge_main_c02	Hoshino (ช)		I like to think of it as...\nKamurocho style.	ถ้าจะให้เรียกก็คง...\nสไตล์คามุโรโจมั้งครับ
+P0201-0386	พากย์ · speech_list_judge_main_c02	Hoshino (ช)	[อีกแทร็ก]	If I had to give it a name, I guess it'd be...\nKamurocho style?	ถ้าต้องตั้งชื่อ ผมว่าคง...\nสไตล์คามุโรโจได้มั้งครับ
+P0201-0387	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Hey, is Shintani-sensei in?	นี่ อาจารย์ชินทานิอยู่ไหมครับ
+P0201-0388	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Hey. Shintani-sensei still not in?	นี่ อาจารย์ชินทานิยังไม่มาอีกเหรอครับ
+P0201-0389	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[ใช้ร่วม] [ต้องกลางเพศ]	Um... Yagami-san.	เอ่อ...ยากามิซังคะ
+P0201-0390	พากย์ · speech_list_judge_main_c02	Hoshino (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Um... Yagami-san?	เอ่อ...ยากามิซัง?
+P0201-0391	พากย์ · speech_list_judge_main_c02	Saori (ญ)		Actually, I do have some work for you.	จริง ๆ แล้วมีงานมาให้คุณด้วยค่ะ
+P0201-0392	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[อีกแทร็ก]	Just so you know,\nI found some work for you.	แจ้งให้ทราบไว้ค่ะ\nมีงานมาให้คุณแล้วนะคะ
+P0201-0393	พากย์ · speech_list_judge_main_c02	Saori (ญ)		Here, take a look at what I've got.	นี่ค่ะ ลองดูสิ่งที่ดิฉันมีอยู่ตอนนี้สิคะ
+P0201-0394	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[อีกแทร็ก]	Well... This is what I have\nright now.	ก็...นี่คือสิ่งที่ดิฉัน\nมีอยู่ตอนนี้ค่ะ
+P0201-0395	พากย์ · speech_list_judge_main_c02	Saori (ญ)		I'll send the details to your office.\nPut them up on your board or something.	ดิฉันจะส่งรายละเอียดไปที่ ออฟฟิศคุณนะคะ\nติดไว้บนกระดานหรืออะไรก็ว่าไป
+P0201-0396	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[อีกแทร็ก]	I'll arrange for the client\nto meet you at your office.	ดิฉันจะนัดให้ลูกค้า\nไปพบคุณที่ออฟฟิศนะคะ
+P0201-0397	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[ใช้ร่วม]	What's up?	เป็นไงบ้าง?
+P0201-0398	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ] [ซ้ำในบท x2]	Hm?	หืม?
+P0201-0399	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Yeah? What kind?	จริงเหรอครับ งานอะไรเหรอ
+P0201-0400	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Great. What's the job?	เยี่ยมเลย งานอะไรเหรอครับ
+P0201-0401	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Sounds good.\nThanks, Saori-san.	โอเคครับ\nขอบคุณนะครับ ซาโอริซัง
+P0201-0402	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Sounds good.\nI appreciate it, Saori-san.	โอเคครับ\nขอบคุณมากนะครับ ซาโอริซัง
+P0201-0403	พากย์ · speech_list_judge_main_c02	Genda (ช)		Yagami. You still sniffing\naround that Kume case?	ยากามิ ยังตามคดีคุเมะ\nอยู่อีกเหรอ
+P0201-0404	พากย์ · speech_list_judge_main_c02	Genda (ช)	[อีกแทร็ก]	So. You still sniffing around that case?\nEven after the acquittal?	เอาล่ะ ยังตามคดีนั้น\nอยู่อีกเหรอ ทั้งที่ชนะคดีไปแล้วเนี่ยนะ
+P0201-0405	พากย์ · speech_list_judge_main_c02	Genda (ช)		Not a "problem" per se, but the case is closed.\nI can't keep paying you to investigate.	ไม่ได้เรียกว่า "ปัญหา" หรอกนะ แต่คดีมันปิดไปแล้ว\nผมจ่ายเงินให้คุณสืบต่อไม่ได้อีกแล้ว
+P0201-0406	พากย์ · speech_list_judge_main_c02	Genda (ช)		Even so. You're convinced Hamura's\ncovering for the killer, right?	ถึงอย่างนั้น คุณก็ยังเชื่อว่าฮามุระ\nปิดบังคนร้ายตัวจริงอยู่ใช่ไหม
+P0201-0407	พากย์ · speech_list_judge_main_c02	Genda (ช)	[อีกแทร็ก]	Even so. You're convinced Hamura's covering\nfor the killer, right?	ถึงอย่างนั้น คุณก็ยังเชื่อว่าฮามุระปิดบัง\nคนร้ายตัวจริงอยู่ใช่ไหม
+P0201-0408	พากย์ · speech_list_judge_main_c02	Genda (ช)		You know he'll be none too happy\nif he finds out you're still on the case.	รู้ไว้ด้วยนะว่าถ้าเขารู้เข้า\nว่าคุณยังตามคดีนี้อยู่ เขาคงไม่พอใจแน่
+P0201-0409	พากย์ · speech_list_judge_main_c02	Genda (ช)	[อีกแทร็ก]	If he finds out you're still on the trail...\nHamura's not going to be happy.	ถ้าเขารู้ว่าคุณยังตามเรื่องนี้อยู่...\nฮามุระคงไม่พอใจแน่
+P0201-0410	พากย์ · speech_list_judge_main_c02	Genda (ช)		No, but he and Shintani keep in touch.\nThey're practically drinking buddies these days.	ยังไม่เจอเลย แต่เขากับชินทานิยังติดต่อกันอยู่\nเดี๋ยวนี้แทบจะเป็นเพื่อนดื่มกันแล้ว
+P0201-0411	พากย์ · speech_list_judge_main_c02	Genda (ช)	[อีกแทร็ก]	No, but he and Shintani keep in touch.\nSounds like they're pretty good drinking buddies.	ยังไม่เจอเลย แต่เขากับชินทานิยังติดต่อกันอยู่\nฟังดูเหมือนจะเป็นเพื่อนดื่มที่ ถูกคอกันเลยนะ
+P0201-0412	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Oh yeah. Never told Genda-sensei\nI'm still looking for the Mole.)</color>	<color=ｍonologue>(อ้อ จริงด้วย ยังไม่เคยบอกอาจารย์เก็นดะเลย\nว่าผมยังตามหาไอ้ตัวตุ่นอยู่)</color>
+P0201-0413	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Yeah. That's not a problem, is it?	ใช่ครับ มันเป็นปัญหาเหรอ
+P0201-0414	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Yeah. Is that a problem?	ใช่ครับ นั่นเป็นปัญหาเหรอ
+P0201-0415	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Fine by me.\nIt's a personal matter now.	ไม่เป็นไรครับ\nตอนนี้มันเป็นเรื่องส่วนตัวของผมแล้ว
+P0201-0416	พากย์ · speech_list_judge_main_c02	Yagami (ช)		He brought this on himself\nif you ask me.	เขาทำตัวเองทั้งนั้นแหละ\nถ้าถามผมนะ
+P0201-0417	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	It's only fair after the way\nhe treated me.	ก็สมควรแล้วล่ะ\nกับสิ่งที่เขาทำกับผม
+P0201-0418	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Speaking of, have you seen him\nsince the trial?	ว่าแต่ อาจารย์เจอเขา\nตั้งแต่หลังคดีความหรือยัง
+P0201-0419	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	Really?	จริงเหรอ?
+P0201-0420	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	...Huh.	...เอ๊ะ
+P0201-0421	พากย์ · speech_list_judge_main_c02	Genda (ช)		Oh, sorry. I forgot.\nShintani had an interview today.	อ้อ ขอโทษที ลืมบอกไป\nวันนี้ชินทานิมีสัมภาษณ์น่ะ
+P0201-0422	พากย์ · speech_list_judge_main_c02	Genda (ช)	[อีกแทร็ก]	Oh, sorry.\nI forgot Shintani had an interview today.	อ้อ ขอโทษที\nลืมบอกไปว่าวันนี้ชินทานิมีสัมภาษณ์
+P0201-0423	พากย์ · speech_list_judge_main_c02	Hattori (ช)		Oh, I know all about this place.	โอ้ ที่นี่รู้จักดีอยู่แล้วครับ
+P0201-0424	พากย์ · speech_list_judge_main_c02	Hattori (ช)	[อีกแทร็ก]	Oh, I know all about this place\nalready.	โอ้ ที่นี่รู้จักดี\nอยู่แล้วครับ
+P0201-0425	พากย์ · speech_list_judge_main_c02	Hattori (ช)		Right, Yagami-san?	ใช่ไหมครับ ยากามิซัง
+P0201-0426	พากย์ · speech_list_judge_main_c02	Hattori (ช)		Oh don't worry about that, Shintani-sensei.\nThat courtroom was yours, and yours alone.	โธ่ ไม่ต้องห่วงหรอกครับ อาจารย์ชินทานิ\nห้องพิจารณาคดีนั้นเป็นของคุณ คนเดียวล้วน ๆ
+P0201-0427	พากย์ · speech_list_judge_main_c02	Hattori (ช)		Without a photo, Yagami-san?\nFor as much as you did on the case?	ไม่ถ่ายรูปเลยเหรอครับ ยากามิซัง\nทำขนาดนี้ให้คดีนี้เลยนะ
+P0201-0428	พากย์ · speech_list_judge_main_c02	Hattori (ช)	[อีกแทร็ก]	After all you did for the case, Yagami-san,\nyou can at least stick around for a photo.	ทำขนาดนี้ให้คดีนี้แล้ว ยากามิซัง\nอยู่ถ่ายรูปด้วยกันหน่อยก็ได้นี่ครับ
+P0201-0429	พากย์ · speech_list_judge_main_c02	Hattori (ช)		Lemme just get one of you\nand Shintani-sensei!	ขอถ่ายรูปคุณ\nกับอาจารย์ชินทานิสักใบเถอะครับ!
+P0201-0430	พากย์ · speech_list_judge_main_c02	Hattori (ช)	[อีกแทร็ก]	How about a shot of you\nand Shintani-sensei?	ขอถ่ายรูปคุณ\nกับอาจารย์ชินทานิสักใบไหมครับ
+P0201-0431	พากย์ · speech_list_judge_main_c02	Hattori (ช)		What a treat. That would be great,\nShirosaki-sensei.	ต้องขอบคุณเลยครับ ดีมากเลย\nอาจารย์ชิโรซากิ
+P0201-0432	พากย์ · speech_list_judge_main_c02	Hattori (ช)	[อีกแทร็ก]	What a treat...\nMuch appreciated, Shirosaki-sensei.	ต้องขอบคุณจริง ๆ ครับ...\nขอบคุณมากนะครับ อาจารย์ชิโรซากิ
+P0201-0433	พากย์ · speech_list_judge_main_c02	Saori (ญ)		Tea, sir?	รับชาไหมคะ
+P0201-0434	พากย์ · speech_list_judge_main_c02	Saori (ญ)	[อีกแทร็ก]	Have some tea.	ทานชาก่อนสิคะ
+P0201-0435	พากย์ · speech_list_judge_main_c02	Shintani (ช)		Come on in, Hattori-san.\nIt's small, but it's home.	เชิญเข้ามาเลย ฮัตโตริซัง\nเล็กไปหน่อยแต่ก็คือบ้านฉันแหละ
+P0201-0436	พากย์ · speech_list_judge_main_c02	Shintani (ช)		Just pretend Yagami isn't here, yeah?	ทำเป็นไม่มียากามิอยู่ตรงนี้เถอะน่า
+P0201-0437	พากย์ · speech_list_judge_main_c02	Shintani (ช)	[อีกแทร็ก]	How about... we just pretend\nYagami isn't here?	งั้น...ทำเป็นไม่มี\nยากามิอยู่ตรงนี้ดีไหม
+P0201-0438	พากย์ · speech_list_judge_main_c02	Shintani (ช)		Wouldn't want your readers thinking he had\na hand in getting Hamura's acquittal.	ไม่อยากให้คนอ่านคิดไปว่าเขา\nมีส่วนทำให้ฮามุระชนะคดีหรอกนะ
+P0201-0439	พากย์ · speech_list_judge_main_c02	Shintani (ช)	[อีกแทร็ก]	I wouldn't want your readers thinking\nhe was the one behind our acquittal.	ไม่อยากให้คนอ่านคิดไปว่า\nเขาคือคนที่ทำให้เราชนะคดีหรอก
+P0201-0440	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Shintani and Hattori.\nTwo of my favorite people in the world.)</color>	<color=ｍonologue>(ชินทานิกับฮัตโตริ\nสองคนนี้คือคนโปรดของผมเลย)</color>
+P0201-0441	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I should go.\nLooks like I'm the third wheel here.	ผมไปดีกว่า\nดูเหมือนผมจะเป็นตัวเกะกะที่นี่
+P0201-0442	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	...I should go.\nLooks like I'd just be in the way.	...ผมไปดีกว่า\nดูเหมือนผมจะเกะกะตรงนี้
+P0201-0443	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(What was <font_kind=yakuza_italic>he</font_kind> doing there...?)	(นั่น<font_kind=yakuza_italic>เขา</font_kind>ไปทำอะไรตรงนั้น...?)
+P0201-0444	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Anyway, I need to meet with that client.\nBack to the ol' office...)	(เอาล่ะ ต้องไปเจอลูกความคนนั้นก่อน\nกลับไปที่ออฟฟิศเก่าดีกว่า...)
+P0201-0445	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม]	Whoa!	เฮ้ย!
+P0201-0446	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Still nothing from Kaito-san...\nWhat now?)	(ยังไม่มีข่าวจากไคโตะซังเลย...\nจะทำยังไงดี)
+P0201-0447	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(What was that!?)	(นั่นมันอะไรกันเนี่ย!?)
+P0201-0448	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(It was heading toward the Millennium Tower.\nI better see what that's all about.)	(มันพุ่งไปทางมิลเลนเนียมทาวเวอร์\nต้องไปดูให้รู้เรื่องหน่อยแล้ว)
+P0201-0449	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Yo, it's Kaito. Ayabe's ready for us.\nSays he might have some info on the Mole.	นี่ ไคโตะเองนะ อายาเบะพร้อมแล้ว\nบอกว่าอาจมีข้อมูลเรื่องไอ้ตัวตุ่น
+P0201-0450	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Heh. We're meeting at that indoor fishing pond.\nKoi Bride or some shit. You heard of it? 	เฮ่อ เราจะไปเจอกันที่บ่อตกปลาในร่มนั่น\nโคอิไบรด์อะไรสักอย่างวะ เคยได้ยินไหม 
+P0201-0451	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Heh. We're meeting at the indoor fishing pond.\nKoi Bride or some shit. You heard of it? 	เฮ่อ เราจะไปเจอกันที่บ่อตกปลาในร่ม\nโคอิไบรด์อะไรสักอย่างวะ เคยได้ยินไหม 
+P0201-0452	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Neither had I.\n'til about 10 minutes ago.	ฉันก็เพิ่งรู้จักมันเมื่อ\nสิบนาทีก่อนนี่เอง
+P0201-0453	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Neither had I,\n'til about ten minutes ago.	ฉันก็เพิ่งรู้จักมันเหมือนกัน\nเมื่อสิบนาทีก่อนนี่เอง
+P0201-0454	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Anyway, it's over on Shichifuku Street.\nI'll meet you there.	ยังไงก็อยู่แถวถนนชิจิฟุกุนั่นแหละ\nเดี๋ยวเจอกันที่นั่นนะ
+P0201-0455	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Nice work, Kaito-san.	เยี่ยมเลย ไคโตะซัง
+P0201-0456	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	<color=ｍonologue>(Hopefully the police report will give us a lead...)</color>	<color=ｍonologue>(หวังว่ารายงานตำรวจจะให้เบาะแส อะไรบ้างนะ...)</color>
+P0201-0457	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Indoor fishing pond?\nCan't say I have.	บ่อตกปลาในร่มเหรอ\nไม่เคยได้ยินเลยนะ
+P0201-0458	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	It's an indoor pond?\nCan't say I have.	เป็นบ่อในร่มเหรอ\nไม่เคยได้ยินเลยนะ
+P0201-0459	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(...Koi Bride.\nGuess this is the place.)	(...โคอิไบรด์\nคงเป็นที่นี่แหละ)
+P0201-0460	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Yo, pull up a chair, Tak.	มานั่งเลย ทาคุ
+P0201-0461	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Yo. Over here, Tak.	นี่ ทางนี้เลย ทาคุ
+P0201-0462	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)		Yooo. Welcome.	มาแล้วเหรอ ยินดีต้อนรับ
+P0201-0463	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)	[อีกแทร็ก]	Welcome... or whatever.	ยินดีต้อนรับ... หรืออะไรก็ช่างเถอะ
+P0201-0464	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Ayabe said he'd meet us here, but...	อายาเบะบอกว่าจะมาเจอที่นี่ แต่...
+P0201-0465	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	I talked to Ayabe.\nHe said he'd meet us here.	ฉันคุยกับอายาเบะมาแล้ว\nเขาบอกว่าจะมาเจอเราที่นี่
+P0201-0466	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Dunno what his deal is.\nThis is pretty outta the way.	ไม่รู้เขาคิดอะไรอยู่\nที่นี่มันไกลจากที่ไหนก็ไม่รู้
+P0201-0467	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Still, somethin' feels weird.\nThis ain't how it usually goes down.	ยังไงก็รู้สึกแปลก ๆ นะ\nปกติเขาไม่ทำแบบนี้
+P0201-0468	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Yeah, maybe you're right.	ใช่ นายอาจจะพูดถูกก็ได้นะ
+P0201-0469	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก] [ซ้ำในบท x2]	Yeah, maybe.	อือ อาจจะ
+P0201-0470	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Maybe he's just trying to play it safe\nsince we're new clients.	บางทีเขาอาจแค่ระวังตัวไว้ก่อน\nเพราะเราเป็นลูกค้าใหม่
+P0201-0471	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Could be keeping a low profile\nuntil he can trust us.	อาจจะแค่ทำตัวเงียบ ๆ ไว้ก่อน\nจนกว่าจะไว้ใจเราได้
+P0201-0472	พากย์ · speech_list_judge_main_c02	Kaito (ช)		I wouldn't.\nWho knows if he's one of Ayabe's boys.	ฉันว่าไม่เอาดีกว่า\nใครจะรู้ว่าเขาเป็นพวกของ อายาเบะรึเปล่า
+P0201-0473	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	I wouldn't.\nWho knows if he's one of Ayabe's.	ฉันว่าไม่เอาดีกว่า\nใครจะรู้ว่าเขาเป็นพวกอายาเบะรึเปล่า
+P0201-0474	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Look, Ayabe's a dirty cop.\nThe last thing he wants is his cover blown.	ฟังนะ อายาเบะเป็นตำรวจนอกลู่\nสิ่งสุดท้ายที่เขาอยากให้เกิด คือตัวตนแตก
+P0201-0475	พากย์ · speech_list_judge_main_c02	Kaito (ช)		We won't get a peep from him\nif that happens, got it?	เราจะไม่ได้ข้อมูลอะไรจากเขาเลย\nถ้าเป็นแบบนั้น เข้าใจไหม?
+P0201-0476	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	We won't get a peep from him\nif that happens. Got it?	เราจะไม่ได้ข้อมูลอะไรจากเขาเลย\nถ้าเป็นแบบนั้น เข้าใจนะ
+P0201-0477	พากย์ · speech_list_judge_main_c02	Yagami (ช)		For now, we wait.	ตอนนี้เอาแค่รอไปก่อน
+P0201-0478	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Hm? Hey, someone's coming.	อือ? เฮ้ มีคนมาแล้ว
+P0201-0479	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Hm?\nHey, someone's coming.	อือ?\nเฮ้ มีคนมาแล้ว
+P0201-0480	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		And you're scarin' em off.\nGet lost.	ไล่ปลาหนีหมดแล้ว\nไปให้พ้นเลย
+P0201-0481	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	And you're not helpin'.\nGet the hell out.	ยังไงก็ไม่ช่วยอะไรหรอก\nไสหัวไปเลย
+P0201-0482	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Right. We ain't your boys.	ใช่ พวกเราไม่ใช่ลูกน้องนายหรอกนะ
+P0201-0483	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Damn right.\nWe ain't your marks.	ใช่เลย\nพวกเราไม่ใช่เป้าหมายของนายหรอก
+P0201-0484	พากย์ · speech_list_judge_main_c02	Kaito (ช)		We look like the type\nto hang out with cops?	พวกเราดูเหมือนคนที่\nจะไปคบตำรวจรึไง?
+P0201-0485	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Do we really look like we\nhang around cops?	พวกเราดูเหมือนคนที่\nคบหาตำรวจจริงๆ เหรอ?
+P0201-0486	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Oh well... Aw fuck.	โอ๊ะ... บ้าเอ๊ย
+P0201-0487	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Huh? Uh... Well, I just... you know—	หา? เอ่อ... ก็คือ... นายก็รู้นี่—
+P0201-0488	พากย์ · speech_list_judge_main_c02	Kaito (ช)		These assholes baited me!	ไอ้พวกนี้มันหลอกฉันซะได้!
+P0201-0489	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Dammit, the bastards tricked me!	บ้าเอ๊ย ไอ้พวกนี้มันต้มฉันซะงั้น!
+P0201-0490	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Yeah, I'm real scared.	โห กลัวจนตัวสั่นเลยนะเนี่ย
+P0201-0491	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	I'm shakin' in my boots here.	กลัวจนขาสั่นเลยล่ะสิ
+P0201-0492	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)		Welcome.\nPick a rod, I guess.	ยินดีต้อนรับ\nจะเลือกคันไหนก็เลือกไปเถอะ
+P0201-0493	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		Yo, gotten any bites today?	เฮ้ วันนี้ปลากัดเหยื่อบ้างไหม?
+P0201-0494	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	Yo.\nBeen gettin' any bites?	เฮ้\nปลากัดเหยื่อบ้างไหม?
+P0201-0495	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		C'mon, don't be like that.\nYou're here for Ayabe, right?	เอาน่า อย่าทำแบบนั้นเลย\nพวกนายมาหาอายาเบะใช่ไหมล่ะ?
+P0201-0496	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	C'mon, don't be like that.\nYou two are here for Ayabe, right?	เอาน่า อย่าทำแบบนั้นเลย\nพวกนายสองคนมาหาอายาเบะใช่ไหมล่ะ?
+P0201-0497	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		Don't play dumb with me.\nIt's not gonna end well for you.	อย่ามาแกล้งโง่กับกู\nไม่งั้นมึงไม่รอดแน่
+P0201-0498	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	Don't play dumb with me.\nIt won't end well for you.	อย่ามาแกล้งโง่กับกู\nไม่งั้นมึงจะซวยแน่
+P0201-0499	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		Who said anything about\nhim being a cop?	ใครบอกว่าเขา\nเป็นตำรวจล่ะ?
+P0201-0500	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	I didn't say a word about Ayabe\nbeing a cop, buddy.	กูยังไม่ได้พูดสักคำเลยว่าอายาเบะ\nเป็นตำรวจนะเพื่อน
+P0201-0501	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		So you do know him!\nI fuckin' called it!	เห็นไหมว่ารู้จักมันจริงๆ!\nกูว่าแล้วเชียว!
+P0201-0502	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	So you <font_kind=yakuza_italic>do</font_kind> know him!\nI fuckin' called it!	เห็นไหมว่า<font_kind=yakuza_italic>รู้จัก</font_kind>มันจริงๆ!\nกูว่าแล้วเชียว!
+P0201-0503	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		So, whaddya want with Ayabe?	แล้วมึงมาหาอายาเบะทำไมวะ?
+P0201-0504	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		Tell me, or else.	บอกมาซะดีๆ ไม่งั้นรู้กัน
+P0201-0505	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		You got balls, don't ya?\nI'm gonna serve 'em to ya!	มึงกล้าดีนะ\nงั้นกูจะจัดให้เต็มที่เลย!
+P0201-0506	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	You got guts, I'll give you that.\nWe're gonna fuck you up!	ต้องยอมว่ามึงมีลูกกล้าจริง\nแต่พวกกูจะซัดมึงยับแน่!
+P0201-0507	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Ayabe's sure taking his time\ngetting here.	อายาเบะนี่มาช้า\nจังเลยนะเนี่ย
+P0201-0508	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Should we ask that guy?	จะลองถามคนนั้นดูไหม?
+P0201-0509	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Should we talk to the clerk?	หรือจะลองคุยกับพนักงานร้านดีกว่า?
+P0201-0510	พากย์ · speech_list_judge_main_c02	Yagami (ช)		True, but...	จริงอยู่ แต่ว่า...
+P0201-0511	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Yeah, but...	เออ แต่ว่า...
+P0201-0512	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Sure, sure.	ได้ ได้
+P0201-0513	พากย์ · speech_list_judge_main_c02	unnamed Matsugane/Hamura henchman (ช)		Not even a nibble.	ไม่ติดเบ็ดสักตัว
+P0201-0514	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Tch, who's that?	เชอะ ใครกันนะ?
+P0201-0515	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Sorry, who?	ขอโทษที ใครนะ?
+P0201-0516	พากย์ · speech_list_judge_main_c02	Kaito (ช)		You've got it all wrong.\nWe're just fishin'.	เข้าใจผิดแล้วละ\nพวกเรามาตกปลาเฉยๆ
+P0201-0517	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	You've got the wrong guys.\nWe're just here to fish.	นายเข้าใจผิดคนแล้ว\nพวกเรามาแค่ตกปลาเท่านั้น
+P0201-0518	พากย์ · speech_list_judge_main_c02	Yagami (ช)		That one was all you...	เรื่องนี้นายทำเองแท้ๆ...
+P0201-0519	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Look, we don't want trouble.\nJust step off and we won't hurt you.	ฟังนะ กูไม่อยากมีเรื่อง\nถอยไปซะแล้วกูจะไม่ทำร้ายมึง
+P0201-0520	พากย์ · speech_list_judge_main_c02	Kaito (ช)		You all done?\nOr do ya want some more!?	หมดมุกแค่นี้เหรอ\nหรือจะเอาอีกวะ!?
+P0201-0521	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	You want some more?\nJust say the word!	อยากโดนอีกไหมล่ะ?\nบอกมาคำเดียว!
+P0201-0522	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Ayabe knows me though, doesn't he?	อายาเบะรู้จักฉันอยู่แล้วไม่ใช่เหรอ?
+P0201-0523	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	I figured Ayabe already knew\nI could handle myself.	ฉันนึกว่าอายาเบะรู้อยู่แล้ว\nว่าฉันดูแลตัวเองได้
+P0201-0524	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Dumb!?\nLook here, asshole...	โง่!?\nฟังนะไอ้เวร...
+P0201-0525	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		All right, you boys are in.	เอาละ พวกมึงผ่านด่านแล้ว
+P0201-0526	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	All right.\nYou guys pass.	เอาละ\nพวกมึงผ่าน
+P0201-0527	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		Ayabe-san's careful dealing\nwith new people.	อายาเบะซังระวังตัว\nเรื่องคนหน้าใหม่มาก
+P0201-0528	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	Ayabe-san's careful dealing with\nnew people.	อายาเบะซังระวังตัว\nเรื่องคนหน้าใหม่มาก
+P0201-0529	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		He's selling police info, after all. Gotta make\nsure his partners can keep a secret.	ก็เขาขายข้อมูลตำรวจอยู่นี่นา ต้องมั่นใจ\nก่อนว่าคนที่ร่วมงานด้วยเก็บ ความลับได้
+P0201-0530	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	He's selling police info, after all.\nGotta make sure his partners can keep a secret.	ก็เขาขายข้อมูลตำรวจอยู่นี่นา\nต้องมั่นใจก่อนว่าคนที่ร่วมงาน ด้วยเก็บความลับได้
+P0201-0531	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		Working for Ayabe-san.	ทำงานให้อายาเบะซัง
+P0201-0532	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		You're Kaito-san, yeah?\nThe boss told me about you.	คุณคือไคโตะซังใช่ไหม?\nหัวหน้าเล่าเรื่องคุณให้ฟังแล้ว
+P0201-0533	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	You're Kaito-san, yeah?\nAyabe-san's already told me about you.	คุณคือไคโตะซังใช่ไหม?\nอายาเบะซังเล่าเรื่องคุณให้ฟังแล้ว
+P0201-0534	พากย์ · speech_list_judge_main_c02	Kaito (ช)		You're dumber than I thought.	นึกว่าคุณจะฉลาดกว่านี้ซะอีก
+P0201-0535	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	You're even dumber than\nhe said you'd be.	คุณโง่กว่าที่\nอายาเบะซังบอกไว้อีก
+P0201-0536	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Behind the counter.\nCome take a look.	อยู่หลังเคาน์เตอร์นั่นแหละ\nมาดูกันเลย
+P0201-0537	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Doesn't sound like they do.	ท่าทางจะไม่อยากแล้วนะ
+P0201-0538	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Doesn't sound like it.	ท่าทางจะไม่อยากแล้วล่ะ
+P0201-0539	พากย์ · speech_list_judge_main_c02	Kaito (ช)		We what?	เราอะไรนะ?
+P0201-0540	พากย์ · speech_list_judge_main_c02	Yagami (ช)		And these guys?	แล้วสองคนนี้ล่ะ?
+P0201-0541	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)		Not now, Kaito.\nAs for you... where's Ayabe?	อย่าเพิ่งเลยไคโตะ\nแล้วคุณล่ะ...อายาเบะอยู่ไหน?
+P0201-0542	พากย์ · speech_list_judge_main_c02	Sakanazuki (ช)	[อีกแทร็ก]	Okay, okay, relax. So...\nWhere do we find Ayabe?	โอเค โอเค ใจเย็นๆ แล้วเรา...\nจะหาอายาเบะได้ที่ไหน?
+P0201-0543	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Heh, well aren't you guys international.	ฮึ พวกคุณนี่ดูอินเตอร์ดีนะ
+P0201-0544	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Gotta be classy if it's French.	เป็นภาษาฝรั่งเศสก็ต้องหรูอยู่แล้วสิ
+P0201-0545	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)		You're looking at the entrance to L'Amant,\nthe best-kept casino in all of Kamurocho.	นี่คือทางเข้า ลามองต์\nคาสิโนที่ซ่อนเก่งที่สุดในคามุโรโจ
+P0201-0546	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)	[อีกแทร็ก]	You're looking at the entrance to one of\nKamurocho's finest casinos... L'Amant.	นี่คือทางเข้าคาสิโนชั้นเลิศ แห่งหนึ่งของ\nคามุโรโจ... ลามองต์
+P0201-0547	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)		French for "lover."	ภาษาฝรั่งเศส แปลว่า "คนรัก"
+P0201-0548	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)		You know what they say. There's an amazing\nlover behind every coy bride.	ก็อย่างที่เขาว่ากันนั่นแหละ เบื้องหลังเจ้าสาวขี้อาย\nทุกคนมีคนรักสุดเจ๋งซ่อนอยู่
+P0201-0549	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)	[อีกแทร็ก]	"There's an amazing lover behind\nevery coy wife's back," right?	"เบื้องหลังภรรยาขี้อายทุกคน\nมีคนรักสุดเจ๋งซ่อนอยู่" ประมาณนั้นใช่ไหม?
+P0201-0550	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)		Go down and have fun.\nAyabe-san will be here soon.	ลงไปสนุกกันได้เลย\nอายาเบะซังจะมาถึงเร็วๆ นี้
+P0201-0551	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)	[อีกแทร็ก]	You can go have fun while\nAyabe-san's on his way.	ไปสนุกกันได้ระหว่าง\nรออายาเบะซังมาถึง
+P0201-0552	พากย์ · speech_list_judge_main_c02	koinyoubou_master (ช)		Here, these are on the house.	นี่ ให้ฟรีเลย
+P0201-0553	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม]	What the...?	อะไรกันวะ...?
+P0201-0554	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	What is that...?	นั่นอะไรน่ะ...?
+P0201-0555	พากย์ · speech_list_judge_main_c02	Kaito (ช)		L'Amant?	ลามองต์ เหรอ?
+P0201-0556	พากย์ · speech_list_judge_main_c02	Kaito (ช)		So the stupid pond was just a front?	สรุปบ่อปลาบ้าๆ นั่นเป็นแค่ฉากบังหน้าเองเหรอ?
+P0201-0557	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	So that pond was seriously\njust a front?	บ่อปลานั่นเป็นแค่ฉากบังหน้า\nจริงๆ เหรอเนี่ย?
+P0201-0558	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Fine by me!	ตกลง! ไม่มีปัญหาเลย!
+P0201-0559	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Heh, fine by me.	ฮึ ไม่มีปัญหาหรอก
+P0201-0560	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Well, wanna see what they've got to offer?\nMay as well put those chips to use.	เอาไงล่ะ อยากดูไหมว่าที่นี่มีอะไรบ้าง\nเอาชิปพวกนี้ไปใช้ซะหน่อยก็ดี
+P0201-0561	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	C'mon, let's see what this joint's got to offer.\nMight as well use those free chips.	เอาน่า ไปดูกันว่าที่นี่มีอะไรน่าเล่นบ้าง\nเอาชิปฟรีพวกนี้ไปใช้ซะเลย
+P0201-0562	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Wowww.	ว้าว...
+P0201-0563	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	Sure.	ใช่
+P0201-0564	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Playtime's over, Tak.\nC'mon, Ayabe's waiting.	หมดเวลาเล่นแล้ว ทาคุ\nไปกันเถอะ อายาเบะรอเราอยู่
+P0201-0565	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Hey, Tak. Playtime's just about over.\nC'mon, Ayabe's waiting.	เฮ้ ทาคุ ใกล้หมดเวลาเล่นแล้วนะ\nไปกันเถอะ อายาเบะรอเราอยู่
+P0201-0566	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Good to see you, Kaito-san.	ดีใจที่ได้เจอนะ ไคโตะซัง
+P0201-0567	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Good seeing you, Kaito-san.\nAnd...	ดีใจที่ได้เจอนะ ไคโตะซัง\nแล้วก็...
+P0201-0568	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		I take it you're Yagami-san?	คุณคือยากามิซังใช่ไหม?
+P0201-0569	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Or would Yagami-sensei be more appropriate?	หรือจะให้เรียกอาจารย์ยากามิดีกว่ากัน?
+P0201-0570	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Or maybe Yagami-sensei\nwould be more appropriate?	หรือจะให้เรียก\nอาจารย์ยากามิดีกว่ากัน?
+P0201-0571	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Sorry about that whole test thing.	ขอโทษด้วยนะเรื่องบททดสอบเมื่อกี้
+P0201-0572	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Sorry 'bout that test earlier.	ขอโทษด้วยเรื่องบททดสอบเมื่อครู่
+P0201-0573	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Name's Ayabe,\nKamurocho Organized Crime Division.	ผมชื่ออายาเบะ\nแผนกปราบปรามองค์กรอาชญากรรม คามุโรโจ
+P0201-0574	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	The name's Ayabe. Kamurocho police,\nOrganized Crime Division.	ผมชื่ออายาเบะ ตำรวจคามุโรโจ\nแผนกปราบปรามองค์กรอาชญากรรม
+P0201-0575	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		So, how are you liking the casino?\nPretty swanky, huh?	เป็นไงบ้าง ชอบคาสิโนนี้ไหม\nหรูดีใช่ไหมล่ะ?
+P0201-0576	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Not quite.\nI do my part to keep it hidden, though.	ไม่เชิงหรอก\nแต่ผมก็มีส่วนช่วยปิดบังที่นี่ อยู่บ้าง
+P0201-0577	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Nah, I just do my part\nto keep the place hidden.	เปล่า ผมแค่ช่วยปิดบัง\nที่นี่ไว้เท่านั้นแหละ
+P0201-0578	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Cut a deal with the Tojo, too.\nBarely pay a lick of protection money now.	แถมยังไปตกลงกับโทโจด้วยนะ\nตอนนี้แทบไม่ต้องจ่ายค่าคุ้มครองเลย
+P0201-0579	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	I cut a deal with the Tojo Clan,\nand now they barely pay a lick of protection money.	ผมไปตกลงกับตระกูลโทโจไว้\nตอนนี้พวกเขาแทบไม่ต้องจ่าย ค่าคุ้มครองเลย
+P0201-0580	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		I guess I do practically run the place.	พูดง่ายๆ ก็เหมือนผมคุมที่นี่อยู่นั่นแหละ
+P0201-0581	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	...You know, I guess I do\npractically run the place.	...ว่าไปก็เหมือนผมคุม\nที่นี่อยู่จริงๆ นั่นแหละ
+P0201-0582	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Sorry, I can't give you the VIP treatment\nwhen all you buy is the dirt off my shoes.	ขอโทษที ให้บริการวีไอพีไม่ได้หรอก\nในเมื่อสิ่งที่นายซื้อมีแค่ฝุ่น ใต้รองเท้าผม
+P0201-0583	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	You want VIP treatment when all you buy is my cheap dirt?\nSorry, but that's not how it works.	อยากได้บริการวีไอพีทั้งที่ซื้อ แค่ข้อมูลราคาถูกจากผมงั้นเหรอ\nขอโทษนะ มันไม่ได้ง่ายขนาดนั้น
+P0201-0584	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		You know those Kyorei murder cases?\nThey're all managed by my boss. Guy named Kuroiwa.	รู้จักคดีฆาตกรรมตระกูลเคียวเรอิไหม?\nทุกคดีอยู่ในความดูแลของหัวหน้าผม คนชื่อคุโรอิวะ
+P0201-0585	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	About those Kyorei murder cases, with the eye shit...\nThe cop heading them is Kuroiwa, my boss.	เรื่องคดีฆาตกรรม ตระกูลเคียวเรอิที่ควักลูกตา นั่นน่ะ...\nตำรวจที่คุมคดีคือคุโรอิวะ หัวหน้าผมเอง
+P0201-0586	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		He's the one who brought your captain in.	เขาเป็นคนที่จับกัปตันของพวกคุณเข้ามา
+P0201-0587	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	He's the one who brought Hamura in.	เขาเป็นคนที่จับฮามุระเข้ามา
+P0201-0588	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		But thanks to you, Hamura walked,\nand now Kuroiwa's got egg on his face.	แต่เพราะคุณ ฮามุระเลยรอดตัวไป\nตอนนี้คุโรอิวะหน้าแตกไปเลย
+P0201-0589	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	But... thanks to you, Hamura walked.\nAnd Kuroiwa got egg on his face.	แต่... เพราะคุณ ฮามุระเลยรอดตัวไป\nแล้วคุโรอิวะก็หน้าแตกไปเลย
+P0201-0590	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Felt good, lemme tell you.\nI'm a fan of your work.	บอกเลยว่าสะใจมาก\nผมเป็นแฟนคลับฝีมือคุณเลยละ
+P0201-0591	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Now <font_kind=yakuza_italic>that</font_kind> felt good.\nLemme tell you, I'm a fan of your work.	<font_kind=yakuza_italic>เรื่องนั้น</font_kind>สะใจสุดๆ\nบอกเลยว่าผมเป็นแฟนคลับฝีมือคุณ
+P0201-0592	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		So here, the first one's on the house.	เอาละ อันแรกนี้แจกฟรีให้เลย
+P0201-0593	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	So here you go.\nFirst hit's free.	นี่ เอาไปเลย\nครั้งแรกให้ฟรี
+P0201-0594	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Now, I pulled together reports\non all the cases so far.	เอาละ ผมรวบรวมรายงาน\nคดีทั้งหมดที่มีมาจนถึงตอนนี้ ไว้ให้แล้ว
+P0201-0595	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Now, I pulled together the reports\non all your Mole's cases so far.	เอาละ ผมรวบรวมรายงาน\nคดีของไอ้ตัวตุ่นที่คุณตามอยู่ ทั้งหมดมาให้แล้ว
+P0201-0596	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Three in total, including\nthe trial the other day.	รวมทั้งหมดสามคดี รวมถึง\nการไต่สวนเมื่อวันก่อนด้วย
+P0201-0597	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Three in total,\nincluding the trial the other day.	รวมทั้งหมดสามคดี\nรวมถึงการไต่สวนเมื่อวันก่อนด้วย
+P0201-0598	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Not so fast.\nYou're on the hook if this shit gets out.	ยังก่อน\nถ้าเรื่องนี้หลุดออกไป คุณต้องรับผิดชอบเองนะ
+P0201-0599	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Let's get one thing clear.\nYou're on the hook if this shit gets out.	ขอพูดให้ชัดก่อนนะ\nถ้าเรื่องนี้หลุดออกไป คุณต้องรับผิดชอบเอง
+P0201-0600	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		You're dead.	คุณตายสถานเดียว
+P0201-0601	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Death.	ตาย
+P0201-0602	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Protect that with your life, huh?	ต้องปกป้องมันด้วยชีวิตเลยสินะ?
+P0201-0603	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	In other words,\nprotect that envelope with your life.	พูดง่ายๆ ก็คือ\nต้องปกป้องซองนั้นด้วยชีวิต
+P0201-0604	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		He's the darling of\nthe Kamuro police station.	เขาเป็นขวัญใจของ\nโรงพักคามุโรเลยละ
+P0201-0605	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	He's the "hero"\nof the Kamuro police station.	เขาเป็น "ฮีโร่"\nของโรงพักคามุโร
+P0201-0606	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Strong, popular, and always gets his mark.\nThey've got him fast-tracked for promotion.	เก่ง เป็นที่นิยม แล้วก็จับได้ทุกเป้าหมาย\nพวกเขาเลยดันเขาขึ้นตำแหน่งเร็ว เป็นพิเศษ
+P0201-0607	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Guy's too damn perfect!	ก็เพราะไอ้หมอนี่มันดีเกินไปน่ะสิ!
+P0201-0608	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Guy's too perfect.	ไอ้หมอนี่มันดีเกินไป
+P0201-0609	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Think it's any fun working\nwith a perfectionist?	คิดว่ามันสนุกเหรอที่ต้องทำงาน\nกับคนสมบูรณ์แบบขนาดนั้น?
+P0201-0610	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Come on. You really think you'd like working\nwith a fella like that?	เอาน่า คุณคิดจริงๆ เหรอว่าจะชอบทำงาน\nกับคนแบบนั้น?
+P0201-0611	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Not to mention he's a handsome devil.	ไม่นับว่าหน้าตายังหล่อเหลาซะอีก
+P0201-0612	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Glad you see it my way, Yagami-san.\nHere, look at this asshole.	ดีใจที่คุณเห็นตรงกับผมนะ ยากามิซัง\nเอ้า ดูไอ้เวรนี่สิ
+P0201-0613	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	I knew you'd understand, Yagami-san.\nHere, this is Kuroiwa.	ผมรู้อยู่แล้วว่าคุณต้องเข้าใจ ยากามิซัง\nเอ้า นี่คือคุโรอิวะ
+P0201-0614	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Right. He knows who you are,\nby the way.	ใช่แล้ว แล้วอีกอย่าง\nเขารู้จักคุณด้วยนะ
+P0201-0615	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Good. He already knows yours.	ดีเลย เขารู้จักคุณอยู่แล้วด้วย
+P0201-0616	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		After all, you're the guy\nwho got Hamura acquitted.	ก็แหงละ คุณคือคนที่\nทำให้ฮามุระพ้นผิดนี่นา
+P0201-0617	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Anyway.\nDon't open that here, okay?	ยังไงก็เถอะ\nอย่าเพิ่งเปิดตรงนี้นะ
+P0201-0618	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Anyway, don't open that here, okay?	ยังไงก็เถอะ อย่าเพิ่งเปิดตรงนี้นะ
+P0201-0619	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		I'm usually hanging 'round Tender.\nSwing by there if you need anything else.	ปกติผมแวะเวียนอยู่แถวเทนเดอร์\nถ้าต้องการอะไรอีกก็แวะมาได้
+P0201-0620	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	I'm usually hanging 'round Tender.\nSwing by there if you ever need anything else.	ปกติผมแวะเวียนอยู่แถวเทนเดอร์\nถ้าต้องการอะไรอีกเมื่อไหร่ก็แวะมาได้
+P0201-0621	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Why, you the owner or something?	ทำไมล่ะ คุณเป็นเจ้าของที่นี่รึไง?
+P0201-0622	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Why do you ask?\nDon't tell me you're the owner.	ทำไมถึงถามล่ะ\nอย่าบอกนะว่าคุณเป็นเจ้าของที่นี่
+P0201-0623	พากย์ · speech_list_judge_main_c02	Kaito (ช)		And you never invited me?\nI'm hurt.	แล้วนายไม่เคยชวนฉันมาเลยเหรอ\nเจ็บใจจัง
+P0201-0624	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	And somehow, you never found the time\nto invite me.	แล้วนายก็ไม่เคยหาเวลา\nชวนฉันมาเลยสักครั้ง
+P0201-0625	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Guess we got Kuroiwa to thank for this.	งั้นก็ต้องขอบคุณคุโรอิวะสินะ
+P0201-0626	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Guess we got Kuroiwa\nto thank for this.	งั้นก็ต้องขอบคุณคุโรอิวะ\nสำหรับเรื่องนี้สินะ
+P0201-0627	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Envy's what makes a man ugly, friend.\nEspecially odd coming from a dirty cop.	ความอิจฉาน่ะทำให้คนดูแย่ลงนะเพื่อน\nยิ่งมาจากตำรวจนอกลู่ด้วยแล้วยิ่งแปลก
+P0201-0628	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Man, envy's an ugly thing.\nEspecially comin' from a dirty cop.	โธ่ ความอิจฉาเป็นอะไรที่น่าเกลียดนะ\nยิ่งมาจากตำรวจนอกลู่ด้วยยิ่งแปลก
+P0201-0629	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Glad that's over with.\nI'm gonna play a few hands while I'm here.	ดีใจที่เรื่องนั้นจบไปแล้ว\nมาถึงนี่ทั้งทีขอเล่นสักสองสามมือก่อน
+P0201-0630	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Glad that's over with.\nI'm gonna stick around for a few hands.	ดีใจที่เรื่องนั้นจบไปแล้ว\nขออยู่เล่นสักพักก่อน
+P0201-0631	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		You staying, or...?	นายจะอยู่ต่อไหม หรือ...?
+P0201-0632	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	You staying too?	นายจะอยู่ด้วยไหม?
+P0201-0633	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		Righto. See ya around.	ได้เลย เจอกันนะ
+P0201-0634	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	Righto.\nI'll see ya around.	ได้เลย\nเจอกันนะ
+P0201-0635	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Whatever works for you.	เรียกไงก็ได้ที่คุณสบายใจ
+P0201-0636	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Pleasure.	ยินดีครับ
+P0201-0637	พากย์ · speech_list_judge_main_c02	Yagami (ช)		All right let's cut to the chase,\nshall we?	เอาละ เข้าเรื่องกันเลย\nดีไหม?
+P0201-0638	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Fine. Then why <font_kind=yakuza_italic>did</font_kind> you call us here?	ก็ได้ งั้นทำไมคุณ<font_kind=yakuza_italic>ถึง</font_kind>เรียกเรามาที่นี่ล่ะ?
+P0201-0639	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Pretty scary.\nAnd what happens if it does?	น่ากลัวจัง\nแล้วถ้ามันหลุดออกไปจะเกิดอะไรขึ้น?
+P0201-0640	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Scary.\nAnd what's the price if it does?	น่ากลัวนะ\nแล้วถ้าเกิดขึ้นจริงต้องจ่าย ราคาเท่าไหร่?
+P0201-0641	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[ใช้ร่วม]	Figured as much.	ก็ว่าอยู่
+P0201-0642	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	I figured as much.	ก็คิดไว้แล้วแหละ
+P0201-0643	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[ใช้ร่วม]	Will do.	ได้เลย
+P0201-0644	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก] [ใช้ร่วม]	Roger.	รับทราบ
+P0201-0645	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(That's Kamurocho for you.\nShady as all hell, but you can get anything you want.)</color>	<color=ｍonologue>(นี่แหละคามุโรโจ\nที่นี่มืดหม่นสุดๆ แต่ก็หาอะไรก็ได้ทุกอย่างที่ต้องการ)</color>
+P0201-0646	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Can you tell me more\nabout this Kuroiwa guy?	เล่าเรื่องคุโรอิวะคนนี้\nให้ฟังเพิ่มหน่อยได้ไหม?
+P0201-0647	พากย์ · speech_list_judge_main_c02	Yagami (ช)		And you don't like him... why?	แล้วคุณไม่ชอบเขาเหรอ...ทำไมล่ะ?
+P0201-0648	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	So... why don't you like him?	แล้ว...ทำไมคุณถึงไม่ชอบเขาล่ะ?
+P0201-0649	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I dunno, I think it's kinda refreshing.	ไม่รู้สิ ผมว่ามันดูสดชื่นดีออก
+P0201-0650	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Yeah, handsome.	ใช่ หล่อจริงด้วย
+P0201-0651	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Not a face I'll forget.	หน้าแบบนี้ไม่มีทางลืมหรอก
+P0201-0652	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม]	Fair enough.	งั้นก็ยุติธรรมดี
+P0201-0653	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	I see.	เข้าใจแล้ว
+P0201-0654	พากย์ · speech_list_judge_main_c02	Ayabe (ช)		I'll keep it shut tight\nuntil I'm back in my office.	ผมจะเก็บมันปิดสนิทไว้\nจนกว่าจะกลับถึงออฟฟิศ
+P0201-0655	พากย์ · speech_list_judge_main_c02	Ayabe (ช)	[อีกแทร็ก]	I'll keep it shut tight until I'm back in my office.\nToo many prying eyes everywhere else.	ผมจะเก็บมันปิดสนิทไว้จนกว่าจะ กลับถึงออฟฟิศ\nที่อื่นสายตาคนเยอะเกินไป
+P0201-0656	พากย์ · speech_list_judge_main_c02	Yagami (ช)		That work?	แบบนี้โอเคไหม?
+P0201-0657	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม]	How's that?	หมายความว่ายังไง?
+P0201-0658	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I'll think about it.	เดี๋ยวขอคิดดูก่อนนะ
+P0201-0659	พากย์ · speech_list_judge_main_c02	Yagami (ช)		What was that about?	เรื่องอะไรกัน?
+P0201-0660	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	What was that about...?	เรื่องอะไรกันนะ...?
+P0201-0661	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Were they going after this...?	พวกนั้นตามล่าของชิ้นนี้อยู่รึเปล่า...?
+P0201-0662	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Did they want this?	พวกนั้นต้องการของชิ้นนี้เหรอ?
+P0201-0663	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Glad one of us is earning his pay.\nHow're those docs from Ayabe looking?	ดีนะที่มีคนหนึ่งทำงานคุ้มเงินเดือน\nเอกสารจากอายาเบะเป็นไงบ้าง?
+P0201-0664	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Still at it, Tak?\nHow're Ayabe's documents comin' along?	ยังทำอยู่อีกเหรอ ทาคุ\nเอกสารของอายาเบะไปถึงไหนแล้ว?
+P0201-0665	พากย์ · speech_list_judge_main_c02	Kaito (ช)		I won a mil or so.	ฉันได้มาเป็นล้านได้มั้ง
+P0201-0666	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Just a million yen.	แค่ล้านเยนเองน่า
+P0201-0667	พากย์ · speech_list_judge_main_c02	Kaito (ช)		I'd've kept going,\nbut that seemed like a good round number.	จะเล่นต่อก็ได้นะ\nแต่ตัวเลขกลมๆ แบบนี้มันดูโอเคดี
+P0201-0668	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Hey, I ain't a charity.	เฮ้ ฉันไม่ใช่องค์กรการกุศลนะ
+P0201-0669	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	C'mon, that's not the same thing.	ไม่เกี่ยวกันเลยนะนั่น
+P0201-0670	พากย์ · speech_list_judge_main_c02	Kaito (ช)		Anyway.\nAnything good in there?	เอาเถอะ\nมีอะไรน่าสนใจในนั้นบ้างไหม?
+P0201-0671	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	Anyway.\nYou find anything on the Mole in there?	เอาเถอะ\nเจออะไรเกี่ยวกับไอ้ตัวตุ่นใน นั้นบ้างไหม?
+P0201-0672	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Huh. No wonder Ayabe was practically\ngiving that shit away.	อือ ไม่แปลกใจเลยที่อายาเบะแทบ\nจะแจกของนี่ให้ฟรี
+P0201-0673	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Guess that kinda makes sense...\nNo wonder Ayabe practically gave that shit away.	ก็สมเหตุสมผลอยู่นะ...\nไม่แปลกใจเลยที่อายาเบะแทบจะแจกให้ฟรี
+P0201-0674	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I take it that's Kunimura?	นั่นคือคุนิมูระใช่ไหม?
+P0201-0675	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	And this is Kunimura?	แล้วคนนี้คือคุนิมูระเหรอ?
+P0201-0676	พากย์ · speech_list_judge_main_c02	Yagami (ช)		At least the guy had some fun before he went out.\nHell, that's how I wanna go.	อย่างน้อยไอ้หนุ่มนี่ก็ได้สนุกก่อนตาย\nให้ตายเถอะ ฉันก็อยากตายแบบนั้นเหมือนกัน
+P0201-0677	พากย์ · speech_list_judge_main_c02	Kaito (ช)		C'mon man,\nleave the sexy shit to me!	เอาน่า\nเรื่องเซ็กซี่ๆ แบบนี้ปล่อยให้ฉันจัดการเถอะ!
+P0201-0678	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	C'mon, man,\nleave the sex shops to me!	เอาน่า\nเรื่องแบบนี้ปล่อยให้ฉันจัดการเถอะ!
+P0201-0679	พากย์ · speech_list_judge_main_c02	Yagami (ช)		You're too young to handle\na married woman anyway.	อยู่ดีๆ นายก็ยังเด็กเกินกว่าจะรับมือ\nผู้หญิงมีสามีอยู่แล้วละ
+P0201-0680	พากย์ · speech_list_judge_main_c02	Kaito (ช)		You're seriously not letting\nme take point on this one?	นายจะไม่ให้ฉัน\nเป็นตัวหลักในเรื่องนี้จริงๆ เหรอ?
+P0201-0681	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	You seriously making me sit out\non Konban Wife?	นายจะให้ฉันนั่งดูอยู่ข้างสนาม\nเรื่อง Konban Wife จริงๆ เหรอ?
+P0201-0682	พากย์ · speech_list_judge_main_c02	Kaito (ช)		...What if I tell Mafuyu-chan?	...ถ้าฉันไปบอกมาฟุยุจังล่ะ?
+P0201-0683	พากย์ · speech_list_judge_main_c02	Kaito (ช)	[อีกแทร็ก]	What if I tell Mafuyu-chan?	ถ้าฉันไปบอกมาฟุยุจังล่ะ?
+P0201-0684	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Not bad.\nHow'd things go at the casino?	ก็ไม่เลว\nแล้วที่คาสิโนเป็นไงบ้าง?
+P0201-0685	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Not bad.\nAnd you? Any big winnings to report?	ก็ไม่เลว\nแล้วนายล่ะ ได้เงินก้อนโตมารายงานบ้างไหม?
+P0201-0686	พากย์ · speech_list_judge_main_c02	Yagami (ช)		A mil!?	ล้านเลยเหรอ!?
+P0201-0687	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก] [ใช้ร่วม] [ต้องกลางเพศ]	What!?	อะไรนะ!?
+P0201-0688	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Oh good, guess I don't\nneed to pay you this month.	โอ้ ดีเลย งั้นเดือนนี้\nคงไม่ต้องจ่ายเงินให้นายแล้วสินะ
+P0201-0689	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	So, Kaito-san...\nI guess you don't need a check this month?	งั้นไคโตะซัง...\nคงไม่ต้องรับเช็คเดือนนี้แล้วสินะ?
+P0201-0690	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Not yet. The cops only got\nas far as arresting Hamura.	ยังไม่เจอ ตำรวจได้แค่\nจับฮามุระเท่านั้นเอง
+P0201-0691	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Not yet. After all, they had to resort to\narresting our "innocent" captain.	ยังไม่เจอ สุดท้ายพวกเขาก็ทำได้แค่\nจับกัปตันผู้ "บริสุทธิ์" ของเราเท่านั้น
+P0201-0692	พากย์ · speech_list_judge_main_c02	Yagami (ช)		According to this, that was the only lead\nthey had. They're as stumped as we are.	ตามนี้ นั่นเป็นเบาะแสเดียว\nที่พวกเขามี พวกเขาก็จนตรอกพอๆ กับเรา
+P0201-0693	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	According to the case history...\nAside from him, they didn't have any other leads.	ตามประวัติคดี...\nนอกจากเขาแล้วพวกเขาก็ไม่มี เบาะแสอื่นเลย
+P0201-0694	พากย์ · speech_list_judge_main_c02	Yagami (ช)		There is something in here\nabout the second murder, though.	แต่มีอะไรบางอย่างในนี้\nเกี่ยวกับการฆาตกรรมครั้งที่สอง
+P0201-0695	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Except... there is something\non the Mole's second victim.	ยกเว้น...มีข้อมูลบางอย่าง\nเกี่ยวกับเหยื่อรายที่สองของ ไอ้ตัวตุ่น
+P0201-0696	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Apparently they had been tracking the victim,\nKunimura, right up until his death.	ดูเหมือนพวกเขาจะสะกดรอยตามเหยื่อ\nคุนิมูระ จนถึงวันที่เขาตายเลยละ
+P0201-0697	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Seems like the police had been tracking this guy\nKunimura, right up until his death.	ดูเหมือนตำรวจจะสะกดรอยตามผู้ชายคนนี้\nคุนิมูระ จนถึงวันที่เขาตาย
+P0201-0698	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(He's the Mole's second victim.\nEyes gouged out, just like Kume's.)</color>	<color=ｍonologue>(นี่คือเหยื่อรายที่สองของไอ้ตัวตุ่น\nถูกควักลูกตาเหมือนกับคุเมะเป๊ะ)</color>
+P0201-0699	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Yup. Two hours before his death, he was seen\nleaving a brothel called Konban Wife.	ใช่ สองชั่วโมงก่อนตาย มีคนเห็นเขาเดินออก\nจากซ่องที่ชื่อ Konban Wife
+P0201-0700	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Yup. Two hours before his death,\nhe was seen leaving a brothel called Konban Wife.	ใช่ สองชั่วโมงก่อนตาย\nมีคนเห็นเขาเดินออกจากซ่องที่ชื่อ Konban Wife
+P0201-0701	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Kinda place where the girls pretend they're married.\nSounds like he was there for a Kanae-chan.	เป็นร้านที่ผู้หญิงแกล้งทำเป็น ภรรยาลูกค้า\nฟังดูเหมือนเขาไปหาคนชื่อคาเนะจัง
+P0201-0702	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Their girls roleplay as their clients' wives.\nSounds like he was there for a Kanae-chan.	ผู้หญิงร้านนี้จะสวมบทเป็นภรรยา ของลูกค้า\nฟังดูเหมือนเขาไปหาคาเนะจัง
+P0201-0703	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I'm gonna go talk to this Kanae-chan.	ผมจะไปคุยกับคาเนะจังคนนี้ดู
+P0201-0704	พากย์ · speech_list_judge_main_c02	Yagami (ช)		See if she knows anything\nabout Kunimura.	ดูว่าเธอรู้อะไร\nเกี่ยวกับคุนิมูระบ้างไหม
+P0201-0705	พากย์ · speech_list_judge_main_c02	Yagami (ช)		With any luck,\nI might even get a lead on the Mole.	ถ้าโชคดี\nผมอาจจะได้เบาะแสเกี่ยวกับ ไอ้ตัวตุ่นด้วยซ้ำ
+P0201-0706	พากย์ · speech_list_judge_main_c02	Yagami (ช)		You do realize I'm just gonna\ntalk to her, right?	นายเข้าใจใช่ไหมว่าผมแค่จะไป\nคุยกับเธอเฉยๆ?
+P0201-0707	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	What "handling" do you expect to do?\nI only need to talk to her.	จะให้ "รับมือ" อะไรกันล่ะ\nผมแค่ต้องคุยกับเธอเท่านั้นเอง
+P0201-0708	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Go ahead. No skin off my back.	เชิญเลย ไม่กระทบผมหรอก
+P0201-0709	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Go ahead.\nNo skin off my back.	เชิญเลย\nไม่กระทบผมหรอก
+P0201-0710	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ยังไม่แปล]	(Konban Wife...)	(Konban Wife...)
+P0201-0711	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(The last place Kunimura\nwas seen alive.)	(สถานที่สุดท้ายที่มีคนเห็นคุนิมูระ\nตอนยังมีชีวิตอยู่)
+P0201-0712	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Welcome, sir.\nAny requests tonight?	ยินดีต้อนรับครับ\nคืนนี้มีอะไรอยากขอเป็นพิเศษไหมครับ?
+P0201-0713	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Welcome, sir.\nWould you like to request a girl?	ยินดีต้อนรับครับ\nอยากขอตัวสาวๆ คนไหนเป็นพิเศษไหมครับ?
+P0201-0714	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Yuna-chan, Marin-chan,\nand Kanae-chan are all free tonight.	คืนนี้ยูนะจัง มาริงจัง\nกับคาเนะจังว่างกันหมดเลยครับ
+P0201-0715	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Available right now are...\nYuna-chan, Marin-chan, and Kanae-chan.	ตอนนี้ว่างอยู่ก็มี...\nยูนะจัง มาริงจัง แล้วก็คาเนะจังครับ
+P0201-0716	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Here's their pictures.\nIt's 1,000 extra to make specific requests.	นี่รูปของพวกเธอครับ\nถ้าจะขอตัวเป็นพิเศษต้องจ่ายเพิ่มอีก 1,000
+P0201-0717	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Here are their pictures.\nIt'll cost 1,000 extra to request a specific girl.	นี่รูปของพวกเธอครับ\nถ้าอยากขอตัวคนใดคนหนึ่งต้อง จ่ายเพิ่มอีก 1,000
+P0201-0718	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Is this your first time here, sir?\nWhy don't we start by picking a duration?	นี่เป็นครั้งแรกที่มาที่นี่ หรือเปล่าครับ?\nเริ่มจากเลือกระยะเวลากันก่อนดี ไหมครับ?
+P0201-0719	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Is this your first time here, sir?\nWell, why don't we start by picking a duration?	นี่เป็นครั้งแรกที่มาที่นี่ หรือเปล่าครับ?\nงั้นเริ่มจากเลือกระยะเวลากัน ก่อนดีไหมครับ?
+P0201-0720	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		And any options you'd like.	แล้วก็ตัวเลือกเสริมที่อยาก ได้ด้วยครับ
+P0201-0721	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	We'll need your preferences as well.	แล้วก็ต้องขอทราบความต้องการของ คุณด้วยครับ
+P0201-0722	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Right, let's start at the top, huh?	เอาล่ะ เริ่มจากตรงนี้เลยนะ
+P0201-0723	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Well, let's start from the top.	เอาล่ะ เริ่มกันใหม่ตั้งแต่ต้นเลยนะ
+P0201-0724	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[ซ้ำในบท x2]	For durations, we have 35 minutes for 9,000 yen,\n50 minutes for 13,000 yen, or 65 minutes for 17,000 yen.	เรื่องเวลา มีให้เลือก 35 นาที 9,000 เยน\n50 นาที 13,000 เยน หรือ 65 นาที 17,000 เยน
+P0201-0725	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		That will work...	น่าจะพอไหว...
+P0201-0726	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Certainly a reasonable choice.	เป็นตัวเลือกที่เข้าท่าทีเดียว
+P0201-0727	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Though I'd truthfully suggest staying a little longer.\nEspecially for a first-timer like yourself.	แต่ถ้าให้แนะนำตามตรง อยู่นานกว่านี้อีกหน่อยจะดีกว่า\nโดยเฉพาะสำหรับมือใหม่แบบคุณ
+P0201-0728	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Though I'd truthfully suggest a little longer\nfor a first-timer like yourself.	แต่ถ้าให้แนะนำตามตรง นานกว่านี้อีกหน่อย\nจะดีกว่าสำหรับมือใหม่แบบคุณ
+P0201-0729	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Ultimately it's your choice, though.\nDon't worry, there's no wrong answer.	แต่สุดท้ายก็แล้วแต่คุณเลือกนะ\nไม่ต้องห่วง ไม่มีคำตอบไหนผิดหรอก
+P0201-0730	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Ah, the big 5-0.\nOur most popular duration.	อ้อ เลข 5-0 เลยเหรอ\nช่วงเวลาที่นิยมที่สุดของเราเลยล่ะ
+P0201-0731	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Not too short, but not too long.\nThe perfect length to soothe your body and mind.	ไม่สั้นไม่ยาวจนเกินไป\nช่วงเวลาที่พอดีจะผ่อนคลาย ทั้งกายและใจ
+P0201-0732	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		That's quite an honor, sir.	นี่ถือเป็นเกียรติเลยนะเนี่ย
+P0201-0733	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Your sincere enthusiasm\nwarms my heart, honest.	ความกระตือรือร้นจริงใจของคุณ\nทำให้ใจฟูขึ้นมาเลยนะ จริง ๆ
+P0201-0734	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	I'd say such enthusiasm deserves only\nthe highest quality of service.	ความกระตือรือร้นขนาดนี้สมควรได้รับ\nบริการระดับสูงสุดเท่านั้น
+P0201-0735	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		You know what? You can have any girl\nyou want, no request charge.	งั้นให้เลือกสาวคนไหนก็ได้ตามใจชอบเลย\nไม่คิดค่าระบุตัวเพิ่ม
+P0201-0736	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		And here, this is a little bonus.	แล้วก็นี่ ของแถมเล็ก ๆ น้อย ๆ
+P0201-0737	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		If you say so.\nSee you next time, sir.	ถ้าคุณว่างั้นก็ตามนั้น\nแล้วเจอกันใหม่นะ
+P0201-0738	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Welcome, sir.\nThis is your first time here, yes?	ยินดีต้อนรับ\nนี่เป็นครั้งแรกที่มาใช่ไหม?
+P0201-0739	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Again, for durations, we have 35 minutes for 9,000 yen,\n50 minutes for 13,000 yen, and 65 minutes for 17,000 yen.	ขอย้ำเรื่องเวลาอีกครั้ง มีให้เลือก 35 นาที 9,000 เยน\n50 นาที 13,000 เยน และ 65 นาที 17,000 เยน
+P0201-0740	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Did you have a specific girl in mind?	มีสาวคนไหนอยู่ในใจเป็นพิเศษไหม?
+P0201-0741	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		At the moment we have Yuna-chan, Marin-chan,\nand Kanae-chan.	ตอนนี้มียูนะจัง มาริงจัง\nและคานาเอะจัง
+P0201-0742	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[ซ้ำในบท x3]	A fine choice, sir.	เลือกได้ดีทีเดียว
+P0201-0743	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Yuna-chan, then...	ยูนะจังเหรอ...
+P0201-0744	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Something wrong, sir?\nYou wanted Yuna-chan, yes?	มีอะไรผิดปกติหรือเปล่า?\nคุณอยากได้ยูนะจังใช่ไหม?
+P0201-0745	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Marin-chan, then...	มาริงจังเหรอ...
+P0201-0746	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Something wrong, sir?\nYou wanted Marin-chan, yes?	มีอะไรผิดปกติหรือเปล่า?\nคุณอยากได้มาริงจังใช่ไหม?
+P0201-0747	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Kanae-chan, then...	คานาเอะจังเหรอ...
+P0201-0748	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Something wrong, sir?\nYou wanted Kanae-chan, yes?	มีอะไรผิดปกติหรือเปล่า?\nคุณอยากได้คานาเอะจังใช่ไหม?
+P0201-0749	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Great. Next you can pick any options\nyou'd like to add. There's quite a few.	เยี่ยม ต่อไปเลือกออปชันเสริม\nที่อยากได้ตามสบายเลย มีให้เลือกเยอะเลยนะ
+P0201-0750	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Of course, sir. Well...\nNext we'll have to determine your preferences.	ได้เลย ทีนี้...\nต้องมาดูกันว่าคุณชอบแบบไหน
+P0201-0751	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		You can discuss those\ndirectly with the girl.	เรื่องนั้นคุยตกลง\nกับตัวสาวคนนั้นได้โดยตรงเลย
+P0201-0752	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	You can sort through the options\nwith your partner.	ออปชันพวกนี้ไปตกลงกัน\nกับคู่หูของคุณได้เลย
+P0201-0753	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[ซ้ำในบท x2]	Oh, all kinds. Although not every girl\nis open to everything, you know.	โอ้ มีทุกแบบเลยนะ แต่ไม่ใช่ทุกคน\nจะโอเคกับทุกอย่างหรอกนะ
+P0201-0754	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก] [ซ้ำในบท x3]	The things you like.\nSome things are off the table for certain girls, though.	สิ่งที่คุณชอบน่ะแหละ\nแต่บางอย่างก็ทำไม่ได้กับสาวบางคน
+P0201-0755	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Lucky for you,\nYuna-chan isn't picky.	โชคดีนะที่\nยูนะจังไม่ค่อยเรื่องมาก
+P0201-0756	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Thankfully, Yuna-chan's okay with\npretty much anything.	โชคดีที่ยูนะจังโอเค\nแทบทุกอย่างเลย
+P0201-0757	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Well then,\nlet me show you to your room.	งั้น\nพาไปที่ห้องเลยนะ
+P0201-0758	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Well then, let me show you\nto your room.	งั้นพาไป\nที่ห้องเลยนะ
+P0201-0759	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Oh, all kinds. Although not every\ngirl is open to everything, you know.	โอ้ มีทุกแบบเลยนะ แต่ไม่ใช่ทุกคน\nจะโอเคกับทุกอย่างหรอกนะ
+P0201-0760	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		For example, kissing is a no-go\nwith Marin-chan.	ยกตัวอย่างเช่น จูบเป็นสิ่งที่ทำไม่ได้\nกับมาริงจัง
+P0201-0761	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Everything else is okay,\nbut she's saving her lips for her future husband.	อย่างอื่นโอเคหมด\nแต่ริมฝีปากเธอสงวนไว้ให้สามีในอนาคต
+P0201-0762	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Everything else is okay, but she's saving\nher lips for her future husband.	อย่างอื่นโอเคหมด แต่ริมฝีปากเธอสงวนไว้\nให้สามีในอนาคต
+P0201-0763	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Isn't that just the sweetest?	น่าประทับใจสุด ๆ เลยใช่ไหมล่ะ
+P0201-0764	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Well then, let me show you to your room.\nRight this way, sir.	งั้นพาไปที่ห้องเลยนะ\nเชิญทางนี้เลย
+P0201-0765	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		All you need to know about Kanae-chan is,\nshe doesn't do blindfolds.	เรื่องคานาเอะจังที่ต้องรู้ไว้ก็คือ\nเธอไม่เล่นผ้าปิดตา
+P0201-0766	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Yes, sir. She... had a bad experience\nwith them when she was younger.	ใช่แล้ว เธอ... เคยมีประสบการณ์ไม่ดี\nกับมันตอนยังเด็ก
+P0201-0767	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Yes, well... You came here\nto forget all of that, yes?	ใช่แล้ว เอ่อ... คุณมาที่นี่\nก็เพื่อลืมเรื่องพวกนั้นใช่ไหมล่ะ?
+P0201-0768	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Yes, well... You came here to\nforget all of that, yes?	ใช่แล้ว เอ่อ... คุณมาที่นี่เพื่อ\nลืมเรื่องพวกนั้นใช่ไหมล่ะ?
+P0201-0769	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Anyway, let me show you to your room.\nRight this way, sir.	เอาล่ะ พาไปที่ห้องเลยนะ\nเชิญทางนี้เลย
+P0201-0770	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Hm? Changed your mind, sir? Just remember,\nyou can't change once the session starts.	หืม? เปลี่ยนใจแล้วเหรอ? อย่าลืมนะ\nพอเริ่มแล้วเปลี่ยนไม่ได้แล้ว
+P0201-0771	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	Hm? Changed your mind, sir?\nMake your choice now—you can't change mid-session.	หืม? เปลี่ยนใจแล้วเหรอ?\nตัดสินใจตอนนี้เลยนะ กลางคันเปลี่ยนไม่ได้
+P0201-0772	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		So, we currently have Yuna-chan, Marin-chan,\nand Kanae-chan. Who would you like to see?	ตอนนี้มียูนะจัง มาริงจัง\nและคานาเอะจัง อยากเจอใครดี?
+P0201-0773	พากย์ · speech_list_judge_main_c02	wife_boy (ช)	[อีกแทร็ก]	So, we currently have Yuna-chan, Marin-chan, and Kanae-chan.\nWho would you like to see?	ตอนนี้มียูนะจัง มาริงจัง และคานาเอะจัง\nอยากเจอใครดี?
+P0201-0774	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม]	Huh? Oh...	หือ? อ้อ...
+P0201-0775	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Huh? I, uh...	หา? ผม เอ่อ...
+P0201-0776	พากย์ · speech_list_judge_main_c02	Yagami (ช)		So I don't have to pick any of them?\nI see.	งั้นผมไม่ต้องเลือกคนไหนก็ได้เหรอ?\nเข้าใจแล้ว
+P0201-0777	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	So I don't have to pick\nany of them?	งั้นผมไม่ต้องเลือก\nคนไหนก็ได้เหรอ?
+P0201-0778	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Duration...?	ระยะเวลา...?
+P0201-0779	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Options?	ตัวเลือก?
+P0201-0780	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	...Preferences?	...ความชอบเหรอ?
+P0201-0781	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Let's do 35 minutes?	เอา 35 นาทีดีไหม?
+P0201-0782	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	I'll go with the 35 minute one.	เอา 35 นาทีก็แล้วกัน
+P0201-0783	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม] [ซ้ำในบท x2]	Interesting...	น่าสนใจ...
+P0201-0784	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Let's do 50 minutes?	เอา 50 นาทีดีไหม?
+P0201-0785	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	I'll go with the 50 minute one.	เอา 50 นาทีก็แล้วกัน
+P0201-0786	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Let's do 65 minutes.	เอา 65 นาทีดีกว่า
+P0201-0787	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	I'll go with the 65 minute one.	เอา 65 นาทีก็แล้วกัน
+P0201-0788	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Wow, really?	ว้าว จริงเหรอ?
+P0201-0789	พากย์ · speech_list_judge_main_c02	Yagami (ช)		The service here isn't half bad...	บริการที่นี่ก็ไม่เลวเลยนะ...
+P0201-0790	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Maybe I'll come back later.	เอาไว้มาใหม่ทีหลังดีกว่า
+P0201-0791	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Oh crap, I, uh... I'm a little short.\nI better come back later. Sorry.	อุ๊ย แย่แล้ว เอ่อ... เงินไม่พอน่ะ\nขอมาใหม่ทีหลังก็แล้วกัน ขอโทษที
+P0201-0792	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Hold on, I don't have enough.\nSorry about that. I'll uh, be back later.	เดี๋ยวนะ เงินไม่พอ\nขอโทษจริง ๆ เดี๋ยวมาใหม่นะ
+P0201-0793	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I'll go with Yuna-chan.	เอายูนะจังก็แล้วกัน
+P0201-0794	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I'll go with Marin-chan.	เอามาริงจังก็แล้วกัน
+P0201-0795	พากย์ · speech_list_judge_main_c02	Yagami (ช)		I'll go with Kanae-chan.	เอาคานาเอะจังก็แล้วกัน
+P0201-0796	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Yup, Yuna-chan it is.	ใช่ เอายูนะจังนี่แหละ
+P0201-0797	พากย์ · speech_list_judge_main_c02	Yagami (ช)		What kind of options are we talking?	ออปชันแบบไหนกันล่ะ?
+P0201-0798	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	What do you mean, preferences?	หมายความว่าไง 'ชอบแบบไหน' น่ะ?
+P0201-0799	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Yup, Marin-chan it is.	ใช่ เอามาริงจังนี่แหละ
+P0201-0800	พากย์ · speech_list_judge_main_c02	wife_boy (ช)		Yup, Kanae-chan it is.	ใช่ เอาคานาเอะจังนี่แหละ
+P0201-0801	พากย์ · speech_list_judge_main_c02	Yagami (ช)		...Blindfolds?	...ผ้าปิดตาเหรอ?
+P0201-0802	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Blindfolds?	ผ้าปิดตา?
+P0201-0803	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Sorry to hear that. Guess there have been\nall those murders lately, too.	น่าเสียใจด้วยนะ แถมช่วงนี้ก็มีข่าว\nฆาตกรรมพวกนั้นด้วยสิ
+P0201-0804	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Sorry to hear it. With trauma like that,\nall these murders lately can't be helping.	น่าเสียใจด้วย บาดแผลใจแบบนั้น\nข่าวฆาตกรรมช่วงนี้คงยิ่ง ซ้ำเติมเข้าไปอีก
+P0201-0805	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม]	Actually, uh... hold on.	เอ่อ จริง ๆ แล้ว... เดี๋ยวก่อนนะ
+P0201-0806	พากย์ · speech_list_judge_main_c02	Yagami (ช)		<color=ｍonologue>(Is that the right name...?)</color>	<color=ｍonologue>(ชื่อนี้ใช่จริงหรือเปล่านะ...?)</color>
+P0201-0807	พากย์ · speech_list_judge_main_c02	Matugane (ช)		Hey. Take a seat.	มานี่สิ นั่งก่อน
+P0201-0808	พากย์ · speech_list_judge_main_c02	Kengo (ช)		I have a message from\nCaptain Hamura, Yagami-san.	ผมมีข้อความจาก\nกัปตันฮามุระมาฝาก ยากามิซัง
+P0201-0809	พากย์ · speech_list_judge_main_c02	Kengo (ช)	[อีกแทร็ก]	I have a message from Captain Hamura,\nYagami-san.	ผมมีข้อความจากกัปตันฮามุระ\nมาฝาก ยากามิซัง
+P0201-0810	พากย์ · speech_list_judge_main_c02	Kengo (ช)		He says to go see him right away.	เขาบอกให้ไปหาเดี๋ยวนี้เลย
+P0201-0811	พากย์ · speech_list_judge_main_c02	Kengo (ช)		He's waiting for you at Café Alps.\nHe... wants to talk.	เขารออยู่ที่คาเฟ่อัลป์ส\nเขา... อยากคุยด้วย
+P0201-0812	พากย์ · speech_list_judge_main_c02	Kengo (ช)	[อีกแทร็ก]	He's waiting for you at Café Alps.\nHe says he wants to talk to you.	เขารออยู่ที่คาเฟ่อัลป์ส\nบอกว่าอยากคุยด้วย
+P0201-0813	พากย์ · speech_list_judge_main_c02	Kengo (ช)		Don't piss him off, Yagami-san.	อย่าไปทำให้เขาโมโหนะ ยากามิซัง
+P0201-0814	พากย์ · speech_list_judge_main_c02	Kengo (ช)	[อีกแทร็ก]	I suggest you don't piss him off.	แนะนำว่าอย่าไปทำให้เขาโมโห
+P0201-0815	พากย์ · speech_list_judge_main_c02	Kengo (ช)		Unless you wanna lose your eyes too.	เว้นแต่จะอยากเสียดวงตาไปด้วย
+P0201-0816	พากย์ · speech_list_judge_main_c02	Kengo (ช)	[อีกแทร็ก]	You might just lose\nthose eyes of yours, too.	เดี๋ยวดวงตาคู่นั้น\nอาจหายไปด้วยก็ได้นะ
+P0201-0817	พากย์ · speech_list_judge_main_c02	Matugane (ช)		Forgive me if this is rude,\nbut I'll cut right to the chase, my boy.	ขอโทษถ้าพูดตรงไปหน่อยนะ\nแต่ผมจะเข้าเรื่องเลย เจ้าหนู
+P0201-0818	พากย์ · speech_list_judge_main_c02	Matugane (ช)	[อีกแทร็ก]	You'll have to excuse my frankness, Tak.\nI'll cut right to the chase.	ขอให้ยกโทษที่พูดตรง ๆ นะ ทาคุ\nผมจะเข้าเรื่องเลย
+P0201-0819	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		I don't know what's going on between you and Hamura,\nbut there's nothing I can do to help.	ผมไม่รู้หรอกว่าเกิดอะไรขึ้น ระหว่างคุณกับฮามุระ\nแต่ผมช่วยอะไรไม่ได้จริง ๆ
+P0201-0820	พากย์ · speech_list_judge_main_c02	Matsugane (ช)	[อีกแทร็ก]	I don't know what's going on between you and Hamura...\nbut there's nothing I can do to help.	ผมไม่รู้หรอกว่าเกิดอะไรขึ้น ระหว่างคุณกับฮามุระ...\nแต่ผมช่วยอะไรไม่ได้จริง ๆ
+P0201-0821	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		You'd just be wasting your time.	พูดไปก็เสียเวลาเปล่า
+P0201-0822	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		Hamura's been bankrolling the family for a while now.\nI get by on the scraps he leaves me. I'm... just a figurehead.	ฮามุระเป็นคนออกเงินเลี้ยง ตระกูลมาพักใหญ่แล้ว\nผมอยู่ได้ด้วยเศษเงินที่เขาแบ่งให้ ผม... เป็นแค่หุ่นเชิด
+P0201-0823	พากย์ · speech_list_judge_main_c02	Matsugane (ช)	[อีกแทร็ก]	Hamura's been bankrolling the family for a while now.\nI get by on his scraps, but... I'm just a figurehead.	ฮามุระเป็นคนออกเงินเลี้ยง ตระกูลมาพักใหญ่แล้ว\nผมอยู่ได้ด้วยเศษเงินของเขา แต่... ผมเป็นแค่หุ่นเชิด
+P0201-0824	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		The clan will do the things\nI ask of them, yes.	ตระกูลนี้ยังทำตาม\nที่ผมสั่งอยู่นะ ใช่
+P0201-0825	พากย์ · speech_list_judge_main_c02	Matsugane (ช)	[อีกแทร็ก]	Make no mistake, the family will\ndo the things I ask of them.	อย่าเข้าใจผิด ตระกูลนี้ยังทำตาม\nที่ผมสั่งอยู่
+P0201-0826	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		But if they had to choose between\nmy orders and Hamura's...	แต่ถ้าต้องเลือกระหว่าง\nคำสั่งผมกับของฮามุระ...
+P0201-0827	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		Who knows?\nMaybe they would choose not to hear me.	ใครจะไปรู้\nบางทีพวกเขาอาจเลือกไม่ฟังผมก็ได้
+P0201-0828	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		Years. The prime of my career was...\nWell, it ended back when I was raising you.	หลายปีแล้ว ช่วงรุ่งโรจน์ของผม...\nก็จบลงตอนที่เลี้ยงดูคุณนี่แหละ
+P0201-0829	พากย์ · speech_list_judge_main_c02	Matsugane (ช)	[อีกแทร็ก]	Years. The prime of my career was...\nWell, it ended while I was raising you.	หลายปีแล้ว ช่วงรุ่งโรจน์ของผม...\nก็จบลงตอนที่กำลังเลี้ยงดูคุณอยู่
+P0201-0830	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		If only Kaito were still in the family...\nMaybe things wouldn't have turned out like this.	ถ้าไคโตะยังอยู่ในตระกูล...\nเรื่องอาจไม่จบแบบนี้ก็ได้
+P0201-0831	พากย์ · speech_list_judge_main_c02	Matsugane (ช)	[อีกแทร็ก]	If Kaito had only just stuck around...\nmaybe Hamura couldn't have taken control.	ถ้าไคโตะอยู่ต่อ...\nฮามุระอาจไม่มีทางยึดอำนาจได้
+P0201-0832	พากย์ · speech_list_judge_main_c02	Matsugane (ช)		Actually, we are.	จบแล้วล่ะ
+P0201-0833	พากย์ · speech_list_judge_main_c02	Yagami (ช)		What do you mean? You're not even gonna\nhear my side of the story?	หมายความว่ายังไง? จะไม่ยอมฟัง\nเรื่องราวจากฝั่งผมเลยเหรอครับ?
+P0201-0834	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	What do you mean, you can't help?\nYou're not even gonna hear my side?	หมายความว่าไงที่ช่วยไม่ได้?\nจะไม่ฟังเรื่องจากฝั่งผมเลยเหรอครับ?
+P0201-0835	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[ใช้ร่วม] [ต้องกลางเพศ]	But...	แต่...
+P0201-0836	พากย์ · speech_list_judge_main_c02	Yagami (ช)		How long has it been like this!?	เป็นแบบนี้มานานแค่ไหนแล้วครับ!?
+P0201-0837	พากย์ · speech_list_judge_main_c02	Yagami (ช)	[อีกแทร็ก]	Boss, how long has it been like this!?	โอยาบุน เป็นแบบนี้มานานแค่ไหนแล้วครับ!?
+P0201-0838	พากย์ · speech_list_judge_main_c02	Kengo (ช)	[ใช้ร่วม]	Matsugane-san!	ท่านมัตสึกาเนะ!
+P0201-0839	พากย์ · speech_list_judge_main_c02	Kengo (ช)	[อีกแทร็ก] [ใช้ร่วม]	Matsugane-san.	มัตสึกาเนะซัง
+P0201-0840	พากย์ · speech_list_judge_main_c02	Yagami (ช)		We're not done here.	เรื่องนี้ยังไม่จบครับ
+P0201-0841	พากย์ · speech_list_judge_main_c02	Yagami (ช)		Fine.\nI'll head over when I feel like it.	ก็ได้\nจะไปตอนที่อยากไปนั่นแหละ
+P0201-0842	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Hamura's apparently waiting for me\nat Café Alps.)	(ได้ยินว่าฮามุระรออยู่\nที่คาเฟ่อัลป์ส)
+P0201-0843	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Guess it would be bad\nif I didn't show.)	(คงไม่ดีแน่\nถ้าไม่ไปหา)
+P0201-0844	พากย์ · speech_list_judge_main_c02	alpes_boy (ช)		Welcome, sir.\nPlease take a seat wherever you'd like.	ยินดีต้อนรับครับ\nนั่งตรงไหนก็ได้ตามสบายเลยครับ
+P0201-0845	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Wasn't Hamura supposed to\nbe here already?)	(ฮามุระไม่ใช่ว่าควรจะ\nมาถึงแล้วเหรอ?)
+P0201-0846	พากย์ · speech_list_judge_main_c02	Yagami (ช)		(Still haven't heard back from Kaito-san.\nGuess I'll see if there's anything going on outside.)	(ยังไม่ได้ข่าวจากไคโตะซังเลย\nออกไปดูข้างนอกดีกว่า เผื่อมีอะไร เกิดขึ้น)
+P0201-0847	ตัวเลือก · M02_00100_select_01	Yagami (ตัวเลือก) (ช)		Don't worry. We can do it.	ไม่ต้องห่วง เราทำได้แน่
+P0201-0848	ตัวเลือก · M02_00100_select_01	Yagami (ตัวเลือก) (ช)		We have to do it.	เราต้องทำให้ได้
+P0201-0849	ตัวเลือก · M02_00100_select_01	Yagami (ตัวเลือก) (ช)		Shut up, you're making me doubt myself.	เงียบไปเลย นายทำให้ผมไม่มั่นใจตัวเองแล้ว
+P0201-0850	ตัวเลือก · M02_03000_select_01	Yagami (ตัวเลือก) (ช)		50 mins - 13,000 yen	50 นาที - 13,000 เยน
+P0201-0851	ตัวเลือก · M02_03000_select_01	Yagami (ตัวเลือก) (ช)		65 mins - 17,000 yen	65 นาที - 17,000 เยน
+P0201-0852	ตัวเลือก · M02_03000_select_01	Yagami (ตัวเลือก) (ช)	[ใช้ร่วม]	Leave	ออกไป
+P0201-0853	ตัวเลือก · M02_03000_select_01	Yagami (ตัวเลือก) (ช)		35 mins - 9,000 yen	35 นาที - 9,000 เยน
+P0201-0854	ตัวเลือก · M02_03000_select_02	Yagami (ตัวเลือก) (ช)		Yuna-chan	ยูนะจัง
+P0201-0855	ตัวเลือก · M02_03000_select_02	Yagami (ตัวเลือก) (ช)		Marin-chan	มารินจัง
+P0201-0856	ตัวเลือก · M02_03000_select_02	Yagami (ตัวเลือก) (ช)		Kanae-chan	คานาเอะจัง
+P0201-0857	ตัวเลือก · M02_03000_select_03	Yagami (ตัวเลือก) (ช)	[ใช้ร่วม]	Hold on.	เดี๋ยวก่อน
+P0201-0858	เป้าหมายภารกิจ · judge_m_M02_00200	(ข้อความระบบ) (กลาง)	[ใช้ร่วม] [ซ้ำในบท x14]	Chapter 2: Beneath the Surface	บทที่ 2: ใต้พื้นผิว
+P0201-0859	เป้าหมายภารกิจ · judge_m_M02_00200	(ข้อความระบบ) (กลาง)		Head to the Second Crime Scene	ไปยังที่เกิดเหตุแห่งที่สอง
+P0201-0860	เป้าหมายภารกิจ · judge_m_M02_00200	(ข้อความระบบ) (กลาง)		We need to learn more about the Mole, but he's practically invisible. Maybe I'll find some clues at a previous crime scene...	เราต้องรู้เรื่องไอ้ตัวตุ่นให้ มากกว่านี้ แต่แทบไม่มีร่องรอยเลย บางทีอาจเจอเบาะแสจาก ที่เกิดเหตุก่อนหน้า...
+P0201-0861	เป้าหมายภารกิจ · judge_m_M02_00600	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Speak with Genda	พูดคุยกับเก็นดะ
+P0201-0862	เป้าหมายภารกิจ · judge_m_M02_00600	(ข้อความระบบ) (กลาง)		What is the deal with those masked robbers? Eh, forget it. I should go check in with Genda-sensei.	พวกโจรสวมหน้ากากนั่นมันเรื่อง อะไรกันแน่ เอาเถอะ ช่างมันก่อน ผมควรไปหาอาจารย์เก็นดะ
+P0201-0863	เป้าหมายภารกิจ · judge_m_M02_01000	(ข้อความระบบ) (กลาง)		Meet Kaito at Koi Bride	ไปพบไคโตะที่โคอิไบรด์
+P0201-0864	เป้าหมายภารกิจ · judge_m_M02_01000	(ข้อความระบบ) (กลาง)		Meeting up at a fish pond? What kind of officer is Ayabe, anyway?	นัดเจอกันที่บ่อปลาเนี่ยนะ อายาเบะมันตำรวจแบบไหนกันแน่
+P0201-0865	เป้าหมายภารกิจ · judge_m_M02_01600	(ข้อความระบบ) (กลาง)		Check the Counter	ตรวจดูที่เคาน์เตอร์
+P0201-0866	เป้าหมายภารกิจ · judge_m_M02_01600	(ข้อความระบบ) (กลาง)		A test? Really? Wonder what's behind the counter...	บททดสอบเหรอ จริงดิ สงสัยจังว่าหลังเคาน์เตอร์มีอะไร...
+P0201-0867	เป้าหมายภารกิจ · judge_m_M02_01800	(ข้อความระบบ) (กลาง)		Go Downstairs	ลงไปชั้นล่าง
+P0201-0868	เป้าหมายภารกิจ · judge_m_M02_01800	(ข้อความระบบ) (กลาง)		Wow, an underground casino. The perfect place for a... cop?	โอ้โห บ่อนใต้ดิน สถานที่เหมาะเจาะสำหรับ... ตำรวจ?
+P0201-0869	เป้าหมายภารกิจ · judge_m_M02_02000	(ข้อความระบบ) (กลาง)		Play a Few Rounds	เล่นสักสองสามตา
+P0201-0870	เป้าหมายภารกิจ · judge_m_M02_02000	(ข้อความระบบ) (กลาง)		Might as well try to fit in while I wait.	ในเมื่อต้องรออยู่แล้ว ลองกลมกลืนไปกับที่นี่สักหน่อยดีกว่า
+P0201-0871	เป้าหมายภารกิจ · judge_m_M02_02100	(ข้อความระบบ) (กลาง)	[ใช้ร่วม] [ซ้ำในบท x2]	Return to Yagami Detective Agency	กลับไปที่สำนักงานนักสืบยากามิ
+P0201-0872	เป้าหมายภารกิจ · judge_m_M02_02100	(ข้อความระบบ) (กลาง)		Ayabe got me some intel on the Mole. I should give it a closer look back at the office.	อายาเบะหาข่าวเรื่องไอ้ตัวตุ่นมาให้ผม ผมควรกลับไปดูให้ละเอียดที่ออฟฟิศ
+P0201-0873	เป้าหมายภารกิจ · judge_m_M02_02700	(ข้อความระบบ) (กลาง)		Check the Intel	ตรวจดูข่าวกรอง
+P0201-0874	เป้าหมายภารกิจ · judge_m_M02_02700	(ข้อความระบบ) (กลาง)		Did those guys attack me for what's in this envelope? It only makes me more curious.	พวกนั้นทำร้ายผมเพราะของในซองนี้เหรอ ยิ่งทำให้ผมอยากรู้เข้าไปใหญ่
+P0201-0875	เป้าหมายภารกิจ · judge_m_M02_02900	(ข้อความระบบ) (กลาง)		Gather Intel at Konban Wife	หาข่าวที่ Konban Wife
+P0201-0876	เป้าหมายภารกิจ · judge_m_M02_02900	(ข้อความระบบ) (กลาง)		Kunimura was the Mole's second victim, and he apparently hung out here. But Kaito isn't making this any easier...	คุนิมุระคือเหยื่อรายที่สองของ ไอ้ตัวตุ่น แล้วเขาก็เคยมาป้วนเปี้ยนอยู่แถวนี้ แต่ไคโตะไม่ได้ทำให้เรื่องนี้ ง่ายขึ้นเลย...
+P0201-0877	เป้าหมายภารกิจ · judge_m_M02_03100	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Head to the Matsugane Family Office	ไปที่สำนักงานตระกูลมัตสึกาเนะ
+P0201-0878	เป้าหมายภารกิจ · judge_m_M02_03100	(ข้อความระบบ) (กลาง)		So Hamura knew everything... But I'm glad I wasn't completely off the mark. Maybe Matsugane-san can make this easier on me.	งั้นฮามุระก็รู้ทุกอย่าง... แต่ก็ดีใจที่ผมเดาไม่ผิดไปซะทั้งหมด บางทีมัตสึกาเนะซังอาจช่วยให้ เรื่องนี้ง่ายขึ้นก็ได้
+P0201-0879	เป้าหมายภารกิจ · judge_m_M02_03400	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Head to Café Alps	ไปที่คาเฟ่อัลป์ส
+P0201-0880	เป้าหมายภารกิจ · judge_m_M02_03400	(ข้อความระบบ) (กลาง)		Hamura wants to meet up. Matsugane-san can't do anything, so it's time to take the bull by the horns.	ฮามุระอยากนัดเจอ ในเมื่อมัตสึกาเนะซังทำอะไรไม่ได้ ก็ถึงเวลาที่ผมต้องจัดการเองแล้ว
+P0201-0881	เป้าหมายภารกิจ · judge_m_M02_03400_2	(ข้อความระบบ) (กลาง)		Take an Open Seat	นั่งที่ว่าง
+P0201-0882	เป้าหมายภารกิจ · judge_m_M02_03400_2	(ข้อความระบบ) (กลาง)		Hamura's not here yet. Guess I'll wait.	ฮามุระยังไม่มา งั้นรอไปก่อนแล้วกัน
+P0201-0883	เป้าหมายภารกิจ · judge_m_M02_side_a30	(ข้อความระบบ) (กลาง)	[ใช้ร่วม]	Head to Millennium Tower	ไปที่มิลเลนเนียมทาวเวอร์
+P0201-0884	เป้าหมายภารกิจ · judge_m_M02_side_a30	(ข้อความระบบ) (กลาง)		What was up with that drone!? Talk about dangerous! I should follow it to the Millennium Tower.	โดรนนั่นมันอะไรกันเนี่ย!? อันตรายชะมัด ผมควรตามมันไปที่มิลเลนเนียมทาวเวอร์
+P0201-0885	เป้าหมายภารกิจ · judge_m_M02_side_a11_start	(ข้อความระบบ) (กลาง)		An infidelity case might be a nice change of pace. I'll meet the client at the office.	คดีนอกใจอาจช่วยเปลี่ยนบรรยากาศ ได้บ้าง ผมจะไปพบลูกความที่ออฟฟิศ

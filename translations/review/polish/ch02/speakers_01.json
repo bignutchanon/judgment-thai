@@ -1,0 +1,121 @@
+[
+ {
+  "id": "P0201-0001",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0002",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0003",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0004",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0005",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0006",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0007",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0008",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0009",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0010",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0011",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0012",
+  "speaker": "Narration",
+  "gender": "unknown",
+  "conf": "high",
+  "why": "คำบรรยายทวนเรื่อง ไม่มีผู้พูด"
+ },
+ {
+  "id": "P0201-0541",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "เรียกไคโตะไม่มีซัง (ซากานะซึกิเรียก ไคโตะซัง) และตามหลังยากามิถามว่า And these guys?"
+ },
+ {
+  "id": "P0201-0542",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ถามหาอายาเบะต่อจาก 0541 — เป็นคำถามของฝั่งยากามิ/ไคโตะ ไม่ใช่ซากานะซึกิ"
+ },
+ {
+  "id": "P0201-0654",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "ตอบอายาเบะที่บอกอย่าเปิดซองตรงนี้ (0617) — ผู้ถือซองคือยากามิ"
+ },
+ {
+  "id": "P0201-0655",
+  "speaker": "Yagami",
+  "gender": "male",
+  "conf": "med",
+  "why": "อีกแทร็กของ 0654"
+ },
+ {
+  "id": "P0201-0844",
+  "speaker": "alpes_boy",
+  "gender": "female",
+  "conf": "med",
+  "why": "ทะเบียนเพศ alpes_boy = หญิง (sex=2) ขัดกับป้ายชิ้นที่เป็นชาย"
+ }
+]

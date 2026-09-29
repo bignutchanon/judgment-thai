@@ -1,0 +1,100 @@
+[
+{
+"id": "P0201-0001",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0002",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0003",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0004",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0005",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0006",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0007",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0008",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0009",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0010",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0011",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0012",
+"speaker": "Narration",
+"gender": "unknown",
+"conf": "high",
+"why": "คำบรรยายทวนเรื่องเปิดบท ไม่มีตัวละครพูด"
+},
+{
+"id": "P0201-0390",
+"speaker": "Saori",
+"gender": "female",
+"conf": "med",
+"why": "อีกแทร็กของบรรทัด 0389 ซึ่งเป็นซาโอริ ผู้พูดต้องคนเดียวกัน ป้ายเดิมเป็นโฮชิโนะ"
+},
+{
+"id": "P0201-0844",
+"speaker": "alpes_boy",
+"gender": "female",
+"conf": "med",
+"why": "ทะเบียนเพศ alpes_boy = หญิง (sex=2) ขัดกับป้ายชิ้น ช"
+}
+]
